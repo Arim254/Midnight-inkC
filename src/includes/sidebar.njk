@@ -1,0 +1,28 @@
+<!-- Search Bar -->
+<div class="search-widget">
+  <input type="text" placeholder="Search">
+  <button><i class="fas fa-search"></i></button>
+</div>
+
+<!-- Weather Widget -->
+{% include "weather-widget.njk" %}
+
+<!-- Finance Widget -->
+<div class="finance-widget transparent">
+  <h3>Finance</h3>
+  <ul id="finance-news-list">
+    {% for article in finance.slice(0, 3) %}
+    <li class="finance-item">
+      <a href="{{ article.url }}">
+        <img src="{{ article.image }}" alt="{{ article.title }}">
+        <div class="finance-info">
+          <h4>{{ article.title }}</h4>
+          <span class="date">{{ article.date }}</span>
+        </div>
+      </a>
+    </li>
+    {% endfor %}
+    <!-- Ad Slot -->
+    <li>{% include "ad-slot.njk" %}</li>
+  </ul>
+</div>

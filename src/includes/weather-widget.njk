@@ -1,0 +1,36 @@
+<div class="weather-widget transparent">
+  <!-- Location & Condition -->
+  <div class="weather-header">
+    <h3 id="weather-city">Loading...</h3>
+    <p id="weather-status">--</p>
+  </div>
+
+  <!-- Icon + Current Temp -->
+  <div class="weather-main">
+    <canvas id="weather-icon" width="64" height="64"></canvas>
+    <span id="weather-temp">--°C</span>
+  </div>
+
+  <!-- Weather Details Row -->
+  <div class="weather-details">
+    <div class="detail-item">
+      <small>Humidity</small>
+      <span id="weather-humidity">--%</span>
+    </div>
+    <div class="detail-item">
+      <small>Wind</small>
+      <span id="weather-wind">-- km/h</span>
+    </div>
+    <div class="detail-item">
+      <small>Precip</small>
+      <span id="weather-rain">--mm</span>
+    </div>
+  </div>
+
+  <!-- Forecast Strip -->
+  <div class="weather-forecast-card">
+    <div id="weather-forecast" class="weather-forecast">
+      <!-- 4-day forecast icons dynamically inserted -->
+    </div>
+  </div>
+</div>

@@ -1,0 +1,9 @@
+---
+layout: category.njk
+title: Finance
+pagination:
+  data: financep
+  size: 10
+  alias: articles
+permalink: "/finance/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}/{% endif %}"
+---

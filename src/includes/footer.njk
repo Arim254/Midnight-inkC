@@ -1,0 +1,48 @@
+<footer class="site-footer">
+  <div class="container footer-top">
+    <!-- Featured Articles (left) -->
+    <div class="footer-featured">
+      <h3>Featured Articles</h3>
+      <ul class="footer-articles">
+        {% if trending and trending[0] %}
+          <li><a href="{{ trending[0].url }}">{{ trending[0].title }}</a></li>
+        {% endif %}
+        {% if worldnews and worldnews[0] %}
+          <li><a href="{{ worldnews[0].url }}">{{ worldnews[0].title }}</a></li>
+        {% endif %}
+        {% if tech and tech[0] %}
+          <li><a href="{{ tech[0].url }}">{{ tech[0].title }}</a></li>
+        {% endif %}
+        {% if culture and culture[0] %}
+          <li><a href="{{ culture[0].url }}">{{ culture[0].title }}</a></li>
+        {% endif %}
+      </ul>
+    </div>
+
+    <!-- Newsletter (far right) -->
+    <div class="footer-newsletter">
+      <h3>Newsletter</h3>
+      <p class="newsletter-copy">Get our weekly newsletter — no spam.</p>
+
+      <form class="newsletter-form" action="#" method="post" novalidate>
+        <input type="email" name="email" placeholder="Your email" required>
+        <button type="submit">Subscribe</button>
+      </form>
+
+      <span class="newsletter-note">We respect your privacy.</span>
+    </div>
+  </div>
+
+  <div class="container footer-bottom">
+    <p>© Copyright - Midnight Ink</p>
+    <nav class="footer-nav">
+      <a href="/">Home</a>
+      <a href="/pages/tech/">Tech</a>
+      <a href="/pages/politics/">Politics</a>
+      <a href="/pages/entertainment/">Entertainment</a>
+      <a href="/pages/finance/">Finance</a>
+      <a href="/pages/music/">Music</a>
+      <a href="/pages/life/">Life</a>
+    </nav>
+  </div>
+</footer>

@@ -1,0 +1,59 @@
+{% extends "./base.njk" %}
+
+{% block content %}
+<div class="category-page container">
+
+  <!-- Main content + sidebar wrapper -->
+  <div class="content-grid">
+
+    <!-- Main column -->
+    <main class="main-column">
+      <h1 class="category-title">{{ title }}</h1>
+
+      <div class="articles-grid">
+        {% for article in articles %}
+          <article class="article-card" data-body="{{ article.body | safe }}">
+            <a href="{{ article.url }}">
+              <img src="{{ article.image or '/assets/images/news/default.jpg' }}" alt="{{ article.title }}">
+              <h2>{{ article.title }}</h2>
+            </a>
+            <p class="meta">
+              <span class="date">{{ article.date }}</span> | <span class="tag">{{ article.tag or title }}</span>
+            </p>
+            <p class="excerpt">{{ article.description }}</p>
+          </article>
+        {% endfor %}
+      </div>
+
+      <!-- Pagination controls -->
+      {% if pagination.pages.length > 1 %}
+      <nav class="pagination">
+        {% if pagination.href.previous %}
+          <a href="{{ pagination.href.previous }}" class="prev">← Previous</a>
+        {% endif %}
+        <span>Page {{ pagination.pageNumber + 1 }} of {{ pagination.pages.length }}</span>
+        {% if pagination.href.next %}
+          <a href="{{ pagination.href.next }}" class="next">Next →</a>
+        {% endif %}
+      </nav>
+      {% endif %}
+    </main>
+
+    <!-- Sidebar -->
+    <aside class="sidebar">
+      <h2>Latest {{ title }}</h2>
+      <ul class="sidebar-list">
+        {% for article in articles | slice(0,5) %}
+        <li>
+          <a href="{{ article.url }}">
+            <img src="{{ article.image or '/assets/images/news/default.jpg' }}" alt="{{ article.title }}">
+            <span>{{ article.title }}</span>
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
+    </aside>
+
+  </div>
+</div>
+{% endblock %}
