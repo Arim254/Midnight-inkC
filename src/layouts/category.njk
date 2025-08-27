@@ -3,52 +3,63 @@
 {% block content %}
 <div class="category-page container">
 
-  <!-- Main content + sidebar wrapper -->
-  <div class="content-grid">
+  <!-- Header -->
+  <div class="category-header">
+    <h1 class="category-title">{{ title }}</h1>
+  </div>
+
+  <!-- Main + Sidebar -->
+  <div class="category-grid">
 
     <!-- Main column -->
-    <main class="main-column">
-      <h1 class="category-title">{{ title }}</h1>
-
-      <div class="articles-grid">
+    <main class="category-main">
+      {% if articles and articles.length %}
         {% for article in articles %}
-          <article class="article-card" data-body="{{ article.body | safe }}">
+        <article class="category-article">
+          <div class="article-image">
             <a href="{{ article.url }}">
               <img src="{{ article.image or '/assets/images/news/default.jpg' }}" alt="{{ article.title }}">
-              <h2>{{ article.title }}</h2>
             </a>
-            <p class="meta">
-              <span class="date">{{ article.date }}</span> | <span class="tag">{{ article.tag or title }}</span>
-            </p>
+          </div>
+          <div class="article-content">
+            <h2 class="article-title">
+              <a href="{{ article.url }}">{{ article.title }}</a>
+            </h2>
+            <p class="date">{{ article.date | readableDate }} | {{ article.tag or title }}</p>
             <p class="excerpt">{{ article.description }}</p>
-          </article>
+          </div>
+        </article>
         {% endfor %}
-      </div>
 
-      <!-- Pagination controls -->
-      {% if pagination.pages.length > 1 %}
-      <nav class="pagination">
-        {% if pagination.href.previous %}
-          <a href="{{ pagination.href.previous }}" class="prev">← Previous</a>
+        <!-- Pagination -->
+        {% if pagination.pages.length > 1 %}
+        <nav class="pagination">
+          {% if pagination.href.previous %}
+            <a href="{{ pagination.href.previous }}" class="prev">← Previous</a>
+          {% endif %}
+          <span>Page {{ pagination.pageNumber + 1 }} of {{ pagination.pages.length }}</span>
+          {% if pagination.href.next %}
+            <a href="{{ pagination.href.next }}" class="next">Next →</a>
+          {% endif %}
+        </nav>
         {% endif %}
-        <span>Page {{ pagination.pageNumber + 1 }} of {{ pagination.pages.length }}</span>
-        {% if pagination.href.next %}
-          <a href="{{ pagination.href.next }}" class="next">Next →</a>
-        {% endif %}
-      </nav>
+
+      {% else %}
+        <p>No articles found for {{ title }}.</p>
       {% endif %}
     </main>
 
     <!-- Sidebar -->
-    <aside class="sidebar">
-      <h2>Latest {{ title }}</h2>
+    <aside class="category-sidebar">
+      <h2 class="sidebar-title">Latest {{ title }}</h2>
       <ul class="sidebar-list">
-        {% for article in articles | slice(0,5) %}
-        <li>
+        {% for article in (articles | slice(0,5)) %}
+        <li class="sidebar-item">
           <a href="{{ article.url }}">
             <img src="{{ article.image or '/assets/images/news/default.jpg' }}" alt="{{ article.title }}">
             <span>{{ article.title }}</span>
           </a>
+          <small class="date">{{ article.date | readableDate }}</small>
         </li>
         {% endfor %}
       </ul>
