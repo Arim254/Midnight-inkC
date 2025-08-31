@@ -1,8 +1,9 @@
 ---
-layout: category.njk
 title: Tech
+layout: category.njk
 pagination:
-  data: techp
+  data: techp   # src/data/techp.json
   size: 10
   alias: articles
+permalink: /pages/tech/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}/{% endif %}
 ---

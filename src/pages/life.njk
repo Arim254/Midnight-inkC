@@ -1,8 +1,9 @@
 ---
-layout: category.njk
 title: Life
+layout: category.njk
 pagination:
-  data: lifep       # src/data/lifep.json
+  data: lifep   # src/data/lifep.json
   size: 10
   alias: articles
+permalink: /pages/life/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}/{% endif %}
 ---

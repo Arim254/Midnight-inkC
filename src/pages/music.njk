@@ -1,8 +1,9 @@
 ---
-layout: category.njk
 title: Music
+layout: category.njk
 pagination:
-  data: musicp      # src/data/musicp.json
+  data: musicp   # src/data/musicp.json
   size: 10
   alias: articles
+permalink: /pages/music/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}/{% endif %}
 ---
