@@ -74,7 +74,7 @@ document.addEventListener("DOMContentLoaded", () => {
     if (!link) return;
 
     const articleEl = link.closest(
-      ".trending-article, .post-card, .music-item, .arts-list li"
+      ".trending-article, .post-card, .music-item, .arts-list li, .article-card, .featured-article"
     );
     if (!articleEl) return;
 

@@ -1,9 +1,81 @@
 ---
 title: Life
-layout: category.njk
-pagination:
-  data: lifep   # src/data/lifep.json
-  size: 10
-  alias: articles
-permalink: /pages/life/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}/{% endif %}
+permalink: /pages/life/index.html
 ---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ title }}</title>
+  <link rel="stylesheet" href="/styles/main.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+</head>
+<body>
+
+  {% include "header.njk" %}
+
+  <main class="category-page container">
+    <div class="category-header">
+      <h1 class="category-title">{{ title }}</h1>
+    </div>
+
+    <div class="content-grid">
+      <!-- MAIN COLUMN -->
+      <div class="main-column">
+        <p>Welcome to the Life section. New articles about wellness, DIY projects, and more will appear here as you add them in the CMS!</p>
+      </div>
+
+      <!-- SIDEBAR -->
+      <aside class="sidebar">
+        <div class="widget">
+          <h3 class="widget-title">Recipe of the Week</h3>
+          {% set latest_recipe = collections.recipes[0] %}
+          {% if latest_recipe %}
+            <div class="recipe-widget">
+              <a href="{{ latest_recipe.url }}">
+                <img src="{{ latest_recipe.data.image }}" alt="{{ latest_recipe.data.title }}">
+                <h4>{{ latest_recipe.data.title }}</h4>
+              </a>
+              <p>Prep: {{ latest_recipe.data.prep_time }} mins | Cook: {{ latest_recipe.data.cook_time }} mins</p>
+            </div>
+          {% else %}
+            <p>No recipes yet. Add one in the CMS!</p>
+          {% endif %}
+        </div>
+
+        <div class="widget">
+          <h3 class="widget-title">Top 5 DIY Projects</h3>
+          <ul class="sidebar-list">
+            {% set diy_projects = collections.diy | slice(0, 5) %}
+            {% if diy_projects.length %}
+              {% for project in diy_projects %}
+                <li>
+                  <a href="{{ project.url }}">
+                    <img src="{{ project.data.image }}" alt="{{ project.data.title }}">
+                    <span>{{ project.data.title }}</span>
+                  </a>
+                </li>
+              {% endfor %}
+            {% else %}
+              <li>No DIY projects yet. Add one in the CMS!</li>
+            {% endif %}
+          </ul>
+        </div>
+
+        <div class="widget">
+          {% include "ad-slot.njk" %}
+        </div>
+      </aside>
+    </div>
+  </main>
+
+  {% include "footer.njk" %}
+
+  <!-- Site Scripts -->
+  <script src="/scripts/main.js"></script>
+  <script src="/scripts/article-modal.js"></script>
+  <script src="https://darkskyapp.github.io/skycons/skycons.js"></script>
+
+</body>
+</html>

@@ -5,7 +5,12 @@
 </div>
 
 <!-- Weather Widget -->
-{% include "weather-widget.njk" %}
+<aside class="sidebar">
+  {% include "search-widget.njk" %}
+  {% if category == 'Sports' %}
+    {% include "sports-widget.njk" %}
+  {% endif %}
+  {% include "weather-widget.njk" %}
 
 <!-- Finance Widget -->
 <div class="finance-widget transparent">

@@ -1,0 +1,57 @@
+backend:
+  name: test-repo
+
+media_folder: "assets/images/uploads" # Where to store uploaded images
+public_folder: "/assets/images/uploads" # The public-facing path for uploaded images
+
+collections:
+  - name: "posts"
+    label: "Blog Posts"
+    folder: "src/posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Category", name: "category", widget: "select", options: ["Tech", "Finance", "Politics", "Entertainment", "World News"] }
+      - { label: "Featured Image", name: "image", widget: "image", required: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "diy"
+    label: "DIY Projects"
+    folder: "src/diy"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Project Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Featured Image", name: "image", widget: "image" }
+      - { label: "Difficulty", name: "difficulty", widget: "select", options: ["Easy", "Medium", "Hard"] }
+      - { label: "Materials", name: "materials", widget: "list", field: { label: "Material", name: "material", widget: "string"} }
+      - { label: "Instructions", name: "body", widget: "markdown" }
+
+  - name: "health"
+    label: "Health & Wellness"
+    folder: "src/health"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Featured Image", name: "image", widget: "image", required: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "recipes"
+    label: "Recipes"
+    folder: "src/recipes"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Recipe Name", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Image", name: "image", widget: "image" }
+      - { label: "Prep Time (minutes)", name: "prep_time", widget: "number" }
+      - { label: "Cook Time (minutes)", name: "cook_time", widget: "number" }
+      - { label: "Servings", name: "servings", widget: "number" }
+      - { label: "Ingredients", name: "ingredients", widget: "list", field: { label: "Ingredient", name: "ingredient", widget: "string"} }
+      - { label: "Instructions", name: "body", widget: "markdown" }

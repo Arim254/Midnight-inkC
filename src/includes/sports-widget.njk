@@ -1,3 +1,31 @@
-<div class="sports-container">
-  <p>Live scores will appear here.</p>
+{% if sportsData.response and sportsData.response.length > 0 %}
+<div class="widget sports-widget">
+    <h3 class="widget-title">Live Football</h3>
+    <ul class="fixture-list">
+        {% for item in sportsData.response | slice(0, 10) %}
+            <li class="fixture-item">
+                <div class="league-info">{{ item.league.name }}</div>
+                <div class="match-info">
+                    <div class="team">
+                        <img src="{{ item.teams.home.logo }}" alt="{{ item.teams.home.name }} logo" class="team-logo">
+                        <span class="team-name">{{ item.teams.home.name }}</span>
+                    </div>
+                    <div class="score">
+                        {{ item.goals.home }} - {{ item.goals.away }}
+                    </div>
+                    <div class="team">
+                        <img src="{{ item.teams.away.logo }}" alt="{{ item.teams.away.name }} logo" class="team-logo">
+                        <span class="team-name">{{ item.teams.away.name }}</span>
+                    </div>
+                </div>
+                <div class="match-status">{{ item.fixture.status.long }} '{{ item.fixture.status.elapsed }}'</div>
+            </li>
+        {% endfor %}
+    </ul>
 </div>
+{% else %}
+<div class="widget sports-widget">
+    <h3 class="widget-title">Live Football</h3>
+    <p>No live matches at the moment.</p>
+</div>
+{% endif %}

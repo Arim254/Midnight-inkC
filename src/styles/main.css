@@ -873,109 +873,151 @@ img {
 .main-column {
   display: flex;
   flex-direction: column;
-  gap: 2rem;
+  gap: 2.5rem;
 }
 
-.articles-grid {
+/* =======================
+   CATEGORY PAGE
+======================= */
+.category-page {
+  padding: 3rem 0;
+  background: var(--black);
+  
+}
+
+.category-header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.category-title {
+  font-size: 2.5rem;
+}
+
+.content-grid {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 40px;
+}
+
+/* Main Featured Article */
+.main-featured {
+  margin-bottom: 2rem;
+}
+
+.featured-article {
   display: flex;
   flex-direction: column;
-  gap: 2rem;
+  gap: 20px;
+}
+
+.featured-article .featured-image {
+  width: 100%;
+  height: 400px;
+  overflow: hidden;
+  border-radius: var(--radius);
+}
+
+.featured-article .featured-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.featured-article:hover .featured-image img {
+  transform: scale(1.05);
+}
+
+.featured-article .featured-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.featured-article .featured-title {
+  font-size: 2.2rem;
+  margin: 0.5rem 0;
+}
+
+.featured-article .meta {
+  display: flex;
+  gap: 15px;
+  font-size: 0.9rem;
+  color: var(--gray);
+}
+
+/* List of Remaining Articles (Cards) */
+.articles-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 30px;
+  margin-bottom: 2rem;
 }
 
 .article-card {
   display: flex;
-  flex-direction: row;
-  gap: 1.5rem;
-  border-bottom: 1px solid #222;
-  padding-bottom: 1.5rem;
+  flex-direction: column;
+  overflow: hidden;
+  border-radius: var(--radius);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
-.article-card img {
-  width: 260px;
-  height: 160px;
+.article-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
+}
+
+.article-card .article-image {
+  width: 100%;
+  height: 200px;
+  overflow: hidden;
+}
+
+.article-card .article-image img {
+  width: 100%;
+  height: 100%;
   object-fit: cover;
-  border-radius: 6px;
+  transition: transform 0.3s ease;
 }
 
-.article-card h2 {
-  font-size: 1.3rem;
-  margin: 0.2rem 0;
-  font-weight: 600;
+.article-card:hover .article-image img {
+  transform: scale(1.05);
 }
 
-.article-card a {
-  color: #f1f1f1;
-  text-decoration: none;
-  transition: color 0.3s;
+.article-card .article-content {
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
 }
 
-.article-card a:hover {
-  color: #ffb400; /* Yellow accent on hover */
-}
-
-.meta {
-  font-size: 0.85rem;
-  color: #aaa;
+.article-card .article-content h2 {
+  font-size: 1.5rem;
+  line-height: 1.2;
   margin-bottom: 0.5rem;
 }
 
-.excerpt {
-  font-size: 1rem;
-  color: #bbb;
-  line-height: 1.5;
-}
-
-/* Sidebar */
-.sidebar {
-  padding: 1rem;
-  border-left: 1px solid #222;
-}
-
-.sidebar h2 {
-  font-size: 1.25rem;
-  font-weight: 600;
+.article-card .meta {
   margin-bottom: 1rem;
-  color: #fff;
-  border-bottom: 2px solid #ffb400; /* Yellow underline */
-  padding-bottom: 0.5rem;
+  font-size: 0.9rem;
+  color: var(--gray);
 }
 
-.sidebar-list {
-  list-style: none;
-  padding: 0;
-  margin: 0;
+.article-card .meta span + span::before {
+  content: "•";
+  margin: 0 5px;
 }
 
-.sidebar-list li {
-  margin-bottom: 1rem;
-  display: flex;
-  gap: 0.6rem;
-  align-items: center;
+.article-card .excerpt {
+  color: var(--gray);
 }
 
-.sidebar-list img {
-  width: 60px;
-  height: 40px;
-  object-fit: cover;
-  border-radius: 4px;
-}
-
-.sidebar-list a {
-  text-decoration: none;
-  font-size: 0.95rem;
-  color: #ccc;
-  transition: color 0.3s;
-}
-
-.sidebar-list a:hover {
-  color: #ffb400;
-}
-
-/* Pagination */
 .pagination {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
+  gap: 20px;
   margin-top: 2rem;
   padding-top: 1rem;
   border-top: 1px solid #222;
@@ -993,10 +1035,102 @@ img {
   color: #fff;
 }
 
+/* Sidebar */
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  
+}
+
+.sidebar h2 {
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.sidebar-list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.sidebar-list li {
+  margin: 0;
+  padding: 0;
+}
+
+.sidebar-list a {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.sidebar-list img {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: var(--radius);
+}
+
+.sidebar-list span {
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.sidebar-list small {
+  display: block;
+  margin-top: 5px;
+  color: var(--gray);
+  font-size: 0.8rem;
+}
+
+.widget {
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #222;
+}
+
+
+/* =======================
+   Responsive
+======================= */
+@media (max-width: 900px) {
+  .content-grid {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  .featured-article .featured-image {
+    height: 250px;
+  }
+
+  .article-card {
+    height: auto;
+  }
+
+  .article-card .article-image {
+    width: 100%;
+    height: 200px;
+  }
+}
+/* =========================
+   AD SLOT
+========================= */
+
+.ad-slot {
+  margin: 2rem 0;
+  text-align: center;
+}
+
+.ad-slot ins {
+  border-radius: 6px; /* optional, keeps consistent with your card style */
+}
+
+
 /* Responsive */
 @media (max-width: 900px) {
   .content-grid {
-    grid-template-columns: 1fr; /* Stack main + sidebar */
+    grid-template-columns: 1fr;
   }
 
   .article-card {
@@ -1005,10 +1139,13 @@ img {
 
   .article-card img {
     width: 100%;
-    height: auto;
+    height: 180px;
+  }
+
+  .featured-article img {
+    height: 250px;
   }
 }
-
 
 
 /* =============================
@@ -1037,4 +1174,38 @@ img {
   .world-news .grid-2 { grid-template-columns: 1fr; }
   .tech-section .grid-3 { grid-template-columns: 1fr; }
   .culture-section { grid-template-columns: 1fr; }
+}
+
+/* =========================
+   WIDGET OVERRIDES
+========================= */
+.scoreaxis-widget-container {
+  height: 800px;
+}
+
+.scoreaxis-widget-container iframe {
+  height: 100%;
+}
+
+/* =========================
+   Consistent Hover Effects
+========================= */
+.trending-article:hover h3 a,
+.post-card:hover h3 a,
+.featured-article:hover .featured-title a,
+.article-card:hover .article-title a,
+.sidebar-list a:hover span,
+.finance-widget.transparent a:hover h4,
+.culture-section .music-item:hover strong {
+  color: var(--orange);
+}
+
+.trending-article h3 a,
+.post-card h3 a,
+.featured-article .featured-title a,
+.article-card .article-title a,
+.sidebar-list a span,
+.finance-widget.transparent a h4,
+.culture-section .music-item strong {
+  transition: color 0.2s ease-in-out;
 }

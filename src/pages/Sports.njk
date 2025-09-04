@@ -1,3 +1,11 @@
+---
+title: Sports
+pagination:
+  data: Sportsp
+  size: 5
+  alias: articles
+permalink: /pages/Sports/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}/{% endif %}
+---
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -61,7 +69,7 @@
                 <h2 class="article-title"><a href="{{ article.url }}">{{ article.title }}</a></h2>
                 <div class="meta">
                   <span>By Admin</span>
-                  <span>{{ article.date | readableDate }}</span>
+                  <span>{{ featured.date | readableDate }}</span>
                 </div>
                 <p class="excerpt">{{ article.description }}</p>
               </div>
@@ -91,10 +99,17 @@
 
       <!-- SIDEBAR -->
       <aside class="sidebar">
+        {% include "sports-widget.njk" %}
+
+        {# === Standings Widget === #}
+        <div class="widget">
+          <div id="scoreaxis-widget-f2272" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#000000"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/standings-widget/8?autoHeight=1&amp;borderColor=%23000000&amp;bodyBackground=%23000000&amp;textColor=%23ffffff&amp;inst=f2272" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"f2272"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-f2272 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div><div style="font-size: 12px; font-family: Arial, sans-serif; text-align: left;">Data provided by <a target="_blank" href="https://www.scoreaxis.com/">Scoreaxis</a></div>
+        </div>
+
         <div class="widget">
           <h2>FEATURED ARTICLES</h2>
           <ul class="sidebar-list">
-            {% for article in articles | slice(0,3) %}
+            {% for article in Sportsp.slice(0, 4) %}
             <li>
               <a href="{{ article.url }}">
                 <img src="{{ article.image or '/assets/images/news/default.jpg' }}" alt="{{ article.title }}">

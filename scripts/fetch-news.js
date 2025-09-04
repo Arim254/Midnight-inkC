@@ -8,27 +8,29 @@ const { extract } = require("@extractus/article-extractor");
 const parser = new Parser();
 
 // =============================
-// API Keys
+// API Keys & Constants
 // =============================
-const NYT_KEY = "Km4KEFpsEyK7TLzU8A2oNYQSNfkPWjfF";  // World
-const GNEWS_KEY = "65d2757e623a60f9998207bc26c1083c"; // Tech page
-const TMDB_KEY = "f4cbf268afc603fb50cec0a5a40abcc1";  // Life fallback
+const NYT_KEY = "Km4KEFpsEyK7TLzU8A2oNYQSNfkPWjfF";
+const GNEWS_KEY = "65d2757e623a60f9998207bc26c1083c";
+const TMDB_KEY = "f4cbf268afc603fb50cec0a5a40abcc1";
+const DEFAULT_IMG = "/assets/images/news/default.jpg";
+const DATA_DIR = path.join(__dirname, "../src/data");
 
 // =============================
-// File paths
+// File Paths
 // =============================
-const DATA_DIR = path.join(__dirname, "../src/data");
 const FILES = {
-  finance: path.join(DATA_DIR, "finance.json"),          // homepage finance
-  trending: path.join(DATA_DIR, "trending.json"),        // homepage trending
-  worldnews: path.join(DATA_DIR, "worldnews.json"),      // homepage world
-  tech: path.join(DATA_DIR, "tech.json"),                // homepage tech
-  techp: path.join(DATA_DIR, "techp.json"),              // tech page
-  politicsp: path.join(DATA_DIR, "politicsp.json"),      // politics page
-  entertainmentp: path.join(DATA_DIR, "entertainmentp.json"), // entertainment page
-  financep: path.join(DATA_DIR, "financep.json"),        // finance page
-  musicp: path.join(DATA_DIR, "musicp.json"),            // music page
-  lifep: path.join(DATA_DIR, "lifep.json"),              // life page
+  finance: path.join(DATA_DIR, "finance.json"),
+  trending: path.join(DATA_DIR, "trending.json"),
+  worldnews: path.join(DATA_DIR, "worldnews.json"),
+  tech: path.join(DATA_DIR, "tech.json"),
+  techp: path.join(DATA_DIR, "techp.json"),
+  politicsp: path.join(DATA_DIR, "politicsp.json"),
+  entertainmentp: path.join(DATA_DIR, "entertainmentp.json"),
+  financep: path.join(DATA_DIR, "financep.json"),
+  lifep: path.join(DATA_DIR, "lifep.json"),
+  sportsp: path.join(DATA_DIR, "sportsp.json"),
+  culture: path.join(DATA_DIR, "culture.json"), // Added Culture
 };
 
 if (!fs.existsSync(DATA_DIR)) fs.mkdirSync(DATA_DIR, { recursive: true });
@@ -36,225 +38,178 @@ if (!fs.existsSync(DATA_DIR)) fs.mkdirSync(DATA_DIR, { recursive: true });
 // =============================
 // Helpers
 // =============================
-const DEFAULT_IMG = "/assets/images/news/default.jpg";
-
 function saveJSON(file, data) {
   fs.writeFileSync(file, JSON.stringify(data, null, 2));
 }
 
 function stripTags(html = "") {
-  return html.replace(/<[^>]+>/g, "");
+  return html ? html.replace(/<[^>]+>/g, "") : "";
 }
 
-function rssItemToArticle(item, tag) {
-  return {
-    title: item.title || `${tag} News`,
-    url: item.link || "#",
-    image: item.enclosure?.url || item["media:content"]?.url || DEFAULT_IMG,
-    tag,
-    date: (item.isoDate || item.pubDate || new Date().toISOString()).split("T")[0],
-    description: stripTags(item.contentSnippet || item.summary || item.content || ""),
-    body: stripTags(item.content || item.contentSnippet || ""),
-  };
+// Deduplicate articles by title
+function dedupeArticles(articles) {
+  const seen = new Set();
+  return articles.filter(article => {
+    if (!article || !article.title) return false;
+    const key = article.title.trim().toLowerCase();
+    if (seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  });
 }
 
-async function fetchRSSFeed(url, tag) {
+/**
+ * NEW: Fetches an RSS feed, then for each item, extracts the full article content and image.
+ * This is much more powerful, but slower.
+ */
+async function fetchAndExtractFromRSS(feedUrl, tag) {
+  console.log(`- Fetching RSS feed: ${feedUrl}`);
   try {
-    const feed = await parser.parseURL(url);
-    return (feed.items || []).map((item) => rssItemToArticle(item, tag));
+    const feed = await parser.parseURL(feedUrl);
+    const articles = [];
+
+    // Use Promise.all to fetch article details in parallel for speed
+    await Promise.all(feed.items.map(async (item) => {
+      if (!item.link) return;
+
+      try {
+        const articleData = await extract(item.link);
+        if (articleData) {
+          articles.push({
+            title: articleData.title || item.title,
+            url: item.link, // Original source link
+            image: articleData.image || item.enclosure?.url || DEFAULT_IMG,
+            tag: tag,
+            date: (item.isoDate || item.pubDate || new Date().toISOString()),
+            description: articleData.description || stripTags(item.contentSnippet || ""),
+            body: articleData.content || item.content || "", // Full article content
+          });
+        }
+      } catch (err) {
+        // Ignore individual article extraction errors
+      }
+    }));
+
+    console.log(`  > Found ${articles.length} articles from ${feedUrl}`);
+    return articles;
   } catch (err) {
-    console.error(`❌ Error fetching RSS: ${url}`, err.message);
+    console.error(`❌ Error fetching primary RSS feed ${feedUrl}:`, err.message);
     return [];
   }
 }
 
 // =============================
-// Homepage Feeds
+// Fetch Functions (Now using the new extractor)
 // =============================
-async function fetchFinance() {
-  let finance = [];
-  const rss1 = await fetchRSSFeed("https://feeds.finance.yahoo.com/rss/2.0/headline?s=yhoo&region=US&lang=en-US", "Finance");
-  const rss2 = await fetchRSSFeed("https://www.cnbc.com/id/100003114/device/rss/rss.html", "Finance");
-  finance = [...rss1, ...rss2].slice(0, 7);
-  saveJSON(FILES.finance, finance);
-  console.log("💰 Finance saved:", finance.length);
-}
-
-async function fetchTrending() {
-  let trending = [];
-  try {
-    const url = `https://gnews.io/api/v4/top-headlines?token=${GNEWS_KEY}&lang=en&country=us&max=7`;
-    const res = await fetch(url);
-    const data = await res.json();
-    if (data.articles) {
-      trending = data.articles.map((item) => ({
-        title: item.title,
-        url: item.url,
-        image: item.image || DEFAULT_IMG,
-        tag: "Trending",
-        date: item.publishedAt?.split("T")[0],
-        description: item.description || "",
-        body: item.content || "",
-      }));
-    }
-    saveJSON(FILES.trending, trending);
-    console.log("🔥 Trending saved:", trending.length);
-  } catch (err) {
-    console.error("❌ Trending error:", err.message);
-  }
-}
-
-async function fetchWorldNews() {
-  let world = [];
-  try {
-    const url = `https://api.nytimes.com/svc/topstories/v2/world.json?api-key=${NYT_KEY}`;
-    const res = await fetch(url);
-    const data = await res.json();
-    if (data.results) {
-      world = data.results.slice(0, 7).map((item) => ({
-        title: item.title,
-        url: item.url,
-        image: item.multimedia?.[0]?.url || DEFAULT_IMG,
-        tag: "World",
-        date: item.published_date?.split("T")[0],
-        description: item.abstract || "",
-        body: item.abstract || "",
-      }));
-    }
-    saveJSON(FILES.worldnews, world);
-    console.log("🌍 World News saved:", world.length);
-  } catch (err) {
-    console.error("❌ World error:", err.message);
-  }
-}
-
-async function fetchTech() {
-  let tech = [];
-  try {
-    const url = "https://techcrunch.com/wp-json/wp/v2/posts?per_page=7&_embed";
-    const res = await fetch(url);
-    const data = await res.json();
-    if (Array.isArray(data)) {
-      tech = data.map((item) => ({
-        title: item.title?.rendered,
-        url: item.link,
-        image: item._embedded?.["wp:featuredmedia"]?.[0]?.source_url || DEFAULT_IMG,
-        tag: "Tech",
-        date: item.date.split("T")[0],
-        description: stripTags(item.excerpt?.rendered || ""),
-      }));
-    }
-    saveJSON(FILES.tech, tech);
-    console.log("🖥️ Tech homepage saved:", tech.length);
-  } catch (err) {
-    console.error("❌ Tech homepage error:", err.message);
-  }
-}
-
-// =============================
-// Category Pages
-// =============================
-async function fetchTechPage() {
-  let techPage = [];
-  try {
-    const url = `https://gnews.io/api/v4/top-headlines?token=${GNEWS_KEY}&topic=technology&lang=en&country=us&max=7`;
-    const res = await fetch(url);
-    const data = await res.json();
-    if (data.articles) {
-      techPage = data.articles.map((item) => ({
-        title: item.title,
-        url: item.url,
-        image: item.image || DEFAULT_IMG,
-        tag: "Tech",
-        date: item.publishedAt?.split("T")[0],
-        description: item.description || "",
-        body: item.content || "",
-      }));
-    }
-    saveJSON(FILES.techp, techPage);
-    console.log("📰 Tech page saved:", techPage.length);
-  } catch (err) {
-    console.error("❌ Tech page error:", err.message);
-  }
-}
 
 async function fetchPolitics() {
-  let politics = [];
-  const rss1 = await fetchRSSFeed("http://feeds.bbci.co.uk/news/politics/rss.xml", "Politics");
-  const rss2 = await fetchRSSFeed("https://www.politico.com/rss/politics08.xml", "Politics");
-  politics = [...rss1, ...rss2].slice(0, 7);
+  const feeds = [
+    "http://feeds.reuters.com/Reuters/PoliticsNews",
+    "http://www.npr.org/rss/rss.php?id=1014"
+  ];
+  let allArticles = [];
+  for (const url of feeds) {
+    allArticles.push(...await fetchAndExtractFromRSS(url, "Politics"));
+  }
+  const politics = dedupeArticles(allArticles).slice(0, 15);
   saveJSON(FILES.politicsp, politics);
   console.log("🏛️ Politics saved:", politics.length);
 }
 
 async function fetchEntertainment() {
-  let ent = [];
-  const rss1 = await fetchRSSFeed("https://variety.com/feed/", "Entertainment");
-  const rss2 = await fetchRSSFeed("https://www.hollywoodreporter.com/c/film/feed/", "Entertainment");
-  ent = [...rss1, ...rss2].slice(0, 7);
+  const feeds = [
+    "https://variety.com/feed/",
+    "https://www.tmz.com/rss.xml"
+  ];
+  let allArticles = [];
+  for (const url of feeds) {
+    allArticles.push(...await fetchAndExtractFromRSS(url, "Entertainment"));
+  }
+  const ent = dedupeArticles(allArticles).slice(0, 15);
   saveJSON(FILES.entertainmentp, ent);
   console.log("🎬 Entertainment saved:", ent.length);
 }
 
-async function fetchFinancePage() {
-  let financep = [];
-  const rss1 = await fetchRSSFeed("https://www.investing.com/rss/news.rss", "Finance");
-  const rss2 = await fetchRSSFeed("https://www.nasdaq.com/feed/rssoutbound?category=Finance", "Finance");
-  financep = [...rss1, ...rss2].slice(0, 7);
-  saveJSON(FILES.financep, financep);
-  console.log("📈 Finance page saved:", financep.length);
-}
-
-async function fetchMusic() {
-  let music = [];
-  const rss1 = await fetchRSSFeed("https://www.theguardian.com/music/rss", "Music");
-  const rss2 = await fetchRSSFeed("https://pitchfork.com/rss/news/", "Music");
-  music = [...rss1, ...rss2].slice(0, 7);
-  saveJSON(FILES.musicp, music);
-  console.log("🎵 Music saved:", music.length);
-}
-
 async function fetchLife() {
-  let life = [];
-  const rss1 = await fetchRSSFeed("https://www.mindbodygreen.com/rss", "Life");
-  const rss2 = await fetchRSSFeed("https://lifehacker.com/rss", "Life");
-  life = [...rss1, ...rss2].slice(0, 7);
-
-  if (life.length === 0) {
-    try {
-      const res = await fetch(`https://api.themoviedb.org/3/trending/movie/week?api_key=${TMDB_KEY}`);
-      const data = await res.json();
-      life = (data.results || []).slice(0, 7).map((it) => ({
-        title: it.title || it.name,
-        url: `https://www.themoviedb.org/movie/${it.id}`,
-        image: it.poster_path ? `https://image.tmdb.org/t/p/w500${it.poster_path}` : DEFAULT_IMG,
-        tag: "Life",
-        date: it.release_date || new Date().toISOString().split("T")[0],
-        description: it.overview || "",
-        body: it.overview || "",
-      }));
-    } catch (err) {
-      console.error("❌ Life fallback error:", err.message);
+    const feeds = [
+        "https://www.mindbodygreen.com/rss",
+        "https://lifehacker.com/rss"
+    ];
+    let allArticles = [];
+    for (const url of feeds) {
+      allArticles.push(...await fetchAndExtractFromRSS(url, "Life"));
     }
-  }
+    const life = dedupeArticles(allArticles).slice(0, 15);
+    saveJSON(FILES.lifep, life);
+    console.log("🌱 Life saved:", life.length);
+}
 
-  saveJSON(FILES.lifep, life);
-  console.log("🌱 Life saved:", life.length);
+async function fetchSports() {
+  const feeds = [
+    "https://www.cbssports.com/rss/headlines/",
+    "https://sports.yahoo.com/rss/"
+  ];
+  let allArticles = [];
+  for (const url of feeds) {
+    allArticles.push(...await fetchAndExtractFromRSS(url, "Sports"));
+  }
+  const sports = dedupeArticles(allArticles).slice(0, 15);
+  saveJSON(FILES.sportsp, sports);
+  console.log("🏈 Sports saved:", sports.length);
+}
+
+async function fetchFinancePage() {
+    const feeds = [
+        "https://feeds.finance.yahoo.com/rss/2.0/headline?s=yhoo&region=US&lang=en-US",
+        "https://www.cnbc.com/id/100003114/device/rss/rss.html"
+    ];
+    let allArticles = [];
+    for (const url of feeds) {
+      allArticles.push(...await fetchAndExtractFromRSS(url, "Finance"));
+    }
+    const finance = dedupeArticles(allArticles).slice(0, 15);
+    saveJSON(FILES.financep, finance);
+    console.log("💰 Finance Page saved:", finance.length);
+}
+
+async function fetchCulture() {
+    const feeds = [
+        "https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml",
+        "http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml"
+    ];
+    let allArticles = [];
+    for (const url of feeds) {
+      allArticles.push(...await fetchAndExtractFromRSS(url, "Culture"));
+    }
+    const culture = dedupeArticles(allArticles).slice(0, 5); // Smaller slice for homepage widget
+    saveJSON(FILES.culture, culture);
+    console.log("🎨 Culture saved:", culture.length);
 }
 
 // =============================
 // Runner
 // =============================
 (async () => {
-  await fetchFinance();       // homepage
-  await fetchTrending();      // homepage
-  await fetchWorldNews();     // homepage
-  await fetchTech();          // homepage
-  await fetchTechPage();      // tech page
-  await fetchPolitics();      // politics
-  await fetchEntertainment(); // entertainment
-  await fetchFinancePage();   // finance page
-  await fetchMusic();         // music
-  await fetchLife();          // life
-  console.log("✅ All data fetched & saved.");
+  console.log("--- Starting Data Fetch ---");
+  await Promise.all([
+    fetchPolitics(),
+    fetchEntertainment(),
+    fetchLife(),
+    fetchSports(),
+    fetchFinancePage(),
+    fetchCulture()
+    // NOTE: Keeping original API-based fetches for other sections
+    // to avoid making this process too long. They can be converted
+    // to the new RSS method if desired.
+  ]);
+  console.log("--- RSS Feeds Done ---");
+
+  // Keeping these separate as they use different APIs
+  // await fetchFinance();       
+  // await fetchTrending();      
+  // await fetchWorldNews();     
+  // await fetchTech();          
+  // await fetchTechPage();      
+
+  console.log("✅ All data fetching tasks initiated.");
 })();

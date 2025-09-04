@@ -25,6 +25,48 @@ module.exports = function(eleventyConfig) {
     }
   });
 
+  // Create collections for new content types
+  eleventyConfig.addCollection("recipes", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("src/recipes/**/*.md").sort((a, b) => b.date - a.date);
+  });
+
+  eleventyConfig.addCollection("diy", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("src/diy/**/*.md").sort((a, b) => b.date - a.date);
+  });
+
+  eleventyConfig.addCollection("health", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("src/health/**/*.md").sort((a, b) => b.date - a.date);
+  });
+
+  // Auto-load JSON from src/data as global data
+  const dataDir = path.join(__dirname, "src/data");
+  if (fs.existsSync(dataDir)) {
+    const files = fs.readdirSync(dataDir);
+    files.forEach((file) => {
+      if (!file.endsWith(".json")) return;
+      const name = path.basename(file, ".json"); // e.g. techp
+      eleventyConfig.addGlobalData(name, () => {
+        const full = path.join(dataDir, file);
+        try {
+          const raw = fs.readFileSync(full, "utf-8").trim();
+          if (!raw) {
+            console.warn(`⚠️ ${file} is empty — returning [] for global "${name}"`);
+            return [];
+          }
+          const parsed = JSON.parse(raw);
+          console.log(`✅ Loaded data file: ${file} as global "${name}" (items: ${Array.isArray(parsed) ? parsed.length : "1"})`);
+          return parsed;
+        } catch (err) {
+          console.error(`❌ Error loading ${file} into global "${name}": ${err.message}`);
+          // Return empty array so site still builds
+          return [];
+        }
+      });
+    });
+  } else {
+    console.warn(`⚠️ data dir not found at ${dataDir}`);
+  }
+
   return {
     dir: {
       input: "src",
