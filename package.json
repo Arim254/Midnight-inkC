@@ -6,6 +6,7 @@
     "fetch": "node scripts/fetch-news.js",
     "postfetch": "echo 'Finished fetching data.'",
     "start": "npm run fetch && npx eleventy --watch --serve --quiet",
+    "serve": "npx eleventy --watch --serve --quiet",
     "build": "npm run fetch && npx eleventy"
   },
   "keywords": [],
