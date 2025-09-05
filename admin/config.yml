@@ -1,5 +1,5 @@
 backend:
-  name: test-repo
+  name: git-gateway
 
 media_folder: "assets/images/uploads" # Where to store uploaded images
 public_folder: "/assets/images/uploads" # The public-facing path for uploaded images

@@ -94,7 +94,7 @@
         <div class="widget">
           <h2>FEATURED ARTICLES</h2>
           <ul class="sidebar-list">
-            {% for article in articles | slice(0,3) %}
+            {% for article in articles | randomSlice(4) %}
             <li>
               <a href="{{ article.url }}">
                 <img src="{{ article.image or '/assets/images/news/default.jpg' }}" alt="{{ article.title }}">

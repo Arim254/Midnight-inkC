@@ -181,7 +181,7 @@ async function fetchCulture() {
     for (const url of feeds) {
       allArticles.push(...await fetchAndExtractFromRSS(url, "Culture"));
     }
-    const culture = dedupeArticles(allArticles).slice(0, 5); // Smaller slice for homepage widget
+    const culture = dedupeArticles(allArticles).slice(0, 7); // Smaller slice for homepage widget
     saveJSON(FILES.culture, culture);
     console.log("🎨 Culture saved:", culture.length);
 }

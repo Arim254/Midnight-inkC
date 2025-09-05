@@ -8,6 +8,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/styles");
   eleventyConfig.addPassthroughCopy("src/scripts");
   eleventyConfig.addPassthroughCopy("assets");
+  eleventyConfig.addPassthroughCopy("admin");
 
   eleventyConfig.addFilter("readableDate", dateString => {
     if (typeof dateString !== 'string' || dateString.trim() === '') {
@@ -23,6 +24,14 @@ module.exports = function(eleventyConfig) {
       console.error("Error formatting date:", error);
       return ''; // or handle error
     }
+  });
+
+  eleventyConfig.addFilter("randomSlice", (arr, count) => {
+    if (!Array.isArray(arr)) {
+      return [];
+    }
+    const shuffled = arr.sort(() => 0.5 - Math.random());
+    return shuffled.slice(0, count);
   });
 
   // Create collections for new content types
@@ -54,7 +63,7 @@ module.exports = function(eleventyConfig) {
             return [];
           }
           const parsed = JSON.parse(raw);
-          console.log(`✅ Loaded data file: ${file} as global "${name}" (items: ${Array.isArray(parsed) ? parsed.length : "1"})`);
+          console.log(`✅ Loaded data file: ${file} as global "${name}" (items: ${Array.isArray(parsed) ? parsed.length : '1'})`);
           return parsed;
         } catch (err) {
           console.error(`❌ Error loading ${file} into global "${name}": ${err.message}`);

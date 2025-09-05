@@ -1209,3 +1209,29 @@ img {
 .culture-section .music-item strong {
   transition: color 0.2s ease-in-out;
 }
+
+/* Sports Widget on Homepage */
+.culture-section .sports-widget .trending-article img {
+  width: 120px;
+  height: 80px;
+}
+
+/* Sports Page Article Layout */
+.sports-page .article-card {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 20px;
+  padding: 1rem;
+}
+
+.sports-page .article-card .article-image {
+  width: 200px;
+  height: 200px;
+  flex-shrink: 0;
+}
+
+.sports-page .article-card .article-content {
+  flex-grow: 1;
+  padding: 0; /* Remove padding from content to align text better */
+}
