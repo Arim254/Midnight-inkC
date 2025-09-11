@@ -3,7 +3,6 @@ const fs = require("fs");
 const path = require("path");
 const fetch = require("node-fetch");
 const Parser = require("rss-parser");
-const { extract } = require("@extractus/article-extractor");
 
 const parser = new Parser();
 
@@ -62,7 +61,7 @@ function dedupeArticles(articles) {
  * NEW: Fetches an RSS feed, then for each item, extracts the full article content and image.
  * This is much more powerful, but slower.
  */
-async function fetchAndExtractFromRSS(feedUrl, tag) {
+async function fetchAndExtractFromRSS(feedUrl, tag, extract) {
   console.log(`- Fetching RSS feed: ${feedUrl}`);
   try {
     const feed = await parser.parseURL(feedUrl);
@@ -102,84 +101,84 @@ async function fetchAndExtractFromRSS(feedUrl, tag) {
 // Fetch Functions (Now using the new extractor)
 // =============================
 
-async function fetchPolitics() {
+async function fetchPolitics(extract) {
   const feeds = [
     "http://feeds.reuters.com/Reuters/PoliticsNews",
     "http://www.npr.org/rss/rss.php?id=1014"
   ];
   let allArticles = [];
   for (const url of feeds) {
-    allArticles.push(...await fetchAndExtractFromRSS(url, "Politics"));
+    allArticles.push(...await fetchAndExtractFromRSS(url, "Politics", extract));
   }
   const politics = dedupeArticles(allArticles).slice(0, 15);
   saveJSON(FILES.politicsp, politics);
   console.log("🏛️ Politics saved:", politics.length);
 }
 
-async function fetchEntertainment() {
+async function fetchEntertainment(extract) {
   const feeds = [
     "https://variety.com/feed/",
     "https://www.tmz.com/rss.xml"
   ];
   let allArticles = [];
   for (const url of feeds) {
-    allArticles.push(...await fetchAndExtractFromRSS(url, "Entertainment"));
+    allArticles.push(...await fetchAndExtractFromRSS(url, "Entertainment", extract));
   }
   const ent = dedupeArticles(allArticles).slice(0, 15);
   saveJSON(FILES.entertainmentp, ent);
   console.log("🎬 Entertainment saved:", ent.length);
 }
 
-async function fetchLife() {
+async function fetchLife(extract) {
     const feeds = [
         "https://www.mindbodygreen.com/rss",
         "https://lifehacker.com/rss"
     ];
     let allArticles = [];
     for (const url of feeds) {
-      allArticles.push(...await fetchAndExtractFromRSS(url, "Life"));
+      allArticles.push(...await fetchAndExtractFromRSS(url, "Life", extract));
     }
     const life = dedupeArticles(allArticles).slice(0, 15);
     saveJSON(FILES.lifep, life);
     console.log("🌱 Life saved:", life.length);
 }
 
-async function fetchSports() {
+async function fetchSports(extract) {
   const feeds = [
     "https://www.cbssports.com/rss/headlines/",
     "https://sports.yahoo.com/rss/"
   ];
   let allArticles = [];
   for (const url of feeds) {
-    allArticles.push(...await fetchAndExtractFromRSS(url, "Sports"));
+    allArticles.push(...await fetchAndExtractFromRSS(url, "Sports", extract));
   }
   const sports = dedupeArticles(allArticles).slice(0, 15);
   saveJSON(FILES.sportsp, sports);
   console.log("🏈 Sports saved:", sports.length);
 }
 
-async function fetchFinancePage() {
+async function fetchFinancePage(extract) {
     const feeds = [
         "https://feeds.finance.yahoo.com/rss/2.0/headline?s=yhoo&region=US&lang=en-US",
         "https://www.cnbc.com/id/100003114/device/rss/rss.html"
     ];
     let allArticles = [];
     for (const url of feeds) {
-      allArticles.push(...await fetchAndExtractFromRSS(url, "Finance"));
+      allArticles.push(...await fetchAndExtractFromRSS(url, "Finance", extract));
     }
     const finance = dedupeArticles(allArticles).slice(0, 15);
     saveJSON(FILES.financep, finance);
     console.log("💰 Finance Page saved:", finance.length);
 }
 
-async function fetchCulture() {
+async function fetchCulture(extract) {
     const feeds = [
         "https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml",
         "http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml"
     ];
     let allArticles = [];
     for (const url of feeds) {
-      allArticles.push(...await fetchAndExtractFromRSS(url, "Culture"));
+      allArticles.push(...await fetchAndExtractFromRSS(url, "Culture", extract));
     }
     const culture = dedupeArticles(allArticles).slice(0, 7); // Smaller slice for homepage widget
     saveJSON(FILES.culture, culture);
@@ -191,13 +190,14 @@ async function fetchCulture() {
 // =============================
 (async () => {
   console.log("--- Starting Data Fetch ---");
+  const { extract } = await import("@extractus/article-extractor");
   await Promise.all([
-    fetchPolitics(),
-    fetchEntertainment(),
-    fetchLife(),
-    fetchSports(),
-    fetchFinancePage(),
-    fetchCulture()
+    fetchPolitics(extract),
+    fetchEntertainment(extract),
+    fetchLife(extract),
+    fetchSports(extract),
+    fetchFinancePage(extract),
+    fetchCulture(extract)
     // NOTE: Keeping original API-based fetches for other sections
     // to avoid making this process too long. They can be converted
     // to the new RSS method if desired.
