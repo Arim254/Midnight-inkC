@@ -1,11 +1,13 @@
 name: Trigger Netlify Build
 
 on:
-  schedule:
-    # Runs every four hours
-    # For more info on cron syntax: https://crontab.guru/
-    - cron: '0 */4 * * *'
-  # This allows you to manually trigger the workflow from the Actions tab
+  workflow_run:
+    # Make sure this name matches the 'name:' field in your
+    # fetch-and-deploy.yml file
+    workflows: ["Fetch and Deploy"] 
+    types:
+      # This ensures it only triggers after the first workflow is done
+      - completed
   workflow_dispatch:
 
 jobs:
