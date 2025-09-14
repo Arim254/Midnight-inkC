@@ -1,0 +1,18 @@
+name: Trigger Netlify Build
+
+on:
+  schedule:
+    # Runs every four hours
+    # For more info on cron syntax: https://crontab.guru/
+    - cron: '0 */4 * * *'
+  # This allows you to manually trigger the workflow from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Trigger Netlify Build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Call Netlify build hook
+        run: |
+          curl -X POST -d '{}' ${{ secrets.NETLIFY_BUILD_HOOK }}
