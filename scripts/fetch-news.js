@@ -185,6 +185,62 @@ async function fetchCulture(extract) {
     console.log("🎨 Culture saved:", culture.length);
 }
 
+async function fetchTrending(extract) {
+    const feeds = [
+        "https://feeds.bbci.co.uk/news/rss.xml",
+        "http://rss.cnn.com/rss/edition.rss"
+    ];
+    let allArticles = [];
+    for (const url of feeds) {
+      allArticles.push(...await fetchAndExtractFromRSS(url, "Trending", extract));
+    }
+    const trending = dedupeArticles(allArticles).slice(0, 15);
+    saveJSON(FILES.trending, trending);
+    console.log("🔥 Trending saved:", trending.length);
+}
+
+async function fetchWorldNews(extract) {
+    const feeds = [
+        "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "http://feeds.reuters.com/Reuters/worldNews"
+    ];
+    let allArticles = [];
+    for (const url of feeds) {
+      allArticles.push(...await fetchAndExtractFromRSS(url, "World", extract));
+    }
+    const worldnews = dedupeArticles(allArticles).slice(0, 15);
+    saveJSON(FILES.worldnews, worldnews);
+    console.log("🌍 World News saved:", worldnews.length);
+}
+
+async function fetchTech(extract) {
+    const feeds = [
+        "https://techcrunch.com/feed/",
+        "https://www.wired.com/feed/rss"
+    ];
+    let allArticles = [];
+    for (const url of feeds) {
+      allArticles.push(...await fetchAndExtractFromRSS(url, "Tech", extract));
+    }
+    const tech = dedupeArticles(allArticles).slice(0, 15);
+    saveJSON(FILES.tech, tech);
+    console.log("💻 Tech saved:", tech.length);
+}
+
+async function fetchTechPage(extract) {
+    const feeds = [
+        "https://techcrunch.com/feed/",
+        "https://www.wired.com/feed/rss"
+    ];
+    let allArticles = [];
+    for (const url of feeds) {
+      allArticles.push(...await fetchAndExtractFromRSS(url, "Tech", extract));
+    }
+    const tech = dedupeArticles(allArticles).slice(0, 15);
+    saveJSON(FILES.techp, tech);
+    console.log("💻 Tech Page saved:", tech.length);
+}
+
 // =============================
 // Runner
 // =============================
@@ -197,19 +253,13 @@ async function fetchCulture(extract) {
     fetchLife(extract),
     fetchSports(extract),
     fetchFinancePage(extract),
-    fetchCulture(extract)
-    // NOTE: Keeping original API-based fetches for other sections
-    // to avoid making this process too long. They can be converted
-    // to the new RSS method if desired.
+    fetchCulture(extract),
+    fetchTrending(extract),
+    fetchWorldNews(extract),
+    fetchTech(extract),
+    fetchTechPage(extract)
   ]);
-  console.log("--- RSS Feeds Done ---");
-
-  // Keeping these separate as they use different APIs
-  // await fetchFinance();       
-  // await fetchTrending();      
-  // await fetchWorldNews();     
-  // await fetchTech();          
-  // await fetchTechPage();      
+  console.log("--- All Feeds Done ---");
 
   console.log("✅ All data fetching tasks initiated.");
 })();
