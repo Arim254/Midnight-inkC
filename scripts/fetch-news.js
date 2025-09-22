@@ -3,6 +3,7 @@ const fs = require("fs");
 const path = require("path");
 const fetch = require("node-fetch");
 const Parser = require("rss-parser");
+const he = require("he");
 
 const parser = new Parser();
 
@@ -75,13 +76,13 @@ async function fetchAndExtractFromRSS(feedUrl, tag, extract) {
         const articleData = await extract(item.link);
         if (articleData) {
           articles.push({
-            title: articleData.title || item.title,
+            title: he.decode(articleData.title || item.title),
             url: item.link, // Original source link
             image: articleData.image || item.enclosure?.url || DEFAULT_IMG,
             tag: tag,
             date: (item.isoDate || item.pubDate || new Date().toISOString()),
-            description: articleData.description || stripTags(item.contentSnippet || ""),
-            body: articleData.content || item.content || "", // Full article content
+            description: he.decode(articleData.description || stripTags(item.contentSnippet || "")),
+            body: he.decode(articleData.content || item.content || ""), // Full article content
           });
         }
       } catch (err) {
