@@ -104,7 +104,6 @@ async function fetchAndExtractFromRSS(feedUrl, tag, extract) {
 
 async function fetchPolitics(extract) {
   const feeds = [
-    "http://feeds.reuters.com/Reuters/PoliticsNews",
     "http://www.npr.org/rss/rss.php?id=1014"
   ];
   let allArticles = [];
@@ -132,7 +131,6 @@ async function fetchEntertainment(extract) {
 
 async function fetchLife(extract) {
     const feeds = [
-        "https://www.mindbodygreen.com/rss",
         "https://lifehacker.com/rss"
     ];
     let allArticles = [];
@@ -174,14 +172,30 @@ async function fetchFinancePage(extract) {
 
 async function fetchCulture(extract) {
     const feeds = [
-        "https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml",
-        "http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml"
+        "http://www.openculture.com/feed",
+        "http://www.thisiscolossal.com/feed/",
+        "http://hyperallergic.com/feed/",
+        "http://www.artnews.com/feed/"
     ];
     let allArticles = [];
     for (const url of feeds) {
       allArticles.push(...await fetchAndExtractFromRSS(url, "Culture", extract));
     }
-    const culture = dedupeArticles(allArticles).slice(0, 7); // Smaller slice for homepage widget
+
+    // Filter for recent articles
+    const twoDaysAgo = new Date();
+    twoDaysAgo.setDate(twoDaysAgo.getDate() - 2);
+
+    const recentArticles = allArticles.filter(article => {
+        try {
+            const articleDate = new Date(article.date);
+            return articleDate >= twoDaysAgo;
+        } catch (e) {
+            return false;
+        }
+    });
+
+    const culture = dedupeArticles(recentArticles).slice(0, 7);
     saveJSON(FILES.culture, culture);
     console.log("🎨 Culture saved:", culture.length);
 }
@@ -202,8 +216,7 @@ async function fetchTrending(extract) {
 
 async function fetchWorldNews(extract) {
     const feeds = [
-        "http://feeds.bbci.co.uk/news/world/rss.xml",
-        "http://feeds.reuters.com/Reuters/worldNews"
+        "http://feeds.bbci.co.uk/news/world/rss.xml"
     ];
     let allArticles = [];
     for (const url of feeds) {
