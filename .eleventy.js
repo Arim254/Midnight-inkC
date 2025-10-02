@@ -7,8 +7,8 @@ module.exports = function(eleventyConfig) {
   // Passthrough assets
   eleventyConfig.addPassthroughCopy("src/styles");
   eleventyConfig.addPassthroughCopy("src/scripts");
-  eleventyConfig.addPassthroughCopy({ "assets": "assets" });
-  eleventyConfig.addPassthroughCopy({ "admin": "admin" });
+  eleventyConfig.addPassthroughCopy("assets");
+  eleventyConfig.addPassthroughCopy("admin");
   eleventyConfig.addPassthroughCopy("sitemap.xml");
 
   eleventyConfig.addFilter("readableDate", dateString => {
