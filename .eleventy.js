@@ -9,6 +9,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/scripts");
   eleventyConfig.addPassthroughCopy("assets");
   eleventyConfig.addPassthroughCopy("admin");
+  eleventyConfig.addPassthroughCopy("sitemap.xml");
 
   eleventyConfig.addFilter("readableDate", dateString => {
     if (typeof dateString !== 'string' || dateString.trim() === '') {
