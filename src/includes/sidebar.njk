@@ -22,12 +22,11 @@
         <img src="{{ article.image }}" alt="{{ article.title }}">
         <div class="finance-info">
           <h4>{{ article.title }}</h4>
-          <span class="date">{{ article.date }}</span>
+          <span class="date">{{ article.date | readableDate }}</span>
         </div>
       </a>
     </li>
     {% endfor %}
     <!-- Ad Slot -->
-    <li>{% include "ad-slot.njk" %}</li>
-  </ul>
+      </ul>
 </div>

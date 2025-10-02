@@ -7,7 +7,8 @@
     "postfetch": "echo 'Finished fetching data.'",
     "start": "npm run fetch && npx eleventy --watch --serve --quiet",
     "serve": "npx eleventy --watch --serve --quiet",
-    "build": "npm run fetch && npx eleventy"
+    "seo": "node scripts/optimize-seo.js",
+    "build": "npm run fetch && npm run seo && npx eleventy"
   },
   "keywords": [],
   "author": "",

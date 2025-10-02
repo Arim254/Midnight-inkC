@@ -23,8 +23,10 @@ jobs:
       - name: 📦 Install Dependencies
         run: npm install
 
-      - name: 📰 Fetch Latest News
-        run: node scripts/fetch-news.js
+      - name: 📰 Fetch Latest News & SEO
+        run: |
+          npm run fetch
+          npm run seo
 
       - name: Commit and push if there are changes
         run: |
@@ -32,6 +34,6 @@ jobs:
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .
           if ! git diff --staged --quiet; then
-            git commit -m "Update news data"
+            git commit -m "Update news and SEO data"
             git push
           fi

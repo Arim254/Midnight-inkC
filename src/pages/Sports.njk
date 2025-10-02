@@ -1,7 +1,7 @@
 ---
 title: Sports
 pagination:
-  data: Sportsp
+  data: sportsp
   size: 5
   alias: articles
 permalink: /pages/Sports/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}/{% endif %}
@@ -109,7 +109,7 @@ permalink: /pages/Sports/{% if pagination.pageNumber > 0 %}page/{{ pagination.pa
         <div class="widget">
           <h2>FEATURED ARTICLES</h2>
           <ul class="sidebar-list">
-            {% for article in Sportsp.slice(0, 4) %}
+            {% for article in sportsp.slice(0, 4) %}
             <li>
               <a href="{{ article.url }}">
                 <img src="{{ article.image or '/assets/images/news/default.jpg' }}" alt="{{ article.title }}">
@@ -125,9 +125,7 @@ permalink: /pages/Sports/{% if pagination.pageNumber > 0 %}page/{{ pagination.pa
           </ul>
         </div>
 
-        <div class="widget">
-          {% include "ad-slot.njk" %}
-        </div>
+
       </aside>
     </div>
   </main>

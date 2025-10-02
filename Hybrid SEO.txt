@@ -1,0 +1,76 @@
+﻿Hybrid SEO Automation Workflow Plan 
+This plan outlines the automated steps for optimizing and publishing new articles, combining essential, free internal SEO logic with the paid SEO Mastermind API for high-quality title and meta description generation.
+PHASE 1: Initial Setup (One-Time Tasks)
+These tasks prepare your environment and core functions needed for the automated loop.
+1. Configure RapidAPI Credentials
+Store your API key and endpoint URL as secure constants within your application's configuration.
+Constant
+	Value
+	RAPIDAPI_KEY
+	b79f32ab61msh9080ce27557388bp1e4426jsn7794fb51a6ca
+	SEO_MASTERMIND_HOST
+	seo-mastermind-ai-keyword-meta-title-generator.p.rapidapi.com
+	SEO_MASTERMIND_URL
+	https://seo-mastermind-ai-keyword-meta-title-generator.p.rapidapi.com/seo
+	2. Develop Schema Markup Generator Function
+Create a dedicated function (e.g., generateNewsSchema(articleData)) that outputs the complete JSON-LD NewsArticle script based on the article's raw data.
+* Key Data Inputs: Article title, URL, publication date, modification date, primary image URL, and author name.
+* Validation: Test the output of this function using Google's Rich Results Test tool to ensure compliance.
+3. Develop Sitemap Update Function
+Create a function (e.g., updateSitemap(newUrl)) that handles updating your primary XML sitemap file.
+* Action: When called, this function must insert a new <url> block for the new article, including the <lastmod> tag (set to the article's publish time).
+* Functionality: If using a news sitemap, ensure the new article is added there as well.
+4. Develop Google Ping Function
+Create a lightweight function (e.g., pingGoogle()) to notify Google immediately after the sitemap has been updated.
+* Action: Executes a simple HTTP GET request to https://www.google.com/ping?sitemap=...
+PHASE 2: The Automated Article Cycle 
+This is the main script that runs on your server to pull and process new articles.
+Step 1: Fetch Raw Articles (Existing Process)
+The script initiates the process of pulling new articles from your news source APIs.
+* Input: Raw article data (long title, full unoptimized body text, raw date/time).
+* Action: Loop through each new article found.
+Step 2: On-Page Optimization (RapidAPI Call)
+For each new article, call the SEO Mastermind API to generate optimized metadata.
+* Input: Pass the article's primary topic or the full headline into the API's body.topic field.
+* Action: Execute the fetch request using the provided credentials:
+const payload = {
+   topic: articleData.headline // Example: Use the original headline as the topic
+};
+
+const options = {
+        method: 'POST',
+        headers: {
+                'x-rapidapi-key': RAPIDAPI_KEY,
+                'x-rapidapi-host': SEO_MASTERMIND_HOST,
+                'Content-Type': 'application/json'
+        },
+        body: JSON.stringify(payload)
+};
+
+try {
+        const response = await fetch(SEO_MASTERMIND_URL, options);
+   const result = await response.json();
+   // Proceed to Step 3
+} catch (error) {
+   // Log the error but CONTINUE the process using fallback data
+        console.error("RapidAPI Error:", error);
+}
+
+Step 3: Process API Response and Set Article Metadata
+Handle the response from the SEO Mastermind API.
+* Action A (Success): Extract the recommended SEO Title and Meta Description from the API response and assign them to the article's data object, overriding the original raw title.
+* Action B (API Failure/Fallback): If the API call fails (due to error, rate limit, or timeout), fall back to the article's raw headline for the SEO Title and use the first 150 characters of the body text for the Meta Description.
+Step 4: Technical Optimization (Internal Schema)
+Generate and attach the structured data.
+* Action: Call the internal generateNewsSchema() function (developed in Phase 1) using the now-optimized article data. Attach the resulting JSON-LD script to the article data object.
+PHASE 3: Finalization and Search Engine Signaling
+Step 5: Save Optimized Article to Database/CMS
+Save the fully optimized article data, including the new SEO Title, Meta Description, and JSON-LD Schema.
+Step 6: Update & Ping Sitemap
+Immediately after the save is confirmed, notify search engines of the new content.
+* Action A: Call the internal updateSitemap(articleUrl) function (from Phase 1).
+* Action B: Call the internal pingGoogle() function (from Phase 1).
+Step 7: Logging and Monitoring
+Log the entire process and any errors.
+* Action: Log a success message for each article, including the time taken for the full optimization cycle (Steps 2-6) and confirm that the sitemap was successfully updated and pinged.
+* Action: Monitor your API usage to ensure you stay within budget for the SEO Mastermind service.
