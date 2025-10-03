@@ -1,5 +1,7 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: Arim254/Midnight-inkC
+  branch: master
 
 media_folder: "assets/images/uploads" # Where to store uploaded images
 public_folder: "/assets/images/uploads" # The public-facing path for uploaded images
