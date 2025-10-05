@@ -1,6 +1,5 @@
 backend:
-  name: github
-  repo: Arim254/Midnight-inkC
+  name: git-gateway
   branch: master
 
 media_folder: "assets/images/uploads" # Where to store uploaded images
