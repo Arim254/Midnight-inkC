@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
-  branch: main # or master
-  base_url:  https://midnight-ink.vercel.app
+  branch: master
+  base_url: https://midnight-ink.vercel.app
 
 media_folder: "assets/images/uploads" # Where to store uploaded images
 public_folder: "/assets/images/uploads" # The public-facing path for uploaded images
