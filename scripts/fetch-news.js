@@ -29,7 +29,7 @@ const FILES = {
   entertainmentp: path.join(DATA_DIR, "entertainmentp.json"),
   financep: path.join(DATA_DIR, "financep.json"),
   lifep: path.join(DATA_DIR, "lifep.json"),
-  sportsp: path.join(DATA_DIR, "sportsp.json"),
+  sports: path.join(DATA_DIR, "sports.json"),
   culture: path.join(DATA_DIR, "culture.json"), // Added Culture
 };
 
@@ -152,7 +152,7 @@ async function fetchSports(extract) {
     allArticles.push(...await fetchAndExtractFromRSS(url, "Sports", extract));
   }
   const sports = dedupeArticles(allArticles).slice(0, 15);
-  saveJSON(FILES.sportsp, sports);
+  saveJSON(FILES.sports, sports);
   console.log("🏈 Sports saved:", sports.length);
 }
 

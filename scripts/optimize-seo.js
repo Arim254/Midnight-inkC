@@ -83,7 +83,7 @@ async function optimizeSeo() {
     'worldnews.json',
     'tech.json',
     'culture.json',
-    'sportsp.json',
+    'sports.json',
     'financep.json',
     'politicsp.json',
     'entertainmentp.json',
