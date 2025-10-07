@@ -6,7 +6,7 @@ export default async function handler(req, res) {
 
   if (!code) {
     // Step 1: Redirect user to GitHub OAuth
-    const githubAuthUrl = `https://github.com/login/oauth/authorize?client_id=${client_id}&redirect_uri=${encodeURIComponent(redirect_uri)}&scope=repo`;
+    const githubAuthUrl = `https://github.com/login/oauth/authorize?client_id=${client_id}&redirect_uri=${encodeURIComponent(redirect_uri)}&scope=public_repo`;
     return res.redirect(githubAuthUrl);
   }
 
