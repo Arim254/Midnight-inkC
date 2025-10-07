@@ -2,9 +2,7 @@ export default async function handler(req, res) {
   const { code } = req.query;
   const client_id = process.env.GITHUB_CLIENT_ID;
   const client_secret = process.env.GITHUB_CLIENT_SECRET;
-  const host = req.headers.host;
-  const protocol = host.startsWith('localhost') ? 'http' : 'https';
-  const redirect_uri = `${protocol}://${host}/api/callback`;
+  const redirect_uri = 'https://midnight-ink.vercel.app/api/callback';
 
   if (!code) {
     // Step 1: Redirect user to GitHub OAuth
