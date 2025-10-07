@@ -3,7 +3,7 @@ backend:
   repo: Arim254/Midnight-inkC
   branch: master
   base_url: https://midnight-ink.vercel.app
-  auth_endpoint: api/callback
+  auth_endpoint: /api/callback
 
 
 media_folder: "assets/images/uploads"
