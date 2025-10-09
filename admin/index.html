@@ -21,8 +21,11 @@
       if (event.data.provider === 'github' && event.data.token) {
         console.log("GitHub auth data received:", event.data);
         if (window.CMS) {
-          console.log("CMS object found, calling completeAuth.");
-          CMS.auth.completeAuth(event.data);
+          console.log("CMS object found, getting backend.");
+          window.CMS.getBackend('github').then(function (backend) {
+            console.log("Backend found, calling completeAuth.");
+            backend.auth.completeAuth(event.data);
+          });
         } else {
           console.error("CMS object not found.");
         }
