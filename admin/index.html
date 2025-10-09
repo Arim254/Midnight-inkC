@@ -15,10 +15,16 @@
   <!-- Decap CMS -->
   <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
   <script>
+    console.log("Adding message event listener for GitHub auth.");
     window.addEventListener('message', function (event) {
+      console.log("Received message:", event);
       if (event.data.provider === 'github' && event.data.token) {
+        console.log("GitHub auth data received:", event.data);
         if (window.CMS) {
+          console.log("CMS object found, calling completeAuth.");
           CMS.auth.completeAuth(event.data);
+        } else {
+          console.error("CMS object not found.");
         }
       }
     });
