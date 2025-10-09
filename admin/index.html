@@ -5,31 +5,37 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="robots" content="noindex" />
   <title>Content Manager</title>
-  
+
   <!-- Explicitly tell Decap CMS where to find the config file -->
   <link href="config.yml" type="text/yaml" rel="cms-config-url">
-
 </head>
 <body>
-  
+
   <!-- Decap CMS -->
   <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+
+  <!-- Optional: a safe message handler that navigates to the Decap callback route when receiving a token.
+       NOTE: if you use the callback page to set opener.location (as above), this listener is not required,
+       but it's a harmless fallback. -->
   <script>
     console.log("Adding message event listener for GitHub auth.");
     window.addEventListener('message', function (event) {
-      console.log("Received message:", event);
-      if (event.data.provider === 'github' && event.data.token) {
-        console.log("GitHub auth data received:", event.data);
-        if (window.CMS) {
-          console.log("CMS object found, getting backend.");
-          var backend = window.CMS.getBackend('github');
-          console.log("Backend found, calling completeAuth.");
-          backend.completeAuth(event.data);
-        } else {
-          console.error("CMS object not found.");
+      // Security: ensure message comes from same origin
+      try {
+        if (event.origin !== window.location.origin) {
+          return;
         }
+      } catch (e) {
+        return;
       }
-    });
+
+      // Expect { token: "...", provider: "github" } from the popup
+      if (event.data && event.data.provider === 'github' && event.data.token) {
+        console.log("GitHub auth data received via postMessage:", event.data);
+        // Navigate the current window to the Decap callback URL so Decap can read the token
+        window.location.href = "/admin/#/callback?token=" + encodeURIComponent(event.data.token);
+      }
+    }, false);
   </script>
 </body>
 </html>
