@@ -14,11 +14,10 @@
   <!-- Decap CMS -->
   <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
 
-  <!-- Optional: a safe message handler that navigates to the Decap callback route when receiving a token.
-       NOTE: if you use the callback page to set opener.location (as above), this listener is not required,
-       but it's a harmless fallback. -->
+  <!-- Safe message handler: if a popup posts a token, navigate this window to the Decap callback URL.
+       This avoids calling any internal backend functions (like completeAuth) which may not exist. -->
   <script>
-    console.log("Adding message event listener for GitHub auth.");
+    console.log("Adding safe message event listener for GitHub auth.");
     window.addEventListener('message', function (event) {
       // Security: ensure message comes from same origin
       try {

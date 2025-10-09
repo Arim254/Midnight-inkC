@@ -24,35 +24,31 @@ export default async function handler(req, res) {
     }
 
     // Render HTML that navigates the opener (parent) to the Decap callback URL with the token.
-    // This is the most reliable way to get Decap to accept the token.
-    res.setHeader('Content-Type', 'text/html');
-    res.end(`
-      <!doctype html>
-      <html>
-        <head><meta charset="utf-8" /></head>
-        <body>
-          <script>
-            (function() {
-              const token = "${data.access_token}";
-              try {
-                // If opened as a popup from the CMS admin, navigate the opener window to the callback URL
-                if (window.opener && !window.opener.closed) {
-                  window.opener.location.href = "/admin/#/callback?token=" + encodeURIComponent(token);
-                  setTimeout(() => window.close(), 600);
-                } else {
-                  // No opener (direct), navigate this window to the admin callback route
-                  window.location.href = "/admin/#/callback?token=" + encodeURIComponent(token);
-                }
-              } catch (err) {
-                // Fallback output for debugging
-                document.body.innerText = "Authentication complete. If nothing happened, paste this URL in your browser: /admin/#/callback?token=" + token;
-              }
-            })();
-          </script>
-          <p>Authentication completed. You can close this window if it doesn't close automatically.</p>
-        </body>
-      </html>
-    `);
+    res.setHeader('Content-Type', 'text/html; charset=utf-8');
+    res.end(`<!doctype html>
+<html>
+  <head><meta charset="utf-8" /></head>
+  <body>
+    <script>
+      (function() {
+        const token = "${data.access_token}";
+        try {
+          // If opened as a popup from the CMS admin, navigate the opener window to the callback URL
+          if (window.opener && !window.opener.closed) {
+            window.opener.location.href = "/admin/#/callback?token=" + encodeURIComponent(token);
+            setTimeout(() => window.close(), 600);
+          } else {
+            // No opener (direct), navigate this window to the admin callback route
+            window.location.href = "/admin/#/callback?token=" + encodeURIComponent(token);
+          }
+        } catch (err) {
+          document.body.innerText = "Authentication complete. If nothing happened, paste this URL in your browser: /admin/#/callback?token=" + token;
+        }
+      })();
+    </script>
+    <p>Authentication completed. This window should close automatically.</p>
+  </body>
+</html>`);
   } catch (error) {
     res.status(500).json({ error: 'OAuth process failed', details: error.message });
   }
