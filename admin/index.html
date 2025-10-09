@@ -24,7 +24,7 @@
           console.log("CMS object found, getting backend.");
           var backend = window.CMS.getBackend('github');
           console.log("Backend found, calling completeAuth.");
-          backend.auth.completeAuth(event.data);
+          backend.completeAuth(event.data);
         } else {
           console.error("CMS object not found.");
         }
