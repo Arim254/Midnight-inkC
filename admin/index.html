@@ -14,27 +14,21 @@
   <!-- Decap CMS -->
   <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
 
-  <!-- Safe message handler: if a popup posts a token, navigate this window to the Decap callback URL.
-       This avoids calling any internal backend functions (like completeAuth) which may not exist. -->
   <script>
-    console.log("Adding safe message event listener for GitHub auth.");
-    window.addEventListener('message', function (event) {
-      // Security: ensure message comes from same origin
-      try {
-        if (event.origin !== window.location.origin) {
-          return;
-        }
-      } catch (e) {
-        return;
+    const cmsReady = new Promise(resolve => {
+      if (window.CMS) {
+        window.CMS.registerEventListener('init', resolve);
       }
+    });
 
-      // Expect { token: "...", provider: "github" } from the popup
-      if (event.data && event.data.provider === 'github' && event.data.token) {
-        console.log("GitHub auth data received via postMessage:", event.data);
-        // Navigate the current window to the Decap callback URL so Decap can read the token
-        window.location.href = "/admin/#/callback?token=" + encodeURIComponent(event.data.token);
+    window.addEventListener('message', function (event) {
+      if (event.data.provider === 'github' && event.data.token) {
+        cmsReady.then(function() {
+          const backend = window.CMS.getBackend('github');
+          backend.completeAuth(event.data);
+        });
       }
-    }, false);
+    });
   </script>
 </body>
 </html>
