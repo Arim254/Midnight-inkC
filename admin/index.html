@@ -15,15 +15,25 @@
   <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
 
   <script>
+    console.log("Setting up cmsReady promise.");
     const cmsReady = new Promise(resolve => {
       if (window.CMS) {
-        window.CMS.registerEventListener('init', resolve);
+        console.log("CMS object found, registering init event listener.");
+        window.CMS.registerEventListener('init', function() {
+          console.log("CMS init event fired.");
+          resolve();
+        });
+      } else {
+          console.error("CMS object not found when setting up promise.");
       }
     });
 
     window.addEventListener('message', function (event) {
+      console.log("Received message:", event);
       if (event.data.provider === 'github' && event.data.token) {
+        console.log("GitHub auth data received, waiting for cmsReady.");
         cmsReady.then(function() {
+          console.log("cmsReady promise resolved, completing auth.");
           const backend = window.CMS.getBackend('github');
           backend.completeAuth(event.data);
         });
