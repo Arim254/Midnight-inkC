@@ -4,15 +4,12 @@ export default async function handler(req, res) {
     const client_id = process.env.GITHUB_CLIENT_ID;
     const client_secret = process.env.GITHUB_CLIENT_SECRET;
 
-    // 🔍 Detect environment
     const isLocal = process.env.VERCEL === undefined;
     const baseUrl = isLocal
       ? 'http://localhost:3000'
       : 'https://midnight-ink.vercel.app';
-
     const redirect_uri = `${baseUrl}/api/callback`;
 
-    // 1️⃣ If no code, redirect user to GitHub OAuth
     if (!code) {
       const githubAuthUrl = `https://github.com/login/oauth/authorize?client_id=${client_id}&redirect_uri=${encodeURIComponent(
         redirect_uri
@@ -20,7 +17,6 @@ export default async function handler(req, res) {
       return res.redirect(githubAuthUrl);
     }
 
-    // 2️⃣ Exchange code for access token
     const tokenResponse = await fetch('https://github.com/login/oauth/access_token', {
       method: 'POST',
       headers: {
@@ -43,12 +39,33 @@ export default async function handler(req, res) {
       });
     }
 
-    // 3️⃣ Return token to Decap CMS
-    res.setHeader('Access-Control-Allow-Origin', '*');
-    res.setHeader('Content-Type', 'application/json');
-    res.status(200).json({ token: tokenData.access_token });
+    const token = tokenData.access_token;
+
+    // ✅ Send token back to Decap CMS parent window
+    const html = `
+      <html>
+        <body>
+          <script>
+            (function() {
+              function receiveMessage(e) {
+                console.log("Sending token to Decap CMS...");
+                window.opener.postMessage(
+                  'authorization:github:success:${token}',
+                  '*'
+                );
+                window.close();
+              }
+              receiveMessage();
+            })();
+          </script>
+          <p>Authentication completed. This window should close automatically.</p>
+        </body>
+      </html>
+    `;
+    res.setHeader('Content-Type', 'text/html');
+    res.status(200).send(html);
+
   } catch (error) {
-    // 4️⃣ Handle unexpected issues gracefully
     res.status(500).json({
       error: 'OAuth process failed',
       details: error.message,
