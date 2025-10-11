@@ -6,10 +6,11 @@ export default async function handler(req, res) {
 
     const isLocal = process.env.VERCEL === undefined;
     const baseUrl = isLocal
-      ? 'http://localhost:3000'
-      : 'https://midnight-ink.vercel.app';
+      ? "http://localhost:3000"
+      : "https://midnight-ink.vercel.app";
     const redirect_uri = `${baseUrl}/api/callback`;
 
+    // 1️⃣ Step: Redirect to GitHub login if no code
     if (!code) {
       const githubAuthUrl = `https://github.com/login/oauth/authorize?client_id=${client_id}&redirect_uri=${encodeURIComponent(
         redirect_uri
@@ -17,11 +18,12 @@ export default async function handler(req, res) {
       return res.redirect(githubAuthUrl);
     }
 
-    const tokenResponse = await fetch('https://github.com/login/oauth/access_token', {
-      method: 'POST',
+    // 2️⃣ Step: Exchange code for token
+    const tokenResponse = await fetch("https://github.com/login/oauth/access_token", {
+      method: "POST",
       headers: {
-        Accept: 'application/json',
-        'Content-Type': 'application/json',
+        Accept: "application/json",
+        "Content-Type": "application/json",
       },
       body: JSON.stringify({
         client_id,
@@ -41,33 +43,34 @@ export default async function handler(req, res) {
 
     const token = tokenData.access_token;
 
-    // ✅ Send token back to Decap CMS parent window
+    // 3️⃣ Step: Send token back to Decap CMS
     const html = `
       <html>
         <body>
+          <p>Authentication completed. This window should close automatically.</p>
           <script>
             (function() {
-              function receiveMessage(e) {
-                console.log("Sending token to Decap CMS...");
+              function sendToken() {
+                // Send token to parent Decap CMS window
                 window.opener.postMessage(
                   'authorization:github:success:${token}',
                   '*'
                 );
-                window.close();
+                // Give the parent time to receive it before closing
+                setTimeout(() => window.close(), 1000);
               }
-              receiveMessage();
+              // Wait a moment to ensure Decap listener is ready
+              setTimeout(sendToken, 500);
             })();
           </script>
-          <p>Authentication completed. This window should close automatically.</p>
         </body>
       </html>
     `;
-    res.setHeader('Content-Type', 'text/html');
+    res.setHeader("Content-Type", "text/html");
     res.status(200).send(html);
-
   } catch (error) {
     res.status(500).json({
-      error: 'OAuth process failed',
+      error: "OAuth process failed",
       details: error.message,
     });
   }
