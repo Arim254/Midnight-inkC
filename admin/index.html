@@ -6,45 +6,13 @@
   <meta name="robots" content="noindex" />
   <title>Content Manager</title>
 
-  <!-- Explicitly tell Decap CMS where to find the config file -->
-  <link href="config.yml" type="text/yaml" rel="cms-config-url">
+  <!-- Explicitly tell Static CMS where to find the config file -->
+  <!-- We add a fake query parameter (?v=1) to defeat aggressive browser caching -->
+  <link href="config.yml?v=1" type="text/yaml" rel="cms-config-url">
 </head>
 <body>
 
-  <!-- Decap CMS -->
-  <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
-
-  <script>
-    function getBackend() {
-      return new Promise(resolve => {
-        const interval = setInterval(() => {
-          if (window.CMS && window.CMS.getBackend('github')) {
-            clearInterval(interval);
-            resolve(window.CMS.getBackend('github'));
-          }
-        }, 100);
-      });
-    }
-
-    window.addEventListener('message', function (event) {
-      if (event.data.provider === 'github' && event.data.token) {
-        getBackend().then(function(backend) {
-          backend.completeAuth(event.data);
-        });
-      }
-    });
-
-    // Listener to capture any postMessage and extract the GitHub token
-    window.__decap_message_listener = function(e) {
-      console.log('[postMessage] origin:', e.origin);
-      console.log('[postMessage] data:', e.data);
-      if (typeof e.data === 'string' && e.data.startsWith('authorization:github:success:')) {
-        const token = e.data.split('authorization:github:success:')[1];
-        console.log('%c[GOT_TOKEN]', 'color:green;font-weight:bold', token);
-      }
-    };
-    window.addEventListener('message', window.__decap_message_listener);
-    console.log('Decap message listener installed — now click Login with GitHub');
-  </script>
+  <!-- Static CMS -->
+  <script src="https://unpkg.com/@staticcms/app/dist/static-cms-app.js"></script>
 </body>
 </html>

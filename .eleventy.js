@@ -1,4 +1,3 @@
-// .eleventy.js
 const path = require("path");
 const fs = require("fs");
 const { DateTime } = require("luxon");
@@ -8,7 +7,11 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/styles");
   eleventyConfig.addPassthroughCopy("src/scripts");
   eleventyConfig.addPassthroughCopy("assets");
-  eleventyConfig.addPassthroughCopy({ "./admin/": "/admin/" });
+  
+  // CRITICAL FIX: Ensure the entire admin directory is copied,
+  // including index.html and config.yml inside it.
+  eleventyConfig.addPassthroughCopy({ "./admin": "/admin" });
+  
   eleventyConfig.addPassthroughCopy("sitemap.xml");
 
   eleventyConfig.addFilter("readableDate", dateString => {

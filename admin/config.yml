@@ -1,13 +1,18 @@
 backend:
-  name: github
+  # Use git-gateway for reliable local proxy integration
+  name: git-gateway 
+  
+  # Ensure this matches the running proxy server (Port 8081)
+  proxy_url: http://localhost:8081/api/v1 
+  
   repo: Arim254/Midnight-inkC
   branch: master
-  base_url: https://midnight-ink.vercel.app
-  auth_endpoint: /api/callback
 
+# --- Media Configuration ---
 media_folder: "assets/images/uploads"
 public_folder: "/assets/images/uploads"
 
+# --- Collections (Content Types) ---
 collections:
   - name: "posts"
     label: "Blog Posts"
