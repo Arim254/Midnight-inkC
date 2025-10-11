@@ -147,25 +147,25 @@ layout: base.njk
       </div>
     </div>
 
-    <!-- Arts Widget -->
-    <div class="arts-widget">
-      <h3 class="section-title">Arts</h3>
-      <div class="arts-list">
-        {% for highlight in arts.slice(0, 3) %}
+    <!-- Gaming Widget -->
+    <div class="gaming-widget">
+      <h3 class="section-title">Gaming</h3>
+      <div class="article-list-condensed">
+        {% for game in gaming.slice(0, 3) %}
         <article class="trending-article">
+          <img src="{{ game.image }}" alt="{{ game.title }}" loading="lazy" style="width:120px; height:auto; float:left; margin-right:15px;">
           <div class="trending-content">
-            <span class="category {{ highlight.tag | lower }}">{{ highlight.tag }}</span>
-            <span class="date">{{ highlight.date | readableDate }}</span>
-            <h3><a href="{{ highlight.url }}">{{ highlight.title }}</a></h3>
-            <p>{{ highlight.description }}</p>
+            <span class="category gaming">{{ game.tag | default('Gaming') }}</span>
+            <h3><a href="{{ game.url }}">{{ game.title }}</a></h3>
+            <p>{{ game.description | truncate(80) }}</p>
             <script type="application/ld+json">
-              {{ highlight.schema | dump | safe }}
+              {{ game.schema | dump | safe }}
             </script>
           </div>
 
           <!-- Inert full body for modal -->
           <template class="article-body">
-            {{ (highlight.body or highlight.description) | safe }}
+            {{ (game.body or game.description) | safe }}
           </template>
         </article>
         {% endfor %}

@@ -35,6 +35,12 @@ module.exports = function(eleventyConfig) {
     return shuffled.slice(0, count);
   });
 
+  eleventyConfig.addFilter("truncate", (str, len) => {
+    if (!str || typeof str !== 'string') return '';
+    if (str.length <= len) return str;
+    return str.slice(0, len) + '...';
+  });
+
   // Create collections for new content types
   eleventyConfig.addCollection("recipes", function(collectionApi) {
     return collectionApi.getFilteredByGlob("src/recipes/**/*.md").sort((a, b) => b.date - a.date);

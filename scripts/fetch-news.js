@@ -31,6 +31,7 @@ const FILES = {
   lifep: path.join(DATA_DIR, "lifep.json"),
   sports: path.join(DATA_DIR, "sports.json"),
   culture: path.join(DATA_DIR, "culture.json"), // Added Culture
+  gaming: path.join(DATA_DIR, "gaming.json"), // Added Gaming
 };
 
 if (!fs.existsSync(DATA_DIR)) fs.mkdirSync(DATA_DIR, { recursive: true });
@@ -82,7 +83,7 @@ async function fetchAndExtractFromRSS(feedUrl, tag, extract) {
             tag: tag,
             date: (item.isoDate || item.pubDate || new Date().toISOString()),
             description: he.decode(articleData.description || stripTags(item.contentSnippet || "")),
-            body: he.decode(articleData.content || item.content || ""), // Full article content
+            body: he.decode(stripTags(articleData.content || item.content || "")), // Full article content
           });
         }
       } catch (err) {
@@ -255,6 +256,19 @@ async function fetchTechPage(extract) {
     console.log("💻 Tech Page saved:", tech.length);
 }
 
+async function fetchGaming(extract) {
+    const feeds = [
+        "https://www.gamespot.com/feeds/mashup/"
+    ];
+    let allArticles = [];
+    for (const url of feeds) {
+      allArticles.push(...await fetchAndExtractFromRSS(url, "Gaming", extract));
+    }
+    const gaming = dedupeArticles(allArticles).slice(0, 3);
+    saveJSON(FILES.gaming, gaming);
+    console.log("🎮 Gaming saved:", gaming.length);
+}
+
 // =============================
 // Runner
 // =============================
@@ -271,7 +285,8 @@ async function fetchTechPage(extract) {
     fetchTrending(extract),
     fetchWorldNews(extract),
     fetchTech(extract),
-    fetchTechPage(extract)
+    fetchTechPage(extract),
+    fetchGaming(extract)
   ]);
   console.log("--- All Feeds Done ---");
 

@@ -33,6 +33,18 @@
         });
       }
     });
+
+    // Listener to capture any postMessage and extract the GitHub token
+    window.__decap_message_listener = function(e) {
+      console.log('[postMessage] origin:', e.origin);
+      console.log('[postMessage] data:', e.data);
+      if (typeof e.data === 'string' && e.data.startsWith('authorization:github:success:')) {
+        const token = e.data.split('authorization:github:success:')[1];
+        console.log('%c[GOT_TOKEN]', 'color:green;font-weight:bold', token);
+      }
+    };
+    window.addEventListener('message', window.__decap_message_listener);
+    console.log('Decap message listener installed — now click Login with GitHub');
   </script>
 </body>
 </html>
