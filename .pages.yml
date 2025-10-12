@@ -1,0 +1,109 @@
+media:
+  input: assets/images/uploads
+  output: /assets/images/uploads
+
+content:
+  - name: posts
+    label: "Blog Posts"
+    type: collection
+    path: src/posts
+    output: true
+    fields:
+      - name: title
+        label: "Title"
+        type: string
+      - name: date
+        label: "Publish Date"
+        type: date
+      - name: category
+        label: "Category"
+        type: string
+      - name: image
+        label: "Featured Image"
+        type: image
+      - name: body
+        label: "Body"
+        type: rich-text
+
+  - name: diy
+    label: "DIY Projects"
+    type: collection
+    path: src/diy
+    output: true
+    fields:
+      - name: title
+        label: "Project Title"
+        type: string
+      - name: date
+        label: "Publish Date"
+        type: date
+      - name: image
+        label: "Featured Image"
+        type: image
+      - name: difficulty
+        label: "Difficulty"
+        type: string
+      - name: materials
+        label: "Materials"
+        type: list
+        field:
+          name: material
+          label: "Material"
+          type: string
+      - name: body
+        label: "Instructions"
+        type: rich-text
+
+  - name: health
+    label: "Health & Wellness"
+    type: collection
+    path: src/health
+    output: true
+    fields:
+      - name: title
+        label: "Title"
+        type: string
+      - name: date
+        label: "Publish Date"
+        type: date
+      - name: image
+        label: "Featured Image"
+        type: image
+      - name: body
+        label: "Body"
+        type: rich-text
+
+  - name: recipes
+    label: "Recipes"
+    type: collection
+    path: src/recipes
+    output: true
+    fields:
+      - name: title
+        label: "Recipe Name"
+        type: string
+      - name: date
+        label: "Publish Date"
+        type: date
+      - name: image
+        label: "Image"
+        type: image
+      - name: prep_time
+        label: "Prep Time (minutes)"
+        type: number
+      - name: cook_time
+        label: "Cook Time (minutes)"
+        type: number
+      - name: servings
+        label: "Servings"
+        type: number
+      - name: ingredients
+        label: "Ingredients"
+        type: list
+        field:
+          name: ingredient
+          label: "Ingredient"
+          type: string
+      - name: body
+        label: "Instructions"
+        type: rich-text
