@@ -4,11 +4,11 @@
   "main": ".eleventy.js",
   "scripts": {
     "fetch": "node scripts/fetch-news.js",
-    "postfetch": "echo 'Finished fetching data.'",
+    "postfetch": "npm run seo",
     "start": "npm run fetch && npx eleventy --watch --serve --quiet",
     "serve": "npx eleventy --watch --serve --quiet",
     "seo": "node scripts/optimize-seo.js",
-    "build": "npm run fetch && npm run seo && npx eleventy"
+    "build": "npm run fetch && npx eleventy"
   },
   "keywords": [],
   "author": "",
@@ -18,10 +18,9 @@
     "@11ty/eleventy": "^3.1.2"
   },
   "dependencies": {
-    "@extractus/article-extractor": "^8.0.19",
+    "@extractus/article-extractor": "^8.0.20",
     "@mozilla/readability": "^0.6.0",
     "axios": "^1.12.2",
-
     "he": "^1.2.0",
     "jsdom": "^26.1.0",
     "luxon": "^3.7.1",

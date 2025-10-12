@@ -75,6 +75,15 @@ function updateSitemap(allArticles) {
 // Main SEO Workflow
 // =============================
 
+function printProgressBar(progress, total, barLength = 40) {
+  const percent = progress / total;
+  const filledLength = Math.round(barLength * percent);
+  const emptyLength = barLength - filledLength;
+  const bar = '█'.repeat(filledLength) + '-'.repeat(emptyLength);
+  const percentage = Math.round(percent * 100);
+  process.stdout.write(`\rOptimizing [${bar}] ${percentage}% | ${progress}/${total} Articles`);
+}
+
 async function optimizeSeo() {
   console.log('--- Starting SEO Optimization ---');
 
@@ -90,7 +99,16 @@ async function optimizeSeo() {
     'lifep.json'
   ];
 
+  let totalArticles = 0;
+  for (const fileName of filesToProcess) {
+    const filePath = path.join(DATA_DIR, fileName);
+    const fileContent = fs.readFileSync(filePath, 'utf-8');
+    const articles = JSON.parse(fileContent);
+    totalArticles += articles.length;
+  }
+
   let allArticles = [];
+  let processedCount = 0;
 
   for (const fileName of filesToProcess) {
     const filePath = path.join(DATA_DIR, fileName);
@@ -119,24 +137,26 @@ async function optimizeSeo() {
         if (result.seo_title && result.meta_description) {
           optimizedArticle.title = result.seo_title;
           optimizedArticle.description = result.meta_description;
-          console.log(`Successfully optimized: ${article.title}`);
         } else {
           throw new Error('Invalid API response');
         }
       } catch (error) {
-        console.error(`RapidAPI Error for "${article.title}":`, error.message, '. Using fallback.');
         // Fallback logic
         optimizedArticle.description = optimizedArticle.body ? optimizedArticle.body.substring(0, 150) : '';
       }
 
       optimizedArticle.schema = generateNewsSchema(optimizedArticle);
       optimizedArticles.push(optimizedArticle);
+      processedCount++;
+      printProgressBar(processedCount, totalArticles);
     }
 
     fs.writeFileSync(filePath, JSON.stringify(optimizedArticles, null, 2));
-    console.log(`Successfully optimized and saved ${fileName}`);
     allArticles = allArticles.concat(optimizedArticles);
   }
+
+  process.stdout.write('\n'); // New line after progress bar
+  console.log('All files optimized successfully.');
 
   updateSitemap(allArticles);
   await pingGoogle();
