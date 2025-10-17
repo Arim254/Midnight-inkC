@@ -1,55 +1,5 @@
 [
   {
-    "title": "Cybersecurity firm F5's stock sinks 10% after disclosing nation-state hack",
-    "url": "https://www.cnbc.com/2025/10/16/cybersecurity-f5-stock-hack.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108013192-1722285698943-gettyimages-1232299129-PGONCHAR_W1056.jpeg?v=1760633582&w=1920&h=1080",
-    "tag": "Finance",
-    "date": "2025-10-16T20:46:23.000Z",
-    "description": "Pavlo Gonchar | SOPA Images | Lightrocket | Getty ImagesU.S. cybersecurity company F5 closed down 10% on Thursday after disclosing a system breach in ",
-    "body": "Pavlo Gonchar | SOPA Images | Lightrocket | Getty ImagesU.S. cybersecurity company F5 closed down 10% on Thursday after disclosing a system breach in which a \"highly sophisticated nation-state threat actor\" gained long-term access to some systems.The stock had its worst day since April 27, 2022, when the stock fell 12.8%.The company disclosed the breach in a Securities and Exchange Commission filing on Wednesday and said the hack affected its BIG-IP product development environment. F5 said the attacker infiltrated files containing some source code and information on \"undisclosed vulnerabilities\" in BIG-IP.The breach was later attributed to state-backed hackers from China, Bloomberg reported, citing people familiar with the matter.F5, which was made aware of the attack in August, said they have not seen evidence of any new unauthorized activity.Read more CNBC tech news$1 trillion-worth of AI deals between OpenAI, Nvidia and others, in one chartWaymo plans robotaxi launch in London, marking its European debutASML looks to calm fears over 2026 growth as it warns of China sales declineMeta removes Facebook page allegedly used to target ICE agents after pressure from DOJ\"We have no knowledge of undisclosed critical or remote code vulnerabilities, and we are not aware of active exploitation of any undisclosed F5 vulnerabilities,\" F5 said in a statement.The cybersecurity giant told customers that hackers were in the network for at least 12 months and that the breach used a malware called Brickstorm, according to Bloomberg.F5 would not confirm the information.Brickstorm is attributed to a suspected China-nexus threat dubbed UNC5221, Google Threat Intelligence Group said in a blog post. The malware is used for maintaining \"long-term stealthy access\" and can remain undetected in victim systems for an average of 393 days, according to Mandiant.The attack prompted an emergency directive from the Cybersecurity and Infrastructure Security Agency on Wednesday, telling all agencies using F5 software or products to apply the latest update.\"The alarming ease with which these vulnerabilities can be exploited by malicious actors demands immediate and decisive action from all federal agencies,\" CISA Acting Director Madhu Gottumukkala said. \"These same risks extend to any organization using this technology, potentially leading to a catastrophic compromise of critical information systems.\"The UK's National Cyber Security Centre also issued guidance for the F5 attack, advising customers to install security updates and continue monitoring for threats.",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Cybersecurity firm F5's stock sinks 10% after disclosing nation-state hack",
-      "image": [
-        "https://image.cnbcfm.com/api/v1/image/108013192-1722285698943-gettyimages-1232299129-PGONCHAR_W1056.jpeg?v=1760633582&w=1920&h=1080"
-      ],
-      "datePublished": "2025-10-16T20:46:23.000Z",
-      "dateModified": "2025-10-16T20:46:23.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "U.S. regulators toss out rules requiring banks to prepare for climate change",
-    "url": "https://www.cnbc.com/2025/10/16/regulators-toss-out-rules-requiring-banks-to-prepare-for-climate-change.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108210001-1760020804299-gettyimages-2239539458-FED_BANK_CONFERENCE.jpeg?v=1760020832&w=1920&h=1080",
-    "tag": "Finance",
-    "date": "2025-10-16T19:38:38.000Z",
-    "description": "Michelle Bowman, vice chair for supervision at the US Federal Reserve, during the Federal Reserve Board Community Bank Conference in Washington, DC, U",
-    "body": "Michelle Bowman, vice chair for supervision at the US Federal Reserve, during the Federal Reserve Board Community Bank Conference in Washington, DC, US, on Thursday, Oct. 9, 2025. Eric Lee | Bloomberg | Getty ImagesRegulators are doing away with controversial rules that required banks to plan for losses in the event of climate-related events, according to an announcement Thursday.A joint release from the Federal Deposit Insurance Corporation, the Office of the Comptroller of the Currency and the Federal Reserve said they no longer believe the requirements are necessary as they are redundant with other provisions banks make to plan for emergencies and unusual events.\"The agencies do not believe principles for managing climate-related financial risk are necessary because the agencies' existing safety and soundness standards require all supervised institutions to have effective risk management commensurate with their size, complexity, and activities,\" a joint release from the three regulators said.Fed Governor Michael Barr, the former vice chair for supervision, issued a statement disagreeing with the move.\"Rescinding the principles is shortsighted and will make the financial system riskier even as climate-related financial risks grow,\" Barr said in a statement.Mission creepTrump administration officials have criticized the Fed for falling prey to mission creep, or exceeding the scope of its mandates for monetary policy and bank supervision. The climate change provisions, established in October 2023, were one point of criticism.Chair Jerome Powell has repeatedly stated that climate is not a direct Fed issue. The rules required banks, as part of routine testing, to list potential losses they might suffer from climate-related issues.Governor Michelle Bowman, a Trump appointee who succeeded Barr as the Fed banking supervisor, praised the move rescinding the rules as part of an attempt at \"refocusing the supervisory process on material financial risk.\"\"Rescission of the climate principles is an important step in this process,\" Bowman said. She criticized the climate rules, saying \"the effect of this guidance was to create confusion about supervisory expectations and increase compliance cost and burden without a commensurate improvement to the safety and soundness of financial institutions or to the financial stability of the United States.\"While acknowledging the risks that climate change poses, Bowman said the Fed's mission does \"not extend to climate policymaking.\"",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "U.S. regulators toss out rules requiring banks to prepare for climate change",
-      "image": [
-        "https://image.cnbcfm.com/api/v1/image/108210001-1760020804299-gettyimages-2239539458-FED_BANK_CONFERENCE.jpeg?v=1760020832&w=1920&h=1080"
-      ],
-      "datePublished": "2025-10-16T19:38:38.000Z",
-      "dateModified": "2025-10-16T19:38:38.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "U.S. Chamber of Commerce sues Trump administration over $100,000 H-1B visa fee",
     "url": "https://www.cnbc.com/2025/10/16/us-chamber-of-commerce-sues-trump-administration-over-100000-h-1b-visa-fees.html",
     "image": "https://image.cnbcfm.com/api/v1/image/108202337-17585665152025-09-22t182539z_998170269_rc26xga8rlg3_rtrmadp_0_usa-trump-visa-india.jpeg?v=1758566537&w=1920&h=1080",
@@ -75,222 +25,22 @@
     }
   },
   {
-    "title": "Asia-Pacific markets dip as banking and trade fears take hold on Wall Street",
-    "url": "https://www.cnbc.com/2025/10/17/asia-markets-friday-hang-seng-hsi-kospi-nikkei-225.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108185345-1755095034996-gettyimages-1206728108-dss02414.jpeg?v=1755095047&w=1920&h=1080",
+    "title": "Nestle announces plans to slash 16,000 jobs, stock jumps 9%",
+    "url": "https://www.cnbc.com/2025/10/16/nestle-3q-earnings-announces-16000-job-cuts.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/107319809-1697706238236-gettyimages-1234257586-UK_NESTLE.jpeg?v=1697707649&w=1920&h=1080",
     "tag": "Finance",
-    "date": "2025-10-17T00:51:34.000Z",
-    "description": "Activity on Elizabeth Street (at the intersection of Bourke St Mall), Melbourne on a cloudy day.Charlie Rogers | Moment | Getty ImagesJapan's Nikkei 2",
-    "body": "Activity on Elizabeth Street (at the intersection of Bourke St Mall), Melbourne on a cloudy day.Charlie Rogers | Moment | Getty ImagesJapan's Nikkei 225 lost 1% in early trade, while the broad-based Topix fell 0.83%.South Korea's Kospi dipped 0.47%, but the small-cap Kosdaq bucked the trend and climbed 0.15%.Australia's S&P/ASX 200 started the day down 0.6%.Hong Kong's Hang Seng Index futures were at 25,862, lower than the HSI's last close of 25,888.51.Singapore's non-oil domestic exports posted a sharp rebound in September, jumping 6.9% from a year earlier, defying expectations of a 2.1% drop and reversing an 11.3% fall in August.U.S. stock futures were slightly lower on Thursday night stateside after the previous session saw a sell-off fueled by concerns about regional banks' loan practices.Overnight in the U.S., the Dow Jones Industrial Average lost 301.07 points, or nearly 0.7%, to close at 45,952.24. Earlier in the day, the 30-stock index had gained 170 points.The S&P 500 finished 0.6% lower at 6,629.07, giving up a 0.6% gain at the highs of the session. The Nasdaq Composite fell 0.5% to settle at 22,562.54.— CNBC's Liz Napolitano, Pia Singh and Alex Harring contributed to this report.",
+    "date": "2025-10-16T16:25:22.000Z",
+    "description": "KitKat chocolate bars, manufactured by Nestle SA, arranged in London, U.K., on Monday, July 26, 2021. Nestle report their half-year results on July 29",
+    "body": "KitKat chocolate bars, manufactured by Nestle SA, arranged in London, U.K., on Monday, July 26, 2021. Nestle report their half-year results on July 29. Photographer: Hollie Adams/Bloomberg via Getty ImagesBloomberg | Bloomberg | Getty ImagesNestle said Thursday it will cut 16,000 jobs as the firm's new CEO, Philipp Navratil, looks to accelerate a turnaround at the consumer goods giant.In a bid to improve operational efficiency, the firm said it will cut 12,000 white-collar jobs and a further 4,000 roles will be reduced over the next two years.\"We are transforming how we work,\" Navratil wrote in a LinkedIn post summarizing the company's earnings report. \"We are evolving and will simplify our organization and automate our processes.\"It's unclear how Nestle plans to incorporate more automation into its corporate offices, but company spokesperson Chiara Valsangiacomo told CNBC that the initiative is \"much broader\" than replacing roles with artificial intelligence. Other companies, primarily in the tech sector, have slashed jobs as they turn to AI to replace human labor. So far this year, more than 17,000 job losses have been specifically tied to AI, according to a recent report from Challenger, Gray & Christmas.Shares of Nestle closed 9.3% higher on Thursday. The stock price jump boosted Europe's food and beverage sector, which was up more than 4.2% at the end of the session.Under its former CEO, Laurent Freixe, Nestle had already announced a cost-savings program worth 2.5 billion Swiss francs ($3.14 billion). This has now been accelerated to 3 billion francs by the end of 2027. The company posted a better-than-expected organic growth rate of 4.3% in the third quarter as it battles an uncertain consumer outlook amid U.S. tariffs and an increase in raw material prices, such as cocoa and coffee beans. Notably, real internal growth, or RIG, returned to positive territory in the third quarter — up 1.5% — as the maker of Nespresso and KitKat saw growth investments pay off, also helped by easier comparisons. watch nowA miss on RIG in the second quarter had led to a sharp underperformance of Nestle shares. Ahead of the results, analysts at HSBC had already expected RIG to return to positive territory \"owing to easier comparatives, incrementally greater benefits from Nestle's own actions plus reduced elasticity effects from price increases.\"However, the company's business in Greater China continued to underperform, with the region negatively impacting organic growth by 80 basis points and RIG by 40 basis points. Nestle added that \"new management was now in place and it was executing its plan to transform the business.\" The firm's strategy of focusing on winners and turning around its losers helped driver better-than-expected third-quarter sales, said Jon Cox, head of European consumer equities, at Kepler Cheuvreux.\"Overall, it is extremely positive and certainly looks operationally as if the company has turned the corner with the better performance while the management upheaval over the summer fades into the background,\" Cox said, adding he expects the stock to react very positively.Turbulent yearThe Vevey, Switzerland-based consumer goods giant has come under pressure from investors as its operating and share performance have trailed peers.Its shares are off more than 40% from their December 2021 peak, and have fallen 9% over the past 12 months. Stock Chart IconStock chart iconNestle's sharesNestle has endured a turbulent year, as it saw its CEO Freixe ousted over an undisclosed romantic relationship on Sept. 1. His successor, Navratil is the former CEO of the company's Nespresso business. He has pledged to \"fully embrace the company's strategic direction, as well as the action plan in place to drive Nestle's performance,\" and vowed to \"accelerate execution and to drive the value creation plan with intensity.\" Only two weeks later, Nestle saw itself forced to accelerate Chairman Paul Bulcke's departure, owing to pressure from institutional shareholders over his handling of Freixe's allegations. Bulcke, also a former CEO of Nestle, stepped down from his role earlier than planned, handing over the reins to Vice Chairman and Chairman-elect Pablo Isla, a former Inditex CEO, who was set to take over after Nestle's AGM in April 2026. Analysts say the new leadership duo will need to earn back trust from investors. \"Many long term investors … would have to hear more from someone who is relatively unknown to the market before becoming more positive,\" Deutsche Bank analysts wrote in a September note.While the initial focus will be on recovery in volume growth and its Chinese business, longer-term investors will be keen to receive updates on the partial sale of Nestle's struggling water unit as well as its underperforming vitamins business, along with plans for its 20% stake in L'Oreal. \"Now we must do more and move faster to accelerate our growth momentum,\" Navratil said Thursday in a statement on the company's earnings. \"As Nestle moves forward, we will be rigorous in our approach to resource allocation, prioritising the opportunities and businesses with the highest potential return.\"— CNBC's Amelia Lucas contributed reporting for this story.Correction: Jon Cox is head of European consumer equities at Kepler Cheuvreux. An earlier version misspelled the name of the firm.",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Asia-Pacific markets dip as banking and trade fears take hold on Wall Street",
+      "headline": "Nestle announces plans to slash 16,000 jobs, stock jumps 9%",
       "image": [
-        "https://image.cnbcfm.com/api/v1/image/108185345-1755095034996-gettyimages-1206728108-dss02414.jpeg?v=1755095047&w=1920&h=1080"
+        "https://image.cnbcfm.com/api/v1/image/107319809-1697706238236-gettyimages-1234257586-UK_NESTLE.jpeg?v=1697707649&w=1920&h=1080"
       ],
-      "datePublished": "2025-10-17T00:51:34.000Z",
-      "dateModified": "2025-10-17T00:51:34.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "United Airlines CEO warns an extended shutdown will hurt bookings",
-    "url": "https://www.cnbc.com/2025/10/16/government-shutdown-united-airlines-ceo-scott-kirby.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108136400-1745527498700-gettyimages-2211826184-aw1a9595_h8xgnxlx.jpeg?v=1745527634&w=1920&h=1080",
-    "tag": "Finance",
-    "date": "2025-10-16T18:58:33.000Z",
-    "description": "CEO of United Airline Scott Kirby speaks during the Semafor 2025 World Economy Summit at Conrad Washington on April 24, 2025 in Washington, DC. Alex W",
-    "body": "CEO of United Airline Scott Kirby speaks during the Semafor 2025 World Economy Summit at Conrad Washington on April 24, 2025 in Washington, DC. Alex Wong | Getty ImagesUnited Airlines CEO Scott Kirby said the federal government shutdown could hurt bookings if it continues.Despite the funding impasse, essential federal employees including Transportation Security Administration officers and air traffic controllers are required to work without pay. The shutdown started Oct. 1 as Congress failed to pass a funding bill.Speaking on an earnings call on Thursday, Kirby said the shutdown so far hasn't impacted the carrier's business.\"I think that at least for the first couple of weeks, people thought it was going to get resolved, so they just kind of continued business as usual,\" he said. \"But as time goes on, as people read headlines and say, 'it's not going to get resolved soon.' People start to lose confidence in the government and the government's ability to resolve this. And that's going to start to impact bookings.\"Kirby said there isn't an exact cutoff for when the airline could start to see an impact, but added \"every day that goes by, the risk to the U.S. economy grows. So I hope we will avoid an unforced error here.\"Read more CNBC airline newsAir traffic control shortages add to U.S. flight delays, FAA saysSpirit Airlines on track for a $475 million bankruptcy lifeline'Seconds count': Avoiding airplane collisions at airports could come down to cockpit alertsU.S. startup airline Breeze Airways plans first international flightsDelta Air Lines CEO Ed Bastian last week made a similar warning about how a prolonged shutdown could affect air travel but emphasized that the airline's operation hadn't been affected.The shutdown has raised concerns about already thin-staffing among air traffic controllers, the Federal Aviation Administration said. Insufficient staffing at some FAA facilities last week disrupted flights at airports, including in Nashville, Tennessee, and Burbank, California.Members of the union that represents U.S. air traffic controllers handed out leaflets outside of LaGuardia Airport in New York, as well as in Washington, D.C., and Chicago on Tuesday to urge the public to ask lawmakers to end the shutdown.A more-than-monthlong shutdown starting in late 2018 ended hours after a shortage of air traffic controllers snarled air travel in the New York area.",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "United Airlines CEO warns an extended shutdown will hurt bookings",
-      "image": [
-        "https://image.cnbcfm.com/api/v1/image/108136400-1745527498700-gettyimages-2211826184-aw1a9595_h8xgnxlx.jpeg?v=1745527634&w=1920&h=1080"
-      ],
-      "datePublished": "2025-10-16T18:58:33.000Z",
-      "dateModified": "2025-10-16T18:58:33.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Fed Governor Miran wants a half-point cut this month, while Waller backs another quarter-point move",
-    "url": "https://www.cnbc.com/2025/10/16/fed-governor-miran-wants-a-half-point-cut-this-month-while-waller-backs-another-quarter-point-move.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108212521-1760554357457-251015_CNBC_InvestInAmerica_Rush_043.jpg?v=1760554409&w=1920&h=1080",
-    "tag": "Finance",
-    "date": "2025-10-16T15:35:44.000Z",
-    "description": "Federal Reserve Governor Stephen Miran speaks with CNBC during the Invest i America Forum on Oct. 15, 2025.CNBCFederal Reserve Governors Stephen Miran",
-    "body": "Federal Reserve Governor Stephen Miran speaks with CNBC during the Invest i America Forum on Oct. 15, 2025.CNBCFederal Reserve Governors Stephen Miran and Christopher Waller provided conflicting views on how quickly the central bank should lower interest rates in the face of a weakening labor market and heightened geopolitical tensions.Miran said Thursday he plans to repeat his push for a half percentage point interest rate cut when the Fed meets later this month.In a speech delivered in New York, Waller advocated a quarter percentage point reduction at the October meeting, a position that appears more in line with the Fed consensus.Taken together and combined with recent statements from other monetary policymakers, the rate-setting Federal Open Market Committee looks to be on a clear path to more reductions, the extent to which remains unclear.\"Based on all of the data we have on the labor market, I believe that the FOMC should reduce the policy rate another 25 basis points at our meeting that concludes Oct. 29,\" Waller told the Council on Foreign Relations. \"But beyond that point, I will be looking for how the solid GDP data reconcile with the softening labor market.\"Fed officials have been operating in a quandary between indications of a standstill in hiring against nagging inflation pressures exacerbated by President Donald Trump's tariffs. Waller has been among officials advocating an approach in which the Fed looks through the tariffs as one-off price increases that will not provide lasting inflationary pressures.Waller pointed to two scenarios — one in which gross domestic product continues its upward climb and the labor market improves, in which case the Fed would need a more cautious approach on cutting, and the other in which the economic picture darkens and additional rate cuts on the order of up to 1.25 percentage points are necessary.\"What I would want to avoid is rekindling inflationary pressure by moving too quickly and squandering the significant progress we have made taming inflation,\" he said. \"The labor market has been sending some clear warnings lately, and we should be ready to act if those warnings are validated by what we learn in the coming weeks and months.\"'It should be 50'Both Waller and Miran were appointed by President Donald Trump. Waller is considered one of the final front-runners to succeed Chair Jerome Powell when his term expires in May 2026.In separate remarks, Miran conceded he still expects his colleagues to vote for another quarter-point reduction even as he thinks current circumstances warrant a more aggressive approach.\"My view is that it should be 50\" basis points, he said during a Fox Business interview. \"However, I expect it to be an additional 25 and I think that we're probably set up for three 25 basis point cuts this year, for a total of 75 basis points this year.\"One basis point equals 0.01%, so 50 would be the equivalent of half a percentage point. Miran pushed for a half-point cut at the September meeting but was outvoted 11-1 on the Federal Open Market Committee.Earlier this week, Powell indicated that a softening labor market kept the door open to additional easing. Participants at the September meeting indicated the likelihood of two more moves coming this year, though Miran favored an approach that would lop a total 1.25 percentage points off the fed funds rate by the end of 2025.A government shutdown that has blocked the issuance of most key data points has made the Fed's job tougher.\"It would be really helpful to have the economic data in order to be able to make the decisions we need to make,\" Miran said. \"Certainly, we would want to be inspecting the economy for signs of moves lower in inflation, for signs of changes in the job market. But without those data, we still have to make a decision anyway, and so we'll have to rely upon our forecasts for doing so.\"Miran said economic growth largely looks \"OK for most of this year\" though he is concerned about the recent acceleration in tensions between the U.S. and China, which he sees as boosting the case for big rate cuts.The FOMC next meets Oct. 28-29, with markets pricing in a nearly 100% of a quarter-point reduction.",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Fed Governor Miran wants a half-point cut this month, while Waller backs another quarter-point move",
-      "image": [
-        "https://image.cnbcfm.com/api/v1/image/108212521-1760554357457-251015_CNBC_InvestInAmerica_Rush_043.jpg?v=1760554409&w=1920&h=1080"
-      ],
-      "datePublished": "2025-10-16T15:35:44.000Z",
-      "dateModified": "2025-10-16T15:35:44.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Illinois Gov. JB Pritzker won $1.4 million gambling last year, tax filings show",
-    "url": "https://www.cnbc.com/2025/10/16/pritzker-tax-gambling-governor.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108209346-1760629636357-108209346-1759934133559-gettyimages-2239369666-US-NEWS-CHICAGO-TROOPS-PRITZKER-TRUMP-1-TB.jpg?v=1760629689&w=1920&h=1080",
-    "tag": "Finance",
-    "date": "2025-10-16T17:24:45.000Z",
-    "description": "Illinois Gov. JB Pritzker stands with other elected officials to discuss federal deployments in Chicago, Sept. 29, 2025.E. Jason Wambsgans | Tribune N",
-    "body": "Illinois Gov. JB Pritzker stands with other elected officials to discuss federal deployments in Chicago, Sept. 29, 2025.E. Jason Wambsgans | Tribune News Service | Getty ImagesIllinois Gov. JB Pritzker won $1.4 million from gambling on cards during a single vacation trip to Las Vegas last year with his wife and friends, he said Thursday.\"I was incredibly lucky,\" Pritzer said at a press conference, a day after his gubernatorial campaign released federal income tax returns that detailed his gambling earnings. \"You have to be, to end up ahead, frankly, going to a casino anywhere,\" the Democrat said. \"It was in Las Vegas, and I like to play cards.\"Pritzker, a billionaire who is considered a possible candidate for the White House in 2028, did not say what game he won at.But his campaign told NBC News that he won the money from playing blackjack. A campaign aide told NBC that Pritzker plans to donate the winnings.Pritzker and his wife reported nearly $10.7 million in total income in 2024, according to federal and state tax filings the campaign shared with news outlets.Read more CNBC politics coverageIllinois Gov. JB Pritzker won $1.4 million gambling last year, tax filings showTrump says he and Putin will meet in Hungary to discuss war in UkraineFeds to seek indictment against former Trump advisor John Bolton on Thursday: ReportsTrump says he might attend Supreme Court tariff case arguments next monthJudge blocks Trump from firing federal workers during government shutdown for nowDOJ seizes $15 billion in bitcoin from 'pig butchering' scam based in CambodiaBessent says market weakness won't deter U.S. from taking strong action against ChinaTrump threatens China with cooking oil embargo over soybean snubTrump shutdown job cuts affect bipartisan prioritiesTrump trade rep says 100% tariff on China depends on Beijing's next moveQatar Air Force facility to be built at USAF base in Idaho, Defense Secretary Hegseth saysTrump nominee Paul Ingrassia reportedly accused of sexual harassmentCNBC has reached out to Pritzker's campaign for comment on his tax filings.Pritzker has emerged as one of President Donald Trump's highest-profile antagonists, as the two clash over federal immigration operations in Chicago and other issues.",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Illinois Gov. JB Pritzker won $1.4 million gambling last year, tax filings show",
-      "image": [
-        "https://image.cnbcfm.com/api/v1/image/108209346-1760629636357-108209346-1759934133559-gettyimages-2239369666-US-NEWS-CHICAGO-TROOPS-PRITZKER-TRUMP-1-TB.jpg?v=1760629689&w=1920&h=1080"
-      ],
-      "datePublished": "2025-10-16T17:24:45.000Z",
-      "dateModified": "2025-10-16T17:24:45.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Regional banks, Jefferies shares tank as concerns about sour loans grow on Wall Street",
-    "url": "https://www.cnbc.com/2025/10/16/regional-banks-and-jefferies-shares-tank-as-concerns-grow-on-wall-street-about-sour-loans.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108213227-1760642972003-108213227-1760642655949-gettyimages-1692846984-JEFFERIES_EARNS.jpeg?v=1760644697&w=1920&h=1080",
-    "tag": "Finance",
-    "date": "2025-10-16T20:11:01.000Z",
-    "description": "Jefferies headquarters in New York, US, on Wednesday, Aug. 23, 2023.Jeenah Moon | Bloomberg | Getty ImagesStock Chart IconStock chart iconZION and KRE",
-    "body": "Jefferies headquarters in New York, US, on Wednesday, Aug. 23, 2023.Jeenah Moon | Bloomberg | Getty ImagesStock Chart IconStock chart iconZION and KRE, 1-dayThe bankruptcies of two auto industry-related companies this year have raised concerns about loose lending practices, especially in the opaque private credit market. That's left both the banking industry and investors concerned about whether instances of loans gone wrong indicate a burgeoning crisis.The latest signs of trouble came when Zions said Wednesday evening it faced a sizable charge because of bad loans to a couple of borrowers. Despite expecting this was an isolated incident, the bank said that it will encourage its counsel to have an independent review.Western Alliance then alleged Thursday a borrower had committed fraud. That rattled investors despite the company saying it could reaffirm its guidance and 2025 outlook.\"While  we  are  questioning  why  all  of  these  credit  'one offs'  are  seemingly occurring in a short period of time, the reality is that even though these exposures may be 'well-contained' and have a 'limited financial impact,' this is an industry where investors — especially those that are new to this sector — tend to 'sell first and ask questions later,' especially when it comes to elevated credit concerns,\" JPMorgan banking analyst Anthony Elian wrote in a Thursday note to clients.Looking for 'cockroaches'The worries about the health of the banking industry originated with the bankruptcies of companies related to the auto sector: First Brands and Tricolor Holdings.Auto parts maker First Brands went bankrupt last month and announced this week that founder Patrick James stepped down as chief executive. The Ohio-based company is facing a Justice Department criminal investigation, the Wall Street Journal reported, citing people familiar with the matter.Shares of Jefferies, which has exposure to First Brands, fell more than 10% on Thursday. The investment bank's stock has lost more 25% in October, making it poised to record its worst month since the Covid pandemic took hold in March 2020.Jefferies said that hedge funds it runs are owed $715 million from companies tied to First Brands, while UBS said that it has about $500 million in exposure.\"When you see one cockroach, there are probably more,\" JPMorgan CEO Jamie Dimon said on the company's earnings conference call earlier this week in relation to First Brands and Tricolor Holdings fallout.Stock Chart IconStock chart iconJEF, 1-monthJPMorgan did not have exposure to First Brands, but did take a $170 million charge-off last quarter from Tricolor.\"I asked Jamie Dimon the question about these problems, and you heard, when you see one cockroach, there's probably a few more,\" said Mike Mayo, senior banking analyst at Wells Fargo. \"Investors are looking around for cockroaches. That's what's happening.\"An 'opaque' marketMayo said credit quality in the overall industry is still considered favorable. However, he said the recent developments show the low margin for error when there's hiccups in the credit market.Additionally, because the private credit market is so \"opaque,\" there can be a \"major wave of concern without really knowing if there is even a problem,\" said Peter Corey of Pave Finance.This week's lending revelations mark the latest challenge in recent years for regional banks. The industry went through a crisis in 2023 that began with the collapse of Silicon Valley Bank.Alternative and other asset managers also suffered in the Thursday downdraft resulting from concern about the health of some loans.Blue Owl Capital dropped more than 7%, while Ares Management and Blackstone fell more than 6% and 3%, respectively. Apollo Global Management lost more than 5% and Carlyle Group declined around 4%.To be sure, the declines in major banks were relatively subdued Thursday. JPMorgan shed more than 2%, while Bank of America lost around 3.5%.A bull market in stocks and the booming private credit market this year has calmed investors nerves about whether there is a systemic crisis emerging. The stock market Thursday appeared to be dragged lower by the decline in regional banks, leading the S&P 500 to finish lower.\"Today, I think, the risk to the bank space is idiosyncratic,\" said Timothy Coffey, associate director of depository research at Janney Montgomery Scott. \"The risk to the insured bank space for private credit could be more systemic, as well as the risk to credit quality from a weakening economy.\"— CNBC's Hugh Son, John Melloy and Scott Schnipper contributed to this report.",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Regional banks, Jefferies shares tank as concerns about sour loans grow on Wall Street",
-      "image": [
-        "https://image.cnbcfm.com/api/v1/image/108213227-1760642972003-108213227-1760642655949-gettyimages-1692846984-JEFFERIES_EARNS.jpeg?v=1760644697&w=1920&h=1080"
-      ],
-      "datePublished": "2025-10-16T20:11:01.000Z",
-      "dateModified": "2025-10-16T20:11:01.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "U.S. budget deficit edged lower in 2025 as tariffs, debt payments both saw new records",
-    "url": "https://www.cnbc.com/2025/10/16/us-budget-deficit-lower-in-2025-tariffs-debt-payments-both-at-records.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108147199-1747634311844-gettyimages-2211973571-20250424-194848.jpeg?v=1760637045&w=1920&h=1080",
-    "tag": "Finance",
-    "date": "2025-10-16T18:27:27.000Z",
-    "description": "The statue of former Treasury Secretary Albert Gallatin stands in front of the north wing of the U.S. Treasury Department headquarters building on Apr",
-    "body": "The statue of former Treasury Secretary Albert Gallatin stands in front of the north wing of the U.S. Treasury Department headquarters building on April 24, 2025, in Washington, DC, U.S.J. David Ake | Getty Images News | Getty ImagesThe U.S. budget deficit edged lower for 2025 as record-setting tariff collections helped offset what also were unprecedented numbers for payments on the spiraling national debt, the Treasury Department announced Thursday.In a year marked by a bruising trade war and high financing costs, the federal government managed to escape with a $1.78 trillion shortfall, some $41 billion, or 2.2%, less than in fiscal 2024.While that's still on the high end historically, the red ink would have been still worse had it not been for a massive surge in customs duties and a September surplus of $198 billion that also set a record for the month.President Donald Trump's tariffs were a major contributor to tariff collections of $202 billion for the year, representing a 142% surge from 2024. September saw $30 billion in tariff payments, up 295% from the same period a year ago.Treasury officials estimated Thursday that the dip in the budget shortfall will bring the ratio of deficit to gross domestic product to 5.9%. The measure has not been below 6% since 2022 and generally runs around the 3% area except in times of economic stress.In an interview last week, Treasury Secretary Scott Bessent, noting Congressional Budget Office estimates that the deficit-to-GDP number would be below 6%, said \"we're on our way\" to reducing the debt and deficit burden.The impact from the deficit was felt in interest paid on the $38 trillion national debt.Interest on the debt totaled more than $1.2 trillion, also a record and nearly $100 billion higher than the 2024 outlay.Excluding interest that the Treasury earns on its investments, net interest payments totaled $970 billion, topping defense spending by $57 billion and behind only Social Security, Medicare and health care costs in the national budget.Trump slapped controversial tariffs on U.S. imports earlier this year despite protests that they would spike inflation and hurt consumers, resulting in lower demand and a hit to economic growth.While there have been signs of price increases in tariff-sensitive items, the moves have been mostly incremental. Federal Reserve officials say they likely will lower their benchmark interest rate further as they expect any price increases to be temporary. The current fed funds rate stands at 4.00% to 4.25%.The government's fiscal year ended in September, with the U.S. collecting $5.2 trillion in revenue over the prior 12 months while spending just over $7 trillion.",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "U.S. budget deficit edged lower in 2025 as tariffs, debt payments both saw new records",
-      "image": [
-        "https://image.cnbcfm.com/api/v1/image/108147199-1747634311844-gettyimages-2211973571-20250424-194848.jpeg?v=1760637045&w=1920&h=1080"
-      ],
-      "datePublished": "2025-10-16T18:27:27.000Z",
-      "dateModified": "2025-10-16T18:27:27.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Government shutdown: Senate bill fails for 10th time, Kelly tells Trump to get involved",
-    "url": "https://www.cnbc.com/2025/10/16/trump-government-shutdown-senate-vote.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108013720-1722360878481-gettyimages-2163929554-kelly_BC_465_073024JPG.jpeg?v=1722360967&w=1920&h=1080",
-    "tag": "Finance",
-    "date": "2025-10-16T16:27:33.000Z",
-    "description": "watch nowA Republican bill to end the government shutdown failed in the Senate for the 10th time on Thursday, leaving lawmakers at a stalemate as the ",
-    "body": "watch nowA Republican bill to end the government shutdown failed in the Senate for the 10th time on Thursday, leaving lawmakers at a stalemate as the lapse in federal funding stretched into its third week.  The resolution came up short in a 51-45 vote that fell mostly along party lines. Sixty senators are needed to approve any stopgap bill; Republicans hold a narrow 53-seat majority in the Senate.Earlier Thursday, Democratic Sen. Mark Kelly called on President Donald Trump to get involved in the negotiations between Republican and Democratic senators to break the impasse.\"I think we need the president to make that happen, that he needs to engage with Mike Johnson and John Thune,\" Kelly said on CNBC's \"Squawk Box,\" referring to the Republicans who are the speaker of the House and the Senate majority leader, respectively.\"They seem to follow his lead on everything. That's the way this ends,\" the Arizona senator said.The sticking point in passing a funding deal is that Democrats insist that any such bill extend enhanced Affordable Care Act subsidies, which are set to expire at the end of 2025.A Democratic bill to keep in place those extra subsidies, which about 22 million Americans use to reduce the cost of their Obamacare health plans, is expected to cost nearly $1.5 trillion over a decade.\"The president has talked about how he wants this fixed. He wants these subsidies to be dealt with,\" Kelly said.\"So he agrees we should open the government and we should fix the subsidy issue under the Affordable Care Act, and that's all we want,\" Kelly said. \"So I don't see what the issue is.\"Thune and other Republicans have said they would be willing to discuss whether to extend enhanced ACA tax credits after a short-term funding extension is approved.In an interview Thursday with MSNBC's \"Morning Joe,\" Thune said, \"We are happy to sit down and talk about a solution on the ACA, tax credits, but that needs to happen in a separate context, you know, away from having the government open.\"Johnson, in an interview on \"Squawk Box\" on Thursday, said, \"This is not a health care fight. This is a very simple funding fight. It always was.\"\"They have created a red herring. The subsidies don't expire until the end of the year,\" Johnson said.\"We were always planning to have the thoughtful debate and deliberation over that in the month of October and November, before the subsidies expired. They know that. They grabbed that issue from the end of the year and pulled it back into September to try to pretend like that was the issue. It never was,\" Johnson said.The speaker also said there \"needs a dramatic amount of reform\" with the ACA subsidies, \"if indeed they're going to be extended.\"Punchbowl News reported on Thursday that \"there's a bipartisan group of senators discussing several different potential off-ramps\" to the shutdown stalemate \"involving the enhanced Obamacare subsidies.\"\"The group, led in part by Sen. Jeanne Shaheen (D-N.H.), is discussing the possibility of holding two side-by-side votes intended to end the shutdown,\" Punchbowl reported, cited people familiar with the matter.\"The first vote would be to reopen the government, while the second would be on a one-year extension of the Obamacare enhanced premium tax credits, plus a commitment to pass a longer-term solution by a date certain.\"",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Government shutdown: Senate bill fails for 10th time, Kelly tells Trump to get involved",
-      "image": [
-        "https://image.cnbcfm.com/api/v1/image/108013720-1722360878481-gettyimages-2163929554-kelly_BC_465_073024JPG.jpeg?v=1722360967&w=1920&h=1080"
-      ],
-      "datePublished": "2025-10-16T16:27:33.000Z",
-      "dateModified": "2025-10-16T16:27:33.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Ray-Ban maker EssilorLuxottica says Meta smart glasses are boosting growth",
-    "url": "https://www.cnbc.com/2025/10/16/ray-ban-maker-essilorluxottica-says-meta-smart-glasses-boosting-growth.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108201461-1758309556598-gettyimages-2235586867-META_CONNECT.jpeg?v=1760651677&w=1920&h=1080",
-    "tag": "Finance",
-    "date": "2025-10-16T19:42:09.000Z",
-    "description": "Meta Ray-Ban Gen 2 AI glasses during the Meta Connect event in Menlo Park, California, US, on Wednesday, Sept. 17, 2025. David Paul Morris | Bloomberg",
-    "body": "Meta Ray-Ban Gen 2 AI glasses during the Meta Connect event in Menlo Park, California, US, on Wednesday, Sept. 17, 2025. David Paul Morris | Bloomberg | Getty ImagesEssilorLuxottica said a healthy amount of its revenue growth in the third quarter was due to its partnership with Meta, primarily from its Ray-Ban brand, to develop and sell smart glasses.\"Clearly there is a lift coming from Ray-Ban Meta wearables as a product category,\" CFO Stefano Grassi said on the company's third-quarter earnings call.The European eyewear company said sales in in the quarter grew 11.7% year-over-year to 6.9 billion euros (about $8 billion) from 6.44 billion euros a year earlier. Of that growth, more than 4 percentage points came from wearables, which includes the Meta products, the company said. In 2019, Meta and Luxottica inked a deal for Ray-Ban Meta branded smart glasses. Most recently, Luxottica's Oakley brand has joined the partnership, with the debut in June of the Oakley Meta HSTN smart glasses. The companies are also working on a version of the smart glasses to be released under the Prada brand, CNBC reported in June.Luxottica, which also oversees several popular brands like Vogue Eyewear and Persol, has been heavily pushing internet-connected glasses that work with Meta's AI-powered digital assistant. The technology allows users to play music, take photos and perform other actions similar to how they would use smartphones.\"We believe that glasses will be the future,\" Grassi said, adding that the wearables business is profitable. \"Glasses will materially replace most of the functionality that today we have embedded into our phones.\"Grassi's statement echoes sentiments expressed by Meta CEO Mark Zuckerberg, who said in July that \"Personal devices like glasses that understand our context because they can see what we see, hear what we hear, and interact with us throughout the day will become our primary computing devices.\"A couple weeks into the fourth quarter, Grassi said he has \"a good degree of optimism\" for the period, in part because of the rollout of \"all the new products that have been recently presented at the Meta Connect,\" which will \"all play a role in our fourth-quarter profile.\"At the Connect event in September, Zuckerberg revealed the $799 Meta Ray-Ban Display glasses, which have a small digital display that can be manipulated with an accompanying wristband powered by neural technology. The company also unveiled new smart glasses, including the $499 Oakley Meta Vanguard glasses and the $379 Ray-Ban Meta (Gen 2) glasses.Grassi said that Luxottica's sales growth in North America in the third quarter had more to do with the Ray-Ban Meta glasses than the effects of tariffs, which led to higher prices for its products.He said the company will be able to reach the 10 million unit capacity that it had originally planned to hit by the end of 2026 earlier than anticipated.\"The overall ecosystem of wearables is going to bring not only revenue associated with the hardware but also the revenue associated with lenses\" and over time from services tied to AI.EssilorLuxottica shares rose 2.4% on Thursday. Meta isn't the only tech giant getting into the burgeoning smart glasses market.Alphabet announced in May a $150 million partnership with Warby Parker to develop smart glasses powered by Google's Gemini AI digital assistant, while China's Alibaba unveiled its smart glasses in July that utilize its Quark AI assistant. Apple and OpenAI are also reportedly developing smart glasses.WATCH: Arm CEO Rene Haas on new partnership with Meta.watch now",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Ray-Ban maker EssilorLuxottica says Meta smart glasses are boosting growth",
-      "image": [
-        "https://image.cnbcfm.com/api/v1/image/108201461-1758309556598-gettyimages-2235586867-META_CONNECT.jpeg?v=1760651677&w=1920&h=1080"
-      ],
-      "datePublished": "2025-10-16T19:42:09.000Z",
-      "dateModified": "2025-10-16T19:42:09.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Marc Benioff's call for troops in SF leads tech investor Ron Conway to leave Salesforce Foundation board",
-    "url": "https://www.cnbc.com/2025/10/16/benioff-sf-troop-comment-lead-ron-conway-resign-salesforce-foundation.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/107299302-1694537464866-gettyimages-472128376-TECHCRUNCH_NYC.jpeg?v=1760650187&w=1920&h=1080",
-    "tag": "Finance",
-    "date": "2025-10-16T22:33:39.000Z",
-    "description": "Ron Conway, founder of SV Angel, speaks during the TechCrunch Disrupt NYC 2015 conference in New York on May 4, 2015.Michael Nagle | Bloomberg | Getty",
-    "body": "Ron Conway, founder of SV Angel, speaks during the TechCrunch Disrupt NYC 2015 conference in New York on May 4, 2015.Michael Nagle | Bloomberg | Getty ImagesDays after suggesting that President Donald Trump should send federal troops to San Francisco, Salesforce CEO Marc Benioff is facing some consequences.Prominent startup investor Ron Conway, who backed companies including Google, Airbnb and Stripe, resigned from the board of the Salesforce Foundation on Thursday, CNBC has confirmed. Conway is a longtime Democratic donor who was a member of VCs for Kamala, and donated around $500,000 to at least two funds tied to Kamala Harris' unsuccessful 2024 election campaign.The New York Times was first to report on Conway's departure from the Salesforce Foundation. A Salesforce spokesperson confirmed his exit in an e-mailed statement.\"We have deep gratitude for Ron Conway and his incredible contributions to the Salesforce Foundation Board for over a decade,\" the spokesperson said, noting that the group has donated, \"$250 million to public schools and education nonprofits to advance opportunity and access for young people, including $30 million announced this week.\"The Trump administration recently deployed the National Guard to Portland, Oregon and Chicago, sparking protests and lawsuits and resulting in citizens and immigrants being detained without legal representation.In a story published late last week in the New York Times, Benioff indicated that he would welcome troops to San Francisco, home to Salesforce. The company's annual Dreamforce conference began in downtown San Francisco on Tuesday.\"We don't have enough cops, so if they can be cops, I'm all for it,\" Benioff told the Times.Benioff later appeared to walk back his comments, writing on X that safety is \"first and foremost, the responsibility of our city and state leaders.\" However, by that point Tesla CEO Elon Musk and other right-wing figures had seized on his original comments, amplifying them to their audiences.Musk, who has drawn criticism for his personal drug use, characterized downtown San Francisco as a \"drug zombie apocalypse.\" And on Wednesday, Trump called San Francisco \"a mess,\" and suggested possibly sending in the National Guard. According to the Times, Conway told Benioff in an email that their \"values were no longer aligned.\" While Benioff has donated to members of both parties, he has supported Democrats for president, including Barack Obama, Hillary Clinton and Kamala Harris.Conway is founder and managing partner of SV Angel, an early-stage venture firm. He has long been an advocate for tech in San Francisco, having founded trade organization sf.citi and helping start FWD.us, which focused on immigration reform.The Salesforce Foundation isn't his only connection to Benioff's philanthropic efforts. Conway is also a large donor to the UCSF Benioff Children's Hospital.Conway didn't respond to a request for comment.California Governor Gavin Newsom and San Francisco leaders on Wednesday issued statements and held press conferences to deliver the message that federal troops are not welcome in the city, and that crime is coming down.Conway has supported Newsom, including in 2021, when he opposed a recall effort against the Democratic governor.WATCH: Salesforce CEO Marc Benioff sits down with Jim Cramer at Dreamforce 2025watch now",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Marc Benioff's call for troops in SF leads tech investor Ron Conway to leave Salesforce Foundation board",
-      "image": [
-        "https://image.cnbcfm.com/api/v1/image/107299302-1694537464866-gettyimages-472128376-TECHCRUNCH_NYC.jpeg?v=1760650187&w=1920&h=1080"
-      ],
-      "datePublished": "2025-10-16T22:33:39.000Z",
-      "dateModified": "2025-10-16T22:33:39.000Z",
+      "datePublished": "2025-10-16T16:25:22.000Z",
+      "dateModified": "2025-10-16T16:25:22.000Z",
       "author": [
         {
           "@type": "Person",
@@ -325,6 +75,256 @@
     }
   },
   {
+    "title": "Regional banks, Jefferies shares tank as concerns about sour loans grow on Wall Street",
+    "url": "https://www.cnbc.com/2025/10/16/regional-banks-and-jefferies-shares-tank-as-concerns-grow-on-wall-street-about-sour-loans.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108213227-1760642972003-108213227-1760642655949-gettyimages-1692846984-JEFFERIES_EARNS.jpeg?v=1760644697&w=1920&h=1080",
+    "tag": "Finance",
+    "date": "2025-10-16T20:11:01.000Z",
+    "description": "Jefferies headquarters in New York, US, on Wednesday, Aug. 23, 2023.Jeenah Moon | Bloomberg | Getty ImagesStock Chart IconStock chart iconZION and KRE",
+    "body": "Jefferies headquarters in New York, US, on Wednesday, Aug. 23, 2023.Jeenah Moon | Bloomberg | Getty ImagesStock Chart IconStock chart iconZION and KRE, 1-dayThe bankruptcies of two auto industry-related companies this year have raised concerns about loose lending practices, especially in the opaque private credit market. That's left both the banking industry and investors concerned about whether instances of loans gone wrong indicate a burgeoning crisis.The latest signs of trouble came when Zions said Wednesday evening it faced a sizable charge because of bad loans to a couple of borrowers. Despite expecting this was an isolated incident, the bank said that it will encourage its counsel to have an independent review.Western Alliance then alleged Thursday a borrower had committed fraud. That rattled investors despite the company saying it could reaffirm its guidance and 2025 outlook.\"While  we  are  questioning  why  all  of  these  credit  'one offs'  are  seemingly occurring in a short period of time, the reality is that even though these exposures may be 'well-contained' and have a 'limited financial impact,' this is an industry where investors — especially those that are new to this sector — tend to 'sell first and ask questions later,' especially when it comes to elevated credit concerns,\" JPMorgan banking analyst Anthony Elian wrote in a Thursday note to clients.Looking for 'cockroaches'The worries about the health of the banking industry originated with the bankruptcies of companies related to the auto sector: First Brands and Tricolor Holdings.Auto parts maker First Brands went bankrupt last month and announced this week that founder Patrick James stepped down as chief executive. The Ohio-based company is facing a Justice Department criminal investigation, the Wall Street Journal reported, citing people familiar with the matter.Shares of Jefferies, which has exposure to First Brands, fell more than 10% on Thursday. The investment bank's stock has lost more 25% in October, making it poised to record its worst month since the Covid pandemic took hold in March 2020.Jefferies said that hedge funds it runs are owed $715 million from companies tied to First Brands, while UBS said that it has about $500 million in exposure.\"When you see one cockroach, there are probably more,\" JPMorgan CEO Jamie Dimon said on the company's earnings conference call earlier this week in relation to First Brands and Tricolor Holdings fallout.Stock Chart IconStock chart iconJEF, 1-monthJPMorgan did not have exposure to First Brands, but did take a $170 million charge-off last quarter from Tricolor.\"I asked Jamie Dimon the question about these problems, and you heard, when you see one cockroach, there's probably a few more,\" said Mike Mayo, senior banking analyst at Wells Fargo. \"Investors are looking around for cockroaches. That's what's happening.\"An 'opaque' marketMayo said credit quality in the overall industry is still considered favorable. However, he said the recent developments show the low margin for error when there's hiccups in the credit market.Additionally, because the private credit market is so \"opaque,\" there can be a \"major wave of concern without really knowing if there is even a problem,\" said Peter Corey of Pave Finance.This week's lending revelations mark the latest challenge in recent years for regional banks. The industry went through a crisis in 2023 that began with the collapse of Silicon Valley Bank.Alternative and other asset managers also suffered in the Thursday downdraft resulting from concern about the health of some loans.Blue Owl Capital dropped more than 7%, while Ares Management and Blackstone fell more than 6% and 3%, respectively. Apollo Global Management lost more than 5% and Carlyle Group declined around 4%.To be sure, the declines in major banks were relatively subdued Thursday. JPMorgan shed more than 2%, while Bank of America lost around 3.5%.A bull market in stocks and the booming private credit market this year has calmed investors nerves about whether there is a systemic crisis emerging. The stock market Thursday appeared to be dragged lower by the decline in regional banks, leading the S&P 500 to finish lower.\"Today, I think, the risk to the bank space is idiosyncratic,\" said Timothy Coffey, associate director of depository research at Janney Montgomery Scott. \"The risk to the insured bank space for private credit could be more systemic, as well as the risk to credit quality from a weakening economy.\"— CNBC's Hugh Son, John Melloy and Scott Schnipper contributed to this report.",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Regional banks, Jefferies shares tank as concerns about sour loans grow on Wall Street",
+      "image": [
+        "https://image.cnbcfm.com/api/v1/image/108213227-1760642972003-108213227-1760642655949-gettyimages-1692846984-JEFFERIES_EARNS.jpeg?v=1760644697&w=1920&h=1080"
+      ],
+      "datePublished": "2025-10-16T20:11:01.000Z",
+      "dateModified": "2025-10-16T20:11:01.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Ray-Ban maker EssilorLuxottica says Meta smart glasses are boosting growth",
+    "url": "https://www.cnbc.com/2025/10/16/ray-ban-maker-essilorluxottica-says-meta-smart-glasses-boosting-growth.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108201461-1758309556598-gettyimages-2235586867-META_CONNECT.jpeg?v=1760651677&w=1920&h=1080",
+    "tag": "Finance",
+    "date": "2025-10-16T19:42:09.000Z",
+    "description": "Meta Ray-Ban Gen 2 AI glasses during the Meta Connect event in Menlo Park, California, US, on Wednesday, Sept. 17, 2025. David Paul Morris | Bloomberg",
+    "body": "Meta Ray-Ban Gen 2 AI glasses during the Meta Connect event in Menlo Park, California, US, on Wednesday, Sept. 17, 2025. David Paul Morris | Bloomberg | Getty ImagesEssilorLuxottica said a healthy amount of its revenue growth in the third quarter was due to its partnership with Meta, primarily from its Ray-Ban brand, to develop and sell smart glasses.\"Clearly there is a lift coming from Ray-Ban Meta wearables as a product category,\" CFO Stefano Grassi said on the company's third-quarter earnings call.The European eyewear company said sales in in the quarter grew 11.7% year-over-year to 6.9 billion euros (about $8 billion) from 6.44 billion euros a year earlier. Of that growth, more than 4 percentage points came from wearables, which includes the Meta products, the company said. In 2019, Meta and Luxottica inked a deal for Ray-Ban Meta branded smart glasses. Most recently, Luxottica's Oakley brand has joined the partnership, with the debut in June of the Oakley Meta HSTN smart glasses. The companies are also working on a version of the smart glasses to be released under the Prada brand, CNBC reported in June.Luxottica, which also oversees several popular brands like Vogue Eyewear and Persol, has been heavily pushing internet-connected glasses that work with Meta's AI-powered digital assistant. The technology allows users to play music, take photos and perform other actions similar to how they would use smartphones.\"We believe that glasses will be the future,\" Grassi said, adding that the wearables business is profitable. \"Glasses will materially replace most of the functionality that today we have embedded into our phones.\"Grassi's statement echoes sentiments expressed by Meta CEO Mark Zuckerberg, who said in July that \"Personal devices like glasses that understand our context because they can see what we see, hear what we hear, and interact with us throughout the day will become our primary computing devices.\"A couple weeks into the fourth quarter, Grassi said he has \"a good degree of optimism\" for the period, in part because of the rollout of \"all the new products that have been recently presented at the Meta Connect,\" which will \"all play a role in our fourth-quarter profile.\"At the Connect event in September, Zuckerberg revealed the $799 Meta Ray-Ban Display glasses, which have a small digital display that can be manipulated with an accompanying wristband powered by neural technology. The company also unveiled new smart glasses, including the $499 Oakley Meta Vanguard glasses and the $379 Ray-Ban Meta (Gen 2) glasses.Grassi said that Luxottica's sales growth in North America in the third quarter had more to do with the Ray-Ban Meta glasses than the effects of tariffs, which led to higher prices for its products.He said the company will be able to reach the 10 million unit capacity that it had originally planned to hit by the end of 2026 earlier than anticipated.\"The overall ecosystem of wearables is going to bring not only revenue associated with the hardware but also the revenue associated with lenses\" and over time from services tied to AI.EssilorLuxottica shares rose 2.4% on Thursday. Meta isn't the only tech giant getting into the burgeoning smart glasses market.Alphabet announced in May a $150 million partnership with Warby Parker to develop smart glasses powered by Google's Gemini AI digital assistant, while China's Alibaba unveiled its smart glasses in July that utilize its Quark AI assistant. Apple and OpenAI are also reportedly developing smart glasses.WATCH: Arm CEO Rene Haas on new partnership with Meta.watch now",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Ray-Ban maker EssilorLuxottica says Meta smart glasses are boosting growth",
+      "image": [
+        "https://image.cnbcfm.com/api/v1/image/108201461-1758309556598-gettyimages-2235586867-META_CONNECT.jpeg?v=1760651677&w=1920&h=1080"
+      ],
+      "datePublished": "2025-10-16T19:42:09.000Z",
+      "dateModified": "2025-10-16T19:42:09.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "John Bolton indicted; ex-national security advisor is latest Trump foe to face criminal charges",
+    "url": "https://www.cnbc.com/2025/10/16/trump-john-bolton-grand-jury-indictment.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/107161399-1670277479722-gettyimages-1415440402-_m011039_8cd3137c-cd9b-444e-af75-15111270026b.jpeg?v=1760631763&w=1920&h=1080",
+    "tag": "Finance",
+    "date": "2025-10-17T03:14:49.000Z",
+    "description": "Former National Security Adviser John Bolton speaks to reporters after speaking in a panel hosted by the National Council of Resistance of Iran – U.S.",
+    "body": "Former National Security Adviser John Bolton speaks to reporters after speaking in a panel hosted by the National Council of Resistance of Iran – U.S. Representative Office (NCRI-US) at the Willard InterContinental Hotel on Aug. 17, 2022 in Washington, DC.Anna Moneymaker | Getty ImagesJohn Bolton, a former national advisor to President Donald Trump and former U.S. ambassador to the United Nations, was indicted Thursday by a federal grand jury in Maryland on charges of mishandling classified information.Bolton, 76, is the third high-profile Trump foe in recent weeks to be criminally charged after extensive criticism by the president.The 26-page indictment in U.S. District Court in Greenbelt charged the Republican with eight counts of transmission of national defense information and 10 counts of retention of national defense information.Bolton allegedly shared classified information with two relatives while he was Trump's national security advisor from April 2018 through September 2019, and kept such information at his home in Bethesda, Maryland, after leaving that post.The indictment also says that someone suspected of being affiliated with the Islamic Republic of Iran obtained classified information after hacking into Bolton's personal email account, which he used to share that information with his relatives.The charges came nearly two months after FBI agents raided Bolton's home and office in Washington, D.C., on Aug. 22 as part of the criminal investigation.Two senior federal law enforcement sources told NBC News that Bolton is expected to surrender to authorities on Friday and then appear in court later in the day.Bolton said he was innocent and that he was being targeted in a manner akin to the Soviet Union's secret police under Stalin because of his outspoken opposition to Trump.His claim echoed what former FBI Director James Comey and New York Attorney General Letitia James said after they were separately indicted recently in Virginia following calls by Trump for them to be charged.\"These charges are not just about his focus on me or my diaries, but his intensive effort to intimidate his opponents, to ensure that he alone determines what is said about his conduct,\" Bolton said of Trump, who previously was prosecuted for retaining classified documents after his first term in the White House.Trump told reporters at the White House that he had not known that Bolton had been indicted.\"You're telling me for the first time, but I think he's ... a bad person,\" Trump said. \"He's a bad guy. It's too bad. But that's the way it goes right? That's the way it goes.\"Bolton faces a maximum possible sentence of 10 years in prison on each count if convicted. But federal sentencing guidelines would recommend a punishment that would be much less severe.FBI agents carry boxes as they exit the building that houses the Washington office of former National Security Adviser John Bolton, in Washington, D.C., U.S., August 22, 2025. Aaron Schwartz | ReutersThe indictment says that Bolton, from 2018 until August 2025, shared \"more than a thousand pages of his day-to-day activities as the National Security Advisor — including information relating to the national defense which was classified up to the TOP SECRET/SCI [sensitive compartmented information] level — with two unauthorized individuals\" who were relatives of his.Neither of those two people, who were identified by MSNBC as Bolton's wife and daughter, had security clearances, the indictment says.\"Bolton also unlawfully retained documents, writings, and notes relating to the national defense, including information classified up to the TOP SECRET/SCI level, in his home,\" the indictment said.Bolton is accused of sending, through non-governmental messaging applications like AOL and Gmail, \"diary-like entries\" that contained information classified as top secret to his two relatives.In July 2021, a representative of Bolton told the FBI that a cyber hacker believed to be associated with Iran hacked Bolton's personal email account, according to the indictment.On July 25, 2021, Bolton received an email related to the hack, which threatened to notify the FBI about it.Read more CNBC politics coverageIllinois Gov. JB Pritzker won $1.4 million gambling last year, tax filings showTrump says he and Putin will meet in Hungary to discuss war in UkraineFeds to seek indictment against former Trump advisor John Bolton on Thursday: ReportsTrump says he might attend Supreme Court tariff case arguments next monthJudge blocks Trump from firing federal workers during government shutdown for nowDOJ seizes $15 billion in bitcoin from 'pig butchering' scam based in CambodiaBessent says market weakness won't deter U.S. from taking strong action against ChinaTrump threatens China with cooking oil embargo over soybean snubTrump shutdown job cuts affect bipartisan prioritiesTrump trade rep says 100% tariff on China depends on Beijing's next moveQatar Air Force facility to be built at USAF base in Idaho, Defense Secretary Hegseth saysTrump nominee Paul Ingrassia reportedly accused of sexual harassment\"This could be the biggest scandal since Hillary's emails were leaked, but this time on the G.O.P. side!\" the email said, according to the indictment. \"Contact me before it's too late.\"The indictment said the hacker had \"gained unauthorized access to the classified and national defense information in that account, which Bolton had previously emailed to Individuals 1 and 2 while he was the National Security Advisor.\" But Bolton allegedly never told the FBI of that fact, according to the indictment.Attorney General Pamela Bondi, in a statement on Bolton's indictment, said, \"There is one tier of justice for all Americans.\"\"Anyone who abuses a position of power and jeopardizes our national security will be held accountable. No one is above the law,\" Bondi said.Bolton's attorney, Abbe Lowell, in a statement, said, \"The underlying facts in this case were investigated and resolved years ago.\"\"These charges stem from portions of Amb. Bolton's personal diaries over his 45-year career – records that are unclassified, shared only with his immediate family, and known to the FBI as far back as 2021,\" Lowell said.\"Like many public officials throughout history, Amb. Bolton kept diaries – that is not a crime,\" Lowell said. \"We look forward to proving once again that Amb. Bolton did not unlawfully share or store any information.\"Bolton, in his own statement, \"For four decades, I have devoted my life to America's foreign policy and national security. I would never compromise those goals.\"He said that \"Trump's retribution against me began then, continued when he tried unsuccessfully to block the publication of my book, The Room Where It Happened, before the 2020 election, and became one of his rallying cries in his re-election campaign. Now, I have become the latest target in weaponizing the Justice Department to charge those he deems to be his enemies with charges that were declined before or distort the facts.\"Bolton also said that when his email was hacked, \"the FBI was made fully aware.''In four years of the prior administration, after these reviews, no charges were ever filed,\" Bolton said. \"Then came Trump 2 who embodies what Joseph Stalin's head of secret police once said, 'You show me the man, and I'll show you the crime.' \"\"Dissent and disagreement are foundational to America's constitutional system, and vitally important to our freedom,\" Bolton said. \"I look forward to the fight to defend my lawful conduct and to expose his abuse of power.\"",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "John Bolton indicted; ex-national security advisor is latest Trump foe to face criminal charges",
+      "image": [
+        "https://image.cnbcfm.com/api/v1/image/107161399-1670277479722-gettyimages-1415440402-_m011039_8cd3137c-cd9b-444e-af75-15111270026b.jpeg?v=1760631763&w=1920&h=1080"
+      ],
+      "datePublished": "2025-10-17T03:14:49.000Z",
+      "dateModified": "2025-10-17T03:14:49.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Government shutdown: Senate bill fails for 10th time, Kelly tells Trump to get involved",
+    "url": "https://www.cnbc.com/2025/10/16/trump-government-shutdown-senate-vote.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108013720-1722360878481-gettyimages-2163929554-kelly_BC_465_073024JPG.jpeg?v=1722360967&w=1920&h=1080",
+    "tag": "Finance",
+    "date": "2025-10-16T16:27:33.000Z",
+    "description": "watch nowA Republican bill to end the government shutdown failed in the Senate for the 10th time on Thursday, leaving lawmakers at a stalemate as the ",
+    "body": "watch nowA Republican bill to end the government shutdown failed in the Senate for the 10th time on Thursday, leaving lawmakers at a stalemate as the lapse in federal funding stretched into its third week.  The resolution came up short in a 51-45 vote that fell mostly along party lines. Sixty senators are needed to approve any stopgap bill; Republicans hold a narrow 53-seat majority in the Senate.Earlier Thursday, Democratic Sen. Mark Kelly called on President Donald Trump to get involved in the negotiations between Republican and Democratic senators to break the impasse.\"I think we need the president to make that happen, that he needs to engage with Mike Johnson and John Thune,\" Kelly said on CNBC's \"Squawk Box,\" referring to the Republicans who are the speaker of the House and the Senate majority leader, respectively.\"They seem to follow his lead on everything. That's the way this ends,\" the Arizona senator said.The sticking point in passing a funding deal is that Democrats insist that any such bill extend enhanced Affordable Care Act subsidies, which are set to expire at the end of 2025.A Democratic bill to keep in place those extra subsidies, which about 22 million Americans use to reduce the cost of their Obamacare health plans, is expected to cost nearly $1.5 trillion over a decade.\"The president has talked about how he wants this fixed. He wants these subsidies to be dealt with,\" Kelly said.\"So he agrees we should open the government and we should fix the subsidy issue under the Affordable Care Act, and that's all we want,\" Kelly said. \"So I don't see what the issue is.\"Thune and other Republicans have said they would be willing to discuss whether to extend enhanced ACA tax credits after a short-term funding extension is approved.In an interview Thursday with MSNBC's \"Morning Joe,\" Thune said, \"We are happy to sit down and talk about a solution on the ACA, tax credits, but that needs to happen in a separate context, you know, away from having the government open.\"Johnson, in an interview on \"Squawk Box\" on Thursday, said, \"This is not a health care fight. This is a very simple funding fight. It always was.\"\"They have created a red herring. The subsidies don't expire until the end of the year,\" Johnson said.\"We were always planning to have the thoughtful debate and deliberation over that in the month of October and November, before the subsidies expired. They know that. They grabbed that issue from the end of the year and pulled it back into September to try to pretend like that was the issue. It never was,\" Johnson said.The speaker also said there \"needs a dramatic amount of reform\" with the ACA subsidies, \"if indeed they're going to be extended.\"Punchbowl News reported on Thursday that \"there's a bipartisan group of senators discussing several different potential off-ramps\" to the shutdown stalemate \"involving the enhanced Obamacare subsidies.\"\"The group, led in part by Sen. Jeanne Shaheen (D-N.H.), is discussing the possibility of holding two side-by-side votes intended to end the shutdown,\" Punchbowl reported, cited people familiar with the matter.\"The first vote would be to reopen the government, while the second would be on a one-year extension of the Obamacare enhanced premium tax credits, plus a commitment to pass a longer-term solution by a date certain.\"",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Government shutdown: Senate bill fails for 10th time, Kelly tells Trump to get involved",
+      "image": [
+        "https://image.cnbcfm.com/api/v1/image/108013720-1722360878481-gettyimages-2163929554-kelly_BC_465_073024JPG.jpeg?v=1722360967&w=1920&h=1080"
+      ],
+      "datePublished": "2025-10-16T16:27:33.000Z",
+      "dateModified": "2025-10-16T16:27:33.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Trump announces efforts to expand access to IVF drugs",
+    "url": "https://www.cnbc.com/2025/10/16/trump-announces-efforts-to-expand-access-to-ivf-drugs.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108213246-1760644283556-gettyimages-2241031325-AFP_793G932.jpeg?v=1760644324&w=1920&h=1080",
+    "tag": "Finance",
+    "date": "2025-10-16T22:06:16.000Z",
+    "description": "US President Donald Trump makes an announcement in the Oval Office of the White House in Washington, DC, on Oct. 16, 2025. Andrew Caballero-Reynolds |",
+    "body": "US President Donald Trump makes an announcement in the Oval Office of the White House in Washington, DC, on Oct. 16, 2025. Andrew Caballero-Reynolds | AFP | Getty ImagesPresident Donald Trump on Thursday announced two new efforts to expand the availability of in vitro fertilization, the first concrete step from his administration on the expensive and politically fraught procedure.Trump struck a deal with EMD Serono, a subsidiary of Germany's Merck KGaA, to slash the price of some of the company's fertility medicines in exchange for relief from planned tariffs on pharmaceuticals imported into the U.S., which Trump has not yet imposed.The Trump administration will also be issuing guidance encouraging employers to offer fertility benefits directly to their employees, which would work similarly to vision or dental coverage. It will allow employers to offer add-on coverage at a fixed cost for patients and employers. But it's unclear how much the effort will increase coverage, as it does not mandate that employers participate.At a press conference Thursday, Trump said the moves will lead to \"many more beautiful American children.\"\"We'll dramatically slash the cost of IVF and the treatment and many of the most common fertility drugs for countless millions of Americans,\" Trump said. \"Prices are going way down, way, way down.\"EMD Serono, the largest fertility drug manufacturer in the world, said it will sell its IVF therapies directly to patients and that people will be able to buy the drugs on Trump's direct-to-consumer purchasing site, TrumpRx.gov. That site will launch in January 2026.The medications include Gonal-f, a critical drug used in the shot protocol required for egg stimulation.The plan comes as Trump works to rein in prescription drug costs in the U.S., inking deals with Pfizer and AstraZeneca in recent weeks that aim to make it easier for Americans to access certain drugs.Millions of babies have been born through IVF, which involves combining eggs and sperm in a laboratory to create an embryo for couples having difficulty conceiving. The decades-old procedure is an issue that the president repeatedly vowed to address on the campaign trail, calling himself the \"father of IVF\" last fall.The procedure is often not fully covered by insurance — if at all — and it can cost around $20,000 or more per cycle. Only a quarter of companies with more than 200 employees currently cover IVF. Some studies have shown that an IVF cycle in the U.S. costs 271% more than the average in 25 other countries. Trump issued an executive order on IVF shortly after the president took office, promising to lower costs and make the procedure more accessible. But that order did not provide specifics apart from promising to put out a detailed report with recommendations on the issue by late May. That report has not been released. The procedure became a flashpoint in the nationwide clash over abortion and reproductive rights in early 2024 when Alabama's Supreme Court said that frozen embryos are children and those who destroy them can be held liable for wrongful death. In some cases, embryos may be discarded during IVF. Trump quickly distanced himself from that ruling last year, urging the Alabama Legislature to protect access to IVF. Americans generally support the procedure. An April 2024 poll from Pew Research Center found that seven in 10 U.S. adults say IVF access is a good thing, with modest differences across most demographic and partisan groups. ",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Trump announces efforts to expand access to IVF drugs",
+      "image": [
+        "https://image.cnbcfm.com/api/v1/image/108213246-1760644283556-gettyimages-2241031325-AFP_793G932.jpeg?v=1760644324&w=1920&h=1080"
+      ],
+      "datePublished": "2025-10-16T22:06:16.000Z",
+      "dateModified": "2025-10-16T22:06:16.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "TSMC profit surges 39% to beat estimates and hit yet another record on AI chip demand",
+    "url": "https://www.cnbc.com/2025/10/16/tsmc-hits-yet-another-record-as-profit-surges-39percent-beating-estimates-on-ai-chip-demand-surge.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108131997-1760614999686-108131997-17447197412025-04-15t055241z_2006308880_rc24yda1ifrn_rtrmadp_0_usa-trump-tariffs-taiwan.jpg?v=1760615007&w=1920&h=1080",
+    "tag": "Finance",
+    "date": "2025-10-17T02:27:53.000Z",
+    "description": "The TSMC logo is displayed on a building in Hsinchu, Taiwan April 15, 2025. Ann Wang | ReutersTaiwan Semiconductor Manufacturing Co. on Thursday repor",
+    "body": "The TSMC logo is displayed on a building in Hsinchu, Taiwan April 15, 2025. Ann Wang | ReutersTaiwan Semiconductor Manufacturing Co. on Thursday reported a 39.1% increase in third-quarter profit from last year, beating estimates and hitting a fresh record as demand for artificial intelligence chips stayed strong.Here are the company's results versus LSEG SmartEstimates:Revenue: 989.92 billion New Taiwan dollars ($33.10 billion) vs. NT$977.46 billion expectedNet income: NT$452.3 billion, vs. NT$417.69 billion TSMC's revenue in the September quarter rose 30.3% from a year ago to NT$989.92 billion, also beating estimates. Net income increased 13.7% from last quarter, which had marked a record high at the time.As Asia's largest technology company by market capitalization, TSMC has benefited from the artificial intelligence boom, producing advanced AI processors for clients such as Nvidia and AMD.\"Recent developments in AI market continue to be very positive,\" TSMC CEO C.C. Wei said on an earnings call, adding that increasing adoption of AI models by consumers has led to more demand for compute, and by extension, semiconductor products. \"Thus, our conviction in the AI megatrend is strengthening,\" he added.Bolstered by this AI strength, Wei said the company had raised its 2025 revenue growth forecast to the mid-30% range. In July, the company had expected full-year revenue growth of about 30%.TSMC also increased its expected floor for capacity expansion and upgrades to $40 billion for the full year, up from a previous floor of $38 billion.Cutting-edge chipsTSMC's high-performance computing division, which encompasses artificial intelligence and 5G applications, made up the majority of sales in the July-September quarter, accounting for 57% of revenue.TSMC said advanced chips, with sizes 7-nanometer or smaller, accounted for 74% of TSMC's total wafer revenue in the quarter. In semiconductor technology, smaller nanometer sizes signify more compact transistor designs, which lead to greater processing power and efficiency. watch nowGrowth in TSMC's most advanced chips particularly drove revenue gains in the third quarter, according to Counterpoint Research senior analyst William Li.\"TSMC's robust earnings are a direct reflection of the strong traction at 3nm as well as high utilization at 4/5nm – both of which are being driven by ongoing orders from AI GPU and HPC customers and premium smartphone platforms,\" Li told CNBC in a statement. TSMC executives also said Thursday that they were monitoring U.S. tariff developments as Taiwan negotiates for a lower \"reciprocal\" rate and Washington weighs industry-specific duties on semiconductors. However, TSMC is likely to receive some exemptions. \"We understand there are uncertainties and risks from the potential impact of tariff policies, especially in consumer-related and price-sensitive market segments,\" Wei said, adding that the company would continue to monitor and plan for any impact. TSMC has been investing heavily in facilities in the U.S. — spending that could help reduce its exposure to tariff impacts.Shares of TSMC in Taiwan have risen more than 38% so far this year.Correction: This story has been updated to reflect that TSMC produces advanced AI processors for AMD. An earlier version stated the wrong company.",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "TSMC profit surges 39% to beat estimates and hit yet another record on AI chip demand",
+      "image": [
+        "https://image.cnbcfm.com/api/v1/image/108131997-1760614999686-108131997-17447197412025-04-15t055241z_2006308880_rc24yda1ifrn_rtrmadp_0_usa-trump-tariffs-taiwan.jpg?v=1760615007&w=1920&h=1080"
+      ],
+      "datePublished": "2025-10-17T02:27:53.000Z",
+      "dateModified": "2025-10-17T02:27:53.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Bill to fund military during government shutdown fails in Senate procedural vote",
+    "url": "https://www.cnbc.com/2025/10/16/government-shutdown-military-pay.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108213184-1760639834338-108213184-1760639523991-gettyimages-2240948021-20090101251016-99-348363-1.jpg?v=1760639872&w=1920&h=1080",
+    "tag": "Finance",
+    "date": "2025-10-16T19:56:27.000Z",
+    "description": "US National Guard soldiers walk up the steps to the Lincoln Memorial in the early morning.Kay Nietfeld | Picture Alliance | Getty ImagesA House-approv",
+    "body": "US National Guard soldiers walk up the steps to the Lincoln Memorial in the early morning.Kay Nietfeld | Picture Alliance | Getty ImagesA House-approved bill that would fund the U.S. military during the ongoing federal government shutdown failed to pass the Senate in a procedural vote on Thursday.The House bill required at least 60 votes in the 100-member Senate to advance because of the chamber's filibuster rules. The final vote was 50-44, with three Democrats joining most Republicans in voting \"aye.\"Read more CNBC government shutdown coverageBill to fund military during government shutdown fails in Senate procedural voteGovernment shutdown: Senate bill fails for 10th time, Kelly tells Trump to get involvedJudge blocks Trump from firing federal workers during government shutdown for nowKristi Noem's shutdown airport video may violate Hatch Act, Sen. Cantwell warnsTrump admin federal job cuts likely to be 'north of 10,000,' Vought saysTrump shutdown job cuts affect bipartisan prioritiesAirports refuse to show Noem video blaming Democrats for government shutdownTrump says 'a lot' of federal workers are being laid off during shutdownTrump administration begins layoffs of federal workers amid government shutdownTrump threatens to use government shutdown to cut 'popular Democrat programs'IRS furloughs nearly half of its workforce due to government shutdownSenate Majority Leader John Thune, R-S.D., voted against the bill solely as a tactic to allow him to quickly revive the effort to fund the Pentagon during the shutdown.The vote came hours after a Senate bill to fund the entire government failed.Most Democrats in the House opposed the defense funding bill when it was voted on in July. Minnesota Rep. Betty McCollum, the top Democrat on the House panel overseeing military funding, opposed the bill, noting it eliminates assistance to Ukraine, rolls back vaccine requirements, and limits service members' access to abortions, among other things.Thune blasted Senate Democrats for opposing the bill on Thursday.\"Filibustering defense appropriations bill, which is a bill which, like I said, should get 80 plus votes on the floor, suggests a level of dysfunction on their side right now that I can't explain,\" Thune said. \"The government shutdown is one aspect of this, for sure. But, you know, we're trying to continue to do business here.\" But Sen. Richard Blumenthal, D-Conn., said, \"I will vote yes on a military appropriations bill to pay our men and women in uniform, but if it has all of the House poison pills, no.\"Sen. Jeanne Shaheen, a New Hampshire Democrat who voted for the bill, said, \"I believe it is critical that the Senate and Congress return to a bipartisan appropriations approach and try to begin rebuilding trust.\"\"This vote would allow us to consider Senate appropriations bills which were passed out of committee with overwhelming bipartisan support,\" Shaheen said. \"The bipartisan Senate appropriations defense bill will protect our national security and would ensure our men and women in uniform receive pay and benefits,\" she said.\"We can, and should, try to move forward on a bipartisan appropriations process even as we work to prevent tens of millions of Americans from seeing a massive spike in their health insurance premiums in the coming days.\"",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Bill to fund military during government shutdown fails in Senate procedural vote",
+      "image": [
+        "https://image.cnbcfm.com/api/v1/image/108213184-1760639834338-108213184-1760639523991-gettyimages-2240948021-20090101251016-99-348363-1.jpg?v=1760639872&w=1920&h=1080"
+      ],
+      "datePublished": "2025-10-16T19:56:27.000Z",
+      "dateModified": "2025-10-16T19:56:27.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Genentech to sell flu pill directly to some consumers at a discount as Trump pressures drugmakers",
+    "url": "https://www.cnbc.com/2025/10/16/genentech-launches-direct-to-consumer-program-for-flu-pill-xofluza.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108158620-1749750081351-gettyimages-2219830016-_73a7446_qrzblszx.jpeg?v=1749750126&w=1920&h=1080",
+    "tag": "Finance",
+    "date": "2025-10-16T16:08:00.000Z",
+    "description": "A sign is posted in front of a Genentech office on June 12, 2025 in South San Francisco, California. Justin Sullivan | Getty ImagesRoche's Genentech o",
+    "body": "A sign is posted in front of a Genentech office on June 12, 2025 in South San Francisco, California. Justin Sullivan | Getty ImagesRoche's Genentech on Thursday said it will sell its flu pill, Xofluza, directly to certain patients at a discount in a bid to expand access, becoming the latest company to wade into the direct-to-consumer space. It follows similar moves by other drugmakers to simplify how Americans get their medicines, and comes as companies face pressure from the Trump administration to lower U.S. drug prices. Genentech's new program also launches ahead of the flu season, which typically peaks in the winter months. The 2024 to 2025 flu season was the most severe in more than a decade, according to Centers for Disease Control and Prevention data. Genentech's new program aims to reach uninsured patients, those with limited coverage or people whose plans don't cover the pill, according to a release. The company will provide access to Xofluza through three pharmacies with a $50 cash pay option, which is 70% lower than the pill's current list price before insurance. That includes Mark Cuban's direct-to-consumer pharmacy Cost Plus Drug Company, Amazon Pharmacy and Fuze Health's Alto Pharmacy. Genentech said same-day home delivery is available in certain markets through the latter two pharmacies. Home mail delivery is also available nationwide through all three pharmacies for people who want to use Xofluza as a prevention treatment. The pill is a single-dose antiviral treatment for people ages 5 and above, typically taken within 48 hours of the onset of flu symptoms. Xofluza costs over $150 for one treatment, according to some drug price websites. On top of the new effort, Genentech also offers a coupon that allows eligible patients to pay as little as $35 for their Xofluza prescription, with up to $70 off at most pharmacies.Trump in July sent letters to 17 drugmakers urging them to take specific steps to curb costs for patients, including by launching direct-to-consumer sales models for their medicines. Companies had to respond by Sept. 29. Since then, Pfizer and AstraZeneca have inked deals with Trump to lower drug prices. It was part of his effort to revive a controversial plan called the \"most favored nation\" policy, which aims to tie the prices of some drugs in the U.S. to the significantly lower ones abroad.",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Genentech to sell flu pill directly to some consumers at a discount as Trump pressures drugmakers",
+      "image": [
+        "https://image.cnbcfm.com/api/v1/image/108158620-1749750081351-gettyimages-2219830016-_73a7446_qrzblszx.jpeg?v=1749750126&w=1920&h=1080"
+      ],
+      "datePublished": "2025-10-16T16:08:00.000Z",
+      "dateModified": "2025-10-16T16:08:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "U.S. regulators toss out rules requiring banks to prepare for climate change",
+    "url": "https://www.cnbc.com/2025/10/16/regulators-toss-out-rules-requiring-banks-to-prepare-for-climate-change.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108210001-1760020804299-gettyimages-2239539458-FED_BANK_CONFERENCE.jpeg?v=1760020832&w=1920&h=1080",
+    "tag": "Finance",
+    "date": "2025-10-16T19:38:38.000Z",
+    "description": "Michelle Bowman, vice chair for supervision at the US Federal Reserve, during the Federal Reserve Board Community Bank Conference in Washington, DC, U",
+    "body": "Michelle Bowman, vice chair for supervision at the US Federal Reserve, during the Federal Reserve Board Community Bank Conference in Washington, DC, US, on Thursday, Oct. 9, 2025. Eric Lee | Bloomberg | Getty ImagesRegulators are doing away with controversial rules that required banks to plan for losses in the event of climate-related events, according to an announcement Thursday.A joint release from the Federal Deposit Insurance Corporation, the Office of the Comptroller of the Currency and the Federal Reserve said they no longer believe the requirements are necessary as they are redundant with other provisions banks make to plan for emergencies and unusual events.\"The agencies do not believe principles for managing climate-related financial risk are necessary because the agencies' existing safety and soundness standards require all supervised institutions to have effective risk management commensurate with their size, complexity, and activities,\" a joint release from the three regulators said.Fed Governor Michael Barr, the former vice chair for supervision, issued a statement disagreeing with the move.\"Rescinding the principles is shortsighted and will make the financial system riskier even as climate-related financial risks grow,\" Barr said in a statement.Mission creepTrump administration officials have criticized the Fed for falling prey to mission creep, or exceeding the scope of its mandates for monetary policy and bank supervision. The climate change provisions, established in October 2023, were one point of criticism.Chair Jerome Powell has repeatedly stated that climate is not a direct Fed issue. The rules required banks, as part of routine testing, to list potential losses they might suffer from climate-related issues.Governor Michelle Bowman, a Trump appointee who succeeded Barr as the Fed banking supervisor, praised the move rescinding the rules as part of an attempt at \"refocusing the supervisory process on material financial risk.\"\"Rescission of the climate principles is an important step in this process,\" Bowman said. She criticized the climate rules, saying \"the effect of this guidance was to create confusion about supervisory expectations and increase compliance cost and burden without a commensurate improvement to the safety and soundness of financial institutions or to the financial stability of the United States.\"While acknowledging the risks that climate change poses, Bowman said the Fed's mission does \"not extend to climate policymaking.\"",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "U.S. regulators toss out rules requiring banks to prepare for climate change",
+      "image": [
+        "https://image.cnbcfm.com/api/v1/image/108210001-1760020804299-gettyimages-2239539458-FED_BANK_CONFERENCE.jpeg?v=1760020832&w=1920&h=1080"
+      ],
+      "datePublished": "2025-10-16T19:38:38.000Z",
+      "dateModified": "2025-10-16T19:38:38.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Tariff costs to companies this year to hit $1.2 trillion, with consumers taking most of the hit, S&P says",
+    "url": "https://www.cnbc.com/2025/10/16/tariff-costs-to-companies-this-year-to-hit-1point2-trillion-with-consumers-taking-most-of-the-hit-sp-says.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108212351-1760532816013-gettyimages-2240683343-AFP_78U46G4.jpeg?v=1760532852&w=1920&h=1080",
+    "tag": "Finance",
+    "date": "2025-10-16T18:30:15.000Z",
+    "description": "A shopper walks past shelves of cooking oil for sale at a supermarket in Beijing on October 15, 2025. Pedro Pardo | Afp | Getty ImagesPresident Donald",
+    "body": "A shopper walks past shelves of cooking oil for sale at a supermarket in Beijing on October 15, 2025. Pedro Pardo | Afp | Getty ImagesPresident Donald Trump's tariffs will cost global businesses upward of $1.2 trillion in 2025, with most of the cost being passed onto consumers, according to a new analysis from S&P Global.In a white paper released Thursday, the firm said its estimate of additional expenses for companies is probably conservative. The price tag comes from information provided by some 15,000 sell-side analysts across 9,000 companies who contribute to S&P and its proprietary research indexes.\"The sources of this trillion-dollar squeeze are broad. Tariffs and trade barriers act as taxes on supply chains and divert cash to governments; logistics delays and freight costs compound the effect,\" author Daniel Sandberg said in the report. \"Collectively, these forces represent a systemic transfer of wealth from corporate profits to workers, suppliers, governments, and infrastructure investors.\"Trump in April slapped 10% tariffs on all goods entering the U.S. and listed individual \"reciprocal\" tariffs for dozens of other countries. Since then, the White House has entered a series of negotiations and agreements while also adding duties on a variety of individual items such as kitchen cabinets, autos and timber.While administration officials have insisted that exporters will be forced to bear the greater share of the levies, the S&P analysis suggests that is only partly true.In fact, the firm says that just one-third will be borne by companies, with the rest falling on the shoulders of consumers, under conservative estimates. The figures incorporated a $907 billion hit to covered companies with the remainder to uncovered firms as well as private equity and venture capital.\"With real output declining, consumers are paying more for less, suggesting that this two-thirds share represents a lower bound on their true burden,\" said Sandberg, who wrote the report along with Drew Bowers, a senior quantitative analyst at S&P Global.Political and policy stakesThe size of the tariff hit and the burden of the costs are critical both for the White House looking to sell the duties as essential to restoring a fair trade balance, and to policymakers at the Federal Reserve looking to calibrate the proper balance for monetary policy.\"The President and Administration's position has always been clear: while Americans may face a transition period from tariffs upending a broken status quo that has put America Last, the cost of tariffs will ultimately be borne by foreign exporters,\" White House spokesman Kush Desai said in a statement.\"Companies are already shifting and diversifying their supply chains in response to tariffs, including by onshoring production to the United States,\" he added.Fed officials have been inclined to look through the duties as a one-time hit to prices and not a source of underlying inflationary pressures. The S&P researchers found similar sentiment among analysts.The consensus looks for a 64 basis point contraction in profit margins this year, fading to 28 basis points for 2026 and then 8 to 10 basis points in 2027-28. A basis point equals 0.01%.\"In effect, 2025 locked in the hit; 2026 and 2027 will test whether the market's optimism about re-equilibration is warranted,\" the authors wrote. \"For now, consensus envisions a world where margins eventually recover to pre-tariff trajectories. Whether that faith proves justified will depend on how firms adapt through technology, cost discipline and reshaped global value chains that have defined this cycle.\"The impact also likely will depend on how Trump's tariff strategy evolves. The White House currently is back in heightened tensions with China over a rare earth dispute and Trump's intentions to retaliate.The S&P paper found that Trump's removal in May of the \"de minimis\" exception for goods under $800 was \"the real inflection point\" for how hard tariffs would bite. The exception had allowed low-priced goods to sail under previous tariff barriers, but \"had become politically untenable.\"\"When the exemption closed, the shock rippled through shipping data, earnings reports, and executive commentary,\" Sandberg said.\"In the optimistic scenario that this turbulence is temporary, the Trump administration's tariff agenda and the resulting supply chain realignments are viewed as transitory frictions, not permanent structural taxes on profitability,\" he added.",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Tariff costs to companies this year to hit $1.2 trillion, with consumers taking most of the hit, S&P says",
+      "image": [
+        "https://image.cnbcfm.com/api/v1/image/108212351-1760532816013-gettyimages-2240683343-AFP_78U46G4.jpeg?v=1760532852&w=1920&h=1080"
+      ],
+      "datePublished": "2025-10-16T18:30:15.000Z",
+      "dateModified": "2025-10-16T18:30:15.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Trump says he and Putin will meet in Hungary to discuss war in Ukraine",
     "url": "https://www.cnbc.com/2025/10/16/trump-putin-russia-ukraine.html",
     "image": "https://image.cnbcfm.com/api/v1/image/108117839-1742326712875-Putin_Trump.jpg?v=1742326853&w=1920&h=1080",
@@ -350,22 +350,22 @@
     }
   },
   {
-    "title": "Why some credit card APRs aren’t coming down, even after a Fed rate cut",
-    "url": "https://www.cnbc.com/2025/10/16/why-credit-card-aprs-arent-coming-down-even-after-a-fed-rate-cut.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108093710-1738091397511-gettyimages-681900547-zef10468.jpeg?v=1760630356&w=1920&h=1080",
+    "title": "U.S. budget deficit edged lower in 2025 as tariffs, debt payments both saw new records",
+    "url": "https://www.cnbc.com/2025/10/16/us-budget-deficit-lower-in-2025-tariffs-debt-payments-both-at-records.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108147199-1747634311844-gettyimages-2211973571-20250424-194848.jpeg?v=1760637045&w=1920&h=1080",
     "tag": "Finance",
-    "date": "2025-10-16T19:28:52.000Z",
-    "description": "watch nowAmericans may feel somewhat removed from the Federal Reserve, but the central bank's moves have a ripple effect on many types of consumer pro",
-    "body": "watch nowAmericans may feel somewhat removed from the Federal Reserve, but the central bank's moves have a ripple effect on many types of consumer products, most notably the credit cards in their wallet.Nearly half of American households have credit card debt and pay more than 20% in interest, on average, on their revolving balances — making credit cards one of the most expensive ways to borrow money.\"For millions of American households, credit card debt represents their highest-cost debt by a wide margin,\" said Ted Rossman, senior industry analyst at Bankrate. Since most credit cards have a variable rate, there's a direct connection to the Fed's benchmark. When the Fed cuts rates, the prime rate lowers, too, and the interest rate on that credit card debt is likely to follow within a billing cycle or two.And yet, credit card APRs aren't falling much at all.Read more CNBC personal finance coverageWhy some credit card APRs aren't coming down, even after a Fed rate cutGovernment shutdown delays student loan forgiveness lawsuit — what to knowHow expiring ACA health insurance subsidies could impact Roth conversionsMillions of student loan borrowers at risk of default as late payments climbHow much you can make in 2026 and still pay 0% capital gainsWhat laid off federal workers need to know about their student loansDespite government shutdown, Oct. 15 is still the tax extension deadlineBoomers still love their department stores. Here's whyHow new federal tax changes for 2026 may affect familiesIRS announces new federal income tax brackets for 2026The IRS unveils higher capital gains tax brackets for 2026Gold hits $4,000 but stocks still win over time, top advisor saysAttending a wedding can cost you as much as a typical month’s rentAI is poised to disrupt the job market. Some roles could ‘radically transform'CNBC's Financial Advisor 100: Best financial advisors, top firms for 2025 rankedConsumers hoping for \"an automatic, proportional drop\" in their credit card interest rates \"may be disappointed,\" according to a new report by CardRatings.com.When the Fed cut rates in the second half of 2024, lowering its benchmark by a full point by December, the average credit card rate fell by only 0.23% over the same period, CardRatings found.The central bank lowered its benchmark rate by a quarter point again last month. Yet the average credit card rate in the CardRatings survey was 24.22% for the third quarter, down just 0.09% from the previous quarter.The correlation between the Fed funds rate and credit card rates is often \"weaker\" than expected, said Jennifer Doss, CardRatings.com's executive editor. Credit card rates are also \"heavily influenced by credit conditions and individual credit scores,\" she said.'A highly competitive market'\"If the Fed continues to lower interest rates, consumers will likely see some declines in credit card APRs, but that may take some time and could vary depending on the type of card and individual issuer,\" said Jeff Sigmund, a spokesman for the American Bankers Association.\"Credit card interest rates are set in a highly competitive market,\" he said.Generally, card issuers have several ways to mitigate their exposure to borrowers who could fall behind on payments or default. For example, issuers may trim back the lower end of the APR range (what's charged to more creditworthy borrowers) but not the high end, said Rossman.For some retail credit cards, APRs are even rising, despite the Fed's moves, according to a Bankrate survey. Banks that issue store-branded credit cards have said maintaining higher APRs was necessary following a Consumer Financial Protection Bureau rule limiting what the industry can charge in late fees.But even after bank trade groups succeeded in killing the CFPB rule earlier this year, some credit card companies, including Synchrony and Bread Financial, said they would not roll back the hikes.Even if your credit card rate were to fall by a full quarter point, in lockstep with the Fed's latest cut, it might go from 20.12% to 19.87%, Rossman said, \"that's still very high-cost debt.\"At these rates, there isn't much in the way of relief for consumers. \"We're talking a difference of $1 a month for someone making minimum payments toward the average balance,\" Rossman said.Of course, only consumers who carry a balance from month to month feel the pain of high APRs. \"The real consumer benefit lies in making your personal credit card rate 0%, either by paying in full — if you can — or signing up for a 0% balance transfer card,\" Rossman said of cards offering 12, 15 or even 21 months with no interest on transferred balances.Subscribe to CNBC on YouTube.",
+    "date": "2025-10-16T18:27:27.000Z",
+    "description": "The statue of former Treasury Secretary Albert Gallatin stands in front of the north wing of the U.S. Treasury Department headquarters building on Apr",
+    "body": "The statue of former Treasury Secretary Albert Gallatin stands in front of the north wing of the U.S. Treasury Department headquarters building on April 24, 2025, in Washington, DC, U.S.J. David Ake | Getty Images News | Getty ImagesThe U.S. budget deficit edged lower for 2025 as record-setting tariff collections helped offset what also were unprecedented numbers for payments on the spiraling national debt, the Treasury Department announced Thursday.In a year marked by a bruising trade war and high financing costs, the federal government managed to escape with a $1.78 trillion shortfall, some $41 billion, or 2.2%, less than in fiscal 2024.While that's still on the high end historically, the red ink would have been still worse had it not been for a massive surge in customs duties and a September surplus of $198 billion that also set a record for the month.President Donald Trump's tariffs were a major contributor to tariff collections of $202 billion for the year, representing a 142% surge from 2024. September saw $30 billion in tariff payments, up 295% from the same period a year ago.Treasury officials estimated Thursday that the dip in the budget shortfall will bring the ratio of deficit to gross domestic product to 5.9%. The measure has not been below 6% since 2022 and generally runs around the 3% area except in times of economic stress.In an interview last week, Treasury Secretary Scott Bessent, noting Congressional Budget Office estimates that the deficit-to-GDP number would be below 6%, said \"we're on our way\" to reducing the debt and deficit burden.The impact from the deficit was felt in interest paid on the $38 trillion national debt.Interest on the debt totaled more than $1.2 trillion, also a record and nearly $100 billion higher than the 2024 outlay.Excluding interest that the Treasury earns on its investments, net interest payments totaled $970 billion, topping defense spending by $57 billion and behind only Social Security, Medicare and health care costs in the national budget.Trump slapped controversial tariffs on U.S. imports earlier this year despite protests that they would spike inflation and hurt consumers, resulting in lower demand and a hit to economic growth.While there have been signs of price increases in tariff-sensitive items, the moves have been mostly incremental. Federal Reserve officials say they likely will lower their benchmark interest rate further as they expect any price increases to be temporary. The current fed funds rate stands at 4.00% to 4.25%.The government's fiscal year ended in September, with the U.S. collecting $5.2 trillion in revenue over the prior 12 months while spending just over $7 trillion.",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Why some credit card APRs aren’t coming down, even after a Fed rate cut",
+      "headline": "U.S. budget deficit edged lower in 2025 as tariffs, debt payments both saw new records",
       "image": [
-        "https://image.cnbcfm.com/api/v1/image/108093710-1738091397511-gettyimages-681900547-zef10468.jpeg?v=1760630356&w=1920&h=1080"
+        "https://image.cnbcfm.com/api/v1/image/108147199-1747634311844-gettyimages-2211973571-20250424-194848.jpeg?v=1760637045&w=1920&h=1080"
       ],
-      "datePublished": "2025-10-16T19:28:52.000Z",
-      "dateModified": "2025-10-16T19:28:52.000Z",
+      "datePublished": "2025-10-16T18:27:27.000Z",
+      "dateModified": "2025-10-16T18:27:27.000Z",
       "author": [
         {
           "@type": "Person",
