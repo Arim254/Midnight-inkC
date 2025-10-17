@@ -1,46 +1,21 @@
 [
   {
-    "title": "United Airlines CEO warns an extended shutdown will hurt bookings",
-    "url": "https://www.cnbc.com/2025/10/16/government-shutdown-united-airlines-ceo-scott-kirby.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108136400-1745527498700-gettyimages-2211826184-aw1a9595_h8xgnxlx.jpeg?v=1745527634&w=1920&h=1080",
+    "title": "Cybersecurity firm F5's stock sinks 10% after disclosing nation-state hack",
+    "url": "https://www.cnbc.com/2025/10/16/cybersecurity-f5-stock-hack.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108013192-1722285698943-gettyimages-1232299129-PGONCHAR_W1056.jpeg?v=1760633582&w=1920&h=1080",
     "tag": "Finance",
-    "date": "2025-10-16T18:58:33.000Z",
-    "description": "CEO of United Airline Scott Kirby speaks during the Semafor 2025 World Economy Summit at Conrad Washington on April 24, 2025 in Washington, DC. Alex W",
-    "body": "CEO of United Airline Scott Kirby speaks during the Semafor 2025 World Economy Summit at Conrad Washington on April 24, 2025 in Washington, DC. Alex Wong | Getty ImagesUnited Airlines CEO Scott Kirby said the federal government shutdown could hurt bookings if it continues.Despite the funding impasse, essential federal employees including Transportation Security Administration officers and air traffic controllers are required to work without pay. The shutdown started Oct. 1 as Congress failed to pass a funding bill.Speaking on an earnings call on Thursday, Kirby said the shutdown so far hasn't impacted the carrier's business.\"I think that at least for the first couple of weeks, people thought it was going to get resolved, so they just kind of continued business as usual,\" he said. \"But as time goes on, as people read headlines and say, 'it's not going to get resolved soon.' People start to lose confidence in the government and the government's ability to resolve this. And that's going to start to impact bookings.\"Kirby said there isn't an exact cutoff for when the airline could start to see an impact, but added \"every day that goes by, the risk to the U.S. economy grows. So I hope we will avoid an unforced error here.\"Read more CNBC airline newsAir traffic control shortages add to U.S. flight delays, FAA saysSpirit Airlines on track for a $475 million bankruptcy lifeline'Seconds count': Avoiding airplane collisions at airports could come down to cockpit alertsU.S. startup airline Breeze Airways plans first international flightsDelta Air Lines CEO Ed Bastian last week made a similar warning about how a prolonged shutdown could affect air travel but emphasized that the airline's operation hadn't been affected.The shutdown has raised concerns about already thin-staffing among air traffic controllers, the Federal Aviation Administration said. Insufficient staffing at some FAA facilities last week disrupted flights at airports, including in Nashville, Tennessee, and Burbank, California.Members of the union that represents U.S. air traffic controllers handed out leaflets outside of LaGuardia Airport in New York, as well as in Washington, D.C., and Chicago on Tuesday to urge the public to ask lawmakers to end the shutdown.A more-than-monthlong shutdown starting in late 2018 ended hours after a shortage of air traffic controllers snarled air travel in the New York area.",
+    "date": "2025-10-16T20:46:23.000Z",
+    "description": "Pavlo Gonchar | SOPA Images | Lightrocket | Getty ImagesU.S. cybersecurity company F5 closed down 10% on Thursday after disclosing a system breach in ",
+    "body": "Pavlo Gonchar | SOPA Images | Lightrocket | Getty ImagesU.S. cybersecurity company F5 closed down 10% on Thursday after disclosing a system breach in which a \"highly sophisticated nation-state threat actor\" gained long-term access to some systems.The stock had its worst day since April 27, 2022, when the stock fell 12.8%.The company disclosed the breach in a Securities and Exchange Commission filing on Wednesday and said the hack affected its BIG-IP product development environment. F5 said the attacker infiltrated files containing some source code and information on \"undisclosed vulnerabilities\" in BIG-IP.The breach was later attributed to state-backed hackers from China, Bloomberg reported, citing people familiar with the matter.F5, which was made aware of the attack in August, said they have not seen evidence of any new unauthorized activity.Read more CNBC tech news$1 trillion-worth of AI deals between OpenAI, Nvidia and others, in one chartWaymo plans robotaxi launch in London, marking its European debutASML looks to calm fears over 2026 growth as it warns of China sales declineMeta removes Facebook page allegedly used to target ICE agents after pressure from DOJ\"We have no knowledge of undisclosed critical or remote code vulnerabilities, and we are not aware of active exploitation of any undisclosed F5 vulnerabilities,\" F5 said in a statement.The cybersecurity giant told customers that hackers were in the network for at least 12 months and that the breach used a malware called Brickstorm, according to Bloomberg.F5 would not confirm the information.Brickstorm is attributed to a suspected China-nexus threat dubbed UNC5221, Google Threat Intelligence Group said in a blog post. The malware is used for maintaining \"long-term stealthy access\" and can remain undetected in victim systems for an average of 393 days, according to Mandiant.The attack prompted an emergency directive from the Cybersecurity and Infrastructure Security Agency on Wednesday, telling all agencies using F5 software or products to apply the latest update.\"The alarming ease with which these vulnerabilities can be exploited by malicious actors demands immediate and decisive action from all federal agencies,\" CISA Acting Director Madhu Gottumukkala said. \"These same risks extend to any organization using this technology, potentially leading to a catastrophic compromise of critical information systems.\"The UK's National Cyber Security Centre also issued guidance for the F5 attack, advising customers to install security updates and continue monitoring for threats.",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "United Airlines CEO warns an extended shutdown will hurt bookings",
+      "headline": "Cybersecurity firm F5's stock sinks 10% after disclosing nation-state hack",
       "image": [
-        "https://image.cnbcfm.com/api/v1/image/108136400-1745527498700-gettyimages-2211826184-aw1a9595_h8xgnxlx.jpeg?v=1745527634&w=1920&h=1080"
+        "https://image.cnbcfm.com/api/v1/image/108013192-1722285698943-gettyimages-1232299129-PGONCHAR_W1056.jpeg?v=1760633582&w=1920&h=1080"
       ],
-      "datePublished": "2025-10-16T18:58:33.000Z",
-      "dateModified": "2025-10-16T18:58:33.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Tariff costs to companies this year to hit $1.2 trillion, with consumers taking most of the hit, S&P says",
-    "url": "https://www.cnbc.com/2025/10/16/tariff-costs-to-companies-this-year-to-hit-1point2-trillion-with-consumers-taking-most-of-the-hit-sp-says.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108212351-1760532816013-gettyimages-2240683343-AFP_78U46G4.jpeg?v=1760532852&w=1920&h=1080",
-    "tag": "Finance",
-    "date": "2025-10-16T18:30:15.000Z",
-    "description": "A shopper walks past shelves of cooking oil for sale at a supermarket in Beijing on October 15, 2025. Pedro Pardo | Afp | Getty ImagesPresident Donald",
-    "body": "A shopper walks past shelves of cooking oil for sale at a supermarket in Beijing on October 15, 2025. Pedro Pardo | Afp | Getty ImagesPresident Donald Trump's tariffs will cost global businesses upward of $1.2 trillion in 2025, with most of the cost being passed onto consumers, according to a new analysis from S&P Global.In a white paper released Thursday, the firm said its estimate of additional expenses for companies is probably conservative. The price tag comes from information provided by some 15,000 sell-side analysts across 9,000 companies who contribute to S&P and its proprietary research indexes.\"The sources of this trillion-dollar squeeze are broad. Tariffs and trade barriers act as taxes on supply chains and divert cash to governments; logistics delays and freight costs compound the effect,\" author Daniel Sandberg said in the report. \"Collectively, these forces represent a systemic transfer of wealth from corporate profits to workers, suppliers, governments, and infrastructure investors.\"Trump in April slapped 10% tariffs on all goods entering the U.S. and listed individual \"reciprocal\" tariffs for dozens of other countries. Since then, the White House has entered a series of negotiations and agreements while also adding duties on a variety of individual items such as kitchen cabinets, autos and timber.While administration officials have insisted that exporters will be forced to bear the greater share of the levies, the S&P analysis suggests that is only partly true.In fact, the firm says that just one-third will be borne by companies, with the rest falling on the shoulders of consumers, under conservative estimates. The figures incorporated a $907 billion hit to covered companies with the remainder to uncovered firms as well as private equity and venture capital.\"With real output declining, consumers are paying more for less, suggesting that this two-thirds share represents a lower bound on their true burden,\" said Sandberg, who wrote the report along with Drew Bowers, a senior quantitative analyst at S&P Global.Political and policy stakesThe size of the tariff hit and the burden of the costs are critical both for the White House looking to sell the duties as essential to restoring a fair trade balance, and to policymakers at the Federal Reserve looking to calibrate the proper balance for monetary policy.\"The President and Administration's position has always been clear: while Americans may face a transition period from tariffs upending a broken status quo that has put America Last, the cost of tariffs will ultimately be borne by foreign exporters,\" White House spokesman Kush Desai said in a statement.\"Companies are already shifting and diversifying their supply chains in response to tariffs, including by onshoring production to the United States,\" he added.Fed officials have been inclined to look through the duties as a one-time hit to prices and not a source of underlying inflationary pressures. The S&P researchers found similar sentiment among analysts.The consensus looks for a 64 basis point contraction in profit margins this year, fading to 28 basis points for 2026 and then 8 to 10 basis points in 2027-28. A basis point equals 0.01%.\"In effect, 2025 locked in the hit; 2026 and 2027 will test whether the market's optimism about re-equilibration is warranted,\" the authors wrote. \"For now, consensus envisions a world where margins eventually recover to pre-tariff trajectories. Whether that faith proves justified will depend on how firms adapt through technology, cost discipline and reshaped global value chains that have defined this cycle.\"The impact also likely will depend on how Trump's tariff strategy evolves. The White House currently is back in heightened tensions with China over a rare earth dispute and Trump's intentions to retaliate.The S&P paper found that Trump's removal in May of the \"de minimis\" exception for goods under $800 was \"the real inflection point\" for how hard tariffs would bite. The exception had allowed low-priced goods to sail under previous tariff barriers, but \"had become politically untenable.\"\"When the exemption closed, the shock rippled through shipping data, earnings reports, and executive commentary,\" Sandberg said.\"In the optimistic scenario that this turbulence is temporary, the Trump administration's tariff agenda and the resulting supply chain realignments are viewed as transitory frictions, not permanent structural taxes on profitability,\" he added.",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Tariff costs to companies this year to hit $1.2 trillion, with consumers taking most of the hit, S&P says",
-      "image": [
-        "https://image.cnbcfm.com/api/v1/image/108212351-1760532816013-gettyimages-2240683343-AFP_78U46G4.jpeg?v=1760532852&w=1920&h=1080"
-      ],
-      "datePublished": "2025-10-16T18:30:15.000Z",
-      "dateModified": "2025-10-16T18:30:15.000Z",
+      "datePublished": "2025-10-16T20:46:23.000Z",
+      "dateModified": "2025-10-16T20:46:23.000Z",
       "author": [
         {
           "@type": "Person",
@@ -75,6 +50,106 @@
     }
   },
   {
+    "title": "U.S. Chamber of Commerce sues Trump administration over $100,000 H-1B visa fee",
+    "url": "https://www.cnbc.com/2025/10/16/us-chamber-of-commerce-sues-trump-administration-over-100000-h-1b-visa-fees.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108202337-17585665152025-09-22t182539z_998170269_rc26xga8rlg3_rtrmadp_0_usa-trump-visa-india.jpeg?v=1758566537&w=1920&h=1080",
+    "tag": "Finance",
+    "date": "2025-10-16T20:13:36.000Z",
+    "description": "Dado Ruvic | ReutersThe U.S. Chamber of Commerce on Thursday filed a lawsuit over the Trump administration imposing a $100,000 fee to the H-1B worker ",
+    "body": "Dado Ruvic | ReutersThe U.S. Chamber of Commerce on Thursday filed a lawsuit over the Trump administration imposing a $100,000 fee to the H-1B worker visas.Last month President Donald Trump announced plans that would see U.S. companies to pay $100,000 per year for H-1B visas -- which allows companies to temporarily hire foreign workers in skilled occupations in various fields, including technology and engineering -- in an attempt to rework the program.In a release regarding the lawsuit on Thursday, the Chamber called the new fee unlawful since it \"overrides provisions of the Immigration and Nationality Act that govern the H-1B program, including the requirement that fees be based on the costs incurred by the government in processing visas.\"\"The new $100,000 visa fee will make it cost-prohibitive for U.S. employers, especially start-ups and small and midsize businesses, to utilize the H-1B program, which was created by Congress expressly to ensure that American businesses of all sizes can access the global talent they need to grow their operations here in the U.S.,\" said Neil Bradley, executive vice president and chief policy officer at the U.S. Chamber in the release.A White House representative didn't immediately respond to a request for comment.The steep fee was expected to be a big blow to companies in the technology sector, particularly startups and venture capital-backed companies, which often rely on skilled workers from India and China.Big Tech companies, including those that donated heavily to the Trump campaign, have been beneficiaries of the program.It was already difficult for U.S. startups to secure H-1B visas due to limited annual quotas.H-1B visas -- created by Congress in 1990 -- are typically valid for three years and can be extended up to six years. The program is capped at 65,000 visas per year, with an additional carve out of 20,000 for individuals with advanced degrees. Prior to the change, fees had ranged from $2,000 to $5,000 per application, depending on the size of the company, CNBC previously reported.The administration has also proposed further changes to the H-1B program's lottery selection system.The changes have come in the months following Trump entering office and amid a push to limit immigration and see American companies hire more domestically.\"President Trump has embarked on an ambitious agenda of securing permanent pro-growth tax reforms, unleashing American energy, and unraveling the overregulation that has stifled growth. The Chamber and our members have actively backed these proposals to attract more investment in America. To support this growth, our economy will require more workers, not fewer,\" Bradley said in the Thursday release.",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "U.S. Chamber of Commerce sues Trump administration over $100,000 H-1B visa fee",
+      "image": [
+        "https://image.cnbcfm.com/api/v1/image/108202337-17585665152025-09-22t182539z_998170269_rc26xga8rlg3_rtrmadp_0_usa-trump-visa-india.jpeg?v=1758566537&w=1920&h=1080"
+      ],
+      "datePublished": "2025-10-16T20:13:36.000Z",
+      "dateModified": "2025-10-16T20:13:36.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Asia-Pacific markets dip as banking and trade fears take hold on Wall Street",
+    "url": "https://www.cnbc.com/2025/10/17/asia-markets-friday-hang-seng-hsi-kospi-nikkei-225.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108185345-1755095034996-gettyimages-1206728108-dss02414.jpeg?v=1755095047&w=1920&h=1080",
+    "tag": "Finance",
+    "date": "2025-10-17T00:51:34.000Z",
+    "description": "Activity on Elizabeth Street (at the intersection of Bourke St Mall), Melbourne on a cloudy day.Charlie Rogers | Moment | Getty ImagesJapan's Nikkei 2",
+    "body": "Activity on Elizabeth Street (at the intersection of Bourke St Mall), Melbourne on a cloudy day.Charlie Rogers | Moment | Getty ImagesJapan's Nikkei 225 lost 1% in early trade, while the broad-based Topix fell 0.83%.South Korea's Kospi dipped 0.47%, but the small-cap Kosdaq bucked the trend and climbed 0.15%.Australia's S&P/ASX 200 started the day down 0.6%.Hong Kong's Hang Seng Index futures were at 25,862, lower than the HSI's last close of 25,888.51.Singapore's non-oil domestic exports posted a sharp rebound in September, jumping 6.9% from a year earlier, defying expectations of a 2.1% drop and reversing an 11.3% fall in August.U.S. stock futures were slightly lower on Thursday night stateside after the previous session saw a sell-off fueled by concerns about regional banks' loan practices.Overnight in the U.S., the Dow Jones Industrial Average lost 301.07 points, or nearly 0.7%, to close at 45,952.24. Earlier in the day, the 30-stock index had gained 170 points.The S&P 500 finished 0.6% lower at 6,629.07, giving up a 0.6% gain at the highs of the session. The Nasdaq Composite fell 0.5% to settle at 22,562.54.— CNBC's Liz Napolitano, Pia Singh and Alex Harring contributed to this report.",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Asia-Pacific markets dip as banking and trade fears take hold on Wall Street",
+      "image": [
+        "https://image.cnbcfm.com/api/v1/image/108185345-1755095034996-gettyimages-1206728108-dss02414.jpeg?v=1755095047&w=1920&h=1080"
+      ],
+      "datePublished": "2025-10-17T00:51:34.000Z",
+      "dateModified": "2025-10-17T00:51:34.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "United Airlines CEO warns an extended shutdown will hurt bookings",
+    "url": "https://www.cnbc.com/2025/10/16/government-shutdown-united-airlines-ceo-scott-kirby.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108136400-1745527498700-gettyimages-2211826184-aw1a9595_h8xgnxlx.jpeg?v=1745527634&w=1920&h=1080",
+    "tag": "Finance",
+    "date": "2025-10-16T18:58:33.000Z",
+    "description": "CEO of United Airline Scott Kirby speaks during the Semafor 2025 World Economy Summit at Conrad Washington on April 24, 2025 in Washington, DC. Alex W",
+    "body": "CEO of United Airline Scott Kirby speaks during the Semafor 2025 World Economy Summit at Conrad Washington on April 24, 2025 in Washington, DC. Alex Wong | Getty ImagesUnited Airlines CEO Scott Kirby said the federal government shutdown could hurt bookings if it continues.Despite the funding impasse, essential federal employees including Transportation Security Administration officers and air traffic controllers are required to work without pay. The shutdown started Oct. 1 as Congress failed to pass a funding bill.Speaking on an earnings call on Thursday, Kirby said the shutdown so far hasn't impacted the carrier's business.\"I think that at least for the first couple of weeks, people thought it was going to get resolved, so they just kind of continued business as usual,\" he said. \"But as time goes on, as people read headlines and say, 'it's not going to get resolved soon.' People start to lose confidence in the government and the government's ability to resolve this. And that's going to start to impact bookings.\"Kirby said there isn't an exact cutoff for when the airline could start to see an impact, but added \"every day that goes by, the risk to the U.S. economy grows. So I hope we will avoid an unforced error here.\"Read more CNBC airline newsAir traffic control shortages add to U.S. flight delays, FAA saysSpirit Airlines on track for a $475 million bankruptcy lifeline'Seconds count': Avoiding airplane collisions at airports could come down to cockpit alertsU.S. startup airline Breeze Airways plans first international flightsDelta Air Lines CEO Ed Bastian last week made a similar warning about how a prolonged shutdown could affect air travel but emphasized that the airline's operation hadn't been affected.The shutdown has raised concerns about already thin-staffing among air traffic controllers, the Federal Aviation Administration said. Insufficient staffing at some FAA facilities last week disrupted flights at airports, including in Nashville, Tennessee, and Burbank, California.Members of the union that represents U.S. air traffic controllers handed out leaflets outside of LaGuardia Airport in New York, as well as in Washington, D.C., and Chicago on Tuesday to urge the public to ask lawmakers to end the shutdown.A more-than-monthlong shutdown starting in late 2018 ended hours after a shortage of air traffic controllers snarled air travel in the New York area.",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "United Airlines CEO warns an extended shutdown will hurt bookings",
+      "image": [
+        "https://image.cnbcfm.com/api/v1/image/108136400-1745527498700-gettyimages-2211826184-aw1a9595_h8xgnxlx.jpeg?v=1745527634&w=1920&h=1080"
+      ],
+      "datePublished": "2025-10-16T18:58:33.000Z",
+      "dateModified": "2025-10-16T18:58:33.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Fed Governor Miran wants a half-point cut this month, while Waller backs another quarter-point move",
+    "url": "https://www.cnbc.com/2025/10/16/fed-governor-miran-wants-a-half-point-cut-this-month-while-waller-backs-another-quarter-point-move.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108212521-1760554357457-251015_CNBC_InvestInAmerica_Rush_043.jpg?v=1760554409&w=1920&h=1080",
+    "tag": "Finance",
+    "date": "2025-10-16T15:35:44.000Z",
+    "description": "Federal Reserve Governor Stephen Miran speaks with CNBC during the Invest i America Forum on Oct. 15, 2025.CNBCFederal Reserve Governors Stephen Miran",
+    "body": "Federal Reserve Governor Stephen Miran speaks with CNBC during the Invest i America Forum on Oct. 15, 2025.CNBCFederal Reserve Governors Stephen Miran and Christopher Waller provided conflicting views on how quickly the central bank should lower interest rates in the face of a weakening labor market and heightened geopolitical tensions.Miran said Thursday he plans to repeat his push for a half percentage point interest rate cut when the Fed meets later this month.In a speech delivered in New York, Waller advocated a quarter percentage point reduction at the October meeting, a position that appears more in line with the Fed consensus.Taken together and combined with recent statements from other monetary policymakers, the rate-setting Federal Open Market Committee looks to be on a clear path to more reductions, the extent to which remains unclear.\"Based on all of the data we have on the labor market, I believe that the FOMC should reduce the policy rate another 25 basis points at our meeting that concludes Oct. 29,\" Waller told the Council on Foreign Relations. \"But beyond that point, I will be looking for how the solid GDP data reconcile with the softening labor market.\"Fed officials have been operating in a quandary between indications of a standstill in hiring against nagging inflation pressures exacerbated by President Donald Trump's tariffs. Waller has been among officials advocating an approach in which the Fed looks through the tariffs as one-off price increases that will not provide lasting inflationary pressures.Waller pointed to two scenarios — one in which gross domestic product continues its upward climb and the labor market improves, in which case the Fed would need a more cautious approach on cutting, and the other in which the economic picture darkens and additional rate cuts on the order of up to 1.25 percentage points are necessary.\"What I would want to avoid is rekindling inflationary pressure by moving too quickly and squandering the significant progress we have made taming inflation,\" he said. \"The labor market has been sending some clear warnings lately, and we should be ready to act if those warnings are validated by what we learn in the coming weeks and months.\"'It should be 50'Both Waller and Miran were appointed by President Donald Trump. Waller is considered one of the final front-runners to succeed Chair Jerome Powell when his term expires in May 2026.In separate remarks, Miran conceded he still expects his colleagues to vote for another quarter-point reduction even as he thinks current circumstances warrant a more aggressive approach.\"My view is that it should be 50\" basis points, he said during a Fox Business interview. \"However, I expect it to be an additional 25 and I think that we're probably set up for three 25 basis point cuts this year, for a total of 75 basis points this year.\"One basis point equals 0.01%, so 50 would be the equivalent of half a percentage point. Miran pushed for a half-point cut at the September meeting but was outvoted 11-1 on the Federal Open Market Committee.Earlier this week, Powell indicated that a softening labor market kept the door open to additional easing. Participants at the September meeting indicated the likelihood of two more moves coming this year, though Miran favored an approach that would lop a total 1.25 percentage points off the fed funds rate by the end of 2025.A government shutdown that has blocked the issuance of most key data points has made the Fed's job tougher.\"It would be really helpful to have the economic data in order to be able to make the decisions we need to make,\" Miran said. \"Certainly, we would want to be inspecting the economy for signs of moves lower in inflation, for signs of changes in the job market. But without those data, we still have to make a decision anyway, and so we'll have to rely upon our forecasts for doing so.\"Miran said economic growth largely looks \"OK for most of this year\" though he is concerned about the recent acceleration in tensions between the U.S. and China, which he sees as boosting the case for big rate cuts.The FOMC next meets Oct. 28-29, with markets pricing in a nearly 100% of a quarter-point reduction.",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Fed Governor Miran wants a half-point cut this month, while Waller backs another quarter-point move",
+      "image": [
+        "https://image.cnbcfm.com/api/v1/image/108212521-1760554357457-251015_CNBC_InvestInAmerica_Rush_043.jpg?v=1760554409&w=1920&h=1080"
+      ],
+      "datePublished": "2025-10-16T15:35:44.000Z",
+      "dateModified": "2025-10-16T15:35:44.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Illinois Gov. JB Pritzker won $1.4 million gambling last year, tax filings show",
     "url": "https://www.cnbc.com/2025/10/16/pritzker-tax-gambling-governor.html",
     "image": "https://image.cnbcfm.com/api/v1/image/108209346-1760629636357-108209346-1759934133559-gettyimages-2239369666-US-NEWS-CHICAGO-TROOPS-PRITZKER-TRUMP-1-TB.jpg?v=1760629689&w=1920&h=1080",
@@ -91,181 +166,6 @@
       ],
       "datePublished": "2025-10-16T17:24:45.000Z",
       "dateModified": "2025-10-16T17:24:45.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Genentech to sell flu pill directly to some consumers at a discount as Trump pressures drugmakers",
-    "url": "https://www.cnbc.com/2025/10/16/genentech-launches-direct-to-consumer-program-for-flu-pill-xofluza.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108158620-1749750081351-gettyimages-2219830016-_73a7446_qrzblszx.jpeg?v=1749750126&w=1920&h=1080",
-    "tag": "Finance",
-    "date": "2025-10-16T16:08:00.000Z",
-    "description": "A sign is posted in front of a Genentech office on June 12, 2025 in South San Francisco, California. Justin Sullivan | Getty ImagesRoche's Genentech o",
-    "body": "A sign is posted in front of a Genentech office on June 12, 2025 in South San Francisco, California. Justin Sullivan | Getty ImagesRoche's Genentech on Thursday said it will sell its flu pill, Xofluza, directly to certain patients at a discount in a bid to expand access, becoming the latest company to wade into the direct-to-consumer space. It follows similar moves by other drugmakers to simplify how Americans get their medicines, and comes as companies face pressure from the Trump administration to lower U.S. drug prices. Genentech's new program also launches ahead of the flu season, which typically peaks in the winter months. The 2024 to 2025 flu season was the most severe in more than a decade, according to Centers for Disease Control and Prevention data. Genentech's new program aims to reach uninsured patients, those with limited coverage or people whose plans don't cover the pill, according to a release. The company will provide access to Xofluza through three pharmacies with a $50 cash pay option, which is 70% lower than the pill's current list price before insurance. That includes Mark Cuban's direct-to-consumer pharmacy Cost Plus Drug Company, Amazon Pharmacy and Fuze Health's Alto Pharmacy. Genentech said same-day home delivery is available in certain markets through the latter two pharmacies. Home mail delivery is also available nationwide through all three pharmacies for people who want to use Xofluza as a prevention treatment. The pill is a single-dose antiviral treatment for people ages 5 and above, typically taken within 48 hours of the onset of flu symptoms. Xofluza costs over $150 for one treatment, according to some drug price websites. On top of the new effort, Genentech also offers a coupon that allows eligible patients to pay as little as $35 for their Xofluza prescription, with up to $70 off at most pharmacies.Trump in July sent letters to 17 drugmakers urging them to take specific steps to curb costs for patients, including by launching direct-to-consumer sales models for their medicines. Companies had to respond by Sept. 29. Since then, Pfizer and AstraZeneca have inked deals with Trump to lower drug prices. It was part of his effort to revive a controversial plan called the \"most favored nation\" policy, which aims to tie the prices of some drugs in the U.S. to the significantly lower ones abroad.",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Genentech to sell flu pill directly to some consumers at a discount as Trump pressures drugmakers",
-      "image": [
-        "https://image.cnbcfm.com/api/v1/image/108158620-1749750081351-gettyimages-2219830016-_73a7446_qrzblszx.jpeg?v=1749750126&w=1920&h=1080"
-      ],
-      "datePublished": "2025-10-16T16:08:00.000Z",
-      "dateModified": "2025-10-16T16:08:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Cybersecurity firm F5's stock sinks 12% after disclosing nation-state hack",
-    "url": "https://www.cnbc.com/2025/10/16/cybersecurity-f5-stock-hack.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108013192-1722285698943-gettyimages-1232299129-PGONCHAR_W1056.jpeg?v=1760633582&w=1920&h=1080",
-    "tag": "Finance",
-    "date": "2025-10-16T18:09:42.000Z",
-    "description": "Pavlo Gonchar | SOPA Images | Lightrocket | Getty ImagesU.S. cybersecurity company F5 fell 12% on Thursday after disclosing a system breach in which a",
-    "body": "Pavlo Gonchar | SOPA Images | Lightrocket | Getty ImagesU.S. cybersecurity company F5 fell 12% on Thursday after disclosing a system breach in which a \"highly sophisticated nation-state threat actor\" gained long-term access to some systems.F5 shares were pacing for the worst day since April 27, 2022, when the stock fell 12.8%.The company disclosed the breach in a Securities and Exchange Commission filing on Wednesday and said the hack affected its BIG-IP product development environment. F5 said the attacker infiltrated files containing some source code and information on \"undisclosed vulnerabilities\" in BIG-IP.The breach was later attributed to state-backed hackers from China, Bloomberg reported, citing people familiar with the matter.F5, which was made aware of the attack in August, said they have not seen evidence of any new unauthorized activity.Read more CNBC tech news$1 trillion-worth of AI deals between OpenAI, Nvidia and others, in one chartWaymo plans robotaxi launch in London, marking its European debutASML looks to calm fears over 2026 growth as it warns of China sales declineMeta removes Facebook page allegedly used to target ICE agents after pressure from DOJ\"We have no knowledge of undisclosed critical or remote code vulnerabilities, and we are not aware of active exploitation of any undisclosed F5 vulnerabilities,\" F5 said in a statement.The cybersecurity giant told customers that hackers were in the network for at least 12 months and that the breach used a malware called Brickstorm, according to Bloomberg.F5 would not confirm the information.Brickstorm is attributed to a suspected China-nexus threat dubbed UNC5221, Google Threat Intelligence Group said in a blog post. The malware is used for maintaining \"long-term stealthy access\" and can remain undetected in victim systems for an average of 393 days, according to Mandiant.The attack prompted an emergency directive from the Cybersecurity and Infrastructure Security Agency on Wednesday, telling all agencies using F5 software or products to apply the latest update.\"The alarming ease with which these vulnerabilities can be exploited by malicious actors demands immediate and decisive action from all federal agencies,\" CISA Acting Director Madhu Gottumukkala said. \"These same risks extend to any organization using this technology, potentially leading to a catastrophic compromise of critical information systems.\"The UK's National Cyber Security Centre also issued guidance for the F5 attack, advising customers to install security updates and continue monitoring for threats.",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Cybersecurity firm F5's stock sinks 12% after disclosing nation-state hack",
-      "image": [
-        "https://image.cnbcfm.com/api/v1/image/108013192-1722285698943-gettyimages-1232299129-PGONCHAR_W1056.jpeg?v=1760633582&w=1920&h=1080"
-      ],
-      "datePublished": "2025-10-16T18:09:42.000Z",
-      "dateModified": "2025-10-16T18:09:42.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Bill to fund military during government shutdown fails in Senate procedural vote",
-    "url": "https://www.cnbc.com/2025/10/16/government-shutdown-military-pay.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108213184-1760639834338-108213184-1760639523991-gettyimages-2240948021-20090101251016-99-348363-1.jpg?v=1760639872&w=1920&h=1080",
-    "tag": "Finance",
-    "date": "2025-10-16T19:56:27.000Z",
-    "description": "US National Guard soldiers walk up the steps to the Lincoln Memorial in the early morning.Kay Nietfeld | Picture Alliance | Getty ImagesA House-approv",
-    "body": "US National Guard soldiers walk up the steps to the Lincoln Memorial in the early morning.Kay Nietfeld | Picture Alliance | Getty ImagesA House-approved bill that would fund the U.S. military during the ongoing federal government shutdown failed to pass the Senate in a procedural vote on Thursday.The House bill required at least 60 votes in the 100-member Senate to advance because of the chamber's filibuster rules. The final vote was 50-44, with three Democrats joining most Republicans in voting \"aye.\"Read more CNBC government shutdown coverageBill to fund military during government shutdown fails in Senate procedural voteGovernment shutdown: Senate bill fails for 10th time, Kelly tells Trump to get involvedJudge blocks Trump from firing federal workers during government shutdown for nowKristi Noem's shutdown airport video may violate Hatch Act, Sen. Cantwell warnsTrump admin federal job cuts likely to be 'north of 10,000,' Vought saysTrump shutdown job cuts affect bipartisan prioritiesAirports refuse to show Noem video blaming Democrats for government shutdownTrump says 'a lot' of federal workers are being laid off during shutdownTrump administration begins layoffs of federal workers amid government shutdownTrump threatens to use government shutdown to cut 'popular Democrat programs'IRS furloughs nearly half of its workforce due to government shutdownSenate Majority Leader John Thune, R-S.D., voted against the bill solely as a tactic to allow him to quickly revive the effort to fund the Pentagon during the shutdown.The vote came hours after a Senate bill to fund the entire government failed.Most Democrats in the House opposed the defense funding bill when it was voted on in July. Minnesota Rep. Betty McCollum, the top Democrat on the House panel overseeing military funding, opposed the bill, noting it eliminates assistance to Ukraine, rolls back vaccine requirements, and limits service members' access to abortions, among other things.Thune blasted Senate Democrats for opposing the bill on Thursday.\"Filibustering defense appropriations bill, which is a bill which, like I said, should get 80 plus votes on the floor, suggests a level of dysfunction on their side right now that I can't explain,\" Thune said. \"The government shutdown is one aspect of this, for sure. But, you know, we're trying to continue to do business here.\" But Sen. Richard Blumenthal, D-Conn., said, \"I will vote yes on a military appropriations bill to pay our men and women in uniform, but if it has all of the House poison pills, no.\"Sen. Jeanne Shaheen, a New Hampshire Democrat who voted for the bill, said, \"I believe it is critical that the Senate and Congress return to a bipartisan appropriations approach and try to begin rebuilding trust.\"\"This vote would allow us to consider Senate appropriations bills which were passed out of committee with overwhelming bipartisan support,\" Shaheen said. \"The bipartisan Senate appropriations defense bill will protect our national security and would ensure our men and women in uniform receive pay and benefits,\" she said.\"We can, and should, try to move forward on a bipartisan appropriations process even as we work to prevent tens of millions of Americans from seeing a massive spike in their health insurance premiums in the coming days.\"",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Bill to fund military during government shutdown fails in Senate procedural vote",
-      "image": [
-        "https://image.cnbcfm.com/api/v1/image/108213184-1760639834338-108213184-1760639523991-gettyimages-2240948021-20090101251016-99-348363-1.jpg?v=1760639872&w=1920&h=1080"
-      ],
-      "datePublished": "2025-10-16T19:56:27.000Z",
-      "dateModified": "2025-10-16T19:56:27.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Government shutdown: Senate bill fails for 10th time, Kelly tells Trump to get involved",
-    "url": "https://www.cnbc.com/2025/10/16/trump-government-shutdown-senate-vote.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108013720-1722360878481-gettyimages-2163929554-kelly_BC_465_073024JPG.jpeg?v=1722360967&w=1920&h=1080",
-    "tag": "Finance",
-    "date": "2025-10-16T16:27:33.000Z",
-    "description": "watch nowA Republican bill to end the government shutdown failed in the Senate for the 10th time on Thursday, leaving lawmakers at a stalemate as the ",
-    "body": "watch nowA Republican bill to end the government shutdown failed in the Senate for the 10th time on Thursday, leaving lawmakers at a stalemate as the lapse in federal funding stretched into its third week.  The resolution came up short in a 51-45 vote that fell mostly along party lines. Sixty senators are needed to approve any stopgap bill; Republicans hold a narrow 53-seat majority in the Senate.Earlier Thursday, Democratic Sen. Mark Kelly called on President Donald Trump to get involved in the negotiations between Republican and Democratic senators to break the impasse.\"I think we need the president to make that happen, that he needs to engage with Mike Johnson and John Thune,\" Kelly said on CNBC's \"Squawk Box,\" referring to the Republicans who are the speaker of the House and the Senate majority leader, respectively.\"They seem to follow his lead on everything. That's the way this ends,\" the Arizona senator said.The sticking point in passing a funding deal is that Democrats insist that any such bill extend enhanced Affordable Care Act subsidies, which are set to expire at the end of 2025.A Democratic bill to keep in place those extra subsidies, which about 22 million Americans use to reduce the cost of their Obamacare health plans, is expected to cost nearly $1.5 trillion over a decade.\"The president has talked about how he wants this fixed. He wants these subsidies to be dealt with,\" Kelly said.\"So he agrees we should open the government and we should fix the subsidy issue under the Affordable Care Act, and that's all we want,\" Kelly said. \"So I don't see what the issue is.\"Thune and other Republicans have said they would be willing to discuss whether to extend enhanced ACA tax credits after a short-term funding extension is approved.In an interview Thursday with MSNBC's \"Morning Joe,\" Thune said, \"We are happy to sit down and talk about a solution on the ACA, tax credits, but that needs to happen in a separate context, you know, away from having the government open.\"Johnson, in an interview on \"Squawk Box\" on Thursday, said, \"This is not a health care fight. This is a very simple funding fight. It always was.\"\"They have created a red herring. The subsidies don't expire until the end of the year,\" Johnson said.\"We were always planning to have the thoughtful debate and deliberation over that in the month of October and November, before the subsidies expired. They know that. They grabbed that issue from the end of the year and pulled it back into September to try to pretend like that was the issue. It never was,\" Johnson said.The speaker also said there \"needs a dramatic amount of reform\" with the ACA subsidies, \"if indeed they're going to be extended.\"Punchbowl News reported on Thursday that \"there's a bipartisan group of senators discussing several different potential off-ramps\" to the shutdown stalemate \"involving the enhanced Obamacare subsidies.\"\"The group, led in part by Sen. Jeanne Shaheen (D-N.H.), is discussing the possibility of holding two side-by-side votes intended to end the shutdown,\" Punchbowl reported, cited people familiar with the matter.\"The first vote would be to reopen the government, while the second would be on a one-year extension of the Obamacare enhanced premium tax credits, plus a commitment to pass a longer-term solution by a date certain.\"",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Government shutdown: Senate bill fails for 10th time, Kelly tells Trump to get involved",
-      "image": [
-        "https://image.cnbcfm.com/api/v1/image/108013720-1722360878481-gettyimages-2163929554-kelly_BC_465_073024JPG.jpeg?v=1722360967&w=1920&h=1080"
-      ],
-      "datePublished": "2025-10-16T16:27:33.000Z",
-      "dateModified": "2025-10-16T16:27:33.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "TSMC profit surges 39% to beat estimates and hit yet another record on AI chip demand",
-    "url": "https://www.cnbc.com/2025/10/16/tsmc-hits-yet-another-record-as-profit-surges-39percent-beating-estimates-on-ai-chip-demand-surge.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108131997-1760614999686-108131997-17447197412025-04-15t055241z_2006308880_rc24yda1ifrn_rtrmadp_0_usa-trump-tariffs-taiwan.jpg?v=1760615007&w=1920&h=1080",
-    "tag": "Finance",
-    "date": "2025-10-16T12:59:58.000Z",
-    "description": "The TSMC logo is displayed on a building in Hsinchu, Taiwan April 15, 2025. Ann Wang | ReutersTaiwan Semiconductor Manufacturing Co. on Thursday repor",
-    "body": "The TSMC logo is displayed on a building in Hsinchu, Taiwan April 15, 2025. Ann Wang | ReutersTaiwan Semiconductor Manufacturing Co. on Thursday reported a 39.1% increase in third-quarter profit from last year, beating estimates and hitting a fresh record as demand for artificial intelligence chips stayed strong.Here are the company's results versus LSEG SmartEstimates:Revenue: 989.92 billion New Taiwan dollars ($33.10 billion) vs. NT$977.46 billion expectedNet income: NT$452.3 billion, vs. NT$417.69 billion TSMC's revenue in the September quarter rose 30.3% from a year ago to NT$989.92 billion, also beating estimates. Net income increased 13.7% from last quarter, which had marked a record high at the time.As Asia's largest technology company by market capitalization, TSMC has benefited from the artificial intelligence boom, producing advanced AI processors for clients such as Nvidia and Apple.\"Recent developments in AI market continue to be very positive,\" TSMC CEO C.C. Wei said on an earnings call, adding that increasing adoption of AI models by consumers has led to more demand for compute, and by extension, semiconductor products. \"Thus, our conviction in the AI megatrend is strengthening,\" he added.Bolstered by this AI strength, Wei said the company had raised its 2025 revenue growth forecast to the mid-30% range. In July, the company had expected full-year revenue growth of about 30%.TSMC also increased its expected floor for capacity expansion and upgrades to $40 billion for the full year, up from a previous floor of $38 billion.Cutting-edge chipsTSMC's high-performance computing division, which encompasses artificial intelligence and 5G applications, made up the majority of sales in the July-September quarter, accounting for 57% of revenue.TSMC said advanced chips, with sizes 7-nanometer or smaller, accounted for 74% of TSMC's total wafer revenue in the quarter. In semiconductor technology, smaller nanometer sizes signify more compact transistor designs, which lead to greater processing power and efficiency. watch nowGrowth in TSMC's most advanced chips particularly drove revenue gains in the third quarter, according to Counterpoint Research senior analyst William Li.\"TSMC's robust earnings are a direct reflection of the strong traction at 3nm as well as high utilization at 4/5nm – both of which are being driven by ongoing orders from AI GPU and HPC customers and premium smartphone platforms,\" Li told CNBC in a statement. TSMC executives also said Thursday that they were monitoring U.S. tariff developments as Taiwan negotiates for a lower \"reciprocal\" rate and Washington weighs industry-specific duties on semiconductors. However, TSMC is likely to receive some exemptions. \"We understand there are uncertainties and risks from the potential impact of tariff policies, especially in consumer-related and price-sensitive market segments,\" Wei said, adding that the company would continue to monitor and plan for any impact. TSMC has been investing heavily in facilities in the U.S. — spending that could help reduce its exposure to tariff impacts.Shares of TSMC in Taiwan have risen more than 38% so far this year.",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "TSMC profit surges 39% to beat estimates and hit yet another record on AI chip demand",
-      "image": [
-        "https://image.cnbcfm.com/api/v1/image/108131997-1760614999686-108131997-17447197412025-04-15t055241z_2006308880_rc24yda1ifrn_rtrmadp_0_usa-trump-tariffs-taiwan.jpg?v=1760615007&w=1920&h=1080"
-      ],
-      "datePublished": "2025-10-16T12:59:58.000Z",
-      "dateModified": "2025-10-16T12:59:58.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Feds to seek indictment against former Trump advisor John Bolton on Thursday: Reports",
-    "url": "https://www.cnbc.com/2025/10/16/trump-john-bolton-grand-jury-indictment.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/107161399-1670277479722-gettyimages-1415440402-_m011039_8cd3137c-cd9b-444e-af75-15111270026b.jpeg?v=1760631763&w=1920&h=1080",
-    "tag": "Finance",
-    "date": "2025-10-16T18:14:58.000Z",
-    "description": "Former National Security Adviser John Bolton speaks to reporters after speaking in a panel hosted by the National Council of Resistance of Iran – U.S.",
-    "body": "Former National Security Adviser John Bolton speaks to reporters after speaking in a panel hosted by the National Council of Resistance of Iran – U.S. Representative Office (NCRI-US) at the Willard InterContinental Hotel on Aug. 17, 2022 in Washington, DC.Anna Moneymaker | Getty ImagesFederal prosecutors in Maryland are expected to ask a grand jury there on Thursday to indict John Bolton, a former national security advisor to President Donald Trump, according to multiple media reports.If he is indicted, Bolton would be the third high-profile Trump foe in recent weeks to be criminally charged.Grand juries in Virginia separately indicted former FBI Director James Comey on charges related to allegedly lying to Congress, and New York Attorney General Letitia James, who is accused of bank fraud related to a mortgage on a home she owns in Virginia. They have denied any wrongdoing.FBI agents on Aug. 22 raided Bolton's Maryland home and office in Washington, D.C.The raids are part of a \"national security investigation in search of classified records,\" a person familiar with the matter told NBC News at the time.CNBC has requested comment from Bolton's lawyer, Abbe Lowell.FBI agents carry boxes as they exit the building that houses the Washington office of former National Security Adviser John Bolton, in Washington, D.C., U.S., August 22, 2025. Aaron Schwartz | ReutersThis is developing news. Check back for updates.Read more CNBC politics coverageIllinois Gov. JB Pritzker won $1.4 million gambling last year, tax filings showTrump says he and Putin will meet in Hungary to discuss war in UkraineFeds to seek indictment against former Trump advisor John Bolton on Thursday: ReportsTrump says he might attend Supreme Court tariff case arguments next monthJudge blocks Trump from firing federal workers during government shutdown for nowDOJ seizes $15 billion in bitcoin from 'pig butchering' scam based in CambodiaBessent says market weakness won't deter U.S. from taking strong action against ChinaTrump threatens China with cooking oil embargo over soybean snubTrump shutdown job cuts affect bipartisan prioritiesTrump trade rep says 100% tariff on China depends on Beijing's next moveQatar Air Force facility to be built at USAF base in Idaho, Defense Secretary Hegseth saysTrump nominee Paul Ingrassia reportedly accused of sexual harassment",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Feds to seek indictment against former Trump advisor John Bolton on Thursday: Reports",
-      "image": [
-        "https://image.cnbcfm.com/api/v1/image/107161399-1670277479722-gettyimages-1415440402-_m011039_8cd3137c-cd9b-444e-af75-15111270026b.jpeg?v=1760631763&w=1920&h=1080"
-      ],
-      "datePublished": "2025-10-16T18:14:58.000Z",
-      "dateModified": "2025-10-16T18:14:58.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Salesforce stock jumps after company offers rosy forecast for 2030",
-    "url": "https://www.cnbc.com/2025/10/15/salesforce-stock-jumps-after-company-offers-rosy-forecast-for-2030.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108212066-1760473027063-gettyimages-2240649632-2025_DREAMFORCE.jpeg?v=1760473179&w=1920&h=1080",
-    "tag": "Finance",
-    "date": "2025-10-16T13:35:21.000Z",
-    "description": "Marc Benioff, chief executive officer of Salesforce Inc., speaks during the 2025 Dreamforce conference in San Francisco, California, US, on Tuesday, O",
-    "body": "Marc Benioff, chief executive officer of Salesforce Inc., speaks during the 2025 Dreamforce conference in San Francisco, California, US, on Tuesday, Oct. 14, 2025. Michael Short | Bloomberg | Getty ImagesSalesforce shares rose as much as 5% in extended trading on Wednesday after the software vendor issued new financial targets for the next few years.The company said it now expects revenue of more than $60 billion in 2030, above the $58.37 billion consensus among analysts polled by LSEG.The guidance excludes impact from the pending acquisition of data management company Informatica. The $8 billion deal, announced in May, is slated to close in the fiscal fourth quarter or in the first quarter of the 2027 fiscal year.\"We have had some lower-stage growth for a while,\" Robin Washington, Salesforce's chief operating and financial officer, said during an investor briefing at the company's annual Dreamforce conference in San Francisco. \"That is reaccelerating.\"The company called for an organic year-over-year revenue growth rate above 10% in the 2026 through 2030 fiscal years. The growth rate has been under 10% since mid-2024.Investors have been concerned, in part because of the rise of \"vibe-coding\" tools for automatically generating software with a few words of human input. Industry observers have predicted that artificial intelligence services might threaten longstanding software providers. Microsoft CEO Satya Nadella said in April that AI is creating up to 30% of new code at the company.\"There's a certain amount of, let's just say, nonsense that's out there,\" Salesforce CEO Marc Benioff said on Wednesday. \"Like, for example, that these products are writing all the software, and that is not what's happening.\"As of Wednesday's close, Salesforce's stock had fallen 29% for the year, while the Nasdaq has gained 17%.To increase revenue, Salesforce is counting on its Agentforce software for automating customer service and other business processes, said Washington, who also sits on Salesforce's board. The company introduced Agentforce last year as a way for brands to add chat-based customer service agents that connect large language models to internal data.\"Investors continue to ask why Agentforce adoption has been slower than anticipated,\" analysts at RBC Capital Markets wrote in a note to clients earlier this month.Salesforce executives are hoping product enhancements will attract more business.The company on Monday released Agentforce Voice, which allows clients to have agents answer customer service calls. On Tuesday, Salesforce announced larger partnerships with AI model developers Anthropic and OpenAI, bringing their latest models to Agentforce.At Dreamforce, Salesforce pointed to Agentforce adoption at FedEx, Pandora, PepsiCo, Williams Sonoma and other companies.WATCH: People don't understand Agentforce is part and parcel of Salesforce, says CEO Marc Benioffwatch now",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Salesforce stock jumps after company offers rosy forecast for 2030",
-      "image": [
-        "https://image.cnbcfm.com/api/v1/image/108212066-1760473027063-gettyimages-2240649632-2025_DREAMFORCE.jpeg?v=1760473179&w=1920&h=1080"
-      ],
-      "datePublished": "2025-10-16T13:35:21.000Z",
-      "dateModified": "2025-10-16T13:35:21.000Z",
       "author": [
         {
           "@type": "Person",
@@ -325,9 +225,34 @@
     }
   },
   {
+    "title": "Government shutdown: Senate bill fails for 10th time, Kelly tells Trump to get involved",
+    "url": "https://www.cnbc.com/2025/10/16/trump-government-shutdown-senate-vote.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108013720-1722360878481-gettyimages-2163929554-kelly_BC_465_073024JPG.jpeg?v=1722360967&w=1920&h=1080",
+    "tag": "Finance",
+    "date": "2025-10-16T16:27:33.000Z",
+    "description": "watch nowA Republican bill to end the government shutdown failed in the Senate for the 10th time on Thursday, leaving lawmakers at a stalemate as the ",
+    "body": "watch nowA Republican bill to end the government shutdown failed in the Senate for the 10th time on Thursday, leaving lawmakers at a stalemate as the lapse in federal funding stretched into its third week.  The resolution came up short in a 51-45 vote that fell mostly along party lines. Sixty senators are needed to approve any stopgap bill; Republicans hold a narrow 53-seat majority in the Senate.Earlier Thursday, Democratic Sen. Mark Kelly called on President Donald Trump to get involved in the negotiations between Republican and Democratic senators to break the impasse.\"I think we need the president to make that happen, that he needs to engage with Mike Johnson and John Thune,\" Kelly said on CNBC's \"Squawk Box,\" referring to the Republicans who are the speaker of the House and the Senate majority leader, respectively.\"They seem to follow his lead on everything. That's the way this ends,\" the Arizona senator said.The sticking point in passing a funding deal is that Democrats insist that any such bill extend enhanced Affordable Care Act subsidies, which are set to expire at the end of 2025.A Democratic bill to keep in place those extra subsidies, which about 22 million Americans use to reduce the cost of their Obamacare health plans, is expected to cost nearly $1.5 trillion over a decade.\"The president has talked about how he wants this fixed. He wants these subsidies to be dealt with,\" Kelly said.\"So he agrees we should open the government and we should fix the subsidy issue under the Affordable Care Act, and that's all we want,\" Kelly said. \"So I don't see what the issue is.\"Thune and other Republicans have said they would be willing to discuss whether to extend enhanced ACA tax credits after a short-term funding extension is approved.In an interview Thursday with MSNBC's \"Morning Joe,\" Thune said, \"We are happy to sit down and talk about a solution on the ACA, tax credits, but that needs to happen in a separate context, you know, away from having the government open.\"Johnson, in an interview on \"Squawk Box\" on Thursday, said, \"This is not a health care fight. This is a very simple funding fight. It always was.\"\"They have created a red herring. The subsidies don't expire until the end of the year,\" Johnson said.\"We were always planning to have the thoughtful debate and deliberation over that in the month of October and November, before the subsidies expired. They know that. They grabbed that issue from the end of the year and pulled it back into September to try to pretend like that was the issue. It never was,\" Johnson said.The speaker also said there \"needs a dramatic amount of reform\" with the ACA subsidies, \"if indeed they're going to be extended.\"Punchbowl News reported on Thursday that \"there's a bipartisan group of senators discussing several different potential off-ramps\" to the shutdown stalemate \"involving the enhanced Obamacare subsidies.\"\"The group, led in part by Sen. Jeanne Shaheen (D-N.H.), is discussing the possibility of holding two side-by-side votes intended to end the shutdown,\" Punchbowl reported, cited people familiar with the matter.\"The first vote would be to reopen the government, while the second would be on a one-year extension of the Obamacare enhanced premium tax credits, plus a commitment to pass a longer-term solution by a date certain.\"",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Government shutdown: Senate bill fails for 10th time, Kelly tells Trump to get involved",
+      "image": [
+        "https://image.cnbcfm.com/api/v1/image/108013720-1722360878481-gettyimages-2163929554-kelly_BC_465_073024JPG.jpeg?v=1722360967&w=1920&h=1080"
+      ],
+      "datePublished": "2025-10-16T16:27:33.000Z",
+      "dateModified": "2025-10-16T16:27:33.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Ray-Ban maker EssilorLuxottica says Meta smart glasses are boosting growth",
     "url": "https://www.cnbc.com/2025/10/16/ray-ban-maker-essilorluxottica-says-meta-smart-glasses-boosting-growth.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108201461-1758309556598-gettyimages-2235586867-META_CONNECT.jpeg?v=1758309674&w=1920&h=1080",
+    "image": "https://image.cnbcfm.com/api/v1/image/108201461-1758309556598-gettyimages-2235586867-META_CONNECT.jpeg?v=1760651677&w=1920&h=1080",
     "tag": "Finance",
     "date": "2025-10-16T19:42:09.000Z",
     "description": "Meta Ray-Ban Gen 2 AI glasses during the Meta Connect event in Menlo Park, California, US, on Wednesday, Sept. 17, 2025. David Paul Morris | Bloomberg",
@@ -337,10 +262,60 @@
       "@type": "NewsArticle",
       "headline": "Ray-Ban maker EssilorLuxottica says Meta smart glasses are boosting growth",
       "image": [
-        "https://image.cnbcfm.com/api/v1/image/108201461-1758309556598-gettyimages-2235586867-META_CONNECT.jpeg?v=1758309674&w=1920&h=1080"
+        "https://image.cnbcfm.com/api/v1/image/108201461-1758309556598-gettyimages-2235586867-META_CONNECT.jpeg?v=1760651677&w=1920&h=1080"
       ],
       "datePublished": "2025-10-16T19:42:09.000Z",
       "dateModified": "2025-10-16T19:42:09.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Marc Benioff's call for troops in SF leads tech investor Ron Conway to leave Salesforce Foundation board",
+    "url": "https://www.cnbc.com/2025/10/16/benioff-sf-troop-comment-lead-ron-conway-resign-salesforce-foundation.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/107299302-1694537464866-gettyimages-472128376-TECHCRUNCH_NYC.jpeg?v=1760650187&w=1920&h=1080",
+    "tag": "Finance",
+    "date": "2025-10-16T22:33:39.000Z",
+    "description": "Ron Conway, founder of SV Angel, speaks during the TechCrunch Disrupt NYC 2015 conference in New York on May 4, 2015.Michael Nagle | Bloomberg | Getty",
+    "body": "Ron Conway, founder of SV Angel, speaks during the TechCrunch Disrupt NYC 2015 conference in New York on May 4, 2015.Michael Nagle | Bloomberg | Getty ImagesDays after suggesting that President Donald Trump should send federal troops to San Francisco, Salesforce CEO Marc Benioff is facing some consequences.Prominent startup investor Ron Conway, who backed companies including Google, Airbnb and Stripe, resigned from the board of the Salesforce Foundation on Thursday, CNBC has confirmed. Conway is a longtime Democratic donor who was a member of VCs for Kamala, and donated around $500,000 to at least two funds tied to Kamala Harris' unsuccessful 2024 election campaign.The New York Times was first to report on Conway's departure from the Salesforce Foundation. A Salesforce spokesperson confirmed his exit in an e-mailed statement.\"We have deep gratitude for Ron Conway and his incredible contributions to the Salesforce Foundation Board for over a decade,\" the spokesperson said, noting that the group has donated, \"$250 million to public schools and education nonprofits to advance opportunity and access for young people, including $30 million announced this week.\"The Trump administration recently deployed the National Guard to Portland, Oregon and Chicago, sparking protests and lawsuits and resulting in citizens and immigrants being detained without legal representation.In a story published late last week in the New York Times, Benioff indicated that he would welcome troops to San Francisco, home to Salesforce. The company's annual Dreamforce conference began in downtown San Francisco on Tuesday.\"We don't have enough cops, so if they can be cops, I'm all for it,\" Benioff told the Times.Benioff later appeared to walk back his comments, writing on X that safety is \"first and foremost, the responsibility of our city and state leaders.\" However, by that point Tesla CEO Elon Musk and other right-wing figures had seized on his original comments, amplifying them to their audiences.Musk, who has drawn criticism for his personal drug use, characterized downtown San Francisco as a \"drug zombie apocalypse.\" And on Wednesday, Trump called San Francisco \"a mess,\" and suggested possibly sending in the National Guard. According to the Times, Conway told Benioff in an email that their \"values were no longer aligned.\" While Benioff has donated to members of both parties, he has supported Democrats for president, including Barack Obama, Hillary Clinton and Kamala Harris.Conway is founder and managing partner of SV Angel, an early-stage venture firm. He has long been an advocate for tech in San Francisco, having founded trade organization sf.citi and helping start FWD.us, which focused on immigration reform.The Salesforce Foundation isn't his only connection to Benioff's philanthropic efforts. Conway is also a large donor to the UCSF Benioff Children's Hospital.Conway didn't respond to a request for comment.California Governor Gavin Newsom and San Francisco leaders on Wednesday issued statements and held press conferences to deliver the message that federal troops are not welcome in the city, and that crime is coming down.Conway has supported Newsom, including in 2021, when he opposed a recall effort against the Democratic governor.WATCH: Salesforce CEO Marc Benioff sits down with Jim Cramer at Dreamforce 2025watch now",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Marc Benioff's call for troops in SF leads tech investor Ron Conway to leave Salesforce Foundation board",
+      "image": [
+        "https://image.cnbcfm.com/api/v1/image/107299302-1694537464866-gettyimages-472128376-TECHCRUNCH_NYC.jpeg?v=1760650187&w=1920&h=1080"
+      ],
+      "datePublished": "2025-10-16T22:33:39.000Z",
+      "dateModified": "2025-10-16T22:33:39.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Bank loan worries make it easier for Fed to cut interest rates, Jim Cramer says",
+    "url": "https://www.cnbc.com/2025/10/16/bank-loan-fed-cut-rates.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/107076695-1655353669692-IMG_2017rbb.jpg?v=1696892670&w=1920&h=1080",
+    "tag": "Finance",
+    "date": "2025-10-16T22:47:33.000Z",
+    "description": "watch nowAs news of sour banks loans rattled Wall Street, CNBC's Jim Cramer said the developments will pave the way for the Federal Reserve to lower i",
+    "body": "watch nowAs news of sour banks loans rattled Wall Street, CNBC's Jim Cramer said the developments will pave the way for the Federal Reserve to lower interest rates — a move that investors across the board have been hoping for.\"Today got real ugly, but at least we finally have something that can make the Federal Reserve itchy to cut interest rates sooner rather than later: bank loans gone bad,\" he said. \"Nothing motivates the Fed to move faster than credit losses, because they're a definitive sign that the economy is going south.\"The averages dipped during Thursday's session as fears about the health of regional banks' lending business grew. The Dow Jones Industrial Average shed nearly 0.7%, while the S&P 500 lost 0.6% and the Nasdaq Composite finished down 0.5%, lead by declines in bank stocks.Worries about lending practices — especially in the private credit market — ramped up recently after two auto industry related outfits, Tricolor and First Brands, filed for bankruptcy. Zions Bancorporation disclosed a $50 million loss on two commercial loans Wednesday evening, and then on Thursday, Western Alliance alleged that a borrower had committed fraud.These bad loans are early warning signs that it's time for the central bank to ease, Cramer said. He suggested the banking system has now \"provided us with enough questionable credits in one week's time\" that the Fed can quickly slash rates without worrying too much about inflation.While lower borrowing rates stimulate the economy generally, Cramer emphasized that they also make it easier for borrowers not to default.Cramer referenced comments from JPMorgan CEO Jamie Dimon who earlier this month suggested the auto companies' bankruptcies were like cockroaches, saying \"when you see one cockroach, there are probably more.\" Dimon's comments turned out to be prescient, Cramer indicated.But these credit issues may not hurt the broader market, Cramer suggested.\"Now, it's possible there's foul play involved in that multi-million problem of First Brands,\" he said. \"Doesn't matter, though: a bad loan is a bad loan is a bad loan, and that's good for the stock market because these bad loans won't hurt profits of anything other than the banks. The pain will be contained, I think.\"watch now",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Bank loan worries make it easier for Fed to cut interest rates, Jim Cramer says",
+      "image": [
+        "https://image.cnbcfm.com/api/v1/image/107076695-1655353669692-IMG_2017rbb.jpg?v=1696892670&w=1920&h=1080"
+      ],
+      "datePublished": "2025-10-16T22:47:33.000Z",
+      "dateModified": "2025-10-16T22:47:33.000Z",
       "author": [
         {
           "@type": "Person",
@@ -355,8 +330,8 @@
     "image": "https://image.cnbcfm.com/api/v1/image/108117839-1742326712875-Putin_Trump.jpg?v=1742326853&w=1920&h=1080",
     "tag": "Finance",
     "date": "2025-10-16T17:36:27.000Z",
-    "description": "Russian President Vladimir Putin and U.S. President Donald Trump.Mikhail Metzel | Evelyn Hockstein | Via ReutersPresident Donald Trump said that he an",
-    "body": "Russian President Vladimir Putin and U.S. President Donald Trump.Mikhail Metzel | Evelyn Hockstein | Via ReutersPresident Donald Trump said that he and Russian President Vladimir Putin agreed during a lengthy phone call on Thursday to meet in Budapest, Hungary, to discuss how to end Russia's war in Ukraine.Trump also said that Secretary of State Marco Rubio and other 'High Level Advisors' will meet next week with their Russian counterparts to lay the groundwork for his summit with Putin. Trump did not say when he expects to meet with Putin.Trump detailed his call with Putin in a Truth Social post.The call came a day before Ukrainian President Volodymyr Zelenskyy is scheduled to meet with Trump at the White House, as Kyiv seeks more U.S. support in its war against Russia.Read more CNBC politics coverageIllinois Gov. JB Pritzker won $1.4 million gambling last year, tax filings showTrump says he and Putin will meet in Hungary to discuss war in UkraineFeds to seek indictment against former Trump advisor John Bolton on Thursday: ReportsTrump says he might attend Supreme Court tariff case arguments next monthJudge blocks Trump from firing federal workers during government shutdown for nowDOJ seizes $15 billion in bitcoin from 'pig butchering' scam based in CambodiaBessent says market weakness won't deter U.S. from taking strong action against ChinaTrump threatens China with cooking oil embargo over soybean snubTrump shutdown job cuts affect bipartisan prioritiesTrump trade rep says 100% tariff on China depends on Beijing's next moveQatar Air Force facility to be built at USAF base in Idaho, Defense Secretary Hegseth saysTrump nominee Paul Ingrassia reportedly accused of sexual harassment\"President Zelenskyy and I will be meeting tomorrow, in the Oval Office, where we will discuss my conversation with President Putin, and much more,\" Trump wrote in the social media post.\"I believe great progress was made with today's telephone conversation.\"Trump earlier this week said that he is considering sending Tomahawk missiles to Ukraine to ratchet up pressure on Russia to end the war.This is developing news. Please check back for updates.",
+    "description": "PoliticsPublished Thu, Oct 16 202511:44 AM EDTUpdated Thu, Oct 16 20251:36 PM EDTKey PointsPresident Donald Trump said that he and Russian President V",
+    "body": "PoliticsPublished Thu, Oct 16 202511:44 AM EDTUpdated Thu, Oct 16 20251:36 PM EDTKey PointsPresident Donald Trump said that he and Russian President Vladimir Putin agreed during a lengthy phone call on Thursday to meet in Budapest, Hungary, to discuss how to end Russia's war in Ukraine.Trump said that Secretary of State Marco Rubio and other 'High Level Advisors\" will meet next week with their Russian counterparts to lay the groundwork for his summit with Putin. Trump did not say when he expects to meet with Putin.The call came a day before Ukrainian President Volodymyr Zelenskyy is scheduled to meet with Trump at the White House, as Kyiv seeks more U.S. support in its war against Russia.Russian President Vladimir Putin and U.S. President Donald Trump.Mikhail Metzel | Evelyn Hockstein | Via ReutersPresident Donald Trump said that he and Russian President Vladimir Putin agreed during a lengthy phone call on Thursday to meet in Budapest, Hungary, to discuss how to end Russia's war in Ukraine.Trump also said that Secretary of State Marco Rubio and other 'High Level Advisors' will meet next week with their Russian counterparts to lay the groundwork for his summit with Putin. Trump did not say when he expects to meet with Putin.Trump detailed his call with Putin in a Truth Social post.The call came a day before Ukrainian President Volodymyr Zelenskyy is scheduled to meet with Trump at the White House, as Kyiv seeks more U.S. support in its war against Russia.Read more CNBC politics coverageIllinois Gov. JB Pritzker won $1.4 million gambling last year, tax filings showTrump says he and Putin will meet in Hungary to discuss war in UkraineFeds to seek indictment against former Trump advisor John Bolton on Thursday: ReportsTrump says he might attend Supreme Court tariff case arguments next monthJudge blocks Trump from firing federal workers during government shutdown for nowDOJ seizes $15 billion in bitcoin from 'pig butchering' scam based in CambodiaBessent says market weakness won't deter U.S. from taking strong action against ChinaTrump threatens China with cooking oil embargo over soybean snubTrump shutdown job cuts affect bipartisan prioritiesTrump trade rep says 100% tariff on China depends on Beijing's next moveQatar Air Force facility to be built at USAF base in Idaho, Defense Secretary Hegseth saysTrump nominee Paul Ingrassia reportedly accused of sexual harassment\"President Zelenskyy and I will be meeting tomorrow, in the Oval Office, where we will discuss my conversation with President Putin, and much more,\" Trump wrote in the social media post.\"I believe great progress was made with today's telephone conversation.\"Trump earlier this week said that he is considering sending Tomahawk missiles to Ukraine to ratchet up pressure on Russia to end the war.This is developing news. Please check back for updates.",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
@@ -366,6 +341,31 @@
       ],
       "datePublished": "2025-10-16T17:36:27.000Z",
       "dateModified": "2025-10-16T17:36:27.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Why some credit card APRs aren’t coming down, even after a Fed rate cut",
+    "url": "https://www.cnbc.com/2025/10/16/why-credit-card-aprs-arent-coming-down-even-after-a-fed-rate-cut.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108093710-1738091397511-gettyimages-681900547-zef10468.jpeg?v=1760630356&w=1920&h=1080",
+    "tag": "Finance",
+    "date": "2025-10-16T19:28:52.000Z",
+    "description": "watch nowAmericans may feel somewhat removed from the Federal Reserve, but the central bank's moves have a ripple effect on many types of consumer pro",
+    "body": "watch nowAmericans may feel somewhat removed from the Federal Reserve, but the central bank's moves have a ripple effect on many types of consumer products, most notably the credit cards in their wallet.Nearly half of American households have credit card debt and pay more than 20% in interest, on average, on their revolving balances — making credit cards one of the most expensive ways to borrow money.\"For millions of American households, credit card debt represents their highest-cost debt by a wide margin,\" said Ted Rossman, senior industry analyst at Bankrate. Since most credit cards have a variable rate, there's a direct connection to the Fed's benchmark. When the Fed cuts rates, the prime rate lowers, too, and the interest rate on that credit card debt is likely to follow within a billing cycle or two.And yet, credit card APRs aren't falling much at all.Read more CNBC personal finance coverageWhy some credit card APRs aren't coming down, even after a Fed rate cutGovernment shutdown delays student loan forgiveness lawsuit — what to knowHow expiring ACA health insurance subsidies could impact Roth conversionsMillions of student loan borrowers at risk of default as late payments climbHow much you can make in 2026 and still pay 0% capital gainsWhat laid off federal workers need to know about their student loansDespite government shutdown, Oct. 15 is still the tax extension deadlineBoomers still love their department stores. Here's whyHow new federal tax changes for 2026 may affect familiesIRS announces new federal income tax brackets for 2026The IRS unveils higher capital gains tax brackets for 2026Gold hits $4,000 but stocks still win over time, top advisor saysAttending a wedding can cost you as much as a typical month’s rentAI is poised to disrupt the job market. Some roles could ‘radically transform'CNBC's Financial Advisor 100: Best financial advisors, top firms for 2025 rankedConsumers hoping for \"an automatic, proportional drop\" in their credit card interest rates \"may be disappointed,\" according to a new report by CardRatings.com.When the Fed cut rates in the second half of 2024, lowering its benchmark by a full point by December, the average credit card rate fell by only 0.23% over the same period, CardRatings found.The central bank lowered its benchmark rate by a quarter point again last month. Yet the average credit card rate in the CardRatings survey was 24.22% for the third quarter, down just 0.09% from the previous quarter.The correlation between the Fed funds rate and credit card rates is often \"weaker\" than expected, said Jennifer Doss, CardRatings.com's executive editor. Credit card rates are also \"heavily influenced by credit conditions and individual credit scores,\" she said.'A highly competitive market'\"If the Fed continues to lower interest rates, consumers will likely see some declines in credit card APRs, but that may take some time and could vary depending on the type of card and individual issuer,\" said Jeff Sigmund, a spokesman for the American Bankers Association.\"Credit card interest rates are set in a highly competitive market,\" he said.Generally, card issuers have several ways to mitigate their exposure to borrowers who could fall behind on payments or default. For example, issuers may trim back the lower end of the APR range (what's charged to more creditworthy borrowers) but not the high end, said Rossman.For some retail credit cards, APRs are even rising, despite the Fed's moves, according to a Bankrate survey. Banks that issue store-branded credit cards have said maintaining higher APRs was necessary following a Consumer Financial Protection Bureau rule limiting what the industry can charge in late fees.But even after bank trade groups succeeded in killing the CFPB rule earlier this year, some credit card companies, including Synchrony and Bread Financial, said they would not roll back the hikes.Even if your credit card rate were to fall by a full quarter point, in lockstep with the Fed's latest cut, it might go from 20.12% to 19.87%, Rossman said, \"that's still very high-cost debt.\"At these rates, there isn't much in the way of relief for consumers. \"We're talking a difference of $1 a month for someone making minimum payments toward the average balance,\" Rossman said.Of course, only consumers who carry a balance from month to month feel the pain of high APRs. \"The real consumer benefit lies in making your personal credit card rate 0%, either by paying in full — if you can — or signing up for a 0% balance transfer card,\" Rossman said of cards offering 12, 15 or even 21 months with no interest on transferred balances.Subscribe to CNBC on YouTube.",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Why some credit card APRs aren’t coming down, even after a Fed rate cut",
+      "image": [
+        "https://image.cnbcfm.com/api/v1/image/108093710-1738091397511-gettyimages-681900547-zef10468.jpeg?v=1760630356&w=1920&h=1080"
+      ],
+      "datePublished": "2025-10-16T19:28:52.000Z",
+      "dateModified": "2025-10-16T19:28:52.000Z",
       "author": [
         {
           "@type": "Person",
