@@ -50,6 +50,156 @@
     }
   },
   {
+    "title": "WhatsApp changes its terms to bar general purpose chatbots from its platform",
+    "url": "https://techcrunch.com/2025/10/18/whatssapp-changes-its-terms-to-bar-general-purpose-chatbots-from-its-platform/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/07/Green-white-apple-logo.jpg?w=150",
+    "tag": "Tech",
+    "date": "2025-10-18T14:12:14.000Z",
+    "description": "\nMeta-owned chat app WhatsApp changed its business API policy this week to ban general-purpose chatbots from its platform. The move will likely affect",
+    "body": "\nMeta-owned chat app WhatsApp changed its business API policy this week to ban general-purpose chatbots from its platform. The move will likely affect WhatsApp-based assistants of companies like OpenAI, Perplexity, Khosla Ventures-backed Luzia, and General Catalyst-backed Poke.\nThe company has added a new section to address “AI providers” in its business API terms, focusing on general-purpose chatbots. The terms, which will go into effect on January 15, 2026, say that Meta won’t allow AI model providers to distribute their AI assistants on WhatsApp.\n\nProviders and developers of artificial intelligence or machine learning technologies, including but not limited to large language models, generative artificial intelligence platforms, general-purpose artificial intelligence assistants, or similar technologies as determined by Meta in its sole discretion (“AI Providers”), are strictly prohibited from accessing or using the WhatsApp Business Solution, whether directly or indirectly, for the purposes of providing, delivering, offering, selling, or otherwise making available such technologies when such technologies are the primary (rather than incidental or ancillary) functionality being made available for use, as determined by Meta in its sole discretion.\n\nMeta confirmed this move to TechCrunch and specified that this move doesn’t affect businesses that are using AI to serve customers on WhatsApp. For instance, a travel company running a bot for customer service won’t be barred from the service.\nMeta’s rationale behind this move is that WhatsApp Business API is designed for businesses serving customers rather than acting as a platform for chatbot distribution. The company said that while it built the API for business-to-business use cases, in recent months, it saw an unanticipated use case of serving general-purpose chatbots.\n“The purpose of the WhatsApp Business API is to help businesses provide customer support and send relevant updates. Our focus is on supporting the tens of thousands of businesses who are building these experiences on WhatsApp,” a Meta spokesperson said in a comment to TechCrunch.\nMeta said that the new chatbot use cases placed a lot of burden on its system with increased message volume and required a different kind of support, which the company wasn’t ready for. The company is banning use cases that fall outside “the intended design and strategic focus” of the API.\nThe move will effectively make WhatsApp unavailable as a platform to distribute AI solutions like assistants or agents. It also means Meta AI is the only assistant available on the chat app.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 27-29, 2025\n\t\t\t\t\t\t\t\n\t\t\n\t\nLast year, OpenAI launched ChatGPT on WhatsApp, and earlier this year, Perplexity launched its own bot on the chat app to tap into the user base of more than 3 billion people. Both of the bots could answer queries, understand media files, answer questions about them, reply to voice notes, and generate images. This likely generated a lot of message volume.\nHowever, there was a bigger issue for Meta. WhatsApp’s Business API is one of the primary ways the chat app makes money. It charges businesses based on different message templates like marketing, utility, authentication, and support. As there wasn’t any provision for chatbots in this API design, WhatsApp wasn’t able to charge them.  \nDuring Meta’s Q1 2025 earnings call, Mark Zuckerberg pointed out that business messaging is a big opportunity for the company to bring in revenue.\n“Right now, the vast majority of our business is advertising in feeds on Facebook and Instagram,” he said. “But WhatsApp now has more than 3 billion monthly [active users], with more than 100 million people in the US and growing quickly there. Messenger is also used by more than a billion people each month, and there are now as many messages sent each day on Instagram as there are on Messenger. Business messaging should be the next pillar of our business.”\n\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "WhatsApp changes its terms to bar general purpose chatbots from its platform",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2024/07/Green-white-apple-logo.jpg?w=150"
+      ],
+      "datePublished": "2025-10-18T14:12:14.000Z",
+      "dateModified": "2025-10-18T14:12:14.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Senate Republicans deepfaked Chuck Schumer, and X hasn’t taken it down ",
+    "url": "https://techcrunch.com/2025/10/17/senate-republicans-deepfaked-chuck-schumer-and-x-hasnt-taken-it-down/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/Screenshot-Capture-2025-10-17-14-49-06.avif?w=150",
+    "tag": "Tech",
+    "date": "2025-10-17T21:44:07.000Z",
+    "description": "\nSenate Republicans shared a deepfake video of Chuck Schumer, the Senate minority leader, designed to make it seem like Democrats are celebrating the ",
+    "body": "\nSenate Republicans shared a deepfake video of Chuck Schumer, the Senate minority leader, designed to make it seem like Democrats are celebrating the ongoing government shutdown, which has lasted 16 days.  \nIn the deepfake, an AI-generated Schumer repeats the phrase “every day gets better for us,” an actual quote taken out of context from a Punchbowl News article. In the original story, Schumer discussed the Democrats’ healthcare-focused shutdown strategy, and said they were not going to back away from Republicans’ playbook of threats and “bambooz[ling].” \nThe shutdown is happening because Democrats and Republicans cannot agree to pass a bill funding government through October and beyond. Democrats are trying to hold on to tax credits that would make health insurance cheaper for millions of Americans, secure a reversal to Trump’s Medicaid cuts, and block cuts to government health agencies.\nThe video was posted Friday on the Senate Republicans’ X account. According to X’s policies, the platform prohibits “deceptively shar[ing] synthetic or manipulated media that are likely to cause harm.” Harmful content includes media that could “mislead people” or “cause significant confusion on public issues.” \nEnforcement actions include removing content, labeling warnings, or reducing visibility. X has not, as of the time of this writing, removed the deepfake or added a warning label — though the video does include a watermark denoting its AI origins. \nThe Schumer video is not the first time X has allowed deepfakes of politicians to remain on the platform. In late 2024, X owner Elon Musk shared a manipulated video of former vice president Kamala Harris in the lead-up to the election, sparking debate about misleading voters.  \nTechCrunch has reached out to X for comment. \n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 27-29, 2025\n\t\t\t\t\t\t\t\n\t\t\n\t\nUp to 28 states have enacted laws prohibiting deepfakes of political figures, specifically around campaigns and elections, though most don’t outright ban them if they have clear disclosures. California, Minnesota, and Texas have banned deepfakes intended to influence elections, deceive voters, or harm candidates. \nThe latest post comes weeks after President Donald Trump posted deepfakes on Truth Social depicting Schumer and Hakeem Jeffries, the House minority leader, making false statements about immigration and voter fraud. \nResponding to criticism of the lack of honesty and ethics, Joanna Rodriguez, the National Republican Senatorial Committee communications director, said: “AI is here and not going anywhere. Adapt & win or pearl clutch & lose.” \n\n\n\t\tRebecca Bellan is a senior reporter at TechCrunch where she covers the business, policy, and emerging trends shaping artificial intelligence. Her work has also appeared in Forbes, Bloomberg, The Atlantic, The Daily Beast, and other publications. \r\nYou can contact or verify outreach from Rebecca by emailing rebecca.bellan@techcrunch.com or via encrypted message at rebeccabellan.491 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Senate Republicans deepfaked Chuck Schumer, and X hasn’t taken it down ",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/10/Screenshot-Capture-2025-10-17-14-49-06.avif?w=150"
+      ],
+      "datePublished": "2025-10-17T21:44:07.000Z",
+      "dateModified": "2025-10-17T21:44:07.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Salesforce CEO Marc Benioff apologizes for saying National Guard troops needed in San Francisco",
+    "url": "https://techcrunch.com/2025/10/18/salesforce-ceo-marc-benioff-apologizes-for-saying-national-guard-troops-needed-in-san-francisco/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-1934156363.jpg?w=150",
+    "tag": "Tech",
+    "date": "2025-10-18T15:51:59.000Z",
+    "description": "\nMarc Benioff, co-founder and CEO of Salesforce, appears to be walking back comments calling for the National Guard to patrol San Francisco.\n“Having l",
+    "body": "\nMarc Benioff, co-founder and CEO of Salesforce, appears to be walking back comments calling for the National Guard to patrol San Francisco.\n“Having listened closely to my fellow San Franciscans and our local officials, and after the largest and safest Dreamforce in our history, I do not believe the National Guard is needed to address safety in San Francisco,” Benioff said in a post on X. “My earlier comment came from an abundance of caution around the event, and I sincerely apologize for the concern it caused. “\nBenioff stirred up controversy last week after giving an interview with The New York Times in which he declared his support for President Donald Trump’s threats to deploy National Guard troops in San Francisco and other cities led by Democratic politicians.\nWhile Benioff’s comments were apparently prompted by his concerns over public safety costs at the massive Dreamforce conference that the company held in San Francisco last week, the previously liberal-leaning billionaire also used the interview to embrace Trump, at one point saying, “I fully support the president,” and adding that Trump is “doing a great job.” (At the end of the interview, he reportedly asked his shocked PR person, “Too spicy?”)\nAnd although Benioff’s pro-Trump stance seemingly aligns with a larger rightward shift among tech executives, his call for the National Guard to come to San Francisco quickly led to pushback from longtime allies and Democratic politicians. Well-known VC Ron Conway stepped down from the board of the Salesforce Foundation, with Conway reportedly telling Benioff in an email, “I now barely recognize the person I have so long admired.” \nAn event scheduled to feature Benioff and San Francisco Mayor Dan Lurie was also canceled, with organizers citing rain.\nState Senator Scott Wiener, who represents San Francisco, told Politico, “I’m grateful that Marc walked back his call for the National Guard to be deployed in San Francisco. Marc has done so many good things for our city — and supported so many civic needs — and I’m glad to see this shift.”\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 27-29, 2025\n\t\t\t\t\t\t\t\n\t\t\n\t\nTrump has already deployed the National Guard in other cities including Washington, DC and Chicago, while a judge has thus far blocked his attempts to do the same in Portland. Illinois Governor JB Pritzker, a Democrat, has repeatedly described this as an “invasion” of his state.\n\n\n\t\tAnthony Ha is TechCrunch’s weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local government reporter at the Hollister Free Lance, and vice president of content at a VC firm. He lives in New York City.\nYou can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Salesforce CEO Marc Benioff apologizes for saying National Guard troops needed in San Francisco",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-1934156363.jpg?w=150"
+      ],
+      "datePublished": "2025-10-18T15:51:59.000Z",
+      "dateModified": "2025-10-18T15:51:59.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Apple and Formula 1 ink 5-year US streaming deal, bringing all races to Apple TV ",
+    "url": "https://techcrunch.com/2025/10/17/apple-and-formula-1-ink-five-year-us-streaming-deal-bringing-all-races-to-apple-tv/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2177833542.jpg?w=150",
+    "tag": "Tech",
+    "date": "2025-10-17T13:45:18.000Z",
+    "description": "\nApple announced on Friday that it has secured exclusive U.S. broadcasting rights to Formula 1. The new five-year agreement between the tech giant and",
+    "body": "\nApple announced on Friday that it has secured exclusive U.S. broadcasting rights to Formula 1. The new five-year agreement between the tech giant and Formula 1 will make Apple TV the exclusive streaming home for all Formula 1 races starting in the 2026 season, taking over from current broadcaster ESPN.\nAll practice, qualifying, Sprint sessions, and Grand Prix races will be available to Apple TV subscribers. Select races and all practice sessions will also be available for free in the Apple TV app throughout the season, Apple says.\nApple reportedly bid $140 million to $150 million annually for the rights, which is significantly more than the $85 million annually that ESPN currently pays for Formula 1. Apple’s deal is valued at about $750 million over the five-year term.\nThe move comes a few days after Apple rebranded its streaming service from “Apple TV+” to just “Apple TV,” ditching the plus sign. \nIt also follows Apple’s partnership with Formula 1 for the original film “F1 The Movie” starring Brad Pitt, which grossed $629 million worldwide this year, making it the highest-grossing sports movie of all time. The film is set to debut on Apple TV on December 12.\nIn addition to broadcasting Formula 1, Apple says it will amplify the sport across Apple News, Apple Maps, Apple Music, and Apple Fitness+. Plus, the Apple Sports app will feature live updates for every qualifying, Sprint, and race for each Grand Prix across the season, with real-time leaderboards, season driver and constructor standings, Live Activities to follow on the Lock Screen, and a Home Screen widget.\n“We’re thrilled to expand our relationship with Formula 1 and offer Apple TV subscribers in the U.S. front-row access to one of the most exciting and fastest-growing sports on the planet,” said Eddy Cue, Apple’s senior vice president of Services, in a press release. “2026 marks a transformative new era for Formula 1, from new teams to new regulations and cars with the best drivers in the world, and we look forward to delivering premium and innovative fan-first coverage to our customers in a way that only Apple can.”\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 27-29, 2025\n\t\t\t\t\t\t\t\n\t\t\n\t\nFormula 1 is the latest sport to join Apple TV’s lineup, alongside Major League Soccer and Major League Baseball. \nApple notes that Formula 1 is one of the fastest-growing leagues in the world, with a U.S. fanbase that reached 52 million in 2024. \n\n\n\t\tAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing aisha@techcrunch.com or via encrypted message at aisha_malik.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Apple and Formula 1 ink 5-year US streaming deal, bringing all races to Apple TV ",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2177833542.jpg?w=150"
+      ],
+      "datePublished": "2025-10-17T13:45:18.000Z",
+      "dateModified": "2025-10-17T13:45:18.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Trump DOE decides to keep at least one Biden-era energy program",
+    "url": "https://techcrunch.com/2025/10/17/trump-doe-decides-to-keep-at-least-one-biden-era-energy-program/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/02/critical-infrastructure.jpg?w=150",
+    "tag": "Tech",
+    "date": "2025-10-17T19:16:02.000Z",
+    "description": "\nThe Department of Energy said Thursday that it had finalized a $1.6 billion loan guarantee to upgrade around 5,000 miles of transmission lines.\nThe g",
+    "body": "\nThe Department of Energy said Thursday that it had finalized a $1.6 billion loan guarantee to upgrade around 5,000 miles of transmission lines.\nThe grid upgrades would ease the flow of electricity in Indiana, Michigan, Ohio, Oklahoma, and West Virginia. The project, which will address lines owned by American Electric Power (AEP), won’t add any new routes, but it will help existing ones carry more power.\nAEP is one of the largest utilities and transmission line owners in the U.S., with operations spanning 11 states. The 5,000 miles that will be upgraded represent around 13% of the company’s total network.\nThe loan guarantee was initiated under the Biden administration just days before President Trump was inaugurated. Previously, the Trump administration has cited approvals occurring between Election Day and Inauguration Day as justification for canceling projects.\nIt’s unclear what distinguished this grid modernization project from others that the Trump administration is considering canceling or in the process of canceling. \nIn Minnesota, the Department of Energy is moving to cancel a $467 million grant that would have helped unlock 28 gigawatts of new generating capacity, most of which would have been solar and wind. Another in Oregon would have issued $250 million in grants to connect half a dozen renewable projects.\nBut the largest transmission project the Trump administration wants to axe is a $630 million grant to modernize California’s grid. In many ways, it’s similar to the AEP project, looking to wring more out of the existing grid to ease congestion. As planned, the California project would test advanced conductors and dynamic line rating devices, both of which would allow old rights-of-way to carry more electricity. That’s frequently a cheaper option than building new power lines.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 27-29, 2025\n\t\t\t\t\t\t\t\n\t\t\n\t\nThe AEP project will also rewire the lines with new conductors. The loan guarantee will allow the utility giant to secure a lower interest rate, saving the company at least $275 million, which it says will benefit its customers.\nEnergy Secretary Chris Wright said that the loan will “ensure lower electricity costs across the Midwestern region of the United States.” Already, the states included in the project have among the lowest electricity rates in the nation.\nThe loans are to be issued from the Loan Programs Office, which the GOP has renamed the Energy Dominance Financing Program. The office was established under the Energy Policy Act in 2005. Historically, the office had focused on clean energy and manufacturing projects. The loss rate on its loans is around 3%, far below that of private sector lenders.\n\n\n\t\tTim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor. \r\nDe Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.\r\nYou can contact or verify outreach from Tim by emailing tim.dechant@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Trump DOE decides to keep at least one Biden-era energy program",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2024/02/critical-infrastructure.jpg?w=150"
+      ],
+      "datePublished": "2025-10-17T19:16:02.000Z",
+      "dateModified": "2025-10-17T19:16:02.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "ChatGPT’s mobile app is seeing slowing download growth and daily use, analysis shows",
+    "url": "https://techcrunch.com/2025/10/17/chatgpts-mobile-app-is-seeing-slowing-download-growth-and-daily-use-analysis-shows/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=150",
+    "tag": "Tech",
+    "date": "2025-10-17T16:26:22.000Z",
+    "description": "\nChatGPT’s mobile app growth may have hit its peak, according to a new analysis of download trends and daily active users provided by the third-party ",
+    "body": "\nChatGPT’s mobile app growth may have hit its peak, according to a new analysis of download trends and daily active users provided by the third-party app intelligence firm Apptopia. Its estimates indicate that new user growth, measured by percentage changes in new global downloads, slowed after April.\nThe firm looked at the global daily active user (DAU) growth and found that the numbers have begun to even out over the past month or so.\nGlobal DAUs for ChatGPT mobile app.Image Credits:Apptopia\nAlthough October is only half over, the firm says it’s on pace to be down 8.1% in terms of a month-over-month percentage change in global downloads.\nTo be clear, this is a look at download growth, not total downloads. In terms of sheer number of new installs, ChatGPT’s mobile app is still doing well, with millions of downloads per day. \nMonth-over-month change in downloads, worldwide.\nHowever, seeing the download growth stall can suggest that an app’s overall pace of growth is slowing. In ChatGPT’s case, increased competition and changes to its AI model’s characteristics could be to blame.\nDiving in deeper, other metrics indicate that average time spent per DAU in the U.S., specifically, has dropped 22.5% since July, and average sessions per DAU in the U.S. are also down by 20.7%.\nThis indicates that U.S. users are spending less time in ChatGPT’s app and are opening it fewer times per day. User churn in the U.S. has also dropped and stabilized during this time, indicating that the app is now retaining its core users and seeing fewer who just drop by briefly to experiment, then abandon the app.\nOpenAI did not respond to a request for comment. \nImage Credits:Apptopia\nBeyond simply reaching its peak, there are other factors that could have played a role here. That includes not only competition from Google’s Gemini, but also user engagement changes following an April update that was designed to make the chatbot’s AI model less sycophantic. This continued with the August release of GPT-5, which was said to be less personable, as well.\nHowever, Apptopia notes that ChatGPT’s average time spent per DAU and average sessions per DAU metrics were trending downward before the sharp rise of its competitor, Google’s Gemini, which shot up to the top charts in September thanks to the release of Google’s new AI image model, Nano Banana.\nSo while Gemini’s growth may have influenced some of the more recent drops in ChatGPT’s core metrics, it doesn’t explain the overall trend, the firm says. \nImage Credits:Apptopia\nPlus, Apptopia points out that if only average time spent per DAU was dropping, but not average sessions per DAU, it could have suggested that people were getting more efficient with their ChatGPT queries. But since both are on the decline, that’s not the case.\nInstead, Apptopia says it’s possible that the experimentation phase with the ChatGPT app is over, and now it’s becoming a part of users’ daily routines. People are likely using the app when they need it or remember to use it, as compared with the increased use it saw when it was still new.\nFor OpenAI, that means the company will have to invest in app marketing or release new features for it to boost some of these core metrics again, just as other established mobile apps have to do. It can no longer rely on novelty alone to provide growth.\n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "ChatGPT’s mobile app is seeing slowing download growth and daily use, analysis shows",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=150"
+      ],
+      "datePublished": "2025-10-17T16:26:22.000Z",
+      "dateModified": "2025-10-17T16:26:22.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Less than 24 hours to spotlight your startup at TechCrunch Disrupt 2025 in front of 10,000 tech leaders and VCs ",
     "url": "https://techcrunch.com/2025/10/17/less-than-24-hours-to-spotlight-your-startup-at-techcrunch-disrupt-2025-in-front-of-10000-tech-leaders-and-vcs/",
     "image": "https://techcrunch.com/wp-content/uploads/2014/03/8697162730_891d808f92_o.jpg?w=150",
@@ -100,47 +250,22 @@
     }
   },
   {
-    "title": "SK Telecom’s AI unit offers staff voluntary retirement program just weeks after launch",
-    "url": "https://techcrunch.com/2025/10/17/sk-telecoms-ai-unit-offers-staff-voluntary-retirement-program-just-weeks-after-launch/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/10/Image-1-%E2%80%98Innovation-Gate-the-entrance-to-the-SK-booth-at-CES-2025-1.jpg?w=150",
+    "title": "Facebook’s AI can now suggest edits to the photos still on your phone",
+    "url": "https://techcrunch.com/2025/10/17/facebooks-ai-can-now-suggest-edits-to-the-photos-still-on-your-phone/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195497483.jpg?w=150",
     "tag": "Tech",
-    "date": "2025-10-17T11:56:27.000Z",
-    "description": "\nSouth Korean telco giant SK Telecom is making big changes at its new AI division, AI CIC, just weeks after it was launched. Staff employed by the uni",
-    "body": "\nSouth Korean telco giant SK Telecom is making big changes at its new AI division, AI CIC, just weeks after it was launched. Staff employed by the unit are being offered a voluntary retirement program as part of a broader effort to bring together the company’s various AI-related divisions, SK Telecom confirmed to TechCrunch.\n“In late September, SK Telecom announced the launch of the AI CIC (Company-in-Company) unit and confirmed that detailed organizational restructuring would be specified by the end of October,” a spokesperson at SK Telecom told TechCrunch. “This special retirement program is entirely a supportive measure and is not intended as a restructuring or downsizing measure.”\nThe voluntary retirement program will not involve forced layoffs and is meant to support employees whose roles, organizations, or work locations may change, the spokesperson said. Employees who opt to stay with the company may be reassigned to regional offices.\nDetails of the voluntary retirement program have been communicated to staff across all experience levels, including both junior and senior employees, industry sources told TechCrunch. The AI unit has about 1,000 employees, per media reports.\nAI CIC is meant to bring together SK Telecom’s various AI-related units under a centralized organization, per the spokesperson. “This integration involves streamlining overlapping roles and functions, which may inevitably lead to changes such as role transitions, organizational realignments, or relocations,” they said.\nThe new division will oversee the development of SK Telecom’s personal AI agent, A. (pronounced “A-dot”), as well as its AI data center operations, enterprise AI business, and global AI partnerships and investments.\nSeverance packages are reportedly expected to vary based on employees’ tenure and position, but the spokesperson told TechCrunch the company has set no such internal targets. “As participation is entirely voluntary, it is difficult at this stage to predict [how many employees] it may impact on the organization as a whole,” the spokesperson said.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 27-29, 2025\n\t\t\t\t\t\t\t\n\t\t\n\t\nThe restructuring comes as SK Telecom seeks to streamline operations and boost efficiency, with a specific focus on AI. The company plans for the AI division to record annual revenue of ₩5 trillion (around $3.5 billion) by 2030, and expects AI-driven B2C and B2B services as well as related infrastructure to drive that growth.\nThe telecom giant recently unveiled an AI infrastructure effort, offering Nvidia Blackwell GPUs-as-a-service, and earlier this month partnered with OpenAI to develop AI data centers in southwestern Korea as part of the “Stargate Korea” initiative.\n\n\n\tKate Park is a reporter at TechCrunch, with a focus on technology, startups and venture capital in Asia. She previously was a financial journalist at Mergermarket covering M&A, private equity and venture capital.\n\n\t\n\t\tView Bio \n\t\n",
+    "date": "2025-10-17T17:29:47.000Z",
+    "description": "\nA Facebook feature that gives Meta AI the ability to suggest edits to photos stored on your phone’s camera roll but haven’t yet been shared is now ro",
+    "body": "\nA Facebook feature that gives Meta AI the ability to suggest edits to photos stored on your phone’s camera roll but haven’t yet been shared is now rolling out to all users in the U.S. and Canada. The company announced on Friday that users can choose to opt in to receive these sharing suggestions, which will then prompt them to post photos to their Facebook Feed and Stories with the AI edits.\nFirst launched as a test over the summer, Facebook’s app pops up a permission dialog box requesting access to “allow cloud processing” so users can get “creative ideas made for you from your camera roll.” This box explains that the feature could offer ideas like collages, recaps, AI restyling, birthday themes, and more for the end user.\nImage Credits:screenshot of Facebook's app, June 2025\nFor the AI to work, Facebook’s app would upload images from your device to its cloud on an ongoing basis. This allows Meta’s AI to make its suggested edits. Meta says users’ media will not be used for ad targeting purposes, and it won’t use the media to improve its AI systems, unless the user takes the step of editing the media or sharing the edited photos with friends or others on its social network. \nThe feature can be disabled at any time.\nThough Meta may not train its AI on all your photos, when you agree to Meta’s AI Terms of Service, you permit your media and facial features to be analyzed by AI. The terms say that, by processing your photos, Meta has the ability to “summarize image contents, modify images, and generate new content based on the image.” \nThe company also uses the date and presence of people or objects in your photos to craft its creative ideas, giving Meta a lot more information about you, your relationships, and your life. \nPlus, giving Meta access to photos you haven’t yet shared on Meta’s platforms could give the company an advantage in the AI race by providing a wealth of user data, behavioral insights, and ideas for new AI features.  \n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 27-29, 2025\n\t\t\t\t\t\t\t\n\t\t\n\t\nImage Credits:screenshot of Facebook's app, June 2025\nSettings for the feature are found under the Preferences section of Facebook’s Settings. On the “Camera roll sharing suggestions” page, there are two toggles. The first lets Facebook suggest photos from your camera roll when browsing the app. The second is where you could enable or disable the “cloud processing,” which lets Meta make AI images using your camera roll photos.\nMeta has been leveraging its position as a dominant social network to improve its AI technology and had previously announced it would train its image recognition AI on publicly shared data, including posts and comments on Facebook and Instagram. (EU users had until May 27, 2025, to opt out.) Last year, it also said it would train its AI on images that Ray-Ban Meta users asked the device to analyze.\n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "SK Telecom’s AI unit offers staff voluntary retirement program just weeks after launch",
+      "headline": "Facebook’s AI can now suggest edits to the photos still on your phone",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/10/Image-1-%E2%80%98Innovation-Gate-the-entrance-to-the-SK-booth-at-CES-2025-1.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195497483.jpg?w=150"
       ],
-      "datePublished": "2025-10-17T11:56:27.000Z",
-      "dateModified": "2025-10-17T11:56:27.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Apple and Formula 1 ink 5-year US streaming deal, bringing all races to Apple TV ",
-    "url": "https://techcrunch.com/2025/10/17/apple-and-formula-1-ink-five-year-us-streaming-deal-bringing-all-races-to-apple-tv/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2177833542.jpg?w=150",
-    "tag": "Tech",
-    "date": "2025-10-17T13:45:18.000Z",
-    "description": "\nApple announced on Friday that it has secured exclusive U.S. broadcasting rights to Formula 1. The new five-year agreement between the tech giant and",
-    "body": "\nApple announced on Friday that it has secured exclusive U.S. broadcasting rights to Formula 1. The new five-year agreement between the tech giant and Formula 1 will make Apple TV the exclusive streaming home for all Formula 1 races starting in the 2026 season, taking over from current broadcaster ESPN.\nAll practice, qualifying, Sprint sessions, and Grand Prix races will be available to Apple TV subscribers. Select races and all practice sessions will also be available for free in the Apple TV app throughout the season, Apple says.\nApple reportedly bid $140 million to $150 million annually for the rights, which is significantly more than the $85 million annually that ESPN currently pays for Formula 1. Apple’s deal is valued at about $750 million over the five-year term.\nThe move comes a few days after Apple rebranded its streaming service from “Apple TV+” to just “Apple TV,” ditching the plus sign. \nIt also follows Apple’s partnership with Formula 1 for the original film “F1 The Movie” starring Brad Pitt, which grossed $629 million worldwide this year, making it the highest-grossing sports movie of all time. The film is set to debut on Apple TV on December 12.\nIn addition to broadcasting Formula 1, Apple says it will amplify the sport across Apple News, Apple Maps, Apple Music, and Apple Fitness+. Plus, the Apple Sports app will feature live updates for every qualifying, Sprint, and race for each Grand Prix across the season, with real-time leaderboards, season driver and constructor standings, Live Activities to follow on the Lock Screen, and a Home Screen widget.\n“We’re thrilled to expand our relationship with Formula 1 and offer Apple TV subscribers in the U.S. front-row access to one of the most exciting and fastest-growing sports on the planet,” said Eddy Cue, Apple’s senior vice president of Services, in a press release. “2026 marks a transformative new era for Formula 1, from new teams to new regulations and cars with the best drivers in the world, and we look forward to delivering premium and innovative fan-first coverage to our customers in a way that only Apple can.”\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 27-29, 2025\n\t\t\t\t\t\t\t\n\t\t\n\t\nFormula 1 is the latest sport to join Apple TV’s lineup, alongside Major League Soccer and Major League Baseball. \nApple notes that Formula 1 is one of the fastest-growing leagues in the world, with a U.S. fanbase that reached 52 million in 2024. \n\n\n\t\tAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing aisha@techcrunch.com or via encrypted message at aisha_malik.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Apple and Formula 1 ink 5-year US streaming deal, bringing all races to Apple TV ",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2177833542.jpg?w=150"
-      ],
-      "datePublished": "2025-10-17T13:45:18.000Z",
-      "dateModified": "2025-10-17T13:45:18.000Z",
+      "datePublished": "2025-10-17T17:29:47.000Z",
+      "dateModified": "2025-10-17T17:29:47.000Z",
       "author": [
         {
           "@type": "Person",
@@ -175,47 +300,22 @@
     }
   },
   {
-    "title": "VLGE is making it easier to world build and shop on Roblox",
-    "url": "https://techcrunch.com/2025/10/17/vlge-is-making-it-easier-to-world-build-and-shop-on-roblox/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/10/VLGE-.jpg?w=150",
+    "title": "Too burned out to travel? This new app fakes your summer vacation photos for you",
+    "url": "https://techcrunch.com/2025/10/18/too-burned-out-to-travel-this-new-app-fakes-your-summer-vacation-photos-for-you/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/travel-photo-GettyImages-1176439818.jpg?w=150",
     "tag": "Tech",
-    "date": "2025-10-17T12:30:00.000Z",
-    "description": "\nIn Evelyn Mora’s early career, she realized that fashion designers, although often deeply focused on sustainability, couldn’t stage environmentally f",
-    "body": "\nIn Evelyn Mora’s early career, she realized that fashion designers, although often deeply focused on sustainability, couldn’t stage environmentally friendly large-scale fashion shows.  \nIn 2021, she launched VLGE, a gaming and immersive-world-building platform that specializes in working with brands. It lets brands build their own worlds, fill them with interactive content and games, and export said worlds to other platforms like Roblox. The product is revolutionizing what shopping could be in the future — a world where brands can create interactive worlds to connect with Gen Z rather than hosting fashion shows and filming campaigns.\nVLGE has worked with names such as Lancôme, Charlotte Tilbury, and Vogue Scandinavia, and has raised a total of $5 million in capital from investors such as Lammot J. du Pont of the du Pont family, L’Oréal Group, and the British Fashion Council.\nIt made headlines for launching the world’s first 3D and gamified fashion week. On Thursday, it announced plans to take things one step further. It said 50 fashion brands would launch their shoppable worlds for World Fashion Week, all powered by VLGE. World Fashion Week is an initiative of VLGE and is supposed to act as a bridge for creators to launch shoppable games on other platforms, like Roblox.\nImage Credits:Lucie Baudi\nMora said this is the brand’s first large-scale activation, showing how the platform can let users build across browsers and, first, on Roblox, in real time. She decided to focus on making Roblox easier for brands to use because of the market potential, she said. VLGE is also compatible with Unreal Engine and is working on compatibility with Meta Horizon World.\n“This is significant because Roblox has become fashion’s most powerful youth frontier, yet until now, world-building there has been costly, technical, and complex,” Mora told TechCrunch. “We make it instant, affordable, scalable, and interoperable, bridging the gap between e-commerce, gaming, and cultural creation.” \nIn other words, anyone building on VLGE can launch on Roblox instantly, without needing to know Roblox’s coding language or having any substantive background in tech at all. “They also don’t need to pay tens of thousands and wait for months to launch.” (It can cost anywhere between $10,000 and $100,000 for a brand to pay an agency to build a world on Roblox.)\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 27-29, 2025\n\t\t\t\t\t\t\t\n\t\t\n\t\nVLGE offers four payment tiers: Freemium, and three paid tiers for creators, small businesses, and enterprises, respectively. \nMora is banking on gamified commerce becoming the next frontier in fashion and said VLGE plans to launch an online store, an e-tail store, that will sell both physical items by emerging brands and 3D assets that can be exported into Roblox. The technology showcases how the fashion world is trying to make use of the increasing prominence of games and immersive worlds when it comes to connecting with the next generation.\n“This moment isn’t just about fashion; it’s about the infrastructure that will power the next generation of commerce for the new generation,” Mora said.\n\n\n\t\tDominic-Madori Davis is a senior venture capital and startup reporter at TechCrunch. She is based in New York City.\r\nYou can contact or verify outreach from Dominic by emailing dominic.davis@techcrunch.com or via encrypted message at +1 646 831-7565 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2025-10-18T16:00:00.000Z",
+    "description": "\nAt a time when startup hustle culture is back, when “locked in” tech founders have even embraced the “996” way of working — 9 am to 9 pm, 6 days a we",
+    "body": "\nAt a time when startup hustle culture is back, when “locked in” tech founders have even embraced the “996” way of working — 9 am to 9 pm, 6 days a week — there is something dystopian about using an AI app to generate fake vacation photos of yourself.\nAnd yet, here we are. \nProduct designer Laurent Del Rey, who recently joined Meta’s Superintelligence Lab, launched a side project called Endless Summer, a photobooth app for iPhone that creates AI-generated vacation photos starring you in locations around the world. Here you are exploring a beach town, or overlooking a European city from your balcony. There you are, out shopping, having dinner with friends, or at a social gathering.\nIt doesn’t look like anyone in these photos is talking about AI or entrepreneurship or a lack of sleep.\nAs Del Rey explained when sharing the launch on X, the new app is for when “burnout hits and you need to manifest the soft life u deserve.”\n(When you can’t live life, you may as well fake it, right?)\n\nmade this little photobooth app called endless summer for when burnout hits and you need to manifest the soft life u deserve – with fake vacation pics of you :')first app 100% made by me! just released it on the app store try it out <33 pic.twitter.com/i55nRcE71V— saint laurent del rey (@laurentdelrey) October 6, 2025\n\nThe product designer told TechCrunch that he was inspired to create the app because summer is his favorite season, and he loves how life feels during that time of the year.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 27-29, 2025\n\t\t\t\t\t\t\t\n\t\t\n\t\n“As the season ends, I wanted to make something that felt like that. It’s from that feeling that I reverse-engineered the product experience,” he says. “I created an Xcode project and started iterating directly from there, sculpting the code experience, so to speak.” \nThe experience he landed on was a simple user interface where there’s a tiny camera preview button at the bottom of the screen. You tap the button to make an AI-generated “summer” photo. As you click, the photos appear on your screen, in a sort of camera roll-style view. Each photo features you, or rather an AI version of you, exploring the world and looking fairly content while doing so. \nBehind the scenes, Gemini’s Nano-Banana image-model is doing the heavy lifting, as the app prompts the model for different variations of the summer photo output.\n\nThe app isn’t saving your selfies, Del Rey says, unless you have its optional auto-generation mode enabled. Plus, users can delete their account at any time with just two taps, which erases everything.\nWhile Nano-Banana is relatively cheap, it does cost money. For that reason, you can’t generate unlimited photos for free with Endless Summer. Instead, you’ll hit a paywall after your first six images, with a prompt suggesting payment options even before then. \nThe pricing isn’t too bad if you’re looking to just dabble with the personalized AI imagery out of curiosity — or because you’re lamenting having missed your summer vacay this year. \nIt’s $3.99 to make 30 images, $17.99 for 150, and $34.99 for 300. You can enable or disable a “Room Service” mode that auto-delivers two photos to you every morning, featuring your latest summer escapades and world travels. You can also set your gender in the app or leave it to guess (“Auto” mode), and turn on or off an option that auto-saves the AI images to your iPhone’s Camera Roll.\nA recent option in the app lets you generate Halloween photos instead of summer photos, featuring you in different costumes.\n\nThe photos themselves have a vintage film aesthetic, which makes them look like the casual lifestyle pics they’re supposed to resemble. That brings a sense of nostalgia to the app, as it evokes a mid-2000s feel.\nThis reflects other modern trends around online photo sharing. Whether that’s adopting retro technology, like zoomers carrying disposable cameras, or posting Instagram photo dumps of blurry pics, there’s a desire among some for a less-curated, less “technically perfect” version of life.  \nHow bizarre is it that it’s AI bringing that to you now? \n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "VLGE is making it easier to world build and shop on Roblox",
+      "headline": "Too burned out to travel? This new app fakes your summer vacation photos for you",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/10/VLGE-.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2025/10/travel-photo-GettyImages-1176439818.jpg?w=150"
       ],
-      "datePublished": "2025-10-17T12:30:00.000Z",
-      "dateModified": "2025-10-17T12:30:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Senate Republicans deepfaked Chuck Schumer, and X hasn’t taken it down ",
-    "url": "https://techcrunch.com/2025/10/17/senate-republicans-deepfaked-chuck-schumer-and-x-hasnt-taken-it-down/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/10/Screenshot-Capture-2025-10-17-14-49-06.avif?w=150",
-    "tag": "Tech",
-    "date": "2025-10-17T21:44:07.000Z",
-    "description": "\nSenate Republicans shared a deepfake video of Chuck Schumer, the Senate minority leader, designed to make it seem like Democrats are celebrating the ",
-    "body": "\nSenate Republicans shared a deepfake video of Chuck Schumer, the Senate minority leader, designed to make it seem like Democrats are celebrating the ongoing government shutdown, which has lasted 16 days.  \nIn the deepfake, an AI-generated Schumer repeats the phrase “every day gets better for us,” an actual quote taken out of context from a Punchbowl News article. In the original story, Schumer discussed the Democrats’ healthcare-focused shutdown strategy, and said they were not going to back away from Republicans’ playbook of threats and “bambooz[ling].” \nThe shutdown is happening because Democrats and Republicans cannot agree to pass a bill funding government through October and beyond. Democrats are trying to hold on to tax credits that would make health insurance cheaper for millions of Americans, secure a reversal to Trump’s Medicaid cuts, and block cuts to government health agencies.\nThe video was posted Friday on the Senate Republicans’ X account. According to X’s policies, the platform prohibits “deceptively shar[ing] synthetic or manipulated media that are likely to cause harm.” Harmful content includes media that could “mislead people” or “cause significant confusion on public issues.” \nEnforcement actions include removing content, labeling warnings, or reducing visibility. X has not, as of the time of this writing, removed the deepfake or added a warning label — though the video does include a watermark denoting its AI origins. \nThe Schumer video is not the first time X has allowed deepfakes of politicians to remain on the platform. In late 2024, X owner Elon Musk shared a manipulated video of former vice president Kamala Harris in the lead-up to the election, sparking debate about misleading voters.  \nTechCrunch has reached out to X for comment. \n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 27-29, 2025\n\t\t\t\t\t\t\t\n\t\t\n\t\nUp to 28 states have enacted laws prohibiting deepfakes of political figures, specifically around campaigns and elections, though most don’t outright ban them if they have clear disclosures. California, Minnesota, and Texas have banned deepfakes intended to influence elections, deceive voters, or harm candidates. \nThe latest post comes weeks after President Donald Trump posted deepfakes on Truth Social depicting Schumer and Hakeem Jeffries, the House minority leader, making false statements about immigration and voter fraud. \nResponding to criticism of the lack of honesty and ethics, Joanna Rodriguez, the National Republican Senatorial Committee communications director, said: “AI is here and not going anywhere. Adapt & win or pearl clutch & lose.” \n\n\n\t\tRebecca Bellan is a senior reporter at TechCrunch where she covers the business, policy, and emerging trends shaping artificial intelligence. Her work has also appeared in Forbes, Bloomberg, The Atlantic, The Daily Beast, and other publications. \r\nYou can contact or verify outreach from Rebecca by emailing rebecca.bellan@techcrunch.com or via encrypted message at rebeccabellan.491 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Senate Republicans deepfaked Chuck Schumer, and X hasn’t taken it down ",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/10/Screenshot-Capture-2025-10-17-14-49-06.avif?w=150"
-      ],
-      "datePublished": "2025-10-17T21:44:07.000Z",
-      "dateModified": "2025-10-17T21:44:07.000Z",
+      "datePublished": "2025-10-18T16:00:00.000Z",
+      "dateModified": "2025-10-18T16:00:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -241,106 +341,6 @@
       ],
       "datePublished": "2025-10-17T13:38:34.000Z",
       "dateModified": "2025-10-17T13:38:34.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "ChatGPT’s mobile app is seeing slowing download growth and daily use, analysis shows",
-    "url": "https://techcrunch.com/2025/10/17/chatgpts-mobile-app-is-seeing-slowing-download-growth-and-daily-use-analysis-shows/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=150",
-    "tag": "Tech",
-    "date": "2025-10-17T16:26:22.000Z",
-    "description": "\nChatGPT’s mobile app growth may have hit its peak, according to a new analysis of download trends and daily active users provided by the third-party ",
-    "body": "\nChatGPT’s mobile app growth may have hit its peak, according to a new analysis of download trends and daily active users provided by the third-party app intelligence firm Apptopia. Its estimates indicate that new user growth, measured by percentage changes in new global downloads, slowed after April.\nThe firm looked at the global daily active user (DAU) growth and found that the numbers have begun to even out over the past month or so.\nGlobal DAUs for ChatGPT mobile app.Image Credits:Apptopia\nAlthough October is only half over, the firm says it’s on pace to be down 8.1% in terms of a month-over-month percentage change in global downloads.\nTo be clear, this is a look at download growth, not total downloads. In terms of sheer number of new installs, ChatGPT’s mobile app is still doing well, with millions of downloads per day. \nMonth-over-month change in downloads, worldwide.\nHowever, seeing the download growth stall can suggest that an app’s overall pace of growth is slowing. In ChatGPT’s case, increased competition and changes to its AI model’s characteristics could be to blame.\nDiving in deeper, other metrics indicate that average time spent per DAU in the U.S., specifically, has dropped 22.5% since July, and average sessions per DAU in the U.S. are also down by 20.7%.\nThis indicates that U.S. users are spending less time in ChatGPT’s app and are opening it fewer times per day. User churn in the U.S. has also dropped and stabilized during this time, indicating that the app is now retaining its core users and seeing fewer who just drop by briefly to experiment, then abandon the app.\nOpenAI did not respond to a request for comment. \nImage Credits:Apptopia\nBeyond simply reaching its peak, there are other factors that could have played a role here. That includes not only competition from Google’s Gemini, but also user engagement changes following an April update that was designed to make the chatbot’s AI model less sycophantic. This continued with the August release of GPT-5, which was said to be less personable, as well.\nHowever, Apptopia notes that ChatGPT’s average time spent per DAU and average sessions per DAU metrics were trending downward before the sharp rise of its competitor, Google’s Gemini, which shot up to the top charts in September thanks to the release of Google’s new AI image model, Nano Banana.\nSo while Gemini’s growth may have influenced some of the more recent drops in ChatGPT’s core metrics, it doesn’t explain the overall trend, the firm says. \nImage Credits:Apptopia\nPlus, Apptopia points out that if only average time spent per DAU was dropping, but not average sessions per DAU, it could have suggested that people were getting more efficient with their ChatGPT queries. But since both are on the decline, that’s not the case.\nInstead, Apptopia says it’s possible that the experimentation phase with the ChatGPT app is over, and now it’s becoming a part of users’ daily routines. People are likely using the app when they need it or remember to use it, as compared with the increased use it saw when it was still new.\nFor OpenAI, that means the company will have to invest in app marketing or release new features for it to boost some of these core metrics again, just as other established mobile apps have to do. It can no longer rely on novelty alone to provide growth.\n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "ChatGPT’s mobile app is seeing slowing download growth and daily use, analysis shows",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=150"
-      ],
-      "datePublished": "2025-10-17T16:26:22.000Z",
-      "dateModified": "2025-10-17T16:26:22.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Facebook’s AI can now suggest edits to the photos still on your phone",
-    "url": "https://techcrunch.com/2025/10/17/facebooks-ai-can-now-suggest-edits-to-the-photos-still-on-your-phone/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195497483.jpg?w=150",
-    "tag": "Tech",
-    "date": "2025-10-17T17:29:47.000Z",
-    "description": "\nA Facebook feature that gives Meta AI the ability to suggest edits to photos stored on your phone’s camera roll but haven’t yet been shared is now ro",
-    "body": "\nA Facebook feature that gives Meta AI the ability to suggest edits to photos stored on your phone’s camera roll but haven’t yet been shared is now rolling out to all users in the U.S. and Canada. The company announced on Friday that users can choose to opt in to receive these sharing suggestions, which will then prompt them to post photos to their Facebook Feed and Stories with the AI edits.\nFirst launched as a test over the summer, Facebook’s app pops up a permission dialog box requesting access to “allow cloud processing” so users can get “creative ideas made for you from your camera roll.” This box explains that the feature could offer ideas like collages, recaps, AI restyling, birthday themes, and more for the end user.\nImage Credits:screenshot of Facebook's app, June 2025\nFor the AI to work, Facebook’s app would upload images from your device to its cloud on an ongoing basis. This allows Meta’s AI to make its suggested edits. Meta says users’ media will not be used for ad targeting purposes, and it won’t use the media to improve its AI systems, unless the user takes the step of editing the media or sharing the edited photos with friends or others on its social network. \nThe feature can be disabled at any time.\nThough Meta may not train its AI on all your photos, when you agree to Meta’s AI Terms of Service, you permit your media and facial features to be analyzed by AI. The terms say that, by processing your photos, Meta has the ability to “summarize image contents, modify images, and generate new content based on the image.” \nThe company also uses the date and presence of people or objects in your photos to craft its creative ideas, giving Meta a lot more information about you, your relationships, and your life. \nPlus, giving Meta access to photos you haven’t yet shared on Meta’s platforms could give the company an advantage in the AI race by providing a wealth of user data, behavioral insights, and ideas for new AI features.  \n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 27-29, 2025\n\t\t\t\t\t\t\t\n\t\t\n\t\nImage Credits:screenshot of Facebook's app, June 2025\nSettings for the feature are found under the Preferences section of Facebook’s Settings. On the “Camera roll sharing suggestions” page, there are two toggles. The first lets Facebook suggest photos from your camera roll when browsing the app. The second is where you could enable or disable the “cloud processing,” which lets Meta make AI images using your camera roll photos.\nMeta has been leveraging its position as a dominant social network to improve its AI technology and had previously announced it would train its image recognition AI on publicly shared data, including posts and comments on Facebook and Instagram. (EU users had until May 27, 2025, to opt out.) Last year, it also said it would train its AI on images that Ray-Ban Meta users asked the device to analyze.\n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Facebook’s AI can now suggest edits to the photos still on your phone",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195497483.jpg?w=150"
-      ],
-      "datePublished": "2025-10-17T17:29:47.000Z",
-      "dateModified": "2025-10-17T17:29:47.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Meta previews new parental controls for its AI experiences",
-    "url": "https://techcrunch.com/2025/10/17/meta-previews-new-parental-controls-for-its-ai-experiences/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2225880947.jpg?w=150",
-    "tag": "Tech",
-    "date": "2025-10-17T10:00:00.000Z",
-    "description": "\nMeta on Friday previewed its upcoming parental control features for teens’ conversations with AI characters on its platforms. The features, which wil",
-    "body": "\nMeta on Friday previewed its upcoming parental control features for teens’ conversations with AI characters on its platforms. The features, which will be rolled out next year, include the ability to block certain characters and monitor conversation topics.\nStarting in the coming months, parents will be able to turn off chats with AI characters entirely for teens. This action won’t block access to the Meta AI chatbot — the company’s general-purpose AI chatbot — which will only discuss age-appropriate content.\nParents will also be able to turn off chats with individual characters if they prefer more selective control. Plus, they will receive information about the topics teens are discussing with AI characters and Meta AI.\nThe company said it plans to roll out these controls on Instagram early next year. They will be available in English in the U.S., U.K., Canada, and Australia.\n“We recognize parents already have a lot on their plates when it comes to navigating the internet safely with their teens, and we’re committed to providing them with helpful tools and resources that make things simpler for them, especially as they think about new technology like AI,” the company said in a post written by Instagram head Adam Mosseri and newly appointed Meta AI head Alexandr Wang.\nEarlier this week, Meta said that its content and AI experiences for teens will follow a PG-13 movie rating standard and will avoid sensitive topics such as extreme violence, nudity, and graphic drug use.\nThe company added that currently, teens are only allowed to interact with a limited number of characters that follow age-appropriate content guidelines. Parents can also set time limits on teens’ interactions with AI characters. Earlier this year, Instagram announced that it is using AI to identify attempting to skirt age limits by faking their age on the app.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 27-29, 2025\n\t\t\t\t\t\t\t\n\t\t\n\t\nIn the past few weeks, multiple platforms, including OpenAI, Meta, and YouTube, have released tools and controls focused on teen safety. These changes come amid growing concerns about the impact of social media on teen mental health and lawsuits against AI companies that allege they played a part in teen suicides.\n\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Meta previews new parental controls for its AI experiences",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2225880947.jpg?w=150"
-      ],
-      "datePublished": "2025-10-17T10:00:00.000Z",
-      "dateModified": "2025-10-17T10:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Trump DOE decides to keep at least one Biden-era energy program",
-    "url": "https://techcrunch.com/2025/10/17/trump-doe-decides-to-keep-at-least-one-biden-era-energy-program/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/02/critical-infrastructure.jpg?w=150",
-    "tag": "Tech",
-    "date": "2025-10-17T19:16:02.000Z",
-    "description": "\nThe Department of Energy said Thursday that it had finalized a $1.6 billion loan guarantee to upgrade around 5,000 miles of transmission lines.\nThe g",
-    "body": "\nThe Department of Energy said Thursday that it had finalized a $1.6 billion loan guarantee to upgrade around 5,000 miles of transmission lines.\nThe grid upgrades would ease the flow of electricity in Indiana, Michigan, Ohio, Oklahoma, and West Virginia. The project, which will address lines owned by American Electric Power (AEP), won’t add any new routes, but it will help existing ones carry more power.\nAEP is one of the largest utilities and transmission line owners in the U.S., with operations spanning 11 states. The 5,000 miles that will be upgraded represent around 13% of the company’s total network.\nThe loan guarantee was initiated under the Biden administration just days before President Trump was inaugurated. Previously, the Trump administration has cited approvals occurring between Election Day and Inauguration Day as justification for canceling projects.\nIt’s unclear what distinguished this grid modernization project from others that the Trump administration is considering canceling or in the process of canceling. \nIn Minnesota, the Department of Energy is moving to cancel a $467 million grant that would have helped unlock 28 gigawatts of new generating capacity, most of which would have been solar and wind. Another in Oregon would have issued $250 million in grants to connect half a dozen renewable projects.\nBut the largest transmission project the Trump administration wants to axe is a $630 million grant to modernize California’s grid. In many ways, it’s similar to the AEP project, looking to wring more out of the existing grid to ease congestion. As planned, the California project would test advanced conductors and dynamic line rating devices, both of which would allow old rights-of-way to carry more electricity. That’s frequently a cheaper option than building new power lines.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 27-29, 2025\n\t\t\t\t\t\t\t\n\t\t\n\t\nThe AEP project will also rewire the lines with new conductors. The loan guarantee will allow the utility giant to secure a lower interest rate, saving the company at least $275 million, which it says will benefit its customers.\nEnergy Secretary Chris Wright said that the loan will “ensure lower electricity costs across the Midwestern region of the United States.” Already, the states included in the project have among the lowest electricity rates in the nation.\nThe loans are to be issued from the Loan Programs Office, which the GOP has renamed the Energy Dominance Financing Program. The office was established under the Energy Policy Act in 2005. Historically, the office had focused on clean energy and manufacturing projects. The loss rate on its loans is around 3%, far below that of private sector lenders.\n\n\n\t\tTim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor. \r\nDe Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.\r\nYou can contact or verify outreach from Tim by emailing tim.dechant@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Trump DOE decides to keep at least one Biden-era energy program",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/02/critical-infrastructure.jpg?w=150"
-      ],
-      "datePublished": "2025-10-17T19:16:02.000Z",
-      "dateModified": "2025-10-17T19:16:02.000Z",
       "author": [
         {
           "@type": "Person",
