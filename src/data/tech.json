@@ -1,30 +1,5 @@
 [
   {
-    "title": "US and Australia sign $3B critical minerals deal",
-    "url": "https://techcrunch.com/2025/10/20/u-s-and-australia-sign-3b-critical-minerals-deal/",
-    "image": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1221127542.jpg?w=150",
-    "tag": "Tech",
-    "date": "2025-10-20T18:51:15.000Z",
-    "description": "\nIn Brief\nPosted:\n11:51 AM PDT · October 20, 2025\n\nImage Credits:Andrew Merry (opens in a new window) / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t",
-    "body": "\nIn Brief\nPosted:\n11:51 AM PDT · October 20, 2025\n\nImage Credits:Andrew Merry (opens in a new window) / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nPresident Donald Trump and Australian prime minister Anthony Albanese inked an agreement on Monday that will pump billions of dollars into critical minerals projects.\nThe U.S. and Australia will together contribute $3 billion to the projects over the next six months. The total project pipeline is worth $8.5 billion, the governments said.\nAs part of the deal, the U.S. Department of Defense will also invest in a gallium refinery in Western Australia capable of producing 100 tons per year. Currently, the U.S. imports approximately 21 tons of gallium, which represents 100% of domestic consumption, according to the U.S. Geological Survey. \nThe move comes as China has restricted exports of certain minerals, including rare earth elements, that are vital to the production of electronics and electric motors. Gallium, for example, is used in microwave circuits and blue and violet LEDs, which can be used to make powerful lasers.\nAlongside the critical minerals deal, Australia has agreed to buy $1.2 billion worth of autonomous underwater vehicles (AUVs) from defense startup Anduril. The White House did not specify whether the purchase agreement is new or part of a previously announced $1.12 billion program under which Anduril will deliver a fleet of Ghost Shark AUVs to the Australian Navy. That deal was announced in September.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\nLatest in Government & Policy\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "US and Australia sign $3B critical minerals deal",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1221127542.jpg?w=150"
-      ],
-      "datePublished": "2025-10-20T18:51:15.000Z",
-      "dateModified": "2025-10-20T18:51:15.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "OpenEvidence, the ChatGPT for doctors, raises $200M at $6B valuation  ",
     "url": "https://techcrunch.com/2025/10/20/openevidence-the-chatgpt-for-doctors-raises-200m-at-6b-valuation/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/10/openevidence.png?w=150",
@@ -50,147 +25,22 @@
     }
   },
   {
-    "title": "Anthropic brings Claude Code to the web",
-    "url": "https://techcrunch.com/2025/10/20/anthropic-brings-claude-code-to-the-web/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/06/YouTube-Thumb-Text-2-3.png?w=150",
+    "title": "US and Australia sign $3B critical minerals deal",
+    "url": "https://techcrunch.com/2025/10/20/u-s-and-australia-sign-3b-critical-minerals-deal/",
+    "image": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1221127542.jpg?w=150",
     "tag": "Tech",
-    "date": "2025-10-20T18:00:00.000Z",
-    "description": "\nAnthropic launched a web app on Monday for its viral AI coding assistant, Claude Code, which lets developers create and manage several AI coding agen",
-    "body": "\nAnthropic launched a web app on Monday for its viral AI coding assistant, Claude Code, which lets developers create and manage several AI coding agents from their browser.\nClaude Code for web is now rolling out to subscribers to Anthropic’s $20-per-month Pro plan, as well as its $100- and $200-per-month Max plans. Pro and Max users can access Claude Code on the web by navigating to claude.ai (the same website for Anthropic’s consumer chatbot) and clicking into the “Code” tab, or through the Claude iOS app.\nThe launch marks Anthropic’s latest attempt to evolve Claude Code beyond a command-line interface (CLI) tool that developers access from a terminal. By putting Claude Code on the web, Anthropic hopes developers will spin up AI coding agents in more places.\nIt’s increasingly competitive for tech companies trying to make their AI coding tools stand out. While Microsoft’s GitHub Copilot once dominated the space, Cursor, Google, OpenAI, and Anthropic now have highly performant AI coding tools of their own — many of them already available on the web. That said, Claude Code is arguably one of the most popular. Anthropic’s flagship coding tool has grown 10x in users since its broader launch in May, and the product now accounts for more than $500 million of the company’s revenue on an annualized basis.\nAnthropic product manager Cat Wu tells TechCrunch in an interview that she attributes a large part of Claude Code’s success to the company’s AI models, which have become a favorite among developers in recent years. However, Wu also says the Claude Code team deliberately tries to “sprinkle in some fun” to the product wherever they can.\nWu said that Anthropic will continue to put Claude Code in more places, but the terminal will likely remain the home base for their AI coding product.\n“As we look forward, one of our key focuses is making sure the CLI product is the most intelligent and customizable way for you to use coding agents,” said Wu. “But we’re continuing to put Claude Code everywhere, helping it meet developers wherever they are. Web and mobile are a big step in this direction.”\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 27-29, 2025\n\t\t\t\t\t\t\t\n\t\t\n\t\nAnthropic claims that 90% of the Claude Code product itself is written by the company’s AI models. Wu, who was previously an engineer, says that she rarely ever sits down at a keyboard to write code anymore, and mostly just reviews Claude Code’s outputs. \nEarly AI coding tools worked like an autocomplete tool, finishing lines of code as developers wrote them. But the agentic generation of AI coding tools — including Claude Code — allow developers to spin up agents that work autonomously. This shift has made millions of software engineers act more like managers of AI coding assistants in their day-to-day jobs.\nThe change has not been welcome to every developer. One recent study found that some engineers were actually slower when using AI coding tools like Cursor. Researchers suggested one factor could be that engineers in the study spent much of their time prompting and waiting for AI tools to finish, rather than working on other problems. AI coding tools also struggle in large, complex code bases, so engineers may have spent a lot of time working through incorrect responses from the AI model.\nNevertheless, companies like Anthropic are continuing to push ahead making AI coding agents. Anthropic CEO Dario Amodei predicted a few months ago that AI should soon write 90% of code for software engineers. While that may be true inside of Anthropic, the shift may taken longer to pan out in the broader economy.\n\n\n\t\tMaxwell Zeff is a senior reporter at TechCrunch specializing in AI. Previously with Gizmodo, Bloomberg, and MSNBC, Zeff has covered the rise of AI and the Silicon Valley Bank crisis. He is based in San Francisco. When not reporting, he can be found hiking, biking, and exploring the Bay Area’s food scene.\r\nYou can contact or verify outreach from Maxwell by emailing maxwell.zeff@techcrunch.com or via encrypted message at mzeff.88 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2025-10-20T18:51:15.000Z",
+    "description": "\nIn Brief\nPosted:\n11:51 AM PDT · October 20, 2025\n\nImage Credits:Andrew Merry (opens in a new window) / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t",
+    "body": "\nIn Brief\nPosted:\n11:51 AM PDT · October 20, 2025\n\nImage Credits:Andrew Merry (opens in a new window) / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nPresident Donald Trump and Australian prime minister Anthony Albanese inked an agreement on Monday that will pump billions of dollars into critical minerals projects.\nThe U.S. and Australia will together contribute $3 billion to the projects over the next six months. The total project pipeline is worth $8.5 billion, the governments said.\nAs part of the deal, the U.S. Department of Defense will also invest in a gallium refinery in Western Australia capable of producing 100 tons per year. Currently, the U.S. imports approximately 21 tons of gallium, which represents 100% of domestic consumption, according to the U.S. Geological Survey. \nThe move comes as China has restricted exports of certain minerals, including rare earth elements, that are vital to the production of electronics and electric motors. Gallium, for example, is used in microwave circuits and blue and violet LEDs, which can be used to make powerful lasers.\nAlongside the critical minerals deal, Australia has agreed to buy $1.2 billion worth of autonomous underwater vehicles (AUVs) from defense startup Anduril. The White House did not specify whether the purchase agreement is new or part of a previously announced $1.12 billion program under which Anduril will deliver a fleet of Ghost Shark AUVs to the Australian Navy. That deal was announced in September.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\nLatest in Government & Policy\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Anthropic brings Claude Code to the web",
+      "headline": "US and Australia sign $3B critical minerals deal",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/06/YouTube-Thumb-Text-2-3.png?w=150"
+        "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1221127542.jpg?w=150"
       ],
-      "datePublished": "2025-10-20T18:00:00.000Z",
-      "dateModified": "2025-10-20T18:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Regulators probe Waymo after its robotaxi drove around a stopped school bus",
-    "url": "https://techcrunch.com/2025/10/20/regulators-probe-waymo-after-its-robotaxi-drove-around-a-stopped-school-bus/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/10/waymo-nyc.jpg?w=150",
-    "tag": "Tech",
-    "date": "2025-10-20T15:41:56.000Z",
-    "description": "\nA Waymo robotaxi was recently spotted driving around a school bus that had its red lights flashing, and federal safety regulators have opened an inve",
-    "body": "\nA Waymo robotaxi was recently spotted driving around a school bus that had its red lights flashing, and federal safety regulators have opened an investigation as a result.\nThe National Highway Traffic Safety Administration (NHTSA) announced Monday morning that its Office of Defects Investigation (ODI) opened an investigation after seeing footage from early October of a Waymo autonomous vehicle maneuvering around a stopped school bus that was unloading kids in Atlanta, Georgia.\nODI says in a document that it will investigate the performance of Waymo’s self-driving software around stopped school buses, how the system is designed to comply with rules related to the buses, and more. The NHTSA said Monday that, based on its engagement with Waymo so far, the “likelihood of other prior similar incidents is high.”\nThe Waymo robotaxi in question crossed perpendicularly in front of the school bus from its right side. The autonomous vehicle then turned left around the front of the bus before traveling down the street. According to Waymo, the bus was partially blocking the driveway that the robotaxi was leaving. The company claims the robotaxi could not see the flashing lights or stop sign. Waymo did not immediately respond to a question about whether the vehicle could see the students getting off the bus, or the bus’s control arm.\n“Safety is our top priority, as we provide hundreds of thousands of fully autonomous paid trips every week in some of the most challenging driving environments in the U.S.,” the company said in a statement, while citing data that shows its vehicles get in fewer crashes than human-driven ones. “NHTSA plays a vital role in road safety, and we will continue to work collaboratively with the agency as part of our mission to be the world’s most trusted driver.”\nWaymo also said Monday that it has already issued software updates to its fleet to improve performance.\nThis has been a year of expansion for Waymo. The company launched in Atlanta, brought its robotaxis to Austin, expanded across Silicon Valley, and is testing in a number of other metro areas, including New York City. It’s also testing at the San Jose and San Francisco airports, and has many more cities lined up for 2026.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 27-29, 2025\n\t\t\t\t\t\t\t\n\t\t\n\t\nPart of the process of launching in new cities is having the self-driving system encounter and learn from new scenarios — although it’s safe to say Atlanta was not the first place that Waymo’s robotaxis have seen school buses.\nThis is not the first time the NHTSA has opened an investigation into Waymo’s self-driving cars. In 2023, the NHTSA probed reports that Waymo’s vehicles were struggling with roadway barriers like gates and chains in low-speed situations. That investigation ultimately led to a recall back in May, which Waymo addressed with a software update. Last year, the agency announced a probe centered on reports that Waymo vehicles had driven into the wrong lane or entered construction zones.\n\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Regulators probe Waymo after its robotaxi drove around a stopped school bus",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/10/waymo-nyc.jpg?w=150"
-      ],
-      "datePublished": "2025-10-20T15:41:56.000Z",
-      "dateModified": "2025-10-20T15:41:56.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "San Francisco mayor Daniel Lurie is coming to TechCrunch Disrupt 2025",
-    "url": "https://techcrunch.com/2025/10/20/san-francisco-mayor-daniel-lurie-is-coming-to-techcrunch-disrupt-2025/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/04/54430953390_738d215ea3_4k.jpg?w=150",
-    "tag": "Tech",
-    "date": "2025-10-20T15:00:00.000Z",
-    "description": "\n\t\n\t\tImage Credits:TechCrunch\t\n\t\n\t\t\t\t\t\t8:00 AM PDT · October 20, 2025\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nSan Francisco is getting a symbolic jolt very soon as newly elec",
-    "body": "\n\t\n\t\tImage Credits:TechCrunch\t\n\t\n\t\t\t\t\t\t8:00 AM PDT · October 20, 2025\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nSan Francisco is getting a symbolic jolt very soon as newly elected mayor Daniel Lurie steps onto the Disrupt Stage at TechCrunch Disrupt 2025, taking place October 27-29 at Moscone West, in a homecoming of sorts for both tech and the city that helped define it.\nDisrupt has long been a launchpad for founders and investors chasing the next wave. Lurie’s visit signals a renewed effort to weave innovation back into San Francisco’s future. Register now to save up to $444 on your pass, and get 60% off a plus-one ticket.\n\nDaniel Lurie, who campaigned on revitalizing the city’s economy and restoring its global standing, isn’t just glad-handing; his presence underscores an overdue détente between City Hall and the startup community, which is currently experiencing an AI-driven renaissance even as the city grapples with pandemic aftershocks. Empty downtown offices and escalating skepticism about tech’s impact have strained the relationship, but the AI boom has brought renewed energy — and investment — back to the city.\nBy showing up at Disrupt 2025, Lurie is making a statement: San Francisco isn’t retreating from its role as a capital of innovation. It’s doubling down.\nFor TechCrunch, hosting the mayor isn’t mere pageantry. It marks an important moment as Disrupt continues to be one of the few gatherings where 10,000+ builders at all stages, heavyweight VCs, and now civic leadership converge under one roof. If Lurie wants a blueprint for the city’s rebound, he’ll find it in these halls: scrappy founders, hungry investors, and the enduring belief that San Francisco’s best inventions haven’t been built yet.\nJust 7 days left to save on your pass and catch Mayor Lurie live\nIf you care about San Francisco and its place at the center of the startup universe, you won’t want to miss this sit-down with Lurie. Bring a partner, friend, or team member and save 60% on their plus-one ticket. Or save up to $444 on your own pass, or up to 30% with a group. Disrupt doors open in exactly seven days at Moscone West. Register now and don’t miss the tech epicenter of the year.\nImage Credits:Kimberly White / Getty Images\n\n\t\t\t\n\tTopics\n\n\t\t",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "San Francisco mayor Daniel Lurie is coming to TechCrunch Disrupt 2025",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/04/54430953390_738d215ea3_4k.jpg?w=150"
-      ],
-      "datePublished": "2025-10-20T15:00:00.000Z",
-      "dateModified": "2025-10-20T15:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Apple will let users roll back the Liquid Glass look with new ‘tinted’ option",
-    "url": "https://techcrunch.com/2025/10/20/apple-will-let-users-roll-back-the-liquid-glass-look-with-new-tinted-option/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/06/liquid-glass.jpeg?w=150",
-    "tag": "Tech",
-    "date": "2025-10-20T21:40:41.000Z",
-    "description": "\nApple has rolled out a new feature that makes it easier to customize Liquid Glass to your liking. Now users will be able to set the appearance of Liq",
-    "body": "\nApple has rolled out a new feature that makes it easier to customize Liquid Glass to your liking. Now users will be able to set the appearance of Liquid Glass to either Clear or Tinted, with the help of a new setting included in the latest beta update of its mobile and desktop operating systems.\nThe addition indicates Apple is listening closely to user feedback in these early days of the iOS 26, iPadOS 26, and macOS 26 public launches. Apples likes to push through more significant changes, but it will often offer a fallback option for those who have a hard time adjusting.\nThat was the case when Apple moved Safari’s address to the bottom of the screen in 2021. After some user backlash over the then controversial decision, the iPhone maker added an option to revert the bar to the top of the screen. (Apple, we’ll concede, was right to make the move; the bar’s location is better when it’s in easier reach of your thumbs.)\nNow Apple is taking a similar approach with Liquid Glass.\nThe new user interface that shipped with iOS 26 and other Apple operating systems was the company’s biggest design overhaul since its move from a skeuomorphic to flat design back in 2013. As with most changes of this scale and significance, not everybody has been on board.\nSome have said the Liquid Glass design makes various parts of the interface harder to read, including notifications or navigation controls in apps like Apple Music and others. Others have said they love Liquid Glass’s attention to detail and its new look, which felt like a more modern update to an interface that had grown stale over the years.\nWith another potential divisive response on its hands, Apple is now ceding some control over Liquid Glass’s appearance back to the users.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 27-29, 2025\n\t\t\t\t\t\t\t\n\t\t\n\t\n\nThe new feature, first spotted by 9to5Mac, arrived in iOS 26.1 beta 4 and the accompanying updates for tablets and desktop computers.\nReached for comment, Apple told TechCrunch that, during the beta period this summer, it heard from some users who wanted the option to set a more opaque look for Liquid Glass. This new setting that lets users personalize Liquid Glass is available in iOS 26.1, iPadOS 26.1, and macOS 26.1.\nTo access the feature, beta users can visit the “Display & Brightness” menu under Settings to find the added Liquid Glass menu option. On Mac, it’s under “Appearance” in System Settings. The control lets you choose between two options, Clear and Tinted. The latter increases the opacity of interface elements, making them easier to see. \n\nThough some users had been advocating for a slider that lets them control the opacity more precisely, Apple has opted for a toggle where it specifies the two levels of tint that users can choose from. \nApple told TechCrunch that any developers who have already implemented Liquid Glass in their apps will automatically have the user’s preference applied. Developers are able to test this now in the 26.1 developer beta.\nAfter selecting their preferred option, users will see changes across user interface elements, like the Now Playing controls, Notifications on the Lock Screen, and in Apple’s apps and those from third-party developers. \nWhile the beta feature arrives for developers today, the public beta should arrive over the next few days ahead of the wider public release. \n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Apple will let users roll back the Liquid Glass look with new ‘tinted’ option",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/06/liquid-glass.jpeg?w=150"
-      ],
-      "datePublished": "2025-10-20T21:40:41.000Z",
-      "dateModified": "2025-10-20T21:40:41.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "YC alum Cercli, an AI-powered Rippling for MENA, raises oversubscribed $12M Series A",
-    "url": "https://techcrunch.com/2025/10/20/yc-alum-cercli-an-ai-powered-rippling-for-mena-raises-oversubscribed-12m-series-a/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/10/IMG_2371.jpeg?w=150",
-    "tag": "Tech",
-    "date": "2025-10-21T04:00:00.000Z",
-    "description": "\nIn a region long defined by fragmented enterprise systems, outdated compliance tools, and HR software that rarely talks to finance, Cercli is buildin",
-    "body": "\nIn a region long defined by fragmented enterprise systems, outdated compliance tools, and HR software that rarely talks to finance, Cercli is building a unified alternative for MENA businesses with AI at its core.\nThe Dubai-based startup, founded by ex-Careem operators Akeed Azmi and David Reche, has announced an oversubscribed $12 million Series A round led by European VC Picus Capital.\nCercli today looks slightly different from the company that raised a $4 million seed round last year. It is rebuilding a Rippling-like stack for the MENA region, but making it AI-native from the ground up.\nOver the past year, that bet has paid off. The company says it has scaled revenue more than 10x and now processes over $100 million in payroll annually for multiple businesses across 50 countries.\nBut in a crowded HR-tech market—where dozens of startups such as Deel and Remote, alongside incumbents like SAP and Oracle, already promise everything from cross-border payments to payroll — why does the market need another HR tech player? CEO Azmi hopes its AI-first rebuild may be the edge that sets it apart.\nAzmi started Cercli to help enterprises with basic people operations, an issue he and Reche noticed at their previous employers, Careem and Kitopi, two of MENA’s best-known unicorns.\nWith payroll spread across multiple systems and compliance varying by region, the first version of Cercli focused on a platform that consolidated human resources management, payroll, and compliance for MENA-based companies operating globally.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 27-29, 2025\n\t\t\t\t\t\t\t\n\t\t\n\t\nBut Azmi says it envisioned a bigger opportunity if it baked in AI. So, over the past three months, Azmi says the company has rewritten its entire payroll engine to be multi-country and agent-compatible, enabling it to scale more efficiently across global jurisdictions.\n“The legacy systems of the last 20 years—your SAPs, Oracles, Workdays—they were built for on-prem and the cloud. Now we’re entering an AI-native world,” Azmi said in an interview with TechCrunch. “We didn’t want to just integrate AI; we wanted to rethink the whole stack for how people and agents work together.”\nIt’s also done the same to its recruitment module. Cercli now offers agent-driven features that can surface candidate lists, source from internal datasets, and run background logic on hiring fit.\nIt’s own internal operations run on AI, as the company uses custom-built treasury and reconciliation agents to manage its own finances and accounting. That’s how the 14-person team closed its Series A while maintaining a 21% month-to-month revenue growth rate, according to Azmi.\nCercliImage Credits:Cercli\nBeyond AI, the founder believes Cercli’s other strength lies in consolidation. Although plenty of multi-module HR competitors exist — including Deel, Rippling, BambooHR — MENA companies are often stitching their back office together from point solutions. A company might use different products for expense management, payroll or recruiting.\n“Customers are asking for everything in one place, and being AI-native allows us to build that unified experience far more quickly,” Azmi explained.\nAzmi said Cercli’s AI-native architecture lets it onboard customers quickly, as well. Setup can occur in two to three days, compared to several months typical with legacy systems, he claims. This has helped the two-year-old HR-tech startup win clients from startups to multinationals, including Vision Bank, the Global Climate Finance Centre, Huspy, Lean Technologies, and Ziina.\nCercli is also the first MENA investment for Picus Capital. This firm has backed other global HR companies like Personio, Multiplier, Deel, Maki, and JetHR.\nOther investors who participated in this Series A round include Knollwood Investment Advisory as well as existing investors Y Combinator, Afore Capital, and COTU Ventures.\nAs part of the investment, the company plans to build new AI-native products and work on gaining more market share in the $5.8 billion HR software opportunity in MENA.\n“We’ve seen this business model succeed globally within our portfolio, and we are excited to back Cercli as they continue to grow market share through new customers and product launches,” said Robin Godenrath, founding partner at Picus Capital.\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "YC alum Cercli, an AI-powered Rippling for MENA, raises oversubscribed $12M Series A",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/10/IMG_2371.jpeg?w=150"
-      ],
-      "datePublished": "2025-10-21T04:00:00.000Z",
-      "dateModified": "2025-10-21T04:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Meta AI’s app downloads and daily users spiked after launch of ‘Vibes’ AI video feed",
-    "url": "https://techcrunch.com/2025/10/20/meta-ais-app-downloads-and-daily-users-spiked-after-launch-of-vibes-ai-video-feed/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2225880947.jpg?w=150",
-    "tag": "Tech",
-    "date": "2025-10-20T18:22:38.000Z",
-    "description": "\nNew data indicates that use of Meta AI’s mobile app for iOS and Android has seen a significant increase. According to a new analysis from market inte",
-    "body": "\nNew data indicates that use of Meta AI’s mobile app for iOS and Android has seen a significant increase. According to a new analysis from market intelligence provider Similarweb, the app’s daily active users across both platforms jumped to 2.7 million as of October 17, up from around 775,000 just four weeks ago. In addition, Meta AI’s app installs are also up, reaching 300,000 new downloads per day, compared with under 200,000 daily downloads a few weeks ago.\nFor comparison, Meta AI’s app had just 4,000 daily downloads a year ago, on October 17, 2024. \nImage Credits:Similarweb\nThe firm says it hasn’t seen any meaningful correlation in either search or advertising estimates, but notes Meta could be running Facebook or Instagram promotions that wouldn’t be captured in its model.\nHowever, there’s also another possible explanation for the sharp rise: the launch of Meta’s new Vibes feed in September, which introduced short-form AI-generated videos to the Meta AI mobile app. \nMeta AI introduced the Vibes feed on September 25, which correlates with the sharp increase in the app’s daily active users on iOS and Android, as seen in the chart below. \nImage Credits:Similarweb\nRecently, OpenAI’s video generator Sora drew headlines as its app reached the top of the App Store when users rushed to try the new technology. However, Meta AI could have benefited from this launch as well. While Similarweb says its data doesn’t prove cause and effect, it’s possible that the attention to Sora drove some people to try Meta AI, in order to compare the two experiences.\nAnother possibility is that Meta could be benefiting from Sora’s invite-only status. That is, those who couldn’t try out the OpenAI app may have looked for an alternative to experiment with. This would be an interesting explanation, too, as it suggests that OpenAI’s decision to gatekeep Sora may have directly boosted its rivals.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 27-29, 2025\n\t\t\t\t\t\t\t\n\t\t\n\t\nImage Credits:Similarweb\nAs of October 17, Meta AI’s app had seen a 15.58% increase in daily active users worldwide, while ChatGPT, Grok, and Perplexity saw declines of 3.51%, 7.35%, and 2.29%, respectively. \n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Meta AI’s app downloads and daily users spiked after launch of ‘Vibes’ AI video feed",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2225880947.jpg?w=150"
-      ],
-      "datePublished": "2025-10-20T18:22:38.000Z",
-      "dateModified": "2025-10-20T18:22:38.000Z",
+      "datePublished": "2025-10-20T18:51:15.000Z",
+      "dateModified": "2025-10-20T18:51:15.000Z",
       "author": [
         {
           "@type": "Person",
@@ -225,31 +75,6 @@
     }
   },
   {
-    "title": "Cards Against Humanity settles trespass lawsuit against SpaceX",
-    "url": "https://techcrunch.com/2025/10/20/cards-against-humanity-settles-trespass-lawsuit-against-spacex/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2074390099.jpg?w=150",
-    "tag": "Tech",
-    "date": "2025-10-20T17:44:47.000Z",
-    "description": "\nCards Against Humanity, the irreverent party game company known for its provocative humor, has settled its trespassing lawsuit against SpaceX, one ye",
-    "body": "\nCards Against Humanity, the irreverent party game company known for its provocative humor, has settled its trespassing lawsuit against SpaceX, one year after filing the complaint and launching a profanity-laced marketing campaign against Elon Musk’s rocket company.\nThe dispute centered on a plot of land along the Rio Grande in Cameron County, Texas, that Cards Against Humanity purchased in 2017. The company crowdfunded the purchase through 150,000 separate $15 donations ($2.25 million total) from supporters who wanted to help block President Donald Trump’s border wall.\nThe land happened to be located right next to where SpaceX has been building its Starbase rocket complex, a launch facility for the company’s spacecraft. That became an issue in 2024 when Cards Against Humanity accused SpaceX of trespassing on the property and dumping construction equipment and materials there. (SpaceX and a lawyer for the rocket company did not respond to a request for comment.)\nTerms of the settlement were not disclosed. Cards Against Humanity had been seeking $15 million and had told supporters who helped fund the land that it hoped to pay them as much as $100 each from the proceeds. But those supporters won’t receive cash; instead, they can sign up for a “brand new mini-pack of exclusive cards all about Elon Musk,” a special expansion for the popular party game, according to an email they’ve just received.\n“So while we can’t give you what you really wanted—cash money from Elon Musk—we’re going to make it up to you, our best, sexiest customers … with comedy!” the company wrote in the email sent on Monday, referring to the new mini-pack of cards.\n“We’re happy to have stood up to a bully like Musk. We’re happy to have forced a settlement,” Cards Against Humanity told TechCrunch in a statement. The company says SpaceX has removed its construction equipment and that Cards Against Humanity is “working to restore [the land] to its natural state: devoid of space garbage and pointless border walls.” \nIn an email to its supporters last year, Cards Against Humanity had told them: “Unfortunately, an even richer, more racist billionaire — Elon Musk — snuck up on us from behind and completely f—-d your land with gravel, tractors, and space garbage.” It even launched a website titled “www.ElonOwesYou100Dollars.com.”\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 27-29, 2025\n\t\t\t\t\t\t\t\n\t\t\n\t\nCards Against Humanity said at the time that its “longstanding reputation as a company that makes outrageous promises and actually keeps them is on the line.” But it also warned those supporters in the email that “Musk has way more money and lawyers than we do, so you’ll probably get, like, $2 tops.” \nNow they won’t even get that amount.\nThe lawsuit had moved quickly. The two sides had already gone through the discovery process, where both parties exchange evidence before trial, and a trial was slated for November. Cards Against Humanity told TechCrunch on Monday that SpaceX even admitted to the trespass during discovery, which the gaming company called “a real vindication.”\nCards Against Humanity said Monday that it was “prepared to go to trial and we’re confident we would have won.” But the company ultimately decided that a trial “would have cost more than what we were likely to win from SpaceX.” \n“Under Texas law, we likely wouldn’t be able to recoup our legal fees. We had the truth on our side, but Musk and SpaceX could easily outspend us,” the company said.\nMusk is well known for his willingness to fight his perceived enemies — and those of his companies — in court. He once claimed that Tesla’s “hardcore litigation department” would “never surrender/settle an unjust case against us, even if we will probably lose.”\nDespite that, Musk and his companies often settle. The Cards Against Humanity case is not the first this year. Earlier this month, X settled a complaint filed by former Twitter executives. Tesla has settled a number of Autopilot-related cases. One Autopilot case that Tesla didn’t settle — despite having the chance to do so — became one of its highest-profile court losses to date.\n\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Cards Against Humanity settles trespass lawsuit against SpaceX",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2074390099.jpg?w=150"
-      ],
-      "datePublished": "2025-10-20T17:44:47.000Z",
-      "dateModified": "2025-10-20T17:44:47.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "X to launch marketplace for buying inactive handles",
     "url": "https://techcrunch.com/2025/10/20/x-to-launch-marketplace-for-buying-inactive-handles/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/02/threads-vs-x-GettyImages-1763609219.jpg?w=150",
@@ -266,6 +91,156 @@
       ],
       "datePublished": "2025-10-20T13:53:41.000Z",
       "dateModified": "2025-10-20T13:53:41.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "San Francisco mayor Daniel Lurie is coming to TechCrunch Disrupt 2025",
+    "url": "https://techcrunch.com/2025/10/20/san-francisco-mayor-daniel-lurie-is-coming-to-techcrunch-disrupt-2025/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/54430953390_738d215ea3_4k.jpg?w=150",
+    "tag": "Tech",
+    "date": "2025-10-20T15:00:00.000Z",
+    "description": "\n\t\n\t\tImage Credits:TechCrunch\t\n\t\n\t\t\t\t\t\t8:00 AM PDT · October 20, 2025\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nSan Francisco is getting a symbolic jolt very soon as newly elec",
+    "body": "\n\t\n\t\tImage Credits:TechCrunch\t\n\t\n\t\t\t\t\t\t8:00 AM PDT · October 20, 2025\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nSan Francisco is getting a symbolic jolt very soon as newly elected mayor Daniel Lurie steps onto the Disrupt Stage at TechCrunch Disrupt 2025, taking place October 27-29 at Moscone West, in a homecoming of sorts for both tech and the city that helped define it.\nDisrupt has long been a launchpad for founders and investors chasing the next wave. Lurie’s visit signals a renewed effort to weave innovation back into San Francisco’s future. Register now to save up to $444 on your pass, and get 60% off a plus-one ticket.\n\nDaniel Lurie, who campaigned on revitalizing the city’s economy and restoring its global standing, isn’t just glad-handing; his presence underscores an overdue détente between City Hall and the startup community, which is currently experiencing an AI-driven renaissance even as the city grapples with pandemic aftershocks. Empty downtown offices and escalating skepticism about tech’s impact have strained the relationship, but the AI boom has brought renewed energy — and investment — back to the city.\nBy showing up at Disrupt 2025, Lurie is making a statement: San Francisco isn’t retreating from its role as a capital of innovation. It’s doubling down.\nFor TechCrunch, hosting the mayor isn’t mere pageantry. It marks an important moment as Disrupt continues to be one of the few gatherings where 10,000+ builders at all stages, heavyweight VCs, and now civic leadership converge under one roof. If Lurie wants a blueprint for the city’s rebound, he’ll find it in these halls: scrappy founders, hungry investors, and the enduring belief that San Francisco’s best inventions haven’t been built yet.\nJust 7 days left to save on your pass and catch Mayor Lurie live\nIf you care about San Francisco and its place at the center of the startup universe, you won’t want to miss this sit-down with Lurie. Bring a partner, friend, or team member and save 60% on their plus-one ticket. Or save up to $444 on your own pass, or up to 30% with a group. Disrupt doors open in exactly seven days at Moscone West. Register now and don’t miss the tech epicenter of the year.\nImage Credits:Kimberly White / Getty Images\n\n\t\t\t\n\tTopics\n\n\t\t",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "San Francisco mayor Daniel Lurie is coming to TechCrunch Disrupt 2025",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/04/54430953390_738d215ea3_4k.jpg?w=150"
+      ],
+      "datePublished": "2025-10-20T15:00:00.000Z",
+      "dateModified": "2025-10-20T15:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Adobe launches a foundry service that builds custom generative AI models for enterprises",
+    "url": "https://techcrunch.com/2025/10/20/adobe-launches-a-foundry-service-that-builds-custom-generative-ai-models-for-enterprises/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/08/Adobe.jpg?w=150",
+    "tag": "Tech",
+    "date": "2025-10-20T13:00:00.000Z",
+    "description": "\nCreative design giant Adobe is beefing up the products it offers businesses to include custom generative AI models. \nAdobe launched Adobe AI Foundry ",
+    "body": "\nCreative design giant Adobe is beefing up the products it offers businesses to include custom generative AI models. \nAdobe launched Adobe AI Foundry on Monday, a new offering that allows enterprises to work with the company to build custom generative AI models trained on their branding and intellectual property.\nThe Foundry’s custom models, which can produce text, images, video, and other mediums like 3D scenes, are built off Adobe’s Firefly family of AI models. These Firefly models were launched in 2023 and have been trained entirely on licensed data. Adobe’s Foundry service then fine-tunes these models for each customer using their intellectual property.\nThe Foundry service pricing is based on usage, as opposed to by seat like many of Adobe’s other products.\nHannah Elsakr, a vice president of generative AI new business ventures at Adobe, told TechCrunch the Foundry service was a natural expansion of the company’s enterprise AI products — and customers were asking for more customization.\n“This is elevating a lot of the capabilities we already had,” Elsakr said. “The enterprise has asked us to come in and advise us, help us, partner with us, be our premier creative marketing AI partner on this.”\nSince Adobe released its Firefly models in 2023, enterprises have used them to create more than 25 billion assets.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 27-29, 2025\n\t\t\t\t\t\t\t\n\t\t\n\t\nElsakr said these custom models will help brands be able to better keep up with their advertising campaigns. A customer could create an ad campaign for a product once and use a custom Adobe model to help generate the same ad for different seasons, languages, or formats.\n“It’s highly personalized,” Elsakr said. “We’ve been talking about personalized commerce for so long, but generative AI and Firefly make it possible to put the brand in the hand of the consumer in an on-brand way.”\nDespite the capabilities of the new tools, Esakr said Adobe is not trying to replace human creatives by any means and rather just give them better versions of the tools they were already using to create their content.\n“Our stance is humanity is at the center of creativity and that can’t be replaced,” Elsakr said. “We have been for decades in the business of providing creative tooling that helps uplift narrative, tell storytelling, your ability to envision and execute your creative vision. Firefly and Foundry are just the next evolution of giving you tools in the toolkit that elevate your ability to tell a story.”\n\n\n\t\tBecca is a senior writer at TechCrunch that covers venture capital trends and startups. She previously covered the same beat for Forbes and the Venture Capital Journal.\r\nYou can contact or verify outreach from Becca by emailing rebecca.szkutak@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Adobe launches a foundry service that builds custom generative AI models for enterprises",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2023/08/Adobe.jpg?w=150"
+      ],
+      "datePublished": "2025-10-20T13:00:00.000Z",
+      "dateModified": "2025-10-20T13:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Oura launches redesigned app and ‘Cumulative Stress’ feature",
+    "url": "https://techcrunch.com/2025/10/20/oura-launches-redesigned-app-and-cumulative-stress-feature/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/oura-app.png?w=150",
+    "tag": "Tech",
+    "date": "2025-10-20T13:00:00.000Z",
+    "description": "\nOura announced on Monday that it’s launching a new redesigned app experience and a “Cumulative Stress” feature. The company also shared that it’s pur",
+    "body": "\nOura announced on Monday that it’s launching a new redesigned app experience and a “Cumulative Stress” feature. The company also shared that it’s pursuing FDA clearance for blood pressure features that give users a likelihood assessment of hypertension. \nThe redesigned Oura app introduces more personalization with three main tabs. The “Today” tab surfaces the most relevant insights for daily decisions, and the “Vitals” tab provides at-a-glance views of things like sleep, stress, and cardiovascular trends. The “My Health” tab offers insights into the user’s long-term well-being, highlighting strengths, trends, and opportunities for proactive care. The tab also includes “Habits” and “Routines” sections to show the impact of daily actions.\nThe app redesign also brings enhanced menstrual cycle insights, including a 12-month view of period and fertile window predictions, up from the previous one-month view. \nImage Credits:Oura\nThe new Cumulative Stress feature helps users understand how their bodies accumulate and respond to chronic stress over time. It provides a stress measurement based on the past month of data and is updated weekly. A person’s Cumulative Stress is determined by five factors: sleep continuity, heart stress-response, sleep micro-motions, temperature regulation, and activity impact.\n“It’s much more than just tallying the hours spent in stressful periods,” Oura VP of Consumer Software Product, Jason Russell, told TechCrunch. “It’s actually measuring different bodily functions indicative of cumulative stress taking a toll on your body. So things like how your heart rate and heart rate variability respond after a period of stress is indicative of cumulative stress. Your thermodynamics. How you regulate temperature overnight, how continuous your sleep is. Whether you experience what we call sleep, micro-motions, so not just big movements during sleep, but twitches. There are little signatures that would be indicative of your body experiencing high cumulative stress.”\nThe new feature will roll out globally in the coming weeks.\nOn the road to developing an FDA-approved blood pressure feature, Oura announced that it’s introducing a new Blood Pressure Profile study to explore how the company can identify early signs of hypertension by passively tracking key signals in the background.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 27-29, 2025\n\t\t\t\t\t\t\t\n\t\t\n\t\nImage Credits:Oura\nOura received approval from the Institutional Review Board for the study, which is launching in experimental hub Oura Labs in the U.S. later this year. Users who are part of the study will be notified of their current likelihood of hypertension by combining Oura Ring data with a short check-in questionnaire on family history, medication, and lifestyle habits. They will receive an assessment that lets them know if they have no signs, moderate signs, or major signs of hypertension.\nMembers with strong signs will be encouraged to seek professional medical care. The algorithm will also track changes over time, prompting periodic reviews throughout the study, Oura says. \nMonday’s announcement comes a week after Oura raised $900 million in fresh funding led by Fidelity Management & Research Company, with participation from new investor ICONIQ and contributions from Whale Rock and Atreides.\nIt also comes as Oura recently launched its Oura Ring 4 Ceramic collection, its first-ever charging case, and a new Health Panels feature that lets members schedule blood work directly in the Oura app. \n\n\n\t\tAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing aisha@techcrunch.com or via encrypted message at aisha_malik.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Oura launches redesigned app and ‘Cumulative Stress’ feature",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/10/oura-app.png?w=150"
+      ],
+      "datePublished": "2025-10-20T13:00:00.000Z",
+      "dateModified": "2025-10-20T13:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Apple will let users roll back the Liquid Glass look with new ‘tinted’ option",
+    "url": "https://techcrunch.com/2025/10/20/apple-will-let-users-roll-back-the-liquid-glass-look-with-new-tinted-option/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/06/liquid-glass.jpeg?w=150",
+    "tag": "Tech",
+    "date": "2025-10-20T21:40:41.000Z",
+    "description": "\nApple has rolled out a new feature that makes it easier to customize Liquid Glass to your liking. Now users will be able to set the appearance of Liq",
+    "body": "\nApple has rolled out a new feature that makes it easier to customize Liquid Glass to your liking. Now users will be able to set the appearance of Liquid Glass to either Clear or Tinted, with the help of a new setting included in the latest beta update of its mobile and desktop operating systems.\nThe addition indicates Apple is listening closely to user feedback in these early days of the iOS 26, iPadOS 26, and macOS 26 public launches. Apples likes to push through more significant changes, but it will often offer a fallback option for those who have a hard time adjusting.\nThat was the case when Apple moved Safari’s address to the bottom of the screen in 2021. After some user backlash over the then controversial decision, the iPhone maker added an option to revert the bar to the top of the screen. (Apple, we’ll concede, was right to make the move; the bar’s location is better when it’s in easier reach of your thumbs.)\nNow Apple is taking a similar approach with Liquid Glass.\nThe new user interface that shipped with iOS 26 and other Apple operating systems was the company’s biggest design overhaul since its move from a skeuomorphic to flat design back in 2013. As with most changes of this scale and significance, not everybody has been on board.\nSome have said the Liquid Glass design makes various parts of the interface harder to read, including notifications or navigation controls in apps like Apple Music and others. Others have said they love Liquid Glass’s attention to detail and its new look, which felt like a more modern update to an interface that had grown stale over the years.\nWith another potential divisive response on its hands, Apple is now ceding some control over Liquid Glass’s appearance back to the users.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 27-29, 2025\n\t\t\t\t\t\t\t\n\t\t\n\t\n\nThe new feature, first spotted by 9to5Mac, arrived in iOS 26.1 beta 4 and the accompanying updates for tablets and desktop computers.\nReached for comment, Apple told TechCrunch that, during the beta period this summer, it heard from some users who wanted the option to set a more opaque look for Liquid Glass. This new setting that lets users personalize Liquid Glass is available in iOS 26.1, iPadOS 26.1, and macOS 26.1.\nTo access the feature, beta users can visit the “Display & Brightness” menu under Settings to find the added Liquid Glass menu option. On Mac, it’s under “Appearance” in System Settings. The control lets you choose between two options, Clear and Tinted. The latter increases the opacity of interface elements, making them easier to see. \n\nThough some users had been advocating for a slider that lets them control the opacity more precisely, Apple has opted for a toggle where it specifies the two levels of tint that users can choose from. \nApple told TechCrunch that any developers who have already implemented Liquid Glass in their apps will automatically have the user’s preference applied. Developers are able to test this now in the 26.1 developer beta.\nAfter selecting their preferred option, users will see changes across user interface elements, like the Now Playing controls, Notifications on the Lock Screen, and in Apple’s apps and those from third-party developers. \nWhile the beta feature arrives for developers today, the public beta should arrive over the next few days ahead of the wider public release. \n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Apple will let users roll back the Liquid Glass look with new ‘tinted’ option",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/06/liquid-glass.jpeg?w=150"
+      ],
+      "datePublished": "2025-10-20T21:40:41.000Z",
+      "dateModified": "2025-10-20T21:40:41.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Anthropic brings Claude Code to the web",
+    "url": "https://techcrunch.com/2025/10/20/anthropic-brings-claude-code-to-the-web/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/06/YouTube-Thumb-Text-2-3.png?w=150",
+    "tag": "Tech",
+    "date": "2025-10-20T18:00:00.000Z",
+    "description": "\nAnthropic launched a web app on Monday for its viral AI coding assistant, Claude Code, which lets developers create and manage several AI coding agen",
+    "body": "\nAnthropic launched a web app on Monday for its viral AI coding assistant, Claude Code, which lets developers create and manage several AI coding agents from their browser.\nClaude Code for web is now rolling out to subscribers to Anthropic’s $20-per-month Pro plan, as well as its $100- and $200-per-month Max plans. Pro and Max users can access Claude Code on the web by navigating to claude.ai (the same website for Anthropic’s consumer chatbot) and clicking into the “Code” tab, or through the Claude iOS app.\nThe launch marks Anthropic’s latest attempt to evolve Claude Code beyond a command-line interface (CLI) tool that developers access from a terminal. By putting Claude Code on the web, Anthropic hopes developers will spin up AI coding agents in more places.\nIt’s increasingly competitive for tech companies trying to make their AI coding tools stand out. While Microsoft’s GitHub Copilot once dominated the space, Cursor, Google, OpenAI, and Anthropic now have highly performant AI coding tools of their own — many of them already available on the web. That said, Claude Code is arguably one of the most popular. Anthropic’s flagship coding tool has grown 10x in users since its broader launch in May, and the product now accounts for more than $500 million of the company’s revenue on an annualized basis.\nAnthropic product manager Cat Wu tells TechCrunch in an interview that she attributes a large part of Claude Code’s success to the company’s AI models, which have become a favorite among developers in recent years. However, Wu also says the Claude Code team deliberately tries to “sprinkle in some fun” to the product wherever they can.\nWu said that Anthropic will continue to put Claude Code in more places, but the terminal will likely remain the home base for their AI coding product.\n“As we look forward, one of our key focuses is making sure the CLI product is the most intelligent and customizable way for you to use coding agents,” said Wu. “But we’re continuing to put Claude Code everywhere, helping it meet developers wherever they are. Web and mobile are a big step in this direction.”\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 27-29, 2025\n\t\t\t\t\t\t\t\n\t\t\n\t\nAnthropic claims that 90% of the Claude Code product itself is written by the company’s AI models. Wu, who was previously an engineer, says that she rarely ever sits down at a keyboard to write code anymore, and mostly just reviews Claude Code’s outputs. \nEarly AI coding tools worked like an autocomplete tool, finishing lines of code as developers wrote them. But the agentic generation of AI coding tools — including Claude Code — allow developers to spin up agents that work autonomously. This shift has made millions of software engineers act more like managers of AI coding assistants in their day-to-day jobs.\nThe change has not been welcome to every developer. One recent study found that some engineers were actually slower when using AI coding tools like Cursor. Researchers suggested one factor could be that engineers in the study spent much of their time prompting and waiting for AI tools to finish, rather than working on other problems. AI coding tools also struggle in large, complex code bases, so engineers may have spent a lot of time working through incorrect responses from the AI model.\nNevertheless, companies like Anthropic are continuing to push ahead making AI coding agents. Anthropic CEO Dario Amodei predicted a few months ago that AI should soon write 90% of code for software engineers. While that may be true inside of Anthropic, the shift may taken longer to pan out in the broader economy.\n\n\n\t\tMaxwell Zeff is a senior reporter at TechCrunch specializing in AI. Previously with Gizmodo, Bloomberg, and MSNBC, Zeff has covered the rise of AI and the Silicon Valley Bank crisis. He is based in San Francisco. When not reporting, he can be found hiking, biking, and exploring the Bay Area’s food scene.\r\nYou can contact or verify outreach from Maxwell by emailing maxwell.zeff@techcrunch.com or via encrypted message at mzeff.88 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Anthropic brings Claude Code to the web",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2024/06/YouTube-Thumb-Text-2-3.png?w=150"
+      ],
+      "datePublished": "2025-10-20T18:00:00.000Z",
+      "dateModified": "2025-10-20T18:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "European AI rising star Nexos.ai raises €30M to unlock enterprise AI adoption",
+    "url": "https://techcrunch.com/2025/10/20/european-ai-rising-star-nexos-ai-raises-30m-to-unlock-enterprise-ai-adoption/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/Tomas-Okmanas-nexos-2-e1737037636521.jpg?w=150",
+    "tag": "Tech",
+    "date": "2025-10-21T06:00:00.000Z",
+    "description": "\nFor most enterprise companies, AI is either a promise that has yet to deliver or a security risk. The effort of Lithuania’s most famous entrepreneur ",
+    "body": "\nFor most enterprise companies, AI is either a promise that has yet to deliver or a security risk. The effort of Lithuania’s most famous entrepreneur duo to solve that conundrum has garnered attention — and funding.\nJust months after Nexos.ai came out of stealth with an $8 million funding round led by Index Ventures, Nord Security co-founders Tomas Okmanas and Eimantas Sabaliauskas have closed a €30 million Series A (approximately $35 million) for this new startup —  a a platform that helps companies adopt AI tools securely by acting as a middleman between employees and AI systems.\nIn Okmanas’ view, “the biggest corporate data leak” is currently in the making, as employees upload sensitive information to LLMs. Rather than banning AI use, he wants Nexos.ai to act as a “Switzerland for LLMs,” serving as a neutral intermediary. By sitting between teams and AI tools, the platform aims to keep data under control without sacrificing the productivity gains companies want but fear pursuing.\nThat combination of seasoned founders tackling a critical enterprise problem explains why this new round was raised so soon — with Index and Evantic Capital co-leading at a €300 million valuation (approximately $350 million), according to a company spokesperson. Previous backers Creandum and Dig Ventures also participated, along with angel backers, including the CEOs of Datadog, Klarna, Supercell, and Wix.\nEvantic, the new venture firm launched by former Sequoia Capital partner Matt Miller, was persistent enough to make the round happen even though Nexos.ai wasn’t fundraising, said Okmanas. He and Sabaliauskas famously bootstrapped their previous businesses, including Nord, the $3 billion cybersecurity company behind NordVPN. But they now see the value-add from VCs.\nIn addition to Index’s support, Nexos.ai is now benefiting from Miller’s guidance and his ‘Legends’ network —140 operators who advise Evantic’s portfolio startups in exchange for a share of the fund’s profits. Okmanas said he is both a Legend himself and drawing on others’ expertise to shape the product — which is where the new capital will go.\nCurrently, Nexos’ AI product consists of an AI Workspace interface for employees and an AI Gateway for developers. The gateway acts as a control layer for security, cost management, and compliance oversight while reducing fragmentation, which Okmanas sees as a key barrier to AI adoption. The gateway provides a single access point to some 200 AI models, and the company plans to use its funding to accelerate its support of private models for sensitive data.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 27-29, 2025\n\t\t\t\t\t\t\t\n\t\t\n\t\nOkmanas said his team is currently doing 50 to 60 demo calls a week, but anticipates that traditional businesses will have “a lot of homework” to do to convince their boards about how they want to adopt AI. Nexos.ai could help them by making deployment easier. But first, the startup is focusing on tech-savvy companies that already use AI daily, as well as companies operating in regulated industries, which have concerns about governance and sending sensitive data to AI models hosted in foreign countries.\nOkmanas and Sabaliauskas identified the AI governance gap while overseeing the portfolio of Tesonet, their company that builds and invests in startups. Tesonet portfolio companies are also among the customers that Nexos.ai is disclosing, alongside Bulgarian fintech unicorn Payhawk, which also has an office in Vilnius. According to a press release, the funding will now support expansion across Europe and North America.\nFor Okmanas, the mission is removing barriers to broader AI adoption. While boards debate whether AI can deliver real value, he points to results within Tesonet’s own portfolio: at Hostinger, a web hosting provider, an AI assistant reduced the need for human support. Says Okmanas, “That’s why we didn’t need to hire 500 people and saved €10 million this year alone.”\nDespite talking numbers at Hostinger, Okmanas declined to disclose how much revenue Nexos.ai itself is generating. Instead, he said that by the time the company celebrates its first anniversary, the team will have grown to 100 people — mostly in Europe, where data sovereignty concerns have also started to open doors for Nexos.ai at public institutions, potentially opening up a new market beyond its enterprise focus.\nThe headline of this story has been corrected for accuracy. \n\n\n\t\tAnna Heim is a writer and editorial consultant. \nYou can contact or verify outreach from Anna by emailing annatechcrunch [at] gmail.com.\nAs a freelance reporter at TechCrunch since 2021, she has covered a large range of startup-related topics including AI, fintech & insurtech, SaaS & pricing, and global venture capital trends.\nAs of May 2025, her reporting for TechCrunch focuses on Europe’s most interesting startup stories.\nAnna has moderated panels and conducted onstage interviews at industry events of all sizes, including major tech conferences such as TechCrunch Disrupt, 4YFN, South Summit, TNW Conference, VivaTech, and many more.\nA former LATAM & Media Editor at The Next Web, startup founder and Sciences Po Paris alum, she’s fluent in multiple languages, including French, English, Spanish and Brazilian Portuguese.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "European AI rising star Nexos.ai raises €30M to unlock enterprise AI adoption",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/01/Tomas-Okmanas-nexos-2-e1737037636521.jpg?w=150"
+      ],
+      "datePublished": "2025-10-21T06:00:00.000Z",
+      "dateModified": "2025-10-21T06:00:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -300,31 +275,6 @@
     }
   },
   {
-    "title": "Spotify now lets you follow venues to get details on upcoming concerts",
-    "url": "https://techcrunch.com/2025/10/20/spotify-now-lets-you-follow-venues-to-get-details-on-upcoming-concerts/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/10/Spotify-venues-feat.jpg?w=150",
-    "tag": "Tech",
-    "date": "2025-10-20T13:00:00.000Z",
-    "description": "\n\t\n\t\tImage Credits:Spotify\t\n\t\n\t\t\t\t\t\t6:00 AM PDT · October 20, 2025\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nSpotify is introducing a new feature that will let users follow ven",
-    "body": "\n\t\n\t\tImage Credits:Spotify\t\n\t\n\t\t\t\t\t\t6:00 AM PDT · October 20, 2025\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nSpotify is introducing a new feature that will let users follow venues to get updates and details on concerts scheduled to take place there.\nVenues you follow are saved in your library, and you can browse them to see event calendars, information on scheduled concerts, and announcements. Users can also filter upcoming shows at venues by genre.\nThe company is also updating its live event feed daily instead of weekly to provide the latest event updates.\nImage Credits:Spotify\nAs before, users can tap on upcoming shows to book tickets via the listed ticketing partner. Spotify experimented with selling tickets itself in 2022 but hasn’t talked about expanding that business since. The company currently partners with ticketing platforms like Live Nation and Ticketmaster instead to sell tickets directly from an artist’s page.\nEarlier this year, the company released a new weekly updated playlist called “Concerts Near You,” which lists 30 songs from artists performing around users’ locations, along with details about their next show. \nSpotify’s rivals are also concentrating on improving live event discovery on their platforms. In February, SoundCloud partnered with Ticketmaster and Live Nation to let artists list upcoming shows on their pages.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 27-29, 2025\n\t\t\t\t\t\t\t\n\t\t\n\t\n\n\t\t\t\n\tTopics\n\n\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n\n\t\t",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Spotify now lets you follow venues to get details on upcoming concerts",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/10/Spotify-venues-feat.jpg?w=150"
-      ],
-      "datePublished": "2025-10-20T13:00:00.000Z",
-      "dateModified": "2025-10-20T13:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "FTC removes Lina Khan-era posts about AI risks and open source",
     "url": "https://techcrunch.com/2025/10/20/ftc-removes-lina-khan-era-posts-about-ai-risks-and-open-source/",
     "image": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1232440387.jpg?w=150",
@@ -350,22 +300,72 @@
     }
   },
   {
-    "title": "Adobe launches a foundry service that builds custom generative AI models for enterprises",
-    "url": "https://techcrunch.com/2025/10/20/adobe-launches-a-foundry-service-that-builds-custom-generative-ai-models-for-enterprises/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/08/Adobe.jpg?w=150",
+    "title": "Cards Against Humanity settles trespass lawsuit against SpaceX",
+    "url": "https://techcrunch.com/2025/10/20/cards-against-humanity-settles-trespass-lawsuit-against-spacex/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2074390099.jpg?w=150",
     "tag": "Tech",
-    "date": "2025-10-20T13:00:00.000Z",
-    "description": "\nCreative design giant Adobe is beefing up the products it offers businesses to include custom generative AI models. \nAdobe launched Adobe AI Foundry ",
-    "body": "\nCreative design giant Adobe is beefing up the products it offers businesses to include custom generative AI models. \nAdobe launched Adobe AI Foundry on Monday, a new offering that allows enterprises to work with the company to build custom generative AI models trained on their branding and intellectual property.\nThe Foundry’s custom models, which can produce text, images, video, and other mediums like 3D scenes, are built off Adobe’s Firefly family of AI models. These Firefly models were launched in 2023 and have been trained entirely on licensed data. Adobe’s Foundry service then fine-tunes these models for each customer using their intellectual property.\nThe Foundry service pricing is based on usage, as opposed to by seat like many of Adobe’s other products.\nHannah Elsakr, a vice president of generative AI new business ventures at Adobe, told TechCrunch the Foundry service was a natural expansion of the company’s enterprise AI products — and customers were asking for more customization.\n“This is elevating a lot of the capabilities we already had,” Elsakr said. “The enterprise has asked us to come in and advise us, help us, partner with us, be our premier creative marketing AI partner on this.”\nSince Adobe released its Firefly models in 2023, enterprises have used them to create more than 25 billion assets.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 27-29, 2025\n\t\t\t\t\t\t\t\n\t\t\n\t\nElsakr said these custom models will help brands be able to better keep up with their advertising campaigns. A customer could create an ad campaign for a product once and use a custom Adobe model to help generate the same ad for different seasons, languages, or formats.\n“It’s highly personalized,” Elsakr said. “We’ve been talking about personalized commerce for so long, but generative AI and Firefly make it possible to put the brand in the hand of the consumer in an on-brand way.”\nDespite the capabilities of the new tools, Esakr said Adobe is not trying to replace human creatives by any means and rather just give them better versions of the tools they were already using to create their content.\n“Our stance is humanity is at the center of creativity and that can’t be replaced,” Elsakr said. “We have been for decades in the business of providing creative tooling that helps uplift narrative, tell storytelling, your ability to envision and execute your creative vision. Firefly and Foundry are just the next evolution of giving you tools in the toolkit that elevate your ability to tell a story.”\n\n\n\t\tBecca is a senior writer at TechCrunch that covers venture capital trends and startups. She previously covered the same beat for Forbes and the Venture Capital Journal.\r\nYou can contact or verify outreach from Becca by emailing rebecca.szkutak@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2025-10-20T17:44:47.000Z",
+    "description": "\nCards Against Humanity, the irreverent party game company known for its provocative humor, has settled its trespassing lawsuit against SpaceX, one ye",
+    "body": "\nCards Against Humanity, the irreverent party game company known for its provocative humor, has settled its trespassing lawsuit against SpaceX, one year after filing the complaint and launching a profanity-laced marketing campaign against Elon Musk’s rocket company.\nThe dispute centered on a plot of land along the Rio Grande in Cameron County, Texas, that Cards Against Humanity purchased in 2017. The company crowdfunded the purchase through 150,000 separate $15 donations ($2.25 million total) from supporters who wanted to help block President Donald Trump’s border wall.\nThe land happened to be located right next to where SpaceX has been building its Starbase rocket complex, a launch facility for the company’s spacecraft. That became an issue in 2024 when Cards Against Humanity accused SpaceX of trespassing on the property and dumping construction equipment and materials there. (SpaceX and a lawyer for the rocket company did not respond to a request for comment.)\nTerms of the settlement were not disclosed. Cards Against Humanity had been seeking $15 million and had told supporters who helped fund the land that it hoped to pay them as much as $100 each from the proceeds. But those supporters won’t receive cash; instead, they can sign up for a “brand new mini-pack of exclusive cards all about Elon Musk,” a special expansion for the popular party game, according to an email they’ve just received.\n“So while we can’t give you what you really wanted—cash money from Elon Musk—we’re going to make it up to you, our best, sexiest customers … with comedy!” the company wrote in the email sent on Monday, referring to the new mini-pack of cards.\n“We’re happy to have stood up to a bully like Musk. We’re happy to have forced a settlement,” Cards Against Humanity told TechCrunch in a statement. The company says SpaceX has removed its construction equipment and that Cards Against Humanity is “working to restore [the land] to its natural state: devoid of space garbage and pointless border walls.” \nIn an email to its supporters last year, Cards Against Humanity had told them: “Unfortunately, an even richer, more racist billionaire — Elon Musk — snuck up on us from behind and completely f—-d your land with gravel, tractors, and space garbage.” It even launched a website titled “www.ElonOwesYou100Dollars.com.”\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 27-29, 2025\n\t\t\t\t\t\t\t\n\t\t\n\t\nCards Against Humanity said at the time that its “longstanding reputation as a company that makes outrageous promises and actually keeps them is on the line.” But it also warned those supporters in the email that “Musk has way more money and lawyers than we do, so you’ll probably get, like, $2 tops.” \nNow they won’t even get that amount.\nThe lawsuit had moved quickly. The two sides had already gone through the discovery process, where both parties exchange evidence before trial, and a trial was slated for November. Cards Against Humanity told TechCrunch on Monday that SpaceX even admitted to the trespass during discovery, which the gaming company called “a real vindication.”\nCards Against Humanity said Monday that it was “prepared to go to trial and we’re confident we would have won.” But the company ultimately decided that a trial “would have cost more than what we were likely to win from SpaceX.” \n“Under Texas law, we likely wouldn’t be able to recoup our legal fees. We had the truth on our side, but Musk and SpaceX could easily outspend us,” the company said.\nMusk is well known for his willingness to fight his perceived enemies — and those of his companies — in court. He once claimed that Tesla’s “hardcore litigation department” would “never surrender/settle an unjust case against us, even if we will probably lose.”\nDespite that, Musk and his companies often settle. The Cards Against Humanity case is not the first this year. Earlier this month, X settled a complaint filed by former Twitter executives. Tesla has settled a number of Autopilot-related cases. One Autopilot case that Tesla didn’t settle — despite having the chance to do so — became one of its highest-profile court losses to date.\n\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Adobe launches a foundry service that builds custom generative AI models for enterprises",
+      "headline": "Cards Against Humanity settles trespass lawsuit against SpaceX",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2023/08/Adobe.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2074390099.jpg?w=150"
       ],
-      "datePublished": "2025-10-20T13:00:00.000Z",
-      "dateModified": "2025-10-20T13:00:00.000Z",
+      "datePublished": "2025-10-20T17:44:47.000Z",
+      "dateModified": "2025-10-20T17:44:47.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Regulators probe Waymo after its robotaxi drove around a stopped school bus",
+    "url": "https://techcrunch.com/2025/10/20/regulators-probe-waymo-after-its-robotaxi-drove-around-a-stopped-school-bus/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/waymo-nyc.jpg?w=150",
+    "tag": "Tech",
+    "date": "2025-10-20T15:41:56.000Z",
+    "description": "\nA Waymo robotaxi was recently spotted driving around a school bus that had its red lights flashing, and federal safety regulators have opened an inve",
+    "body": "\nA Waymo robotaxi was recently spotted driving around a school bus that had its red lights flashing, and federal safety regulators have opened an investigation as a result.\nThe National Highway Traffic Safety Administration (NHTSA) announced Monday morning that its Office of Defects Investigation (ODI) opened an investigation after seeing footage from early October of a Waymo autonomous vehicle maneuvering around a stopped school bus that was unloading kids in Atlanta, Georgia.\nODI says in a document that it will investigate the performance of Waymo’s self-driving software around stopped school buses, how the system is designed to comply with rules related to the buses, and more. The NHTSA said Monday that, based on its engagement with Waymo so far, the “likelihood of other prior similar incidents is high.”\nThe Waymo robotaxi in question crossed perpendicularly in front of the school bus from its right side. The autonomous vehicle then turned left around the front of the bus before traveling down the street. According to Waymo, the bus was partially blocking the driveway that the robotaxi was leaving. The company claims the robotaxi could not see the flashing lights or stop sign. Waymo did not immediately respond to a question about whether the vehicle could see the students getting off the bus, or the bus’s control arm.\n“Safety is our top priority, as we provide hundreds of thousands of fully autonomous paid trips every week in some of the most challenging driving environments in the U.S.,” the company said in a statement, while citing data that shows its vehicles get in fewer crashes than human-driven ones. “NHTSA plays a vital role in road safety, and we will continue to work collaboratively with the agency as part of our mission to be the world’s most trusted driver.”\nWaymo also said Monday that it has already issued software updates to its fleet to improve performance.\nThis has been a year of expansion for Waymo. The company launched in Atlanta, brought its robotaxis to Austin, expanded across Silicon Valley, and is testing in a number of other metro areas, including New York City. It’s also testing at the San Jose and San Francisco airports, and has many more cities lined up for 2026.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 27-29, 2025\n\t\t\t\t\t\t\t\n\t\t\n\t\nPart of the process of launching in new cities is having the self-driving system encounter and learn from new scenarios — although it’s safe to say Atlanta was not the first place that Waymo’s robotaxis have seen school buses.\nThis is not the first time the NHTSA has opened an investigation into Waymo’s self-driving cars. In 2023, the NHTSA probed reports that Waymo’s vehicles were struggling with roadway barriers like gates and chains in low-speed situations. That investigation ultimately led to a recall back in May, which Waymo addressed with a software update. Last year, the agency announced a probe centered on reports that Waymo vehicles had driven into the wrong lane or entered construction zones.\n\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Regulators probe Waymo after its robotaxi drove around a stopped school bus",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/10/waymo-nyc.jpg?w=150"
+      ],
+      "datePublished": "2025-10-20T15:41:56.000Z",
+      "dateModified": "2025-10-20T15:41:56.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "YC alum Cercli, an AI-powered Rippling for MENA, raises oversubscribed $12M Series A",
+    "url": "https://techcrunch.com/2025/10/20/yc-alum-cercli-an-ai-powered-rippling-for-mena-raises-oversubscribed-12m-series-a/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/IMG_2371.jpeg?w=150",
+    "tag": "Tech",
+    "date": "2025-10-21T04:00:00.000Z",
+    "description": "\nIn a region long defined by fragmented enterprise systems, outdated compliance tools, and HR software that rarely talks to finance, Cercli is buildin",
+    "body": "\nIn a region long defined by fragmented enterprise systems, outdated compliance tools, and HR software that rarely talks to finance, Cercli is building a unified alternative for MENA businesses with AI at its core.\nThe Dubai-based startup, founded by ex-Careem operators Akeed Azmi and David Reche, has announced an oversubscribed $12 million Series A round led by European VC Picus Capital.\nCercli today looks slightly different from the company that raised a $4 million seed round last year. It is rebuilding a Rippling-like stack for the MENA region, but making it AI-native from the ground up.\nOver the past year, that bet has paid off. The company says it has scaled revenue more than 10x and now processes over $100 million in payroll annually for multiple businesses across 50 countries.\nBut in a crowded HR-tech market—where dozens of startups such as Deel and Remote, alongside incumbents like SAP and Oracle, already promise everything from cross-border payments to payroll — why does the market need another HR tech player? CEO Azmi hopes its AI-first rebuild may be the edge that sets it apart.\nAzmi started Cercli to help enterprises with basic people operations, an issue he and Reche noticed at their previous employers, Careem and Kitopi, two of MENA’s best-known unicorns.\nWith payroll spread across multiple systems and compliance varying by region, the first version of Cercli focused on a platform that consolidated human resources management, payroll, and compliance for MENA-based companies operating globally.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 27-29, 2025\n\t\t\t\t\t\t\t\n\t\t\n\t\nBut Azmi says it envisioned a bigger opportunity if it baked in AI. So, over the past three months, Azmi says the company has rewritten its entire payroll engine to be multi-country and agent-compatible, enabling it to scale more efficiently across global jurisdictions.\n“The legacy systems of the last 20 years—your SAPs, Oracles, Workdays—they were built for on-prem and the cloud. Now we’re entering an AI-native world,” Azmi said in an interview with TechCrunch. “We didn’t want to just integrate AI; we wanted to rethink the whole stack for how people and agents work together.”\nIt’s also done the same to its recruitment module. Cercli now offers agent-driven features that can surface candidate lists, source from internal datasets, and run background logic on hiring fit.\nIt’s own internal operations run on AI, as the company uses custom-built treasury and reconciliation agents to manage its own finances and accounting. That’s how the 14-person team closed its Series A while maintaining a 21% month-to-month revenue growth rate, according to Azmi.\nCercliImage Credits:Cercli\nBeyond AI, the founder believes Cercli’s other strength lies in consolidation. Although plenty of multi-module HR competitors exist — including Deel, Rippling, BambooHR — MENA companies are often stitching their back office together from point solutions. A company might use different products for expense management, payroll or recruiting.\n“Customers are asking for everything in one place, and being AI-native allows us to build that unified experience far more quickly,” Azmi explained.\nAzmi said Cercli’s AI-native architecture lets it onboard customers quickly, as well. Setup can occur in two to three days, compared to several months typical with legacy systems, he claims. This has helped the two-year-old HR-tech startup win clients from startups to multinationals, including Vision Bank, the Global Climate Finance Centre, Huspy, Lean Technologies, and Ziina.\nCercli is also the first MENA investment for Picus Capital. This firm has backed other global HR companies like Personio, Multiplier, Deel, Maki, and JetHR.\nOther investors who participated in this Series A round include Knollwood Investment Advisory as well as existing investors Y Combinator, Afore Capital, and COTU Ventures.\nAs part of the investment, the company plans to build new AI-native products and work on gaining more market share in the $5.8 billion HR software opportunity in MENA.\n“We’ve seen this business model succeed globally within our portfolio, and we are excited to back Cercli as they continue to grow market share through new customers and product launches,” said Robin Godenrath, founding partner at Picus Capital.\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "YC alum Cercli, an AI-powered Rippling for MENA, raises oversubscribed $12M Series A",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/10/IMG_2371.jpeg?w=150"
+      ],
+      "datePublished": "2025-10-21T04:00:00.000Z",
+      "dateModified": "2025-10-21T04:00:00.000Z",
       "author": [
         {
           "@type": "Person",
