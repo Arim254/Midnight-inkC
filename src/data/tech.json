@@ -25,31 +25,6 @@
     }
   },
   {
-    "title": "Rivian reportedly cutting 600 workers in third layoff of the year",
-    "url": "https://techcrunch.com/2025/10/23/rivian-reportedly-cutting-600-workers-in-third-layoff-of-the-year/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/Rivian-QUAD-R1T-off-road-7.jpg?w=150",
-    "tag": "Tech",
-    "date": "2025-10-23T15:15:08.000Z",
-    "description": "\nRivian is reportedly cutting another 600 workers in its third layoff of the year, or about 4% of its total workforce, according to The Wall Street Jo",
-    "body": "\nRivian is reportedly cutting another 600 workers in its third layoff of the year, or about 4% of its total workforce, according to The Wall Street Journal.\nThe company previously made cuts of around 100 to 150 workers in September and June to its commercial and manufacturing teams, respectively. Rivian declined to comment on what teams are affected by this new round of layoffs. \nThe cuts come as Rivian is prepping to launch its all-important mass-market model, the R2 SUV, in 2026. The company plans to make as many as 150,000 of those EVs per year at its factory in Normal, Illinois. Rivian also recently broke ground on a brand-new factory outside of Atlanta, where it plans to build more R2s and other variants.\nUntil R2 hits the road, though, Rivian is struggling to keep up the pace of sales with its current lineup. Its current best-case guess for total delivery figures at the end of 2025 would represent a 16% drop from last year’s sales. \n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Rivian reportedly cutting 600 workers in third layoff of the year",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/07/Rivian-QUAD-R1T-off-road-7.jpg?w=150"
-      ],
-      "datePublished": "2025-10-23T15:15:08.000Z",
-      "dateModified": "2025-10-23T15:15:08.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Trump pardons Binance founder Changpeng Zhao",
     "url": "https://techcrunch.com/2025/10/23/trump-pardons-binance-founder-changpeng-zhao/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-1244426540.jpg?w=150",
@@ -91,31 +66,6 @@
       ],
       "datePublished": "2025-10-23T18:05:10.000Z",
       "dateModified": "2025-10-23T18:05:10.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Tensormesh raises $4.5M to squeeze more inference out of AI server loads",
-    "url": "https://techcrunch.com/2025/10/23/tensormesh-raises-4-5m-to-squeeze-more-inference-out-of-ai-server-loads/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/10/Humanoids.jpg?w=150",
-    "tag": "Tech",
-    "date": "2025-10-23T16:00:00.000Z",
-    "description": "\nWith the AI infrastructure push reaching staggering proportions, there’s more pressure than ever to squeeze as much inference as possible out of the ",
-    "body": "\nWith the AI infrastructure push reaching staggering proportions, there’s more pressure than ever to squeeze as much inference as possible out of the GPUs they have. And for researchers with expertise in a particular technique, it’s a great time to raise funding.\nThat’s part of the driving force behind Tensormesh, launching out of stealth this week with $4.5 million in seed funding. The investment was led by Laude Ventures, with additional angel funding from database pioneer Michael Franklin.\nTensormesh is using the money to build a commercial version of the open source LMCache utility, launched and maintained by Tensormesh co-founder Yihua Cheng. Used well, LMCache can reduce inference costs by as much as 10x — a power that’s made it a staple in open source deployments and drawn in integrations from heavy hitters like Google and Nvidia. Now Tensormesh is planning to parlay that academic reputation into a viable business.\nThe core of the product is the key-value cache (or KV cache), a memory system used to process complex inputs more efficiently by condensing them down to their key values. In traditional architectures, the KV cache is discarded at the end of each query — but Tensormesh co-founder and CEO Junchen Jiang argues that this is an enormous source of inefficiency.\n“It’s like having a very smart analyst reading all the data, but they forget what they have learned after each question,” says Jiang.\nInstead of discarding that cache, Tensormesh’s systems hold on to it, allowing it to be redeployed when the model executes a similar process in a separate query. Because GPU memory is so precious, this can mean spreading data across several different storage layers, but the reward is significantly more inference power for the same server load.\nThe change is particularly powerful for chat interfaces, since models need to continually refer back to the growing chat log as the conversation progresses. Agentic systems have a similar issue, with a growing log of actions and goals.\nIn theory, these are changes AI companies can execute on their own — but the technical complexity makes it a daunting task. Given the Tensormesh team’s work researching the process and the intricacy of the detail itself, the company is betting there will be lots of demand for an out-of-the-box product.\n“Keeping the KV cache in a secondary storage system and reused efficiently without slowing the whole system down is a very challenging problem,” says Jiang. “We’ve seen people hire 20 engineers and spend three or four months to build such a system. Or they can use our product and do it very efficiently.”\n\n\n\t\n\t\tRussell Brandom has been covering the tech industry since 2012, with a focus on platform policy and emerging technologies. He previously worked at The Verge and Rest of World, and has written for Wired, The Awl and MIT’s Technology Review.\r\n He can be reached at russell.brandom@techcrunch.com or on Signal at 412-401-5489.\t\n\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Tensormesh raises $4.5M to squeeze more inference out of AI server loads",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/10/Humanoids.jpg?w=150"
-      ],
-      "datePublished": "2025-10-23T16:00:00.000Z",
-      "dateModified": "2025-10-23T16:00:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -250,72 +200,22 @@
     }
   },
   {
-    "title": "Google’s bets on carbon capture power plants, which have a mixed record",
-    "url": "https://techcrunch.com/2025/10/23/googles-bets-on-carbon-capture-power-plants-which-have-a-mixed-record/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-155376474.jpeg?w=150",
+    "title": "Tensormesh raises $4.5M to squeeze more inference out of AI server loads",
+    "url": "https://techcrunch.com/2025/10/23/tensormesh-raises-4-5m-to-squeeze-more-inference-out-of-ai-server-loads/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/Humanoids.jpg?w=150",
     "tag": "Tech",
-    "date": "2025-10-23T16:04:18.000Z",
-    "description": "\nGoogle said today that it will invest in a natural gas power plant in Illinois that intends to capture the majority of its carbon emissions.\nThe 400-",
-    "body": "\nGoogle said today that it will invest in a natural gas power plant in Illinois that intends to capture the majority of its carbon emissions.\nThe 400-megawatt power plant will be built outside of Decatur next to an ethanol plant run by Archer-Daniels-Midland (ADM), which already captures CO2 from its operations. Google will buy most of the electricity to power its nearby data centers, while ADM will use some of the power plant’s steam and electricity. Low Carbon Infrastructure is developing the new project.  \nGoogle intends to capture “approximately 90%” of the CO2 generated by the power plant, the company said.\nCarbon dioxide from Google’s power plant will be injected into the same geological storage formations already used by ADM’s ethanol facility. The site is the location of the first long-term CO2 storage well in the U.S.\nTypically, around 2,000 metric tons of CO2 are sent into the well every day. But injections there were halted in 2024 when salty brine, which stores dissolved CO2 deep underground, was found to have migrated into “unauthorized zones,” according to the EPA. ADM said the leak was the result of corrosion at a monitoring well, E&E News reported, and they’ve since resumed injections.\nWhile carbon capture and storage (CCS) shows great promise at reducing carbon emissions from coal and natural gas power plants, it has a mixed record in the field. \nA recent study of 13 CCS facilities representing 55% of all captured carbon shows that most aren’t living up to expectations. An ExxonMobil facility in Wyoming that processes natural gas has been capturing 36% less than expected. The most analogous to Google’s project, a 115-megawatt power plant in Canada has only captured about 50% what it had promised.\nCCS, when it works, can help mitigate pollution from burning natural gas to generate power, but it won’t do anything to address the methane leaks that occur throughout the natural gas supply chain. Methane is a potent greenhouse gas, generating 84x more warming over 20 years than carbon dioxide.\nAs a result, leaks can significantly change the carbon accounting. With leakage rates of just 2%, burning natural gas unabated puts it on par with coal. Capturing the carbon will reduce that figure, but it can’t eliminate the warming generated by extracting and transporting natural gas.\n\n\n\t\tTim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor. \r\nDe Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.\r\nYou can contact or verify outreach from Tim by emailing tim.dechant@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2025-10-23T16:00:00.000Z",
+    "description": "\nWith the AI infrastructure push reaching staggering proportions, there’s more pressure than ever to squeeze as much inference as possible out of the ",
+    "body": "\nWith the AI infrastructure push reaching staggering proportions, there’s more pressure than ever to squeeze as much inference as possible out of the GPUs they have. And for researchers with expertise in a particular technique, it’s a great time to raise funding.\nThat’s part of the driving force behind Tensormesh, launching out of stealth this week with $4.5 million in seed funding. The investment was led by Laude Ventures, with additional angel funding from database pioneer Michael Franklin.\nTensormesh is using the money to build a commercial version of the open source LMCache utility, launched and maintained by Tensormesh co-founder Yihua Cheng. Used well, LMCache can reduce inference costs by as much as 10x — a power that’s made it a staple in open source deployments and drawn in integrations from heavy hitters like Google and Nvidia. Now Tensormesh is planning to parlay that academic reputation into a viable business.\nThe core of the product is the key-value cache (or KV cache), a memory system used to process complex inputs more efficiently by condensing them down to their key values. In traditional architectures, the KV cache is discarded at the end of each query — but Tensormesh co-founder and CEO Junchen Jiang argues that this is an enormous source of inefficiency.\n“It’s like having a very smart analyst reading all the data, but they forget what they have learned after each question,” says Jiang.\nInstead of discarding that cache, Tensormesh’s systems hold on to it, allowing it to be redeployed when the model executes a similar process in a separate query. Because GPU memory is so precious, this can mean spreading data across several different storage layers, but the reward is significantly more inference power for the same server load.\nThe change is particularly powerful for chat interfaces, since models need to continually refer back to the growing chat log as the conversation progresses. Agentic systems have a similar issue, with a growing log of actions and goals.\nIn theory, these are changes AI companies can execute on their own — but the technical complexity makes it a daunting task. Given the Tensormesh team’s work researching the process and the intricacy of the detail itself, the company is betting there will be lots of demand for an out-of-the-box product.\n“Keeping the KV cache in a secondary storage system and reused efficiently without slowing the whole system down is a very challenging problem,” says Jiang. “We’ve seen people hire 20 engineers and spend three or four months to build such a system. Or they can use our product and do it very efficiently.”\n\n\n\t\n\t\tRussell Brandom has been covering the tech industry since 2012, with a focus on platform policy and emerging technologies. He previously worked at The Verge and Rest of World, and has written for Wired, The Awl and MIT’s Technology Review.\r\n He can be reached at russell.brandom@techcrunch.com or on Signal at 412-401-5489.\t\n\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Google’s bets on carbon capture power plants, which have a mixed record",
+      "headline": "Tensormesh raises $4.5M to squeeze more inference out of AI server loads",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-155376474.jpeg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2025/10/Humanoids.jpg?w=150"
       ],
-      "datePublished": "2025-10-23T16:04:18.000Z",
-      "dateModified": "2025-10-23T16:04:18.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Two days after OpenAI’s Atlas, Microsoft relaunches a nearly identical AI browser",
-    "url": "https://techcrunch.com/2025/10/23/two-days-after-openais-atlas-microsoft-launches-a-nearly-identical-ai-browser/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2207890426.jpg?w=150",
-    "tag": "Tech",
-    "date": "2025-10-23T18:03:01.000Z",
-    "description": "\nMicrosoft released a new batch of features for its AI assistant Thursday, including an ambitious project that builds artificial intelligence directly",
-    "body": "\nMicrosoft released a new batch of features for its AI assistant Thursday, including an ambitious project that builds artificial intelligence directly into one of its most central products. More than a simple extension, the Copilot Mode in Microsoft’s Edge browser is Microsoft’s take on the long-hyped AI browser category — an intelligent and flexible AI assistant that follows you as you browse the web.\nMustafa Suleyman, the CEO of Microsoft AI, even described the new product in those terms in the announcement. “Copilot Mode in Edge is evolving into an AI browser that is your dynamic, intelligent companion,” Suleyman wrote in the announcement post. “With your permission, Copilot can see and reason over your open tabs, summarize and compare information, and even take actions like booking a hotel or filling out forms.”\nThe official launch for Edge’s Copilot Mode was in July, when it rolled out with basic features like a Search bar on new tabs and natural voice navigation. But the mode was opt-in and didn’t get quite the attention you’d expect. At Thursday’s event, Microsoft got more ambitious, introducing “Actions” that allow Copilot to fill out forms or book hotels and “Journeys” that let Copilot trace connections between your open tabs. It’s not a huge shift in the product, but it was enough to put the idea of the AI browser at center stage in the event.\nThe announcement comes just two days after a similar launch from OpenAI, which showed off its new Atlas browser. Of course, Copilot’s release has been scheduled for weeks, and new Copilot Mode has probably been in development for months. Neither company invented the idea of an AI-assisted web browser. But the visual similarity between the two products is hard to ignore.\nA demo frame from Microsoft’s CopIlot for Edge announcement.Image Credits:Microsoft (screenshot)\nA Demo frame from OpenAI’s Atlas announcement.Image Credits:Microsoft (screenshot)\nThese are two very similar pictures. The Copilot for Edge background is a little darker, there’s text instead of a logo, and the close/minimize buttons follow Windows conventions instead of MacOS conventions. Beyond that, Copilot puts its “ride-along” function in a new tab instead of a split-screen … but that’s about it. It’s pretty much the same product.\nPart of the similarity is functional: People like clean browsers, and there are only so many ways to integrate a chatbot window into the “new tab” screen. For users, the main difference will come from the underlying models, so maybe a little facial similarity doesn’t make too big a difference.\nBrowsers mostly look the same anyway. But given the high stakes of the AI race and the tense state of play between the two companies, it seems significant that we got both of these browsers in the same week.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 27-29, 2025\n\t\t\t\t\t\t\t\n\t\t\n\t\nCorrection: A previous version of this post erroneously referred to the October 23 event as the initial launch of Copilot for Edge. In fact, the feature was launched in July. TechCrunch regrets the error.\n\n\n\t\n\t\tRussell Brandom has been covering the tech industry since 2012, with a focus on platform policy and emerging technologies. He previously worked at The Verge and Rest of World, and has written for Wired, The Awl and MIT’s Technology Review.\r\n He can be reached at russell.brandom@techcrunch.com or on Signal at 412-401-5489.\t\n\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Two days after OpenAI’s Atlas, Microsoft relaunches a nearly identical AI browser",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2207890426.jpg?w=150"
-      ],
-      "datePublished": "2025-10-23T18:03:01.000Z",
-      "dateModified": "2025-10-23T18:03:01.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "With an Intel recovery underway, all eyes turn to its foundry business",
-    "url": "https://techcrunch.com/2025/10/23/with-an-intel-recovery-underway-all-eyes-turn-to-its-foundry-business/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2228936694.jpg?w=150",
-    "tag": "Tech",
-    "date": "2025-10-24T00:09:29.000Z",
-    "description": "\nIntel’s third-quarter earnings beat Wall Street expectations Thursday, results buoyed by a bump in revenue combined with larger cuts, and multiple, s",
-    "body": "\nIntel’s third-quarter earnings beat Wall Street expectations Thursday, results buoyed by a bump in revenue combined with larger cuts, and multiple, sizable investments over the last two months as CEO Lip-Bu Tan looks to turn around the struggling semiconductor giant.\nIntel’s revenue results and its $4.1 billion in net income provides a far rosier view than its string of quarterly losses. But the company’s recovery story deserves several chapters dedicated to cost cutting via layoffs and other reductions as well as a series of high-profile investments from Softbank, Nvidia, and the U.S. government.\nIntel added $20 billion to its balance sheet during the third quarter, the company announced on its third-quarter earnings presentation on Thursday, sending its stock soaring. This growth was largely due to three sizable investments in the company over the last three months.\nIn August, SoftBank invested $2 billion. A few days later, the U.S. Government took an unprecedented 10% equity stake in Intel. The company has received $5.7 billion of the planned $8.9 billion from the U.S. Government thus far. Nvidia also bought a $5 billion stake in Intel in September as part of a broader deal to develop chips together over time.\n“The actions we took to strengthen the balance sheet give us greater operational flexibility and position us well to continue to execute our strategy with confidence,” Tan said on the company’s earnings call. “In particular, I’m honored by the trust and confidence President Trump and Secretary [Howard] Lutnick have placed in me. Their support highlights Intel’s strategic role as the only U.S.-based semiconductor company with leading edge logic, [research and development] and manufacturing.”\nThe company also received $5.2 billion from closing the sale of its ownership stake of Altera, a hardware company it had owned since 2015, on September 12. It also sold its stake in Mobileye, an autonomous driving tech company.\nIntel grew its quarterly revenue by $800 million in the third quarter to $13.7 billion, compared to $12.9 billion. Intel had net income of $4.1 billion in the third quarter, a steep reversal from the $16.6 billion loss it reported in the same year-ago period. \n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 27-29, 2025\n\t\t\t\t\t\t\t\n\t\t\n\t\nThe foundry biz \nDespite the strong quarter, there weren’t many details on what will happen next with Intel’s foundry business, which makes custom chips for customers. The business has floundered from the start and has been a focus of Tan, who initiated significant layoffs in its foundry business this summer.\nThe business appears to be a priority of the Trump administration; a key condition of the government’s investment in Intel includes language that it will penalize Intel if it divested from its foundry business over the next five years.\nWall Street is keeping a close eye on foundry for signs of the company’s long-term growth. Intel analysts told TechCrunch in August that the company did not need cash to turn itself around but rather a strategy to get its foundry business on track.\nTan said that Intel thinks its foundry business is “uniquely positioned” to capitalize on the swelling demand for chips but was light on the details — beyond saying that the company is actively engaging with potential foundry customers — and added that the growth of the foundry business would remain disciplined.\n“Building a world-class foundry is a long-term effort founded on trust,” Tan said. “As a foundry, we need to ensure that our process can be easily used by a variety of customers, each with their unique way of building their own products. We must learn to delight our customers as they count on us to build wafers, to meet all their needs for powerful performance, yield, cost, and schedule.”\n\n\n\t\tBecca is a senior writer at TechCrunch that covers venture capital trends and startups. She previously covered the same beat for Forbes and the Venture Capital Journal.\r\nYou can contact or verify outreach from Becca by emailing rebecca.szkutak@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "With an Intel recovery underway, all eyes turn to its foundry business",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2228936694.jpg?w=150"
-      ],
-      "datePublished": "2025-10-24T00:09:29.000Z",
-      "dateModified": "2025-10-24T00:09:29.000Z",
+      "datePublished": "2025-10-23T16:00:00.000Z",
+      "dateModified": "2025-10-23T16:00:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -350,6 +250,31 @@
     }
   },
   {
+    "title": "Big tech is paying for Trump’s White House ballroom",
+    "url": "https://techcrunch.com/2025/10/23/big-tech-is-paying-for-trumps-white-house-ballroom/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2227934246.jpg?w=150",
+    "tag": "Tech",
+    "date": "2025-10-24T02:54:46.000Z",
+    "description": "\nWhile the U.S. government remains in limbo during a shutdown, the White House grounds have been busy this week. Construction workers have begun demol",
+    "body": "\nWhile the U.S. government remains in limbo during a shutdown, the White House grounds have been busy this week. Construction workers have begun demolition on the White House’s East Wing, which will be replaced by a 90,000-square-foot ballroom that’s estimated to hold up to 1,000 guests.\nTaxpayers are not funding President Donald Trump’s $250 million project. Rather, he is using private donations to construct his lavish addition to the White House.\nThe White House released a list of the project’s funders on Thursday, which include some of the most influential American tech companies, like Amazon, Apple, Google, Meta, and Microsoft, as well as defense companies like Palantir and Lockheed Martin and telecom providers like Comcast and T-Mobile. The crypto industry is also represented among the White House ballroom donors, with money coming from Coinbase, Ripple, Tether America, and the Winklevoss twins.\nIt is not clear how much each donor has contributed to the project. However, at least $20 million from Google is part of a recent lawsuit settlement over YouTube’s suspension of Trump’s account after the January 6, 2021, riots. TechCrunch asked Google if the money from the settlement represents the full extent of the company’s contributions, but has not yet received an answer.\nSilicon Valley’s relationship with Trump has changed markedly. While much of the tech industry initially resisted Trump when he became president for the first time in 2016, it has cozied up to Trump during his second term. Meta, for instance, did not donate to Trump’s first inauguration fund, but contributed $1 million to the president’s second inauguration; Amazon donated $58,000 the first time, but made a heftier $1 million donation this time around.\nThese donations reflect a greater alignment between Trump and the tech industry.\nThe industry could be more willing to cooperate with Trump’s current administration because many of these major tech companies are facing antitrust litigation. The Trump administration has been much less aggressive in its antitrust enforcement than former President Joe Biden’s FTC was under former FTC Chair Lina Khan.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 27-29, 2025\n\t\t\t\t\t\t\t\n\t\t\n\t\nTrump has also taken a more aggressive approach to AI development than his predecessor, which is a financial boon for the companies building out that technology. In his AI action plan, which was unveiled in July, Trump and his administration outlined a goal to cut red tape and use government funds to support the construction of data centers.\n\n\n\t\tAmanda Silberling is a senior writer at TechCrunch covering the intersection of technology and culture. She has also written for publications like Polygon, MTV, the Kenyon Review, NPR, and Business Insider. She is the co-host of Wow If True, a podcast about internet culture, with science fiction author Isabel J. Kim. Prior to joining TechCrunch, she worked as a grassroots organizer, museum educator, and film festival coordinator. She holds a B.A. in English from the University of Pennsylvania and served as a Princeton in Asia Fellow in Laos.\nYou can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Big tech is paying for Trump’s White House ballroom",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2227934246.jpg?w=150"
+      ],
+      "datePublished": "2025-10-24T02:54:46.000Z",
+      "dateModified": "2025-10-24T02:54:46.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Introducing Build Mode: TechCrunch’s new podcast for founders ",
     "url": "https://techcrunch.com/2025/10/23/introducing-build-mode-techcrunchs-new-podcast-for-founders/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/10/Build-Mode-YouTube-Thumbnail-2.jpg?w=150",
@@ -366,6 +291,81 @@
       ],
       "datePublished": "2025-10-23T18:18:39.000Z",
       "dateModified": "2025-10-23T18:18:39.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Two days after OpenAI’s Atlas, Microsoft relaunches a nearly identical AI browser",
+    "url": "https://techcrunch.com/2025/10/23/two-days-after-openais-atlas-microsoft-launches-a-nearly-identical-ai-browser/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2207890426.jpg?w=150",
+    "tag": "Tech",
+    "date": "2025-10-23T18:03:01.000Z",
+    "description": "\nMicrosoft released a new batch of features for its AI assistant Thursday, including an ambitious project that builds artificial intelligence directly",
+    "body": "\nMicrosoft released a new batch of features for its AI assistant Thursday, including an ambitious project that builds artificial intelligence directly into one of its most central products. More than a simple extension, the Copilot Mode in Microsoft’s Edge browser is Microsoft’s take on the long-hyped AI browser category — an intelligent and flexible AI assistant that follows you as you browse the web.\nMustafa Suleyman, the CEO of Microsoft AI, even described the new product in those terms in the announcement. “Copilot Mode in Edge is evolving into an AI browser that is your dynamic, intelligent companion,” Suleyman wrote in the announcement post. “With your permission, Copilot can see and reason over your open tabs, summarize and compare information, and even take actions like booking a hotel or filling out forms.”\nThe official launch for Edge’s Copilot Mode was in July, when it rolled out with basic features like a Search bar on new tabs and natural voice navigation. But the mode was opt-in and didn’t get quite the attention you’d expect. At Thursday’s event, Microsoft got more ambitious, introducing “Actions” that allow Copilot to fill out forms or book hotels and “Journeys” that let Copilot trace connections between your open tabs. It’s not a huge shift in the product, but it was enough to put the idea of the AI browser at center stage in the event.\nThe announcement comes just two days after a similar launch from OpenAI, which showed off its new Atlas browser. Of course, Copilot’s release has been scheduled for weeks, and new Copilot Mode has probably been in development for months. Neither company invented the idea of an AI-assisted web browser. But the visual similarity between the two products is hard to ignore.\nA demo frame from Microsoft’s CopIlot for Edge announcement.Image Credits:Microsoft (screenshot)\nA Demo frame from OpenAI’s Atlas announcement.Image Credits:Microsoft (screenshot)\nThese are two very similar pictures. The Copilot for Edge background is a little darker, there’s text instead of a logo, and the close/minimize buttons follow Windows conventions instead of MacOS conventions. Beyond that, Copilot puts its “ride-along” function in a new tab instead of a split-screen … but that’s about it. It’s pretty much the same product.\nPart of the similarity is functional: People like clean browsers, and there are only so many ways to integrate a chatbot window into the “new tab” screen. For users, the main difference will come from the underlying models, so maybe a little facial similarity doesn’t make too big a difference.\nBrowsers mostly look the same anyway. But given the high stakes of the AI race and the tense state of play between the two companies, it seems significant that we got both of these browsers in the same week.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 27-29, 2025\n\t\t\t\t\t\t\t\n\t\t\n\t\nCorrection: A previous version of this post erroneously referred to the October 23 event as the initial launch of Copilot for Edge. In fact, the feature was launched in July. TechCrunch regrets the error.\n\n\n\t\n\t\tRussell Brandom has been covering the tech industry since 2012, with a focus on platform policy and emerging technologies. He previously worked at The Verge and Rest of World, and has written for Wired, The Awl and MIT’s Technology Review.\r\n He can be reached at russell.brandom@techcrunch.com or on Signal at 412-401-5489.\t\n\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Two days after OpenAI’s Atlas, Microsoft relaunches a nearly identical AI browser",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2207890426.jpg?w=150"
+      ],
+      "datePublished": "2025-10-23T18:03:01.000Z",
+      "dateModified": "2025-10-23T18:03:01.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Google’s bets on carbon capture power plants, which have a mixed record",
+    "url": "https://techcrunch.com/2025/10/23/googles-bets-on-carbon-capture-power-plants-which-have-a-mixed-record/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-155376474.jpeg?w=150",
+    "tag": "Tech",
+    "date": "2025-10-23T16:04:18.000Z",
+    "description": "\nGoogle said today that it will invest in a natural gas power plant in Illinois that intends to capture the majority of its carbon emissions.\nThe 400-",
+    "body": "\nGoogle said today that it will invest in a natural gas power plant in Illinois that intends to capture the majority of its carbon emissions.\nThe 400-megawatt power plant will be built outside of Decatur next to an ethanol plant run by Archer-Daniels-Midland (ADM), which already captures CO2 from its operations. Google will buy most of the electricity to power its nearby data centers, while ADM will use some of the power plant’s steam and electricity. Low Carbon Infrastructure is developing the new project.  \nGoogle intends to capture “approximately 90%” of the CO2 generated by the power plant, the company said.\nCarbon dioxide from Google’s power plant will be injected into the same geological storage formations already used by ADM’s ethanol facility. The site is the location of the first long-term CO2 storage well in the U.S.\nTypically, around 2,000 metric tons of CO2 are sent into the well every day. But injections there were halted in 2024 when salty brine, which stores dissolved CO2 deep underground, was found to have migrated into “unauthorized zones,” according to the EPA. ADM said the leak was the result of corrosion at a monitoring well, E&E News reported, and they’ve since resumed injections.\nWhile carbon capture and storage (CCS) shows great promise at reducing carbon emissions from coal and natural gas power plants, it has a mixed record in the field. \nA recent study of 13 CCS facilities representing 55% of all captured carbon shows that most aren’t living up to expectations. An ExxonMobil facility in Wyoming that processes natural gas has been capturing 36% less than expected. The most analogous to Google’s project, a 115-megawatt power plant in Canada has only captured about 50% what it had promised.\nCCS, when it works, can help mitigate pollution from burning natural gas to generate power, but it won’t do anything to address the methane leaks that occur throughout the natural gas supply chain. Methane is a potent greenhouse gas, generating 84x more warming over 20 years than carbon dioxide.\nAs a result, leaks can significantly change the carbon accounting. With leakage rates of just 2%, burning natural gas unabated puts it on par with coal. Capturing the carbon will reduce that figure, but it can’t eliminate the warming generated by extracting and transporting natural gas.\n\n\n\t\tTim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor. \r\nDe Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.\r\nYou can contact or verify outreach from Tim by emailing tim.dechant@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Google’s bets on carbon capture power plants, which have a mixed record",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-155376474.jpeg?w=150"
+      ],
+      "datePublished": "2025-10-23T16:04:18.000Z",
+      "dateModified": "2025-10-23T16:04:18.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Sora update to bring AI videos of your pets, new social features, and soon, an Android version",
+    "url": "https://techcrunch.com/2025/10/23/sora-update-to-bring-ai-videos-of-your-pets-new-social-features-and-soon-an-android-version/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages-2240278671.jpeg?w=150",
+    "tag": "Tech",
+    "date": "2025-10-23T15:19:58.000Z",
+    "description": "\nOpenAI is teasing a series of updates coming to its viral app for AI-generated videos, Sora, which recently shot to the top of the App Store after a ",
+    "body": "\nOpenAI is teasing a series of updates coming to its viral app for AI-generated videos, Sora, which recently shot to the top of the App Store after a late September launch. The app, which remains at No. 1 in the U.S. and Canada, will introduce video editing tools, offer the ability for users to create character “cameos” of pets and other objects, improve social features, and more. Plus, the company says the Android version of the app is “actually coming soon.”\nThe announcement was made on X by Sora head Bill Peebles, who says the new creation tools will arrive in the next few days. These include the ability to turn pets and other items, like a “favorite stuffed toy and pretty much anything else,” into cameos.\n\nsora roadmap update: in the spirit of building this app openly, here's what we're landing soon.first, more creation tools. character cameos are coming in the next few days: you'll be able to cameo your dog, guinea pig, favorite stuffed toy, and pretty much anything else you… pic.twitter.com/GX7CJXWRcZ— Bill Peebles (@billpeeb) October 22, 2025\n\nThe term “cameo” refers to the Sora feature where users can make AI personas of themselves after providing the app with a recorded video as a reference file. These cameos can be shared with friends and others, allowing them to make videos with your AI character.\n“We’re expecting people to register lots of crazy new cameos with this feature. To make them easier to find, we’re updating the generation UI to show the latest trending cameos in real time,” Peebles wrote on X.\nIn addition, he says the app will introduce basic video editing features, starting with stitching together multiple clips. More tools will be added over time. An updated social experience is also underway, which would add new ways of using Sora with friends. These may include dedicated channels specific to a university, company, sports club, and more.\nThe company says it’s working to reduce the excessive moderation of generations, which some users have complained is too strict, and improve the overall app performance. \nThough the app is currently listed on the Google Play Store for pre-registration, OpenAI hasn’t yet shared a launch date for its arrival. Peebles says it should be live “soon,” but he didn’t offer more details.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 27-29, 2025\n\t\t\t\t\t\t\t\n\t\t\n\t\nThird-party app store data from Appfigures estimates Sora has seen around 2 million downloads since its launch less than a month ago. This figure is notable, given that the app remains invite-only and launched in just the U.S. and Canada. \n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Sora update to bring AI videos of your pets, new social features, and soon, an Android version",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages-2240278671.jpeg?w=150"
+      ],
+      "datePublished": "2025-10-23T15:19:58.000Z",
+      "dateModified": "2025-10-23T15:19:58.000Z",
       "author": [
         {
           "@type": "Person",
