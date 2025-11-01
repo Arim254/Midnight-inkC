@@ -1,21 +1,46 @@
 [
   {
-    "title": "WhatsApp Is Rolling Out Passkey Support for Encrypted Backups",
-    "url": "https://lifehacker.com/tech/whatsapp-will-support-passkeys-for-encrypted-backups?utm_medium=RSS",
-    "image": "https://lifehacker.com/imagery/articles/01K8TWG5PVSSMBYFE2P3F0A887/hero-image.fill.size_1200x675.webp",
+    "title": "How Apple Plans to Improve AI Image Editors",
+    "url": "https://lifehacker.com/tech/apple-improving-ai-image-editors?utm_medium=RSS",
+    "image": "https://lifehacker.com/imagery/articles/01K8XTR8CWDT0YXP7XMX9X5KHE/hero-image.fill.size_1200x675.jpg",
     "tag": "Life",
-    "date": "2025-10-30T16:30:00.000Z",
+    "date": "2025-10-31T20:30:00.000Z",
+    "description": "\n            \n        \n    \n        \n            \n                \n                    \n                    \n                \n            \n           ",
+    "body": "\n            \n        \n    \n        \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                Copied\n            \n        \n    \n            Apple has been a bit behind in the AI race.\n    \n        \n    \n                                        \n        \n        \n        October 31, 2025\n                    \n            Credit: Kaspars Grinvalds/Shutterstock\n                            \n            \n                Key Takeaways\n                                            Apple's AI researchers have released a dataset to help train AI image editors.\n                                            The dataset, Pico-Banana-400K, contains 400,000 images, as well as many successful and failed edits to help train other models.\n                                            The company used Google's Nano Banana model to develop this dataset, as well as Gemini-2.5.\n                                    \n            \n    Table of Contents\n    \n        \n        Apple might be dead last in the AI race—at least when you consider competition from companies like OpenAI, Google, and Meta—but that doesn't mean the company isn't working on the tech. In fact, it seems most of the work Apple does on AI is behind the scenes: While Apple Intelligence is, well, there, the company's researchers are working on other ways to improve AI models for everyone, not just Apple users. The latest project? Improving AI image editors based on text prompts. In a paper published last week, researchers introduced Pico-Banana-400K, a dataset of 400,000 \"text-guided\" images selected to improve AI-based image editing. Apple believes its image dataset improves upon existing sets by including higher quality images with more diversity: The researchers found that existing datasets either use images produced by AI models, or are not varied enough, which can hinder efforts to improve the models.Funnily enough, Pico-Banana-400K is designed to work with Nano Banana, Google's image editing model. Researchers say using Nano Banana, their dataset can generate 35 different types of edits, as well as tap into Gemini-2.5-Pro to asses quality the edits, and whether those edits should remain as part of the overall dataset.\n        \n            You May Also Like\n        \n    \nAs part of these 400,000 images, there are 258,000 samples of single edits (where Apple compares the original images to one with edits); 56,000 \"preference pairs,\" which distinguishes between failed and successful edit generations; and 72,000 \"multi-turn sequences,\" which walks through two to five edits.Researchers note that different functions had different success rates in this dataset. Global edits and stylization are \"easy,\" achieving the highest success rates; object semantics and scene context are \"moderate;\" while precise geometry, layout, and typography are \"hard.\" The highest performing function, \"strong artistic style transfer,\" which could include changing an image's style to \"Van Gogh\" or anime, has a 93% success rate. The lowest performing function, \"change font style or color of visible text if there is text,\" only succeeded 58% of the time. Other tested functions include \"add new text\" (67% success rate), \"zoom in\" (74% success rate), and \"add film grain or vintage filter\" (91% success rate).  Unlike many of Apple's products, which are typically closed to the company's own platforms, Pico-Banana-400K is open for all researchers and AI developers to use. It's cool to see Apple researchers contributing to open research like this, especially in an area Apple is generally behind in. Will we actually get an AI-powered Siri anytime soon? Unclear. But it is clear Apple is actively working on AI, perhaps just in its own way. \n            \n    \n\n    \n        The Download Newsletter\n            Never miss a tech story\n        \n        \n            Jake Peterson\n            \n            Senior tech editor\n        \n        Get the latest tech news, reviews, and advice from Jake and the team.\n    \n    \n        The Download Newsletter\n            Never miss a tech story. Get the latest tech news, reviews, and advice from Jake and the team.\n        \n    \n\n    \n            \n                \n                        Keep Scrolling for Next Article\n                    \n                \n            \n        ",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "How Apple Plans to Improve AI Image Editors",
+      "image": [
+        "https://lifehacker.com/imagery/articles/01K8XTR8CWDT0YXP7XMX9X5KHE/hero-image.fill.size_1200x675.jpg"
+      ],
+      "datePublished": "2025-10-31T20:30:00.000Z",
+      "dateModified": "2025-10-31T20:30:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Google’s Homepage Has a Halloween-Themed PAC-MAN Game Right Now",
+    "url": "https://lifehacker.com/tech/google-has-a-halloween-themed-pac-man-game?utm_medium=RSS",
+    "image": "https://lifehacker.com/imagery/articles/01K8TR6KGMY3PAMPQB2S70G0DK/hero-image.fill.size_1200x675.jpg",
+    "tag": "Life",
+    "date": "2025-10-30T15:00:00.000Z",
     "description": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our missio",
     "body": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our mission is to offer reliable tech help and credible, practical, science-based life advice to help you live better.\n                \n                \n                    \n                        Our Mission\n                        Our Team\n                        Newsletter\n                    \n                \n            \n        \n                © 2001-2025 Ziff Davis, LLC., A ZIFF DAVIS COMPANY. ALL RIGHTS RESERVED.\n                Lifehacker is a federally registered trademark of Ziff Davis and may not be used by third parties without explicit permission. The display of third-party trademarks and trade names on this site does not necessarily indicate\n                    any affiliation or the\n                    endorsement of Lifehacker. If you click an affiliate link and buy a product or service, we may be paid a fee by that merchant.\n            \n    ",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "WhatsApp Is Rolling Out Passkey Support for Encrypted Backups",
+      "headline": "Google’s Homepage Has a Halloween-Themed PAC-MAN Game Right Now",
       "image": [
-        "https://lifehacker.com/imagery/articles/01K8TWG5PVSSMBYFE2P3F0A887/hero-image.fill.size_1200x675.webp"
+        "https://lifehacker.com/imagery/articles/01K8TR6KGMY3PAMPQB2S70G0DK/hero-image.fill.size_1200x675.jpg"
       ],
-      "datePublished": "2025-10-30T16:30:00.000Z",
-      "dateModified": "2025-10-30T16:30:00.000Z",
+      "datePublished": "2025-10-30T15:00:00.000Z",
+      "dateModified": "2025-10-30T15:00:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -25,147 +50,22 @@
     }
   },
   {
-    "title": "This Tinymoose Pencil Pro Ultra Stylus Is On Sale for Just $40 Right Now",
-    "url": "https://lifehacker.com/tech/tinymoose-pencil-pro-ultra-stacksocial-sale-october-2025?utm_medium=RSS",
-    "image": "https://lifehacker.com/imagery/articles/01K5V4V6J6GB3PNAQBERQNZ9F5/hero-image.fill.size_1200x675.png",
+    "title": "X Is Getting Rid of ‘Twitter,’ and It Might Affect Your Account",
+    "url": "https://lifehacker.com/tech/x-is-getting-rid-of-twitter-and-it-might-affect-your-account?utm_medium=RSS",
+    "image": "https://lifehacker.com/imagery/articles/01K8JXYXC3H9CHFPWX4S0GZ7EG/hero-image.fill.size_1200x675.jpg",
     "tag": "Life",
-    "date": "2025-10-30T20:15:00.000Z",
+    "date": "2025-10-27T14:30:00.000Z",
     "description": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our missio",
     "body": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our mission is to offer reliable tech help and credible, practical, science-based life advice to help you live better.\n                \n                \n                    \n                        Our Mission\n                        Our Team\n                        Newsletter\n                    \n                \n            \n        \n                © 2001-2025 Ziff Davis, LLC., A ZIFF DAVIS COMPANY. ALL RIGHTS RESERVED.\n                Lifehacker is a federally registered trademark of Ziff Davis and may not be used by third parties without explicit permission. The display of third-party trademarks and trade names on this site does not necessarily indicate\n                    any affiliation or the\n                    endorsement of Lifehacker. If you click an affiliate link and buy a product or service, we may be paid a fee by that merchant.\n            \n    ",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "This Tinymoose Pencil Pro Ultra Stylus Is On Sale for Just $40 Right Now",
+      "headline": "X Is Getting Rid of ‘Twitter,’ and It Might Affect Your Account",
       "image": [
-        "https://lifehacker.com/imagery/articles/01K5V4V6J6GB3PNAQBERQNZ9F5/hero-image.fill.size_1200x675.png"
+        "https://lifehacker.com/imagery/articles/01K8JXYXC3H9CHFPWX4S0GZ7EG/hero-image.fill.size_1200x675.jpg"
       ],
-      "datePublished": "2025-10-30T20:15:00.000Z",
-      "dateModified": "2025-10-30T20:15:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Google Pixels Are Still Having Problems Calling 911",
-    "url": "https://lifehacker.com/tech/google-pixels-are-still-getting-911-bugs?utm_medium=RSS",
-    "image": "https://lifehacker.com/imagery/articles/01K8BSWKQV1QJ9ZV3XA00PVQVM/hero-image.fill.size_1200x675.png",
-    "tag": "Life",
-    "date": "2025-10-24T21:00:19.000Z",
-    "description": "\n    \n        \n            \n                \n            \n                \n                    \n                        \n                            \n",
-    "body": "\n    \n        \n            \n                \n            \n                \n                    \n                        \n                            \n                            \n                            View our Bluesky Page (Opens in a new tab)\n                        \n                    \n                    \n                        \n                            \n                            \n                            View our Instagram Page (Opens in a new tab)\n                        \n                    \n                    \n                        \n                            \n                            \n                            View on Facebook Page (Opens in a new tab)\n                        \n                    \n                    \n                        \n                            \n                            \n                            View our Youtube Page (Opens in a new tab)\n                        \n                    \n                    \n                        \n                            \n                            \n                            View our Twitter Page (Opens in a new tab)\n                        \n                    \n                \n                \n                    \n                    \n                \n                \n        \n            \n                Latest\n                Tech\n                Best Picks\n                Entertainment\n                Health\n                Reviews\n                Home & Garden\n                Deals\n                Comparisons\n                Hacks\n                                    # The Difference Between the Dark Web and Deep Web\n            \n    \n            \n            \n        \n    \n        \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                Copied\n            \n        \n    \n            The problems has persisted since 2021.\n    \n        \n    \n                                        \n        \n        \n        October 24, 2025\n                    \n            Credit: omar hesham2qwe / Shutterstock.com\n                            \n            \n                Key Takeaways\n                                            Multiple Google Pixel users yesterday reported that they couldn't call 911.\n                                            The issue has persisted since 2021, in one form or another.\n                                            A Canadian carrier also posted about similar problems, but says they have since been fixed.\n                                    \n            \n    Table of Contents\n    \n        \n        For the past few years, Google's Pixel phones have had recurring problems with calling 911, and the issue has once again reared its ugly head. Over the past 24 hours, multiple users on Reddit have complained about being unable to call 911, while the Bell carrier in Canada issued a warning that the Pixel 6 and up was also having problems contacting emergency services on its network.According to user Fabulous_Disaster730, who posted yesterday about difficulties contacting emergency services during a gas leak, her Pixel 9 Pro repeatedly prompted her to turn on wifi calling or turn off airplane mode before she could call 911, despite her having full signal on both 5G and wifi. The phone would then freeze and restart. After multiple attempts, she resorted to asking a friend to place the call for her instead.Multiple replies mentioned facing similar problems yesterday as well, across multiple networks and models of Pixel. Bell, however, was the only carrier to issue an official notice.\n        \n            You May Also Like\n        \n    \nAside from the obvious danger, the problem with this bug is that it's not consistent. Despite seemingly having had a surge yesterday, it's been a known issue as far back as 2021. However, it doesn't affect all users, nor is it entirely predictable when or how it will pop up. While recent reports are of calls simply not going through, one user posted two months ago that their call did go through, but they only heard screeching and static on the other end of the line. These recent reports are only the latest in an ever-evolving concern.It's also not clear what's causing the problem. In 2021, the problem was attributed to Microsoft Teams, but even with that error patched up, users are still facing problems. To Google's credit, Bell said it reached out to the company shortly after it learned about yesterday's uptick in cases, and afterwards said that a fix had been issued. However, no other carriers have issued similar notices, and I wouldn't be surprised to see other users making their own complaints in the future.It's worth noting that Bell mentioned that Pixel 6 users and up were the ones affected this time around, and that the Pixel 6 also happened to release in 2021, which is when the bug first started making news. Whatever is at the core of the problem here, I wouldn't be surprised if it worked its way in on the Pixel 6 and just hasn't yet been addressed.However, given the severity of the issue, it's something that needs looking at sooner rather than later. I've reached out to Google for comment on this issue, and will update if I hear back. In the meantime, it's best to be prepared in case the worst happens. If you're on a Pixel phone, here's what you can do to contact 911 in an emergency:First, try to place a 911 callIf you have time and the danger is not immediate, it's worth trying to call 911 on your Pixel despite the issues. While users reporting problems have increased as of late, it's still not an everyone or every time problem. It's possible your call will still go through without issue.You can also text 911If, however, you are unable to call 911, it's worth remembering that in certain jurisdictions (check this regularly updated list to see if where you live is supported), you can also contact 911 via text. This is a slower method of reaching out for help, but is still better than nothing. To text 911, open your texting app, put in 911 as the recipient, and write a concise message with your issue, your location, and any necessary specifics, like cross streets, landmarks, a specific hiding location, or whether you're able to talk.Use a backup phoneWhile I don't expect someone who isn't constantly reviewing tech to have multiple phones on hand, the surest method to ensure you'll be able to call 911 if you're on a Pixel is to keep a backup phone that isn't a Pixel handy. This could be a landline or another cell phone. Crucially, it can be an old cell phone, even one that isn't actively attached to a phone plan. So long as your phone is able to connect to a network, it's legally required to be able to call 911, so if you have an old phone you've upgraded from and haven't traded in laying around, it may be smart to keep it charged up in case you need it in an emergency.\n            \n    \n\n    \n        The Download Newsletter\n            Never miss a tech story\n        \n        \n            Jake Peterson\n            \n            Senior tech editor\n        \n        Get the latest tech news, reviews, and advice from Jake and the team.\n    \n    \n        The Download Newsletter\n            Never miss a tech story. Get the latest tech news, reviews, and advice from Jake and the team.\n        \n    \n\n    \n            \n                \n                        Keep Scrolling for Next Article\n                    \n                \n            \n        \n    ",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Google Pixels Are Still Having Problems Calling 911",
-      "image": [
-        "https://lifehacker.com/imagery/articles/01K8BSWKQV1QJ9ZV3XA00PVQVM/hero-image.fill.size_1200x675.png"
-      ],
-      "datePublished": "2025-10-24T21:00:19.000Z",
-      "dateModified": "2025-10-24T21:00:19.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "OpenAI Will Now Operate Like a For-Profit Company",
-    "url": "https://lifehacker.com/tech/openai-will-now-operate-like-a-for-profit-company?utm_medium=RSS",
-    "image": "https://lifehacker.com/imagery/articles/01K8NVM60E42M8S350V5QS1X8M/hero-image.fill.size_1200x675.jpg",
-    "tag": "Life",
-    "date": "2025-10-28T17:30:00.000Z",
-    "description": "\n    \n        \n            \n                \n            \n                \n                    \n                        \n                            \n",
-    "body": "\n    \n        \n            \n                \n            \n                \n                    \n                        \n                            \n                            \n                            View our Bluesky Page (Opens in a new tab)\n                        \n                    \n                    \n                        \n                            \n                            \n                            View our Instagram Page (Opens in a new tab)\n                        \n                    \n                    \n                        \n                            \n                            \n                            View on Facebook Page (Opens in a new tab)\n                        \n                    \n                    \n                        \n                            \n                            \n                            View our Youtube Page (Opens in a new tab)\n                        \n                    \n                    \n                        \n                            \n                            \n                            View our Twitter Page (Opens in a new tab)\n                        \n                    \n                \n                \n                    \n                    \n                \n                \n        \n            \n                Latest\n                Tech\n                Best Picks\n                Entertainment\n                Health\n                Reviews\n                Home & Garden\n                Deals\n                Comparisons\n                Hacks\n                                    # The Difference Between the Dark Web and Deep Web\n            \n    \n            \n            \n        \n    \n        \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                Copied\n            \n        \n    \n            The nonprofit side has a new name, but still controls the for-profit arm.\n    \n        \n    \n                                        \n        \n        \n        October 28, 2025\n    \n            Credit: jackpress/Shutterstock\n                            \n            \n                Key Takeaways\n                                            OpenAI announced on Tuesday a new structure that allows it to operate more like a for-profit company.\n                                            The nonprofit side is now called the \"OpenAI Foundation,\" and will control the new \"OpenAI Group PCB.\"\n                                            This should allow OpenAI to pull in more investments the way other tech companies do, though it says the company remains committed to its original values.\n                                    \n            \n    Table of Contents\n    \n        \n        When OpenAI was started in 2015, its founders (including both Sam Altman and Elon Musk) chose to make it a nonprofit. Its initial goal was to guarantee that artificial general intelligence (AGI), a type of AI that is theoretically better at humans at most tasks, would benefit everyone.The company has gone through a number of changes in the years since. It hasn't been a true nonprofit since 2019, when it moved to a \"capped-profit\" structure, which limited profits to 100 times any investment. Musk even sued the company last year, claiming it had ditched its original mission in favor of profits. But now, OpenAI is looking more like a traditional for-profit company than ever. On Thursday, it announced the company will now operate under a new for-profit structure, called OpenAI Group PCB, a public benefit corporation. OpenAI's nonprofit arm, which is now called the OpenAI Foundation, holds a $130 billion stake in OpenAI Group PCB, and controls the for-profit company. OpenAI says it is particularly focused on how this move will affect its goals of achieving AGI, and ensuring that AGI \"benefits all of humanity.\" As OpenAI sees it, the better its for-profit businesses perform, the more funds the OpenAI Foundation will have to continue its philanthropic work.  \n        \n            You May Also Like\n        \n    \nTo that point, OpenAI says the OpenAI Foundation is committing $25 billion to two key objectives. The first is to health and disease, as the OpenAI Foundation will aim to create open-sourced health datasets and offer funding for scientists. The second goal will be to bolster \"AI resilience,\" which OpenAI sees as \"maximizing AI's benefits and minimizing its risks.\"According to OpenAI, the OpenAI Foundation and OpenAI Group both have the same mission, and that the terms of the new structure require the for-profit side to advance that mission. What does this mean for OpenAI?The way OpenAI puts it, this move is the best of both worlds for the company. It asserts that it will continue to operate with the same values and goals as it did prior to this restructuring, while at the same time having more freedom to raise capital to fund those efforts.That second point is certainly true. CEO Sam Altman has been working for nearly two years to restructure the company into something that can more easily compete financially with other for-profit companies in the AI space, like Amazon, Google, and Meta. Other strictly-AI companies, like Anthropic and xAI, also have this type of structure.\n            \n                What do you think so far?\n            \n        \nAlready, the move has solidified funds for OpenAI: The Japanese-baed SoftBank had previously pledged to a $40 billion investment, with $10 billion in April and another $30 billion in December. However, that investment was contingent on the company's restructuring plans. Had OpenAI not restructured, SoftBank would've dropped its investment to $20 billion. By bolstering its for-profit core, OpenAI earned itself that extra $20 billion.OpenAI has also agreed to extend an agreement with Microsoft that allows the latter to use and sell OpenAI products. The original agreement ran through 2030, and allowed OpenAI to cancel the deal if the company achieved AGI. But now, the deal runs through 2032, even if OpenAI achieves AGI, so long as the tech has the \"appropriate safety guardrails.\" An independent expert panel will make the call on whether OpenAI has achieved AGI. Rights to OpenAI's research will still be capped when OpenAI achieves AGI, or by 2030, whichever comes first.It's no secret that AI is big business, so this move could realistically continue OpenAI's many financial successes. It may also heat up the race to achieve AGI, as it now allows Microsoft to pursue that benchmark with OpenAI's technologies as well. But against this news is a lingering, and concerning, question: Are we in an AI bubble? And will that bubble burst? OpenAI currently has $1 trillion in AI deals, though only pulls in $13 billion in actual revenue. Perhaps its restructuring will allow it to develop more lucrative revenue streams, but even still, AI is generating a lot of investment without the tangible returns you'd necessarily expect. \n            \n    \n\n    \n        The Download Newsletter\n            Never miss a tech story\n        \n        \n            Jake Peterson\n            \n            Senior tech editor\n        \n        Get the latest tech news, reviews, and advice from Jake and the team.\n    \n    \n        The Download Newsletter\n            Never miss a tech story. Get the latest tech news, reviews, and advice from Jake and the team.\n        \n    \n\n    \n            \n                \n                        Keep Scrolling for Next Article\n                    \n                \n            \n        \n    ",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "OpenAI Will Now Operate Like a For-Profit Company",
-      "image": [
-        "https://lifehacker.com/imagery/articles/01K8NVM60E42M8S350V5QS1X8M/hero-image.fill.size_1200x675.jpg"
-      ],
-      "datePublished": "2025-10-28T17:30:00.000Z",
-      "dateModified": "2025-10-28T17:30:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "This BIC EZ LOAD Lighter Is the Secret to a Safe, Scary Glow",
-    "url": "https://lifehacker.com/ad/home/this-bic-lighter-wand-is-the-secret-to-a-safe-scary-glow?utm_medium=RSS",
-    "image": "https://lifehacker.com/imagery/articles/01K86K2KJKDZ39ZNXY6V5BTE7R/hero-image.fill.size_1200x675.png",
-    "tag": "Life",
-    "date": "2025-10-29T15:21:36.000Z",
-    "description": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our missio",
-    "body": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our mission is to offer reliable tech help and credible, practical, science-based life advice to help you live better.\n                \n                \n                    \n                        Our Mission\n                        Our Team\n                        Newsletter\n                    \n                \n            \n        \n                © 2001-2025 Ziff Davis, LLC., A ZIFF DAVIS COMPANY. ALL RIGHTS RESERVED.\n                Lifehacker is a federally registered trademark of Ziff Davis and may not be used by third parties without explicit permission. The display of third-party trademarks and trade names on this site does not necessarily indicate\n                    any affiliation or the\n                    endorsement of Lifehacker. If you click an affiliate link and buy a product or service, we may be paid a fee by that merchant.\n            \n    ",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "This BIC EZ LOAD Lighter Is the Secret to a Safe, Scary Glow",
-      "image": [
-        "https://lifehacker.com/imagery/articles/01K86K2KJKDZ39ZNXY6V5BTE7R/hero-image.fill.size_1200x675.png"
-      ],
-      "datePublished": "2025-10-29T15:21:36.000Z",
-      "dateModified": "2025-10-29T15:21:36.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "This Nintendo Switch (With a Gray Joy-Con) Is Under $300 Right Now",
-    "url": "https://lifehacker.com/entertainment/nintendo-switch-with-gray-joy-con-sale?utm_medium=RSS",
-    "image": "https://lifehacker.com/imagery/articles/01K8NZ7VFP6QVBX1A2C6EZHKEY/hero-image.fill.size_1200x675.png",
-    "tag": "Life",
-    "date": "2025-10-28T18:00:20.000Z",
-    "description": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our missio",
-    "body": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our mission is to offer reliable tech help and credible, practical, science-based life advice to help you live better.\n                \n                \n                    \n                        Our Mission\n                        Our Team\n                        Newsletter\n                    \n                \n            \n        \n                © 2001-2025 Ziff Davis, LLC., A ZIFF DAVIS COMPANY. ALL RIGHTS RESERVED.\n                Lifehacker is a federally registered trademark of Ziff Davis and may not be used by third parties without explicit permission. The display of third-party trademarks and trade names on this site does not necessarily indicate\n                    any affiliation or the\n                    endorsement of Lifehacker. If you click an affiliate link and buy a product or service, we may be paid a fee by that merchant.\n            \n    ",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "This Nintendo Switch (With a Gray Joy-Con) Is Under $300 Right Now",
-      "image": [
-        "https://lifehacker.com/imagery/articles/01K8NZ7VFP6QVBX1A2C6EZHKEY/hero-image.fill.size_1200x675.png"
-      ],
-      "datePublished": "2025-10-28T18:00:20.000Z",
-      "dateModified": "2025-10-28T18:00:20.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Prioritize Your To-Do Lists With the ABC Method",
-    "url": "https://lifehacker.com/prioritize-your-to-do-lists-with-the-abc-method?utm_medium=RSS",
-    "image": "https://lifehacker.com/imagery/articles/01HF2GVT27NFHX1N9E99CMYG3K/hero-image.fill.size_1200x675.jpg",
-    "tag": "Life",
-    "date": "2025-10-31T13:00:00.000Z",
-    "description": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our missio",
-    "body": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our mission is to offer reliable tech help and credible, practical, science-based life advice to help you live better.\n                \n                \n                    \n                        Our Mission\n                        Our Team\n                        Newsletter\n                    \n                \n            \n        \n                © 2001-2025 Ziff Davis, LLC., A ZIFF DAVIS COMPANY. ALL RIGHTS RESERVED.\n                Lifehacker is a federally registered trademark of Ziff Davis and may not be used by third parties without explicit permission. The display of third-party trademarks and trade names on this site does not necessarily indicate\n                    any affiliation or the\n                    endorsement of Lifehacker. If you click an affiliate link and buy a product or service, we may be paid a fee by that merchant.\n            \n    ",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Prioritize Your To-Do Lists With the ABC Method",
-      "image": [
-        "https://lifehacker.com/imagery/articles/01HF2GVT27NFHX1N9E99CMYG3K/hero-image.fill.size_1200x675.jpg"
-      ],
-      "datePublished": "2025-10-31T13:00:00.000Z",
-      "dateModified": "2025-10-31T13:00:00.000Z",
+      "datePublished": "2025-10-27T14:30:00.000Z",
+      "dateModified": "2025-10-27T14:30:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -200,22 +100,47 @@
     }
   },
   {
-    "title": "Microsoft Teams Will Soon Tell Your Boss When You're Not in the Office",
-    "url": "https://lifehacker.com/tech/microsoft-teams-will-let-your-boss-know-when-youre-not-in-the-office?utm_medium=RSS",
-    "image": "https://lifehacker.com/imagery/articles/01K8BDF03ZQK8WBMVP6C7F66FK/hero-image.fill.size_1200x675.jpg",
+    "title": "This Tinymoose Pencil Pro Ultra Stylus Is On Sale for Just $40 Right Now",
+    "url": "https://lifehacker.com/tech/tinymoose-pencil-pro-ultra-stacksocial-sale-october-2025?utm_medium=RSS",
+    "image": "https://lifehacker.com/imagery/articles/01K5V4V6J6GB3PNAQBERQNZ9F5/hero-image.fill.size_1200x675.png",
     "tag": "Life",
-    "date": "2025-10-24T16:30:00.000Z",
+    "date": "2025-10-30T20:15:00.000Z",
     "description": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our missio",
     "body": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our mission is to offer reliable tech help and credible, practical, science-based life advice to help you live better.\n                \n                \n                    \n                        Our Mission\n                        Our Team\n                        Newsletter\n                    \n                \n            \n        \n                © 2001-2025 Ziff Davis, LLC., A ZIFF DAVIS COMPANY. ALL RIGHTS RESERVED.\n                Lifehacker is a federally registered trademark of Ziff Davis and may not be used by third parties without explicit permission. The display of third-party trademarks and trade names on this site does not necessarily indicate\n                    any affiliation or the\n                    endorsement of Lifehacker. If you click an affiliate link and buy a product or service, we may be paid a fee by that merchant.\n            \n    ",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Microsoft Teams Will Soon Tell Your Boss When You're Not in the Office",
+      "headline": "This Tinymoose Pencil Pro Ultra Stylus Is On Sale for Just $40 Right Now",
       "image": [
-        "https://lifehacker.com/imagery/articles/01K8BDF03ZQK8WBMVP6C7F66FK/hero-image.fill.size_1200x675.jpg"
+        "https://lifehacker.com/imagery/articles/01K5V4V6J6GB3PNAQBERQNZ9F5/hero-image.fill.size_1200x675.png"
       ],
-      "datePublished": "2025-10-24T16:30:00.000Z",
-      "dateModified": "2025-10-24T16:30:00.000Z",
+      "datePublished": "2025-10-30T20:15:00.000Z",
+      "dateModified": "2025-10-30T20:15:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Try 'Habit Stacking' to Make New Routines Stick",
+    "url": "https://lifehacker.com/try-habit-stacking-to-be-more-productive-1850614842?utm_medium=RSS",
+    "image": "https://lifehacker.com/imagery/articles/01HF2GT5S5TWFYBWDBFP4R2BWW/hero-image.fill.size_1200x675.jpg",
+    "tag": "Life",
+    "date": "2025-10-30T12:00:00.000Z",
+    "description": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our missio",
+    "body": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our mission is to offer reliable tech help and credible, practical, science-based life advice to help you live better.\n                \n                \n                    \n                        Our Mission\n                        Our Team\n                        Newsletter\n                    \n                \n            \n        \n                © 2001-2025 Ziff Davis, LLC., A ZIFF DAVIS COMPANY. ALL RIGHTS RESERVED.\n                Lifehacker is a federally registered trademark of Ziff Davis and may not be used by third parties without explicit permission. The display of third-party trademarks and trade names on this site does not necessarily indicate\n                    any affiliation or the\n                    endorsement of Lifehacker. If you click an affiliate link and buy a product or service, we may be paid a fee by that merchant.\n            \n    ",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Try 'Habit Stacking' to Make New Routines Stick",
+      "image": [
+        "https://lifehacker.com/imagery/articles/01HF2GT5S5TWFYBWDBFP4R2BWW/hero-image.fill.size_1200x675.jpg"
+      ],
+      "datePublished": "2025-10-30T12:00:00.000Z",
+      "dateModified": "2025-10-30T12:00:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -250,72 +175,22 @@
     }
   },
   {
-    "title": "Use This Japanese Productivity Method to Improve Your Workflow",
-    "url": "https://lifehacker.com/use-kaizen-for-a-better-workflow?utm_medium=RSS",
-    "image": "https://lifehacker.com/imagery/articles/01HF2H751KTTEK4NRQQ1PM1PQF/hero-image.fill.size_1200x675.jpg",
+    "title": "Meta Is Adding More AI Slop to Your Feeds",
+    "url": "https://lifehacker.com/tech/meta-adding-more-ai-slop-to-your-feeds?utm_medium=RSS",
+    "image": "https://lifehacker.com/imagery/articles/01K8VB4C6B1WMJTRGCP97HV69G/hero-image.fill.size_1200x675.jpg",
     "tag": "Life",
-    "date": "2025-10-31T12:00:00.000Z",
-    "description": "\n            \n        \n    \n        \n            \n                \n                    \n                    \n                \n            \n           ",
-    "body": "\n            \n        \n    \n        \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                Copied\n            \n        \n    \n            Keeping the kaizen principles in mind as you work can help you continuously improve.\n    \n        \n    \n                                        \n        \n        \n        October 31, 2025\n    \n    We may earn a commission from links on this page.\n    \n            Credit: 3rdtimeluckystudio - Shutterstock\n                            \n    Table of Contents\n    \n        \n        A lot of the productivity techniques and organizational hacks out there claim to make work easier and more efficient, and they really can—though you have to find just the right one for you. A few methods that originated in Japan have proven especially popular—consider the Toyota-approved Kanban scheduling method—including one of my favorites: kaizen. The man who took the philosophy mainstream, Masaaki Imai, died two years ago, but left behind a legacy of productivity and efficiency we can all learn from, because this technique not only helps you get more done, but helps you do everything better. What is kaizen?In Japanese, “kaizen” translates, essentially, to “improvement,” and that’s the goal at the heart of the method itself, which encourages individuals at all levels of an organization to work together to continuously improve everything about a company. When everyone from the boss to the intern is in on the plan, the idea goes, the place will simply be more efficient and everything will always be getting better. This is done through standardization and the implementation of uniform processes.\n        \n            You May Also Like\n        \n    \nA good example of this is within the Toyota production system: If there is any issue or abnormality detected by any worker in a factory, they stop the production line and employees and supervisors work together to resolve the problem. As Toyota puts it, this “humanizes the workplace” and the standardization involved empowers every individual in the organizational structure to make meaningful changes. This is all part of a system called Plan, Do, Check, Act (usually known as PDCA), which works perfectly within a kaizen framework. The PDCA cycle repeats, meaning once you’ve planned, you keep doing, checking, acting, and planning again, factoring in your results, so you’re always improving. (If you're familiar with an after-action review, which calls on you to review what you did poorly and what you did well, then use that information to plan out how you'll improve in the future, that's a helpful framework for understanding PDCA.) And while you’re doing all that, you have to keep the kaizen principles themselves in mind. \n            \n                What do you think so far?\n            \n        \nHow does kaizen work?In addition to incorporating PDCA, kaizen has its own set of five foundational principles:Know your customer: Cater to your customers or clients and take care to identify their needs and interests, plus how you can serve them from whatever level you’re at. Even a cashier who deals with one shopper at a time can have a broad, positive impact by making sure each is given detailed attention. A CEO who never deals directly with a customer can meet their needs by basing company decisions on data and feedback from buyers. In short, everyone and anyone can know the customer and serve them better. You can think broadly here: Maybe you don't have a \"customer\" per se, but your work can still require you to think of whomever you're doing that work for. Say you want to use kaizen to clean your home before your mom gets there for a week-long stay. Your mom is the \"customer\" you have to impress Let it flow: Eliminate waste, both physical and theoretical, meaning don’t take unnecessary steps, don’t clutter the space, and be direct in doing what you need to do. No matter what you're working on or how many people you're working with, this is where kanban can be a helpful complement, because it forces you to think over your action steps as you seek to meet a goal. Once you've identified what needs to be done and when, think of how you can scale each task back to only its most important, actionable elements. Go to Gemba: Gemba is the Japanese term for “actual place.” This means you should always be purposeful and direct about getting to where you need to be—which is likely to be where the action is happening. Don’t delegate anything you don’t have to, wait around on anything, or sit on the sidelines. Empower people: Encourage people in your organization, whether you’re their superior or they’re your peers, and make sure everyone is aligned in the common goals of the company and forward movement. If you're following a modified version of kaizen for a personal project, you can still take this step by not only giving yourself positive pep talks, but by making sure you have everything you need before you jump in. If you are working on that house-cleaning project, make sure you have all the right tools and are taking enough breaks that you don't burn out, for instance. Be transparent: Demonstrate your productivity with hard data and results and make sure everyone is always up to date on processes, developments, and goals. There are many ways to do this, even if you're working on your own. I personally love taking before and after pictures when I start and end a project, because seeing a finished product motivates me. Implementing all five of these in a working environment, per kaizen’s adherents, is the key to unlocking a culture of continuous improvement. If you want to learn more, there are dozens of books out there about the methodology, but you should start with the original: Masaaki Imai’s Kaizen: The Key to Japan’s Competitive Success. \n            \n    \n\n    \n        The Daily Newsletter\n            Ready to do everything better?\n        \n        \n            Jordan Calhoun\n            \n            Editor in chief\n        \n        Get daily tips, tricks, and tech guides from Jordan and the team.\n    \n    \n        The Daily Newsletter\n            Ready to do everything better? Get daily tips, tricks, and tech guides from Jordan and the team.\n        \n    \n\n    \n            \n                \n                        Keep Scrolling for Next Article\n                    \n                \n            \n        ",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Use This Japanese Productivity Method to Improve Your Workflow",
-      "image": [
-        "https://lifehacker.com/imagery/articles/01HF2H751KTTEK4NRQQ1PM1PQF/hero-image.fill.size_1200x675.jpg"
-      ],
-      "datePublished": "2025-10-31T12:00:00.000Z",
-      "dateModified": "2025-10-31T12:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Two Best Apps to Keep Up With Your Fitness Routine While Traveling",
-    "url": "https://lifehacker.com/health/two-best-fitness-apps-for-travel?utm_medium=RSS",
-    "image": "https://lifehacker.com/imagery/articles/01K8TR21VHASV7X3ZXD210KF04/hero-image.fill.size_1200x675.png",
-    "tag": "Life",
-    "date": "2025-10-30T14:30:00.000Z",
-    "description": "\n            \n        \n    \n        \n            \n                \n                    \n                    \n                \n            \n           ",
-    "body": "\n            \n        \n    \n        \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                Copied\n            \n        \n    \n            No matter where you are or what you're doing, you can get a little workout in.\n    \n        \n    \n                                        \n        \n        \n        October 30, 2025\n    \n            Credit: ClassPass and Peloton\n                            \n    Table of Contents\n    \n        \n        Sticking to a workout schedule is tough even when everything is going normally and you have a pretty standard daily routine. Once you add travel into the mix, it can feel impossible. Sure, hotels have fitness centers, but if you've ever gone to one only to learn it's nothing more than a few dumbbells and an ancient treadmill, you know how aggravating those can be. There are two apps I use to stick to my routine and prioritize my health while I'm on the road, but I use them quite differently. ClassPassAfter discovering last month that ClassPass houses a little-known, but varied, selection of at-home workout classes to stream, I happily re-downloaded the app for the first time in years. If you're not familiar, you buy monthly credits that you can redeem at gyms and fitness studios, trading a handful of credits for, say, a yoga or HIIT class. (You can also use it for salon and spa services, which is a cool upgrade that app has gotten since I last used it.)I used it all around my neighborhood in New York City for a month, checking out all the boutique studios near me, and found some I loved and others I was glad I didn't spend full price on a trial class for. But last week, when I was home visiting my mom in North Dakota, I checked ClassPass—and sure enough, yoga, barre, spin, and Pilates classes came up. I hadn't entirely expected it to work; it's one thing for a well-populated location like Manhattan to have a bunch of offerings on there, but Bismarck? Yes, Bismarck! I went to a barre class and it was awesome, exactly what I needed to stay on track with my workout schedule and destress after a disastrous night of airline mishaps. \n        \n            You May Also Like\n        \n    \nIn the next three months, I'm going to West Virginia, Nebraska, and Mississippi. That's how your vacation schedule looks when you're on a mission to visit all 50 states (and I only have eight to go). According to ClassPass, I'll be able to take a yoga class in Charleston, do HIIT in Omaha, and book time at a pickleball court in Biloxi. All of that beats a hotel fitness center by a mile. Even the smallest cities are well-represented on this app and you can get a real, full class experience wherever you are. PelotonI am a dedicated Peloton user and the app gets daily use from me, even if I'm only using it to track my outdoor walks. If you can't find the time or transportation to get to an in-person class, you have loads of options through Peloton, many of which can be completed in your hotel room, like yoga or stretching.\n            \n                What do you think so far?\n            \n        \nThere are guided walks available so you can take yourself on a mindful explorative journey around wherever you are, but you can also find loads of hotels that have Peloton cardio equipment. Usually, the Bikes or other equipment are in a fitness center, but I've seen hotels that even have them available in-room. Even if you can only devote 10 minutes to working out, it's better than nothing and keeps you in your groove, which is why I value the Peloton app so much. I did, of course, use it to track the barre class I took in Bismarck, plus the Les Mills Body Pump and Solidcore classes I took there, too. \n            \n    \n\n    \n        The Daily Newsletter\n            Ready to do everything better?\n        \n        \n            Jordan Calhoun\n            \n            Editor in chief\n        \n        Get daily tips, tricks, and tech guides from Jordan and the team.\n    \n    \n        The Daily Newsletter\n            Ready to do everything better? Get daily tips, tricks, and tech guides from Jordan and the team.\n        \n    \n\n    \n            \n                \n                        Keep Scrolling for Next Article\n                    \n                \n            \n        ",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "The Two Best Apps to Keep Up With Your Fitness Routine While Traveling",
-      "image": [
-        "https://lifehacker.com/imagery/articles/01K8TR21VHASV7X3ZXD210KF04/hero-image.fill.size_1200x675.png"
-      ],
-      "datePublished": "2025-10-30T14:30:00.000Z",
-      "dateModified": "2025-10-30T14:30:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Magic Leap, One of the Biggest Flops in AR, Is Back",
-    "url": "https://lifehacker.com/tech/magic-leap-ar-glasses-prototype?utm_medium=RSS",
-    "image": "https://lifehacker.com/imagery/articles/01K8RXFKWH6K44EXRJP8AE923Z/hero-image.fill.size_1200x675.png",
-    "tag": "Life",
-    "date": "2025-10-30T13:11:45.000Z",
+    "date": "2025-10-30T21:00:00.000Z",
     "description": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our missio",
     "body": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our mission is to offer reliable tech help and credible, practical, science-based life advice to help you live better.\n                \n                \n                    \n                        Our Mission\n                        Our Team\n                        Newsletter\n                    \n                \n            \n        \n                © 2001-2025 Ziff Davis, LLC., A ZIFF DAVIS COMPANY. ALL RIGHTS RESERVED.\n                Lifehacker is a federally registered trademark of Ziff Davis and may not be used by third parties without explicit permission. The display of third-party trademarks and trade names on this site does not necessarily indicate\n                    any affiliation or the\n                    endorsement of Lifehacker. If you click an affiliate link and buy a product or service, we may be paid a fee by that merchant.\n            \n    ",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Magic Leap, One of the Biggest Flops in AR, Is Back",
+      "headline": "Meta Is Adding More AI Slop to Your Feeds",
       "image": [
-        "https://lifehacker.com/imagery/articles/01K8RXFKWH6K44EXRJP8AE923Z/hero-image.fill.size_1200x675.png"
+        "https://lifehacker.com/imagery/articles/01K8VB4C6B1WMJTRGCP97HV69G/hero-image.fill.size_1200x675.jpg"
       ],
-      "datePublished": "2025-10-30T13:11:45.000Z",
-      "dateModified": "2025-10-30T13:11:45.000Z",
+      "datePublished": "2025-10-30T21:00:00.000Z",
+      "dateModified": "2025-10-30T21:00:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -325,22 +200,22 @@
     }
   },
   {
-    "title": "The Samsung Galaxy Tab S10 FE Is Over $150 Off Right Now",
-    "url": "https://lifehacker.com/tech/samsung-galaxy-tab-s10-fe-sale?utm_medium=RSS",
-    "image": "https://lifehacker.com/imagery/articles/01K8AQH74SGV207J8WK25591H0/hero-image.fill.size_1200x675.png",
+    "title": "You Can Now Pay to Generate More Sora AI Videos, and I'm Concerned",
+    "url": "https://lifehacker.com/tech/you-can-now-pay-to-generate-more-sora-ai-videos?utm_medium=RSS",
+    "image": "https://lifehacker.com/imagery/articles/01K8XB25H1WFASHB4B92CGG14G/hero-image.fill.size_1200x675.jpg",
     "tag": "Life",
-    "date": "2025-10-24T13:00:00.000Z",
+    "date": "2025-10-31T16:00:00.000Z",
     "description": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our missio",
     "body": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our mission is to offer reliable tech help and credible, practical, science-based life advice to help you live better.\n                \n                \n                    \n                        Our Mission\n                        Our Team\n                        Newsletter\n                    \n                \n            \n        \n                © 2001-2025 Ziff Davis, LLC., A ZIFF DAVIS COMPANY. ALL RIGHTS RESERVED.\n                Lifehacker is a federally registered trademark of Ziff Davis and may not be used by third parties without explicit permission. The display of third-party trademarks and trade names on this site does not necessarily indicate\n                    any affiliation or the\n                    endorsement of Lifehacker. If you click an affiliate link and buy a product or service, we may be paid a fee by that merchant.\n            \n    ",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "The Samsung Galaxy Tab S10 FE Is Over $150 Off Right Now",
+      "headline": "You Can Now Pay to Generate More Sora AI Videos, and I'm Concerned",
       "image": [
-        "https://lifehacker.com/imagery/articles/01K8AQH74SGV207J8WK25591H0/hero-image.fill.size_1200x675.png"
+        "https://lifehacker.com/imagery/articles/01K8XB25H1WFASHB4B92CGG14G/hero-image.fill.size_1200x675.jpg"
       ],
-      "datePublished": "2025-10-24T13:00:00.000Z",
-      "dateModified": "2025-10-24T13:00:00.000Z",
+      "datePublished": "2025-10-31T16:00:00.000Z",
+      "dateModified": "2025-10-31T16:00:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -350,22 +225,147 @@
     }
   },
   {
-    "title": "Why a Chest Strap Is the Best Way to Track Your Heart Rate During Exercise",
-    "url": "https://lifehacker.com/why-a-chest-strap-in-the-best-way-to-track-heart-rate-while-exercising?utm_medium=RSS",
-    "image": "https://lifehacker.com/imagery/articles/01HF2GV3VHAY4H9Z5R152N8P8X/hero-image.fill.size_1200x675.jpg",
+    "title": "Character.ai Will Soon Start Banning Kids From Using Its Chatbots",
+    "url": "https://lifehacker.com/tech/characterai-banning-kids-from-chatbots?utm_medium=RSS",
+    "image": "https://lifehacker.com/imagery/articles/01K8VHE84C64KDM1SC082PWSN2/hero-image.fill.size_1200x675.jpg",
     "tag": "Life",
-    "date": "2025-10-24T18:30:00.000Z",
+    "date": "2025-10-31T12:30:00.000Z",
+    "description": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our missio",
+    "body": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our mission is to offer reliable tech help and credible, practical, science-based life advice to help you live better.\n                \n                \n                    \n                        Our Mission\n                        Our Team\n                        Newsletter\n                    \n                \n            \n        \n                © 2001-2025 Ziff Davis, LLC., A ZIFF DAVIS COMPANY. ALL RIGHTS RESERVED.\n                Lifehacker is a federally registered trademark of Ziff Davis and may not be used by third parties without explicit permission. The display of third-party trademarks and trade names on this site does not necessarily indicate\n                    any affiliation or the\n                    endorsement of Lifehacker. If you click an affiliate link and buy a product or service, we may be paid a fee by that merchant.\n            \n    ",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Character.ai Will Soon Start Banning Kids From Using Its Chatbots",
+      "image": [
+        "https://lifehacker.com/imagery/articles/01K8VHE84C64KDM1SC082PWSN2/hero-image.fill.size_1200x675.jpg"
+      ],
+      "datePublished": "2025-10-31T12:30:00.000Z",
+      "dateModified": "2025-10-31T12:30:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The Best iPad for Most People Is on Sale for Its Lowest Price Ever",
+    "url": "https://lifehacker.com/tech/10th-generation-ipad-sale?utm_medium=RSS",
+    "image": "https://lifehacker.com/imagery/articles/01HHCW2Z6JNJK4TT27HS3X8KNB/hero-image.fill.size_1200x675.png",
+    "tag": "Life",
+    "date": "2025-10-29T17:30:00.000Z",
+    "description": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our missio",
+    "body": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our mission is to offer reliable tech help and credible, practical, science-based life advice to help you live better.\n                \n                \n                    \n                        Our Mission\n                        Our Team\n                        Newsletter\n                    \n                \n            \n        \n                © 2001-2025 Ziff Davis, LLC., A ZIFF DAVIS COMPANY. ALL RIGHTS RESERVED.\n                Lifehacker is a federally registered trademark of Ziff Davis and may not be used by third parties without explicit permission. The display of third-party trademarks and trade names on this site does not necessarily indicate\n                    any affiliation or the\n                    endorsement of Lifehacker. If you click an affiliate link and buy a product or service, we may be paid a fee by that merchant.\n            \n    ",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "The Best iPad for Most People Is on Sale for Its Lowest Price Ever",
+      "image": [
+        "https://lifehacker.com/imagery/articles/01HHCW2Z6JNJK4TT27HS3X8KNB/hero-image.fill.size_1200x675.png"
+      ],
+      "datePublished": "2025-10-29T17:30:00.000Z",
+      "dateModified": "2025-10-29T17:30:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "YouTube Has a New Look on Mobile",
+    "url": "https://lifehacker.com/tech/youtube-has-a-new-look-on-mobile?utm_medium=RSS",
+    "image": "https://lifehacker.com/imagery/articles/01K8BHERH2G90G7G5XZK8Z480G/hero-image.fill.size_1200x675.png",
+    "tag": "Life",
+    "date": "2025-10-24T19:30:05.000Z",
     "description": "\n    \n        \n            \n                \n            \n                \n                    \n                        \n                            \n",
-    "body": "\n    \n        \n            \n                \n            \n                \n                    \n                        \n                            \n                            \n                            View our Bluesky Page (Opens in a new tab)\n                        \n                    \n                    \n                        \n                            \n                            \n                            View our Instagram Page (Opens in a new tab)\n                        \n                    \n                    \n                        \n                            \n                            \n                            View on Facebook Page (Opens in a new tab)\n                        \n                    \n                    \n                        \n                            \n                            \n                            View our Youtube Page (Opens in a new tab)\n                        \n                    \n                    \n                        \n                            \n                            \n                            View our Twitter Page (Opens in a new tab)\n                        \n                    \n                \n                \n                    \n                    \n                \n                \n        \n            \n                Latest\n                Tech\n                Best Picks\n                Entertainment\n                Health\n                Reviews\n                Home & Garden\n                Deals\n                Comparisons\n                Hacks\n                                    # The Difference Between the Dark Web and Deep Web\n            \n    \n            \n            \n        \n    \n        \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                Copied\n            \n        \n    \n            Chest straps are the most accurate, and can be used with or without a smartwatch.\n    \n        \n    \n                                        \n        \n        \n        October 24, 2025\n                    \n    We may earn a commission from links on this page.\n    \n            Credit: wavebreakmedia - Shutterstock\n                            \n    Table of Contents\n    \n        \n        Pretty much every fitness tracker and smartwatch has an optical heart rate sensor, but they're not always perfectly accurate. Not only can you get better accuracy by wearing a chest strap heart rate monitor, you can even use a chest strap without a fitness watch—just connect it to your phone. Chest straps don't break the bank, either; my favorite is around 30 bucks.\nWhy chest straps are more accurate than watchesChest straps come in two varieties: electrical and optical. When I say a chest strap is more accurate than a watch, I'm talking about the electrical kind. These use electrodes that contact your skin, and sometimes you may need to wait until you've worked up a bit of a sweat before they get a good connection (although I haven't found that to be an issue in my workouts). That makes them far more accurate than optical sensors, which are the type you'll see on the back of a smartwatch. Optical sensors are also on armbands like the Polar Verity Sense, and on some chest straps. Most chest straps are the electrical type, including the Polar H10, the Wahoo TRACKR, and the Coospo I mentioned above. You can tell an electrical sensor because it has metal connectors or contact points instead of a green light.\n        \n            You May Also Like\n        \n    \nThe optical sensors in watches use a green light, and they pick up your heart rate by detecting the light that bounces off your blood vessels as the blood pulses through. Relying on light means that they don't always work as well through tattoos and may struggle with accuracy on darker skin tones. They can also be confused by outside light, which is why they aren't as accurate if your watch is worn loosely or is too large to get a good fit. Runners sometimes experience \"cadence lock,\" where the cadence of their footsteps (170 steps per minute, let's say) causes the watch to think your heart is beating at exactly that rhythm. If your app reports a heart rate that is the same as your cadence, there's a good chance it wasn't measuring your heart rate at all. You can sidestep all of those issues by wearing a chest strap. As I've found in my device reviews, even the most accurate watches won't always record your heart rate perfectly 100% of the time. If you care a lot about your heart rate in training, just get the chest strap.Why the Coospo is my favoriteI've been wearing a cheap Coospo heart rate monitor for years. I didn't borrow it for a review, I just bought one because I wanted a cheap and easy way to track my heart rate without a watch. (I was doing a lot of kettlebell workouts, and the kettlebell rests gently on your wrist during overhead exercises, where a watch would be in the way. I've kept using it since then. It's been happily paired with an iPhone, a Peloton, an Apple Watch, a series of Garmins, and probably a bunch of others I've forgotten about. When I write the \"accuracy\" section in my fitness watch comparisons and reviews, I use the Coospo (either paired to my phone or to a third watch) to get a gold-standard heart rate graph to see how the tested devices stack up. \n            \n                What do you think so far?\n            \n        \nThe Coospo heart rate monitor I have is a slightly older version of the one linked above (since I've had it so long). It uses Bluetooth and also supports ANT+, and it gets its power from a coin cell battery that I have to change out roughly once a year. It doesn't have any on-device storage space, which I don't need, because it beams the data directly to the connected watch or phone. It's comfortable and easy to adjust. The device pops off so I can wash the strap. And even though there are more expensive straps out there (like the $100 Polar H10, which I've heard is great), I cannot think of a single chest strap feature I could possibly care about that I don't already have. How to use a chest strap without a watchOn my iPhone, I found the simplest way was to download the Polar Beat app (free on iOS and Android), which pairs with my strap over Bluetooth. If you’re going for a run or a bike ride while carrying your phone, it can also use your phone’s GPS to track your pace and record where you went on a map. I tend to use mine for indoor cycling, though, and for kettlebell workouts (which I log as “other indoor”). Using a strap without a watch is especially handy with kettlebells, since the bell otherwise knocks into the watch in certain positions. But if you have a fitness watch and you like using it, most models will allow you to pair the watch with a chest strap directly. That way you can get the most accurate readings, and be able to check the numbers from your wrist.\n            \n    \n\n    \n        The Daily Newsletter\n            Ready to do everything better?\n        \n        \n            Jordan Calhoun\n            \n            Editor in chief\n        \n        Get daily tips, tricks, and tech guides from Jordan and the team.\n    \n    \n        The Daily Newsletter\n            Ready to do everything better? Get daily tips, tricks, and tech guides from Jordan and the team.\n        \n    \n\n    \n            \n                \n                        Keep Scrolling for Next Article\n                    \n                \n            \n        \n    ",
+    "body": "\n    \n        \n            \n                \n            \n                \n                    \n                        \n                            \n                            \n                            View our Bluesky Page (Opens in a new tab)\n                        \n                    \n                    \n                        \n                            \n                            \n                            View our Instagram Page (Opens in a new tab)\n                        \n                    \n                    \n                        \n                            \n                            \n                            View on Facebook Page (Opens in a new tab)\n                        \n                    \n                    \n                        \n                            \n                            \n                            View our Youtube Page (Opens in a new tab)\n                        \n                    \n                    \n                        \n                            \n                            \n                            View our Twitter Page (Opens in a new tab)\n                        \n                    \n                \n                \n                    \n                    \n                \n                \n        \n            \n                Latest\n                Tech\n                Best Picks\n                Entertainment\n                Health\n                Reviews\n                Home & Garden\n                Deals\n                Comparisons\n                Hacks\n                                    # The Difference Between the Dark Web and Deep Web\n            \n    \n            \n            \n        \n    \n        \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                Copied\n            \n        \n    \n            And there's not a lot you can do about it.\n    \n        \n    \n                                        \n        \n        \n        October 24, 2025\n                    \n            Credit: Michelle Ehrhardt\n                            \n            \n                Key Takeaways\n                                            YouTube has a new UI on mobile.\n                                            Buttons are bigger and chunkier, and there are some new animations.\n                                            There are extensions for desktop to reverse some of these changes, but not much you can do on mobile.\n                                    \n            \n    Table of Contents\n    \n        \n        Last week, YouTube started rolling out a new look across both the web and its various apps, promising a \"more expressive and intuitive interface.\" In reality, the reaction has been mixed. The TV app, for instance, no longer automatically rewinds or fast forwards when you press back or forward, instead navigating between buttons including \"like\" or \"subscribe.\" More than once while on TV, I've accidentally subscribed to a channel without meaning to, before realizing that I now need to press up first to get to the progress bar.Now, the changes have reached the YouTube mobile app, as first spotted by 9to5Google. While they're a bit more mild than you'll see on TV, there's still a few changes to get used to.Bigger, chunkier icons\n    \n            \n            \n                                        Credit: Michelle Ehrhardt\n                    \n    \nBy far, the most noticeable new change is YouTube's new suite of icons, which all look like they've been hit with a \"Ctrl + B.\" Compared to the old look, the play, fast forward, and other buttons all look larger and bolder, with the idea being to make them more prominent.\n        \n            You May Also Like\n        \n    \nSome of the buttons have also been consolidated. When watching a video in landscape, buttons that don't affect playback (like, dislike, comment, etc.) all now appear together in a pill in the bottom-left corner, rather than as separate elements.New animationsNew buttons aren't the only change YouTube has in store for you. Seeking videos also has a new animation now, and on some videos, liking now comes with a bit of extra personality.\n    \n            \n            \n                                        Credit: Michelle Ehrhardt\n                    \n    \nThe first is a pretty minor change. Now, when you double tap the screen to either go forward or back 10 seconds, the video will just automatically jump to the new spot and display a big \"-10\" or \"+10,\" rather than showing a quick animation of three arrows disappearing into each other with a smaller \"-10 seconds\" or \"+10 seconds\" below them.\n    \n            \n            \n                                        Credit: Michelle Ehrhardt\n                    \n    \nThe second is a bit cuter. On certain videos, tapping the \"like\" button will now play a custom animation, rather than simply putting some sparkles around a thumbs up. For instance, on a music video, you'll now briefly see a musical note replacing the thumbs up.Pausing no longer darkens your backgroundIt used to be that pausing a video would darken the background until you unpaused it, kind of like lights being lowered on a stage. That's no longer the case. While you'll still see the lights go slightly down while you have controls open, a paused video will now display as normal if you tap again to dismiss the controls. It's a small tweak, but could prove useful for taking screenshots. At the same time, though, I do worry that it might make it easy to think a video has frozen, if you're not paying attention.Nested comments and easier bookmarksFinally, Google has removed a few steps to saving and commenting on videos. Now, hitting the bookmark icon to save a video to a playlist has fewer steps, no longer requiring you to navigate multiple pages. Instead, it'll just pause the video and open a list of your playlists for you, where you can quickly tap the playlist you want to save your video to.\n    \n            \n            \n                                        Credit: Michelle Ehrhardt\n                    \n    \nAdditionally, comments are threaded now, easily showing who is replying to which comment. It's a great way to keep track of the flow of the conversation, although it does make each comment take up a bit of extra space.Can you get rid of the new YouTube UI?Ultimately, I'm a little torn on the new YouTube app. Certain new features, like threaded comments, just make sense to me. But the chunkier buttons do feel like they get in the way a bit to me, and I can't help but think of Fisher-Price when I see them.Unfortunately, there's not a lot you can do if you don't like the new YouTube mobile interface. It's still rolling out, so it's possible you might not see every change yet. But because it's server-side, once it hits you, that's it. Even the web player is getting these changes, so leaving the app behind isn't a viable option.That said, if you're on desktop, users on both Reddit and YouTube itself are putting together extension lists that you can mix and match to customize your experience. Technically, there are browsers for mobile that will allow you to play with these as well, with Firefox being the big one these days. However, I found that most of the suggested extensions no longer worked for me or weren't available for mobile. In that case, if you're sick of how YouTube looks now, you might want to consider an alternate player app instead, like Play. It still relies on embedded videos, so it won't save you from every change, but its overall minimalist style could offer welcome relief from YouTube's increasingly busy design language.\n            \n    \n\n    \n        The Download Newsletter\n            Never miss a tech story\n        \n        \n            Jake Peterson\n            \n            Senior tech editor\n        \n        Get the latest tech news, reviews, and advice from Jake and the team.\n    \n    \n        The Download Newsletter\n            Never miss a tech story. Get the latest tech news, reviews, and advice from Jake and the team.\n        \n    \n\n    \n            \n                \n                        Keep Scrolling for Next Article\n                    \n                \n            \n        \n    ",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Why a Chest Strap Is the Best Way to Track Your Heart Rate During Exercise",
+      "headline": "YouTube Has a New Look on Mobile",
       "image": [
-        "https://lifehacker.com/imagery/articles/01HF2GV3VHAY4H9Z5R152N8P8X/hero-image.fill.size_1200x675.jpg"
+        "https://lifehacker.com/imagery/articles/01K8BHERH2G90G7G5XZK8Z480G/hero-image.fill.size_1200x675.png"
       ],
-      "datePublished": "2025-10-24T18:30:00.000Z",
-      "dateModified": "2025-10-24T18:30:00.000Z",
+      "datePublished": "2025-10-24T19:30:05.000Z",
+      "dateModified": "2025-10-24T19:30:05.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "This BIC EZ LOAD Lighter Is the Secret to a Safe, Scary Glow",
+    "url": "https://lifehacker.com/ad/home/this-bic-lighter-wand-is-the-secret-to-a-safe-scary-glow?utm_medium=RSS",
+    "image": "https://lifehacker.com/imagery/articles/01K86K2KJKDZ39ZNXY6V5BTE7R/hero-image.fill.size_1200x675.png",
+    "tag": "Life",
+    "date": "2025-10-29T15:21:36.000Z",
+    "description": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our missio",
+    "body": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our mission is to offer reliable tech help and credible, practical, science-based life advice to help you live better.\n                \n                \n                    \n                        Our Mission\n                        Our Team\n                        Newsletter\n                    \n                \n            \n        \n                © 2001-2025 Ziff Davis, LLC., A ZIFF DAVIS COMPANY. ALL RIGHTS RESERVED.\n                Lifehacker is a federally registered trademark of Ziff Davis and may not be used by third parties without explicit permission. The display of third-party trademarks and trade names on this site does not necessarily indicate\n                    any affiliation or the\n                    endorsement of Lifehacker. If you click an affiliate link and buy a product or service, we may be paid a fee by that merchant.\n            \n    ",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "This BIC EZ LOAD Lighter Is the Secret to a Safe, Scary Glow",
+      "image": [
+        "https://lifehacker.com/imagery/articles/01K86K2KJKDZ39ZNXY6V5BTE7R/hero-image.fill.size_1200x675.png"
+      ],
+      "datePublished": "2025-10-29T15:21:36.000Z",
+      "dateModified": "2025-10-29T15:21:36.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Get Into 'Deep Work' to Be More Productive",
+    "url": "https://lifehacker.com/deep-work-productivity-method?utm_medium=RSS",
+    "image": "https://lifehacker.com/imagery/articles/01HF2GM6F0JYQ7812HM1GBYXHX/hero-image.fill.size_1200x675.jpg",
+    "tag": "Life",
+    "date": "2025-10-29T12:30:00.000Z",
+    "description": "\n    \n        \n            \n                \n            \n                \n                    \n                        \n                            \n",
+    "body": "\n    \n        \n            \n                \n            \n                \n                    \n                        \n                            \n                            \n                            View our Bluesky Page (Opens in a new tab)\n                        \n                    \n                    \n                        \n                            \n                            \n                            View our Instagram Page (Opens in a new tab)\n                        \n                    \n                    \n                        \n                            \n                            \n                            View on Facebook Page (Opens in a new tab)\n                        \n                    \n                    \n                        \n                            \n                            \n                            View our Youtube Page (Opens in a new tab)\n                        \n                    \n                    \n                        \n                            \n                            \n                            View our Twitter Page (Opens in a new tab)\n                        \n                    \n                \n                \n                    \n                    \n                \n                \n        \n            \n                Latest\n                Tech\n                Best Picks\n                Entertainment\n                Health\n                Reviews\n                Home & Garden\n                Deals\n                Comparisons\n                Hacks\n                                    # The Difference Between the Dark Web and Deep Web\n            \n    \n            \n            \n        \n    \n        \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                Copied\n            \n        \n    \n            If you get into the zone on distraction-free work, you can even be more fulfilled.\n    \n        \n    \n                                        \n        \n        \n        October 29, 2025\n    \n    We may earn a commission from links on this page.\n    \n            Credit: Stock-Asso - Shutterstock\n                            \n    Table of Contents\n    \n        \n        Deep work is a concept most popularly defined by Cal Newport, who wrote the aptly titled Deep Work: Rules for Focused Success in a Distracted World. As he tells it, deep work is a state where you find the ability to focus completely on a demanding task without letting distraction get in your way. If you can get the hang of it, you’ll get more done in less time and ultimately end up feeling more fulfilled. On his website, Newport observes that it’s rare to see someone feel energized and happy after sending emails, but there’s a sense of fulfillment that comes from sustained focus on more meaningful tasks.How do you achieve deep work?Newport draws a distinction between deep work and “shallow work,” or that which can be accomplished while you’re distracted. Deep work is for “cognitively demanding” tasks, whereas shallow work prepares you for deep work. Creating a project deck is deep work. Emailing colleagues to coordinate data for it is shallow work. \n        \n            You May Also Like\n        \n    \nIf you’re having a hard time determining what is and is not deep work, Newport has some guidelines. Shallow work tends “to not create new value in the world” and is “easy to replicate.”The key, then, is first sorting your work into deep and shallow categories. Determine which of your tasks are cognitively demanding and valuable and which are “logistical-style” and replicable. Next, plan to devote an hour or an hour and a half to deep-work tasks, then schedule it so you have that time blocked off in your schedule. (As for blocking off your scheduling, familiarize yourself with time boxing and time blocking, which call on you to schedule every minute of your day and input it, moment by moment, into a detailed calendar, all in the name of staying focused.)Finally, when the time comes to get into deep work, eliminate all your distractions. Signal that you’re busy, make sure you’re unavailable in Slack and on the shared calendar, and put your phone on “do not disturb.” Don’t check emails, don’t talk to anyone, don’t look at your devices for anything but work, and commit to only working on your demanding task in the time you allotted for it.The most important element is doing this mindfully and going into your deep work sessions aware that your goal is to accomplish something demanding with no distractions. Emails, notifications, chitchat, and other worries and interruptions are commonplace and pull you away from the task at hand, so purposely cutting them off to get something done will be difficult, but it can turn into a habit, especially once it starts yielding the dual result of accomplishment and fulfillment.\n            \n                What do you think so far?\n            \n        \nThe deep work hackAll of that sounds great in theory, but when you find yourself staring down the hour-and-a-half block you scheduled out, you may not know what to do or where to start. This is where you need the Pomodoro method, a famous productivity technique that asks you to work, uninterrupted, for 25 minutes, take a five-minute break, and repeat the cycle about four times before getting a larger break. You can modify those time blocks a bit to suit your needs, but 25 on and five off are the standard. When you use this approach, deep work starts to come naturally in those working blocks because you know you're getting a reprieve at the end. Deep work is described as a period when work seems to flow smoothly and you barely notice time going by, so 25 minutes may not be quite enough for you (depending on the task at hand), but you can figure it out as you get started incorporating these methods. The most important thing is to be distraction-free. The second most important thing is to remember that breaks are actually a key part of staying productive, so don't skip them altogether. The easiest way to make use of this time-tested technique is, of course, by app. My favorite is FocusPomo, which blocks all your distracting apps while you use it and generates cute, unobtrusive cartoon tomatoes to reward you for finishing work blocks. \n            \n    \n\n    \n        The Daily Newsletter\n            Ready to do everything better?\n        \n        \n            Jordan Calhoun\n            \n            Editor in chief\n        \n        Get daily tips, tricks, and tech guides from Jordan and the team.\n    \n    \n        The Daily Newsletter\n            Ready to do everything better? Get daily tips, tricks, and tech guides from Jordan and the team.\n        \n    \n\n    \n            \n                \n                        Keep Scrolling for Next Article\n                    \n                \n            \n        \n    ",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Get Into 'Deep Work' to Be More Productive",
+      "image": [
+        "https://lifehacker.com/imagery/articles/01HF2GM6F0JYQ7812HM1GBYXHX/hero-image.fill.size_1200x675.jpg"
+      ],
+      "datePublished": "2025-10-29T12:30:00.000Z",
+      "dateModified": "2025-10-29T12:30:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Here's Why I Won't Install ChatGPT Atlas on My Mac",
+    "url": "https://lifehacker.com/tech/what-to-know-about-openais-new-chatgpt-web-browser?utm_medium=RSS",
+    "image": "https://lifehacker.com/imagery/articles/01K86PZ6Z797NMX3THWRPX0VAK/hero-image.fill.size_1200x675.jpg",
+    "tag": "Life",
+    "date": "2025-10-27T20:30:00.000Z",
+    "description": "\n    \n        \n            \n                \n            \n                \n                    \n                        \n                            \n",
+    "body": "\n    \n        \n            \n                \n            \n                \n                    \n                        \n                            \n                            \n                            View our Bluesky Page (Opens in a new tab)\n                        \n                    \n                    \n                        \n                            \n                            \n                            View our Instagram Page (Opens in a new tab)\n                        \n                    \n                    \n                        \n                            \n                            \n                            View on Facebook Page (Opens in a new tab)\n                        \n                    \n                    \n                        \n                            \n                            \n                            View our Youtube Page (Opens in a new tab)\n                        \n                    \n                    \n                        \n                            \n                            \n                            View our Twitter Page (Opens in a new tab)\n                        \n                    \n                \n                \n                    \n                    \n                \n                \n        \n            \n                Latest\n                Tech\n                Best Picks\n                Entertainment\n                Health\n                Reviews\n                Home & Garden\n                Deals\n                Comparisons\n                Hacks\n                                    # The Difference Between the Dark Web and Deep Web\n            \n    \n            \n            \n        \n    \n        \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                Copied\n            \n        \n    \n            \"ChatGPT Atlas\" is officially here. But should you use it?\n    \n        \n    \n                                        \n        \n        \n        October 27, 2025\n    \n            Credit: OpenAI\n                            \n            \n                Key Takeaways\n                                            ChatGPT Atlas, OpenAI's web browser, is officially here.\n                                            The browser comes with ChatGPT integration, including memory, assistance, and agent mode.\n                                            Agent mode can perform tasks on your behalf, but that poses risks to your security and privacy.\n                                    \n            \n    Table of Contents\n    \n        \n        OpenAI has officially entered the browser wars. Last week, the company announced ChatGPT Atlas, a new web browser with ChatGPT integration. At the moment, it's Mac-only, but I wouldn't recommend even my Apple friends jumping on board immediately—at least not without understanding the underlying risks. Atlas' AI web browsing\nIf you've already used other AI browsers, like Perplexity's Comet, Atlas is going to feel familiar. In fact, that's also likely true if you've used any web browser before: Atlas is built on Chromium, the engine that powers browsers like Google Chrome, Microsoft Edge, and Opera. That means the core mechanics of Atlas are fairly standard; there's nothing particularly revolutionary happening here when it comes to sorting tabs or the browsing experience itself. The same is true when it comes to some ChatGPT interactions. As with other AI browsers, ChatGPT is assigned to the sidebar of the browser window. You can call it up by clicking on the \"Ask ChatGPT\" button, where you can ask it questions about the content you're currently browsing. You can also ask ChatGPT for writing assistance any time you enter an open text field in the browser. \n        \n            You May Also Like\n        \n    \nLike Comet, Atlas has an agent mode, but the latter's is built off the existing ChatGPT agent. The idea is that you can task Atlas with performing functions on your behalf. So, rather than pulling up DoorDash's website and ordering yourself dinner, you could ask Atlas to order dinner for you. You can even watch Atlas get to work, and see its thinking behind each decision. OpenAI has other ideas for how to use Atlas' agent mode, including giving the browser a recipe to shop for, or asking the bot to run through team documents at work to generate a brief. Deeper ChatGPT integration is what might set Atlas apart from the competition. If you're a regular ChatGPT user, you'll probably appreciate it having that contextual awareness of your past conversations—if you've already asked ChatGPT about a topic, and you're currently researching it in a browser window, you can pick up the conversation and assume ChatGPT will remember what you've already talked about.        \n    \n            \n            \n                                        Credit: OpenAi\n                    \n    \nSimilarly, Atlas will track your browsing and activity history and call upon it in future sessions. Perhaps you'll open your browser to find personalized suggestions on which sites and topics to explore next. Does that sound creepy? Absolutely. But if you're someone who doesn't mind the privacy trade-off, there could be some benefits there. In OpenAI's announcement, it suggested asking Atlas to pull up all the job postings you looked at last week, and produce a summary of industry trends to use in interview prep. If you find that these memories are a bit too much for you, you can disable them from the browser settings. (OpenAI says deleting your browsing history also deletes associated browser memories, and the browser's incognito window logs you out of ChatGPT.)The company includes a setting called \"ChatGPT page visibility,\" which lets you control whether ChatGPT can actually see the webpage you're visiting. If you choose \"Not Allowed,\" you can block the bot from seeing what you're doing, which is good. But then again, doing that defeats the purpose of Atlas a bit. If you don't want ChatGPT seeing what you're doing, you might as well use a browser that doesn't have ChatGPT built right into it. (The company does promise it won't train ChatGPT on your browsing data unless you opt into it, but why would you do that?)Is Atlas safe to use?\n    \n            \n            \n                                        Credit: OpenAI\n                    \n    \nI'm of the opinion that if the safety of a browser is in question, it's best not to bother with. That's the case with Atlas, as well as other AI browsers, which is why I'm making it a bit of a personal rule from here on out to not download or use them on my personal computers.\n            \n                What do you think so far?\n            \n        \nThe main issue with browsers that incorporate AI agents is that they are susceptible to indirect prompt injection attacks. Brave has done a lot of research on this subject, particularly with Comet. In short, bad actors can potentially hide malicious instructions on websites that the AI agents see as no different from a typical user request. Because the browser is designed to act on your behalf, these malicious instructions can command the AI to do things you definitely don't want it to do. You might ask Atlas to summarize a webpage, but because a bad actor hid a command to do something involving your email, bank account, or corporate intranet on the site, it does that instead. To OpenAI's credit, the company has compiled a list of safeguards to mitigate risks with Atlas. Atlas cannot run code directly in the browser, nor can it download files or install extensions. The browser has no way to access other apps on your Mac, nor its file system. If agent mode needs to access sensitive sites, like your bank, it'll pause to make sure \"you're watching.\" To that point, you can use Atlas' agent in logged out mode, which limits its ability to access sensitive data or take actions \"as you\" on websites. But even OpenAI admits that after thousands of hours of testing, their safeguards \"will not stop every attack that emerges as AI agents grow in popularity.\" The company says it'll patch new vulnerabilities as it finds them, but if bad actors find them first, they might trick these AI agents into doing some terrible things.That assertion has already been proven right. Within Atlas' first few days available to the public, one researcher discovered the browser is susceptible to clipboard injection attacks, in which bad actors can lace elements of their website with code that would add malicious links to your clipboard when clicked. Since Atlas can act on your behalf, you might not even realize if it clicks on such a button, and, as such, you may accidentally paste the malicious link into your browser yourself. To me, the risks currently far outweigh the benefits. I don't yet see much reason to have a bot in my browser do things on my behalf, but even if I did, I wouldn't use it just yet. The risk that someone injects a website with a malicious command and derails my AI agent—and my digital life—is too great, especially when I can book those flights or order that delivery on my own without issue.\n            \n    \n\n    \n        The Download Newsletter\n            Never miss a tech story\n        \n        \n            Jake Peterson\n            \n            Senior tech editor\n        \n        Get the latest tech news, reviews, and advice from Jake and the team.\n    \n    \n        The Download Newsletter\n            Never miss a tech story. Get the latest tech news, reviews, and advice from Jake and the team.\n        \n    \n\n    \n            \n                \n                        Keep Scrolling for Next Article\n                    \n                \n            \n        \n    ",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Here's Why I Won't Install ChatGPT Atlas on My Mac",
+      "image": [
+        "https://lifehacker.com/imagery/articles/01K86PZ6Z797NMX3THWRPX0VAK/hero-image.fill.size_1200x675.jpg"
+      ],
+      "datePublished": "2025-10-27T20:30:00.000Z",
+      "dateModified": "2025-10-27T20:30:00.000Z",
       "author": [
         {
           "@type": "Person",
