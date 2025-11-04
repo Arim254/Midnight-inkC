@@ -1,30 +1,5 @@
 [
   {
-    "title": "Apple’s App Store gets a new web interface",
-    "url": "https://techcrunch.com/2025/11/03/apples-app-store-gets-a-new-web-interface/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/01/app-store-2024-v1.jpg?w=150",
-    "tag": "Tech",
-    "date": "2025-11-03T21:51:48.000Z",
-    "description": "\nIn Brief\nPosted:\n1:51 PM PST · November 3, 2025\n\nImage Credits:Bryce Durbin / TechCrunch\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nApple has redesig",
-    "body": "\nIn Brief\nPosted:\n1:51 PM PST · November 3, 2025\n\nImage Credits:Bryce Durbin / TechCrunch\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nApple has redesigned the web interface for its App Store, making it actually usable for people who aren’t viewing the store on Apple devices.\nBefore this update, users could see individual pages for apps on the web — which they probably found via a search engine — but there was no way to browse within the App Store. On a MacBook, navigating to an app’s iOS store page in the browser would prompt the native App Store software to launch. But on non-Apple hardware, this would lead you to a dead end.\nThe new interface allows users to browse apps by category and by platform — there are separate sections for apps on the iPhone, iPad, Watch, and other devices. While users cannot currently download apps from the web, this functionality could possibly be added in later.\nAdmittedly, the subset of people who are trying to learn more about iOS apps from a Microsoft device, for example, is likely a small one — perhaps this would be useful to app developers or researchers working on products in both the iOS and Google ecosystems.\nThis redesign also signifies Apple’s continued push to portray itself as a more open ecosystem. For years, governments around the world have lodged complaints against Apple, accusing the company of acting as a monopoly to discourage competition — any step Apple takes to make its products more accessible beyond its own ecosystem is relevant to those ongoing legal battles.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\nLatest in Apps\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Apple’s App Store gets a new web interface",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/01/app-store-2024-v1.jpg?w=150"
-      ],
-      "datePublished": "2025-11-03T21:51:48.000Z",
-      "dateModified": "2025-11-03T21:51:48.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Facebook Groups can now go public without exposing members’ private posts",
     "url": "https://techcrunch.com/2025/11/03/facebook-groups-can-now-go-public-without-exposing-members-private-posts/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/11/Facebook-Groups-Private-to-Public-Update_Header.webp?w=150",
@@ -75,47 +50,22 @@
     }
   },
   {
-    "title": "Microsoft inks $9.7B deal with Australia’s IREN for AI cloud capacity",
-    "url": "https://techcrunch.com/2025/11/03/microsoft-inks-9-7bil-deal-with-australias-iren-for-ai-cloud-capacity/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1883327378-e1730136121848.jpg?w=150",
+    "title": "Apple’s App Store gets a new web interface",
+    "url": "https://techcrunch.com/2025/11/03/apples-app-store-gets-a-new-web-interface/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/01/app-store-2024-v1.jpg?w=150",
     "tag": "Tech",
-    "date": "2025-11-03T14:04:19.000Z",
-    "description": "\nIn Brief\nPosted:\n6:04 AM PST · November 3, 2025\n\nImage Credits:Jakub Porzycki/NurPhoto / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nMicr",
-    "body": "\nIn Brief\nPosted:\n6:04 AM PST · November 3, 2025\n\nImage Credits:Jakub Porzycki/NurPhoto / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nMicrosoft is leaving no stone unturned in its quest to secure more compute capacity for meeting its customers’ heavy demand for AI services.\nOn Monday, the Redmond-based tech giant signed a $9.7 billion, five-year contract with Australia’s IREN to secure further AI cloud capacity. The deal will give Microsoft access to compute infrastructure built with Nvidia’s GB300 GPUs, which will be deployed over phases through 2026 at IREN’s facility in Childress, Texas, planned to support 750 megawatts of capacity.\nIREN said it is separately buying GPUs and equipment from Dell for about $5.8 billion.\nThe deal comes after Microsoft last month launched its first production cluster with Nvidia’s GB300 NVL72 systems for Azure, which, the company said, are optimized for reasoning models, agentic AI systems, and multimodal generative AI.\nLast month, Microsoft signed a deal with Nscale for approximately 200,000 Nvidia GB300 GPUs to three data centers in Europe and one in the U.S.\nSimilar to competitors like CoreWeave, IREN started off as a bitcoin-mining operation but quickly realized that its massive collection of GPUs was better put to use for AI workloads. The company has benefited massively from the shift in focus. The company’s CEO, Daniel Roberts, expects the Microsoft deal to take up only 10% of the company’s total capacity and generate about $1.94 billion in annualized revenue, Bloomberg reported.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\nLatest in AI\n",
+    "date": "2025-11-03T21:51:48.000Z",
+    "description": "\nIn Brief\nPosted:\n1:51 PM PST · November 3, 2025\n\nImage Credits:Bryce Durbin / TechCrunch\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nApple has redesig",
+    "body": "\nIn Brief\nPosted:\n1:51 PM PST · November 3, 2025\n\nImage Credits:Bryce Durbin / TechCrunch\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nApple has redesigned the web interface for its App Store, making it actually usable for people who aren’t viewing the store on Apple devices.\nBefore this update, users could see individual pages for apps on the web — which they probably found via a search engine — but there was no way to browse within the App Store. On a MacBook, navigating to an app’s iOS store page in the browser would prompt the native App Store software to launch. But on non-Apple hardware, this would lead you to a dead end.\nThe new interface allows users to browse apps by category and by platform — there are separate sections for apps on the iPhone, iPad, Watch, and other devices. While users cannot currently download apps from the web, this functionality could possibly be added in later.\nAdmittedly, the subset of people who are trying to learn more about iOS apps from a Microsoft device, for example, is likely a small one — perhaps this would be useful to app developers or researchers working on products in both the iOS and Google ecosystems.\nThis redesign also signifies Apple’s continued push to portray itself as a more open ecosystem. For years, governments around the world have lodged complaints against Apple, accusing the company of acting as a monopoly to discourage competition — any step Apple takes to make its products more accessible beyond its own ecosystem is relevant to those ongoing legal battles.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\nLatest in Apps\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Microsoft inks $9.7B deal with Australia’s IREN for AI cloud capacity",
+      "headline": "Apple’s App Store gets a new web interface",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1883327378-e1730136121848.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2024/01/app-store-2024-v1.jpg?w=150"
       ],
-      "datePublished": "2025-11-03T14:04:19.000Z",
-      "dateModified": "2025-11-03T14:04:19.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Lawmakers say stolen police logins are exposing Flock surveillance cameras to hackers",
-    "url": "https://techcrunch.com/2025/11/03/lawmakers-say-stolen-police-logins-are-exposing-flock-surveillance-cameras-to-hackers/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/11/flock-camera-sf-surveillance-2157492329.jpg?w=150",
-    "tag": "Tech",
-    "date": "2025-11-03T22:53:50.000Z",
-    "description": "\nLawmakers have called on the Federal Trade Commission to investigate Flock Safety, a company that operates license plate-scanning cameras, for allege",
-    "body": "\nLawmakers have called on the Federal Trade Commission to investigate Flock Safety, a company that operates license plate-scanning cameras, for allegedly failing to implement cybersecurity protections that expose its camera network to hackers and spies.\nIn a letter sent by Sen. Ron Wyden (D-OR) and Rep. Raja Krishnamoorthi (D-IL, 8th), the lawmakers urge FTC chairman Andrew Ferguson to probe why Flock does not enforce the use of multi-factor authentication (MFA), a security protection that prevents malicious access by someone with knowledge of the account holder’s password.\nWyden and Krishnamoorthi said that while the company offers its law enforcement customers the ability to enable MFA, “Flock does not require it, which the company confirmed to Congress in October,” according to the letter.\nWyden and Krishnamoorthi said that if hackers or foreign spies learn of a law enforcement user’s password, “they can gain access to law-enforcement-only areas of Flock’s website and search the billions of photos of Americans’ license plates collected by taxpayer-funded cameras across the country.”\nFlock operates one of the largest networks of cameras and license plate readers in the U.S., providing access to more than 5,000 police departments, as well as private businesses, across the country. Flock’s cameras scan the license plates of passing vehicles so that police and federal agencies with logins to Flock’s platform can search the billions of captured photos and track where vehicles have traveled at any given time.\nThe lawmakers said that they had found evidence that some of Flock’s law enforcement customers’ logins had been previously stolen and shared online, citing data from Hudson Rock, a cybersecurity company that identifies usernames and passwords stolen by information-stealing malware. \nIndependent security researcher Benn Jordan also provided the lawmakers with a screenshot showing a Russian cybercrime forum allegedly selling access to Flock logins.\nWhen reached by TechCrunch for comment, Flock shared the company’s response in a letter from its chief legal officer Dan Haley, in which he says the company switched on MFA by default for all new customers starting in November 2024 and that 97% of its law enforcement customers have enabled MFA to date.\nThat leaves around 3% of the company’s customers — potentially dozens of law enforcement agencies — that have declined to switch on MFA, citing “reasons specific to them,” Haley wrote. \nHolly Beilin, a spokesperson for Flock, did not immediately provide a specific number of law enforcement customers that have not yet switched on MFA, nor did she say if any federal agencies are among the remaining customers, or for what reason Flock does not require its customers to switch on the security feature.\nAs previously reported by 404 Media, the U.S. Drug Enforcement Administration used a local police officer’s password to access Flock’s cameras to search for an individual suspected of an “immigration violation,” but without the officer’s knowledge. The Palos Heights Police Department said it switched on multi-factor authentication following the breach.\n\n\n\t\tZack Whittaker is the security editor at TechCrunch. He also authors the weekly cybersecurity newsletter, this week in security. \nHe can be reached via encrypted message at zackwhittaker.1337 on Signal. You can also contact him by email, or to verify outreach, at zack.whittaker@techcrunch.com. \t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Lawmakers say stolen police logins are exposing Flock surveillance cameras to hackers",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/11/flock-camera-sf-surveillance-2157492329.jpg?w=150"
-      ],
-      "datePublished": "2025-11-03T22:53:50.000Z",
-      "dateModified": "2025-11-03T22:53:50.000Z",
+      "datePublished": "2025-11-03T21:51:48.000Z",
+      "dateModified": "2025-11-03T21:51:48.000Z",
       "author": [
         {
           "@type": "Person",
@@ -150,47 +100,22 @@
     }
   },
   {
-    "title": "Wait, people actually use Facebook Dating?",
-    "url": "https://techcrunch.com/2025/11/03/wait-people-actually-use-facebook-dating/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2101883924.jpg?w=150",
+    "title": "Waymo’s robotaxi expansion accelerates with 3 new cities",
+    "url": "https://techcrunch.com/2025/11/03/waymos-robotaxi-expansion-accelerates-with-3-new-cities/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/11/waymo-zeekr-rt.jpg?w=150",
     "tag": "Tech",
-    "date": "2025-11-04T04:05:24.000Z",
-    "description": "\nWhen we gather ’round the proverbial fire and exchange our online dating war stories, we’re usually talking about the usual suspects: Tinder, Bumble,",
-    "body": "\nWhen we gather ’round the proverbial fire and exchange our online dating war stories, we’re usually talking about the usual suspects: Tinder, Bumble, Hinge, Grindr, and sometimes more niche apps like Lex. But ever since Facebook Dating launched in 2019, I’m not sure I have ever heard a tale that began there — I know more people who met in Facebook meme groups than on the actual Facebook Dating product.\nTurns out my anecdotal data may be wrong — because people actually do use Facebook Dating! Meta shared user metrics for the first time on Monday, revealing that Facebook Dating has 21.5 million daily active users (DAUs) across 52 countries.\nFacebook Dating is a feature within Facebook, rather than a standalone app, and Facebook puts its dating product front and center in the main bottom navigation bar on the app. (Even if your relationship status is not set to single, Facebook Dating remains in its prominent spot.)\nWhat’s most surprising, though, is how Facebook Dating seems to be slowly catching on among young people. The platform counts 1.77 million users between the ages of 18-29 in the U.S., which is still not quite up to par with the “usual suspects,” but it’s getting closer. App analytics firm Sensor Tower estimated that as of this summer in the U.S., Tinder had 7.3 million active users across all age groups; Hinge had 4.4 million; Bumble had 3.6 million; and Grindr had 2.2 million.\nFacebook has publicly addressed the fact that it struggles to keep Gen Z and young millennials on the platform, yet the company said last year that daily conversations on Facebook Dating in the 18-29 demographic spiked 24%.\nFacebook Dating’s best feature is not something it actively does, but rather, it’s what Facebook Dating doesn’t do. Unlike Hinge, you don’t have to pay to “unlock” your most desirable matches or buy other premium features that supposedly bring you closer to finding “the one.”\nHinge debuted its “Standouts” feature in December 2020, which has become symbolic of everything wrong with dating apps. Hinge’s algorithm finds the people whom it thinks you will be most interested in, then places them in their own elite tab of the app. The only way to swipe right on these people is to give them a “rose,” which users get for free once a week — unless you buy more roses for $4 a pop. Even if you buy roses, your maybe-possibly future husband will know you used a precious rose on him, which is kind of embarrassing. So, like a true star-crossed-lovers situation, some users have devised increasingly complex schemes to trick the Hinge algorithm into freeing these people from “rose jail.”\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nBy comparison, Facebook Dating’s free model looks pretty good. It’s not that Mark Zuckerberg is a benevolent Silicon Valley cupid — Meta is already making bank off of you by relentlessly collecting your data, so it doesn’t need you to buy roses. But as users grow more aggrieved with their usual rotation of apps, Facebook Dating may not seem so cringe anymore.\n\n\n\t\tAmanda Silberling is a senior writer at TechCrunch covering the intersection of technology and culture. She has also written for publications like Polygon, MTV, the Kenyon Review, NPR, and Business Insider. She is the co-host of Wow If True, a podcast about internet culture, with science fiction author Isabel J. Kim. Prior to joining TechCrunch, she worked as a grassroots organizer, museum educator, and film festival coordinator. She holds a B.A. in English from the University of Pennsylvania and served as a Princeton in Asia Fellow in Laos.\nYou can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2025-11-03T19:45:55.000Z",
+    "description": "\nWaymo said Monday it will launch a robotaxi service in Detroit, Las Vegas, and San Diego as the Alphabet-owned company hits the accelerator on its ex",
+    "body": "\nWaymo said Monday it will launch a robotaxi service in Detroit, Las Vegas, and San Diego as the Alphabet-owned company hits the accelerator on its expansion plans. \nThe announcement illustrates Waymo’s recent evolution from autonomous vehicle technology developer to commercial enterprise. It also follows comments by Waymo co-CEO Tekedra Mawakana, who said last week during TechCrunch Disrupt 2025 that it is imperative the company scales.\n“By the end of 2026, you should expect us to be offering 1 million trips per week,” Mawakana said at the time. \nWaymo completed more than 250,000 rides per week as of April. The company has since added more, although it has not shared a specific number.\nWaymo tested its technology for years in Silicon Valley before launching a commercial robotaxi service in Phoenix, followed by the San Francisco Bay Area, and Los Angeles. In the past year, the company has brought its robotaxis to Atlanta and Austin in partnership with Uber. Waymo has also announced plans to expand its commercial business to several new markets in 2026, including Denver, Miami, Nashville, London, Seattle, and Washington, D.C.\nWaymo said Monday it plans to roll out a mix of self-driving Jaguar I-Pace and Zeekr RT vehicles to the three markets this week. The public won’t have access right away, however. \nWaymo’s go-to-market strategy typically begins with human drivers manually operating the vehicles to map city streets. The human safety operator is eventually removed and the autonomous vehicles, which are equipped with cameras, radar, lidar sensors, and self-driving software, navigate on their own. After a period of driverless testing, Waymo offers access to employees, media, and some consumers before eventually opening up the robotaxi service to the public.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nLas Vegas mayor Shelley Berkley said in a statement that the “introduction of Waymo and its autonomous driving technology is not a science experiment, but rather a proven, safe, new alternative designed to help our residents and the millions of visitors who come to our city get around — from the Strip and beyond.” Berkley added that the city is committed to ensuring this technology is adopted responsibly.\nWaymo is already familiar with these three cities. The company has brought its autonomous vehicles to Detroit, Las Vegas, and San Diego before. Waymo also has an engineering team based in the Detroit area. The company says it is prepared for the snowy conditions in Detroit after spending multiple seasons driving across the metro Detroit area and the Upper Peninsula to expand its winter weather capabilities.\nWaymo noted that its rapid expansion is thanks to the generalized approach of its self-driving system. That growth has helped make Waymo the dominant player in the robotaxi market. However, there are other companies also making a play for market share. \nZoox operates a free robotaxi service in Las Vegas, a city where it has tested and developed its tech for years. Tesla also has a robotaxi service, which still has humans in the passenger seat, in parts of Austin as well.   \n\n\n\n\n\n\t\tKirsten Korosec is a reporter and editor who has covered the future of transportation from EVs and autonomous vehicles to urban air mobility and in-car tech for more than a decade. She is currently the transportation editor at TechCrunch and co-host of TechCrunch’s Equity podcast. She is also co-founder and co-host of the podcast, “The Autonocast.” She previously wrote for Fortune, The Verge, Bloomberg, MIT Technology Review and CBS Interactive.\nYou can contact or verify outreach from Kirsten by emailing kirsten.korosec@techcrunch.com or via encrypted message at kkorosec.07 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Wait, people actually use Facebook Dating?",
+      "headline": "Waymo’s robotaxi expansion accelerates with 3 new cities",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2101883924.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2025/11/waymo-zeekr-rt.jpg?w=150"
       ],
-      "datePublished": "2025-11-04T04:05:24.000Z",
-      "dateModified": "2025-11-04T04:05:24.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Lambda inks multibillion-dollar AI infrastructure deal with Microsoft",
-    "url": "https://techcrunch.com/2025/11/03/lambda-inks-multi-billion-dollar-ai-infrastructure-deal-with-microsoft/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/microsoft-logo-1865237814.jpg?w=150",
-    "tag": "Tech",
-    "date": "2025-11-03T21:21:24.000Z",
-    "description": "\nCloud-computing company Lambda deepened its relationship with Microsoft through a sizable AI infrastructure deal.\nNvidia-backed Lambda announced it s",
-    "body": "\nCloud-computing company Lambda deepened its relationship with Microsoft through a sizable AI infrastructure deal.\nNvidia-backed Lambda announced it struck a multibillion-dollar deal with Microsoft on Monday to deploy tens of thousands of Nvidia GPUs, according to a press release. The exact size of the deal was not disclosed. Some of these GPUs will be Nvidia GB300 NVL72 systems, which were announced earlier this year and began shipping in the last few months.\n“It’s great to watch the Microsoft and Lambda teams working together to deploy these massive AI supercomputers,” said Stephen Balaban, CEO of Lambda, in the company’s press release. “We’ve been working with Microsoft for more than eight years, and this is a phenomenal next step in our relationship.”\nMicrosoft opened its first Nvidia GB300 NVL72 cluster in October.\nCompanies like Lambda, which was founded years before the current AI boom in 2012 and has raised $1.7 billion in venture dollars, are seeing strong demand as companies continue to gobble up AI infrastructure and compute.\nThis announcement comes just hours after Microsoft announced a $9.7 billion deal for AI cloud capacity with IREN, an Australian data center business.\nEarlier today, OpenAI announced that it had struck a $38 billion cloud computing deal with Amazon to buy cloud services over the next seven years. The AI company also allegedly inked a $300 billion deal with Oracle for cloud compute in September.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nAWS reported it was on track for its best year, in terms of operating income, in three years in its third-quarter earnings results last week. This department of Amazon has collected $33 billion in sales so far this year.\n“AWS is growing at a pace we haven’t seen since 2022, re-accelerating to 20.2% year-over-year,” Andy Jassy, the president and CEO of Amazon, said in the company’s earnings announcement. “We continue to see strong demand in AI and core infrastructure, and we’ve been focused on accelerating capacity — adding more than 3.8 gigawatts in the past 12 months.”\nTechCrunch reached out to Lambda for more information regarding deal structure and size. \n\n\n\t\tBecca is a senior writer at TechCrunch that covers venture capital trends and startups. She previously covered the same beat for Forbes and the Venture Capital Journal.\r\nYou can contact or verify outreach from Becca by emailing rebecca.szkutak@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Lambda inks multibillion-dollar AI infrastructure deal with Microsoft",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/07/microsoft-logo-1865237814.jpg?w=150"
-      ],
-      "datePublished": "2025-11-03T21:21:24.000Z",
-      "dateModified": "2025-11-03T21:21:24.000Z",
+      "datePublished": "2025-11-03T19:45:55.000Z",
+      "dateModified": "2025-11-03T19:45:55.000Z",
       "author": [
         {
           "@type": "Person",
@@ -250,47 +175,22 @@
     }
   },
   {
-    "title": "Microsoft’s $15.2B UAE investment turns Gulf State into test case for US AI diplomacy",
-    "url": "https://techcrunch.com/2025/11/03/microsofts-15-2b-uae-investment-turns-gulf-state-into-test-case-for-us-ai-diplomacy/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/11/microsoft-uae.jpg?w=150",
+    "title": "iOS 26.1 lets you turn down liquid glass’ transparency",
+    "url": "https://techcrunch.com/2025/11/04/ios-26-1-lets-you-turn-down-liquid-glass-transparency/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/09/iphone-photo.jpg?w=150",
     "tag": "Tech",
-    "date": "2025-11-03T14:22:48.000Z",
-    "description": "\nMicrosoft will invest $15.2 billion in the United Arab Emirates over the next four years, the company announced Monday at the first annual Abu Dhabi ",
-    "body": "\nMicrosoft will invest $15.2 billion in the United Arab Emirates over the next four years, the company announced Monday at the first annual Abu Dhabi Global AI Summit. The investment will include the first-ever shipments of the most advanced Nvidia GPUs to the UAE.\nAs part of the deal, the U.S. has granted Microsoft a license to export Nvidia chips to the UAE, a move that positions the country as both a proving ground for U.S. export-control diplomacy and a regional anchor of American AI influence.\nThe deal allows Microsoft to expand its foothold into the Middle East, a key region in the global fight for AI dominance. In May, President Donald Trump struck a deal with UAE president Sheikh Mohamed bin Zayed Al Nahyan to build an AI data center campus in Abu Dhabi. The project was delayed due to U.S. export controls, which restricted the sale of powerful Nvidia chips needed to run advanced AI systems.\nMicrosoft became the first company to receive a license from the U.S. Commerce Department to ship the chips to the UAE in September. The move comes as critics say the deal undermines the logic of the U.S.’s export restrictions to China by introducing possible back channels through a Chinese ally. \nIn a statement, Microsoft said it performed substantial work to meet the strong cybersecurity and national security conditions required by the licenses, which has enabled the firm to accumulate the equivalent of 21,500 Nvidia A100 GPUs in the UAE, based on a combination of A100, H100, and H200 chips.  \nMicrosoft said it is using the chips to provide access to AI models from OpenAI, Anthropic, open source providers, and itself. \nThe $15.2 billion figure includes money Microsoft began spending in the UAE starting in 2023 as part of a new AI initiative in the country. Between 2023 and the end of 2025, Microsoft will have spent just over $7.3 billion in the UAE, including a $1.5 billion equity investment in G42, the UAE’s sovereign AI company, and more than $4.6 billion in capital toward data centers. \n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nAs part of the new deal, Microsoft pledges to spend $7.9 billion more in the UAE from the start of 2026 to the end of 2029, including $5.5 billion in capital expenses for ongoing and planned expansion of AI and cloud infrastructure. Microsoft hinted at new steps it will share publicly in Abu Dhabi this week.\nMicrosoft’s work in the UAE goes beyond building data centers. The company says it is pairing massive AI infrastructure with deep investment in local talent, training, and governance. The firm is pledging to train a million residents by 2027 and use Abu Dhabi as a regional hub for AI research and model development.  \nThe investment comes the same day that Microsoft signed a $9.7 billion deal with Australia’s IREN for AI cloud capacity.\n\n\n\t\tRebecca Bellan is a senior reporter at TechCrunch where she covers the business, policy, and emerging trends shaping artificial intelligence. Her work has also appeared in Forbes, Bloomberg, The Atlantic, The Daily Beast, and other publications. \r\nYou can contact or verify outreach from Rebecca by emailing rebecca.bellan@techcrunch.com or via encrypted message at rebeccabellan.491 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2025-11-04T12:03:11.000Z",
+    "description": "\nApple’s latest iOS update, available for eligible devices from Monday, doesn’t introduce any major features, but it does bring one highly-requested t",
+    "body": "\nApple’s latest iOS update, available for eligible devices from Monday, doesn’t introduce any major features, but it does bring one highly-requested tweak: the ability to change the transparency of the translucent liquid glass design.\nIf you didn’t like the look of iOS 26, all you could do so far was to reduce transparency via the accessibility settings, which pretty much turned off the liquid glass overlay. With iOS 26.1, we now get a new menu to retain the look while increasing opacity.\nYou can head to Settings > Display & Brightness > Liquid Glass to select either the original “Clear” option or a more opaque “Tinted” option. You can also see a preview of each option when you’re selecting them.\nLiquid glass was the company’s biggest design overhaul since its move to a flat design back in 2013, but similar to most changes of this scale and significance, not everybody has been on board.\nSome people said the more translucent design made various parts of the interface harder to read, including notifications or navigation controls in apps, while others professed their love for the attention to detail and the new look, which felt like a much-needed update to an interface that had grown stale over the years.\nImage Credits: Screenshot by TechCrunch\nBesides the transparency settings, iOS 26.1 also lets you tweak what gestures do on the home screen: You now get an option to open the camera app by swiping to the left on the lockscreen. You change this by going to Settings > Camera > Lock Screen Swipe to Open Camera.\nIOS 26.1 also gives users the ability to locally capture audio and video while recording a video call. This can be useful if you’re recording a call or podcast on the move. The company announced this feature for iPadOS in June during the Worldwide Developer Conference (WWDC).\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThe update also brings support for eight new languages for Apple Intelligence: Chinese (Traditional), Danish, Dutch, Norwegian, Swedish, Portuguese (Portugal), Vietnamese and Turkish. The company is also adding live translation support for five new languages: Chinese (Simplified), Chinese (Traditional), Italian, Japanese and Korean.\nWe also get some quality of life improvements, including gestures to change songs in Apple Music; a slider to stop alarms instead of a button so you don’t accidentally shut it off; and an option to automatically install security improvements.\nYou can update your device by going to Settings > General > Software update.\n\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Microsoft’s $15.2B UAE investment turns Gulf State into test case for US AI diplomacy",
+      "headline": "iOS 26.1 lets you turn down liquid glass’ transparency",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/11/microsoft-uae.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2025/09/iphone-photo.jpg?w=150"
       ],
-      "datePublished": "2025-11-03T14:22:48.000Z",
-      "dateModified": "2025-11-03T14:22:48.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Elad Gil on which AI markets have winners — and which are still wide open",
-    "url": "https://techcrunch.com/2025/11/03/elad-gil-on-which-ai-markets-have-winners-and-which-are-still-wide-open/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/11/Elad-Gil.jpg?w=150",
-    "tag": "Tech",
-    "date": "2025-11-03T23:13:50.000Z",
-    "description": "\nSolo VC investor extraordinaire Elad Gil said onstage at TechCrunch Disrupt 2025 that AI has been one of the least predictable tech booms he’s ever s",
-    "body": "\nSolo VC investor extraordinaire Elad Gil said onstage at TechCrunch Disrupt 2025 that AI has been one of the least predictable tech booms he’s ever seen.\nGil is on the cap table of virtually every hit company of the past decade, including many of today’s leading AI companies. \nStill, he thinks that over the last year, certain AI markets appear to be nearly sewn up by market leaders. Beyond these areas, a vast swath of AI remains anyone’s game.\n“I started investing in generative AI in 2021 … [A]t the time, not very many people were paying that much attention to it,” Gil said. But he had seen the massive leap in capability between GPT-2, launched in 2019, and GPT-3,  launched in 2021. “The step between 2 and 3 was so large that if you just extrapolated out the scaling laws, or the curve, then you could really assume that this was going to be incredibly important,” he said.\nThat convinced him to start backing early-stage startups building products powered by large language models. His bets included both foundational model makers like OpenAI and Mistral, as well as application companies like Perplexity, Harvey, Character.ai, Decagon, and Abridge. Yet throughout 2024 and much of 2025, the capabilities of foundational models leaped with every release, upending AI every few months.\n“I used to say at the time that AI was the one market where the more I learn, the less I know. Usually, the more you learn about something, the better you know it, the easier you can predict the future, etc. But AI was just hazy. There’s just too much uncertainty. And I think there’s still markets like that in AI,” he said.\nHowever, he’s also now seeing markets with clear winners. The most obvious example is with foundational models themselves. Even though hundreds of models exist, and some countries like South Korea are still working to develop sovereign models by local companies, leaders have emerged. “Google, Anthropic, OpenAI, maybe xAI, maybe Meta, maybe Mistral — it’s like a handful,” he predicts of the winners.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nAfter models, he thinks AI-assisted coding has runaway winners that will make it hard for new entrants to catch up. Not only have the foundational model makers moved in (Anthropic with Claude Code, OpenAI with Codex) but also startup leaders like Anysphere’s Cursor and Cognition’s Devin (which acquired Windsurf) will be hard to beat. And there are well-funded startups like Magic (which Gil called a possible “outlier”) and Poolside on their tails.\nHe sees medical transcription as being cornered, with Abridge a front-runner and a handful of others like Ambience being “important.”\nHe names customer support — which was an early target of both traditional AI and the new crop of AI agent startups — as having hard-to-catch market leaders, such as his portfolio company Decagon. (It raised $131 million at a $1.5 billion valuation in June.) OpenAI chairman Bret Taylor’s startup, Sierra, competes in this space. This is also an area where the incumbents — Salesforce, HubSpot, and many others — are adding AI offerings.\nSo which markets seem wide open? Gil says financial tooling (fintech), accounting, AI security, and “other markets that we know are by default very interesting. We just don’t know who’s going to do it.”\nIronically, fast growth isn’t the signal it once was that a company is going to be a breakout hit. “The CEOs of every big company are basically telling their teams, hey, we have an edict. We need to figure out our AI strategy,” Gil said. “These giant enterprises are willing to try things that two years ago they never would have tried, and it’s only because of AI.”\nSo new AI markets can land a lot of revenue from big-name, enterprise customers quickly, “but that doesn’t mean they’re going to stick,” Gil points out.\nIt is only after a market goes through its trial-phase boom cycle that a startup and investors can see if this revenue will stay and grow. “There’s false signal, and then there’s stuff that is just working,” Gil said. He calls out legal AI startup Harvey as one of the market leaders that’s “just working.” It raised three massive rounds in 2025, leaping from a $3 billion valuation to $5 billion to $8 billion, in just a few months.\n\n\n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Elad Gil on which AI markets have winners — and which are still wide open",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/11/Elad-Gil.jpg?w=150"
-      ],
-      "datePublished": "2025-11-03T23:13:50.000Z",
-      "dateModified": "2025-11-03T23:13:50.000Z",
+      "datePublished": "2025-11-04T12:03:11.000Z",
+      "dateModified": "2025-11-04T12:03:11.000Z",
       "author": [
         {
           "@type": "Person",
@@ -325,22 +225,22 @@
     }
   },
   {
-    "title": "Studio Ghibli and other Japanese publishers want OpenAI to stop training on their work",
-    "url": "https://techcrunch.com/2025/11/03/studio-ghibli-and-other-japanese-publishers-want-openai-to-stop-training-on-their-work/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/04/miyazaki-ai-ghibli.jpg?w=150",
+    "title": "Lawmakers say stolen police logins are exposing Flock surveillance cameras to hackers",
+    "url": "https://techcrunch.com/2025/11/03/lawmakers-say-stolen-police-logins-are-exposing-flock-surveillance-cameras-to-hackers/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/11/flock-camera-sf-surveillance-2157492329.jpg?w=150",
     "tag": "Tech",
-    "date": "2025-11-03T22:43:03.000Z",
-    "description": "\nA Japanese trade organization representing publishers like Studio Ghibli wrote a letter to OpenAI last week, calling for the AI giant to stop trainin",
-    "body": "\nA Japanese trade organization representing publishers like Studio Ghibli wrote a letter to OpenAI last week, calling for the AI giant to stop training its AI models on their copyrighted content without permission.\nStudio Ghibli, the animation studio behind films like “Spirited Away” and “My Neighbor Totoro,” has been especially impacted by OpenAI’s generative AI products. When ChatGPT’s native image generator was released in March, it became a popular trend for users to prompt for re-creations of their selfies or pet pictures in the style of the studio’s films. Even OpenAI CEO Sam Altman changed his profile picture on X to a “Ghiblified” picture.\nNow, as more people get access to OpenAI’s Sora app and video generator, Japan’s Content Overseas Distribution Association (CODA) has requested that OpenAI refrain from using its members’ content for machine learning without permission.\n\n>be me>grind for a decade trying to help make superintelligence to cure cancer or whatever>mostly no one cares for first 7.5 years, then for 2.5 years everyone hates you for everything>wake up one day to hundreds of messages: \"look i made you into a twink ghibli style haha\"— Sam Altman (@sama) March 26, 2025\n\nThis request does not come unprompted. OpenAI’s approach to working with copyrighted content is to ask forgiveness, not permission, which has made it all too easy for users to generate photos and videos of copyrighted characters and deceased celebrities. This approach has yielded complaints from institutions like Nintendo, as well as the estate of Dr. Martin Luther King, Jr., who could very easily be deepfaked on the Sora app.\nIt’s up to OpenAI to choose whether to cooperate with these requests; if not, the aggrieved parties can file a lawsuit, though United States law remains unclear about the use of copyrighted material for AI training.\nThere is little precedent thus far to guide judges on their interpretation of copyright law, which has not been updated since 1976. However, a recent ruling by U.S. federal judge William Alsup found that Anthropic did not violate the law by training its AI on copyrighted books — the company did get fined for pirating the books it used for training, though.\nBut Japan’s CODA claims that this may be considered a copyright violation in Japan.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n“In cases, as with Sora 2, where specific copyrighted works are reproduced or similarly generated as outputs, CODA considers that the act of replication during the machine learning process may constitute copyright infringement,” CODA wrote. “Under Japan’s copyright system, prior permission is generally required for the use of copyrighted works, and there is no system allowing one to avoid liability for infringement through subsequent objections.”\nHayao Miyazaki, one of the central creative figures of Studio Ghibli, has not commented directly on the proliferation of AI-generated interpretations of his work. However, when he was shown AI-generated 3D animation in 2016, he responded that he was “utterly disgusted.”\n“I can’t watch this stuff and find it interesting,” he said at the time. “I feel strongly that this is an insult to life itself.”\n\n\n\t\tAmanda Silberling is a senior writer at TechCrunch covering the intersection of technology and culture. She has also written for publications like Polygon, MTV, the Kenyon Review, NPR, and Business Insider. She is the co-host of Wow If True, a podcast about internet culture, with science fiction author Isabel J. Kim. Prior to joining TechCrunch, she worked as a grassroots organizer, museum educator, and film festival coordinator. She holds a B.A. in English from the University of Pennsylvania and served as a Princeton in Asia Fellow in Laos.\nYou can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2025-11-03T22:53:50.000Z",
+    "description": "\nLawmakers have called on the Federal Trade Commission to investigate Flock Safety, a company that operates license plate-scanning cameras, for allege",
+    "body": "\nLawmakers have called on the Federal Trade Commission to investigate Flock Safety, a company that operates license plate-scanning cameras, for allegedly failing to implement cybersecurity protections that expose its camera network to hackers and spies.\nIn a letter sent by Sen. Ron Wyden (D-OR) and Rep. Raja Krishnamoorthi (D-IL, 8th), the lawmakers urge FTC chairman Andrew Ferguson to probe why Flock does not enforce the use of multi-factor authentication (MFA), a security protection that prevents malicious access by someone with knowledge of the account holder’s password.\nWyden and Krishnamoorthi said that while the company offers its law enforcement customers the ability to enable MFA, “Flock does not require it, which the company confirmed to Congress in October,” according to the letter.\nWyden and Krishnamoorthi said that if hackers or foreign spies learn of a law enforcement user’s password, “they can gain access to law-enforcement-only areas of Flock’s website and search the billions of photos of Americans’ license plates collected by taxpayer-funded cameras across the country.”\nFlock operates one of the largest networks of cameras and license plate readers in the U.S., providing access to more than 5,000 police departments, as well as private businesses, across the country. Flock’s cameras scan the license plates of passing vehicles so that police and federal agencies with logins to Flock’s platform can search the billions of captured photos and track where vehicles have traveled at any given time.\nThe lawmakers said that they had found evidence that some of Flock’s law enforcement customers’ logins had been previously stolen and shared online, citing data from Hudson Rock, a cybersecurity company that identifies usernames and passwords stolen by information-stealing malware. \nIndependent security researcher Benn Jordan also provided the lawmakers with a screenshot showing a Russian cybercrime forum allegedly selling access to Flock logins.\nWhen reached by TechCrunch for comment, Flock shared the company’s response in a letter from its chief legal officer Dan Haley, in which he says the company switched on MFA by default for all new customers starting in November 2024 and that 97% of its law enforcement customers have enabled MFA to date.\nThat leaves around 3% of the company’s customers — potentially dozens of law enforcement agencies — that have declined to switch on MFA, citing “reasons specific to them,” Haley wrote. \nHolly Beilin, a spokesperson for Flock, did not immediately provide a specific number of law enforcement customers that have not yet switched on MFA, nor did she say if any federal agencies are among the remaining customers, or for what reason Flock does not require its customers to switch on the security feature.\nAs previously reported by 404 Media, the U.S. Drug Enforcement Administration used a local police officer’s password to access Flock’s cameras to search for an individual suspected of an “immigration violation,” but without the officer’s knowledge. The Palos Heights Police Department said it switched on multi-factor authentication following the breach.\n\n\n\t\tZack Whittaker is the security editor at TechCrunch. He also authors the weekly cybersecurity newsletter, this week in security. \nHe can be reached via encrypted message at zackwhittaker.1337 on Signal. You can also contact him by email, or to verify outreach, at zack.whittaker@techcrunch.com. \t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Studio Ghibli and other Japanese publishers want OpenAI to stop training on their work",
+      "headline": "Lawmakers say stolen police logins are exposing Flock surveillance cameras to hackers",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/04/miyazaki-ai-ghibli.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2025/11/flock-camera-sf-surveillance-2157492329.jpg?w=150"
       ],
-      "datePublished": "2025-11-03T22:43:03.000Z",
-      "dateModified": "2025-11-03T22:43:03.000Z",
+      "datePublished": "2025-11-03T22:53:50.000Z",
+      "dateModified": "2025-11-03T22:53:50.000Z",
       "author": [
         {
           "@type": "Person",
@@ -366,6 +266,106 @@
       ],
       "datePublished": "2025-11-03T22:37:51.000Z",
       "dateModified": "2025-11-03T22:37:51.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Lambda inks multibillion-dollar AI infrastructure deal with Microsoft",
+    "url": "https://techcrunch.com/2025/11/03/lambda-inks-multi-billion-dollar-ai-infrastructure-deal-with-microsoft/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/microsoft-logo-1865237814.jpg?w=150",
+    "tag": "Tech",
+    "date": "2025-11-03T21:21:24.000Z",
+    "description": "\nCloud-computing company Lambda deepened its relationship with Microsoft through a sizable AI infrastructure deal.\nNvidia-backed Lambda announced it s",
+    "body": "\nCloud-computing company Lambda deepened its relationship with Microsoft through a sizable AI infrastructure deal.\nNvidia-backed Lambda announced it struck a multibillion-dollar deal with Microsoft on Monday to deploy tens of thousands of Nvidia GPUs, according to a press release. The exact size of the deal was not disclosed. Some of these GPUs will be Nvidia GB300 NVL72 systems, which were announced earlier this year and began shipping in the last few months.\n“It’s great to watch the Microsoft and Lambda teams working together to deploy these massive AI supercomputers,” said Stephen Balaban, CEO of Lambda, in the company’s press release. “We’ve been working with Microsoft for more than eight years, and this is a phenomenal next step in our relationship.”\nMicrosoft opened its first Nvidia GB300 NVL72 cluster in October.\nCompanies like Lambda, which was founded years before the current AI boom in 2012 and has raised $1.7 billion in venture dollars, are seeing strong demand as companies continue to gobble up AI infrastructure and compute.\nThis announcement comes just hours after Microsoft announced a $9.7 billion deal for AI cloud capacity with IREN, an Australian data center business.\nEarlier today, OpenAI announced that it had struck a $38 billion cloud computing deal with Amazon to buy cloud services over the next seven years. The AI company also allegedly inked a $300 billion deal with Oracle for cloud compute in September.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nAWS reported it was on track for its best year, in terms of operating income, in three years in its third-quarter earnings results last week. This department of Amazon has collected $33 billion in sales so far this year.\n“AWS is growing at a pace we haven’t seen since 2022, re-accelerating to 20.2% year-over-year,” Andy Jassy, the president and CEO of Amazon, said in the company’s earnings announcement. “We continue to see strong demand in AI and core infrastructure, and we’ve been focused on accelerating capacity — adding more than 3.8 gigawatts in the past 12 months.”\nTechCrunch reached out to Lambda for more information regarding deal structure and size. \n\n\n\t\tBecca is a senior writer at TechCrunch that covers venture capital trends and startups. She previously covered the same beat for Forbes and the Venture Capital Journal.\r\nYou can contact or verify outreach from Becca by emailing rebecca.szkutak@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Lambda inks multibillion-dollar AI infrastructure deal with Microsoft",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/07/microsoft-logo-1865237814.jpg?w=150"
+      ],
+      "datePublished": "2025-11-03T21:21:24.000Z",
+      "dateModified": "2025-11-03T21:21:24.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Pine Labs aims to take Indian fintech global even as it cuts valuation for IPO",
+    "url": "https://techcrunch.com/2025/11/03/pine-labs-aims-to-take-indian-fintech-global-even-as-it-cuts-valuation-for-ipo/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/11/pine-labs-pos-machine.jpg?w=150",
+    "tag": "Tech",
+    "date": "2025-11-03T17:00:52.000Z",
+    "description": "\nPine Labs, an Indian merchant-commerce startup backed by PayPal and Mastercard, is going public this week at a valuation about 40% lower than its las",
+    "body": "\nPine Labs, an Indian merchant-commerce startup backed by PayPal and Mastercard, is going public this week at a valuation about 40% lower than its last private round — even as it doubles down on plans to take its fintech platform global.\nThe Gurugram-based fintech has set a price band of ₹210–₹221 (about $2.00–$2.50) a share, valuing the company at approximately ₹254 billion (around $2.9 billion) at the upper end of the range. This represents a decline of about 40% from its last private valuation of over $5 billion in 2022.\nPine Labs has also reduced its primary offering by 20% to ₹20.8 billion (approximately $234 million) from ₹26 billion in its draft prospectus filed in June, while the offer for sale has been cut by 44% to 82.3 million shares from 148 million shares planned earlier.\nExisting investors, including Peak XV Partners, Temasek Holdings, PayPal, and Mastercard, are among those selling part of their holdings in the offering.\nPine Labs CEO Amrish Rau told reporters at a press briefing on Monday that investors had chosen to retain a larger portion of their shareholdings, which resulted in a smaller offer for sale.\n“When it came to the pricing of this IPO, we were very clear that we want to continue to garner goodwill, and we wanted to get everybody’s support when we go out with this pricing for this IPO,” he said. “We believe we were able to maintain that because, at the end of the day, it takes a village to come together to create a successful IPO.”\nFounded in 1998, Pine Labs initially focused on deploying point-of-sale terminals for merchants but has since evolved beyond payment acceptance to enable bill payments through platforms such as Amazon Pay and CRED, and to facilitate account-aggregator-based transactions, among a broader suite of payment, transaction, and acquiring services.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nCurrently, about 70% of Pine Labs’ revenue comes from its digital infrastructure and transaction services, while the remaining 30% is generated from its issuing and acquiring businesses, Rau said.\nPine Labs is among the few Indian startups that already serve customers outside the country and is seeking to expand its international presence following its planned listing on Indian stock exchanges. This aligns with the Indian government’s broader push to build globally competitive fintech offerings. The company is also part of a growing group of technology firms that have relocated their headquarters to India to tap into the country’s large base of retail investors and to align more closely with local regulatory frameworks.\nThe firm currently serves over 980,000 merchants, 716 consumer brands, and 177 financial institutions, powering more than 6 billion transactions cumulatively valued at over ₹11.4 trillion (around $128 billion). It already operates in 20 countries, including Malaysia, Singapore, Australia, Africa, the UAE, and the U.S.\nBetween the financial years 2023 and 2025, Pine Labs’ revenue from international markets grew by nearly 58%, Rau said.\n“What we have done in fintech in India, no other country has been able to do anything close to that,” he told reporters. “We have the opportunity to take this IP knowledge, the technology stack that we have developed, and make it global. We have been the first companies which has actually done that, and we believe that our fintech stack is very, very much in demand in global markets, and that’s why we are winning these clients in these international markets.”\nIn India, Pine Labs competes with the likes of Razorpay, Paytm, and Walmart-owned PhonePe. The company turned profitable in the June quarter, posting a net profit of ₹47.86 million (about $540,000), compared with a loss of ₹278.89 million a year earlier. Revenue from operations rose 17.9% year-over-year to ₹6.16 billion (around $69 million) in the quarter. The firm’s overseas business contributed about 15% of total revenue, amounting to ₹943.25 million (roughly $11 million), up from ₹795.97 million a year earlier.\nPine Labs’ listing comes amid a wave of Indian technology companies preparing to go public, including Groww, Lenskart, Shadowfax, Meesho, and BoAt, all of which are expected to launch their offerings this year.\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Pine Labs aims to take Indian fintech global even as it cuts valuation for IPO",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/11/pine-labs-pos-machine.jpg?w=150"
+      ],
+      "datePublished": "2025-11-03T17:00:52.000Z",
+      "dateModified": "2025-11-03T17:00:52.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Microsoft’s $15.2B UAE investment turns Gulf State into test case for US AI diplomacy",
+    "url": "https://techcrunch.com/2025/11/03/microsofts-15-2b-uae-investment-turns-gulf-state-into-test-case-for-us-ai-diplomacy/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/11/microsoft-uae.jpg?w=150",
+    "tag": "Tech",
+    "date": "2025-11-03T14:22:48.000Z",
+    "description": "\nMicrosoft will invest $15.2 billion in the United Arab Emirates over the next four years, the company announced Monday at the first annual Abu Dhabi ",
+    "body": "\nMicrosoft will invest $15.2 billion in the United Arab Emirates over the next four years, the company announced Monday at the first annual Abu Dhabi Global AI Summit. The investment will include the first-ever shipments of the most advanced Nvidia GPUs to the UAE.\nAs part of the deal, the U.S. has granted Microsoft a license to export Nvidia chips to the UAE, a move that positions the country as both a proving ground for U.S. export-control diplomacy and a regional anchor of American AI influence.\nThe deal allows Microsoft to expand its foothold into the Middle East, a key region in the global fight for AI dominance. In May, President Donald Trump struck a deal with UAE president Sheikh Mohamed bin Zayed Al Nahyan to build an AI data center campus in Abu Dhabi. The project was delayed due to U.S. export controls, which restricted the sale of powerful Nvidia chips needed to run advanced AI systems.\nMicrosoft became the first company to receive a license from the U.S. Commerce Department to ship the chips to the UAE in September. The move comes as critics say the deal undermines the logic of the U.S.’s export restrictions to China by introducing possible back channels through a Chinese ally. \nIn a statement, Microsoft said it performed substantial work to meet the strong cybersecurity and national security conditions required by the licenses, which has enabled the firm to accumulate the equivalent of 21,500 Nvidia A100 GPUs in the UAE, based on a combination of A100, H100, and H200 chips.  \nMicrosoft said it is using the chips to provide access to AI models from OpenAI, Anthropic, open source providers, and itself. \nThe $15.2 billion figure includes money Microsoft began spending in the UAE starting in 2023 as part of a new AI initiative in the country. Between 2023 and the end of 2025, Microsoft will have spent just over $7.3 billion in the UAE, including a $1.5 billion equity investment in G42, the UAE’s sovereign AI company, and more than $4.6 billion in capital toward data centers. \n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nAs part of the new deal, Microsoft pledges to spend $7.9 billion more in the UAE from the start of 2026 to the end of 2029, including $5.5 billion in capital expenses for ongoing and planned expansion of AI and cloud infrastructure. Microsoft hinted at new steps it will share publicly in Abu Dhabi this week.\nMicrosoft’s work in the UAE goes beyond building data centers. The company says it is pairing massive AI infrastructure with deep investment in local talent, training, and governance. The firm is pledging to train a million residents by 2027 and use Abu Dhabi as a regional hub for AI research and model development.  \nThe investment comes the same day that Microsoft signed a $9.7 billion deal with Australia’s IREN for AI cloud capacity.\n\n\n\t\tRebecca Bellan is a senior reporter at TechCrunch where she covers the business, policy, and emerging trends shaping artificial intelligence. Her work has also appeared in Forbes, Bloomberg, The Atlantic, The Daily Beast, and other publications. \r\nYou can contact or verify outreach from Rebecca by emailing rebecca.bellan@techcrunch.com or via encrypted message at rebeccabellan.491 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Microsoft’s $15.2B UAE investment turns Gulf State into test case for US AI diplomacy",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/11/microsoft-uae.jpg?w=150"
+      ],
+      "datePublished": "2025-11-03T14:22:48.000Z",
+      "dateModified": "2025-11-03T14:22:48.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Dia’s AI browser starts adding Arc’s ‘greatest hits’ to its feature set",
+    "url": "https://techcrunch.com/2025/11/03/dias-ai-browser-starts-adding-arcs-greatest-hits-to-its-feature-set/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/06/@Mention-Tabs.jpeg?w=150",
+    "tag": "Tech",
+    "date": "2025-11-03T17:01:58.000Z",
+    "description": "\nThe AI web browser Dia is drawing inspiration from its predecessor, Arc, an earlier experiment in modernizing the web-browsing experience that hailed",
+    "body": "\nThe AI web browser Dia is drawing inspiration from its predecessor, Arc, an earlier experiment in modernizing the web-browsing experience that hailed from the startup known as The Browser Company. On Sunday, The Browser Company’s founder, Josh Miller, confirmed that the new AI browser will bring “Arc’s greatest hits” to Dia, including things like the sidebar mode, and combine that with AI-native features like memory and agents.\nThis explanation suggests that Dia, which has since been acquired by Atlassian for $610 million, could have an advantage in the AI browser race, as it builds on the company’s earlier learnings from developing Arc.\nThe latter was initially released in mid-2023 as a reinvention of the browser designed around the way people use the internet today. That included offering separate workspaces for work and personal browsing, support for pinned tabs, a Command Bar that worked like Apple’s Spotlight search, and a sidebar that included the search bar, tab list, user bookmarks, audio controls, and more. \n\nTbh we (or i really) duffed the comms in a bunch of ways, but…1. Dia's architecture is much better for AI, speed, security2. We're adapting Arc's greatest hits to be native to Dia3. Sidebar mode for Arc fansDia + Arc = snappier, smarter, simpler by default w/ Pro mode— Josh Miller (@joshm) November 3, 2025\n\nHowever, Arc may have tried to push the envelope a bit too far: Miller later admitted that Arc was ultimately too complex for most people to adopt.\n“Arc was simply too different, with too many new things to learn, for too little reward … On top of that, Arc lacked cohesion in both its core features and core values. It was experimental — that was part of its charm — but also its complexity,” Miller wrote in a blog post earlier this year, detailing the company’s decision to wind down Arc and open source it, and refocusing the company’s efforts on building Dia.\nBut Arc may not necessarily be a failure, even if it didn’t become a widely adopted consumer product. Instead, the browser gave the company over a year’s worth of insights into what sort of modern browser features resonate with users and which ones do not.\nThat could help the company get ahead when building out the feature set for Dia.\nAs Miller says in a post on X, “Dia’s architecture is much better for AI, speed, and security,” but it will introduce features that Arc fans loved, like the sidebar mode — which was just spotted in the company’s latest “early birds” release of Dia’s AI browser.\n\nI'm daily-driving @diabrowser as a years-long Arc user and now an Early Bird, and I can say I'm so close to not miss Arc.Dia browser now has:– Focus mode– Vertical tabs– Pinned tabs (grid-view)– Google Meet PIP And I now wait for only three things before deleting Arc-… pic.twitter.com/qo9RSUUNmV— BLCNYY (@BLCNYY) November 1, 2025\n\nAlready, Dia has added other features from Arc’s “greatest hits,” like turning Google Meet into a picture-in-picture player automatically when you switch tabs and custom keyboard shortcuts. Miller hinted that the company is exploring how to transition Arc’s Spaces — the distinct browsing areas with their own set of pinned tabs, favorites, themes, history, and cookies — to Dia. And he said Dia’s team is currently testing pinned tabs.\nMiller additionally solicited feedback about other features to add, like swipeable profiles and Arc Search-inspired updates for the Dia mobile app coming in 2026.\nPlus, Miller notes, Dia will have less bloat and will be AI native for things like memory and agents.\nFollowing the acquisition by Atlassian, The Browser Company continues to operate independently. As a result, Miller said the company will be able to add more “browser basics,” referring to favorite Arc features, to the Dia browser. He also shared that Dia is developing deeper integrations with Atlassian’s Jira and other apps, like Linear, under its new owner.\n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Dia’s AI browser starts adding Arc’s ‘greatest hits’ to its feature set",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/06/@Mention-Tabs.jpeg?w=150"
+      ],
+      "datePublished": "2025-11-03T17:01:58.000Z",
+      "dateModified": "2025-11-03T17:01:58.000Z",
       "author": [
         {
           "@type": "Person",
