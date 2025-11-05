@@ -125,56 +125,6 @@
     }
   },
   {
-    "title": "Sora is now available on Android in the US, Canada, and other regions",
-    "url": "https://techcrunch.com/2025/11/04/sora-is-now-available-on-android-in-the-us-canada-and-other-regions/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages-2240278671.jpeg?w=150",
-    "tag": "Tech",
-    "date": "2025-11-04T19:35:51.000Z",
-    "description": "\nSora, the AI video generator from OpenAI, is now officially available for Android users in the U.S., Canada, Japan, Korea, Taiwan, Thailand, and Viet",
-    "body": "\nSora, the AI video generator from OpenAI, is now officially available for Android users in the U.S., Canada, Japan, Korea, Taiwan, Thailand, and Vietnam. \nInitially launched as an iOS app in September, Sora quickly rose to the top of the App Store charts, amassing over 1 million downloads in a week. With its arrival on the Google Play Store, Sora is expected to attract a larger user base, likely resulting in a surge in downloads.  \nThe Android version retains all the features of its iOS counterpart, including the “Cameos” feature, which allows users to generate videos of themselves performing various activities using their own likeness. \nThe videos can be shared in a feed reminiscent of TikTok, allowing users to discover and engage with content from others. This appears to be a strategic move by OpenAI to strengthen its position in the competitive landscape of short-form video sharing. The AI giant aims to rival major players like Meta, which has recently launched its own AI video feed called Vibes, as well as existing platforms such as TikTok and Instagram.\n— Sora (@soraofficialapp) November 4, 2025 \nHowever, the app has faced criticism for its handling of deepfakes. After its initial launch, users began uploading disrespectful videos of historical figures, including Martin Luther King Jr. As a result, Sora paused the generation of content depicting Dr. King last month and strengthened its guardrails.\nThe company also recently addressed the backlash surrounding copyrighted characters, such as SpongeBob and Pikachu, by changing its policy for the Sora app from an “opt-out” approach to an “opt-in” system for rights holders.\nAdditionally, it’s currently involved in a legal dispute with celebrity video maker Cameo regarding the name of Sora’s flagship feature, “Cameo.”\nLooking ahead, OpenAI plans to introduce additional features to Sora. These include character cameos, letting users create AI-generated videos featuring their pets and inanimate objects. Basic video editing tools are also on the way, including the ability to stitch multiple clips together. Sora also plans to help users customize their social feeds, focusing on content from selected individuals rather than a large audience.\n\n\n\t\tLauren covers media, streaming, apps and platforms at TechCrunch.\nYou can contact or verify outreach from Lauren by emailing laurenf.techcrunch@gmail.com or via encrypted message at laurenforris22.25 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Sora is now available on Android in the US, Canada, and other regions",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages-2240278671.jpeg?w=150"
-      ],
-      "datePublished": "2025-11-04T19:35:51.000Z",
-      "dateModified": "2025-11-04T19:35:51.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Nvidia, Deutsche Telekom strike €1B partnership for a data center in Munich",
-    "url": "https://techcrunch.com/2025/11/04/nvidia-deutsche-telekom-strike-e1b-partnership-for-a-data-center-in-munich/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/11/bi-251104-industrial-ai-cloud-02-en.jpg?w=150",
-    "tag": "Tech",
-    "date": "2025-11-04T14:19:06.000Z",
-    "description": "\nNvidia is playing fast and loose with its war chest as it looks to build on its momentum as the chief benefactor of the AI boom. \nThe company on Tues",
-    "body": "\nNvidia is playing fast and loose with its war chest as it looks to build on its momentum as the chief benefactor of the AI boom. \nThe company on Tuesday signed a €1 billion ($1.15 billion) partnership with Deutsche Telekom to set up an “AI factory” in Munich that aims to boost Germany’s AI computing power by 50%.\nCalled the “Industrial AI Cloud,” the project will use more than 1,000 Nvidia DGX B200 systems and RTX Pro Servers with up to 10,000 Blackwell GPUs to provide AI inferencing and other services to German companies while complying with German data sovereignty laws.\nDeutsche Telekom said early partners of the project include Agile Robots, whose bots will be used to install server racks at the facility, and Perplexity, which will use the data center to provide “in-country” AI inferencing to German users and companies. The telco also outlined digital twins and physics-based simulation as use cases for industrial companies.\nThe telecom company said it would provide the physical infrastructure for the project, while SAP will provide its business technology platform and applications.\nThe partnership comes at a time when the European tech industry has been calling on EU lawmakers to reduce their reliance on foreign infrastructure and service providers and to foster adoption of homegrown alternatives. At the same time, tech companies have been criticizing the bloc’s approach to regulating AI, arguing that the rules only serve to hold back innovation.\nThe EU earlier this year committed €200 billion to set up “AI gigafactories” on the continent, focusing on “industrial and mission-critical applications.” But funding for AI initiatives in the European Union has been notably lower than in the U.S., where companies like Nvidia, Microsoft, Google, and Oracle have pumped in hundreds of billions to build massive data centers and assorted infrastructure to support development of AI models and services.\nDeutsche Telekom noted that this project, expected to start operations in early 2026, is separate from the EU’s AI gigafactory initiative.\n“Mechanical engineering and industry have made this country strong,” says Tim Höttges, CEO of Deutsche Telekom. “But here, too, we are challenged. AI is a huge opportunity. It will help to improve our products and strengthen our European strengths.”\n\n\n\t\tRam is a financial and tech reporter and editor. He covered North American and European M&A, equity, regulatory news and debt markets at Reuters and Acuris Global, and has also written about travel, tourism, entertainment and books.\nYou can contact or verify outreach from Ram by emailing ram.iyer@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Nvidia, Deutsche Telekom strike €1B partnership for a data center in Munich",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/11/bi-251104-industrial-ai-cloud-02-en.jpg?w=150"
-      ],
-      "datePublished": "2025-11-04T14:19:06.000Z",
-      "dateModified": "2025-11-04T14:19:06.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Google’s AI Mode gets new agentic capabilities to help book event tickets and beauty appointments",
     "url": "https://techcrunch.com/2025/11/04/googles-ai-mode-gets-new-agentic-capabilities-to-help-book-event-tickets-and-beauty-appointments/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2206888090.jpg?w=150",
@@ -200,72 +150,22 @@
     }
   },
   {
-    "title": "Phone location data of top EU officials for sale, report finds",
-    "url": "https://techcrunch.com/2025/11/04/phone-location-data-of-top-eu-officials-for-sale-report-finds/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/01/Location-data.jpg?w=150",
+    "title": "Sora is now available on Android in the US, Canada, and other regions",
+    "url": "https://techcrunch.com/2025/11/04/sora-is-now-available-on-android-in-the-us-canada-and-other-regions/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages-2240278671.jpeg?w=150",
     "tag": "Tech",
-    "date": "2025-11-04T17:19:26.000Z",
-    "description": "\n\t\n\t\tImage Credits:Vadym Ivanchenko / Getty Images\t\n\t\n\t\t\t\t\t\t9:19 AM PST · November 4, 2025\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nJournalists in Europe found it was “easy” t",
-    "body": "\n\t\n\t\tImage Credits:Vadym Ivanchenko / Getty Images\t\n\t\n\t\t\t\t\t\t9:19 AM PST · November 4, 2025\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nJournalists in Europe found it was “easy” to spy on top European Union officials using commercially obtained location histories sold by data brokers, despite the continent having some of the strongest data protection laws in the world.\nEU officials said they’re “concerned” about the trade of citizen and officials’ mobile phone location data, and have issued new guidance to staff to counter the tracking, according to a report by Netzpolitik.\nA coalition of reporters obtained the dataset, offered as a free sample from a data broker, containing 278 million location data points from the phones of millions of people around Belgium. Much of the location data is uploaded by ordinary apps installed on a person’s phone, which is sold to data brokers. Those data brokers then sell that data to governments and militaries. \nThe dataset also included the granular location histories of Europe’s top officials, including those who work directly for the European Commission, which has its headquarters in Brussels. \nThe reporters said they were able to identify hundreds of devices belonging to people who work in sensitive areas around the EU, including 2,000 location markers from 264 officials’ devices, and around 5,800 location markers from more than 750 devices in the European Parliament.\nEurope has some of the strongest data protection rules in the world with its GDPR law. However, watchdogs and officials across Europe have been slow to take stronger enforcement action against data brokers, Netzpolitik reported. Data brokering has ballooned to become a billion-dollar industry involving the sale and trade of people’s location data and other private information.\nTo counter some of this location tracking, Apple customers can anonymize their device identifiers, and Android owners can regularly reset their device’s identifier.\nLast year, a data broker called Gravy Analytics had a data breach that exposed the location data belonging to tens of millions of people, including where they have been and where they live and work. Researchers examining the data said the location records could be used to extensively track people’s recent whereabouts.\n\n\t\t\t\n\tTopics\n\n\n\n\t\tZack Whittaker is the security editor at TechCrunch. He also authors the weekly cybersecurity newsletter, this week in security. \nHe can be reached via encrypted message at zackwhittaker.1337 on Signal. You can also contact him by email, or to verify outreach, at zack.whittaker@techcrunch.com. \t\n\t\n\t\tView Bio \n\t\n\n\t\t",
+    "date": "2025-11-04T19:35:51.000Z",
+    "description": "\nSora, the AI video generator from OpenAI, is now officially available for Android users in the U.S., Canada, Japan, Korea, Taiwan, Thailand, and Viet",
+    "body": "\nSora, the AI video generator from OpenAI, is now officially available for Android users in the U.S., Canada, Japan, Korea, Taiwan, Thailand, and Vietnam. \nInitially launched as an iOS app in September, Sora quickly rose to the top of the App Store charts, amassing over 1 million downloads in a week. With its arrival on the Google Play Store, Sora is expected to attract a larger user base, likely resulting in a surge in downloads.  \nThe Android version retains all the features of its iOS counterpart, including the “Cameos” feature, which allows users to generate videos of themselves performing various activities using their own likeness. \nThe videos can be shared in a feed reminiscent of TikTok, allowing users to discover and engage with content from others. This appears to be a strategic move by OpenAI to strengthen its position in the competitive landscape of short-form video sharing. The AI giant aims to rival major players like Meta, which has recently launched its own AI video feed called Vibes, as well as existing platforms such as TikTok and Instagram.\n— Sora (@soraofficialapp) November 4, 2025 \nHowever, the app has faced criticism for its handling of deepfakes. After its initial launch, users began uploading disrespectful videos of historical figures, including Martin Luther King Jr. As a result, Sora paused the generation of content depicting Dr. King last month and strengthened its guardrails.\nThe company also recently addressed the backlash surrounding copyrighted characters, such as SpongeBob and Pikachu, by changing its policy for the Sora app from an “opt-out” approach to an “opt-in” system for rights holders.\nAdditionally, it’s currently involved in a legal dispute with celebrity video maker Cameo regarding the name of Sora’s flagship feature, “Cameo.”\nLooking ahead, OpenAI plans to introduce additional features to Sora. These include character cameos, letting users create AI-generated videos featuring their pets and inanimate objects. Basic video editing tools are also on the way, including the ability to stitch multiple clips together. Sora also plans to help users customize their social feeds, focusing on content from selected individuals rather than a large audience.\n\n\n\t\tLauren covers media, streaming, apps and platforms at TechCrunch.\nYou can contact or verify outreach from Lauren by emailing laurenf.techcrunch@gmail.com or via encrypted message at laurenforris22.25 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Phone location data of top EU officials for sale, report finds",
+      "headline": "Sora is now available on Android in the US, Canada, and other regions",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/01/Location-data.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages-2240278671.jpeg?w=150"
       ],
-      "datePublished": "2025-11-04T17:19:26.000Z",
-      "dateModified": "2025-11-04T17:19:26.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Spotify now has half a million video podcasts, which nearly 400M users have watched",
-    "url": "https://techcrunch.com/2025/11/04/spotify-now-has-half-a-million-video-podcasts-which-nearly-400m-users-have-watched/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/05/spotify-podcasts-following-feed.jpg?w=150",
-    "tag": "Tech",
-    "date": "2025-11-04T16:21:40.000Z",
-    "description": "\nSpotify says its video podcasts are seeing increased consumer adoption. In its third-quarter earnings report, the company shared that its video podca",
-    "body": "\nSpotify says its video podcasts are seeing increased consumer adoption. In its third-quarter earnings report, the company shared that its video podcast catalog has expanded to nearly half a million shows, and more than 390 million users have now streamed a video podcast on the platform.\nThat figure is up 54% year-over-year, and it also reflects Spotify’s increased investment in the format. In June 2024, the company said it had some 250,000 video podcasts as it rolled out tools that let non-hosted podcasters upload their videos to the platform. The streaming giant also lets users engage with podcasts through comments, Q&As, and polls, making the app feel more like a social network.\nAs a result, Spotify says that users’ time spent with video content on Spotify has also more than doubled year-over-year, largely driven by video podcasts. In addition, video podcast consumption has increased by more than 80% since the launch of the Spotify Partner Program, or SPP, in January, which gives qualifying creators the ability to monetize their shows in new ways, including audience-driven payouts from Spotify Premium user engagement.\nThe company also recently announced a partnership with Netflix to distribute its video podcasts to a broader audience starting in 2026 in the United States, with more markets to follow. Investors didn’t ask about the specifics of the revenue-sharing agreement on the earnings call; however, investors did want to understand how distributing podcasts off the platform would ultimately benefit Spotify.\nAccording to incoming co-CEO Alex Norström, the move is meant to center Spotify as a creators’ distribution hub.\n“We think … that when the creator wins, we win, and as creators optimize to create their best shows and interviews, which is really what they’re focused on,” Norström told investors and analysts. “They wanted to syndicate everywhere. And we believe, of course, in helping them to reach audiences in as many places as possible, which is consistent with our core philosophy on being creator-first.”\nLater, co-CEO Gustav Söderström suggested that allowing creators to be both on Spotify and Netflix gives the company further “revenue opportunities.” \n“This is the way to think about it: It’s part of our ubiquity strategy, and it’s really important that while we build a good user experience, we also need to have a very strong creator offer[ing],” he noted.\nNorström pointed out that having Spotify podcasts on YouTube increased awareness about the shows and their origins, which then resulted in net incremental usage on Spotify. The company expects the same with Netflix.\nIn addition, Spotify said the TV opportunity was a part of this equation — hence the recent upgrade of its Apple TV app. The more people can use Spotify across platforms, the more their usage increases, and that helps Spotify’s ads business.\nThe company also noted that it has given advertisers programmatic access to its audio and video inventory, though it admits that 2025 is a “transition year” for its ads business, and it doesn’t expect to see growth improve until the second half of 2026.\nThe streamer also announced its monthly active users increased 11% year-over-year to 713 million, and revenue was up to €4.27 billion (~$4.9 billion), beating Wall Street’s expectations. The company saw an €899 million net profit (~$1 billion) during the quarter.\nHowever, the stock slipped after the opening bell on Tuesday, due to Wall Street’s concerns over Spotify’s mixed guidance for its fourth quarter.\n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Spotify now has half a million video podcasts, which nearly 400M users have watched",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/05/spotify-podcasts-following-feed.jpg?w=150"
-      ],
-      "datePublished": "2025-11-04T16:21:40.000Z",
-      "dateModified": "2025-11-04T16:21:40.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Crowdfunding giant GoFundMe plans to sell gift cards ",
-    "url": "https://techcrunch.com/2025/11/04/crowdfunding-giant-gofundme-now-sells-gift-cards/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/11/Gift_cardsGoFundMe.jpeg?w=150",
-    "tag": "Tech",
-    "date": "2025-11-04T14:00:00.000Z",
-    "description": "\nGoFundMe has introduced a new offering that allows you to purchase digital gift cards for your loved ones, enabling them to donate to their favorite ",
-    "body": "\nGoFundMe has introduced a new offering that allows you to purchase digital gift cards for your loved ones, enabling them to donate to their favorite nonprofit organizations during the holidays. (Note that the product has yet to launch.)\nThe gift cards start at $5 and come in a variety of themes and causes, including Birthday, Christmas, Hanukkah, and Ramadan, as well as cards for animal lovers, cancer fighters, and nature protectors.\nThese cards work differently than traditional gift cards, though. They operate through Giving Funds, GoFundMe’s fee-free donor-advised fund (DAF). Launched in June, this marked the platform’s first entry into DAFs, aiming to make them accessible to everyday donors. Historically, donor-advised funds have been out of reach for most people due to high minimum contributions and fees.\nWhen recipients claim the gift card, the amount is deposited into their personal Giving Fund. They then have the option to donate immediately or allow the funds to grow tax-free in their account, which gives them the opportunity to contribute even more later. The person who purchased the gift card receives a tax deduction.\nRecipients can choose from 1.4 million nonprofits on the platform, ranging from local food banks to global organizations that provide disaster relief, support youth programs, and promote animal welfare.\nImage Credits:GoFundMe\nGoFundMe’s new gifting strategy could appeal to users for several reasons. For example, instead of giving a generic gift, people can help their loved ones support causes that truly matter to them, such as a local soup kitchen that helps feed families during Thanksgiving, a time when many people struggle to put a meal on the table.\nPlus, a nonprofit gift card can also be a great way for older generations to teach younger family members about the importance of giving back. It opens up conversations about different causes and the real impact they have.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nIn May, GoFundMe celebrated its 15th anniversary and announced that it had surpassed $40 billion raised globally. The company also launched GoFundMe Pro, a platform aimed at helping nonprofits with fundraising. The new platform introduced AI tools designed to make it easier for nonprofits to ask for donations.\nThis story has been updated after publication.\n\n\n\t\tLauren covers media, streaming, apps and platforms at TechCrunch.\nYou can contact or verify outreach from Lauren by emailing laurenf.techcrunch@gmail.com or via encrypted message at laurenforris22.25 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Crowdfunding giant GoFundMe plans to sell gift cards ",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/11/Gift_cardsGoFundMe.jpeg?w=150"
-      ],
-      "datePublished": "2025-11-04T14:00:00.000Z",
-      "dateModified": "2025-11-04T14:00:00.000Z",
+      "datePublished": "2025-11-04T19:35:51.000Z",
+      "dateModified": "2025-11-04T19:35:51.000Z",
       "author": [
         {
           "@type": "Person",
@@ -325,6 +225,56 @@
     }
   },
   {
+    "title": "Sequoia names Alfred Lin and Pat Grady as new co-stewards as Roelof Botha steps down",
+    "url": "https://techcrunch.com/2025/11/04/sequoia-names-alfred-lin-and-pat-grady-as-new-co-stewards-as-roelof-botha-steps-down/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/2243688557.jpg?w=150",
+    "tag": "Tech",
+    "date": "2025-11-04T20:34:41.000Z",
+    "description": "\nJust over three years after taking the reins as the top leader of Sequoia Capital, Roelof Botha is stepping down as senior steward of the storied VC ",
+    "body": "\nJust over three years after taking the reins as the top leader of Sequoia Capital, Roelof Botha is stepping down as senior steward of the storied VC firm. The firm announced Tuesday that partners Alfred Lin and Pat Grady will succeed him as co-stewards.\nLin joined the storied firm in 2010, where he has led major investments into category-defining companies like Airbnb, DoorDash, and Kalshi. Meanwhile, Pat Grady has been a partner for nearly 19 years and has led Sequoia’s growth-stage investing since 2015, backing iconic companies such as ServiceNow, OpenAI, and the legal AI platform Harvey.\nSince taking over leadership of Sequoia’s U.S. and European operations in 2017, Botha has overseen the distribution of $50 billion to the firm’s limited partners. He assumed the highest leadership role at the firm in mid-2022 and immediately oversaw a period of upheaval. He took the helm just as the downturn decimated the public markets, severely slashing the valuations of many companies across Sequoia’s portfolio. The firm also wrote off $200 million when its investment in cryptocurrency exchange FTX blew up — a small loss in the bigger scheme of things for Sequoia but a financial hit all the same. Further, in 2023, amid growing political tensions between the U.S. and China and regulatory pressures on both sides, Sequoia spun off its India and China operations into separate independent firms. \nThis year, Sequoia became embroiled in a controversy over partner Shaun Maguire’s comments attacking New York City mayoral candidate Zohran Mamdani, calling the politician an “Islamist” who “comes from a culture that lies about everything.” Though Maguire later walked back some of those remarks, they led to a sizable online backlash and debate. In August, Sequoia’s chief operating officer, Sumaiya Balbale, a practicing Muslim, quit over the firm’s decision not to discipline Maguire following his remarks, as first reported by the Financial Times and was discussed last week during an onstage sit-down with Botha during TechCrunch Disrupt.\nAsked about Balbale, Botha said that as a matter of routine, Sequoia doesn’t comment on personnel matters and that he appreciated everything Balbale had contributed to the firm. Asked about Maguire, Botha said, “Internally, we celebrate a diversity of opinions, and we need spiky people inside of Sequoia.”\nBotha continued, “We have some of our partners that are very active in philanthropy or some [other] private dealings, and they’re just not as vocal as Shaun might be on social media. And we’ve always honored the right to free speech of each of our individual partners.”\nDuring that same interview, Botha maintained that his role as senior steward is not one of absolute command, stressing that other partners hold nearly as much power to steer the firm’s direction. “My title is steward for a reason — it’s just a notch above ‘usher’ in the dictionary,” he said. Then, in a comment that drew laughter from attendees, he added: “It’s mostly because Global Supreme Leader wasn’t available.”\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nWhen TechCrunch editor-in-chief Connie Loizos asked Botha who might succeed him as leader of the firm given its historic emphasis on ensuring smooth hand-offs — Botha was himself promoted numerous times on his path to the top of the firm — Botha responded that Lin; Grady; Luciana Lixandru, who leads Sequoia’s European investments; and Andrew Reed, a partner whose investments in Figma and Klarna went public this year, “have incredible depth and operate as a team.”\nBotha also pointed out that every investor at Sequoia votes on investment decisions. “We want the triumph of ideas, not the triumph of seniority,” he said.\nThe transition news, however, suggests the steward position carries real weight. While Sequoia has continued to rack up major investment wins during Botha’s tenure, the leadership change comes as the firm seeks to move past a challenging period into its next phase.\nIndeed, Sequoia, one of world’s most prominent venture capital firms, recently renovated its office, installing a wall where every investor handwrote this reminder: “We are only as good as our next investment.”\nLast week, the firm announced a $750 million early-stage fund targeting Series A startups, as well as a $200 million seed fund.\n\n\n\n\n\n\t\tMarina Temkin is a venture capital and startups reporter at TechCrunch. Prior to joining TechCrunch, she wrote about VC for PitchBook and Venture Capital Journal. Earlier in her career, Marina was a financial analyst and earned a CFA charterholder designation.\r\nYou can contact or verify outreach from Marina by emailing marina.temkin@techcrunch.com or via encrypted message at +1 347-683-3909 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Sequoia names Alfred Lin and Pat Grady as new co-stewards as Roelof Botha steps down",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/10/2243688557.jpg?w=150"
+      ],
+      "datePublished": "2025-11-04T20:34:41.000Z",
+      "dateModified": "2025-11-04T20:34:41.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Amazon sends legal threats to Perplexity over agentic browsing",
+    "url": "https://techcrunch.com/2025/11/04/amazon-sends-legal-threats-to-perplexity-over-agentic-browsing/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2181996346.jpg?w=150",
+    "tag": "Tech",
+    "date": "2025-11-04T23:05:04.000Z",
+    "description": "\nAmazon has told Perplexity to get its agentic browser out of its online store, the companies both confirmed publicly on Tuesday. After warning Perple",
+    "body": "\nAmazon has told Perplexity to get its agentic browser out of its online store, the companies both confirmed publicly on Tuesday. After warning Perplexity multiple times that Comet, its AI-powered shopping assistant, was violating Amazon’s terms of service by not identifying itself as an agent, the e-commerce giant sent the AI search engine startup a sternly worded cease-and-desist letter, Perplexity wrote in a blog post titled “Bullying is not innovation.”\n“This week, Perplexity received an aggressive legal threat from Amazon, demanding we prohibit Comet users from using their AI assistants on Amazon. This is Amazon’s first legal salvo against an AI company, and it is a threat to all internet users,” Perplexity lamented in the blog post.\nPerplexity’s argument is that, since its agent is acting on behalf of a human user’s direction, the agent automatically has the “same permissions” as the human user. The implication is that it doesn’t have to identify itself as an agent.\nAmazon’s response points out that other third-party agents working at the behest of human users do identify themselves. “It is how others operate, including food delivery apps and the restaurants they take orders for, delivery service apps and the stores they shop from, and online travel agencies and the airlines they book tickets with for customers,” Amazon’s statement explains.\nIf Amazon is to be believed, then Perplexity could simply identify its agent and start shopping. Of course, the risk is that Amazon, which has its own shopping bot called Rufus, could also block Comet — or any other third-party agentic shopper — from its site.\nAmazon suggests as much as its statement, which also says, “We think it’s fairly straightforward that third-party applications that offer to make purchases on behalf of customers from other businesses should operate openly and respect service provider decisions whether or not to participate.”\nPerplexity claims that Amazon would block the shopping bot because Amazon wants to sell advertising and product placements. Unlike human shoppers, a bot tasked with buying a new laundry basket presumably wouldn’t find itself buying a more expensive one, or getting lured into buying the latest Brandon Sanderson novel and a new set of earphones (on sale!).\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nIf all of this sounds a bit familiar, that’s because it is. A few months ago, Cloudflare published research accusing Perplexity of scraping websites while specifically defying requests from websites blocking AI bots. Interestingly, many people came to Perplexity’s defense that time, because this wasn’t a clear-cut case of web crawler bad behavior. Cloudflare documented how the AI was accessing a specific public website when its user asked about that specific website. Perplexity fans argued that this is exactly what every human-operated web browser does.\nOn the other hand, Perplexity was using some questionable methods to do that accessing when a website opted out of bots, like hiding its identity.\nAs TechCrunch reported at the time, the Cloudflare incident foreshadowed the challenges to come if the agentic world materializes as Silicon Valley predicts it will. If consumers and companies outsource their shopping, travel bookings, and restaurant reservations to bots, will it be in the best interest of websites to block bots entirely? How will they allow and work with them?\nPerplexity may be right in that Amazon is setting a precedent. As the 800-pound gorilla in e-commerce, it is clearly saying that the way this should work is for an agent to identify itself and let the website decide.\n\n\n\t\tRebecca Bellan is a senior reporter at TechCrunch where she covers the business, policy, and emerging trends shaping artificial intelligence. Her work has also appeared in Forbes, Bloomberg, The Atlantic, The Daily Beast, and other publications. \r\nYou can contact or verify outreach from Rebecca by emailing rebecca.bellan@techcrunch.com or via encrypted message at rebeccabellan.491 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Amazon sends legal threats to Perplexity over agentic browsing",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2181996346.jpg?w=150"
+      ],
+      "datePublished": "2025-11-04T23:05:04.000Z",
+      "dateModified": "2025-11-04T23:05:04.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Shopify says AI traffic is up 7x since January, AI-driven orders are up 11x",
     "url": "https://techcrunch.com/2025/11/04/shopify-says-ai-traffic-is-up-7x-since-january-ai-driven-orders-are-up-11x/",
     "image": "https://techcrunch.com/wp-content/uploads/2023/05/ShopifyIPO2-e1683204509217.jpg?w=150",
@@ -350,22 +300,72 @@
     }
   },
   {
-    "title": "Anthropic projects $70B in revenue by 2028: Report",
-    "url": "https://techcrunch.com/2025/11/04/anthropic-expects-b2b-demand-to-boost-revenue-to-70b-in-2028-report/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/06/AI-Sessions-Anthropic-Kaplan.jpg?w=150",
+    "title": "Spotify now has half a million video podcasts, which nearly 400M users have watched",
+    "url": "https://techcrunch.com/2025/11/04/spotify-now-has-half-a-million-video-podcasts-which-nearly-400m-users-have-watched/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/05/spotify-podcasts-following-feed.jpg?w=150",
     "tag": "Tech",
-    "date": "2025-11-04T16:48:54.000Z",
-    "description": "\nThe Information reports that Anthropic expects to generate as much as $70 billion in revenue and $17 billion in cash flow in 2028. The growth project",
-    "body": "\nThe Information reports that Anthropic expects to generate as much as $70 billion in revenue and $17 billion in cash flow in 2028. The growth projections are fueled by rapid adoption of Anthropic’s business products, a person with knowledge of the company’s financials said.  \nLast month, Reuters reported that Anthropic is projected to more than double, and potentially nearly triple, its annual revenue run rate next year. The company is reportedly on track to meet a goal of $9 billion in ARR by the end of 2025 and has set a target of $20 billion to $26 billion ARR for 2026. \nAnthropic expects its revenue this year from selling access to its AI models through an API to hit $3.8 billion, doubling the $1.8 billion revenue OpenAI expects to generate from API sales, per The Information. Claude Code is reportedly close to generating $1 billion in annualized revenue, up from about $400 million in July. \nIn recent weeks, Anthropic’s aggressive B2B strategy has become clearer. Microsoft and Anthropic recently began partnering to use Anthropic’s models in Microsoft 365 apps and Copilot. Anthropic has also expanded its Salesforce partnership and plans to roll out its AI assistant Claude to hundreds of thousands of employees at Deloitte and Cognizant.  \nWhen it comes to model improvements, Anthropic has, over the last two months, launched smaller, more cost-effective models — Claude Sonnet 4.5 and Claude Haiku 4.5 — which appeal to businesses deploying AI at scale. The startup has also expanded Claude for Financial Services and introduced Enterprise Search to enable businesses to connect all their internal work apps to Claude. \nAnthropic might lean on its growth to raise more funds. The startup last raised $13 billion from investors in September in an oversubscribed round that valued Anthropic at $170 billion. If it raises again, Anthropic would likely target a valuation of between $300 billion and $400 billion, according to The Information. \nThe outlet’s reporting also includes a projection of $17 billion in cash flow in 2028. Cash flow isn’t the same thing as profit — it just means a company has more money coming in than is going out from its operations, investments, and financing activities. Anthropic’s publicly available liabilities include a $2.5 billion credit facility and a $1.5 billion legal settlement from a copyright lawsuit that a group of authors brought against the company. \n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThat said, the company expects its gross profit margin — which measures a company’s profitability after accounting for direct costs associated with producing goods and services — to reach 50% this year and 77% in 2028, up from negative 94% last year, per The Information.\nOpenAI, Anthropic’s main rival recently valued at $500 billion, is also pursuing a B2B strategy, coupled with a strong consumer push fueled by its 800 million weekly users. OpenAI expects to generate $13 billion in revenue this year and reach revenue of $100 billion in 2027. But whereas Anthropic is projecting positive cash flow by 2028, OpenAI is expecting sizable losses, with cash burn reaching $14 billion in 2026 and expected to mount to $115 billion through 2029 as the company ramps up infrastructure spending.  \n\n\n\t\tRebecca Bellan is a senior reporter at TechCrunch where she covers the business, policy, and emerging trends shaping artificial intelligence. Her work has also appeared in Forbes, Bloomberg, The Atlantic, The Daily Beast, and other publications. \r\nYou can contact or verify outreach from Rebecca by emailing rebecca.bellan@techcrunch.com or via encrypted message at rebeccabellan.491 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2025-11-04T16:21:40.000Z",
+    "description": "\nSpotify says its video podcasts are seeing increased consumer adoption. In its third-quarter earnings report, the company shared that its video podca",
+    "body": "\nSpotify says its video podcasts are seeing increased consumer adoption. In its third-quarter earnings report, the company shared that its video podcast catalog has expanded to nearly half a million shows, and more than 390 million users have now streamed a video podcast on the platform.\nThat figure is up 54% year-over-year, and it also reflects Spotify’s increased investment in the format. In June 2024, the company said it had some 250,000 video podcasts as it rolled out tools that let non-hosted podcasters upload their videos to the platform. The streaming giant also lets users engage with podcasts through comments, Q&As, and polls, making the app feel more like a social network.\nAs a result, Spotify says that users’ time spent with video content on Spotify has also more than doubled year-over-year, largely driven by video podcasts. In addition, video podcast consumption has increased by more than 80% since the launch of the Spotify Partner Program, or SPP, in January, which gives qualifying creators the ability to monetize their shows in new ways, including audience-driven payouts from Spotify Premium user engagement.\nThe company also recently announced a partnership with Netflix to distribute its video podcasts to a broader audience starting in 2026 in the United States, with more markets to follow. Investors didn’t ask about the specifics of the revenue-sharing agreement on the earnings call; however, investors did want to understand how distributing podcasts off the platform would ultimately benefit Spotify.\nAccording to incoming co-CEO Alex Norström, the move is meant to center Spotify as a creators’ distribution hub.\n“We think … that when the creator wins, we win, and as creators optimize to create their best shows and interviews, which is really what they’re focused on,” Norström told investors and analysts. “They wanted to syndicate everywhere. And we believe, of course, in helping them to reach audiences in as many places as possible, which is consistent with our core philosophy on being creator-first.”\nLater, co-CEO Gustav Söderström suggested that allowing creators to be both on Spotify and Netflix gives the company further “revenue opportunities.” \n“This is the way to think about it: It’s part of our ubiquity strategy, and it’s really important that while we build a good user experience, we also need to have a very strong creator offer[ing],” he noted.\nNorström pointed out that having Spotify podcasts on YouTube increased awareness about the shows and their origins, which then resulted in net incremental usage on Spotify. The company expects the same with Netflix.\nIn addition, Spotify said the TV opportunity was a part of this equation — hence the recent upgrade of its Apple TV app. The more people can use Spotify across platforms, the more their usage increases, and that helps Spotify’s ads business.\nThe company also noted that it has given advertisers programmatic access to its audio and video inventory, though it admits that 2025 is a “transition year” for its ads business, and it doesn’t expect to see growth improve until the second half of 2026.\nThe streamer also announced its monthly active users increased 11% year-over-year to 713 million, and revenue was up to €4.27 billion (~$4.9 billion), beating Wall Street’s expectations. The company saw an €899 million net profit (~$1 billion) during the quarter.\nHowever, the stock slipped after the opening bell on Tuesday, due to Wall Street’s concerns over Spotify’s mixed guidance for its fourth quarter.\n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Anthropic projects $70B in revenue by 2028: Report",
+      "headline": "Spotify now has half a million video podcasts, which nearly 400M users have watched",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/06/AI-Sessions-Anthropic-Kaplan.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2025/05/spotify-podcasts-following-feed.jpg?w=150"
       ],
-      "datePublished": "2025-11-04T16:48:54.000Z",
-      "dateModified": "2025-11-04T16:48:54.000Z",
+      "datePublished": "2025-11-04T16:21:40.000Z",
+      "dateModified": "2025-11-04T16:21:40.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Nvidia, Deutsche Telekom strike €1B partnership for a data center in Munich",
+    "url": "https://techcrunch.com/2025/11/04/nvidia-deutsche-telekom-strike-e1b-partnership-for-a-data-center-in-munich/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/11/bi-251104-industrial-ai-cloud-02-en.jpg?w=150",
+    "tag": "Tech",
+    "date": "2025-11-04T14:19:06.000Z",
+    "description": "\nNvidia is playing fast and loose with its war chest as it looks to build on its momentum as the chief benefactor of the AI boom. \nThe company on Tues",
+    "body": "\nNvidia is playing fast and loose with its war chest as it looks to build on its momentum as the chief benefactor of the AI boom. \nThe company on Tuesday signed a €1 billion ($1.15 billion) partnership with Deutsche Telekom to set up an “AI factory” in Munich that aims to boost Germany’s AI computing power by 50%.\nCalled the “Industrial AI Cloud,” the project will use more than 1,000 Nvidia DGX B200 systems and RTX Pro Servers with up to 10,000 Blackwell GPUs to provide AI inferencing and other services to German companies while complying with German data sovereignty laws.\nDeutsche Telekom said early partners of the project include Agile Robots, whose bots will be used to install server racks at the facility, and Perplexity, which will use the data center to provide “in-country” AI inferencing to German users and companies. The telco also outlined digital twins and physics-based simulation as use cases for industrial companies.\nThe telecom company said it would provide the physical infrastructure for the project, while SAP will provide its business technology platform and applications.\nThe partnership comes at a time when the European tech industry has been calling on EU lawmakers to reduce their reliance on foreign infrastructure and service providers and to foster adoption of homegrown alternatives. At the same time, tech companies have been criticizing the bloc’s approach to regulating AI, arguing that the rules only serve to hold back innovation.\nThe EU earlier this year committed €200 billion to set up “AI gigafactories” on the continent, focusing on “industrial and mission-critical applications.” But funding for AI initiatives in the European Union has been notably lower than in the U.S., where companies like Nvidia, Microsoft, Google, and Oracle have pumped in hundreds of billions to build massive data centers and assorted infrastructure to support development of AI models and services.\nDeutsche Telekom noted that this project, expected to start operations in early 2026, is separate from the EU’s AI gigafactory initiative.\n“Mechanical engineering and industry have made this country strong,” says Tim Höttges, CEO of Deutsche Telekom. “But here, too, we are challenged. AI is a huge opportunity. It will help to improve our products and strengthen our European strengths.”\n\n\n\t\tRam is a financial and tech reporter and editor. He covered North American and European M&A, equity, regulatory news and debt markets at Reuters and Acuris Global, and has also written about travel, tourism, entertainment and books.\nYou can contact or verify outreach from Ram by emailing ram.iyer@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Nvidia, Deutsche Telekom strike €1B partnership for a data center in Munich",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/11/bi-251104-industrial-ai-cloud-02-en.jpg?w=150"
+      ],
+      "datePublished": "2025-11-04T14:19:06.000Z",
+      "dateModified": "2025-11-04T14:19:06.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Phone location data of top EU officials for sale, report finds",
+    "url": "https://techcrunch.com/2025/11/04/phone-location-data-of-top-eu-officials-for-sale-report-finds/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/01/Location-data.jpg?w=150",
+    "tag": "Tech",
+    "date": "2025-11-04T17:19:26.000Z",
+    "description": "\n\t\n\t\tImage Credits:Vadym Ivanchenko / Getty Images\t\n\t\n\t\t\t\t\t\t9:19 AM PST · November 4, 2025\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nJournalists in Europe found it was “easy” t",
+    "body": "\n\t\n\t\tImage Credits:Vadym Ivanchenko / Getty Images\t\n\t\n\t\t\t\t\t\t9:19 AM PST · November 4, 2025\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nJournalists in Europe found it was “easy” to spy on top European Union officials using commercially obtained location histories sold by data brokers, despite the continent having some of the strongest data protection laws in the world.\nEU officials said they’re “concerned” about the trade of citizen and officials’ mobile phone location data, and have issued new guidance to staff to counter the tracking, according to a report by Netzpolitik.\nA coalition of reporters obtained the dataset, offered as a free sample from a data broker, containing 278 million location data points from the phones of millions of people around Belgium. Much of the location data is uploaded by ordinary apps installed on a person’s phone, which is sold to data brokers. Those data brokers then sell that data to governments and militaries. \nThe dataset also included the granular location histories of Europe’s top officials, including those who work directly for the European Commission, which has its headquarters in Brussels. \nThe reporters said they were able to identify hundreds of devices belonging to people who work in sensitive areas around the EU, including 2,000 location markers from 264 officials’ devices, and around 5,800 location markers from more than 750 devices in the European Parliament.\nEurope has some of the strongest data protection rules in the world with its GDPR law. However, watchdogs and officials across Europe have been slow to take stronger enforcement action against data brokers, Netzpolitik reported. Data brokering has ballooned to become a billion-dollar industry involving the sale and trade of people’s location data and other private information.\nTo counter some of this location tracking, Apple customers can anonymize their device identifiers, and Android owners can regularly reset their device’s identifier.\nLast year, a data broker called Gravy Analytics had a data breach that exposed the location data belonging to tens of millions of people, including where they have been and where they live and work. Researchers examining the data said the location records could be used to extensively track people’s recent whereabouts.\n\n\t\t\t\n\tTopics\n\n\n\n\t\tZack Whittaker is the security editor at TechCrunch. He also authors the weekly cybersecurity newsletter, this week in security. \nHe can be reached via encrypted message at zackwhittaker.1337 on Signal. You can also contact him by email, or to verify outreach, at zack.whittaker@techcrunch.com. \t\n\t\n\t\tView Bio \n\t\n\n\t\t",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Phone location data of top EU officials for sale, report finds",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2024/01/Location-data.jpg?w=150"
+      ],
+      "datePublished": "2025-11-04T17:19:26.000Z",
+      "dateModified": "2025-11-04T17:19:26.000Z",
       "author": [
         {
           "@type": "Person",
