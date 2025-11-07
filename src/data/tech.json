@@ -25,22 +25,47 @@
     }
   },
   {
-    "title": "Ford execs reportedly discuss ending the F-150 Lightning",
-    "url": "https://techcrunch.com/2025/11/06/ford-execs-reportedly-discuss-ending-the-f-150-lightning/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/04/ford-f1-50-lightning-rar.jpg?w=150",
+    "title": "Grand Theft Auto VI is delayed — again",
+    "url": "https://techcrunch.com/2025/11/06/grand-theft-auto-vi-is-delayed-again/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/12/grand-theft-auto-youtube-record.jpg?w=150",
     "tag": "Tech",
-    "date": "2025-11-06T20:02:08.000Z",
-    "description": "\nExecutives at Ford are considering killing its flagship electric pickup truck, the F-150 Lightning, according to The Wall Street Journal.\nThe discuss",
-    "body": "\nExecutives at Ford are considering killing its flagship electric pickup truck, the F-150 Lightning, according to The Wall Street Journal.\nThe discussions are happening in the wake of Ford’s late October decision to idle F-150 Lightning production while it prioritizes hybrid and gas-engine versions of the popular pickup. The company’s been dealing with production troubles after a fire broke out at aluminum supplier Novelis’ factory in Oswego, New York, earlier this year.\nFord introduced the F-150 Lightning in 2021 with a promised base price of $40,000. It started building and selling the truck in 2022 — although the truck wound up costing most customers a lot more. \nBut while it’s been one of the top-selling electric trucks in the United States since then, Ford has struggled to sell more than a few thousand of them per quarter. The market for electric trucks was tough even before Republicans in Congress ended the federal EV tax credit and the Trump administration took an axe to emissions regulations that encouraged the adoption of electric vehicles.\n",
+    "date": "2025-11-06T22:02:24.000Z",
+    "description": "\nGrand Theft Auto VI, one of the most anticipated video games of all time, has been delayed, again — this time until November 19, 2026.\nThe game was i",
+    "body": "\nGrand Theft Auto VI, one of the most anticipated video games of all time, has been delayed, again — this time until November 19, 2026.\nThe game was initially slated for a fall 2025 release but was pushed back to May 2026. On Thursday, Rockstar Games announced that the development team needs another six months.\n“We are sorry for adding additional time to what we realize has been a long wait, but these extra months will allow us to finish the game with the level of polish you have come to expect and deserve,” Rockstar Games wrote in their statement.\nGrand Theft Auto VI is the sequel to Grand Theft Auto V, which was released in 2013. According to Guinness World Records, that game became the fastest entertainment property to reach $1 billion in sales, hitting the milestone after just three days on the market. Fans are so eager for the next installment in the franchise that when Rockstar Games released the trailer for the game in December 2023, it broke the record for the most YouTube views in 24 hours (excluding music videos).\nRockstar Games did not provide additional details about the delay. Last week, the company fired between 30 and 40 employees for allegedly sharing confidential information in a Discord server.\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Ford execs reportedly discuss ending the F-150 Lightning",
+      "headline": "Grand Theft Auto VI is delayed — again",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2022/04/ford-f1-50-lightning-rar.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2023/12/grand-theft-auto-youtube-record.jpg?w=150"
       ],
-      "datePublished": "2025-11-06T20:02:08.000Z",
-      "dateModified": "2025-11-06T20:02:08.000Z",
+      "datePublished": "2025-11-06T22:02:24.000Z",
+      "dateModified": "2025-11-06T22:02:24.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Laude Institute announces first batch of ‘Slingshots’ AI grants",
+    "url": "https://techcrunch.com/2025/11/06/laude-institute-announces-first-batch-of-slingshots-ai-grants/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/11/Laude-Slingshots-One.jpeg?w=150",
+    "tag": "Tech",
+    "date": "2025-11-06T21:55:05.000Z",
+    "description": "\nIn Brief\nPosted:\n1:55 PM PST · November 6, 2025\n\nImage Credits:Laude Institute\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nOn Thursday, the Laude Inst",
+    "body": "\nIn Brief\nPosted:\n1:55 PM PST · November 6, 2025\n\nImage Credits:Laude Institute\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nOn Thursday, the Laude Institute announced its first batch of Slingshots grants, aimed at “advancing the science and practice of artificial intelligence.”\nDesigned as an accelerator for researchers, the Slingshots program is meant to provide resources that would be unavailable in most academic settings, whether it’s funding, compute power, or product and engineering support. In exchange, the recipients pledge to produce some final work product, whether it’s a startup, an open-source codebase, or another type of artifact.\nThe initial cohort is fifteen projects, with a particular focus on the difficult problem of AI evaluation. Some of those projects will be familiar to TechCrunch readers, including the command-line coding benchmark Terminal Bench and the latest version of the long-running ARC-AGI project.\nOthers take a fresh approach to a long-established evaluation problem. Formula Code, built by researchers at CalTech and UT Austin, aims to produce an evaluation of AI agents’ ability to optimize existing code, while the Columbia-based BizBench proposes a comprehensive benchmark for “white-collar AI agents.” Other grants explore new structures for reinforcement learning or model compression.\nSWE-Bench co-founder John Boda Yang is also part of the cohort, as leader of the new CodeClash project. Inspired by the success of SWE-Bench, CodeClash will assess code through a dynamic competition-based framework, which Yang hopes will make the results more comprehensive.\n“I do think people continuing to evaluate on core third-party benchmarks drives progress,” Yang told TechCrunch. “I’m a little bit worried about a future where benchmarks just become specific to companies.” \n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\nLatest in AI\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Laude Institute announces first batch of ‘Slingshots’ AI grants",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/11/Laude-Slingshots-One.jpeg?w=150"
+      ],
+      "datePublished": "2025-11-06T21:55:05.000Z",
+      "dateModified": "2025-11-06T21:55:05.000Z",
       "author": [
         {
           "@type": "Person",
@@ -75,47 +100,22 @@
     }
   },
   {
-    "title": "Grand Theft Auto VI is delayed — again",
-    "url": "https://techcrunch.com/2025/11/06/grand-theft-auto-vi-is-delayed-again/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/12/grand-theft-auto-youtube-record.jpg?w=150",
+    "title": "Ford execs reportedly discuss ending the F-150 Lightning",
+    "url": "https://techcrunch.com/2025/11/06/ford-execs-reportedly-discuss-ending-the-f-150-lightning/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/04/ford-f1-50-lightning-rar.jpg?w=150",
     "tag": "Tech",
-    "date": "2025-11-06T22:02:24.000Z",
-    "description": "\nGrand Theft Auto VI, one of the most anticipated video games of all time, has been delayed, again — this time until November 19, 2026.\nThe game was i",
-    "body": "\nGrand Theft Auto VI, one of the most anticipated video games of all time, has been delayed, again — this time until November 19, 2026.\nThe game was initially slated for a fall 2025 release but was pushed back to May 2026. On Thursday, Rockstar Games announced that the development team needs another six months.\n“We are sorry for adding additional time to what we realize has been a long wait, but these extra months will allow us to finish the game with the level of polish you have come to expect and deserve,” Rockstar Games wrote in their statement.\nGrand Theft Auto VI is the sequel to Grand Theft Auto V, which was released in 2013. According to Guinness World Records, that game became the fastest entertainment property to reach $1 billion in sales, hitting the milestone after just three days on the market. Fans are so eager for the next installment in the franchise that when Rockstar Games released the trailer for the game in December 2023, it broke the record for the most YouTube views in 24 hours (excluding music videos).\nRockstar Games did not provide additional details about the delay. Last week, the company fired between 30 and 40 employees for allegedly sharing confidential information in a Discord server.\n",
+    "date": "2025-11-06T20:02:08.000Z",
+    "description": "\nExecutives at Ford are considering killing its flagship electric pickup truck, the F-150 Lightning, according to The Wall Street Journal.\nThe discuss",
+    "body": "\nExecutives at Ford are considering killing its flagship electric pickup truck, the F-150 Lightning, according to The Wall Street Journal.\nThe discussions are happening in the wake of Ford’s late October decision to idle F-150 Lightning production while it prioritizes hybrid and gas-engine versions of the popular pickup. The company’s been dealing with production troubles after a fire broke out at aluminum supplier Novelis’ factory in Oswego, New York, earlier this year.\nFord introduced the F-150 Lightning in 2021 with a promised base price of $40,000. It started building and selling the truck in 2022 — although the truck wound up costing most customers a lot more. \nBut while it’s been one of the top-selling electric trucks in the United States since then, Ford has struggled to sell more than a few thousand of them per quarter. The market for electric trucks was tough even before Republicans in Congress ended the federal EV tax credit and the Trump administration took an axe to emissions regulations that encouraged the adoption of electric vehicles.\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Grand Theft Auto VI is delayed — again",
+      "headline": "Ford execs reportedly discuss ending the F-150 Lightning",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2023/12/grand-theft-auto-youtube-record.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2022/04/ford-f1-50-lightning-rar.jpg?w=150"
       ],
-      "datePublished": "2025-11-06T22:02:24.000Z",
-      "dateModified": "2025-11-06T22:02:24.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Sam Altman says OpenAI has $20B ARR and about $1.4 trillion in data center commitments",
-    "url": "https://techcrunch.com/2025/11/06/sam-altman-says-openai-has-20b-arr-and-about-1-4-trillion-in-data-center-commitments/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2197366846.jpg?w=150",
-    "tag": "Tech",
-    "date": "2025-11-06T21:18:06.000Z",
-    "description": "\nIn Brief\nPosted:\n1:18 PM PST · November 6, 2025\n\nImage Credits:Tomohiro Ohsumi / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nRarely has a",
-    "body": "\nIn Brief\nPosted:\n1:18 PM PST · November 6, 2025\n\nImage Credits:Tomohiro Ohsumi / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nRarely has a month gone by in 2025 without OpenAI signing another multibillion-dollar data center deal. In a lengthy post on X on Thursday, OpenAI CEO Sam Altman publicly clarified the totals.\n“We expect to end this year above $20 billion in annualized revenue run rate and grow to hundreds of billion by 2030. We are looking at commitments of about $1.4 trillion over the next 8 years,” he wrote.\nWhile the post was largely a response to a brouhaha over comments his CFO made, and quickly walked back, concerning government-backstopped loans, Altman also listed a number of future business plans he believes will generate significant revenue.\nHe said OpenAI has an upcoming enterprise offering. Earlier this week, OpenAI said it already had a million business customers.\nHe named consumer devices and robotics. In May, OpenAI acquired Jony Ive’s io, and they are reportedly working on a palm-sized AI device.\nAltman mentioned scientific discovery as an upcoming business. Not much is known about it yet, except that OpenAI VP Kevin Weil mentioned a newly launched OpenAI for Science some months ago.\nAltman also said OpenAI could become a cloud computing provider: “We are also looking at ways to more directly sell compute capacity to other companies (and people); we are pretty sure the world is going to need a lot of ‘AI cloud’, and we are excited to offer this.” \n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThat’s a bold idea for a company that doesn’t yet have its own network of data centers.\nBeyond revenue, Altman noted that the company may also pay for its needs the old-fashioned way: selling more equity or taking on more loans.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\nLatest in AI\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Sam Altman says OpenAI has $20B ARR and about $1.4 trillion in data center commitments",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2197366846.jpg?w=150"
-      ],
-      "datePublished": "2025-11-06T21:18:06.000Z",
-      "dateModified": "2025-11-06T21:18:06.000Z",
+      "datePublished": "2025-11-06T20:02:08.000Z",
+      "dateModified": "2025-11-06T20:02:08.000Z",
       "author": [
         {
           "@type": "Person",
@@ -150,22 +150,22 @@
     }
   },
   {
-    "title": "Laude Institute announces first batch of ‘Slingshots’ AI grants",
-    "url": "https://techcrunch.com/2025/11/06/laude-institute-announces-first-batch-of-slingshots-ai-grants/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/11/Laude-Slingshots-One.jpeg?w=150",
+    "title": "Sam Altman says OpenAI has $20B ARR and about $1.4 trillion in data center commitments",
+    "url": "https://techcrunch.com/2025/11/06/sam-altman-says-openai-has-20b-arr-and-about-1-4-trillion-in-data-center-commitments/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2197366846.jpg?w=150",
     "tag": "Tech",
-    "date": "2025-11-06T21:55:05.000Z",
-    "description": "\nIn Brief\nPosted:\n1:55 PM PST · November 6, 2025\n\nImage Credits:Laude Institute\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nOn Thursday, the Laude Inst",
-    "body": "\nIn Brief\nPosted:\n1:55 PM PST · November 6, 2025\n\nImage Credits:Laude Institute\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nOn Thursday, the Laude Institute announced its first batch of Slingshots grants, aimed at “advancing the science and practice of artificial intelligence.”\nDesigned as an accelerator for researchers, the Slingshots program is meant to provide resources that would be unavailable in most academic settings, whether it’s funding, compute power, or product and engineering support. In exchange, the recipients pledge to produce some final work product, whether it’s a startup, an open source codebase, or another type of artifact.\nThe initial cohort is 15 projects, with a particular focus on the difficult problem of AI evaluation. Some of those projects will be familiar to TechCrunch readers, including the command-line coding benchmark Terminal Bench and the latest version of the long-running ARC-AGI project.\nOthers take a fresh approach to a long-established evaluation problem. Formula Code, built by researchers at Caltech and UT Austin, aims to produce an evaluation of AI agents’ ability to optimize existing code, while the Columbia-based BizBench proposes a comprehensive benchmark for “white-collar AI agents.” Other grants explore new structures for reinforcement learning or model compression.\nSWE-Bench co-founder John Boda Yang is also part of the cohort, as leader of the new CodeClash project. Inspired by the success of SWE-Bench, CodeClash will assess code through a dynamic competition-based framework, which Yang hopes will\n“I do think people continuing to evaluate on core third-party benchmarks drives progress,” Yang told TechCrunch. “I’m a little bit worried about a future where benchmarks just become specific to companies.” \n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\nLatest in AI\n",
+    "date": "2025-11-06T21:18:06.000Z",
+    "description": "\nIn Brief\nPosted:\n1:18 PM PST · November 6, 2025\n\nImage Credits:Tomohiro Ohsumi / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nRarely has a",
+    "body": "\nIn Brief\nPosted:\n1:18 PM PST · November 6, 2025\n\nImage Credits:Tomohiro Ohsumi / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nRarely has a month gone by in 2025 without OpenAI signing another multibillion-dollar data center deal. In a lengthy post on X on Thursday, OpenAI CEO Sam Altman publicly clarified the totals.\n“We expect to end this year above $20 billion in annualized revenue run rate and grow to hundreds of billion by 2030. We are looking at commitments of about $1.4 trillion over the next 8 years,” he wrote.\nWhile the post was largely a response to a brouhaha over comments his CFO made, and quickly walked back, concerning government-backstopped loans, Altman also listed a number of future business plans he believes will generate significant revenue.\nHe said OpenAI has an upcoming enterprise offering. Earlier this week, OpenAI said it already had a million business customers.\nHe named consumer devices and robotics. In May, OpenAI acquired Jony Ive’s io, and they are reportedly working on a palm-sized AI device.\nAltman mentioned scientific discovery as an upcoming business. Not much is known about it yet, except that OpenAI VP Kevin Weil mentioned a newly launched OpenAI for Science some months ago.\nAltman also said OpenAI could become a cloud computing provider: “We are also looking at ways to more directly sell compute capacity to other companies (and people); we are pretty sure the world is going to need a lot of ‘AI cloud’, and we are excited to offer this.” \n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThat’s a bold idea for a company that doesn’t yet have its own network of data centers.\nBeyond revenue, Altman noted that the company may also pay for its needs the old-fashioned way: selling more equity or taking on more loans.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\nLatest in AI\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Laude Institute announces first batch of ‘Slingshots’ AI grants",
+      "headline": "Sam Altman says OpenAI has $20B ARR and about $1.4 trillion in data center commitments",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/11/Laude-Slingshots-One.jpeg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2197366846.jpg?w=150"
       ],
-      "datePublished": "2025-11-06T21:55:05.000Z",
-      "dateModified": "2025-11-06T21:55:05.000Z",
+      "datePublished": "2025-11-06T21:18:06.000Z",
+      "dateModified": "2025-11-06T21:18:06.000Z",
       "author": [
         {
           "@type": "Person",
@@ -191,6 +191,31 @@
       ],
       "datePublished": "2025-11-06T23:57:12.000Z",
       "dateModified": "2025-11-06T23:57:12.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Accel backs Uber rival Rapido as Prosus boosts stake",
+    "url": "https://techcrunch.com/2025/11/06/accel-backs-uber-rival-rapido-as-prosus-boosts-stake/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/11/rapido.jpg?w=150",
+    "tag": "Tech",
+    "date": "2025-11-06T22:12:18.000Z",
+    "description": "\nAccel has invested in Rapido, the ride-hailing platform competing with Uber in India, while Prosus has increased its stake, after Indian two-wheeler ",
+    "body": "\nAccel has invested in Rapido, the ride-hailing platform competing with Uber in India, while Prosus has increased its stake, after Indian two-wheeler giant TVS Motor sold its entire holding.\nOn Thursday, TVS Motor said in a stock exchange filing (PDF) that it has sold its entire stake in Rapido for ₹2.88 billion (about $32 million) to Accel and Prosus’ investment unit, MIH Investments, securing a return of more than 152% over the past three years.\nFounded in 2015, Rapido has grown into a major player in India’s ride-hailing market, competing with Uber, Ola, and inDrive. The company began with bike taxis before expanding into auto-rickshaw bookings and car services and has added courier services to its platform. It has more recently been piloting a food-delivery service in select cities, entering a segment dominated by Swiggy and Zomato.\nTVS Motor first invested in Rapido in April 2022 as part of the company’s $180 million Series D round, joining existing backers such as WestBridge Capital, Shell Ventures, and Nexus Venture Partners. The automaker bought its stake at that time for ₹1.14 billion, according to its earlier investor disclosures (PDF).\nAs part of the latest transaction, Accel purchased 11,997 preference shares in Rapido, while Prosus acquired 11,988 preference shares and 10 equity shares. Both investors paid about ₹1.44 billion (roughly $16 million) each.\nAccel’s backing of Rapido marks a return to India’s ride-hailing sector for the firm, which was an early investor in Ola. The move comes as Rapido is in talks with Accel and Prosus for a new primary funding round that could close next year, according to two people familiar with the matter who spoke to TechCrunch. The exact funding size has yet to be determined.\nProsus is already an investor in Rapido and expanded its stake through another secondary share sale in September, when Swiggy sold its entire holding. That transaction doubled Rapido’s valuation to $2.3 billion, TechCrunch reported.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nAccel and Prosus are also early backers of Swiggy, which exited Rapido after citing a potential conflict of interest, as the ride-hailing startup prepared to expand into the food-delivery market.\nAccel and Prosus did not respond to requests for comment. Rapido could not be reached for comment.\n\n\n\t\tJagmeet covers startups, tech policy-related updates, and all other major tech-centric developments from India for TechCrunch. He previously worked as a principal correspondent at NDTV. \r\nYou can contact or verify outreach from Jagmeet by emailing mail@journalistjagmeet.com.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Accel backs Uber rival Rapido as Prosus boosts stake",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/11/rapido.jpg?w=150"
+      ],
+      "datePublished": "2025-11-06T22:12:18.000Z",
+      "dateModified": "2025-11-06T22:12:18.000Z",
       "author": [
         {
           "@type": "Person",
@@ -250,56 +275,6 @@
     }
   },
   {
-    "title": "Accel backs Uber rival Rapido as Prosus boosts stake",
-    "url": "https://techcrunch.com/2025/11/06/accel-backs-uber-rival-rapido-as-prosus-boosts-stake/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/11/rapido.jpg?w=150",
-    "tag": "Tech",
-    "date": "2025-11-06T22:12:18.000Z",
-    "description": "\nAccel has invested in Rapido, the ride-hailing platform competing with Uber in India, while Prosus has increased its stake, after Indian two-wheeler ",
-    "body": "\nAccel has invested in Rapido, the ride-hailing platform competing with Uber in India, while Prosus has increased its stake, after Indian two-wheeler giant TVS Motor sold its entire holding.\nOn Thursday, TVS Motor said in a stock exchange filing (PDF) that it has sold its entire stake in Rapido for ₹2.88 billion (about $32 million) to Accel and Prosus’ investment unit, MIH Investments, securing a return of more than 152% over the past three years.\nFounded in 2015, Rapido has grown into a major player in India’s ride-hailing market, competing with Uber, Ola, and inDrive. The company began with bike taxis before expanding into auto-rickshaw bookings and car services and has added courier services to its platform. It has more recently been piloting a food-delivery service in select cities, entering a segment dominated by Swiggy and Zomato.\nTVS Motor first invested in Rapido in April 2022 as part of the company’s $180 million Series D round, joining existing backers such as WestBridge Capital, Shell Ventures, and Nexus Venture Partners. The automaker bought its stake at that time for ₹1.14 billion, according to its earlier investor disclosures (PDF).\nAs part of the latest transaction, Accel purchased 11,997 preference shares in Rapido, while Prosus acquired 11,988 preference shares and 10 equity shares. Both investors paid about ₹1.44 billion (roughly $16 million) each.\nAccel’s backing of Rapido marks a return to India’s ride-hailing sector for the firm, which was an early investor in Ola. The move comes as Rapido is in talks with Accel and Prosus for a new primary funding round that could close next year, according to two people familiar with the matter who spoke to TechCrunch. The exact funding size has yet to be determined.\nProsus is already an investor in Rapido and expanded its stake through another secondary share sale in September, when Swiggy sold its entire holding. That transaction doubled Rapido’s valuation to $2.3 billion, TechCrunch reported.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nAccel and Prosus are also early backers of Swiggy, which exited Rapido after citing a potential conflict of interest, as the ride-hailing startup prepared to expand into the food-delivery market.\nAccel and Prosus did not respond to requests for comment. Rapido could not be reached for comment.\n\n\n\t\tJagmeet covers startups, tech policy-related updates, and all other major tech-centric developments from India for TechCrunch. He previously worked as a principal correspondent at NDTV. \r\nYou can contact or verify outreach from Jagmeet by emailing mail@journalistjagmeet.com.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Accel backs Uber rival Rapido as Prosus boosts stake",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/11/rapido.jpg?w=150"
-      ],
-      "datePublished": "2025-11-06T22:12:18.000Z",
-      "dateModified": "2025-11-06T22:12:18.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Tesla to begin Cybercab production in April, Musk claims",
-    "url": "https://techcrunch.com/2025/11/06/tesla-to-begin-cybercab-production-in-april-musk-claims/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/11/Cybercab_80.jpeg?w=150",
-    "tag": "Tech",
-    "date": "2025-11-06T23:11:12.000Z",
-    "description": "\nTesla will begin producing the Cybercab, an autonomous electric vehicle with no pedals or steering wheel, this April at its factory in Austin, Texas,",
-    "body": "\nTesla will begin producing the Cybercab, an autonomous electric vehicle with no pedals or steering wheel, this April at its factory in Austin, Texas, CEO Elon Musk said during the company’s shareholder meeting Thursday.\nHis comments on Cybercab came just moments after shareholders overwhelmingly approved a compensation package for Musk that could be worth as much as $1 trillion in company shares — the largest in corporate history.\n“We’ve got the first car that is specifically built for unsupervised, full self-driving to be a robotaxi called a Cybercab — it doesn’t even have pedals or steering wheel,” Musk said, adding there will be no side mirrors either. “It’s very much optimized for the lowest cost-per-mile in an autonomous mode and production is happening right here in this factory, and we’ll be starting production in April next year.”\nTesla has yet to demonstrate that its cars are capable of driving themselves at scale without a safety monitor, despite years of promises.\nMusk’s comments seem to conflict with Tesla chairwoman Robyn Denholm, who recently told Bloomberg the Cybercab would include a steering wheel and pedals as a backup plan. Tesla once planned to make a version of the Cybercab with a wheel and pedals, but Musk killed the idea and opted instead to make very stripped-down versions of its cheapest cars.\nMusk went on to tout how the Cybercab would be produced, claiming the manufacturing line would have a 10-second cycle time — a massive acceleration from the one-minute cycle time to assemble a Model Y. Musk said this could mean producing 2 million to 3 million Cybercabs in a year.\n“So these will be everywhere in the future,” he said. \n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nTesla first revealed the Cybercab in October 2024 during its splashy “We, Robot” event at Warner Bros. Discovery studio in California with a promise to eventually sell the vehicles for personal use.\nSince then, Tesla has launched a very bare-bones robotaxi service, but not with the proposed Cybercab. The service, which launched in June in certain parts of Austin, uses Model Y SUVs equipped with what Musk has described as a new, “unsupervised” version of Tesla’s Full Self-Driving software. A Tesla employee sits in the passenger seat on these driverless rides.\nPutting a Cybercab — or any vehicle — on the road without standard equipment like a steering wheel will require approval from federal regulators. Earlier this year, Amazon-backed Zoox managed to get an exemption and even then it has been only to demonstrate its custom-built robotaxis on public roads. Zoox is still seeking an exemption that would allow it to operate a commercial robotaxi service.\nThe regulatory process for those exemptions is a long and sticky one. General Motors tried and failed to get approval for its custom-built Cruise Origin vehicle, for example. Waymo, the dominant robotaxi service provider in the U.S., has stuck to its modified Jaguar I-Pace vehicles that still have traditional controls. Waymo is also developing a vehicle with Zeekr.\nMusk didn’t seem fazed by the potential for regulators to thwart his plans and thanked Waymo for “paving the path.”\n“I think we’ll be able to deploy all the Cybercabs that we produce,” he said in response to a shareholder question at the annual meeting. “Once it becomes like, extremely normal in cities, it’s just going to become like … the regulators will have just fewer and fewer reasons to say no.”\n\n\n\t\tKirsten Korosec is a reporter and editor who has covered the future of transportation from EVs and autonomous vehicles to urban air mobility and in-car tech for more than a decade. She is currently the transportation editor at TechCrunch and co-host of TechCrunch’s Equity podcast. She is also co-founder and co-host of the podcast, “The Autonocast.” She previously wrote for Fortune, The Verge, Bloomberg, MIT Technology Review and CBS Interactive.\nYou can contact or verify outreach from Kirsten by emailing kirsten.korosec@techcrunch.com or via encrypted message at kkorosec.07 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Tesla to begin Cybercab production in April, Musk claims",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/11/Cybercab_80.jpeg?w=150"
-      ],
-      "datePublished": "2025-11-06T23:11:12.000Z",
-      "dateModified": "2025-11-06T23:11:12.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Sora for Android saw nearly half a million installs on its first day",
     "url": "https://techcrunch.com/2025/11/06/sora-for-android-saw-nearly-half-a-million-installs-on-its-first-day/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages-2240278671.jpeg?w=150",
@@ -325,22 +300,22 @@
     }
   },
   {
-    "title": "Tesla shareholders approve Elon Musk’s $1T pay package",
-    "url": "https://techcrunch.com/2025/11/06/tesla-shareholders-approve-elon-musks-1t-pay-package/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2148555320.jpg?w=150",
+    "title": "Sam Altman says he doesn’t want the government to bail out OpenAI if it fails",
+    "url": "https://techcrunch.com/2025/11/06/sam-altman-says-he-doesnt-want-the-government-to-bail-out-openai-if-it-fails/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/Graveyard-with-dollar-signs.jpg?w=150",
     "tag": "Tech",
-    "date": "2025-11-06T21:58:15.000Z",
-    "description": "\nTesla shareholders have overwhelmingly approved a compensation package for CEO Elon Musk that could be worth as much as $1 trillion in company shares",
-    "body": "\nTesla shareholders have overwhelmingly approved a compensation package for CEO Elon Musk that could be worth as much as $1 trillion in company shares.\nMore than 75% of shareholders who participated voted to approve the plan, in line with the amount of support Musk has received for past pay packages. As the result was announced, shareholders in the room at Tesla’s Austin, Texas, factory began chanting: “Elon! Elon!”\nFlanked by dancing Optimus robots, Musk said Thursday that “what we’re about to embark upon is not merely a new chapter of the future of Tesla, but a whole new book.” \nUnder the deal, Musk will not be awarded $1 trillion right away. Nor will he receive a salary. But he stands to make hundreds of billions of dollars and gain more control of Tesla if he helps the company achieve a number of milestones and boost its profits along the way. Some of those hurdles will be difficult to clear. Many, though, are simply watered down versions of promises Musk has made for years.\nThe pay package is broken into 12 tranches — covering operational, adjusted profit, and market capitalization goals — each one giving more shares to Musk if those goals are reached. For instance, Tesla, which today has a market capitalization of about $1.5 trillion, will need to steadily increase that valuation and hit $8.5 trillion in a decade.\nThe vote followed two months of aggressive campaigning by Tesla, its board of directors, and many of its executives. The company repeatedly fired off public appeals for shareholders to approve the package. Chairwoman Robyn Denholm, who is typically media-shy, did multiple interviews with major news outlets and had lost some of her voice before addressing investors at Thursday’s meeting. Tesla even ran television advertisements about the vote — something it doesn’t even do for its cars.\n“Tesla is at an inflection point — I think I’ve said that 3,000 times over the last few weeks — and this last year has been a critical one in our history,” Denholm said Thursday. \n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nMusk encouraged shareholders to approve the package because, he claimed, it was the easiest way to hand him more voting control over the company. He currently owns around 15%, but he’s threatened (multiple times) to leave Tesla if he doesn’t wind up with around 25% control. That amount would insulate him from being pushed out and losing control of the “robot army” Tesla is building, Musk has said.\nTesla stumped for the package in part by holding up the company’s “Master Plan 4” as a visionary statement for where Musk can lead things. That document, released in September, was gauzy and unspecific — a criticism Musk even agreed with. He claimed Tesla would add more specifics to the “Plan” just a few days after it was released, but nothing has changed in the intervening months.\nTesla’s board of directors put this pay package forward in large part because the previous plan from 2018 (worth around $56 billion) was struck down by Delaware’s Chancery Court last year, after a judge ruled the company was not transparent about the negotiation process. Tesla has appealed the decision.\nEarlier this year, Tesla handed Musk $29 billion in shares to make up for the loss of the 2018 package, but said it would essentially void that amount should Tesla win on appeal.\n\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2025-11-06T20:06:36.000Z",
+    "description": "\nOpenAI execs have been fielding plenty of questions about how they expect to pay for the $1.4 trillion worth of data center build-outs and usage comm",
+    "body": "\nOpenAI execs have been fielding plenty of questions about how they expect to pay for the $1.4 trillion worth of data center build-outs and usage commitments they’ve accrued this year, given that their revenue — while rising rapidly — is a $20 billion annual run rate, CEO Sam Altman said Thursday in a post on X. \nAltman’s comments came in response to comments made by OpenAI CFO Sarah Friar — which she quickly walked back. Speaking at a Wall Street Journal event on Wednesday, Friar said she wanted the U.S. government to “backstop” her company’s infrastructure loans. This, she explained, would make the company’s loans cheaper and help ensure it could always be using the latest, greatest chip.\nA backstopped loan is when the government guarantees it so if the company defaults, taxpayers pick up the bill. Lenders tend to reward low-risk loans like that with better terms.\nFriar said that using older chips, which compute-constrained OpenAI must do, makes financing options more affordable, but that the company’s goal is to always put its state-of-the-art models on the latest, greatest chips. \nSo how to pay for this revolving door of chips? She said the company is looking for an “ecosystem” to help, including banks, PE firms and, she hoped, the government.\nWhen asked what she wanted the government to do, she said, “… the backstop, the guarantee that allows the financing to happen. That can really drop the cost of the financing but also increase the loan-to-value, so the amount of debt that you can take on top of an equity portion.”\nShe also implied that such talks, particularly in the U.S., were already in the works saying, “I think we’re seeing that. The U.S. government, in particular has been incredibly forward-leaning, has really understood that AI is almost a national strategic asset.”\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nAfter The Wall Street Journal published the clip of her discussing this desire for a federal backstop, and plenty of X users with big followers scoffed at the idea, Friar quickly walked back her comments.\n“I want to clarify my comments earlier today. OpenAI is not seeking a government backstop for our infrastructure commitments. I used the word ‘backstop’ and it muddied the point,” she posted on LinkedIn.\nOn Thursday, Trump’s AI czar David Sacks weighed in. Sacks (who is a big Silicon Valley VC himself), wrote on X the U.S. has no plans to bail out any AI company.\n“There will be no federal bailout for AI. The U.S. has at least 5 major frontier model companies. If one fails, others will take its place,” he posted, adding that what the government wants to do is make “permitting and power generation easier.” While not naming her, he also forgave Friar for “clarifying” her stance.\n\nThere will be no federal bailout for AI. The U.S. has at least 5 major frontier model companies. If one fails, others will take its place.— David Sacks (@DavidSacks) November 6, 2025\n\nIn the wake of this, Altman wrote a lengthy post on X echoing Sacks’ sentiments.\n“We do not have or want government guarantees for OpenAI datacenters. We believe that governments should not pick winners or losers, and that taxpayers should not bail out companies that make bad business decisions or otherwise lose in the market,” he wrote. \nHe also clarified that the backstopped loans have been discussed — but not for his company.\n“The one area where we have discussed loan guarantees is as part of supporting the buildout of semiconductor fabs in the US, where we and other companies have responded to the government’s call and where we would be happy to help (though we did not formally apply).”It is hard to fault Friar for floating the idea. She’s right that such a guarantee would make her financing job easier, even if, as Sacks wrote in his string, the idea of asking for a taxpayer-funded bailout is “ridiculous.” \nAs she’s now heard a resounding public “no” from someone she’d need in her corner for that idea, she and OpenAI CEO Sam Altman can expect plenty more questions about how they expect to pay for their $1 trillion buildout.\nIndeed, Altman seems braced for just such a thing. \n“We expect to end this year above $20 billion in annualized revenue run rate and grow to hundreds of billion by 2030. We are looking at commitments of about $1.4 trillion over the next 8 years,” he wrote, adding that the company feels good about it’s “prospects” especially its enterprise offering, new consumer devices, and robotics. \n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Tesla shareholders approve Elon Musk’s $1T pay package",
+      "headline": "Sam Altman says he doesn’t want the government to bail out OpenAI if it fails",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2148555320.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2025/01/Graveyard-with-dollar-signs.jpg?w=150"
       ],
-      "datePublished": "2025-11-06T21:58:15.000Z",
-      "dateModified": "2025-11-06T21:58:15.000Z",
+      "datePublished": "2025-11-06T20:06:36.000Z",
+      "dateModified": "2025-11-06T20:06:36.000Z",
       "author": [
         {
           "@type": "Person",
@@ -350,22 +325,47 @@
     }
   },
   {
-    "title": "Mastodon’s latest software update brings quote posts to all server operators",
-    "url": "https://techcrunch.com/2025/11/06/mastodons-latest-software-update-brings-quote-posts-to-all-server-operators/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/mastodon-quote-posts-hero.png?w=150",
+    "title": "How one founder plans to save cities from flooding with terraforming robots",
+    "url": "https://techcrunch.com/2025/11/07/one-founders-plan-to-save-his-city-san-rafael-with-terraforming-robots/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/11/terranova-rover.jpg?w=150",
     "tag": "Tech",
-    "date": "2025-11-06T15:43:52.000Z",
-    "description": "\nDecentralized open source social network Mastodon is rolling out its latest release, version 4.5, which brings support for Quote Posts to all server ",
-    "body": "\nDecentralized open source social network Mastodon is rolling out its latest release, version 4.5, which brings support for Quote Posts to all server operators, along with other features for admins, conversation improvements, and more.\nThe addition of quote posts is one of the bigger changes to how Mastodon’s social network operates, as the social network attempts to compete against larger rivals, like X and Threads. Quoting can be a conversation driver and is considered a baseline feature for text-first social networks. But Mastodon wanted to ensure the feature launched with more user protections so as not to change the culture of its network.\nOn X, quote posts (formerly known as retweets when X was Twitter) contributed to a culture of “dunking,” where users would often deride others by responding to their post with cruel jokes or insults. That remains a concern today among other new competitors, like Threads and Bluesky.\nTo address this problem, Mastodon’s version of quote posts comes with added safety controls.\nImage Credits:Mastodon\nThe feature was also initially rolled out to the larger Mastodon servers at mastodon.online and mastodon.social in September, ahead of the 4.5 software update, giving users time to adjust the format.\nMastodon gives users several ways to control how their posts can be quoted. For instance, users decide who can quote them through the feature’s settings. Here, you can choose between options like “Anyone,” “Followers only,” or “Just me.” Additionally, users can control the visibility of quote posts by setting them to be visible to the public, to followers only, or a setting called “quiet public,” which makes the quotes public but removes them from Mastodon’s search, trends, and public timeline.\nIn addition, users can override their default settings on a post-by-post basis, if need be, which could be useful at those times when you want to quote someone without attracting unwanted attention. \nMastodon will also alert the user being quoted in the app, so they can remove their original post from the other person’s quote post, if they feel the need to. Plus, users can opt to block others to prevent them from seeing and quoting their posts in the future.\nWhile the broader rollout of quote posts is the major addition in the 4.5 software release, the update also fixes issues where users on older servers running 4.4 and earlier versions would sometimes miss seeing replies.\nImage Credits:Mastodon\nServer operators are also gaining new tools to optionally disable content feeds, set a local feed as their homepage, block specific users, and more. The moderation interface has been updated to display needed context, like link previews and quote posts in messages, to aid in decision-making. \nImage Credits:Mastodon\nMeanwhile, the 4.5 release also brings native emoji support to Mastodon’s web interface. \nMastodon continues to be one of the larger networks on the fediverse, the name for the open social web powered by the ActivityPub social networking protocol. Overall, the fediverse has nearly 12 million users, according to growth tracker FediDB, with Mastodon accounting for north of 8 million of that figure. However, its monthly active user number is only ~670,000.\nThreads, which integrates with ActivityPub, isn’t counted in these figures because it’s not a full integration. Threads has more than 400 million monthly users and 150 million daily active users.\n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2025-11-07T15:02:00.000Z",
+    "description": "\nParts of San Rafael, a city just north of San Francisco, are sinking about half an inch per year. That might not sound like much, but altogether, it ",
+    "body": "\nParts of San Rafael, a city just north of San Francisco, are sinking about half an inch per year. That might not sound like much, but altogether, it has meant that some neighborhoods — like the Canal District that borders the bay — have sunk three feet, placing them at greater risk of flooding from sea level rise.\nSan Rafael isn’t alone. Cities around the world are threatened by rising sea levels, with 300 million people at risk of routine flooding by 2050. The cost of building seawalls to hold the waters back could top $400 billion in the U.S. alone.\nA new startup is proposing an alternative: raise the city instead.\nTerranova is building robots that will inject a slurry of wood waste into the ground, slowly lifting the land to eliminate historical subsidence and, hopefully, prevent those parts of the city from flooding.\n“The canal district is really far under sea level,” Laurence Allen, co-founder and CEO of Terranova, told TechCrunch. The city has been working with flood consultants to find a solution, he said. \n“The answer, every answer every time, has been like $500 million to $900 million of seawalls, which if you’re from San Rafael, you know they’re not even close to being able to afford that. There’s about 60,000 people and a significant portion — surprisingly for a city in Marin — are living in poverty.”\nTerranova says it can protect San Rafael and other cities like it for a fraction of the cost. In San Rafael’s case, the startup has quoted $92 million to lift 240 acres four feet. \n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThe company recently raised $7 million in a seed round led by Congruent Ventures and Outlander with participation from GoAhead Ventures, Gothams, and Ponderosa, TechCrunch has exclusively learned. The oversubscribed round values the company at $25.1 million.\nLifting land by injecting stuff underground isn’t new. Terranova’s pitch is that it has developed some novel approaches that make it cheaper.\nFirst is the material: Waste wood is inexpensive and easy to obtain. The startup mixes it with other materials that it wouldn’t disclose to turn it into a slurry. The result is pumped from a 20-foot shipping container to the second cost-saving item: a robotic injection device. The tracked robotic units autonomously rove around the work site, drilling wells through which the wood slurry is delivered to depths of around 40 to 60 feet.\nSo long as the slurry remains wet underground, the wood shouldn’t decay and the company can sell carbon credits to offset costs, Allen said.\nAll of this is managed by software that Terranova has developed. The company uses public geographic information coupled with data from cores drilled throughout the state of California, mostly taken during the construction of water wells. With that, it has created a model of the subsurface that informs injection patterns, which are determined by a genetic algorithm.\nOn the backend, city planners, contractors, and other stakeholders can use a SimCity-like tool to sculpt the virtual landscape.\nWhen plans are finalized, they guide the robotic injectors, telling them both where to inject and how much. Human operators remain on site as a safety precaution, Allen said. Once the robots are done injecting, it takes about two hours for the slurry to consolidate, he added.\nTerranova has been testing both the robots and software at a pilot site for over a year, he said.\nThough some experts have questioned whether the consolidated wood slurry will exacerbate earthquake shocks, Allen said the most frequently mentioned alternatives have risks, too. “We think it’ll help [with earthquakes] versus dikes and seawalls.”\nThe company plans to make money by splitting revenue for projects with contractors. It’s hoping the costs are low enough that the process will be attractive for a range of land-lifting projects beyond cities, including remediating wetlands that are disappearing either due to subsidence or sea level rise.\nBut given the urgency of rising waters, cities are Terranova’s first priority. “I’m from San Rafael, born and raised,” Allen said. “I really want to save the city.”\n\n\n\t\tTim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor. \r\nDe Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.\r\nYou can contact or verify outreach from Tim by emailing tim.dechant@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Mastodon’s latest software update brings quote posts to all server operators",
+      "headline": "How one founder plans to save cities from flooding with terraforming robots",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/07/mastodon-quote-posts-hero.png?w=150"
+        "https://techcrunch.com/wp-content/uploads/2025/11/terranova-rover.jpg?w=150"
       ],
-      "datePublished": "2025-11-06T15:43:52.000Z",
-      "dateModified": "2025-11-06T15:43:52.000Z",
+      "datePublished": "2025-11-07T15:02:00.000Z",
+      "dateModified": "2025-11-07T15:02:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Amazon launches a low-price standalone shopping app, Amazon Bazaar, in over a dozen markets",
+    "url": "https://techcrunch.com/2025/11/07/amazon-launches-a-low-price-standalone-shopping-app-amazon-bazaar-in-over-a-dozen-markets/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/11/amazon-bazaar-.jpg?w=150",
+    "tag": "Tech",
+    "date": "2025-11-07T15:25:41.000Z",
+    "description": "\nOn Friday, Amazon announced the debut of Amazon Bazaar, a new low-cost shopping destination for Asia, Africa, and Latin America that will be availabl",
+    "body": "\nOn Friday, Amazon announced the debut of Amazon Bazaar, a new low-cost shopping destination for Asia, Africa, and Latin America that will be available separately from the main Amazon shopping app. On Bazaar, most products are available under $10, and some are as low as $2, the retailer says.\nThe product selection, available now on Android and iOS, will be available in its own app that’s available in Hong Kong, the Philippines, Taiwan, Kuwait, Qatar, Bahrain, Oman, Peru, Ecuador, Argentina, Costa Rica, the Dominican Republic, Jamaica, and Nigeria.\nAmazon says more markets will gain access to the app in the months ahead.\nThe app has significant overlap with Amazon Haul, which launched last November as a competitor to Shein and Temu. Haul operates as part of Amazon’s main website and app, and will remain available in its existing markets, including the U.S., UK, Germany, France, Italy, Spain, Japan, and Australia.\nIn other markets, Amazon had already branded Amazon Haul as Bazaar, where it’s been available through Amazon’s main shopping app. That version also remains available in Mexico, Saudi Arabia, and the United Arab Emirates. (Amazon using two names for the same low-cost selection of inventory is confusing! But Amazon thinks the different names “better resonate with local language preferences and cultures.”)\nImage Credits:Amazon\nThe move to create a standalone shopping destination for its cheaper inventory signals Amazon is ramping up the competition with the low-cost Chinese shopping apps, like Temu, Shein, and TikTok (TikTok Shop), which have seen broad adoption by younger users and others without as much disposable income to spend on clothing, decor, electronics, and other household items.\nThe Bazaar app will offer these users “hundreds of thousands” of affordable products in categories like fashion, home goods, and lifestyle products, the retailer says. Product pages feature familiar Amazon features like customer reviews and star ratings. \n\nCustomers use their same Amazon credentials to shop and check out, where they can use Visa, Mastercard, or American Express. Orders will have to meet the local minimum purchase amount to qualify for free shipping. (This varies by market.) For smaller orders, a standard delivery fee is charged. \nShipments take around 2 weeks or less, returns are free within 15 days of receipt, and Amazon offers multilingual customer support. The app itself supports six languages: English, Spanish, French, Portuguese, German, and Traditional Chinese.\nThe app will also engage customers with interactive features like social lucky draws and promotions — things popularized by the Chinese shopping apps. New customers will also receive 50% off their first delivery as an incentive to try the app. \n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Amazon launches a low-price standalone shopping app, Amazon Bazaar, in over a dozen markets",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/11/amazon-bazaar-.jpg?w=150"
+      ],
+      "datePublished": "2025-11-07T15:25:41.000Z",
+      "dateModified": "2025-11-07T15:25:41.000Z",
       "author": [
         {
           "@type": "Person",
