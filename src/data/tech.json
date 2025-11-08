@@ -25,6 +25,31 @@
     }
   },
   {
+    "title": "Grand Theft Auto VI is delayed — again",
+    "url": "https://techcrunch.com/2025/11/06/grand-theft-auto-vi-is-delayed-again/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/12/grand-theft-auto-youtube-record.jpg?w=150",
+    "tag": "Tech",
+    "date": "2025-11-06T22:02:24.000Z",
+    "description": "\nGrand Theft Auto VI, one of the most anticipated video games of all time, has been delayed, again — this time until November 19, 2026.\nThe game was i",
+    "body": "\nGrand Theft Auto VI, one of the most anticipated video games of all time, has been delayed, again — this time until November 19, 2026.\nThe game was initially slated for a fall 2025 release but was pushed back to May 2026. On Thursday, Rockstar Games announced that the development team needs another six months.\n“We are sorry for adding additional time to what we realize has been a long wait, but these extra months will allow us to finish the game with the level of polish you have come to expect and deserve,” Rockstar Games wrote in their statement.\nGrand Theft Auto VI is the sequel to Grand Theft Auto V, which was released in 2013. According to Guinness World Records, that game became the fastest entertainment property to reach $1 billion in sales, hitting the milestone after just three days on the market. Fans are so eager for the next installment in the franchise that when Rockstar Games released the trailer for the game in December 2023, it broke the record for the most YouTube views in 24 hours (excluding music videos).\nRockstar Games did not provide additional details about the delay. Last week, the company fired between 30 and 40 employees for allegedly sharing confidential information in a Discord server.\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Grand Theft Auto VI is delayed — again",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2023/12/grand-theft-auto-youtube-record.jpg?w=150"
+      ],
+      "datePublished": "2025-11-06T22:02:24.000Z",
+      "dateModified": "2025-11-06T22:02:24.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Chris Sacca’s VC firm is raising a second nuclear fusion fund ",
     "url": "https://techcrunch.com/2025/11/06/chris-saccas-vc-firm-is-raising-a-second-nuclear-fusion-fund/",
     "image": "https://techcrunch.com/wp-content/uploads/2021/08/chris-sacca.jpg?w=150",
@@ -41,31 +66,6 @@
       ],
       "datePublished": "2025-11-06T23:33:05.000Z",
       "dateModified": "2025-11-06T23:33:05.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Meta estimates that it earns 10% of its revenue from scams, report says",
-    "url": "https://techcrunch.com/2025/11/06/meta-estimates-that-it-earns-10-of-its-revenue-from-scams-report-says/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2233066222.jpg?w=150",
-    "tag": "Tech",
-    "date": "2025-11-06T21:20:51.000Z",
-    "description": "\nIn Brief\nPosted:\n1:20 PM PST · November 6, 2025\n\nImage Credits:Will Oliver/EPA/Bloomberg / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nLa",
-    "body": "\nIn Brief\nPosted:\n1:20 PM PST · November 6, 2025\n\nImage Credits:Will Oliver/EPA/Bloomberg / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nLast year, Meta projected that 10% of its overall annual revenue — $16 billion — would come from fraudulent advertisements on its apps, according to a report from Reuters.\nThe documents accessed by Reuters also show that for three years, Meta failed to protect its users from ads promoting illegal gambling, investment schemes, and banned medical products. These fraudulent ads purport to offer a product or service that isn’t real and may be intended to solicit payments from less savvy users.\nImage Credits:Facebook (Screenshot by Reuters)\nMeta has a system for detecting the likelihood that an advertising campaign is a scam, but the company only deactivates an advertiser’s account if it is 95% sure that the advertiser is committing fraud. Otherwise, Meta will charge more money from advertisers that it suspects may be doing fraud as a way to discourage them from buying more advertising — but when those advertisers follow through anyway, it pads Meta’s bottom line.\nTechCrunch contacted Meta for comment but did not hear back before publication. Per Reuters’ report, Meta spokesperson Andy Stone claimed that the documents Reuters used “present a selective view that distorts Meta’s approach to fraud and scams.”\nStone added that over the last 18 months, Meta has reduced user reports of scam ads by 58%, and the company has removed over 134 million scam ads from its platforms.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\nLatest in Apps\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Meta estimates that it earns 10% of its revenue from scams, report says",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2233066222.jpg?w=150"
-      ],
-      "datePublished": "2025-11-06T21:20:51.000Z",
-      "dateModified": "2025-11-06T21:20:51.000Z",
       "author": [
         {
           "@type": "Person",
@@ -100,22 +100,47 @@
     }
   },
   {
-    "title": "Grand Theft Auto VI is delayed — again",
-    "url": "https://techcrunch.com/2025/11/06/grand-theft-auto-vi-is-delayed-again/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/12/grand-theft-auto-youtube-record.jpg?w=150",
+    "title": "Meta estimates that it earns 10% of its revenue from scams, report says",
+    "url": "https://techcrunch.com/2025/11/06/meta-estimates-that-it-earns-10-of-its-revenue-from-scams-report-says/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2233066222.jpg?w=150",
     "tag": "Tech",
-    "date": "2025-11-06T22:02:24.000Z",
-    "description": "\nGrand Theft Auto VI, one of the most anticipated video games of all time, has been delayed, again — this time until November 19, 2026.\nThe game was i",
-    "body": "\nGrand Theft Auto VI, one of the most anticipated video games of all time, has been delayed, again — this time until November 19, 2026.\nThe game was initially slated for a fall 2025 release but was pushed back to May 2026. On Thursday, Rockstar Games announced that the development team needs another six months.\n“We are sorry for adding additional time to what we realize has been a long wait, but these extra months will allow us to finish the game with the level of polish you have come to expect and deserve,” Rockstar Games wrote in their statement.\nGrand Theft Auto VI is the sequel to Grand Theft Auto V, which was released in 2013. According to Guinness World Records, that game became the fastest entertainment property to reach $1 billion in sales, hitting the milestone after just three days on the market. Fans are so eager for the next installment in the franchise that when Rockstar Games released the trailer for the game in December 2023, it broke the record for the most YouTube views in 24 hours (excluding music videos).\nRockstar Games did not provide additional details about the delay. Last week, the company fired between 30 and 40 employees for allegedly sharing confidential information in a Discord server.\n",
+    "date": "2025-11-06T21:20:51.000Z",
+    "description": "\nIn Brief\nPosted:\n1:20 PM PST · November 6, 2025\n\nImage Credits:Will Oliver/EPA/Bloomberg / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nLa",
+    "body": "\nIn Brief\nPosted:\n1:20 PM PST · November 6, 2025\n\nImage Credits:Will Oliver/EPA/Bloomberg / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nLast year, Meta projected that 10% of its overall annual revenue — $16 billion — would come from fraudulent advertisements on its apps, according to a report from Reuters.\nThe documents accessed by Reuters also show that for three years, Meta failed to protect its users from ads promoting illegal gambling, investment schemes, and banned medical products. These fraudulent ads purport to offer a product or service that isn’t real and may be intended to solicit payments from less savvy users.\nImage Credits:Facebook (Screenshot by Reuters)\nMeta has a system for detecting the likelihood that an advertising campaign is a scam, but the company only deactivates an advertiser’s account if it is 95% sure that the advertiser is committing fraud. Otherwise, Meta will charge more money from advertisers that it suspects may be doing fraud as a way to discourage them from buying more advertising — but when those advertisers follow through anyway, it pads Meta’s bottom line.\nTechCrunch contacted Meta for comment but did not hear back before publication. Per Reuters’ report, Meta spokesperson Andy Stone claimed that the documents Reuters used “present a selective view that distorts Meta’s approach to fraud and scams.”\nStone added that over the last 18 months, Meta has reduced user reports of scam ads by 58%, and the company has removed over 134 million scam ads from its platforms.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\nLatest in Apps\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Grand Theft Auto VI is delayed — again",
+      "headline": "Meta estimates that it earns 10% of its revenue from scams, report says",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2023/12/grand-theft-auto-youtube-record.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2233066222.jpg?w=150"
       ],
-      "datePublished": "2025-11-06T22:02:24.000Z",
-      "dateModified": "2025-11-06T22:02:24.000Z",
+      "datePublished": "2025-11-06T21:20:51.000Z",
+      "dateModified": "2025-11-06T21:20:51.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Seven more families are now suing OpenAI over ChatGPT’s role in suicides, delusions",
+    "url": "https://techcrunch.com/2025/11/07/seven-more-families-are-now-suing-openai-over-chatgpts-role-in-suicides-delusions/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205105208.jpg?w=150",
+    "tag": "Tech",
+    "date": "2025-11-07T20:56:18.000Z",
+    "description": "\nSeven families filed lawsuits against OpenAI on Thursday, claiming that the company’s GPT-4o model was released prematurely and without effective saf",
+    "body": "\nSeven families filed lawsuits against OpenAI on Thursday, claiming that the company’s GPT-4o model was released prematurely and without effective safeguards. Four of the lawsuits address ChatGPT’s alleged role in family members’ suicides, while the other three claim that ChatGPT reinforced harmful delusions that in some cases resulted in inpatient psychiatric care.\nIn one case, 23-year-old Zane Shamblin had a conversation with ChatGPT that lasted more than four hours. In the chat logs — which were viewed by TechCrunch — Shamblin explicitly stated multiple times that he had written suicide notes, put a bullet in his gun, and intended to pull the trigger once he finished drinking cider. He repeatedly told ChatGPT how many ciders he had left and how much longer he expected to be alive. ChatGPT encouraged him to go through with his plans, telling him, “Rest easy, king. You did good.”\nOpenAI released the GPT-4o model in May 2024, when it became the default model for all users. In August, OpenAI launched GPT-5 as the successor to GPT-4o, but these lawsuits particularly concern the 4o model, which had known issues with being overly sycophantic or excessively agreeable, even when users expressed harmful intentions.\n“Zane’s death was neither an accident nor a coincidence but rather the foreseeable consequence of OpenAI’s intentional decision to curtail safety testing and rush ChatGPT onto the market,” the lawsuit reads. “This tragedy was not a glitch or an unforeseen edge case — it was the predictable result of [OpenAI’s] deliberate design choices.”\nThe lawsuits also claim that OpenAI rushed safety testing to beat Google’s Gemini to market. TechCrunch contacted OpenAI for comment.\nThese seven lawsuits build upon the stories told in other recent legal filings, which allege that ChatGPT can encourage suicidal people to act on their plans and inspire dangerous delusions. OpenAI recently released data stating that over one million people talk to ChatGPT about suicide weekly.\nIn the case of Adam Raine, a 16-year-old who died by suicide, ChatGPT sometimes encouraged him to seek professional help or call a helpline. However, Raine was able to bypass these guardrails by simply telling the chatbot that he was asking about methods of suicide for a fictional story he was writing.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThe company claims it is working on making ChatGPT handle these conversations in a safer manner, but for the families who have sued the AI giant, these changes are coming too late.\nWhen Raine’s parents filed a lawsuit against OpenAI in October, the company released a blog post addressing how ChatGPT handles sensitive conversations around mental health.\n“Our safeguards work more reliably in common, short exchanges,” the post says. “We have learned over time that these safeguards can sometimes be less reliable in long interactions: as the back-and-forth grows, parts of the model’s safety training may degrade.”\n\n\n\t\tAmanda Silberling is a senior writer at TechCrunch covering the intersection of technology and culture. She has also written for publications like Polygon, MTV, the Kenyon Review, NPR, and Business Insider. She is the co-host of Wow If True, a podcast about internet culture, with science fiction author Isabel J. Kim. Prior to joining TechCrunch, she worked as a grassroots organizer, museum educator, and film festival coordinator. She holds a B.A. in English from the University of Pennsylvania and served as a Princeton in Asia Fellow in Laos.\nYou can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Seven more families are now suing OpenAI over ChatGPT’s role in suicides, delusions",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205105208.jpg?w=150"
+      ],
+      "datePublished": "2025-11-07T20:56:18.000Z",
+      "dateModified": "2025-11-07T20:56:18.000Z",
       "author": [
         {
           "@type": "Person",
@@ -150,31 +175,6 @@
     }
   },
   {
-    "title": "Congressional Budget Office confirms it was hacked",
-    "url": "https://techcrunch.com/2025/11/07/congressional-budget-office-confirms-it-was-hacked/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/11/us-congress-at-night.jpg?w=150",
-    "tag": "Tech",
-    "date": "2025-11-07T16:36:55.000Z",
-    "description": "\nThe U.S. Congressional Budget Office has confirmed it was hacked. \nCaitlin Emma, a spokesperson for CBO, told TechCrunch on Friday that the agency is",
-    "body": "\nThe U.S. Congressional Budget Office has confirmed it was hacked. \nCaitlin Emma, a spokesperson for CBO, told TechCrunch on Friday that the agency is investigating the breach and “has identified the security incident, has taken immediate action to contain it, and has implemented additional monitoring and new security controls to further protect the agency’s systems going forward.” \nCBO is a nonpartisan agency that provides economic analysis and cost estimates to lawmakers during the federal budget process, including after legislative bills get approved at the committee level in the House and Senate. \nOn Thursday, The Washington Post, which first revealed the breach, reported that unspecified foreign hackers were behind the intrusion. According to the Post, CBO officials are worried that the hackers accessed internal emails and chat logs, as well as communications between lawmakers’ offices and CBO researchers. \nReuters reported that the Senate Sergeant at Arms office, the Senate’s law enforcement agency, notified congressional offices of a breach, warning them that emails between CBO and the offices could have been compromised and used to craft and send phishing attacks. \nIt’s unclear how the hackers gained access to the CBO’s network. But soon after news of the breach became public, security researcher Kevin Beaumont wrote on Bluesky that he suspected hackers may have exploited the CBO’s outdated Cisco firewall to break into the agency’s network.  \nLast month, Beaumont noted that CBO had a Cisco ASA firewall on its network that was last patched in 2024. At the time of his posting, the CBO’s firewall was allegedly vulnerable to a series of newly discovered security bugs, which were being exploited by suspected Chinese government-backed hackers.  \n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nBeaumont said the CBO’s firewall had not been patched by the time the federal government shutdown took effect on October 1. \nOn Thursday, Beaumont said that the firewall is now offline. \nThe CBO’s spokesperson declined to comment when asked about Beaumont’s findings. Spokespeople for Cisco did not immediately respond to a request for comment.  \n\n\n\t\tLorenzo Franceschi-Bicchierai is a Senior Writer at TechCrunch, where he covers hacking, cybersecurity, surveillance, and privacy. \nYou can contact or verify outreach from Lorenzo by emailing lorenzo@techcrunch.com, via encrypted message at +1 917 257 1382 on Signal, and @lorenzofb on Keybase/Telegram.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Congressional Budget Office confirms it was hacked",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/11/us-congress-at-night.jpg?w=150"
-      ],
-      "datePublished": "2025-11-07T16:36:55.000Z",
-      "dateModified": "2025-11-07T16:36:55.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Texas AG sues Roblox, accusing it of prioritizing ‘pixel pedophiles’ over child safety",
     "url": "https://techcrunch.com/2025/11/07/texas-ag-sues-roblox-accusing-it-of-prioritizing-pixel-pedophiles-over-child-safety/",
     "image": "https://techcrunch.com/wp-content/uploads/2022/09/Roblox_Library.jpg?w=150",
@@ -200,22 +200,22 @@
     }
   },
   {
-    "title": "Tesla delays reveal of production Roadster 2 to April Fools’ Day",
-    "url": "https://techcrunch.com/2025/11/06/tesla-delays-reveal-of-production-roadster-2-to-april-fools-day/",
-    "image": "https://techcrunch.com/wp-content/uploads/2019/09/Roadster_Hero.jpg?w=150",
+    "title": "Congressional Budget Office confirms it was hacked",
+    "url": "https://techcrunch.com/2025/11/07/congressional-budget-office-confirms-it-was-hacked/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/11/us-congress-at-night.jpg?w=150",
     "tag": "Tech",
-    "date": "2025-11-06T23:57:12.000Z",
-    "description": "\nTesla CEO Elon Musk said Thursday the company will reveal the production version of its second-generation Roadster supercar on April 1, 2026 — nearly",
-    "body": "\nTesla CEO Elon Musk said Thursday the company will reveal the production version of its second-generation Roadster supercar on April 1, 2026 — nearly nine years after he first revealed the project.\nMusk, who is famous for missing deadlines, said during Tesla’s annual shareholder meeting that he chose April Fools’ Day in part because it affords “some deniability.” \n“Like, I could say I was just kidding” if it happens to be later, he said. \nRevealing the production version of the new Roadster next year is in itself a delay. Just one week ago he appeared on Joe Rogan’s podcast and repeated his claim that he wanted to show off the car by year’s end. \nMusk stressed Thursday the car “will be very different from what was shown previously,” and again teased that the demo will be the “most exciting, whether it works or not, demo ever of any product” — a not-so-sly nod to the fact that he’s spent years trying to make the new Roadster fly in some fashion, possibly with SpaceX-built thrusters.\nMusk went on to say that he believes the second-generation Roadster won’t go into production until 12 to 18 months after the April reveal. \nDuring the Q&A portion of the meeting, one shareholder asked Musk if customers who preordered the “Founders Series” version of the new Roadsters could be invited to the reveal event. Those were the customers who plopped down $250,000 to secure special versions of the car in 2017.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n“Sure, absolutely,” Musk answered. “It’s the least we can do for our long-suffering Roadster reservation holders.”\nOpenAI CEO Sam Altman was one of those long-time sufferers who recently attempted to cancel the reservation — and initially failed to get a refund — for the long-promised EV.\nEarlier this month, Altman posted on X a “tale in three acts,” which was comprised of several screenshots showing his initial reservation, a request for a refund of the $50,000 reservation fee, and his email bouncing back.\n“I really was excited for the car!” Altman wrote. “And I understand delays. But 7.5 years has felt like a long time to wait.”\nMusk, who has openly sparred with Altman for years, went on the attack. “And you forgot to mention act 4, where this issue was fixed and you received a refund within 24 hours,” Musk wrote. “But that is in your nature.”\n\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2025-11-07T16:36:55.000Z",
+    "description": "\nThe U.S. Congressional Budget Office has confirmed it was hacked. \nCaitlin Emma, a spokesperson for CBO, told TechCrunch on Friday that the agency is",
+    "body": "\nThe U.S. Congressional Budget Office has confirmed it was hacked. \nCaitlin Emma, a spokesperson for CBO, told TechCrunch on Friday that the agency is investigating the breach and “has identified the security incident, has taken immediate action to contain it, and has implemented additional monitoring and new security controls to further protect the agency’s systems going forward.” \nCBO is a nonpartisan agency that provides economic analysis and cost estimates to lawmakers during the federal budget process, including after legislative bills get approved at the committee level in the House and Senate. \nOn Thursday, The Washington Post, which first revealed the breach, reported that unspecified foreign hackers were behind the intrusion. According to the Post, CBO officials are worried that the hackers accessed internal emails and chat logs, as well as communications between lawmakers’ offices and CBO researchers. \nReuters reported that the Senate Sergeant at Arms office, the Senate’s law enforcement agency, notified congressional offices of a breach, warning them that emails between CBO and the offices could have been compromised and used to craft and send phishing attacks. \nIt’s unclear how the hackers gained access to the CBO’s network. But soon after news of the breach became public, security researcher Kevin Beaumont wrote on Bluesky that he suspected hackers may have exploited the CBO’s outdated Cisco firewall to break into the agency’s network.  \nLast month, Beaumont noted that CBO had a Cisco ASA firewall on its network that was last patched in 2024. At the time of his posting, the CBO’s firewall was allegedly vulnerable to a series of newly discovered security bugs, which were being exploited by suspected Chinese government-backed hackers.  \n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nBeaumont said the CBO’s firewall had not been patched by the time the federal government shutdown took effect on October 1. \nOn Thursday, Beaumont said that the firewall is now offline. \nThe CBO’s spokesperson declined to comment when asked about Beaumont’s findings. Spokespeople for Cisco did not immediately respond to a request for comment.  \n\n\n\t\tLorenzo Franceschi-Bicchierai is a Senior Writer at TechCrunch, where he covers hacking, cybersecurity, surveillance, and privacy. \nYou can contact or verify outreach from Lorenzo by emailing lorenzo@techcrunch.com, via encrypted message at +1 917 257 1382 on Signal, and @lorenzofb on Keybase/Telegram.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Tesla delays reveal of production Roadster 2 to April Fools’ Day",
+      "headline": "Congressional Budget Office confirms it was hacked",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2019/09/Roadster_Hero.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2025/11/us-congress-at-night.jpg?w=150"
       ],
-      "datePublished": "2025-11-06T23:57:12.000Z",
-      "dateModified": "2025-11-06T23:57:12.000Z",
+      "datePublished": "2025-11-07T16:36:55.000Z",
+      "dateModified": "2025-11-07T16:36:55.000Z",
       "author": [
         {
           "@type": "Person",
@@ -275,31 +275,6 @@
     }
   },
   {
-    "title": "Seven more families are now suing OpenAI over ChatGPT’s role in suicides, delusions",
-    "url": "https://techcrunch.com/2025/11/07/seven-more-families-are-now-suing-openai-over-chatgpts-role-in-suicides-delusions/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205105208.jpg?w=150",
-    "tag": "Tech",
-    "date": "2025-11-07T20:56:18.000Z",
-    "description": "\nSeven families filed lawsuits against OpenAI on Thursday, claiming that the company’s GPT-4o model was released prematurely and without effective saf",
-    "body": "\nSeven families filed lawsuits against OpenAI on Thursday, claiming that the company’s GPT-4o model was released prematurely and without effective safeguards. Four of the lawsuits address ChatGPT’s alleged role in family members’ suicides, while the other three claim that ChatGPT reinforced harmful delusions that in some cases resulted in inpatient psychiatric care.\nIn one case, 23-year-old Zane Shamblin had a conversation with ChatGPT that lasted more than four hours. In the chat logs — which were viewed by TechCrunch — Shamblin explicitly stated multiple times that he had written suicide notes, put a bullet in his gun, and intended to pull the trigger once he finished drinking cider. He repeatedly told ChatGPT how many ciders he had left and how much longer he expected to be alive. ChatGPT encouraged him to go through with his plans, telling him, “Rest easy, king. You did good.”\nOpenAI released the GPT-4o model in May 2024, when it became the default model for all users. In August, OpenAI launched GPT-5 as the successor to GPT-4o, but these lawsuits particularly concern the 4o model, which had known issues with being overly sycophantic or excessively agreeable, even when users expressed harmful intentions.\n“Zane’s death was neither an accident nor a coincidence but rather the foreseeable consequence of OpenAI’s intentional decision to curtail safety testing and rush ChatGPT onto the market,” the lawsuit reads. “This tragedy was not a glitch or an unforeseen edge case — it was the predictable result of [OpenAI’s] deliberate design choices.”\nThe lawsuits also claim that OpenAI rushed safety testing to beat Google’s Gemini to market. TechCrunch contacted OpenAI for comment.\nThese seven lawsuits build upon the stories told in other recent legal filings, which allege that ChatGPT can encourage suicidal people to act on their plans and inspire dangerous delusions. OpenAI recently released data stating that over one million people talk to ChatGPT about suicide weekly.\nIn the case of Adam Raine, a 16-year-old who died by suicide, ChatGPT sometimes encouraged him to seek professional help or call a helpline. However, Raine was able to bypass these guardrails by simply telling the chatbot that he was asking about methods of suicide for a fictional story he was writing.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThe company claims it is working on making ChatGPT handle these conversations in a safer manner, but for the families who have sued the AI giant, these changes are coming too late.\nWhen Raine’s parents filed a lawsuit against OpenAI in October, the company released a blog post addressing how ChatGPT handles sensitive conversations around mental health.\n“Our safeguards work more reliably in common, short exchanges,” the post says. “We have learned over time that these safeguards can sometimes be less reliable in long interactions: as the back-and-forth grows, parts of the model’s safety training may degrade.”\n\n\n\t\tAmanda Silberling is a senior writer at TechCrunch covering the intersection of technology and culture. She has also written for publications like Polygon, MTV, the Kenyon Review, NPR, and Business Insider. She is the co-host of Wow If True, a podcast about internet culture, with science fiction author Isabel J. Kim. Prior to joining TechCrunch, she worked as a grassroots organizer, museum educator, and film festival coordinator. She holds a B.A. in English from the University of Pennsylvania and served as a Princeton in Asia Fellow in Laos.\nYou can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Seven more families are now suing OpenAI over ChatGPT’s role in suicides, delusions",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205105208.jpg?w=150"
-      ],
-      "datePublished": "2025-11-07T20:56:18.000Z",
-      "dateModified": "2025-11-07T20:56:18.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Rivian gives RJ Scaringe a new pay package worth up to $5B",
     "url": "https://techcrunch.com/2025/11/07/rivian-gives-rj-scaringe-a-new-pay-package-worth-up-to-5b/",
     "image": "https://techcrunch.com/wp-content/uploads/2022/10/TechCrunch-Disrupt-Haje-Kamps-517.jpg?w=150",
@@ -325,22 +300,22 @@
     }
   },
   {
-    "title": "Amazon launches a low-price standalone shopping app, Amazon Bazaar, in over a dozen markets",
-    "url": "https://techcrunch.com/2025/11/07/amazon-launches-a-low-price-standalone-shopping-app-amazon-bazaar-in-over-a-dozen-markets/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/11/amazon-bazaar-.jpg?w=150",
+    "title": "GoWish’s shopping and wish list app is having its biggest year yet",
+    "url": "https://techcrunch.com/2025/11/07/gowishs-shopping-and-wishlist-app-is-having-its-biggest-year-yet/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/11/gowish.jpg?w=150",
     "tag": "Tech",
-    "date": "2025-11-07T15:25:41.000Z",
-    "description": "\nOn Friday, Amazon announced the debut of Amazon Bazaar, a new low-cost shopping destination for Asia, Africa, and Latin America that will be availabl",
-    "body": "\nOn Friday, Amazon announced the debut of Amazon Bazaar, a new low-cost shopping destination for Asia, Africa, and Latin America that will be available separately from the main Amazon shopping app. On Bazaar, most products are available under $10, and some are as low as $2, the retailer says.\nThe product selection, available now on Android and iOS, will be available in its own app that’s available in Hong Kong, the Philippines, Taiwan, Kuwait, Qatar, Bahrain, Oman, Peru, Ecuador, Argentina, Costa Rica, the Dominican Republic, Jamaica, and Nigeria.\nAmazon says more markets will gain access to the app in the months ahead.\nThe app has significant overlap with Amazon Haul, which launched last November as a competitor to Shein and Temu. Haul operates as part of Amazon’s main website and app, and will remain available in its existing markets, including the U.S., U.K., Germany, France, Italy, Spain, Japan, and Australia.\nIn other markets, Amazon had already branded Amazon Haul as Bazaar, where it’s been available through Amazon’s main shopping app. That version also remains available in Mexico, Saudi Arabia, and the United Arab Emirates, in addition to India. (Amazon using two names for the same low-cost selection of inventory is confusing! But Amazon thinks the different names “better resonate with local language preferences and cultures.”)\nImage Credits:Amazon\nThe move to create a standalone shopping destination for its cheaper inventory signals Amazon is ramping up the competition with the low-cost Chinese shopping apps, like Temu, Shein, and TikTok (TikTok Shop), which have seen broad adoption by younger users and others without as much disposable income to spend on clothing, decor, electronics, and other household items.\nThe Bazaar app will offer these users “hundreds of thousands” of affordable products in categories like fashion, home goods, and lifestyle products, the retailer says. Product pages feature familiar Amazon features like customer reviews and star ratings. \nImage Credits:Amazon\nCustomers use their same Amazon credentials to shop and check out, where they can use Visa, Mastercard, or American Express. Orders will have to meet the local minimum purchase amount to qualify for free shipping. (This varies by market.) For smaller orders, a standard delivery fee is charged. \nShipments take around 2 weeks or less, returns are free within 15 days of receipt, and Amazon offers multilingual customer support. The app itself supports six languages: English, Spanish, French, Portuguese, German, and Traditional Chinese.\nThe app will also engage customers with interactive features like social lucky draws and promotions — things popularized by the Chinese shopping apps. New customers will also receive 50% off their first delivery as an incentive to try the app. \n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2025-11-07T20:16:32.000Z",
+    "description": "\nRecession fears aren’t hurting the wish list and shopping app GoWish, which is seeing record numbers ahead of the 2025 holiday season. The app, which",
+    "body": "\nRecession fears aren’t hurting the wish list and shopping app GoWish, which is seeing record numbers ahead of the 2025 holiday season. The app, which has north of 13.6 million registered users, had its best day yet this week, when on Monday it hit No. 2 on the U.S. App Store.\nWhile GoWish has seen similar adoption trends in previous years, this year has proven to be a breakout success. The app doubled the number of users from last year, and it has been breaking records with hundreds of thousands of new daily users in the month of November.\nIn the U.S. alone, the app has nearly 6.2 million users, while it has around 1 million in the U.K. In its home market of Denmark, the wish list app has over 50% market penetration and over 3.5 million registered Danish users.\nThough today it operates as a tech company, GoWish has a unique origin story. \nImage Credits:GoWish\nThe app was originally launched in 2015 by the Danish-Swedish national postal service PostNord as “Ønskeskyen.” (That’s Danish for “wish cloud.”) It was just a seasonal wish list gimmick, but its founders saw the potential for it to be something more.\nIn 2020, GoWish was acquired by Danish VC Dotcom Capital, which is owned by founder Casper Ravn‑Sørensen, who is also GoWish’s chief growth officer, and his partner, CEO Mads Dahlerup. They spun it out as an independent tech company and created an international version of Ønskeskyen (the app’s name in Denmark and Norway).\n“We might be the first state-founded tech platform to go global as a privately-owned scale-up,” Ravn‑Sørensen told TechCrunch.\nImage Credits:GoWish\nConsumers can use the app to create multiple wish lists for themselves, their family, and friends, and for different occasions. Wishes — or products you can buy from online retailers — can be added directly to your list by copying and pasting a URL, searching for a product, or browsing the inspiration feeds that feature millions of products. When you’re ready to buy, you can tap a button in the app to go directly to the retailer’s website.\nThe company has around 65,000 affiliate partnerships and over 700 brand partnerships, many of which are now adding “GoWish” buttons to their own websites. This model has been successful, explained Ravn‑Sørensen, as the app saw net profits after tax of $1.7 million in its fiscal year 2024, which are being reinvested in its growth. (GoWish declined to disclose its total revenue.)\nThe company attributes its increased adoption this year to the marketing it’s been doing across Meta, TikTok, Google, and Snap. Snap even gave GoWish a shoutout on its Q4 earnings call, as it’s been one of Snap’s partner success stories.\n“We’re very good at optimising our marketing spends across digital platforms and that makes our global roll-out very effective,” Ravn‑Sørensen said. \nThe company will later augment its experience with AI, but isn’t yet sharing details about those plans.\n“We have a mission of ‘fixing gifting’,” noted Ravn‑Sørensen, adding that GoWish wants to make “users’ dreams and wishes come true while making double-gifting and returns a thing of the past.” (The app lets family and friends reserve items on users’ wish lists so users won’t receive the same gift from multiple people.)\n“Yet, on a longer trajectory, we want to become the ‘global genie’ of social shopping, that can predict future consumer trends across generations,” he said. \nThe Copenhagen-based company is currently a team of 90 and is backed by Capital D, a London-based private equity firm that bought one-third of the company in early 2025; the rest is owned by the Danish VC Dotcom Capital. \nGoWish is available on iOS and Android and offers a Chrome extension to add items to wish lists from your computer.\n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Amazon launches a low-price standalone shopping app, Amazon Bazaar, in over a dozen markets",
+      "headline": "GoWish’s shopping and wish list app is having its biggest year yet",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/11/amazon-bazaar-.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2025/11/gowish.jpg?w=150"
       ],
-      "datePublished": "2025-11-07T15:25:41.000Z",
-      "dateModified": "2025-11-07T15:25:41.000Z",
+      "datePublished": "2025-11-07T20:16:32.000Z",
+      "dateModified": "2025-11-07T20:16:32.000Z",
       "author": [
         {
           "@type": "Person",
@@ -366,6 +341,31 @@
       ],
       "datePublished": "2025-11-07T15:02:00.000Z",
       "dateModified": "2025-11-07T15:02:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Amazon launches a low-price standalone shopping app, Amazon Bazaar, in over a dozen markets",
+    "url": "https://techcrunch.com/2025/11/07/amazon-launches-a-low-price-standalone-shopping-app-amazon-bazaar-in-over-a-dozen-markets/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/11/amazon-bazaar-.jpg?w=150",
+    "tag": "Tech",
+    "date": "2025-11-07T15:25:41.000Z",
+    "description": "\nOn Friday, Amazon announced the debut of Amazon Bazaar, a new low-cost shopping destination for Asia, Africa, and Latin America that will be availabl",
+    "body": "\nOn Friday, Amazon announced the debut of Amazon Bazaar, a new low-cost shopping destination for Asia, Africa, and Latin America that will be available separately from the main Amazon shopping app. On Bazaar, most products are available under $10, and some are as low as $2, the retailer says.\nThe product selection, available now on Android and iOS, will be available in its own app that’s available in Hong Kong, the Philippines, Taiwan, Kuwait, Qatar, Bahrain, Oman, Peru, Ecuador, Argentina, Costa Rica, the Dominican Republic, Jamaica, and Nigeria.\nAmazon says more markets will gain access to the app in the months ahead.\nThe app has significant overlap with Amazon Haul, which launched last November as a competitor to Shein and Temu. Haul operates as part of Amazon’s main website and app, and will remain available in its existing markets, including the U.S., U.K., Germany, France, Italy, Spain, Japan, and Australia.\nIn other markets, Amazon had already branded Amazon Haul as Bazaar, where it’s been available through Amazon’s main shopping app. That version also remains available in Mexico, Saudi Arabia, and the United Arab Emirates, in addition to India. (Amazon using two names for the same low-cost selection of inventory is confusing! But Amazon thinks the different names “better resonate with local language preferences and cultures.”)\nImage Credits:Amazon\nThe move to create a standalone shopping destination for its cheaper inventory signals Amazon is ramping up the competition with the low-cost Chinese shopping apps, like Temu, Shein, and TikTok (TikTok Shop), which have seen broad adoption by younger users and others without as much disposable income to spend on clothing, decor, electronics, and other household items.\nThe Bazaar app will offer these users “hundreds of thousands” of affordable products in categories like fashion, home goods, and lifestyle products, the retailer says. Product pages feature familiar Amazon features like customer reviews and star ratings. \nImage Credits:Amazon\nCustomers use their same Amazon credentials to shop and check out, where they can use Visa, Mastercard, or American Express. Orders will have to meet the local minimum purchase amount to qualify for free shipping. (This varies by market.) For smaller orders, a standard delivery fee is charged. \nShipments take around 2 weeks or less, returns are free within 15 days of receipt, and Amazon offers multilingual customer support. The app itself supports six languages: English, Spanish, French, Portuguese, German, and Traditional Chinese.\nThe app will also engage customers with interactive features like social lucky draws and promotions — things popularized by the Chinese shopping apps. New customers will also receive 50% off their first delivery as an incentive to try the app. \n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Amazon launches a low-price standalone shopping app, Amazon Bazaar, in over a dozen markets",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/11/amazon-bazaar-.jpg?w=150"
+      ],
+      "datePublished": "2025-11-07T15:25:41.000Z",
+      "dateModified": "2025-11-07T15:25:41.000Z",
       "author": [
         {
           "@type": "Person",
