@@ -1,180 +1,5 @@
 [
   {
-    "title": "T-Mobile’s ‘Text to 911’ Feature Is Now Free for Everyone",
-    "url": "https://lifehacker.com/tech/t-mobile-text-to-911-feature-is-now-free-for-everyone?utm_medium=RSS",
-    "image": "https://lifehacker.com/imagery/articles/01K9CYN9KKEGZZRBJSSV875SNX/hero-image.fill.size_1200x675.png",
-    "tag": "Life",
-    "date": "2025-11-06T17:00:12.000Z",
-    "description": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our missio",
-    "body": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our mission is to offer reliable tech help and credible, practical, science-based life advice to help you live better.\n                \n                \n                    \n                        Our Mission\n                        Our Team\n                        Newsletter\n                    \n                \n            \n        \n                © 2001-2025 Ziff Davis, LLC., A ZIFF DAVIS COMPANY. ALL RIGHTS RESERVED.\n                Lifehacker is a federally registered trademark of Ziff Davis and may not be used by third parties without explicit permission. The display of third-party trademarks and trade names on this site does not necessarily indicate\n                    any affiliation or the\n                    endorsement of Lifehacker. If you click an affiliate link and buy a product or service, we may be paid a fee by that merchant.\n            \n    ",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "T-Mobile’s ‘Text to 911’ Feature Is Now Free for Everyone",
-      "image": [
-        "https://lifehacker.com/imagery/articles/01K9CYN9KKEGZZRBJSSV875SNX/hero-image.fill.size_1200x675.png"
-      ],
-      "datePublished": "2025-11-06T17:00:12.000Z",
-      "dateModified": "2025-11-06T17:00:12.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "'Update and Shut Down' Actually Restarts Your PC (but a Fix Is Coming)",
-    "url": "https://lifehacker.com/tech/update-and-shut-down-actually-restarts-your-pc?utm_medium=RSS",
-    "image": "https://lifehacker.com/imagery/articles/01K95Q0RCE41WHR7AC0JYJBF71/hero-image.fill.size_1200x675.jpg",
-    "tag": "Life",
-    "date": "2025-11-03T22:00:00.000Z",
-    "description": "\n            \n        \n    \n        \n            \n                \n                    \n                    \n                \n            \n           ",
-    "body": "\n            \n        \n    \n        \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                Copied\n            \n        \n    \n            You didn't hit the wrong button: Your PC really restarted when you choose to shut it down.\n    \n        \n    \n                                        \n        \n        \n        November 3, 2025\n    \n            Credit: aileenchik/Shutterstock\n                            \n            \n                Key Takeaways\n                                            Windows has a bug that causes your PC to restart when you choose the \"Update and shut down\" option.\n                                            It's not clear what causes this issue, but it affects both Windows 10 and Windows 11.\n                                            Microsoft issued a fix in both the optional October update, as well as the upcoming November Patch Tuesday update.\n                                    \n            \n    Table of Contents\n    \n        \n        Computers are supposed to be unambiguous. When you click a function, that function is supposed to do what it says it does. So, when you click \"Update and shut down\" on your PC, you assume your PC will install any available updates, then shut down. Simple.As you might expect from this headline, that isn't actually the case. For some reason, when you choose \"Update and shut down,\" Windows only listens to the first half of the command. Sure, your updates will download and install, but if you watch your computer, you'll see that it doesn't shut down, but restarts instead. That might come as a surprise, especially if you walked away from your PC under the assumption that it would power down completely. After all, that's what Microsoft, and the rest of the computing industry, usually means by \"shut down.\"The implications can range from annoying to detrimental. If you don't want your computer running, you'll likely be frustrated to find your PC still on when you return to it. But if you have a Windows laptop, perhaps this quirk ends up draining your battery. You assumed your PC would shut down, and your battery would be about the same as when you left it. But now, you have a dead or dying PC, and you have to worry about how to get it charged—all because you trusted a function when it said it would shut down your computer. \n        \n            You May Also Like\n        \n    \nA bug long in the makingInterestingly, this is an issue that Microsoft has avoided fixing for quite a while now. According to Windows Latest, the problem is caused by is a bug that originated with Windows 10. Microsoft just never fixed the glitch, and, as such, it carried over to Windows 11. If you're a long-time Windows user, you might have been dealing with this odd situation for years.Luckily, this is changing. Microsoft added a fix for this bug as part of the October 2025 optional update (KB5067036). For the rest of us, the company is including the patch as part of Microsoft's November Patch Tuesday update. That update is set to arrive on Nov. 11, as Patch Tuesday updates drop on the second Tuesday of each month. \n            \n                What do you think so far?\n            \n        \n\n    \n        This Tweet is currently unavailable. It might be loading or has been removed.\n    \n\nWindows Latest asked Microsoft what exactly caused this bug, but didn't receive an answer. The outlet theorizes that the issue is probably related the Windows' servicing stack, the part of the OS responsible for installing Windows updates. For some reason, the \"power off\" task doesn't carry over after Windows finishes installing updates.If you want to fix this problem now, install either the October update, or wait for the Nov. 11 update. Either way, you can install the updates from Start > Settings > Windows Update—or, of course, use the \"Update and shut down\" function. With any luck, that should be the last time your PC restarts when it's supposed to shut down.\n            \n    \n\n    \n        The Download Newsletter\n            Never miss a tech story\n        \n        \n            Jake Peterson\n            \n            Senior tech editor\n        \n        Get the latest tech news, reviews, and advice from Jake and the team.\n    \n    \n        The Download Newsletter\n            Never miss a tech story. Get the latest tech news, reviews, and advice from Jake and the team.\n        \n    \n\n    \n            \n                \n                        Keep Scrolling for Next Article\n                    \n                \n            \n        ",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "'Update and Shut Down' Actually Restarts Your PC (but a Fix Is Coming)",
-      "image": [
-        "https://lifehacker.com/imagery/articles/01K95Q0RCE41WHR7AC0JYJBF71/hero-image.fill.size_1200x675.jpg"
-      ],
-      "datePublished": "2025-11-03T22:00:00.000Z",
-      "dateModified": "2025-11-03T22:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "How Apple Plans to Improve AI Image Editors",
-    "url": "https://lifehacker.com/tech/apple-improving-ai-image-editors?utm_medium=RSS",
-    "image": "https://lifehacker.com/imagery/articles/01K8XTR8CWDT0YXP7XMX9X5KHE/hero-image.fill.size_1200x675.jpg",
-    "tag": "Life",
-    "date": "2025-10-31T20:30:00.000Z",
-    "description": "\n            \n        \n    \n        \n            \n                \n                    \n                    \n                \n            \n           ",
-    "body": "\n            \n        \n    \n        \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                Copied\n            \n        \n    \n            Apple has been a bit behind in the AI race.\n    \n        \n    \n                                        \n        \n        \n        October 31, 2025\n    \n            Credit: Kaspars Grinvalds/Shutterstock\n                            \n            \n                Key Takeaways\n                                            Apple's AI researchers have released a dataset to help train AI image editors.\n                                            The dataset, Pico-Banana-400K, contains 400,000 images, as well as many successful and failed edits to help train other models.\n                                            The company used Google's Nano Banana model to develop this dataset, as well as Gemini-2.5.\n                                    \n            \n    Table of Contents\n    \n        \n        Apple might be dead last in the AI race—at least when you consider competition from companies like OpenAI, Google, and Meta—but that doesn't mean the company isn't working on the tech. In fact, it seems most of the work Apple does on AI is behind the scenes: While Apple Intelligence is, well, there, the company's researchers are working on other ways to improve AI models for everyone, not just Apple users. The latest project? Improving AI image editors based on text prompts. In a paper published last week, researchers introduced Pico-Banana-400K, a dataset of 400,000 \"text-guided\" images selected to improve AI-based image editing. Apple believes its image dataset improves upon existing sets by including higher quality images with more diversity: The researchers found that existing datasets either use images produced by AI models, or are not varied enough, which can hinder efforts to improve the models.Funnily enough, Pico-Banana-400K is designed to work with Nano Banana, Google's image editing model. Researchers say using Nano Banana, their dataset can generate 35 different types of edits, as well as tap into Gemini-2.5-Pro to asses quality the edits, and whether those edits should remain as part of the overall dataset.\n        \n            You May Also Like\n        \n    \nAs part of these 400,000 images, there are 258,000 samples of single edits (where Apple compares the original images to one with edits); 56,000 \"preference pairs,\" which distinguishes between failed and successful edit generations; and 72,000 \"multi-turn sequences,\" which walks through two to five edits.\n            \n                What do you think so far?\n            \n        \nResearchers note that different functions had different success rates in this dataset. Global edits and stylization are \"easy,\" achieving the highest success rates; object semantics and scene context are \"moderate;\" while precise geometry, layout, and typography are \"hard.\" The highest performing function, \"strong artistic style transfer,\" which could include changing an image's style to \"Van Gogh\" or anime, has a 93% success rate. The lowest performing function, \"change font style or color of visible text if there is text,\" only succeeded 58% of the time. Other tested functions include \"add new text\" (67% success rate), \"zoom in\" (74% success rate), and \"add film grain or vintage filter\" (91% success rate).  Unlike many of Apple's products, which are typically closed to the company's own platforms, Pico-Banana-400K is open for all researchers and AI developers to use. It's cool to see Apple researchers contributing to open research like this, especially in an area Apple is generally behind in. Will we actually get an AI-powered Siri anytime soon? Unclear. But it is clear Apple is actively working on AI, perhaps just in its own way. \n            \n    \n\n    \n        The Download Newsletter\n            Never miss a tech story\n        \n        \n            Jake Peterson\n            \n            Senior tech editor\n        \n        Get the latest tech news, reviews, and advice from Jake and the team.\n    \n    \n        The Download Newsletter\n            Never miss a tech story. Get the latest tech news, reviews, and advice from Jake and the team.\n        \n    \n\n    \n            \n                \n                        Keep Scrolling for Next Article\n                    \n                \n            \n        ",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "How Apple Plans to Improve AI Image Editors",
-      "image": [
-        "https://lifehacker.com/imagery/articles/01K8XTR8CWDT0YXP7XMX9X5KHE/hero-image.fill.size_1200x675.jpg"
-      ],
-      "datePublished": "2025-10-31T20:30:00.000Z",
-      "dateModified": "2025-10-31T20:30:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Google's AI Mode Can Now Arrange Your Appointments and Event Tickets",
-    "url": "https://lifehacker.com/tech/google-ai-can-now-arrange-appointments-and-event-tickets?utm_medium=RSS",
-    "image": "https://lifehacker.com/imagery/articles/01K9ABZVKFSSQYM40MPTF5K4JM/hero-image.fill.size_1200x675.png",
-    "tag": "Life",
-    "date": "2025-11-05T18:30:07.000Z",
-    "description": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our missio",
-    "body": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our mission is to offer reliable tech help and credible, practical, science-based life advice to help you live better.\n                \n                \n                    \n                        Our Mission\n                        Our Team\n                        Newsletter\n                    \n                \n            \n        \n                © 2001-2025 Ziff Davis, LLC., A ZIFF DAVIS COMPANY. ALL RIGHTS RESERVED.\n                Lifehacker is a federally registered trademark of Ziff Davis and may not be used by third parties without explicit permission. The display of third-party trademarks and trade names on this site does not necessarily indicate\n                    any affiliation or the\n                    endorsement of Lifehacker. If you click an affiliate link and buy a product or service, we may be paid a fee by that merchant.\n            \n    ",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Google's AI Mode Can Now Arrange Your Appointments and Event Tickets",
-      "image": [
-        "https://lifehacker.com/imagery/articles/01K9ABZVKFSSQYM40MPTF5K4JM/hero-image.fill.size_1200x675.png"
-      ],
-      "datePublished": "2025-11-05T18:30:07.000Z",
-      "dateModified": "2025-11-05T18:30:07.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "How to Stop Bluetooth Speakers From Disconnecting Your AirPods",
-    "url": "https://lifehacker.com/tech/how-to-stop-bluetooth-speakers-from-disconnecting-your-airpods?utm_medium=RSS",
-    "image": "https://lifehacker.com/imagery/articles/01K9F314KQE562QZX7V315J5MS/hero-image.fill.size_1200x675.jpg",
-    "tag": "Life",
-    "date": "2025-11-07T15:00:00.000Z",
-    "description": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our missio",
-    "body": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our mission is to offer reliable tech help and credible, practical, science-based life advice to help you live better.\n                \n                \n                    \n                        Our Mission\n                        Our Team\n                        Newsletter\n                    \n                \n            \n        \n                © 2001-2025 Ziff Davis, LLC., A ZIFF DAVIS COMPANY. ALL RIGHTS RESERVED.\n                Lifehacker is a federally registered trademark of Ziff Davis and may not be used by third parties without explicit permission. The display of third-party trademarks and trade names on this site does not necessarily indicate\n                    any affiliation or the\n                    endorsement of Lifehacker. If you click an affiliate link and buy a product or service, we may be paid a fee by that merchant.\n            \n    ",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "How to Stop Bluetooth Speakers From Disconnecting Your AirPods",
-      "image": [
-        "https://lifehacker.com/imagery/articles/01K9F314KQE562QZX7V315J5MS/hero-image.fill.size_1200x675.jpg"
-      ],
-      "datePublished": "2025-11-07T15:00:00.000Z",
-      "dateModified": "2025-11-07T15:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Your Private Facebook Groups Might Go Public, but Don’t Panic",
-    "url": "https://lifehacker.com/tech/private-facebook-groups-might-go-public?utm_medium=RSS",
-    "image": "https://lifehacker.com/imagery/articles/01K97Q8AT3FSM7K8K69VB186MX/hero-image.fill.size_1200x675.png",
-    "tag": "Life",
-    "date": "2025-11-04T16:00:01.000Z",
-    "description": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our missio",
-    "body": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our mission is to offer reliable tech help and credible, practical, science-based life advice to help you live better.\n                \n                \n                    \n                        Our Mission\n                        Our Team\n                        Newsletter\n                    \n                \n            \n        \n                © 2001-2025 Ziff Davis, LLC., A ZIFF DAVIS COMPANY. ALL RIGHTS RESERVED.\n                Lifehacker is a federally registered trademark of Ziff Davis and may not be used by third parties without explicit permission. The display of third-party trademarks and trade names on this site does not necessarily indicate\n                    any affiliation or the\n                    endorsement of Lifehacker. If you click an affiliate link and buy a product or service, we may be paid a fee by that merchant.\n            \n    ",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Your Private Facebook Groups Might Go Public, but Don’t Panic",
-      "image": [
-        "https://lifehacker.com/imagery/articles/01K97Q8AT3FSM7K8K69VB186MX/hero-image.fill.size_1200x675.png"
-      ],
-      "datePublished": "2025-11-04T16:00:01.000Z",
-      "dateModified": "2025-11-04T16:00:01.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Federal Agencies May Move to Ban These Popular Wifi Routers",
-    "url": "https://lifehacker.com/tech/federal-agencies-may-ban-tp-link-wifi-routers?utm_medium=RSS",
-    "image": "https://lifehacker.com/imagery/articles/01K95CPGAHAWZ1GJ0AGRR33W8G/hero-image.fill.size_1200x675.png",
-    "tag": "Life",
-    "date": "2025-11-03T18:30:04.000Z",
-    "description": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our missio",
-    "body": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our mission is to offer reliable tech help and credible, practical, science-based life advice to help you live better.\n                \n                \n                    \n                        Our Mission\n                        Our Team\n                        Newsletter\n                    \n                \n            \n        \n                © 2001-2025 Ziff Davis, LLC., A ZIFF DAVIS COMPANY. ALL RIGHTS RESERVED.\n                Lifehacker is a federally registered trademark of Ziff Davis and may not be used by third parties without explicit permission. The display of third-party trademarks and trade names on this site does not necessarily indicate\n                    any affiliation or the\n                    endorsement of Lifehacker. If you click an affiliate link and buy a product or service, we may be paid a fee by that merchant.\n            \n    ",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Federal Agencies May Move to Ban These Popular Wifi Routers",
-      "image": [
-        "https://lifehacker.com/imagery/articles/01K95CPGAHAWZ1GJ0AGRR33W8G/hero-image.fill.size_1200x675.png"
-      ],
-      "datePublished": "2025-11-03T18:30:04.000Z",
-      "dateModified": "2025-11-03T18:30:04.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "It’s Surprisingly Simple to Connect Your Mac to Multiple Bluetooth Speakers",
     "url": "https://lifehacker.com/tech/how-to-play-macos-audio-through-multiple-speakers?utm_medium=RSS",
     "image": "https://lifehacker.com/imagery/articles/01K95VSVVXYYK9WPD19F6X9W6N/hero-image.fill.size_1200x675.png",
@@ -191,31 +16,6 @@
       ],
       "datePublished": "2025-11-04T14:30:00.000Z",
       "dateModified": "2025-11-04T14:30:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Three Ways This Label Printer Helped Me Improve My Resale Business",
-    "url": "https://lifehacker.com/tech/how-a-label-printer-helped-me-improve-my-resale-business?utm_medium=RSS",
-    "image": "https://lifehacker.com/imagery/articles/01K955FEKZZJ8YPBMM0BX1J4K4/hero-image.fill.size_1200x675.png",
-    "tag": "Life",
-    "date": "2025-11-03T16:00:50.000Z",
-    "description": "\n    \n        \n            \n                \n            \n                \n                    \n                        \n                            \n",
-    "body": "\n    \n        \n            \n                \n            \n                \n                    \n                        \n                            \n                            \n                            View our Bluesky Page (Opens in a new tab)\n                        \n                    \n                    \n                        \n                            \n                            \n                            View our Instagram Page (Opens in a new tab)\n                        \n                    \n                    \n                        \n                            \n                            \n                            View on Facebook Page (Opens in a new tab)\n                        \n                    \n                    \n                        \n                            \n                            \n                            View our Youtube Page (Opens in a new tab)\n                        \n                    \n                    \n                        \n                            \n                            \n                            View our Twitter Page (Opens in a new tab)\n                        \n                    \n                \n                \n                    \n                    \n                \n                \n        \n            \n                Latest\n                Tech\n                Best Picks\n                Entertainment\n                Health\n                Reviews\n                Home & Garden\n                Deals\n                Comparisons\n                Hacks\n                                    # The Top 10 Tech Sales This Week\n            \n    \n            \n            \n        \n    \n        \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                Copied\n            \n        \n    \n            The convenience and organization this offers are unmatched.\n    \n        \n    \n                                        \n        \n        \n        November 3, 2025\n    \n    We may earn a commission from links on this page.\n    \n            Credit: Lindsey Ellefson\n                            \n    Table of Contents\n    \n        \n        Back in October, I wrote about how I wanted to get a mini label printer during Amazon Prime Day so I could beef up my resale game. I am a woman of my word, and the printer arrived two short days later, immediately allowing me to print out the shipping labels I need for all the packages I sell on Poshmark. This isn't a necessary upgrade for any reseller, especially not someone who is casually just flipping their own clothes and goods online, as most resale platforms—Poshmark included—provide the option for you to simply show the USPS worker a QR code on your phone, which triggers the label to print at the post office. But having access to my own printer has sped up and made my process so much more efficient. Yes, I could continue printing my labels at the post office, but it was slower and more confusing that way, particularly when mailing multiple packages at once. Here are three reasons having my own printer has been better. My label printer saves me timeWhen I wrote about the deals in October, I was considering getting a fancy, name-brand printer, but ended up going with the Vretti, a cheaper option at around $70, instead. I reasoned that this way, I could see if it actually benefitted my little side business before investing more money. If it didn't work, I could resell it and recoup my minimal spend. If it did work, I could resell it, then use the earnings to upgrade to the heavier-hitting one.\n        \n            You May Also Like\n        \n    \nAmazingly, the Vretti started proving its worth immediately. The first thing I noticed was how much time I saved. In the past, I would gather up the items that had been sold on a given day, put them all in a bag, take them to the post office, and then pack them—right there in public—into their mailing envelopes, which I had to procure at the post office itself. Then, I'd get into the line with my giant bunch of packages, wait who-knows-how-long, and finally, show the agent the QR code assigned to each package, so they could scan them, print out the label, affix it to the package, scan that, then put it in a bin ready to be shipped out. This took me 30 minutes on a good day. With my label maker, I do most of that myself, since I also went ahead and bought some mailers. When an order comes in, I pack everything into a mailer, print my own envelope, walk over to the post office, and don't need to wait in line at all. I just set the labeled package into a special window and walk away. The part that takes the longest is the four-minute walk to the post office, but even that can be avoided if I set up a package pickup by my mailperson the night before. I'm militant about keeping my average shipping time low, so if an order comes through in the daytime, I try to get it out same-day, which means I rarely have the chance to schedule a next-day pickup from my own home. If I cared less about that, I could easily set all my labeled packages for at-home pickup and never walk to the post office at all, meaning each sale would take me nothing more than seconds to fix up. My label printer keeps me organizedSince I got this thing three weeks ago, I've made 26 sales. But because I typically sell bundles—or more than one thing at a time, offering a discount for bulk purchases—I've actually sold about 63 things within those 26 packages. Remember how I said that before I got my printer, I'd put everything in a bag and bring it to the post office, then pack it there? On days I had multiple bundles to ship out, that was tricky. I'd get confused about which item belonged in which mailer, have to write the contents on the mailer itself so I could remember which package corresponded with which QR code, and carefully coordinate with the attendant to make sure nothing got mixed up. \n            \n                What do you think so far?\n            \n        \nFortunately, I never mailed anyone the wrong order or made a major mistake—but it was time-consuming, annoying, and stressful. My label printer makes that a problem of the past. When an order comes in, I build it out immediately, pulling the right items from the shelf, putting them in a mailer, and labeling them instantly. Then, even if I wait to go to the post office until I have a few more packages to send out, there's no confusing what is what. My label printer makes me a more appealing sellerThis whole thing is very transactional and straightforward. I list my old clothes that don't fit anymore. Someone buys them. I get money. They get clothes. That doesn't mean there's no customer service involved here, although you can certainly be an impersonal, brusque seller if you want to be. I do prefer to send out cute packages that make the transaction feel a little more personal, though, and the printer helps me there, too. Because I can pack them in my own home and take my time with them, my packages are looking better and more bespoke than ever. I can write little messages on the label, take care to wrap goods in tissue paper, or otherwise spruce up my colorful mailers, all without someone in line behind me at the post office willing me to hurry up. \n            \n    \n\n    \n        The Download Newsletter\n            Never miss a tech story\n        \n        \n            Jake Peterson\n            \n            Senior tech editor\n        \n        Get the latest tech news, reviews, and advice from Jake and the team.\n    \n    \n        The Download Newsletter\n            Never miss a tech story. Get the latest tech news, reviews, and advice from Jake and the team.\n        \n    \n\n    \n            \n                \n                        Keep Scrolling for Next Article\n                    \n                \n            \n        \n    ",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Three Ways This Label Printer Helped Me Improve My Resale Business",
-      "image": [
-        "https://lifehacker.com/imagery/articles/01K955FEKZZJ8YPBMM0BX1J4K4/hero-image.fill.size_1200x675.png"
-      ],
-      "datePublished": "2025-11-03T16:00:50.000Z",
-      "dateModified": "2025-11-03T16:00:50.000Z",
       "author": [
         {
           "@type": "Person",
@@ -250,22 +50,97 @@
     }
   },
   {
-    "title": "The Apple Watch Ultra 3 Is Already $100 Off",
-    "url": "https://lifehacker.com/tech/apple-apple-watch-ultra-3-already-100-off?utm_medium=RSS",
-    "image": "https://lifehacker.com/imagery/articles/01K95JC88VAD19RDP9CJCK3F7M/hero-image.fill.size_1200x675.png",
+    "title": "You May Have a Refund Coming If You Use Amazon Prime",
+    "url": "https://lifehacker.com/money/you-may-have-a-refund-coming-if-you-use-amazon-prime?utm_medium=RSS",
+    "image": "https://lifehacker.com/imagery/articles/01K95AKWZNSTEQ22G8721XBZ14/hero-image.fill.size_1200x675.png",
     "tag": "Life",
-    "date": "2025-11-03T19:30:00.000Z",
+    "date": "2025-11-03T17:30:00.000Z",
     "description": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our missio",
     "body": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our mission is to offer reliable tech help and credible, practical, science-based life advice to help you live better.\n                \n                \n                    \n                        Our Mission\n                        Our Team\n                        Newsletter\n                    \n                \n            \n        \n                © 2001-2025 Ziff Davis, LLC., A ZIFF DAVIS COMPANY. ALL RIGHTS RESERVED.\n                Lifehacker is a federally registered trademark of Ziff Davis and may not be used by third parties without explicit permission. The display of third-party trademarks and trade names on this site does not necessarily indicate\n                    any affiliation or the\n                    endorsement of Lifehacker. If you click an affiliate link and buy a product or service, we may be paid a fee by that merchant.\n            \n    ",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "The Apple Watch Ultra 3 Is Already $100 Off",
+      "headline": "You May Have a Refund Coming If You Use Amazon Prime",
       "image": [
-        "https://lifehacker.com/imagery/articles/01K95JC88VAD19RDP9CJCK3F7M/hero-image.fill.size_1200x675.png"
+        "https://lifehacker.com/imagery/articles/01K95AKWZNSTEQ22G8721XBZ14/hero-image.fill.size_1200x675.png"
       ],
-      "datePublished": "2025-11-03T19:30:00.000Z",
-      "dateModified": "2025-11-03T19:30:00.000Z",
+      "datePublished": "2025-11-03T17:30:00.000Z",
+      "dateModified": "2025-11-03T17:30:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "You Can Now Pay to Generate More Sora AI Videos, and I'm Concerned",
+    "url": "https://lifehacker.com/tech/you-can-now-pay-to-generate-more-sora-ai-videos?utm_medium=RSS",
+    "image": "https://lifehacker.com/imagery/articles/01K8XB25H1WFASHB4B92CGG14G/hero-image.fill.size_1200x675.jpg",
+    "tag": "Life",
+    "date": "2025-10-31T16:00:00.000Z",
+    "description": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our missio",
+    "body": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our mission is to offer reliable tech help and credible, practical, science-based life advice to help you live better.\n                \n                \n                    \n                        Our Mission\n                        Our Team\n                        Newsletter\n                    \n                \n            \n        \n                © 2001-2025 Ziff Davis, LLC., A ZIFF DAVIS COMPANY. ALL RIGHTS RESERVED.\n                Lifehacker is a federally registered trademark of Ziff Davis and may not be used by third parties without explicit permission. The display of third-party trademarks and trade names on this site does not necessarily indicate\n                    any affiliation or the\n                    endorsement of Lifehacker. If you click an affiliate link and buy a product or service, we may be paid a fee by that merchant.\n            \n    ",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "You Can Now Pay to Generate More Sora AI Videos, and I'm Concerned",
+      "image": [
+        "https://lifehacker.com/imagery/articles/01K8XB25H1WFASHB4B92CGG14G/hero-image.fill.size_1200x675.jpg"
+      ],
+      "datePublished": "2025-10-31T16:00:00.000Z",
+      "dateModified": "2025-10-31T16:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The First Four Things to Do When Your Flight is Canceled",
+    "url": "https://lifehacker.com/travel/the-first-things-to-do-when-your-flight-is-cancelled?utm_medium=RSS",
+    "image": "https://lifehacker.com/imagery/articles/01K9FM8BHNNN3VC24TH6HZF24M/hero-image.fill.size_1200x675.png",
+    "tag": "Life",
+    "date": "2025-11-07T19:30:00.000Z",
+    "description": "\n        \n        Flight cancellations under the Federal Aviation Administration's (FAA) government shutdown order have begun, with hundreds of flight",
+    "body": "\n        \n        Flight cancellations under the Federal Aviation Administration's (FAA) government shutdown order have begun, with hundreds of flights and thousands of travelers across 40 U.S. airports affected. This could continue for as long as the shutdown lasts (and potentially impact many more travelers as the busy holiday season approaches). While flight cancellations are never fun, the cascading effect of due to the government shutdown could make dealing with one even more frustrating. Here are four actions you should take right away if your itinerary is cut. Enable alerts from your airlineFlight cancellations often happen with little to no notice, sometimes when you're already en route to your destination, and airlines are certainly scrambling to comply with the FAA's shutdown order. As they continue to pare down their schedules, there's a chance your flight may be cut well before you head to the airport. \nTo keep yourself in the loop, download your airline's app and turn on push notifications so you receive status updates as soon as they're available—and keep an eye on your email and text messages for additional alerts. Check your rebooking options ASAPAirlines will often automatically rebook passengers whose flights are canceled on the next available alternative—so again, make sure you have your airline's app on your phone to quickly view your options. If the airline offers this, you can accept the rebooked itinerary, choose a different one, or reject it and get a refund instead. Going through the mobile app is likely to be much faster than queuing at the customer service counter or trying to get through over the phone. (Though if you do need to talk to an actual person at your airline, we've got a guide for that.)Of course, you should check your airline's guidance specific to shutdown cancellations. Frontier, for example, is waiving change and cancellation fees and allowing passengers to request a rebooked itinerary or refund, but you may not automatically be placed on the next flight. United is offering rebooking options as well as refunds to anyone who chooses not to travel, even if their flight isn't affected. You'll find relevant advisories on your airline's website (for example, Delta, American, JetBlue, and Southwest). Know what you're entitled toIf your flight is canceled less than 14 days before departure and you choose not to travel, you are entitled to a refund—even if you booked a nonrefundable or basic economy ticket. Airlines may offer travel credits or vouchers first, but you can try to request cash if that's your preference. You can look up your airline's standard commitments in the event of \"controllable\" cancellations on the Department of Transportation's Airline Cancellation and Delay Dashboard, but you should also check the policies specific to the FAA flight reduction as outlined above. Consider booking a backupIf your trip is an absolute must, you may want to book a back-up option at a different time, on a different airline, or through an alternative airport. While there's no guarantee that this flight won't also be canceled, it does at least increase your odds of getting to your destination with a confirmed seat while other affected travelers are being rebooked on itineraries hours or days later. You can buy a refundable ticket—knowing you'll either get to where you need to go or get the extra money back if your original itinerary works out—or use points and miles, which are often easily deposited back into your account if you cancel your ticket. Be sure to check the terms and conditions of your rewards program. You can also look into travel insurance, which will usually fully refund your purchase, albeit for a fee\n            ",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "The First Four Things to Do When Your Flight is Canceled",
+      "image": [
+        "https://lifehacker.com/imagery/articles/01K9FM8BHNNN3VC24TH6HZF24M/hero-image.fill.size_1200x675.png"
+      ],
+      "datePublished": "2025-11-07T19:30:00.000Z",
+      "dateModified": "2025-11-07T19:30:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Your Private Facebook Groups Might Go Public, but Don’t Panic",
+    "url": "https://lifehacker.com/tech/private-facebook-groups-might-go-public?utm_medium=RSS",
+    "image": "https://lifehacker.com/imagery/articles/01K97Q8AT3FSM7K8K69VB186MX/hero-image.fill.size_1200x675.png",
+    "tag": "Life",
+    "date": "2025-11-04T16:00:01.000Z",
+    "description": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our missio",
+    "body": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our mission is to offer reliable tech help and credible, practical, science-based life advice to help you live better.\n                \n                \n                    \n                        Our Mission\n                        Our Team\n                        Newsletter\n                    \n                \n            \n        \n                © 2001-2025 Ziff Davis, LLC., A ZIFF DAVIS COMPANY. ALL RIGHTS RESERVED.\n                Lifehacker is a federally registered trademark of Ziff Davis and may not be used by third parties without explicit permission. The display of third-party trademarks and trade names on this site does not necessarily indicate\n                    any affiliation or the\n                    endorsement of Lifehacker. If you click an affiliate link and buy a product or service, we may be paid a fee by that merchant.\n            \n    ",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Your Private Facebook Groups Might Go Public, but Don’t Panic",
+      "image": [
+        "https://lifehacker.com/imagery/articles/01K97Q8AT3FSM7K8K69VB186MX/hero-image.fill.size_1200x675.png"
+      ],
+      "datePublished": "2025-11-04T16:00:01.000Z",
+      "dateModified": "2025-11-04T16:00:01.000Z",
       "author": [
         {
           "@type": "Person",
@@ -300,22 +175,122 @@
     }
   },
   {
-    "title": "'Illich's Law' Can Help You Be More Productive",
-    "url": "https://lifehacker.com/work/illichs-law-take-breaks-to-be-more-productive?utm_medium=RSS",
-    "image": "https://lifehacker.com/imagery/articles/01HP4WAPANE3SAYBM4GWFFQ6XE/hero-image.fill.size_1200x675.jpg",
+    "title": "How to Apply SMART Goals to Your Personal Projects",
+    "url": "https://lifehacker.com/use-this-smart-goals-formula-to-be-more-productive-1850736205?utm_medium=RSS",
+    "image": "https://lifehacker.com/imagery/articles/01HF2GP410PKC52SX4XFW8Y1W8/hero-image.fill.size_1200x675.jpg",
     "tag": "Life",
-    "date": "2025-11-07T13:30:00.000Z",
+    "date": "2025-11-03T13:00:00.000Z",
+    "description": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our missio",
+    "body": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our mission is to offer reliable tech help and credible, practical, science-based life advice to help you live better.\n                \n                \n                    \n                        Our Mission\n                        Our Team\n                        Newsletter\n                    \n                \n            \n        \n                © 2001-2025 Ziff Davis, LLC., A ZIFF DAVIS COMPANY. ALL RIGHTS RESERVED.\n                Lifehacker is a federally registered trademark of Ziff Davis and may not be used by third parties without explicit permission. The display of third-party trademarks and trade names on this site does not necessarily indicate\n                    any affiliation or the\n                    endorsement of Lifehacker. If you click an affiliate link and buy a product or service, we may be paid a fee by that merchant.\n            \n    ",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "How to Apply SMART Goals to Your Personal Projects",
+      "image": [
+        "https://lifehacker.com/imagery/articles/01HF2GP410PKC52SX4XFW8Y1W8/hero-image.fill.size_1200x675.jpg"
+      ],
+      "datePublished": "2025-11-03T13:00:00.000Z",
+      "dateModified": "2025-11-03T13:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "How Scammers Are Taking Advantage of the Government Shutdown",
+    "url": "https://lifehacker.com/money/scammers-are-taking-advantage-of-the-government-shutdown?utm_medium=RSS",
+    "image": "https://lifehacker.com/imagery/articles/01K98FZKNME42ZNHCV55A9FNJA/hero-image.fill.size_1200x675.jpg",
+    "tag": "Life",
+    "date": "2025-11-05T14:00:00.000Z",
+    "description": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our missio",
+    "body": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our mission is to offer reliable tech help and credible, practical, science-based life advice to help you live better.\n                \n                \n                    \n                        Our Mission\n                        Our Team\n                        Newsletter\n                    \n                \n            \n        \n                © 2001-2025 Ziff Davis, LLC., A ZIFF DAVIS COMPANY. ALL RIGHTS RESERVED.\n                Lifehacker is a federally registered trademark of Ziff Davis and may not be used by third parties without explicit permission. The display of third-party trademarks and trade names on this site does not necessarily indicate\n                    any affiliation or the\n                    endorsement of Lifehacker. If you click an affiliate link and buy a product or service, we may be paid a fee by that merchant.\n            \n    ",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "How Scammers Are Taking Advantage of the Government Shutdown",
+      "image": [
+        "https://lifehacker.com/imagery/articles/01K98FZKNME42ZNHCV55A9FNJA/hero-image.fill.size_1200x675.jpg"
+      ],
+      "datePublished": "2025-11-05T14:00:00.000Z",
+      "dateModified": "2025-11-05T14:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "How I'm Using the Time Change to Kickstart My Morning Exercise Routine",
+    "url": "https://lifehacker.com/use-the-time-change-to-kickstart-a-morning-exercise-routine?utm_medium=RSS",
+    "image": "https://lifehacker.com/imagery/articles/01HF2GV1ZQ2ZS9KFY29NP7VRS6/hero-image.fill.size_1200x675.jpg",
+    "tag": "Life",
+    "date": "2025-10-31T16:30:00.000Z",
+    "description": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our missio",
+    "body": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our mission is to offer reliable tech help and credible, practical, science-based life advice to help you live better.\n                \n                \n                    \n                        Our Mission\n                        Our Team\n                        Newsletter\n                    \n                \n            \n        \n                © 2001-2025 Ziff Davis, LLC., A ZIFF DAVIS COMPANY. ALL RIGHTS RESERVED.\n                Lifehacker is a federally registered trademark of Ziff Davis and may not be used by third parties without explicit permission. The display of third-party trademarks and trade names on this site does not necessarily indicate\n                    any affiliation or the\n                    endorsement of Lifehacker. If you click an affiliate link and buy a product or service, we may be paid a fee by that merchant.\n            \n    ",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "How I'm Using the Time Change to Kickstart My Morning Exercise Routine",
+      "image": [
+        "https://lifehacker.com/imagery/articles/01HF2GV1ZQ2ZS9KFY29NP7VRS6/hero-image.fill.size_1200x675.jpg"
+      ],
+      "datePublished": "2025-10-31T16:30:00.000Z",
+      "dateModified": "2025-10-31T16:30:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "You Can Get a Costco Membership Plus a $40 Shop Card for Just $65 Right Now",
+    "url": "https://lifehacker.com/home/costco-membership-stacksocial-sale-november-2025?utm_medium=RSS",
+    "image": "https://lifehacker.com/imagery/articles/01K8MXQM2Y39CEJ8RRFR0YV9PZ/hero-image.fill.size_1200x675.png",
+    "tag": "Life",
+    "date": "2025-11-07T16:15:00.000Z",
+    "description": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our missio",
+    "body": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our mission is to offer reliable tech help and credible, practical, science-based life advice to help you live better.\n                \n                \n                    \n                        Our Mission\n                        Our Team\n                        Newsletter\n                    \n                \n            \n        \n                © 2001-2025 Ziff Davis, LLC., A ZIFF DAVIS COMPANY. ALL RIGHTS RESERVED.\n                Lifehacker is a federally registered trademark of Ziff Davis and may not be used by third parties without explicit permission. The display of third-party trademarks and trade names on this site does not necessarily indicate\n                    any affiliation or the\n                    endorsement of Lifehacker. If you click an affiliate link and buy a product or service, we may be paid a fee by that merchant.\n            \n    ",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "You Can Get a Costco Membership Plus a $40 Shop Card for Just $65 Right Now",
+      "image": [
+        "https://lifehacker.com/imagery/articles/01K8MXQM2Y39CEJ8RRFR0YV9PZ/hero-image.fill.size_1200x675.png"
+      ],
+      "datePublished": "2025-11-07T16:15:00.000Z",
+      "dateModified": "2025-11-07T16:15:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Apple Just Changed How You Turn Off Your iPhone Alarms",
+    "url": "https://lifehacker.com/tech/you-can-now-slide-to-stop-your-alarms-on-iphone?utm_medium=RSS",
+    "image": "https://lifehacker.com/imagery/articles/01K97VY4F4QZZ8BNXQKB5P3ER1/hero-image.fill.size_1200x675.jpg",
+    "tag": "Life",
+    "date": "2025-11-04T18:00:41.000Z",
     "description": "\n            \n        \n    \n        \n            \n                \n                    \n                    \n                \n            \n           ",
-    "body": "\n            \n        \n    \n        \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                Copied\n            \n        \n    \n            According to Illich’s Law, the more you work, the worse you get. Who are we to argue?\n    \n        \n    \n                                        \n        \n        \n        November 7, 2025\n                    \n            Credit: TippaPatt/Shutterstock \n                            \n    Table of Contents\n    \n        \n        How you allocate and use your time every day is as important to productivity as the work you actually do, which is why it's important to pre-plan your schedule down to the minute. You have to be smart and strategic about when you work, what you work on, and how long you do it—otherwise, some of your time may be wasted. Illich’s Law, or the Law of Diminishing Returns, says that after working for a while, your productivity decreases—then becomes negative. What does Illich’s Law mean?We often think of being productive as getting a lot done, but productivity can—and should—also focus on the quality of that work, too. Some good work is, in most cases, better than a lot of shoddy work. Illich’s Law, conceptualized by philosopher and social critic Ivan Illich, suggests that not only does your productivity decrease after you’ve spent too much time on something, but it gets counterproductive. The work you produce after being at it too long could actually be straight-up bad—you shouldn’t have even done it in the first place. Often, you'll end up redoing it, which wastes time you could be spending on other pursuits and makes you less productive.\n        \n            You May Also Like\n        \n    \nHow to defeat Illich’s LawTo prevent a decline in your work, you need a strategy. First, use time-tracking software or a simple spreadsheet for a week or two to figure out how much time you spend on your typical tasks. Make sure to take notes on when you feel yourself becoming fatigued, bored, or less productive. As always, use timeboxing to structure your calendar, giving every task its own entry and defining timelines through the day. Stick to those timelines rigidly and stop working when your allotted time is up unless you absolutely have to keep going (which shouldn't happen often if you're planning well enough).After you’ve collected some data, assess the time you give yourself to do things. Try reducing the time allotment for each task, so you stop before that bored or unproductive feeling kicks in. Don’t be afraid you’re giving yourself “too little” time, either: The Yerkes-Dodson Law says that your peak of productivity comes when you have just the right amount of stress. Having less time to do something will not only make you more productive under Illich’s Law, but Yerkes-Dodson and Parkinson’s Law, which says you’ll over-complicate work if you have too long to attend to it. Basically, a bunch of major theorists all agree one one thing for various reasons: Working on anything for too long just ain’t it. Once you’ve reduced how much time you’re giving yourself to do things, return to your calendar, which has your timeboxes in it. Change the timing parameters for each entry to your new allotments. This will leave you with small breaks visible in the calendar throughout the day. Schedule breaks in there. The second thing Illich’s law emphasizes is that people need breaks in addition to a reduction in work on specific tasks. Don’t just give yourself less time for each task and move from one to another faster; take breaks in between. This should end up mirroring the Pomodoro technique, or at least approximating it. With Pomodoro, you work for 25 minutes, take a five-minute break, get back to it for 25 more, and keep cycling that way until you've done it four times and earn a larger break. That timing doesn't work for everyone, so feel free to modify the work blocks and break blocks, but keep in mind that your work needs to be followed by at least a little downtime. In general, your productivity needs more breaks, so give yourself a scheduled time to go grab a coffee, scroll social media, or make a personal call. \n            \n    \n\n    \n        The Daily Newsletter\n            Ready to do everything better?\n        \n        \n            Jordan Calhoun\n            \n            Editor in chief\n        \n        Get daily tips, tricks, and tech guides from Jordan and the team.\n    \n    \n        The Daily Newsletter\n            Ready to do everything better? Get daily tips, tricks, and tech guides from Jordan and the team.\n        \n    \n\n    \n            \n                \n                        Keep Scrolling for Next Article\n                    \n                \n            \n        ",
+    "body": "\n            \n        \n    \n        \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                Copied\n            \n        \n    \n            The good news is, you can change it back.\n    \n        \n    \n                                        \n        \n        \n        November 4, 2025\n                    \n            Credit: PeopleImages / iStock via Getty Images\n                            \n            \n                Key Takeaways\n                                            With iOS 26.1, you now slide to stop alarms and timers.\n                                            This change is similar to how you used to slide to unlock your iPhone, which might appeal to some long-term iPhone users.\n                                            For anyone who doesn't like the change, there is a way to undo it.\n                                    \n            \n    Table of Contents\n    \n        \n        If you've been an iPhone user for a long time, you might remember \"slide to unlock.\" When you wanted to use your iPhone, you had to physically move your finger along the screen to actually unlock the device. It was a clever way of ensuring than your iPhone didn't unlock in your pocket, or due to an accidental touch. With iOS 10, Apple killed slide to unlock in favor of pressing the Home button, then later swiping up on the bottom of the screen. Since then, for the better part of a decade, swiping right on the Lock Screen simply takes you to the \"Today View,\" which contains your widgets. Change is good, and I don't necessarily think Apple should bring back slide to unlock for the Lock Screen, but sometimes, I miss how things worked on my old iPhone 3GS. Nostalgia is a hell of a drug. To my absolute surprise, however, the company is bringing back the slide function—just not to unlock. Instead, you're now able to slide to stop your alarms, which might come as a surprise to anyone used to the usual alarm routine. Imagine it: One morning, you're tapping to turn off your alarm as usual; the next, your taps are fruitless, and your alarm keeps blaring. Bleary-eyed, you look at your screen, to find a new \"Slide to stop\" function. If you're like me, you'll follow instructions, sliding to stop the alarm, only to forget the whole ordeal within moments, doomed to repeat the affair the next morning. \n        \n            You May Also Like\n        \n    \nThis change arrives as part of iOS 26.1, which dropped on Monday, and Apple doesn't give you any say in the matter—at least, not at first. After updating to the latest update, your next alarm or timer will include the next slider (though \"snooze\" or \"repeat\" remain buttons), but the switch up is fine by me. I like it, and it brings back a fun feature from iOS' heyday. But if you dislike the change, and you wish you could simply tap a button to silence your alarms and timers, the good news is, you still can. How to disable \"slide to stop alarm\"Apple buried the option to revert your alarm and timers back to the way they used to be, so I wouldn't blame you for not knowing they even exist. You won't find them in the Clock app's settings page, which is confusing. Instead, it's part of a hidden system-wide setting, called \"Prefer Single-Touch Actions.\"  This setting will disable sliders across iOS, and replace them with buttons. For our purposes, that turns \"Slide to stop\" back into a simple off button. To find it, head to Settings > Accessibility > Touch, then enable the toggle next to \"Prefer Single-Touch Action.\" \n    \n            \n            Slide to stop (left) vs. stop button (right).\n                                        Credit: Lifehacker\n                    \n    \n            \n    \n\n    \n        The Download Newsletter\n            Never miss a tech story\n        \n        \n            Jake Peterson\n            \n            Senior tech editor\n        \n        Get the latest tech news, reviews, and advice from Jake and the team.\n    \n    \n        The Download Newsletter\n            Never miss a tech story. Get the latest tech news, reviews, and advice from Jake and the team.\n        \n    \n\n    \n            \n                \n                        Keep Scrolling for Next Article\n                    \n                \n            \n        ",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "'Illich's Law' Can Help You Be More Productive",
+      "headline": "Apple Just Changed How You Turn Off Your iPhone Alarms",
       "image": [
-        "https://lifehacker.com/imagery/articles/01HP4WAPANE3SAYBM4GWFFQ6XE/hero-image.fill.size_1200x675.jpg"
+        "https://lifehacker.com/imagery/articles/01K97VY4F4QZZ8BNXQKB5P3ER1/hero-image.fill.size_1200x675.jpg"
       ],
-      "datePublished": "2025-11-07T13:30:00.000Z",
-      "dateModified": "2025-11-07T13:30:00.000Z",
+      "datePublished": "2025-11-04T18:00:41.000Z",
+      "dateModified": "2025-11-04T18:00:41.000Z",
       "author": [
         {
           "@type": "Person",
@@ -325,22 +300,22 @@
     }
   },
   {
-    "title": "What to Do If You're Hearing Static in Your AirPods Pro 3",
-    "url": "https://lifehacker.com/tech/airpods-pro-3-static-reports?utm_medium=RSS",
-    "image": "https://lifehacker.com/imagery/articles/01K8XKF2P6FH6NKQGV946D2XTM/hero-image.fill.size_1200x675.png",
+    "title": "'Update and Shut Down' Actually Restarts Your PC (but a Fix Is Coming)",
+    "url": "https://lifehacker.com/tech/update-and-shut-down-actually-restarts-your-pc?utm_medium=RSS",
+    "image": "https://lifehacker.com/imagery/articles/01K95Q0RCE41WHR7AC0JYJBF71/hero-image.fill.size_1200x675.jpg",
     "tag": "Life",
-    "date": "2025-10-31T19:00:00.000Z",
-    "description": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our missio",
-    "body": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our mission is to offer reliable tech help and credible, practical, science-based life advice to help you live better.\n                \n                \n                    \n                        Our Mission\n                        Our Team\n                        Newsletter\n                    \n                \n            \n        \n                © 2001-2025 Ziff Davis, LLC., A ZIFF DAVIS COMPANY. ALL RIGHTS RESERVED.\n                Lifehacker is a federally registered trademark of Ziff Davis and may not be used by third parties without explicit permission. The display of third-party trademarks and trade names on this site does not necessarily indicate\n                    any affiliation or the\n                    endorsement of Lifehacker. If you click an affiliate link and buy a product or service, we may be paid a fee by that merchant.\n            \n    ",
+    "date": "2025-11-03T22:00:00.000Z",
+    "description": "\n            \n        \n    \n        \n            \n                \n                    \n                    \n                \n            \n           ",
+    "body": "\n            \n        \n    \n        \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                Copied\n            \n        \n    \n            You didn't hit the wrong button: Your PC really restarted when you choose to shut it down.\n    \n        \n    \n                                        \n        \n        \n        November 3, 2025\n                    \n            Credit: aileenchik/Shutterstock\n                            \n            \n                Key Takeaways\n                                            Windows has a bug that causes your PC to restart when you choose the \"Update and shut down\" option.\n                                            It's not clear what causes this issue, but it affects both Windows 10 and Windows 11.\n                                            Microsoft issued a fix in both the optional October update, as well as the upcoming November Patch Tuesday update.\n                                    \n            \n    Table of Contents\n    \n        \n        Computers are supposed to be unambiguous. When you click a function, that function is supposed to do what it says it does. So, when you click \"Update and shut down\" on your PC, you assume your PC will install any available updates, then shut down. Simple.As you might expect from this headline, that isn't actually the case. For some reason, when you choose \"Update and shut down,\" Windows only listens to the first half of the command. Sure, your updates will download and install, but if you watch your computer, you'll see that it doesn't shut down, but restarts instead. That might come as a surprise, especially if you walked away from your PC under the assumption that it would power down completely. After all, that's what Microsoft, and the rest of the computing industry, usually means by \"shut down.\"The implications can range from annoying to detrimental. If you don't want your computer running, you'll likely be frustrated to find your PC still on when you return to it. But if you have a Windows laptop, perhaps this quirk ends up draining your battery. You assumed your PC would shut down, and your battery would be about the same as when you left it. But now, you have a dead or dying PC, and you have to worry about how to get it charged—all because you trusted a function when it said it would shut down your computer. \n        \n            You May Also Like\n        \n    \nA bug long in the makingInterestingly, this is an issue that Microsoft has avoided fixing for quite a while now. According to Windows Latest, the problem is caused by is a bug that originated with Windows 10. Microsoft just never fixed the glitch, and, as such, it carried over to Windows 11. If you're a long-time Windows user, you might have been dealing with this odd situation for years.Luckily, this is changing. Microsoft added a fix for this bug as part of the October 2025 optional update (KB5067036). For the rest of us, the company is including the patch as part of Microsoft's November Patch Tuesday update. That update is set to arrive on Nov. 11, as Patch Tuesday updates drop on the second Tuesday of each month. \n    \n        This Tweet is currently unavailable. It might be loading or has been removed.\n    \n\nWindows Latest asked Microsoft what exactly caused this bug, but didn't receive an answer. The outlet theorizes that the issue is probably related the Windows' servicing stack, the part of the OS responsible for installing Windows updates. For some reason, the \"power off\" task doesn't carry over after Windows finishes installing updates.If you want to fix this problem now, install either the October update, or wait for the Nov. 11 update. Either way, you can install the updates from Start > Settings > Windows Update—or, of course, use the \"Update and shut down\" function. With any luck, that should be the last time your PC restarts when it's supposed to shut down.\n            \n    \n\n    \n        The Download Newsletter\n            Never miss a tech story\n        \n        \n            Jake Peterson\n            \n            Senior tech editor\n        \n        Get the latest tech news, reviews, and advice from Jake and the team.\n    \n    \n        The Download Newsletter\n            Never miss a tech story. Get the latest tech news, reviews, and advice from Jake and the team.\n        \n    \n\n    \n            \n                \n                        Keep Scrolling for Next Article\n                    \n                \n            \n        ",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "What to Do If You're Hearing Static in Your AirPods Pro 3",
+      "headline": "'Update and Shut Down' Actually Restarts Your PC (but a Fix Is Coming)",
       "image": [
-        "https://lifehacker.com/imagery/articles/01K8XKF2P6FH6NKQGV946D2XTM/hero-image.fill.size_1200x675.png"
+        "https://lifehacker.com/imagery/articles/01K95Q0RCE41WHR7AC0JYJBF71/hero-image.fill.size_1200x675.jpg"
       ],
-      "datePublished": "2025-10-31T19:00:00.000Z",
-      "dateModified": "2025-10-31T19:00:00.000Z",
+      "datePublished": "2025-11-03T22:00:00.000Z",
+      "dateModified": "2025-11-03T22:00:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -350,22 +325,47 @@
     }
   },
   {
-    "title": "Android Users Can Now Make Sora AI Slop Too",
-    "url": "https://lifehacker.com/tech/sora-is-now-available-on-android?utm_medium=RSS",
-    "image": "https://lifehacker.com/imagery/articles/01K985SPFA4R8DJXBM60X8MH8A/hero-image.fill.size_1200x675.png",
+    "title": "Use the 'Zen to Done' Method to Form New Productivity Habits",
+    "url": "https://lifehacker.com/use-zen-to-done-form-new-habits?utm_medium=RSS",
+    "image": "https://lifehacker.com/imagery/articles/01HF2GW0X9VBA0DRG92GC010M3/hero-image.fill.size_1200x675.jpg",
     "tag": "Life",
-    "date": "2025-11-04T20:00:00.000Z",
-    "description": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our missio",
-    "body": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our mission is to offer reliable tech help and credible, practical, science-based life advice to help you live better.\n                \n                \n                    \n                        Our Mission\n                        Our Team\n                        Newsletter\n                    \n                \n            \n        \n                © 2001-2025 Ziff Davis, LLC., A ZIFF DAVIS COMPANY. ALL RIGHTS RESERVED.\n                Lifehacker is a federally registered trademark of Ziff Davis and may not be used by third parties without explicit permission. The display of third-party trademarks and trade names on this site does not necessarily indicate\n                    any affiliation or the\n                    endorsement of Lifehacker. If you click an affiliate link and buy a product or service, we may be paid a fee by that merchant.\n            \n    ",
+    "date": "2025-11-05T13:30:00.000Z",
+    "description": "\n            \n        \n    \n        \n            \n                \n                    \n                    \n                \n            \n           ",
+    "body": "\n            \n        \n    \n        \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                Copied\n            \n        \n    \n            You can work smarter. You just need to know which habits to change.\n    \n        \n    \n                                        \n        \n        \n        November 5, 2025\n                    \n            Credit: Nampix - Shutterstock\n                            \n    Table of Contents\n    \n        \n        Productivity is an essential skill for getting things done in your life and career, but it’s also important because it can gives you a sense of accomplishment and it enhances your sense of wellbeing. When you don’t get all your tasks done, it’s easy to feel overwhelmed and disappointed in yourself, which doesn’t help you push through to finish those tasks, let alone feel like you’re thriving.You should be happy. You need to be productive. Reaching a state of zen can help you accomplish both—or so goes the theory behind the “Zen to Done” method, which aims to help you get more good and feel good about it. Unlike some other productivity approaches, this one has less to do with strict deadlines and weedy details than it does with pushing through and feeling good about a job well done. This makes it well suited to those who don't exactly blossom under pressure.What is Zen to Done?Zen to Done is a productivity system conceptualized by Zen Habits’ Leo Babauta. It’s structured around building simple habits that enable you to get your work done and feel good at the same time. Other methods, like the once ubiquitous “Getting Things Done” system, get a bad rap for expecting you to build all your new habits at once, jumping immediately into a whole new lifestyle. That sort of all-or-nothing change can work for some people, but it might not be for you. But ZTD is focused on building them incrementally and more peacefully. There's room to adjust and grow, which can be soothing—especially if you have a lot of habits to change or you're particularly stuck in your ways.\n        \n            You May Also Like\n        \n    \nThe habit changes come in a series, but one at a time, allowing you to focus on the actual work you need to get done. In the original version of ZTD, there are 10 habits, but you should only try to incorporate two to three of them at one time before moving on to others.\n            \n                What do you think so far?\n            \n        \nCollect by always taking notes about what you need to do, ideas you have, or changes to a task or project.Process by making quick decisions on tasks that are in front of you right now, like emails that could soon pile up. Plan by setting goals for your week every Monday, and tackling larger tasks earlier in the week.Do by selecting a task and focusing on it without thinking about or doing anything else. Create a simple trusted system that works for you, like doing certain tasks at the same time every day or tapping into an email system like the 4Ds with consistenc.Organize by giving everything a place—and putting it there every time. This goes for emails, tools on your desk, and anything else that’s cluttering your mind or space. Review your weekly goals at the end of the week, but also keep tabs on your longer-term quarterly or annual goals to keep them fresh in your mind and see how your daily work plays into them. Simplify by using your review time to slash your goals and tasks into only what’s most essential at any given time. Make a routine that works for you, whether it’s a calmer morning routine, or  more structured evenings—and absolutely stick to it. Find your passion and make sure it’s guiding your work. This is where ZTD differs from other productivity methods: You should always strive to keep the things you care about at the center of what you’re doing, as a reminder of why you’re working so hard or a check on whether a project is really worth it all.Over the past year, I've adopted a few of these changes: collect (and, by extension, plan), plus process and organize. I've been dedicated to growing financially and becoming more organized, but I knew neither of those things would happen overnight, so I started writing down \"to-dos\" whenever they popped into my head. I stick them in a note in my phone, reorganize the note every Monday, and check it every morning to see what I can do—then jump straight into the things that are attainable in that moment. The other day, I noticed my fan was dirty but I didn't have time to clean it write then, so I wrote a note—clean the fan—in my phone, and was able to follow up on it the next day without stressing. Making changes and getting things done bit by bit in this way has resulted in major financial wins and a significantly cleaner, more organized home. It's a far cry from how things went in the past, when I put too much pressure on myself to change instantly. Get started with “Minimalist ZTD”All of that sounds like a lot—and it is, even though you’re only supposed to start rolling in the habits one at a time. So pull back a bit: Babauta considers the first four (collect, process, plan, and do) the core of a “Minimalist ZTD” program, and advises picking one of them and focusing on it for 30 days. After a month, you’ll be in the habit of using that approach to your work and can move on to one of the other three. And once the four big are securely ingrained in your habits, you can move on to the full list.\n            \n    \n\n    \n        The Daily Newsletter\n            Ready to do everything better?\n        \n        \n            Jordan Calhoun\n            \n            Editor in chief\n        \n        Get daily tips, tricks, and tech guides from Jordan and the team.\n    \n    \n        The Daily Newsletter\n            Ready to do everything better? Get daily tips, tricks, and tech guides from Jordan and the team.\n        \n    \n\n    \n            \n                \n                        Keep Scrolling for Next Article\n                    \n                \n            \n        ",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Android Users Can Now Make Sora AI Slop Too",
+      "headline": "Use the 'Zen to Done' Method to Form New Productivity Habits",
       "image": [
-        "https://lifehacker.com/imagery/articles/01K985SPFA4R8DJXBM60X8MH8A/hero-image.fill.size_1200x675.png"
+        "https://lifehacker.com/imagery/articles/01HF2GW0X9VBA0DRG92GC010M3/hero-image.fill.size_1200x675.jpg"
       ],
-      "datePublished": "2025-11-04T20:00:00.000Z",
-      "dateModified": "2025-11-04T20:00:00.000Z",
+      "datePublished": "2025-11-05T13:30:00.000Z",
+      "dateModified": "2025-11-05T13:30:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Disney Movies Are Disappearing From YouTube and Google TV",
+    "url": "https://lifehacker.com/entertainment/disney-movies-are-disappearing-from-youtube?utm_medium=RSS",
+    "image": "https://lifehacker.com/imagery/articles/01K97T9ARTS5NJR3ZN1Z2A7ZKV/hero-image.fill.size_1200x675.png",
+    "tag": "Life",
+    "date": "2025-11-04T17:30:06.000Z",
+    "description": "\n    \n        \n            \n                \n            \n                \n                    \n                        \n                            \n",
+    "body": "\n    \n        \n            \n                \n            \n                \n                    \n                        \n                            \n                            \n                            View our Bluesky Page (Opens in a new tab)\n                        \n                    \n                    \n                        \n                            \n                            \n                            View our Instagram Page (Opens in a new tab)\n                        \n                    \n                    \n                        \n                            \n                            \n                            View on Facebook Page (Opens in a new tab)\n                        \n                    \n                    \n                        \n                            \n                            \n                            View our Youtube Page (Opens in a new tab)\n                        \n                    \n                    \n                        \n                            \n                            \n                            View our Twitter Page (Opens in a new tab)\n                        \n                    \n                \n                \n                    \n                    \n                \n                \n        \n            \n                Latest\n                Tech\n                Best Picks\n                Entertainment\n                Health\n                Reviews\n                Home & Garden\n                Deals\n                Comparisons\n                Hacks\n                                    # The Top 10 Tech Sales This Week\n            \n    \n            \n            \n        \n    \n        \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                Copied\n            \n        \n    \n            YouTube's pay-per-view rentals no longer include popular Disney movies.\n    \n        \n    \n                                        \n        \n        \n        November 4, 2025\n                    \n            Credit: Azulblue / Shutterstock.com\n                            \n            \n                Key Takeaways\n                                            Disney Movies are disappearing from YouTube and Google TV.\n                                            The content blackout is in addition to the loss of Disney Channels in YouTube TV.\n                                            Disney Movies are still available to rent on platforms like Prime Video.\n                                    \n            \n    Table of Contents\n    \n        \n        The ongoing feud between Disney and Google is heating up. It all started last week, when Disney pulled its channels from YouTube TV, Google's Live TV service, over fee disputes. Now, Disney seems to be pulling content from other Google services as well. As first noted by 9to5Google, Disney movies are starting to disappear from YouTube's pay-per-view offerings too, and even other platforms like Google TV.For instance, try typing \"Avengers\" into your YouTube search bar right now. Aside from trailers and videos uploaded from individual users, you're more likely to see a rental option pop up for that 1998 Sean Connery and Uma Thurman spy movie than Marvel's superheroes. Meanwhile, Superman, a Warner Bros. movie, has a large \"Buy or rent\" button right at the top of the page.\n    \n            \n            \n                                        Credit: Michelle Ehrhardt\n                    \n    \nThe same goes for Lilo & Stitch. Currently, YouTube shows no option to buy or rent either the original Lilo & Stitch or its remake, but pay-per-view buttons for Dreamworks family movie The Bad Guys 2 show up front and center at the top of the page, just like with Superman. \n        \n            You May Also Like\n        \n    \nEven movies from Disney subsidiaries seem to be affected. While I was able to navigate to a rental page for Alien, which is now owned by Disney after its acquisition of Fox, I couldn't actually go through with purchasing the movie. Instead, I just saw a message saying, \"This video contains content from Fox. It is not available.\"\n    \n            \n            \n                                        Credit: Michelle Ehrhardt\n                    \n    \nI ran into the same issues trying to find these movies on other Google services, like Google TV (which also offers rentals, much like Apple TV) or the Play Store, but notably, all of the movies listed above are available on non-Google platforms, like Prime Video. Even older \"Disney Vault\" titles, like the original The Little Mermaid, are on Prime, but are nowhere to be seen on Google's services.\n    \n            \n            \n                                        Credit: Michelle Ehrhardt\n                    \n    \nI've reached out to both Disney and Google for comment, and will update when I hear back. In the meantime, neither company has made an official statement about this seeming pay-per-view content blockade.My two cents? It's a negotiation tactic. YouTube's pay-per-view offerings are a separate service entirely from YouTube TV, and are thus likely unaffected by that platform's licensing deals. At the same time, in pulling more of its content from Google's other platforms, Disney can exert additional leverage on Google to pay up to stream its channels.It's not the only mind game going on right now, for what it's worth. At time of writing, it's currently the first major election day in the U.S. since last year's presidential election, and yesterday, Disney offered to temporarily return ABC to YouTube TV so viewers could keep up with the news. YouTube rejected the proposal, saying it would \"cause customer confusion\" and instead proposed that Disney \"immediately restore\" ABC and ESPN while negotiations continue, as a sign of good faith.\"Those are the channels that people want,\" YouTube said, implying that it is being overcharged for additional channels that viewers show little interest in. The company then said that if Disney is willing to play ball, it can \"get these channels live in hours.\"That's certainly more heated than we've seen past YouTube TV negotiations, which were largely settled before customers saw any impact, get. While it's possible Disney might actually take YouTube up on its offer, we're probably not out of the woods yet. Luckily for YouTube TV subscribers, YouTube is promising remediation if the situation drags on any further, and some have even started to see it. As someone who doesn't subscribe to YouTube TV but does rent movies through YouTube, though? I have to admit I feel a little caught in the crossfire.\n            \n    \n\n    \n        The Daily Newsletter\n            Ready to do everything better?\n        \n        \n            Jordan Calhoun\n            \n            Editor in chief\n        \n        Get daily tips, tricks, and tech guides from Jordan and the team.\n    \n    \n        The Daily Newsletter\n            Ready to do everything better? Get daily tips, tricks, and tech guides from Jordan and the team.\n        \n    \n\n    \n            \n                \n                        Keep Scrolling for Next Article\n                    \n                \n            \n        \n    ",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Disney Movies Are Disappearing From YouTube and Google TV",
+      "image": [
+        "https://lifehacker.com/imagery/articles/01K97T9ARTS5NJR3ZN1Z2A7ZKV/hero-image.fill.size_1200x675.png"
+      ],
+      "datePublished": "2025-11-04T17:30:06.000Z",
+      "dateModified": "2025-11-04T17:30:06.000Z",
       "author": [
         {
           "@type": "Person",
