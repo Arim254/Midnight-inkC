@@ -1,12 +1,37 @@
 [
   {
+    "title": "Windows 11 Users Will Get a Major Start Menu Redesign This Week",
+    "url": "https://lifehacker.com/tech/windows-11-users-will-get-a-major-start-menu-redesign-this-week?utm_medium=RSS",
+    "image": "https://lifehacker.com/imagery/articles/01K9QA2127FBQPGRWB62MZ23GD/hero-image.fill.size_1200x675.jpg",
+    "tag": "Life",
+    "date": "2025-11-10T18:00:30.000Z",
+    "description": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our missio",
+    "body": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our mission is to offer reliable tech help and credible, practical, science-based life advice to help you live better.\n                \n                \n                    \n                        Our Mission\n                        Our Team\n                        Newsletter\n                    \n                \n            \n        \n                © 2001-2025 Ziff Davis, LLC., A ZIFF DAVIS COMPANY. ALL RIGHTS RESERVED.\n                Lifehacker is a federally registered trademark of Ziff Davis and may not be used by third parties without explicit permission. The display of third-party trademarks and trade names on this site does not necessarily indicate\n                    any affiliation or the\n                    endorsement of Lifehacker. If you click an affiliate link and buy a product or service, we may be paid a fee by that merchant.\n            \n    ",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Windows 11 Users Will Get a Major Start Menu Redesign This Week",
+      "image": [
+        "https://lifehacker.com/imagery/articles/01K9QA2127FBQPGRWB62MZ23GD/hero-image.fill.size_1200x675.jpg"
+      ],
+      "datePublished": "2025-11-10T18:00:30.000Z",
+      "dateModified": "2025-11-10T18:00:30.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Update Windows ASAP to Patch Another Zero-Day Vulnerability",
     "url": "https://lifehacker.com/tech/update-windows-asap-to-patch-this-zero-day-vulnerability?utm_medium=RSS",
     "image": "https://lifehacker.com/imagery/articles/01K9T9J8GGSE82TAYECX2QQ5NK/hero-image.fill.size_1200x675.webp",
     "tag": "Life",
     "date": "2025-11-11T21:30:00.000Z",
-    "description": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our missio",
-    "body": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our mission is to offer reliable tech help and credible, practical, science-based life advice to help you live better.\n                \n                \n                    \n                        Our Mission\n                        Our Team\n                        Newsletter\n                    \n                \n            \n        \n                © 2001-2025 Ziff Davis, LLC., A ZIFF DAVIS COMPANY. ALL RIGHTS RESERVED.\n                Lifehacker is a federally registered trademark of Ziff Davis and may not be used by third parties without explicit permission. The display of third-party trademarks and trade names on this site does not necessarily indicate\n                    any affiliation or the\n                    endorsement of Lifehacker. If you click an affiliate link and buy a product or service, we may be paid a fee by that merchant.\n            \n    ",
+    "description": "\n        \n        If you're a Windows user, this is your monthly reminder to ensure you install all available security updates. Microsoft's November P",
+    "body": "\n        \n        If you're a Windows user, this is your monthly reminder to ensure you install all available security updates. Microsoft's November Patch Tuesday release fixes one zero-day vulnerability that has been actively exploited in the wild, with 63 flaws patched in total. As reported by Bleeping Computer, the November Patch Tuesday update addresses 29 elevation of privilege vulnerabilities, 2 security feature bypass vulnerabilities, 16 remote code execution vulnerabilities, 11 information disclosure vulnerabilities, 2 denial of service vulnerabilities, and 3 spoofing vulnerabilities. (Note that these figures do not include patches for Microsoft Edge and Mariner.)In addition to the zero-day, four of the vulnerabilities being addressed—two remote code execution bugs and one each of the elevation of privilege and information disclosure flaws—are labeled \"critical.\" \nPatch fixes one zero-day threatAll security updates are important to install as soon as possible, but especially those that patch zero-days, which are vulnerabilities that are actively exploited or publicly exposed before the developer makes an official fix available. Without this month's patch, Windows users are vulnerable to CVE-2025-62215, an elevation of privilege flaw in the Windows Kernel. The bug allows threat actors to gain system privileges upon winning a \"race condition,\" or improper synchronization in Windows Kernel. The vulnerability was identified by the Microsoft Threat Intelligence Center (MSTIC) and the Microsoft Security Response Center (MSRC), though no additional details about exploitation have been made public. Other updates for Windows usersWindows 11 users will also see the rollout of the upgraded Start menu alongside Patch Tuesday updates—the new interface is scrollable with app categories and adapts to the size of your screen. Other changes include an redesigned battery icon and improved features for File Explorer, Voice Access, and Click to Do. As of last month's Patch Tuesday, Microsoft has ended support for Windows 10, though users who have enrolled in Extended Security Updates (ESU) will continue to get security patches through Oct. 13, 2026. \n            ",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
@@ -25,222 +50,22 @@
     }
   },
   {
-    "title": "Try This Free Plex Alternative Client If You Hate the New Interface",
-    "url": "https://lifehacker.com/tech/best-free-alternative-plex-client?utm_medium=RSS",
-    "image": "https://lifehacker.com/imagery/articles/01K9FZPE8Y0DA878NT4T1VEJKP/hero-image.fill.size_1200x675.png",
+    "title": "This New Hotel Reservation Scam Is Fooling People Who Use Sites Like Booking.com",
+    "url": "https://lifehacker.com/money/hotel-reservation-scam?utm_medium=RSS",
+    "image": "https://lifehacker.com/imagery/articles/01K9WR83EFZHBAP8C5P8CRJPYM/hero-image.fill.size_1200x675.jpg",
     "tag": "Life",
-    "date": "2025-11-10T13:00:03.000Z",
-    "description": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our missio",
-    "body": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our mission is to offer reliable tech help and credible, practical, science-based life advice to help you live better.\n                \n                \n                    \n                        Our Mission\n                        Our Team\n                        Newsletter\n                    \n                \n            \n        \n                © 2001-2025 Ziff Davis, LLC., A ZIFF DAVIS COMPANY. ALL RIGHTS RESERVED.\n                Lifehacker is a federally registered trademark of Ziff Davis and may not be used by third parties without explicit permission. The display of third-party trademarks and trade names on this site does not necessarily indicate\n                    any affiliation or the\n                    endorsement of Lifehacker. If you click an affiliate link and buy a product or service, we may be paid a fee by that merchant.\n            \n    ",
+    "date": "2025-11-13T15:30:00.000Z",
+    "description": "\n        \n        If you've booked a hotel through a platform like Booking.com or Expedia, beware any communication that directs you to confirm your p",
+    "body": "\n        \n        If you've booked a hotel through a platform like Booking.com or Expedia, beware any communication that directs you to confirm your payment details to hold your reservation. Threat actors are targeting the hospitality industry with a phishing campaign designed to steal from travelers. As outlined by security firm Sekoia.io and reported by The Hacker News, the scheme is referred to as \"I Paid Twice\" because hotel customers are eventually conned into handing over their banking information. Scammers contact guests via WhatsApp or email about their booking, saying that they need to verify their payment or risk cancellation. The link goes to a fake landing page that looks like Booking.com or Expedia, where victims are prompted to provide card information. This isn't the first scam to target Booking.com: Scammers have previously spoofed the site to spread malware directly to users via both fake CAPTCHAs and homograph attacks, which exploit similar characters in the URL to redirect to a malicious website. \nThis multi-step campaign actually begins when hackers target hotels themselves with ClickFix attacks, a type of social engineering attack designed to trick users into downloading malware via fake error messages or CAPTCHA forms. (I've covered a handful of ClickFix schemes, such as those spread via AI-generated instructional videos on TikTok and expired invite links on Discord.) The scam runs as follows: Hotel managers receive emails from compromised accounts with phishing links that redirect to a supposed reCAPTCHA page. This is the ClickFix component, as targets are instructed to complete the challenge to \"ensure the security of your connection.\" A couple of redirects lead to the user copy and execute a PowerShell command that downloads a Remote Access Trojan (like PureRAT) to their device. Once the malware has been delivered, it allows threat actors remote access, including control of the mouse and keyboard, data exfiltration, command execution, file uploads and downloads, keylogging, and webcam and microphone capture. Hackers are then able to steal admin credentials to gain access to booking platforms and send the aforementioned phishing emails to hotel guests—or they can sell the information to other cybercriminals. Don't fall for the hotel booking scamYou can't control whether a hotel manager unwittingly hands over access to your booking information. But you can avoid further compromising your personal and financial data by staying vigilant to any unexpected communication about your reservation. A reputable hotel probably won't contact you via a booking platform (nor will the platform itself) to demand payment for holding a reservation you've already confirmed. This sense of urgency is meant to trick you into acting quickly, so if you're not sure what's going on, call the hotel directly using the number on their official website (not from the email or WhatsApp message). Don't click any links, and don't enter any information unless you have confirmed that you are on a legitimate booking platform or hotel website. \n            ",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Try This Free Plex Alternative Client If You Hate the New Interface",
+      "headline": "This New Hotel Reservation Scam Is Fooling People Who Use Sites Like Booking.com",
       "image": [
-        "https://lifehacker.com/imagery/articles/01K9FZPE8Y0DA878NT4T1VEJKP/hero-image.fill.size_1200x675.png"
+        "https://lifehacker.com/imagery/articles/01K9WR83EFZHBAP8C5P8CRJPYM/hero-image.fill.size_1200x675.jpg"
       ],
-      "datePublished": "2025-11-10T13:00:03.000Z",
-      "dateModified": "2025-11-10T13:00:03.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "How to Stop Bluetooth Speakers From Disconnecting Your AirPods",
-    "url": "https://lifehacker.com/tech/how-to-stop-bluetooth-speakers-from-disconnecting-your-airpods?utm_medium=RSS",
-    "image": "https://lifehacker.com/imagery/articles/01K9F314KQE562QZX7V315J5MS/hero-image.fill.size_1200x675.jpg",
-    "tag": "Life",
-    "date": "2025-11-07T15:00:00.000Z",
-    "description": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our missio",
-    "body": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our mission is to offer reliable tech help and credible, practical, science-based life advice to help you live better.\n                \n                \n                    \n                        Our Mission\n                        Our Team\n                        Newsletter\n                    \n                \n            \n        \n                © 2001-2025 Ziff Davis, LLC., A ZIFF DAVIS COMPANY. ALL RIGHTS RESERVED.\n                Lifehacker is a federally registered trademark of Ziff Davis and may not be used by third parties without explicit permission. The display of third-party trademarks and trade names on this site does not necessarily indicate\n                    any affiliation or the\n                    endorsement of Lifehacker. If you click an affiliate link and buy a product or service, we may be paid a fee by that merchant.\n            \n    ",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "How to Stop Bluetooth Speakers From Disconnecting Your AirPods",
-      "image": [
-        "https://lifehacker.com/imagery/articles/01K9F314KQE562QZX7V315J5MS/hero-image.fill.size_1200x675.jpg"
-      ],
-      "datePublished": "2025-11-07T15:00:00.000Z",
-      "dateModified": "2025-11-07T15:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Watch Out for These Tap-to-Pay Scams",
-    "url": "https://lifehacker.com/money/tap-to-pay-scams?utm_medium=RSS",
-    "image": "https://lifehacker.com/imagery/articles/01K9P2KD8KRH1S1EA5VGKZ8TYV/hero-image.fill.size_1200x675.jpg",
-    "tag": "Life",
-    "date": "2025-11-10T17:00:00.000Z",
-    "description": "\n        \n        Contactless payment, also known as tap-to-pay, has become a fast, easy, and relatively common way to complete a transaction using yo",
-    "body": "\n        \n        Contactless payment, also known as tap-to-pay, has become a fast, easy, and relatively common way to complete a transaction using your smartphone or credit card. It relies on Near Field Communication (NFC) to transmit data between your device and a payment terminal when the two are in close proximity, up to an inch or two away.While NFC technology does provide some additional security—transmitting a virtual account number instead of your actual card details, for example—scammers have found a way to capitalize on tap-to-pay to steal money from unsuspecting targets. These \"ghost tapping\" schemes may exploit both cards and mobile wallets. How tap-to-pay scams workAccording to the Better Business Bureau, ghost tapping takes advantage of a potential victim's proximity and lack of attention to detail. They suggest it is possible for a scammer to bump into you in a crowded public space, getting close enough to trigger a contactless transaction without your knowledge. (It's not clear how common a close brush with a tap-to-pay machine actually is.) \nBut other versions of ghost tapping rely on you to actively engage while missing the warning signs of fraud. For example, scammers might appear to be selling goods or collecting small donations for charity using tap-to-pay, but they are actually charging your card for a much larger amount to a fraudulent business. They count on you not to look closely at the transaction details before tapping, or they rush you through the process and fail to offer a receipt.  In one instance reported to the BBB's Scam Tracker, individuals were targeted by a door-to-door salesman who claimed to be selling chocolate for a charitable cause. The transactions were for hundreds of dollars, which the victims didn't see before tapping. \n            \n                What do you think so far?\n            \n        \nAs with any scam, vigilance is key. Tap-to-pay is easy enough to feel automatic, and you may be less likely to pause and check the details than you would when swiping or entering your credit card. Always slow down and confirm the merchant name and transaction and tip amount before pulling out your phone or card (again, close proximity is enough to trigger tap-to-pay). Beware of any vendor who tries to rush you, hide the screen, or avoid giving you a receipt. You may also want to set up transaction alerts with your bank or credit card company so you can catch any suspicious charges immediately. If you get a notification about a \"test\" charge, that is also a scam red flag. Finally, while scammers probably aren't going around secretly scanning tap-to-pay en masse, you could protect your cards using a radio frequency identification (RFID)-blocking wallet or sleeve. You can disable NFC on your Android in Settings (type \"NFC\" into the search bar). On iPhone, you have to turn on Airplane Mode to block NFC. \n            ",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Watch Out for These Tap-to-Pay Scams",
-      "image": [
-        "https://lifehacker.com/imagery/articles/01K9P2KD8KRH1S1EA5VGKZ8TYV/hero-image.fill.size_1200x675.jpg"
-      ],
-      "datePublished": "2025-11-10T17:00:00.000Z",
-      "dateModified": "2025-11-10T17:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Use the ‘Eisenhower Matrix’ to Prioritize Your To-Do List",
-    "url": "https://lifehacker.com/use-the-eisenhower-matrix-to-prioritize-your-to-do-list?utm_medium=RSS",
-    "image": "https://lifehacker.com/imagery/articles/01HF2GGSQR75NECF82VHCNATRZ/hero-image.fill.size_1200x675.png",
-    "tag": "Life",
-    "date": "2025-11-11T13:00:00.000Z",
-    "description": "\n    \n        \n            \n                \n            \n                \n    \n    \n\n                    \n                        \n                  ",
-    "body": "\n    \n        \n            \n                \n            \n                \n    \n    \n\n                    \n                        \n                            \n                            \n                            View our Bluesky Page (Opens in a new tab)\n                        \n                    \n                    \n                        \n                            \n                            \n                            View our Instagram Page (Opens in a new tab)\n                        \n                    \n                    \n                        \n                            \n                            \n                            View on Facebook Page (Opens in a new tab)\n                        \n                    \n                    \n                        \n                            \n                            \n                            View our Youtube Page (Opens in a new tab)\n                        \n                    \n                    \n                        \n                            \n                            \n                            View our Twitter Page (Opens in a new tab)\n                        \n                    \n                \n                \n                    \n                    \n                \n                \n        \n            \n                Latest\n                Tech\n                Best Picks\n                Entertainment\n                Health\n                Reviews\n                Home & Garden\n                Deals\n                Comparisons\n                Hacks\n                                    # The Top 10 Tech Sales This Week\n            \n    \n            \n            \n        \n    \n        \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                Copied\n            \n        \n    \n            You'll be more productive if you can see what you need to do, and when you need to do it.\n    \n        \n    \n                                        \n        \n        \n        November 11, 2025\n                    \n            Credit: spoonphol / Shutterstock.com\n                            \n    Table of Contents\n    \n        \n        You already know that scheduling your tasks—whether you’re time blocking, task batching, or theming entire days—is a major priority when it comes to being productive and getting stuff done. But when you have a bunch of tasks and don’t even know where to start with scheduling them, you need an efficient method to decide what to get on right away, what to delegate, and what to forget about. Essentially, not only do you need to know what you need to do, but you need to rank those tasks based on how crucial they are, how much time they'll take, and what you'll need to get them done.What is the Eisenhower Matrix?This assessment and productivity tool is named for former president Dwight Eisenhower, who once quoted Dr. J. Roscoe Miller’s proclamation, “I have two kinds of problems: the urgent and the important. The urgent are not important, and the important are never urgent.” Apologies to Dr. Miller, but the more famous man ended up with the honor of having this system named after him. Further apologies to both men, but I didn't fully get this quote when I first read it. To me, important things are pretty urgent, even if their due date is far off. Still, the quote stands as it is and the method for prioritizing tasks that sprang from it is effective, regardless of any word salad that came first. When using the Eisenhower Matrix, you draw a standard matrix with two intersecting lines that create four quadrants. The X axis represents urgency and the Y axis represents importance, so the top left quadrant will show you tasks that are both urgent and important; the top right quadrant houses tasks that are not urgent but are important; the bottom left quadrant is for tasks that are not important but are urgent; and the bottom right quadrant contains tasks that are not urgent and not important. This four-way divvying makes a lot more sense to me than the original claim that \"the important are never urgent,\" because it recognizes that they can be. It looks like this:\n        \n            You May Also Like\n        \n    \n\n    \n            \n            \n                                        Credit: Lidiia Lykova / iStock via Getty Images\n                    \n    \nHow to use the Eisenhower MatrixYou can create your own matrix on paper or with software like draw.io or even specialty services like eisenhower.me. Next, just plug your tasks into the matrix, sorting them by their combination of urgency and importance. The real key is what you do next.The quadrants have secondary purposes beyond identifying what is urgent or important: \n            \n                What do you think so far?\n            \n        \nThe top left quadrant is for tasks you have to buckle down and do now.The top right quadrant is for tasks you need to schedule to do in the future.The bottom left quadrant represents tasks you need to delegate to someone capable.The bottom right quadrant shows you the tasks you can simply delete or put off.Once you see all your duties on the matrix, delegate the urgent-and-not-important ones, schedule the important-but-non-urgent ones, and get to work on your pressing, upper-right-quadrant tasks. If the deadline is seriously looming, do those first before worrying about delegation or scheduling. This visual representation of how important and urgent each responsibility is can help you figure out what to devote your time to instead of wasting time panicking about how much you think you have to get done.Use of the matrix is especially helpful for people who think visually, but don't forget that you still need to think strategically. Consider moving from the Eisenhower Matrix to a rigid to-do list, like the 1-3-5 list. That calls on you to plan your day around one major task, three medium ones, and five small ones. Obviously, those urgent and important tasks will be the first ones you try to take on, but in addition to factoring in their urgency and importance, you have to factor in the time and resources they'll take. The most urgent, important, and resource-heavy task should be your one major to-do list item. Ones that are still important but require less of you fill in those three in the middle. Five small tasks can include things that are important but not urgent and can even include the act of delegating the ones you don't have to do. The matrix is just the first step to getting to work. I'd also recommend using a system like kanban here. You need to consider the resources you have available, not just what needs doing. It might be urgent and important to clean your home, but if you don't have supplies, the more pressing task is actually going to the store. The same goes for a project you need to work on when you're waiting on a team member to send you a crucial piece of information you can't move forward without. In that case, it would make more sense to work on a less-urgent task while you wait, even if the project is technically more pressing. Using a system that takes into account the time and resources necessary to do something will help you get a clearer picture of your prioritized tasks and make your day even more productive. \n            \n    \n\n    \n        The Daily Newsletter\n            Ready to do everything better?\n        \n        \n            Jordan Calhoun\n            \n            Editor in chief\n        \n        Get daily tips, tricks, and tech guides from Jordan and the team.\n    \n    \n        The Daily Newsletter\n            Ready to do everything better? Get daily tips, tricks, and tech guides from Jordan and the team.\n        \n    \n\n    \n            \n                \n                        Keep Scrolling for Next Article\n                    \n                \n            \n        \n    ",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Use the ‘Eisenhower Matrix’ to Prioritize Your To-Do List",
-      "image": [
-        "https://lifehacker.com/imagery/articles/01HF2GGSQR75NECF82VHCNATRZ/hero-image.fill.size_1200x675.png"
-      ],
-      "datePublished": "2025-11-11T13:00:00.000Z",
-      "dateModified": "2025-11-11T13:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Apple Just Added Two More Apple Music Features to iOS 26",
-    "url": "https://lifehacker.com/tech/all-the-new-apple-music-features-in-ios-26-wwdc-2025?utm_medium=RSS",
-    "image": "https://lifehacker.com/imagery/articles/01JXDJYVSMZKQZ5VNQ0QA84XKF/hero-image.fill.size_1200x675.png",
-    "tag": "Life",
-    "date": "2025-11-12T18:00:00.000Z",
-    "description": "\n        \n        Apple Music has been steadily getting useful new features since the release of iOS 26, and the latest changes are especially excitin",
-    "body": "\n        \n        Apple Music has been steadily getting useful new features since the release of iOS 26, and the latest changes are especially exciting. Finally, the music streaming service is adding support for offline lyrics, which will officially come in iOS 26.2 when it releases in the next few weeks (although you can try them out now via the iOS 26.2 beta). Meanwhile, in iOS 26.1, users got the ability to swipe on the mini player to go to the next or previous song in their lineup, alongside enhanced AI DJ features and playlist folders for improved music organization. These followed previous additions, such as lyrics translation, a new DJ-like feature called AutoMix, and animated cover art on the lock screen. If that sounds like a lot, I've got you covered. Here are all the new Apple Music features in iOS 26, starting with the most recent.Apple Music lyrics now work offlineWhen I travel, I rarely have access to great connectivity. It always annoys me when Apple Music just stops showing lyrics while I'm offline, which happens whenever I take a flight, or when I'm traveling in the beautiful mountains in my country. Previously, I would download songs from Apple Music to keep me company during these offline periods, but I did miss having access to lyrics. That's about to change with iOS 26.2, which is currently available in beta. Eagle-eyed Reddit users spotted support for offline lyrics in iOS 26.2, so you can expect it to ship to your iPhone soon.Swipe to change songs\n    \n            \n            \n                                        Credit: Pranay Parab\n                    \n    \nThis is one of the most exciting additions to Apple Music, and it came in iOS 26.1. When you're listening to music in the app, you can swipe left or right on the mini player to switch to the previous or next song. Previously, you had to expand the mini player to see the previous/next song buttons, but now swapping music is much faster. And even if the player is expanded, you can still swipe on the song's name up top to change the track.\nLyrics Translation for your favorite songsApple Music has had time-synced lyrics for a while now, which works great when you speak the language the song was written in. However, it's not as helpful when you're listening to songs in different languages, and that's where Lyrics Translation comes in. It adds translations below each time-synced lyric line, making it easy to follow a song's meaning, too. I've been seeing translated lyrics for many songs across multiple languages, even when the primary song lyrics are in a non-Roman script.Learn how to pronounce lyrics correctly\n    \n            \n            \n                                        Credit: Pranay Parab\n                    \n    \nAnother iOS 26 lyrics upgrade lets Apple Music show you the correct pronunciations for lyrics in foreign languages. Not every song has lyrics in Roman script, so if you can't read the alphabet they're in, this new feature will help you learn how to pronounce those words. It does this by showing you a transliteration from the original script to Roman, which makes it easier to sing along. I've been listening to songs by various Indian musicians, and noticing that Apple Music almost always has transliterations available to help with pronunciation.AutoMix is an AI DJ for your playlistsAutoMix is a new addition to Apple Music's playback controls. You'll see it alongside the Shuffle, Repeat, and Autoplay buttons. When enabled, AutoMix will analyze the audio features of songs and use DJ-like tricks such as time stretching and beat matching to deliver continuous playback. Initially, I did not like AutoMix much because it often made the transitions between songs very jarring. Over time, that has become a lot less noticeable, but I still wouldn't use it with any of my own painstakingly curated playlists, where I've manually matched the sounds at the end of one song with the sounds at the start of the next one. With the release of iOS 26.1, Apple Music has also added AutoMix support over AirPlay. This means that, when using AutoMix while streaming songs from my iPhone to my HomePod mini (or any other AirPlay speaker), the AI DJ will continue to do its thing. Sort playlists into custom folders\n    \n            \n            \n                                        Credit: Pranay Parab\n                    \n    \nI enjoy Apple Music's editorially curated playlists, but my friends and I have already curated a bunch of playlists for our various moods and occasions. I listen to these frequently, but finding them becomes a bit of a challenge when you've added hundreds of playlists to your account. Thanks to Apple Music's new playlist folders, I've been able to tame this chaos quite easily. Get started by opening the Music app on your iPhone and going to Library > Playlists. Tap the + button in the top-right, and select Create New Folder. The good news is that you're free to create nested folders if you wish, which is perfect for all those obsessed with organization. Pin your favorite playlistsThis is a sweet feature that lets you quickly open your favorite Apple Music playlists. You can press and hold any playlist in the Music app in iOS 26, and pin it to the top of the Library tab. If you've pinned your favorite contacts in Messages, then you'll find music pinning to be a familiar feature. You can pin up to six items at a time in Apple Music, which is ideal for bookmarking your favorites.Animated cover art comes to your lock screenAnimated cover art is one of the more visually appealing features of Apple Music, and now it's coming to your lock screen as well. When you play a song that has animated album art, you can tap the player on the lock screen to see it in a neat full-screen view.\n    \n            \n            \n                                        Credit: Pranay Parab\n                    \n    \nIf you're not happy with having your music on the lock screen alone, you'll enjoy Apple Music's iOS 26 home screen widgets. You can quickly add different sized widgets to any of your iPhone's home screens, and start playing music without even launching the Music app. You can choose widgets that show recently played music, top music in your region, recommendations, or even radio stations. Each home screen widget for Apple Music is available in three sizes, so you can pick one that's best for your current home screen layout.A karaoke feature for Apple TV usersApple Music is also getting a new feature called Sing, which only works if you have an iPhone with iOS 26 and an Apple TV running tvOS 26. With all those requirements in place, you can use your iPhone as a mic and have your voice amplified by Apple Music to have a fun karaoke experience right at home.\n            ",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Apple Just Added Two More Apple Music Features to iOS 26",
-      "image": [
-        "https://lifehacker.com/imagery/articles/01JXDJYVSMZKQZ5VNQ0QA84XKF/hero-image.fill.size_1200x675.png"
-      ],
-      "datePublished": "2025-11-12T18:00:00.000Z",
-      "dateModified": "2025-11-12T18:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Your Older Peloton Bike+ Seat Has Been Recalled",
-    "url": "https://lifehacker.com/health/peloton-is-recalling-and-replacing-original-bike-plus-seats?utm_medium=RSS",
-    "image": "https://lifehacker.com/imagery/articles/01K9FWCV2FEYA42G4AGNZ6BTC0/hero-image.fill.size_1200x675.png",
-    "tag": "Life",
-    "date": "2025-11-07T20:30:00.000Z",
-    "description": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our missio",
-    "body": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our mission is to offer reliable tech help and credible, practical, science-based life advice to help you live better.\n                \n                \n                    \n                        Our Mission\n                        Our Team\n                        Newsletter\n                    \n                \n            \n        \n                © 2001-2025 Ziff Davis, LLC., A ZIFF DAVIS COMPANY. ALL RIGHTS RESERVED.\n                Lifehacker is a federally registered trademark of Ziff Davis and may not be used by third parties without explicit permission. The display of third-party trademarks and trade names on this site does not necessarily indicate\n                    any affiliation or the\n                    endorsement of Lifehacker. If you click an affiliate link and buy a product or service, we may be paid a fee by that merchant.\n            \n    ",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Your Older Peloton Bike+ Seat Has Been Recalled",
-      "image": [
-        "https://lifehacker.com/imagery/articles/01K9FWCV2FEYA42G4AGNZ6BTC0/hero-image.fill.size_1200x675.png"
-      ],
-      "datePublished": "2025-11-07T20:30:00.000Z",
-      "dateModified": "2025-11-07T20:30:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Google Maps' New Power Saving Mode Only Works on One Type of Phone, and That Stinks",
-    "url": "https://lifehacker.com/tech/google-map-power-saving-mode-pixel-10?utm_medium=RSS",
-    "image": "https://lifehacker.com/imagery/articles/01K9WB0DN3CWSZCC5N9JF6FT4W/hero-image.fill.size_1200x675.jpg",
-    "tag": "Life",
-    "date": "2025-11-12T16:30:00.000Z",
-    "description": "\n            \n        \n    \n        \n            \n                \n                    \n                    \n                \n            \n           ",
-    "body": "\n            \n        \n    \n        \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                Copied\n            \n        \n    \n            Unless you have a Pixel 10, you're not getting the feature—yet.\n    \n        \n    \n                                        \n        \n        \n        November 12, 2025\n    \n            Credit: Matthew Nichols1/Shutterstock\n                            \n            \n                Key Takeaways\n                                            Google is rolling out a new Power Saving Mode to Google Maps, but only for the Pixel 10.\n                                            Pixel 10 users can enable the feature when in driving mode, which simplifies the UI to save up to four hours of battery life.\n                                            The feature is likely powered by Android's upcoming AOD Min Mode, which is currently in development.\n                                            It's possible Google will roll out Power Saving Mode to more devices in the future, but nothing is certain at this time.\n                                    \n            \n    Table of Contents\n    \n        \n        If you have a Pixel phone, there's good news, and bad news. The good news? Google is releasing a handful of new features for your device, via its November Pixel Drop. And among the new changes, like Google Photos' Nano Banana upgrade, is something genuinely useful: a new power saving mode for Google Maps. The bad news? Your Pixel probably doesn't support it. According to Google, the new Power Saving Mode is simple to use. Whenever you want to spare your battery some excess power consumption while using driving directions in Google Maps, you can tap a new power button in the app. Once you do, Google Maps will shift into a \"simplified layout\": From Google's press release image, this turns the map black and white, with no discernible elements other than the road, your driving arrow, ETA, and upcoming turns. The feature currently only works with driving directions, so you won't see the option for walking or biking directions, nor can you use it in landscape.\n    \n            \n            \n                                        Credit: Google\n                    \n    \nGoogle says this new layout can save your Pixel's battery life for up to four hours—though that depends on a number of factors, including the assumption that your phone is charged to 100% at the start, and that brightness is set at P90 and Adaptive Brightness is disabled. But if that's true, it could be huge: If you're on a road trip without power, that can keep your phone going much longer. You could either eke out another four hours of navigation time in the car, or actually have some battery to spare when you reach your destination.  \n        \n            You May Also Like\n        \n    \nWhy is this a Pixel 10 exclusive?But before all the Pixel owners of the world get too excited, the feature comes with disappointing fine print. Only Pixel 10 devices—meaning Pixel 10, Pixel 10 Pro, Pixel 10 Pro XL, and Pixel 10 Pro Fold—can use Power Saving Mode in Google Maps. Google: What gives?Google doesn't actually offer any explanation as to why Power Saving Mode is exclusive to its newest line of Pixels. As Android Central notes, the feature likely takes advantage of Android's upcoming AOD Min Mode, which lets apps use the device's Always-on Display to save power while running visually simplistic versions of their programs. AOD Min Mode isn't widely available to developers yet, and will likely arrive with Android 17, but it doesn't seem exclusive to Pixel 10—or Pixel, for that matter. Most Android phones these days have Always-on Displays, so AOD Min Mode should theoretically work with them—not just phones released this year.\n            \n                What do you think so far?\n            \n        \nIf I had to guess, Google won't keep this feature locked to the Pixel 10 line forever. The company is probably using this limited rollout as an opportunity to test out AOD Min Mode with a smaller pool of users. Since the Pixel 10 series is the company's newest set of devices, it'd be a prime candidate for a test. The company could then take the feedback and analytics from this beta, and use it to help developers better optimize their apps for this experience. Perhaps then, Google would expand support to more Pixel devices, or more Android devices in general. For now, however, only Pixel 10 users can try out Power Saving Mode in Google Maps. I don't have one of these newest Pixels, but if I did, I wouldn't be surprised if I just kept this mode on all the time. Frankly, it looks cool, and if it saves me battery at the same time, all the better.Google seems to be making battery life savings a priority. Starting next year, the company will start dinging apps that excessively wake the display, either by removing those apps from Play Store discovery pages, or by issuing a warning to users on the app's Play Store page itself.\n            \n    \n\n    \n        The Download Newsletter\n            Never miss a tech story\n        \n        \n            Jake Peterson\n            \n            Senior tech editor\n        \n        Get the latest tech news, reviews, and advice from Jake and the team.\n    \n    \n        The Download Newsletter\n            Never miss a tech story. Get the latest tech news, reviews, and advice from Jake and the team.\n        \n    \n\n    \n            \n                \n                        Keep Scrolling for Next Article\n                    \n                \n            \n        ",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Google Maps' New Power Saving Mode Only Works on One Type of Phone, and That Stinks",
-      "image": [
-        "https://lifehacker.com/imagery/articles/01K9WB0DN3CWSZCC5N9JF6FT4W/hero-image.fill.size_1200x675.jpg"
-      ],
-      "datePublished": "2025-11-12T16:30:00.000Z",
-      "dateModified": "2025-11-12T16:30:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Conduct a Personal ‘After-Action Review’ to Improve Your Productivity",
-    "url": "https://lifehacker.com/work/conduct-personal-after-action-review-to-improve-productivity?utm_medium=RSS",
-    "image": "https://lifehacker.com/imagery/articles/01HRCXN0BVXMPCSVP6Z97FEH6C/hero-image.fill.size_1200x675.png",
-    "tag": "Life",
-    "date": "2025-11-11T13:30:00.000Z",
-    "description": "\n    \n        \n            \n                \n            \n                \n    \n    \n\n                    \n                        \n                  ",
-    "body": "\n    \n        \n            \n                \n            \n                \n    \n    \n\n                    \n                        \n                            \n                            \n                            View our Bluesky Page (Opens in a new tab)\n                        \n                    \n                    \n                        \n                            \n                            \n                            View our Instagram Page (Opens in a new tab)\n                        \n                    \n                    \n                        \n                            \n                            \n                            View on Facebook Page (Opens in a new tab)\n                        \n                    \n                    \n                        \n                            \n                            \n                            View our Youtube Page (Opens in a new tab)\n                        \n                    \n                    \n                        \n                            \n                            \n                            View our Twitter Page (Opens in a new tab)\n                        \n                    \n                \n                \n                    \n                    \n                \n                \n        \n            \n                Latest\n                Tech\n                Best Picks\n                Entertainment\n                Health\n                Reviews\n                Home & Garden\n                Deals\n                Comparisons\n                Hacks\n                                    # The Top 10 Tech Sales This Week\n            \n    \n            \n            \n        \n    \n        \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                Copied\n            \n        \n    \n            This standardized practice comes from the Army, but can be tweaked for personal use.\n    \n        \n    \n                                        \n        \n        \n        November 11, 2025\n    \n            Credit: PeopleImages / Shutterstock.com\n                            \n    Table of Contents\n    \n        \n        Planning out what you’re going to do is huge for productivity, which is why SMART goals (and their alternatives) are so popular throughout the working world. Another important—but perhaps more overlooked—element of the productivity process is the assessment, however. Reviewing what you did is just as integral as planning how you’ll do it—in reviewing, you get a chance to plan better (and improve!) for next time, while also carving out space to appreciate what you did well—also a major motivator!What is an after-action review? An after-action review, or AAR, is a way to measure the results of your performance and improve on your processes. It was first introduced by the U.S. Army to give units feedback after they had collective training exercises. The Army has actually released a ton of literature on it, but all you need to know is that when carried out right, it’s standardized, done the same way every time, and useful for building a framework that can enhance future labor. \n        \n            You May Also Like\n        \n    \nIf you do end up diving into that mountain of literature on the AAR, you’ll notice that it was designed for units or teams and is typically conducted by a facilitator who encourages members to discuss each part of the effort with the group. But it can be useful for individuals, too, since the process of completing an AAR is standardized and easy to follow. Build time into your schedule to conduct your own personal AAR after completing a major project, whether at work or in your personal life. You can complete it at the end of every week, or once you've finished a specific project. Either way, you'll want to keep notes of these reviews, whether in your planner or in a document you can add to a larger file about the project, like a single source of truth (SSOT). You may feel silly \"reviewing\" work you just completed, but the arguments for it—and the potential benefits—are substantial. First, if you're honest with yourself about what went wrong, you can figure out why the parts that didn't work were inefficient or ineffective, then seek solutions. In identifying what went well, you can set plans to replicate your process in the future, and find a little motivation in a job well done. An AAR (or something similar) is an integral part of many popular productivity techniques, including Getting Things Done and Agile Results. All the planning in the world doesn't matter if you never reflect on how it all went so you can improve next time around. What you should put into your after-action reviewThis is where we get into the rigid, structured process of the Army. There are four questions you’ll ask yourself when conducting your AAR and they’ll always be the same: \n            \n                What do you think so far?\n            \n        \nWhat did I intend to accomplish?What did I do?Why did it happen the way it did?What will I do to change my strategy or execution for a better outcome next time OR how can I duplicate my success?Essentially, consider what you wanted to get done, what you actually got done, what impacted the outcome, and what you can take away for future attempts. Even running over this checklist in your head is a good practice, but writing it down is best, so you can refer back to it next time you’re in the planning stages on a new project. For instance, say you want to clean your kitchen. That’s the answer to the first question. What you really did, whether it was clean the kitchen, avoid the task, or only give it a half-effort, is the answer to the second. The third question is where you get introspective: If you did clean the kitchen, was it because you had company coming over and felt a sense of urgency, aligning your productivity with the Yerkes-Dodson Law? Or maybe it was because you needed to feel a sense of accomplishment after an otherwise unproductive week, but you were so burned out that you didn't do a great job. If you didn’t clean, was it because you felt overwhelmed? Did you get too busy? Did you lack the right tools for the job? Once you’ve established your reasons, you can build them into the answer to the fourth question, writing something like, “I will clean my kitchen weekly to make sure I’m always ready for unexpected company,” “I will follow a regimented cleaning method to avoid feeling overwhelmed,” or, “I will invest in better cleaning tools to make the next attempt go smoother.” When cleaning time rolls around again, you’ll pre-plan your actions as normal, scheduling out time for the activity and setting goals. Refer back to your AAR to refresh your memory on what went right and what went wrong the last time you tried to do the task. Eventually, you’ll smooth out the issues that are preventing you from being most efficient and get more results. \n            \n    \n\n    \n        The Daily Newsletter\n            Ready to do everything better?\n        \n        \n            Jordan Calhoun\n            \n            Editor in chief\n        \n        Get daily tips, tricks, and tech guides from Jordan and the team.\n    \n    \n        The Daily Newsletter\n            Ready to do everything better? Get daily tips, tricks, and tech guides from Jordan and the team.\n        \n    \n\n    \n            \n                \n                        Keep Scrolling for Next Article\n                    \n                \n            \n        \n    ",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Conduct a Personal ‘After-Action Review’ to Improve Your Productivity",
-      "image": [
-        "https://lifehacker.com/imagery/articles/01HRCXN0BVXMPCSVP6Z97FEH6C/hero-image.fill.size_1200x675.png"
-      ],
-      "datePublished": "2025-11-11T13:30:00.000Z",
-      "dateModified": "2025-11-11T13:30:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Garmin Workouts Can Now Sync to Peloton",
-    "url": "https://lifehacker.com/health/garmin-workouts-can-now-sync-to-peloton?utm_medium=RSS",
-    "image": "https://lifehacker.com/imagery/articles/01K9WQ102TGXP0046HNXY7AE2M/hero-image.fill.size_1200x675.png",
-    "tag": "Life",
-    "date": "2025-11-12T21:30:09.000Z",
-    "description": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our missio",
-    "body": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our mission is to offer reliable tech help and credible, practical, science-based life advice to help you live better.\n                \n                \n                    \n                        Our Mission\n                        Our Team\n                        Newsletter\n                    \n                \n            \n        \n                © 2001-2025 Ziff Davis, LLC., A ZIFF DAVIS COMPANY. ALL RIGHTS RESERVED.\n                Lifehacker is a federally registered trademark of Ziff Davis and may not be used by third parties without explicit permission. The display of third-party trademarks and trade names on this site does not necessarily indicate\n                    any affiliation or the\n                    endorsement of Lifehacker. If you click an affiliate link and buy a product or service, we may be paid a fee by that merchant.\n            \n    ",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Garmin Workouts Can Now Sync to Peloton",
-      "image": [
-        "https://lifehacker.com/imagery/articles/01K9WQ102TGXP0046HNXY7AE2M/hero-image.fill.size_1200x675.png"
-      ],
-      "datePublished": "2025-11-12T21:30:09.000Z",
-      "dateModified": "2025-11-12T21:30:09.000Z",
+      "datePublished": "2025-11-13T15:30:00.000Z",
+      "dateModified": "2025-11-13T15:30:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -275,72 +100,97 @@
     }
   },
   {
-    "title": "Microsoft (Sort of) Made a Ninite Alternative",
-    "url": "https://lifehacker.com/tech/microsoft-sort-of-made-a-ninite-alternative?utm_medium=RSS",
-    "image": "https://lifehacker.com/imagery/articles/01K9R2BNRDV5CXVVG4963ESGT5/hero-image.fill.size_1200x675.png",
+    "title": "How to Spot a Paid Survey Scam",
+    "url": "https://lifehacker.com/money/how-to-spot-a-paid-survey-scam?utm_medium=RSS",
+    "image": "https://lifehacker.com/imagery/articles/01K9WD2F0Y0K0XJWX1RSAJPXV3/hero-image.fill.size_1200x675.png",
     "tag": "Life",
-    "date": "2025-11-12T13:30:00.000Z",
-    "description": "\n            \n        \n    \n        \n            \n                \n                    \n                    \n                \n            \n           ",
-    "body": "\n            \n        \n    \n        \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                Copied\n            \n        \n    \n            You can install a bunch of software all at once—just don't expect any browsers.\n    \n        \n    \n                                        \n        \n        \n        November 12, 2025\n                    \n            Credit: Justin Pot\n                            \n            \n                Key Takeaways\n                                            Microsoft now has an official Ninite alternative, though it isn't quite the same.\n                                            Like Ninite, \"App Pack\" lets you install multiple apps at once, though the latter works via the Microsoft Store.\n                                            App Pack doesn't have as many apps available to download as Ninite, nor does it allow you to install browsers.\n                                    \n            \n    Table of Contents\n    \n        \n        Ninite has long been a godsend for anyone setting up a new computer. With it, you can install a number of applications in just a couple of clicks, as opposed to downloading a bunch of individual installers. Ninite is well known for simplicity, too. There's no package manager to learn or commands to type; just visit the website and pick the apps you want to install, then download and run the installer. Installations all run in the background, with no prompts. It's magical, and I've long wondered why Microsoft hasn't built anything similar—something powerful, yet easy to use. Well, it seems like someone at the company finally got around to it. A new Microsoft site called App Pack is exactly this. It allows you to visit a page on the Microsoft Store website, check from a selection of applications, and then install those applications by downloading and running a single installer. That's exactly how Ninite works, though there are a few differences between these two options.\n    \n            \n            \n                                        Credit: Justin Pot\n                    \n    \nThe main difference is that Microsoft's App Pack uses the Microsoft Store to install the applications, and the installer you download instructs the store to make the downloads. This means updates will also be handled by the store, which is a real benefit, but it also means the supported applications are limited to those offered in the store. That's part of why Ninite offers a lot more software. App Pack offers 32 applications in four categories; Ninite offers over 90 distinct applications in all sorts of categories. \n        \n            You May Also Like\n        \n    \nBut there's also the Microsoft of it all. You cannot use App Pack to install Chrome, which isn't in the Microsoft Store. But you also can't use it to install Firefox, which is. Given that one of the first things many Windows users do is replace Edge, that's a real shortcoming; given that Microsoft seems to really want Windows users not to replace Edge, it's not surprising. Meanwhile, Ninite lets you install Chrome and Firefox, as well as other browsers like Opera, Brave, and, ironically, Edge. But it's not as though App Pack only offers Microsoft software. Zoom is offered, as are several apps from Apple (iCloud, Music, and TV). There are desktop apps for all the big social media networks (TikTok, Facebook, Instagram, Discord, and LinkedIn). And there are a few customization tools, including TranslucentTB for customizing the taskbar and F.lux for adjusting the color temperature of your display. There are also multiple apps for working in media, including Photoshop, Audacity, and OBS Studio. It's just that Ninite offers more, including power user staples like VLC, WinDirStat, 7-Zip, and Handbrake. If you don't need these additional apps, however, App Pack is a diverse set of tools, and I could imagine the one-click install saving a lot of time for many Windows users. You can find it here or by clicking the \"Multi-app install\" button in the top-right corner of the web version of the Microsoft Store.\n            \n    \n\n    \n        The Download Newsletter\n            Never miss a tech story\n        \n        \n            Jake Peterson\n            \n            Senior tech editor\n        \n        Get the latest tech news, reviews, and advice from Jake and the team.\n    \n    \n        The Download Newsletter\n            Never miss a tech story. Get the latest tech news, reviews, and advice from Jake and the team.\n        \n    \n\n    \n            \n                \n                        Keep Scrolling for Next Article\n                    \n                \n            \n        ",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Microsoft (Sort of) Made a Ninite Alternative",
-      "image": [
-        "https://lifehacker.com/imagery/articles/01K9R2BNRDV5CXVVG4963ESGT5/hero-image.fill.size_1200x675.png"
-      ],
-      "datePublished": "2025-11-12T13:30:00.000Z",
-      "dateModified": "2025-11-12T13:30:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Google Is Cautiously Experimenting With One of Apple’s Most Controversial AI Features",
-    "url": "https://lifehacker.com/tech/ai-summaries-pixel?utm_medium=RSS",
-    "image": "https://lifehacker.com/imagery/articles/01K9WK33ARD6SXXZP3APSN7Y1Z/hero-image.fill.size_1200x675.jpg",
-    "tag": "Life",
-    "date": "2025-11-12T20:00:00.000Z",
-    "description": "\n    \n        \n            \n                \n            \n                \n    \n    \n\n                    \n                        \n                  ",
-    "body": "\n    \n        \n            \n                \n            \n                \n    \n    \n\n                    \n                        \n                            \n                            \n                            View our Bluesky Page (Opens in a new tab)\n                        \n                    \n                    \n                        \n                            \n                            \n                            View our Instagram Page (Opens in a new tab)\n                        \n                    \n                    \n                        \n                            \n                            \n                            View on Facebook Page (Opens in a new tab)\n                        \n                    \n                    \n                        \n                            \n                            \n                            View our Youtube Page (Opens in a new tab)\n                        \n                    \n                    \n                        \n                            \n                            \n                            View our Twitter Page (Opens in a new tab)\n                        \n                    \n                \n                \n                    \n                    \n                \n                \n        \n            \n                Latest\n                Tech\n                Best Picks\n                Entertainment\n                Health\n                Reviews\n                Home & Garden\n                Deals\n                Comparisons\n                Hacks\n                                    # The Top 10 Tech Sales This Week\n            \n    \n            \n            \n        \n    \n        \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                Copied\n            \n        \n    \n            The Pixel is getting AI notification summaries, but only for certain chats.\n    \n        \n    \n                                        \n        \n        \n        November 12, 2025\n                    \n            Credit: Michelle Ehrhardt\n                            \n            \n                Key Takeaways\n                                            Google Pixel 9 and Pixel 10 are getting AI notification summaries.\n                                            The summaries only apply to chat apps for now.\n                                            You need to opt-in to the AI summaries to see them.\n                                    \n            \n    Table of Contents\n    \n        \n        Google is adding one of the iPhone's most controversial features to its latest Pixel phones, but it's promising to show a bit more restraint than Apple did. Yes, as part of the November 2025 Pixel feature drop, Pixel 9 and Pixel 10 phones (excluding the Pixel 9a) are getting AI notification summaries.The problem with AI notification summariesIf you're reeling back after reading that, I don't blame you. This is one of the few AI features Apple beat Google to the punch on, and when they came out during the iOS 18.3 beta, the summaries were quickly criticized for handling hard topics like breakups with a cold tone, as well as for misreporting the news.Apple quickly pulled news summaries (although they've since come back) and made it clearer when an AI was writing a notification, but it seems Google's still being a bit more cautious with its launch.\n        \n            You May Also Like\n        \n    \nHow AI Notification Summaries on Pixel work\n    \n            \n            \n                                        Credit: Google\n                    \n    \nRather than trying to organize every notification you might get, Google's AI Summaries are just starting off with popular chat apps for now, including its own Messages app and alternatives like WhatsApp. Additionally, they'll only kick in on \"longer chats,\" with the idea being to give you, \"digestible conversation recaps.\" That means you're going to see far fewer AI notifications than on the iPhone, which currently uses them for news, entertainment, chats, email, and more. That's probably a safer approach for Google, but it does mean the AI summaries are meant to be used more to get you quickly back up to speed, rather than for organization (although that will change in the future).As on the iPhone, AI notification summaries on the Pixel will be indicated by a small icon with a sparkle and a few lines below it, with the summary following. They'll also be italicized for additional visual distinction.How to turn on AI Notification Summaries on PixelGoogle is also exercising caution by making its AI notification summaries entirely opt-in. That means you'll need to manually turn them on before you start seeing them, which you can do under Settings > Notifications > Notification Summaries. While on this page, you'll also be able to exclude certain apps from sending AI notification summaries, by adding them to the \"Don't include these apps\" list.If you're still not seeing the summaries after enabling them, ensure your Android System Intelligence is enabled under Settings > Notifications > Privacy > Notification read, reply & control. Additionally, summaries will not be generated while your phone is in battery saver mode, or while you're actively using it (per Google, for them to kick in, \"the screen must be off for a moment\").When will my Pixel get AI Notification Summaries?AI Notification summaries start rolling out today, alongside the November system patch. However, they're not automatically included in the downloadable patch, so it might be a while before you see them (I don't have them yet).It's still not a bad idea to get your phone fully up-to-date in the meantime. To download the November 2025 Pixel update, either wait for a notification from Google, or head to Settings > System > Software updates to manually check if it's been rolled out to you yet.What's next for Pixel's AI Notification Summaries?While today's update is clearly just Google dipping its toes in the water, the company does have bigger plans for December, where some Pixels will also start automatically silencing \"lower-priority notifications\" and will start automatically sorting them into categories like \"News\" and \"Promotions.\" Hopefully, Google will have learned some lessons from Apple by the time those features go live.\n            \n    \n\n    \n        The Download Newsletter\n            Never miss a tech story\n        \n        \n            Jake Peterson\n            \n            Senior tech editor\n        \n        Get the latest tech news, reviews, and advice from Jake and the team.\n    \n    \n        The Download Newsletter\n            Never miss a tech story. Get the latest tech news, reviews, and advice from Jake and the team.\n        \n    \n\n    \n            \n                \n                        Keep Scrolling for Next Article\n                    \n                \n            \n        \n    ",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Google Is Cautiously Experimenting With One of Apple’s Most Controversial AI Features",
-      "image": [
-        "https://lifehacker.com/imagery/articles/01K9WK33ARD6SXXZP3APSN7Y1Z/hero-image.fill.size_1200x675.jpg"
-      ],
-      "datePublished": "2025-11-12T20:00:00.000Z",
-      "dateModified": "2025-11-12T20:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Even Realities' G2 Smart Glasses Bring AI Into Your Real-Life Conversations",
-    "url": "https://lifehacker.com/tech/even-realities-g2-smart-glasses-launch?utm_medium=RSS",
-    "image": "https://lifehacker.com/imagery/articles/01K9WRHF87K7YZAPX0ESVQCRS7/hero-image.fill.size_1200x675.png",
-    "tag": "Life",
-    "date": "2025-11-12T21:00:00.000Z",
+    "date": "2025-11-12T19:00:55.000Z",
     "description": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our missio",
     "body": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our mission is to offer reliable tech help and credible, practical, science-based life advice to help you live better.\n                \n                \n                    \n                        Our Mission\n                        Our Team\n                        Newsletter\n                    \n                \n            \n        \n                © 2001-2025 Ziff Davis, LLC., A ZIFF DAVIS COMPANY. ALL RIGHTS RESERVED.\n                Lifehacker is a federally registered trademark of Ziff Davis and may not be used by third parties without explicit permission. The display of third-party trademarks and trade names on this site does not necessarily indicate\n                    any affiliation or the\n                    endorsement of Lifehacker. If you click an affiliate link and buy a product or service, we may be paid a fee by that merchant.\n            \n    ",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Even Realities' G2 Smart Glasses Bring AI Into Your Real-Life Conversations",
+      "headline": "How to Spot a Paid Survey Scam",
       "image": [
-        "https://lifehacker.com/imagery/articles/01K9WRHF87K7YZAPX0ESVQCRS7/hero-image.fill.size_1200x675.png"
+        "https://lifehacker.com/imagery/articles/01K9WD2F0Y0K0XJWX1RSAJPXV3/hero-image.fill.size_1200x675.png"
       ],
-      "datePublished": "2025-11-12T21:00:00.000Z",
-      "dateModified": "2025-11-12T21:00:00.000Z",
+      "datePublished": "2025-11-12T19:00:55.000Z",
+      "dateModified": "2025-11-12T19:00:55.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The FBI Is Targeting the Popular Anti-Paywall Site Archive.Today",
+    "url": "https://lifehacker.com/tech/the-fbi-is-targeting-popular-anti-paywall-site-archiveis?utm_medium=RSS",
+    "image": "https://lifehacker.com/imagery/articles/01K9DEN7MN41M3M4M2PTDK8FQ2/hero-image.fill.size_1200x675.png",
+    "tag": "Life",
+    "date": "2025-11-06T21:30:00.000Z",
+    "description": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our missio",
+    "body": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our mission is to offer reliable tech help and credible, practical, science-based life advice to help you live better.\n                \n                \n                    \n                        Our Mission\n                        Our Team\n                        Newsletter\n                    \n                \n            \n        \n                © 2001-2025 Ziff Davis, LLC., A ZIFF DAVIS COMPANY. ALL RIGHTS RESERVED.\n                Lifehacker is a federally registered trademark of Ziff Davis and may not be used by third parties without explicit permission. The display of third-party trademarks and trade names on this site does not necessarily indicate\n                    any affiliation or the\n                    endorsement of Lifehacker. If you click an affiliate link and buy a product or service, we may be paid a fee by that merchant.\n            \n    ",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "The FBI Is Targeting the Popular Anti-Paywall Site Archive.Today",
+      "image": [
+        "https://lifehacker.com/imagery/articles/01K9DEN7MN41M3M4M2PTDK8FQ2/hero-image.fill.size_1200x675.png"
+      ],
+      "datePublished": "2025-11-06T21:30:00.000Z",
+      "dateModified": "2025-11-06T21:30:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Your Older Peloton Bike+ Seat Has Been Recalled",
+    "url": "https://lifehacker.com/health/peloton-is-recalling-and-replacing-original-bike-plus-seats?utm_medium=RSS",
+    "image": "https://lifehacker.com/imagery/articles/01K9FWCV2FEYA42G4AGNZ6BTC0/hero-image.fill.size_1200x675.png",
+    "tag": "Life",
+    "date": "2025-11-07T20:30:00.000Z",
+    "description": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our missio",
+    "body": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our mission is to offer reliable tech help and credible, practical, science-based life advice to help you live better.\n                \n                \n                    \n                        Our Mission\n                        Our Team\n                        Newsletter\n                    \n                \n            \n        \n                © 2001-2025 Ziff Davis, LLC., A ZIFF DAVIS COMPANY. ALL RIGHTS RESERVED.\n                Lifehacker is a federally registered trademark of Ziff Davis and may not be used by third parties without explicit permission. The display of third-party trademarks and trade names on this site does not necessarily indicate\n                    any affiliation or the\n                    endorsement of Lifehacker. If you click an affiliate link and buy a product or service, we may be paid a fee by that merchant.\n            \n    ",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Your Older Peloton Bike+ Seat Has Been Recalled",
+      "image": [
+        "https://lifehacker.com/imagery/articles/01K9FWCV2FEYA42G4AGNZ6BTC0/hero-image.fill.size_1200x675.png"
+      ],
+      "datePublished": "2025-11-07T20:30:00.000Z",
+      "dateModified": "2025-11-07T20:30:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Why You Should Get a Heat Pump Water Heater (and When It Doesn't Make Sense)",
+    "url": "https://lifehacker.com/home/heat-pump-water-heaters?utm_medium=RSS",
+    "image": "https://lifehacker.com/imagery/articles/01K9WK1FVE3N29VZA50MY0KTDV/hero-image.fill.size_1200x675.png",
+    "tag": "Life",
+    "date": "2025-11-13T14:00:00.000Z",
+    "description": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our missio",
+    "body": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our mission is to offer reliable tech help and credible, practical, science-based life advice to help you live better.\n                \n                \n                    \n                        Our Mission\n                        Our Team\n                        Newsletter\n                    \n                \n            \n        \n                © 2001-2025 Ziff Davis, LLC., A ZIFF DAVIS COMPANY. ALL RIGHTS RESERVED.\n                Lifehacker is a federally registered trademark of Ziff Davis and may not be used by third parties without explicit permission. The display of third-party trademarks and trade names on this site does not necessarily indicate\n                    any affiliation or the\n                    endorsement of Lifehacker. If you click an affiliate link and buy a product or service, we may be paid a fee by that merchant.\n            \n    ",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Why You Should Get a Heat Pump Water Heater (and When It Doesn't Make Sense)",
+      "image": [
+        "https://lifehacker.com/imagery/articles/01K9WK1FVE3N29VZA50MY0KTDV/hero-image.fill.size_1200x675.png"
+      ],
+      "datePublished": "2025-11-13T14:00:00.000Z",
+      "dateModified": "2025-11-13T14:00:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -366,6 +216,156 @@
       ],
       "datePublished": "2025-11-11T22:30:51.000Z",
       "dateModified": "2025-11-11T22:30:51.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Try This Free Plex Alternative Client If You Hate the New Interface",
+    "url": "https://lifehacker.com/tech/best-free-alternative-plex-client?utm_medium=RSS",
+    "image": "https://lifehacker.com/imagery/articles/01K9FZPE8Y0DA878NT4T1VEJKP/hero-image.fill.size_1200x675.png",
+    "tag": "Life",
+    "date": "2025-11-10T13:00:03.000Z",
+    "description": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our missio",
+    "body": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our mission is to offer reliable tech help and credible, practical, science-based life advice to help you live better.\n                \n                \n                    \n                        Our Mission\n                        Our Team\n                        Newsletter\n                    \n                \n            \n        \n                © 2001-2025 Ziff Davis, LLC., A ZIFF DAVIS COMPANY. ALL RIGHTS RESERVED.\n                Lifehacker is a federally registered trademark of Ziff Davis and may not be used by third parties without explicit permission. The display of third-party trademarks and trade names on this site does not necessarily indicate\n                    any affiliation or the\n                    endorsement of Lifehacker. If you click an affiliate link and buy a product or service, we may be paid a fee by that merchant.\n            \n    ",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Try This Free Plex Alternative Client If You Hate the New Interface",
+      "image": [
+        "https://lifehacker.com/imagery/articles/01K9FZPE8Y0DA878NT4T1VEJKP/hero-image.fill.size_1200x675.png"
+      ],
+      "datePublished": "2025-11-10T13:00:03.000Z",
+      "dateModified": "2025-11-10T13:00:03.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Use the ‘Eisenhower Matrix’ to Prioritize Your To-Do List",
+    "url": "https://lifehacker.com/use-the-eisenhower-matrix-to-prioritize-your-to-do-list?utm_medium=RSS",
+    "image": "https://lifehacker.com/imagery/articles/01HF2GGSQR75NECF82VHCNATRZ/hero-image.fill.size_1200x675.png",
+    "tag": "Life",
+    "date": "2025-11-11T13:00:00.000Z",
+    "description": "\n    \n        \n            \n                \n            \n                \n    \n    \n\n                    \n                        \n                  ",
+    "body": "\n    \n        \n            \n                \n            \n                \n    \n    \n\n                    \n                        \n                            \n                            \n                            View our Bluesky Page (Opens in a new tab)\n                        \n                    \n                    \n                        \n                            \n                            \n                            View our Instagram Page (Opens in a new tab)\n                        \n                    \n                    \n                        \n                            \n                            \n                            View on Facebook Page (Opens in a new tab)\n                        \n                    \n                    \n                        \n                            \n                            \n                            View our Youtube Page (Opens in a new tab)\n                        \n                    \n                    \n                        \n                            \n                            \n                            View our Twitter Page (Opens in a new tab)\n                        \n                    \n                \n                \n                    \n                    \n                \n                \n        \n            \n                Latest\n                Tech\n                Best Picks\n                Entertainment\n                Health\n                Reviews\n                Home & Garden\n                Deals\n                Comparisons\n                Hacks\n                                    # The Top 10 Tech Sales This Week\n            \n    \n            \n            \n        \n    \n        \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                Copied\n            \n        \n    \n            You'll be more productive if you can see what you need to do, and when you need to do it.\n    \n        \n    \n                                        \n        \n        \n        November 11, 2025\n                    \n            Credit: spoonphol / Shutterstock.com\n                            \n    Table of Contents\n    \n        \n        You already know that scheduling your tasks—whether you’re time blocking, task batching, or theming entire days—is a major priority when it comes to being productive and getting stuff done. But when you have a bunch of tasks and don’t even know where to start with scheduling them, you need an efficient method to decide what to get on right away, what to delegate, and what to forget about. Essentially, not only do you need to know what you need to do, but you need to rank those tasks based on how crucial they are, how much time they'll take, and what you'll need to get them done.What is the Eisenhower Matrix?This assessment and productivity tool is named for former president Dwight Eisenhower, who once quoted Dr. J. Roscoe Miller’s proclamation, “I have two kinds of problems: the urgent and the important. The urgent are not important, and the important are never urgent.” Apologies to Dr. Miller, but the more famous man ended up with the honor of having this system named after him. Further apologies to both men, but I didn't fully get this quote when I first read it. To me, important things are pretty urgent, even if their due date is far off. Still, the quote stands as it is and the method for prioritizing tasks that sprang from it is effective, regardless of any word salad that came first. When using the Eisenhower Matrix, you draw a standard matrix with two intersecting lines that create four quadrants. The X axis represents urgency and the Y axis represents importance, so the top left quadrant will show you tasks that are both urgent and important; the top right quadrant houses tasks that are not urgent but are important; the bottom left quadrant is for tasks that are not important but are urgent; and the bottom right quadrant contains tasks that are not urgent and not important. This four-way divvying makes a lot more sense to me than the original claim that \"the important are never urgent,\" because it recognizes that they can be. It looks like this:\n        \n            You May Also Like\n        \n    \n\n    \n            \n            \n                                        Credit: Lidiia Lykova / iStock via Getty Images\n                    \n    \nHow to use the Eisenhower MatrixYou can create your own matrix on paper or with software like draw.io or even specialty services like eisenhower.me. Next, just plug your tasks into the matrix, sorting them by their combination of urgency and importance. The real key is what you do next.The quadrants have secondary purposes beyond identifying what is urgent or important: \n            \n                What do you think so far?\n            \n        \nThe top left quadrant is for tasks you have to buckle down and do now.The top right quadrant is for tasks you need to schedule to do in the future.The bottom left quadrant represents tasks you need to delegate to someone capable.The bottom right quadrant shows you the tasks you can simply delete or put off.Once you see all your duties on the matrix, delegate the urgent-and-not-important ones, schedule the important-but-non-urgent ones, and get to work on your pressing, upper-right-quadrant tasks. If the deadline is seriously looming, do those first before worrying about delegation or scheduling. This visual representation of how important and urgent each responsibility is can help you figure out what to devote your time to instead of wasting time panicking about how much you think you have to get done.Use of the matrix is especially helpful for people who think visually, but don't forget that you still need to think strategically. Consider moving from the Eisenhower Matrix to a rigid to-do list, like the 1-3-5 list. That calls on you to plan your day around one major task, three medium ones, and five small ones. Obviously, those urgent and important tasks will be the first ones you try to take on, but in addition to factoring in their urgency and importance, you have to factor in the time and resources they'll take. The most urgent, important, and resource-heavy task should be your one major to-do list item. Ones that are still important but require less of you fill in those three in the middle. Five small tasks can include things that are important but not urgent and can even include the act of delegating the ones you don't have to do. The matrix is just the first step to getting to work. I'd also recommend using a system like kanban here. You need to consider the resources you have available, not just what needs doing. It might be urgent and important to clean your home, but if you don't have supplies, the more pressing task is actually going to the store. The same goes for a project you need to work on when you're waiting on a team member to send you a crucial piece of information you can't move forward without. In that case, it would make more sense to work on a less-urgent task while you wait, even if the project is technically more pressing. Using a system that takes into account the time and resources necessary to do something will help you get a clearer picture of your prioritized tasks and make your day even more productive. \n            \n    \n\n    \n        The Daily Newsletter\n            Ready to do everything better?\n        \n        \n            Jordan Calhoun\n            \n            Editor in chief\n        \n        Get daily tips, tricks, and tech guides from Jordan and the team.\n    \n    \n        The Daily Newsletter\n            Ready to do everything better? Get daily tips, tricks, and tech guides from Jordan and the team.\n        \n    \n\n    \n            \n                \n                        Keep Scrolling for Next Article\n                    \n                \n            \n        \n    ",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Use the ‘Eisenhower Matrix’ to Prioritize Your To-Do List",
+      "image": [
+        "https://lifehacker.com/imagery/articles/01HF2GGSQR75NECF82VHCNATRZ/hero-image.fill.size_1200x675.png"
+      ],
+      "datePublished": "2025-11-11T13:00:00.000Z",
+      "dateModified": "2025-11-11T13:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Watch Out for These Tap-to-Pay Scams",
+    "url": "https://lifehacker.com/money/tap-to-pay-scams?utm_medium=RSS",
+    "image": "https://lifehacker.com/imagery/articles/01K9P2KD8KRH1S1EA5VGKZ8TYV/hero-image.fill.size_1200x675.jpg",
+    "tag": "Life",
+    "date": "2025-11-10T17:00:00.000Z",
+    "description": "\n        \n        Contactless payment, also known as tap-to-pay, has become a fast, easy, and relatively common way to complete a transaction using yo",
+    "body": "\n        \n        Contactless payment, also known as tap-to-pay, has become a fast, easy, and relatively common way to complete a transaction using your smartphone or credit card. It relies on Near Field Communication (NFC) to transmit data between your device and a payment terminal when the two are in close proximity, up to an inch or two away.While NFC technology does provide some additional security—transmitting a virtual account number instead of your actual card details, for example—scammers have found a way to capitalize on tap-to-pay to steal money from unsuspecting targets. These \"ghost tapping\" schemes may exploit both cards and mobile wallets. How tap-to-pay scams workAccording to the Better Business Bureau, ghost tapping takes advantage of a potential victim's proximity and lack of attention to detail. They suggest it is possible for a scammer to bump into you in a crowded public space, getting close enough to trigger a contactless transaction without your knowledge. (It's not clear how common a close brush with a tap-to-pay machine actually is.) \nBut other versions of ghost tapping rely on you to actively engage while missing the warning signs of fraud. For example, scammers might appear to be selling goods or collecting small donations for charity using tap-to-pay, but they are actually charging your card for a much larger amount to a fraudulent business. They count on you not to look closely at the transaction details before tapping, or they rush you through the process and fail to offer a receipt.  In one instance reported to the BBB's Scam Tracker, individuals were targeted by a door-to-door salesman who claimed to be selling chocolate for a charitable cause. The transactions were for hundreds of dollars, which the victims didn't see before tapping. As with any scam, vigilance is key. Tap-to-pay is easy enough to feel automatic, and you may be less likely to pause and check the details than you would when swiping or entering your credit card. Always slow down and confirm the merchant name and transaction and tip amount before pulling out your phone or card (again, close proximity is enough to trigger tap-to-pay). Beware of any vendor who tries to rush you, hide the screen, or avoid giving you a receipt. You may also want to set up transaction alerts with your bank or credit card company so you can catch any suspicious charges immediately. If you get a notification about a \"test\" charge, that is also a scam red flag. Finally, while scammers probably aren't going around secretly scanning tap-to-pay en masse, you could protect your cards using a radio frequency identification (RFID)-blocking wallet or sleeve. You can disable NFC on your Android in Settings (type \"NFC\" into the search bar). On iPhone, you have to turn on Airplane Mode to block NFC. \n            ",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Watch Out for These Tap-to-Pay Scams",
+      "image": [
+        "https://lifehacker.com/imagery/articles/01K9P2KD8KRH1S1EA5VGKZ8TYV/hero-image.fill.size_1200x675.jpg"
+      ],
+      "datePublished": "2025-11-10T17:00:00.000Z",
+      "dateModified": "2025-11-10T17:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Microsoft (Sort of) Made a Ninite Alternative",
+    "url": "https://lifehacker.com/tech/microsoft-sort-of-made-a-ninite-alternative?utm_medium=RSS",
+    "image": "https://lifehacker.com/imagery/articles/01K9R2BNRDV5CXVVG4963ESGT5/hero-image.fill.size_1200x675.png",
+    "tag": "Life",
+    "date": "2025-11-12T13:30:00.000Z",
+    "description": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our missio",
+    "body": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our mission is to offer reliable tech help and credible, practical, science-based life advice to help you live better.\n                \n                \n                    \n                        Our Mission\n                        Our Team\n                        Newsletter\n                    \n                \n            \n        \n                © 2001-2025 Ziff Davis, LLC., A ZIFF DAVIS COMPANY. ALL RIGHTS RESERVED.\n                Lifehacker is a federally registered trademark of Ziff Davis and may not be used by third parties without explicit permission. The display of third-party trademarks and trade names on this site does not necessarily indicate\n                    any affiliation or the\n                    endorsement of Lifehacker. If you click an affiliate link and buy a product or service, we may be paid a fee by that merchant.\n            \n    ",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Microsoft (Sort of) Made a Ninite Alternative",
+      "image": [
+        "https://lifehacker.com/imagery/articles/01K9R2BNRDV5CXVVG4963ESGT5/hero-image.fill.size_1200x675.png"
+      ],
+      "datePublished": "2025-11-12T13:30:00.000Z",
+      "dateModified": "2025-11-12T13:30:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "How to Stop Bluetooth Speakers From Disconnecting Your AirPods",
+    "url": "https://lifehacker.com/tech/how-to-stop-bluetooth-speakers-from-disconnecting-your-airpods?utm_medium=RSS",
+    "image": "https://lifehacker.com/imagery/articles/01K9F314KQE562QZX7V315J5MS/hero-image.fill.size_1200x675.jpg",
+    "tag": "Life",
+    "date": "2025-11-07T15:00:00.000Z",
+    "description": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our missio",
+    "body": "\n        \n                \n                    \n                Lifehacker has been a go-to source of tech help and life advice since 2005. Our mission is to offer reliable tech help and credible, practical, science-based life advice to help you live better.\n                \n                \n                    \n                        Our Mission\n                        Our Team\n                        Newsletter\n                    \n                \n            \n        \n                © 2001-2025 Ziff Davis, LLC., A ZIFF DAVIS COMPANY. ALL RIGHTS RESERVED.\n                Lifehacker is a federally registered trademark of Ziff Davis and may not be used by third parties without explicit permission. The display of third-party trademarks and trade names on this site does not necessarily indicate\n                    any affiliation or the\n                    endorsement of Lifehacker. If you click an affiliate link and buy a product or service, we may be paid a fee by that merchant.\n            \n    ",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "How to Stop Bluetooth Speakers From Disconnecting Your AirPods",
+      "image": [
+        "https://lifehacker.com/imagery/articles/01K9F314KQE562QZX7V315J5MS/hero-image.fill.size_1200x675.jpg"
+      ],
+      "datePublished": "2025-11-07T15:00:00.000Z",
+      "dateModified": "2025-11-07T15:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Four Tools You Can Use to Find Any Leak in Your Home",
+    "url": "https://lifehacker.com/home/best-tools-to-find-any-leak-in-your-home?utm_medium=RSS",
+    "image": "https://lifehacker.com/imagery/articles/01K9T1P8ATTEZ80AVWFQSKSE8Y/hero-image.fill.size_1200x675.png",
+    "tag": "Life",
+    "date": "2025-11-11T18:33:37.000Z",
+    "description": "\n    \n        \n            \n                \n            \n                \n    \n    \n\n                    \n                        \n                  ",
+    "body": "\n    \n        \n            \n                \n            \n                \n    \n    \n\n                    \n                        \n                            \n                            \n                            View our Bluesky Page (Opens in a new tab)\n                        \n                    \n                    \n                        \n                            \n                            \n                            View our Instagram Page (Opens in a new tab)\n                        \n                    \n                    \n                        \n                            \n                            \n                            View on Facebook Page (Opens in a new tab)\n                        \n                    \n                    \n                        \n                            \n                            \n                            View our Youtube Page (Opens in a new tab)\n                        \n                    \n                    \n                        \n                            \n                            \n                            View our Twitter Page (Opens in a new tab)\n                        \n                    \n                \n                \n                    \n                    \n                \n                \n        \n            \n                Latest\n                Tech\n                Best Picks\n                Entertainment\n                Health\n                Reviews\n                Home & Garden\n                Deals\n                Comparisons\n                Hacks\n                                    # The Top 10 Tech Sales This Week\n            \n    \n            \n            \n        \n    \n        \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                \n                    \n                    \n                \n            \n            \n                Copied\n            \n        \n    \n            Locate and fix these leaks before they become destructive.\n    \n        \n    \n                                        \n        \n        \n        November 11, 2025\n    \n    We may earn a commission from links on this page.\n    \n            Credit: Paul Maguire / Shutterstock.com\n                            \n    Table of Contents\n    \n        \n        Your home is under constant threat from the elements—but especially from water. From roof leaks to burst pipes—water damage is the second-most claimed loss on home insurance policies, just below “wind and hail.” In fact, there are way more losses due to water damage than fire.And the most troubling aspect of water damage is how silent it can be. You can have a leak for a long time before the damage becomes bad enough to notice. And even if you know you have a water leak somewhere, locating it can often be difficult because water can travel a long way from the source before making its presence known. That’s why you need these five kinds of leak detectors on hand, so you’ll know when a damaging water leak erupts, and be able to find it quickly to minimize the damage.Moisture alarmsStep one is to have water detectors with alarms set up around the house in places where leaks are probable. These alarms are typically wifi-connected and simply detect moisture beyond a normal level, ringing out an audible alarm and sending a message to your devices warning you of a leak. Having them placed in bathrooms, kitchens, laundry rooms, basements, attics, and anywhere else where the home comes into contact with water means leaks will be noticed right away instead of slowly destroying your property over weeks, months, or even years.\n        \n            You May Also Like\n        \n    \nThese alarms can often be combined with networked shutoff valves that will automatically turn off the water supply when a leak is detected. That way, even if you’re not home, the damage from a leak will be minimized.Moisture meterAs useful as leak alarms are, they can only help if present where a water leak occurs—and they only tell you that there’s water, not where the water is coming from. Sometimes the source will be obvious, of course—if the alarm placed near your toilet goes off, chances are good that it’s your toilet doing the leaking. But if the leak begins with a pipe in your wall, one tiny spot on a large roof system, or underground, you’ll need some help locating it.A moisture meter is a must-have for finding leaks. It’s a simple device that measures the amount of moisture trapped in a material, like drywall or flooring. By taking multiple readings throughout an area, you can pinpoint where the water is concentrated before you start tearing things open to effect a repair, saving you time and money.\n            \n                What do you think so far?\n            \n        \nEndoscopesSometimes you need to see inside the spaces and voids of your home to find a water leak. If you suspect a pipe is leaking in the walls, for example, and you’re getting some confusing moisture meter readings, it might be time to reach for one of the most useful tools you’ll ever own: an endoscopic camera (aka, a borescope). This is a small, flexible camera that can be inserted into a small space and fished around, allowing you to see what’s behind a wall, under a floor, or inside a soffit in your home without ripping everything open. If there’s no obvious way to insert the camera, you can usually drill a small access hole that can be easily repaired later, and the video feed will let you inspect all those pipes to see where the water’s coming from.Pipe locatorA pipe locator is exactly what it sounds like: It locates the hidden pipes feeding water into and taking water out of your house, which are often inside walls, under floors, or buried underground. If you’re trying to figure out where a leaking pipe might be located, this tool can be invaluable, especially if other options haven’t worked.They’re not cheap—this one from Rigid is one of the more affordable options, and it’s about $1,800 at the time of this writing. But you can easily spend $1,000 or more if a plumber comes out to locate and fix your leaking pipe, so if you’re comfortable fixing the leak yourself, a tool like this will pay for itself eventually because you’ll be able to isolate the leak, turn off water to just that area, and effect the repair.\n            \n    \n\n    \n        Smarter Home & Living Newsletter\n            Never miss a story\n        \n        \n            Lindsey Ellefson\n            \n            Features editor\n        \n        Get the latest smart home news, trends, and advice from Lindsey and the team.\n    \n    \n        Smarter Home & Living Newsletter\n            Never miss a story. Get the latest smart home news, trends, and advice from Lindsey and the team.\n        \n    \n\n    \n            \n                \n                        Keep Scrolling for Next Article\n                    \n                \n            \n        \n    ",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Four Tools You Can Use to Find Any Leak in Your Home",
+      "image": [
+        "https://lifehacker.com/imagery/articles/01K9T1P8ATTEZ80AVWFQSKSE8Y/hero-image.fill.size_1200x675.png"
+      ],
+      "datePublished": "2025-11-11T18:33:37.000Z",
+      "dateModified": "2025-11-11T18:33:37.000Z",
       "author": [
         {
           "@type": "Person",
