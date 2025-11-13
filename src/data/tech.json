@@ -1,21 +1,21 @@
 [
   {
-    "title": "ElevenLabs strike deals with celebs to create AI audio",
-    "url": "https://techcrunch.com/2025/11/12/elevenlabs-strike-deals-with-celebs-to-create-ai-audio/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-co-founders.jpg?w=150",
+    "title": "Tesla might finally bring CarPlay to its EVs",
+    "url": "https://techcrunch.com/2025/11/13/tesla-might-finally-bring-carplay-to-its-evs/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1201201983.jpg?w=150",
     "tag": "Tech",
-    "date": "2025-11-12T20:00:00.000Z",
-    "description": "\nElevenLabs struck a deal with actors Michael Caine and Matthew McConaughey to AI-generate their voices, the company announced this week.\nHollywood an",
-    "body": "\nElevenLabs struck a deal with actors Michael Caine and Matthew McConaughey to AI-generate their voices, the company announced this week.\nHollywood and AI have an up-and-down relationship, with its guardrails — or lack thereof — serving among the main concerns that led to the Hollywood strikes a few years ago. Since then, some artists have started to warm up to the idea of AI.\nLast year, Meta announced that its Meta AI would offer voice assistants that sound like actresses Kristen Bell and Judi Dench. With McConaughey, an investor in ElevenLabs, the company will translate his newsletter into Spanish audio with the use of his AI voice.\nElevenLabs also announced this week that it was launching a marketplace to let brands use authorized AI-generated voices of celebrities, which will include Caine and other names like Liza Minnelli and Dr. Maya Angelou. ElevenLabs is one of the more popular AI unicorn companies and has backers including a16z and ICONIQ.  \n\n\tTopics\n",
+    "date": "2025-11-13T17:05:25.000Z",
+    "description": "\nIn Brief\nPosted:\n9:05 AM PST · November 13, 2025\n\nImage Credits:Sjoerd van der Wal / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nWhile au",
+    "body": "\nIn Brief\nPosted:\n9:05 AM PST · November 13, 2025\n\nImage Credits:Sjoerd van der Wal / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nWhile automakers like General Motors have started to sour on Apple CarPlay, Tesla is reportedly working on integrating the system into its vehicles’ software stack.\nThe feature is in development, according to a Bloomberg report, which noted the effort could be canceled before it is released to the public.\nThe move would mark a dramatic change for the automaker. Tesla has avoided requests from current and prospective customers to add CarPlay capability to its infotainment system. Apple CarPlay, as well as rival Android Auto, allows drivers to project their smartphone and many of its apps onto the car’s infotainment display. Tesla is focused on the standard CarPlay and not Apple’s next-generation and more capable version called CarPlay Ultra.\nIn lieu of CarPlay or Android Auto, Tesla has added native apps for streaming music services, including Apple Music, Spotify, and Tidal. Based on user reports, the quality of those apps has been uneven. Those apps also require customers to subscribe to Tesla’s premium connectivity package, which costs $9.99 monthly or $99 annually.\nThe addition of CarPlay could entice some drivers who had written off Tesla to reconsider their decisions. Half of drivers surveyed by McKinsey a couple years ago said that they wouldn’t buy any vehicle lacking CarPlay or Android Auto.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\nLatest in Transportation\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "ElevenLabs strike deals with celebs to create AI audio",
+      "headline": "Tesla might finally bring CarPlay to its EVs",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-co-founders.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1201201983.jpg?w=150"
       ],
-      "datePublished": "2025-11-12T20:00:00.000Z",
-      "dateModified": "2025-11-12T20:00:00.000Z",
+      "datePublished": "2025-11-13T17:05:25.000Z",
+      "dateModified": "2025-11-13T17:05:25.000Z",
       "author": [
         {
           "@type": "Person",
@@ -25,22 +25,22 @@
     }
   },
   {
-    "title": "Microsoft’s plan to fix its chip problem is, partly, to let OpenAI do the heavy lifting",
-    "url": "https://techcrunch.com/2025/11/13/microsofts-plan-to-fix-its-chip-problem-is-partly-to-let-openai-do-the-heavy-lifting/",
-    "image": "https://techcrunch.com/wp-content/uploads/2017/07/gettyimages-675949754.jpg?w=150",
+    "title": "Tesla Powerwall 2 recall expands to US after reports of fires",
+    "url": "https://techcrunch.com/2025/11/13/tesla-powerwall-2-recall-expands-to-us-after-reports-of-fires/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/01/GettyImages-1296608191.jpeg?w=150",
     "tag": "Tech",
-    "date": "2025-11-13T12:01:20.000Z",
-    "description": "\nMicrosoft is taking a page from OpenAI’s playbook, literally. Bloomberg first reported that the tech giant plans to leverage its partner’s custom chi",
-    "body": "\nMicrosoft is taking a page from OpenAI’s playbook, literally. Bloomberg first reported that the tech giant plans to leverage its partner’s custom chip development to bolster its own struggling semiconductor efforts, a move that looks increasingly pragmatic given Microsoft’s lackluster performance compared to rivals like Google and Amazon.\nThe arrangement is straightforward: OpenAI is designing AI chips with Broadcom, and Microsoft gets full access to the innovations. “As they innovate even at the system level, we get access to all of it,” CEO Satya Nadella explained on a newly released interview with podcaster Dwarkesh Patel, describing plans to adopt OpenAI’s designs and then extend them for Microsoft’s own purposes.\nUnder a revised partnership agreement, Microsoft secured intellectual property rights to OpenAI’s chip designs while maintaining access to the company’s AI models through 2032. The only carve-out? OpenAI’s consumer hardware, which the ChatGPT maker presumably wants to develop and sell independently.\nThe collaboration underscores a broader reality in tech: building cutting-edge AI chips is brutally difficult and expensive. Rather than continuing to struggle alone, Microsoft is betting that OpenAI’s expertise — plus a smartly structured contract — can accelerate its own ambitions.\n",
+    "date": "2025-11-13T16:26:12.000Z",
+    "description": "\nIn Brief\nPosted:\n8:26 AM PST · November 13, 2025\n\nImage Credits:RoschetzkyI stock photo / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nTes",
+    "body": "\nIn Brief\nPosted:\n8:26 AM PST · November 13, 2025\n\nImage Credits:RoschetzkyI stock photo / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nTesla is recalling more than 10,000 Powerwall 2 home batteries sold in the U.S. after nearly two dozen confirmed incidents of the units overheating, emitting smoke, or catching fire.\nThe U.S. recall comes just months after Tesla recalled Powerwall 2 batteries in Australia following reports of fires. \nIn the Australian recall, the battery cells inside the Powerwalls were manufactured by an unnamed third-party supplier. Tesla did not immediately reply to a question about which company manufactured the cells covered by the U.S. recall.\nAltogether, the U.S. Consumer Product Safety Commission (CPSC) said five Powerwalls have caught fire, resulting in minor property damage, and another six started smoking. The remaining 11 overheated. Electrek first reported the news.\nThe CPSC posted the recall notice on its website today. The affected Powerwalls were sold between November 2020 and December 2022. The agency is urging people to verify that their batteries are online and then check the Tesla app for whether the unit is included in the recall. \nTesla will discharge affected units that are online, and the company will provide replacements.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\nLatest in Climate\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Microsoft’s plan to fix its chip problem is, partly, to let OpenAI do the heavy lifting",
+      "headline": "Tesla Powerwall 2 recall expands to US after reports of fires",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2017/07/gettyimages-675949754.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2024/01/GettyImages-1296608191.jpeg?w=150"
       ],
-      "datePublished": "2025-11-13T12:01:20.000Z",
-      "dateModified": "2025-11-13T12:01:20.000Z",
+      "datePublished": "2025-11-13T16:26:12.000Z",
+      "dateModified": "2025-11-13T16:26:12.000Z",
       "author": [
         {
           "@type": "Person",
@@ -50,22 +50,272 @@
     }
   },
   {
-    "title": "Coding assistant Cursor raises $2.3bn five months after its previous round",
-    "url": "https://techcrunch.com/2025/11/13/coding-assistant-cursor-raises-2-3bn-five-months-after-its-previous-round/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/opengraph-image.png?w=150",
+    "title": "Google takes on Pinterest with a dedicated ‘inspirational’ images tab in its mobile app",
+    "url": "https://techcrunch.com/2025/11/13/google-takes-on-pinterest-with-a-dedicated-inspirational-images-tab-in-its-mobile-app/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/11/google-images-tab.png?w=150",
     "tag": "Tech",
-    "date": "2025-11-13T13:58:44.000Z",
-    "description": "\nIn Brief\nPosted:\n5:58 AM PST · November 13, 2025\n\nImage Credits:Cursor\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nDeveloper AI coding tool Cursor con",
-    "body": "\nIn Brief\nPosted:\n5:58 AM PST · November 13, 2025\n\nImage Credits:Cursor\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nDeveloper AI coding tool Cursor continues to gobble up venture capital as its valuation keeps climbing.\nOn Thursday, Cursor announced a $2.3 billion funding round that valued the company at $29.3 billion, as originally reported by the Wall Street Journal. This round more than doubles the company’s previous valuation of $9.9 billion, which it achieved in its $900 million Series C round in June.\nThis most recent fundraise was led by co-led by Accel, an existing investor, and Coatue, which is new to the cap table. Strategic investors including Nvidia (an enterprise customer) and Google (an AI model supplier) also joined the round.\nJoshua Kushner’s Thrive Capital led the company’s prior two rounds and participated in this round as well.\nCursor’s co-founder and CEO Michael Truell told the Wall Street Journal that the capital from the round will be put toward developing Composer, an AI model released by Cursor in October.\nCursor still relies on outside AI models from companies including Google, OpenAI and Anthropic to power its platform, but the plan is for Composer to carry some of that load in the future.\nNext year could be a very interesting one for Cursor. While the company is still seeing strong growth, OpenAI and Anthropic are both sharpening their AI coding products as the market for AI development tools continues to get more competitive.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n\n\n\tTopics\n\t\n\t\tAI, cursor, Enterprise, Enterprise, Fundraising, nvidia, OpenAI, Startups, Thrive Capital, United States, vibe coding\t\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\nLatest in Fundraising\n",
+    "date": "2025-11-13T16:29:23.000Z",
+    "description": "\nGoogle is adding a new feature to its mobile app that could potentially challenge Pinterest in becoming users’ first stop for inspirational imagery: ",
+    "body": "\nGoogle is adding a new feature to its mobile app that could potentially challenge Pinterest in becoming users’ first stop for inspirational imagery: a dedicated images tab. The company announced on Wednesday it is introducing a new “Images” icon at the bottom of Google’s Search app for iOS and Android devices that will display images personalized to the user’s interests.\nThe images will update daily, Google says, noting the feature would offer users a way to organize their creative ideas, or find visual inspiration for things like planning a trip, hosting a party, decorating your apartment, or discovering new fashion.\nThose use cases, of course, are also among the top reasons why users turn to Pinterest and other social apps, like Instagram.\nUsers can browse the images in Google’s new tab, search for other images, and save the images they like to their collections. \nWith the addition, Google is likely hoping to increase user engagement with its app, especially given that AI companies are eating into its search and ads business. \nMore importantly, perhaps, the feature gives Google a new surface inside its popular Search app where it could run advertisements. Already, the company has been spotted testing an ads carousel within the image tab on mobile devices, so it wouldn’t be surprising to see ads appear within this new tab, as well.\nThis isn’t the first time Google has announced a dedicated feature for saving images and other bookmarks from search. The company launched a Collections feature back in 2018, later adding AI features to suggest other items you could save to your collections. However, this feature wasn’t solely focused on images — it also encouraged users to save websites, products, and map locations. \nGoogle says the new images tab in the Search app will roll out over the next few weeks on iOS and Android in the U.S. It didn’t provide a time frame for launching the feature globally.\n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Coding assistant Cursor raises $2.3bn five months after its previous round",
+      "headline": "Google takes on Pinterest with a dedicated ‘inspirational’ images tab in its mobile app",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/07/opengraph-image.png?w=150"
+        "https://techcrunch.com/wp-content/uploads/2025/11/google-images-tab.png?w=150"
       ],
-      "datePublished": "2025-11-13T13:58:44.000Z",
-      "dateModified": "2025-11-13T13:58:44.000Z",
+      "datePublished": "2025-11-13T16:29:23.000Z",
+      "dateModified": "2025-11-13T16:29:23.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "TikTok launches its own version of Instagram’s broadcast channels",
+    "url": "https://techcrunch.com/2025/11/13/tiktok-launches-its-own-version-of-instagrams-broadcast-channels/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2084803237.jpg?w=150",
+    "tag": "Tech",
+    "date": "2025-11-13T16:36:02.000Z",
+    "description": "\nTikTok announced on Thursday that it’s launching “bulletin board,” a new feature that lets brands and creators share public, one-to-many messages to ",
+    "body": "\nTikTok announced on Thursday that it’s launching “bulletin board,” a new feature that lets brands and creators share public, one-to-many messages to their followers. Bulletin board is essentially TikTok’s own version of Instagram’s broadcast channels feature that launched in 2023.\nJust like with broadcast channels on Instagram, only the creator of a bulletin board can post messages, and followers are limited to leaving emoji reactions. Bulletin boards support text, image, and video posts.\nThe feature is rolling out to creators who are at least 18 years old and have 50,000 followers. \nThe idea behind the feature is to make it easy for creators and companies to build community by sharing news and updates with their followers, as well as posting exclusive content. For instance, rather than posting updates through a Story or regular post on TikTok, creators can share them on their bulletin board. The feature also lets accounts promote their content by directly sending it to followers.\nThe launch doesn’t come as a surprise, as TikTok was spotted testing the feature in June. \nImage Credits:TikTok\nDuring the beta phase, TikTok says artists and musicians used the bulletin board to share newly released music with followers and invite them to pre-save upcoming releases. Additionally, People magazine and Paris Saint-Germain used the feature to share news and updates.\n“Just like everything on TikTok, all content must adhere to our Community Guidelines, which we enforce using a combination of technology and human moderators,” TikTok explained in a blog post. “Our safety tools for muting, blocking, and reporting users and content are available within the bulletin board to help keep communities safe and positive.”\nCreators can start a bulletin board by going to their inbox and selecting the option. They can toggle the “Show on profile” setting on or off to change the visibility of their bulletin board. Plus, they can choose a name for their bulletin board.\nTo join a bulletin board, users can click on the bulletin board’s name under the creator’s bio on their profile. Once a follower chooses to join a creator’s bulletin board, they will receive notifications in their inbox whenever that creator posts. \n\n\n\t\tAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing aisha@techcrunch.com or via encrypted message at aisha_malik.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "TikTok launches its own version of Instagram’s broadcast channels",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2084803237.jpg?w=150"
+      ],
+      "datePublished": "2025-11-13T16:36:02.000Z",
+      "dateModified": "2025-11-13T16:36:02.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "EU launches antitrust probe into how Google’s anti-spam policy affects publishers’ search rankings",
+    "url": "https://techcrunch.com/2025/11/13/eu-launches-antitrust-probe-into-how-googles-anti-spam-policy-affects-publishers-search-rankings/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1233593549-e1678455555313.jpg?w=150",
+    "tag": "Tech",
+    "date": "2025-11-13T14:43:37.000Z",
+    "description": "\nThe European Commission has launched an investigation into how Google is implementing its “site reputation abuse policy” and its impact on publishers",
+    "body": "\nThe European Commission has launched an investigation into how Google is implementing its “site reputation abuse policy” and its impact on publishers.\nThe Commission said on Thursday that it had found signs that Google is using the policy to push news media and other publishers’ websites and content lower in search rankings when they include content from their business partners, and that the policy “appears to directly impact a common and legitimate way for publishers to monetise their websites and content.”\nThe EC is now investigating if Google’s policy impacts publishers’ “freedom to conduct legitimate business, innovate, and cooperate with third-party content providers.” \nAccording to Google’s page on the policy, the measures are aimed at curbing websites that seek to manipulate search rankings by publishing other websites’ content on their site in an attempt to take advantage of their high ranking signal.\n“Unfortunately, the investigation announced today into our anti-spam efforts is misguided and risks harming millions of European users,” Pandu Nayak, chief scientist of Search at Google, wrote in a blog post on Thursday. “And the investigation is without merit: a German court has already dismissed a similar claim, ruling that our anti-spam policy was valid, reasonable, and applied consistently.”\n“Google’s anti-spam policy is essential to how we fight deceptive pay-for-play tactics that degrade our results,” he added. “Our anti-spam policy helps level the playing field, so that websites using deceptive tactics don’t outrank websites competing on the merits with their own content.”\nIf the investigation yields proof that Google infringed the European Union’s Digital Markets Act (DMA), the Commission can charge fines worth up to 10% of Alphabet’s global annual turnover. And if the Commission finds that the infringement is systematic, it can also impose remedies, which can include forced divestiture of businesses, or banning the company from making acquisitions related to the infringement.\nThe European Commission in 2023 designated Google Search as a “core platform service” under the DMA, which gives the bloc’s executive arm extra powers to regulate the tech giant. Google Search is already under a separate investigation for breaching DMA rules related to self-preferential treatment of its own services.\n\n\n\t\tRam is a financial and tech reporter and editor. He covered North American and European M&A, equity, regulatory news and debt markets at Reuters and Acuris Global, and has also written about travel, tourism, entertainment and books.\nYou can contact or verify outreach from Ram by emailing ram.iyer@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "EU launches antitrust probe into how Google’s anti-spam policy affects publishers’ search rankings",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1233593549-e1678455555313.jpg?w=150"
+      ],
+      "datePublished": "2025-11-13T14:43:37.000Z",
+      "dateModified": "2025-11-13T14:43:37.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Uber quietly pilots in-app video recording for drivers in India",
+    "url": "https://techcrunch.com/2025/11/13/uber-quietly-pilots-in-app-video-recording-for-drivers-in-india/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/11/uber-driver-app.jpg?w=150",
+    "tag": "Tech",
+    "date": "2025-11-13T19:11:18.000Z",
+    "description": "\nUber has quietly begun piloting in-app video recording for its drivers in India, TechCrunch has learned and confirmed with the company. The tool is m",
+    "body": "\nUber has quietly begun piloting in-app video recording for its drivers in India, TechCrunch has learned and confirmed with the company. The tool is meant to deter misconduct in a market where most drivers do not use dashcams, according to Uber.\nHalf a dozen Uber drivers in the Delhi–NCR region told TechCrunch they sometimes face misconduct from riders and, in some cases, are threatened with false complaints about their behavior — allegations that can lead to penalties or even account suspensions.\n“Even female passengers traveling late at night insist that we follow the route they want instead of what’s shown on the map. If we refuse, they threaten to file false complaints,” said one driver, who requested anonymity out of fear of losing his account.\nDrivers said the in-app video recording feature could help protect them in such situations by providing evidence when disputes arise. Still, some questioned whether Uber would back them in cases involving riders, noting that passengers pay for the trip and can easily switch to competing platforms if dissatisfied.\nThe pilot, which began rolling out in phases in May, is now live in 10 cities across India, including Delhi, Mumbai, Bengaluru, Chennai, Pune, Hyderabad, Chandigarh, Kolkata, Jaipur, and Lucknow, the company confirmed to TechCrunch.\nRiders receive an in-trip notification when video recording is active.\nUber’s notification for in-app video recordingImage Credits:Jagmeet Singh / TechCrunch\n“All recordings are double-encrypted, stored on the device, and cannot be accessed by anyone — including Uber — unless a user chooses to share them as part of a safety report,” an Uber spokesperson said, adding that the recordings are automatically deleted after a week if they are not shared.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThe video tool builds on Uber’s in-app audio recording feature, which launched in India in 2023. Video recording was first tested in the U.S. in 2022 and is already available in Canada and Brazil.\nAs the pilot expands, Uber will have to balance the feature’s potential to defuse disputes with broader questions about privacy and surveillance in one of its prominent markets. It is unclear when the video recording tool will be rolled out more widely, though the pilot’s performance in the coming months is likely to shape whether Uber extends it across India or to other regions.\n\n\n\t\tJagmeet covers startups, tech policy-related updates, and all other major tech-centric developments from India for TechCrunch. He previously worked as a principal correspondent at NDTV. \r\nYou can contact or verify outreach from Jagmeet by emailing mail@journalistjagmeet.com.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Uber quietly pilots in-app video recording for drivers in India",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/11/uber-driver-app.jpg?w=150"
+      ],
+      "datePublished": "2025-11-13T19:11:18.000Z",
+      "dateModified": "2025-11-13T19:11:18.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "CISA warns federal agencies to patch flawed Cisco firewalls amid ‘active exploitation’ across the US government",
+    "url": "https://techcrunch.com/2025/11/13/cisa-warns-federal-agencies-to-patch-flawed-cisco-firewalls-amid-active-exploitation-across-the-us-government/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1474827705.jpg?w=150",
+    "tag": "Tech",
+    "date": "2025-11-13T16:45:36.000Z",
+    "description": "\n\t\n\t\tImage Credits:Douglas Rissing / Getty Images\t\n\t\n\t\t\t\t\t\t8:45 AM PST · November 13, 2025\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nU.S. cybersecurity agency CISA says federal",
+    "body": "\n\t\n\t\tImage Credits:Douglas Rissing / Getty Images\t\n\t\n\t\t\t\t\t\t8:45 AM PST · November 13, 2025\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nU.S. cybersecurity agency CISA says federal government departments are not sufficiently patching to protect against an active hacking campaign targeting Cisco firewalls.\nIn an updated advisory published Wednesday, CISA said that it was currently “tracking active exploitation” of two security flaws in Cisco’s Adaptive Security Appliance (ASA) software, which powers a range of enterprise-grade firewalls used by corporate giants and government agencies to protect their networks from malicious outsiders.\nCISA said the flaws have been abused by an “advanced” but as-yet-unnamed threat actor since September, which prompted the agency to issue its third emergency directive of the year, ordering agencies to patch their affected systems.\nWhile some federal agencies told the agency that they had patched their systems, CISA said some agencies were “still vulnerable” to the threats as outlined in the agency’s directive.\nThe agency did not say which government departments had been compromised, but urged all agencies with affected Cisco devices to update to the latest patch version to avoid exploitation.\nLast week, the Congressional Budget Office confirmed it had been hacked, allowing suspected foreign hackers to steal the agency’s emails and chat logs between lawmakers’ offices and the agency’s researchers.\nThe CBO, which offers economic analysis and information to lawmakers, would not say how the hackers got in, but security researcher Kevin Beaumont found that the CBO had an affected Cisco firewall that hadn’t been patched prior to the U.S. government shutdown on October 1. The CBO pulled the affected Cisco router offline shortly before disclosing the hack.\n\n\t\t\t\n\tTopics\n\n\n\n\t\tZack Whittaker is the security editor at TechCrunch. He also authors the weekly cybersecurity newsletter, this week in security. \nHe can be reached via encrypted message at zackwhittaker.1337 on Signal. You can also contact him by email, or to verify outreach, at zack.whittaker@techcrunch.com. \t\n\t\n\t\tView Bio \n\t\n\n\t\t",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "CISA warns federal agencies to patch flawed Cisco firewalls amid ‘active exploitation’ across the US government",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1474827705.jpg?w=150"
+      ],
+      "datePublished": "2025-11-13T16:45:36.000Z",
+      "dateModified": "2025-11-13T16:45:36.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Newsletter platform beehiiv adds AI website building, creator tools in major expansion",
+    "url": "https://techcrunch.com/2025/11/13/newsletter-platform-beehiiv-adds-ai-website-building-creator-tools-in-major-expansion/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/11/Tyler-Denk.jpg?w=150",
+    "tag": "Tech",
+    "date": "2025-11-13T18:50:00.000Z",
+    "description": "\n\t\n\t\tImage Credits:beehiiv\t\n\t\n\t\t\t\t\t\t10:50 AM PST · November 13, 2025\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nNewsletter platform beehiiv announced a massive expansion to its ",
+    "body": "\n\t\n\t\tImage Credits:beehiiv\t\n\t\n\t\t\t\t\t\t10:50 AM PST · November 13, 2025\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nNewsletter platform beehiiv announced a massive expansion to its platform on Thursday, including offering real-time analytics and AI website creation, among other things.  \nIn a video announcing the release, Tyler Denk, the co-founder and CEO of Beehiiv, said that what makes newsletter platforms powerful is ownership.  \n“Owning your audience, distribution, brand, and even your revenue potential,” he said. “In the age of AI and algorithms. Ownership isn’t just nice to have, it’s essential.” \nThe hope is to further give creators (and journalists) more control — and opportunities — to expand and grow their businesses on the platform.  \nThe full product expansion includes:  \n\n Allowing creators to sell digital products, such as ebooks, without beehiiv receiving commissions. Next year, creators will soon be able to sell courses and merchandise.   \n\n\nA feature that lets creators build websites using AI without the use of sophisticated code or developers. A version product was actually launched a few months ago and followed Beehiiv’s acquisition of the AI website builder Typedream last year.   Thursday’s announcement revealed the product now lets users build full websites by simply chatting with AI — or, vibe code a website. However, users don’t need to simply talk in words to the AI; they can also drag and drop images, for example, upload images or screenshots of other people’s websites to the AI, and have it recreate them.\n\n\nThe ability to host and release podcasts on a creator’s respective beehiive platform. This lets creators put their podcasts, newsletters, and websites under one platform, rather than having three separate ones.   \n\n\nReal-time analytics to track engagement and traffic, in addition to a breakdown of what channels drive the most users   \n\n\nOffering “link in bio,” so creators can link to other digital platforms, as well as their own beehiiv creations, without having to use a third-party link in bio company.   \n\n\nOffering professionally designed website templates, so that the website and newsletters look more high-quality. It’s also releasing newsletter templates so that websites and newsletters can have a cohesive brand look.   \n\n\nThe ability to audience segment — meaning creators can create specific content for specific segments of their audience. Creators can now group followers by location, age, or even gender.   \n\n\nAutomated workflows, for example, when a user subscribes, creators can set it up so that a welcome email is automatically sent to them. beehiiv started releasing features of automated workflows a few weeks ago.   \n\n\nEnhanced advertiser tools, including easier browsing of ad opportunities and seeing estimated payouts. Denk said that creators can upload assets, set a budget, and launch campaigns on the platform. Beehiiv also has a new ad dashboard, letting creators track the performance of their campaigns and build their own custom reports, he continued.   \n\n\nPaid subscriptions, without any fees taken by beehiive (it says it is the only platform that doesn’t take a cut of paid subscription revenue). The feature comes with subscription tiers and analytics.  \n\nBeehiiv now considers itself the first platform to encapsulate the entire content creation workflow, as users on the platform can “create, publish, grow, analyze, and monetize,” without fees, plugins, code, or giving up equity. In the video, Denk said that beehiiv is no longer just a newsletter platform, but rather the operating system for the creator economy. With this expansion, it hopes to compete with the likes of Lovable, WordPress, and Patreon.\nThe company was founded in 2021 and says that since then, it has sent more than 35 billion emails, with more than 55,000 creators on the platform, including Oliver Darcy with Status.  \n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nBeehiiv last raised a $33 million Series B in April 2024 with LightSpeed Venture Partners and NEA as investors.  \n\n\t\t\t\n\tTopics\n\n\n\n\t\tDominic-Madori Davis is a senior venture capital and startup reporter at TechCrunch. She is based in New York City.\r\nYou can contact or verify outreach from Dominic by emailing dominic.davis@techcrunch.com or via encrypted message at +1 646 831-7565 on Signal.\t\n\t\n\t\tView Bio \n\t\n\n\t\t",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Newsletter platform beehiiv adds AI website building, creator tools in major expansion",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/11/Tyler-Denk.jpg?w=150"
+      ],
+      "datePublished": "2025-11-13T18:50:00.000Z",
+      "dateModified": "2025-11-13T18:50:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Apple halves commissions for mini app makers",
+    "url": "https://techcrunch.com/2025/11/13/apple-halves-commissions-for-mini-app-makers/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/01/app-store-2024-v2.jpg?w=150",
+    "tag": "Tech",
+    "date": "2025-11-13T17:32:39.000Z",
+    "description": "\nApple announced on Thursday the launch of a new developer program, the Mini Apps Partner Program, which will offer a reduced commission rate of 15% o",
+    "body": "\nApple announced on Thursday the launch of a new developer program, the Mini Apps Partner Program, which will offer a reduced commission rate of 15% on in-app purchases for the mini applications.\nThe iPhone maker defines a mini app as a “self-contained” experience that’s built using web technologies like HTML5 and JavaScript, which are distributed within a larger, native app. The technology has been supported on the App Store for nearly a decade, but this is the first time it’s offered a reduced commission on mini app transactions.\nApple in 2017 added a rule to its App Review Guidelines, which lists the specific requirements for mini apps. In guideline 4.7, the company gives developers permission to run mini apps, mini games, streaming games, chatbots, plug-ins, and game emulators that offer software not in the main app’s binary. It also describes how they’re to process sensitive data or filter objectionable material, similar to native apps.\nTo qualify for the new Mini App program, Apple says the main app must be available on iOS or iPadOS and hosted on the App Store, and will need to follow the Apple Developer Program License Agreement and the existing App Review Guidelines, including those for mini apps.\nHowever, the program also adds the new requirements for the apps to support specific Apple technologies, including the Advanced Commerce API and Declared Age Rating API, which ensures apps offer age-appropriate content. They must also use Apple’s in-app purchase system and send information about a user’s in-app purchase to Apple when refunds are requested.\nApple positions the program as a way for developers who host mini apps and games to grow their business on the App Store. It also incentivizes developers to leverage Apple’s technologies, including its trust and safety tools, by offering the benefit of a reduced commission. That additional savings could allow the developers to re-invest in their own mini apps program.\nIn addition, it ensures that Apple will retain its ability to extract a commission from mini applications, even as the market evolves to offer new experiences. \nToday, there are a variety of native iOS apps that offer mini apps, including messengers like LINE or WeChat, or those that offer mini games, like Discord, for example. More recently, AI providers have begun moving into the mini app space. Notably, ChatGPT recently launched apps that run inside its chatbot, allowing users to engage with apps like Booking.com, Expedia, Spotify, Figma, Coursera, Zillow, and Canva. Some have theorized that this platform could eventually evolve to threaten the App Store’s business model if app engagement and transactions moved inside ChatGPT.\nBloomberg recently reported Apple and Tencent agreed to a 15% commission on mini apps in WeChat, but not that the program would be open to other developers.\nDevelopers who want to join Apple’s Mini Apps Partner Program can make a request, and then provide information about their host app, eligibility, and mini app. They also have to agree to the program’s terms and conditions. When their app is ready, they then have to submit it for review. (Apple already asks app developers to include a manifest that allows Apple to review the software and metadata included in the app, plus the links that lead to the mini apps it offers.)\nIn-app purchases inside mini apps qualify for the reduced commission if they are for digital goods and services, including consumable, non-consumable, auto-renewable subscriptions, and non-renewing subscriptions, Apple says.\n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Apple halves commissions for mini app makers",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2024/01/app-store-2024-v2.jpg?w=150"
+      ],
+      "datePublished": "2025-11-13T17:32:39.000Z",
+      "dateModified": "2025-11-13T17:32:39.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The 10 companies that just launched from Betaworks’ latest startup camp",
+    "url": "https://techcrunch.com/2025/11/13/the-10-companies-that-just-launched-from-betaworks-latest-startup-camp/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/11/Betaworks-Camp-Interfaces.jpg?w=150",
+    "tag": "Tech",
+    "date": "2025-11-13T17:06:13.000Z",
+    "description": "\nEarly-stage venture fund Betaworks announced the latest 10 companies launching from its prestigious Camp program, the 13-week biannual residence prog",
+    "body": "\nEarly-stage venture fund Betaworks announced the latest 10 companies launching from its prestigious Camp program, the 13-week biannual residence program launched in 2016 that has given way to names like Hugging Face and Graze Social. \nThe theme for this year’s Camp is Interfaces, as in companies that are designing products that impact how users experience AI. (Previous Camp themes focused on application layers and agents). Applications opened in June, and the camp began in August, with DemoDay being November 4. \nThese are the companies taking part in the 13th Betaworks Camp:\nNora — A browser extension, founded by Sid Banothu, that tracks shopping habits. \nPrimitive — A web app that lets people use voice to dump ideas that the platform then turns into a list of tasks and to-dos. The product, founded by Kasey Klimes, can also link with other productivity tools such as Notion and calendars. \nPatina — Founded by Sean Raspet and Laura Sisson, the company is working on olfactory technology to create “scent photographs,” through a combination of protein folding, scent receptors, and graph neural networks. \nMy Place, by Orange — A platform, founded by Helen Huang, that lets users play games that are realistic simulations of everyday human life. \n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nPutty (no website yet) — Though the company is still in stealth, Betaworks said it wanted to work with the founder, Kevin Chang, because he was “deeply engaged with concepts” the firm cared about, including “memory systems, ambient interfaces” and “technology fitted to the more sporadic rhythm of life.” \nTelepath — A computer built with AI and no apps, founded by Stephen Hood, Josh Whiting, and Rupert Manfredi. \nFeather — A digital assistant that helps create automated workflows for tedious tasks, like apartment hunting. It was founded by ShaoBo Zhang and Marco Yu. \nNubrain — Founded by Priyanka Jain and Ingo Marquardt, this company is creating EEG data (the test used to record the electrical activity of the brain) to help translate human thoughts into speech, text, and images. \nPresq — This platform, founded by Adam Saleh, Steve Burstyn, and Mikey Robins, lets influencers upload data to create prompt options that let them create manufacturable footwear. It plans to soon expand to other product areas, like eyewear and home goods.\nIntension — Founded by Conor Sanchez O’Shea and Gabriel Duemichen, this company helps people focus while working on a desktop by removing from sight anything that operates as a distraction. It tracks users’ attention and maps out the workflow habits of those working on desktops. \nThis story was updated to clarify what Presq does.\n\n\n\t\tDominic-Madori Davis is a senior venture capital and startup reporter at TechCrunch. She is based in New York City.\r\nYou can contact or verify outreach from Dominic by emailing dominic.davis@techcrunch.com or via encrypted message at +1 646 831-7565 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "The 10 companies that just launched from Betaworks’ latest startup camp",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/11/Betaworks-Camp-Interfaces.jpg?w=150"
+      ],
+      "datePublished": "2025-11-13T17:06:13.000Z",
+      "dateModified": "2025-11-13T17:06:13.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Police take down three cybercrime operations in latest round of ‘whack-a-mole’",
+    "url": "https://techcrunch.com/2025/11/13/police-take-down-three-cybercrime-operations-in-latest-round-of-whack-a-mole/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/11/europol-operation-endgame-rhadamanthys.jpg?w=150",
+    "tag": "Tech",
+    "date": "2025-11-13T17:25:47.000Z",
+    "description": "\nAn international coalition of law enforcement agencies coordinated by Europol targeted and took down three cybercrime operations in its latest round ",
+    "body": "\nAn international coalition of law enforcement agencies coordinated by Europol targeted and took down three cybercrime operations in its latest round of what authorities call “Operation Endgame.”\nIn a press release, Europol said that the police operation targeted the infostealing malware Rhadamanthys, a botnet called Elysium, and the remote access trojan VenomRAT. The authorities say all three “played a key role in international cybercrime.” Police seized more than 1,000 servers as part of the operation. \nEuropol said police arrested the unnamed “main suspect” behind VenomRAT in Greece on November 3.\n“The dismantled malware infrastructure consisted of hundreds of thousands of infected computers containing several million stolen credentials,” the press release read. “Many of the victims were not aware of the infection of their systems.”\nAccording to Europol, the main suspect behind Rhadamantys had access to over 100,000 crypto wallets, “potentially worth millions of euros.”\nAs an infostealer, Rhadamantys is designed to steal various kinds of information from infected devices, including passwords and cryptocurrency wallet keys. Rhadamantys spiked in popularity in October after authorities took down the popular infostealer Lumma earlier in the year, showing that after takedowns, criminals adapt by using different hacking tools that might be less known at the time.\nWhen Rhadamantys launched in 2022, it initially relied on spreading through malicious Google advertisements, and later grew thanks to word-of-mouth on underground forums, according to Lumen’s Black Lotus Labs, one of the cybersecurity industry partners in Operation Endgame. \n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThe firm wrote in a blog post that Rhadamantys had a “dramatic uptick” and a “consistent rise in the number of victims” after the Lumma takedown, making it “the largest information-stealer malware by volume.” In October, the infostealer had compromised more than 12,000 victims, according to the firm.\nRyan English, a researcher at Black Lotus Labs, told TechCrunch that Rhadamantys “emerged as the ‘next’ go-to infostealer” after Lumma went down.\n“We know that others will take their place, so we just keep tracking to see who’s emerging from that,” said English, adding that law enforcement and the wider industry “can only do so much at any time.” \n“So in a very real sense, it’s whack-a-mole forever,” said English.\n\n\n\t\tLorenzo Franceschi-Bicchierai is a Senior Writer at TechCrunch, where he covers hacking, cybersecurity, surveillance, and privacy. \nYou can contact or verify outreach from Lorenzo by emailing lorenzo@techcrunch.com, via encrypted message at +1 917 257 1382 on Signal, and @lorenzofb on Keybase/Telegram.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Police take down three cybercrime operations in latest round of ‘whack-a-mole’",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/11/europol-operation-endgame-rhadamanthys.jpg?w=150"
+      ],
+      "datePublished": "2025-11-13T17:25:47.000Z",
+      "dateModified": "2025-11-13T17:25:47.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Facebook Marketplace gets new collaborative and social features, Meta AI integrations",
+    "url": "https://techcrunch.com/2025/11/13/facebook-marketplace-gets-new-collaborative-and-social-features-meta-ai-integrations/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/03/facebook-logo-on-phone.jpg?w=150",
+    "tag": "Tech",
+    "date": "2025-11-13T17:00:00.000Z",
+    "description": "\nMeta is overhauling Facebook Marketplace with new collaborative tools, social features, an improved checkout experience, and Meta AI integrations, th",
+    "body": "\nMeta is overhauling Facebook Marketplace with new collaborative tools, social features, an improved checkout experience, and Meta AI integrations, the company announced Thursday.\nMarketplace is getting a new “collections” feature that lets users create groups of listings and invite friends to join. Users can get started by saving a listing, starting a new collection, and then choosing whether to make it public or private. They can then add friends to their collection and share updates through Feed, Messenger, WhatsApp, and more. \nMeta’s also testing collaborative buying, which means users can invite a friend to join their chat with a seller. The company says this makes it easier to coordinate pickup, negotiate prices, and get answers to questions.\nImage Credits:Meta\nThese new collaborative features could be useful in instances when a group of roommates is looking to furnish their new apartment or when someone wants to keep their partner in the loop when discussing potential purchases. \nWhile Meta says the changes announced on Thursday are designed to make Marketplace more useful, they also mark the company’s ongoing efforts to bring Meta AI into all of its services and products. Additionally, by blending social, commerce, and AI, the company is looking to boost time spent on Marketplace while also enhancing its competitiveness against other e-commerce platforms.\nIn terms of the Meta AI integrations, Meta is going to start using its AI tools to help buyers ask the right questions when making a purchase. Now, when users start a chat with a seller, they will see a “Suggested questions to ask” button. If they tap it, Meta AI will use the details from the listing and the conversation to suggest questions they might want to ask.\nAdditionally, Meta is bringing AI insights to vehicle listings on Marketplace, noting that vehicles are among the top five searches for young adults. Now, when users view a vehicle listing, they’ll see AI-generated insights that bring together key details like engine options, safety ratings, transmission type, seating and cargo capacity, reviews, and price information.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nImage Credits:Meta\nMeta also announced that users can react and comment directly on listings. The company says this will help others learn about item quality and discover new finds. It’ll be interesting to see how people react to this change, as Marketplace has had a simple design since its launch. Some might find the addition of reactions and comments as distracting, or even cluttering the service.\nMeta notes that if a user likes an item, Marketplace will learn what they’re interested in and display more items aligned with their preferences.\nAs part of its announcement, Meta said it began integrating eBay and Poshmark inventory into Marketplace earlier this year to give people more options when it comes to buying across categories like fashion and electronics.\n“Partner listings are marked with an icon on the listing image, and are integrated throughout your Marketplace feed so you’ll see them while you’re browsing,” Meta explained in a blog post. “You can also see the listing and seller’s information on the Marketplace product details page, and when you’re ready to buy, you’ll be taken to the partner’s site for checkout.”\nAs for the improved checkout experience, buyers will now see total costs, including shipping and tax, upfront. They’ll now also receive notifications as the status of their order changes. \n\n\n\t\tAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing aisha@techcrunch.com or via encrypted message at aisha_malik.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Facebook Marketplace gets new collaborative and social features, Meta AI integrations",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/03/facebook-logo-on-phone.jpg?w=150"
+      ],
+      "datePublished": "2025-11-13T17:00:00.000Z",
+      "dateModified": "2025-11-13T17:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Firefighters received chemical burns at Elon Musk’s Boring Company construction site",
+    "url": "https://techcrunch.com/2025/11/13/firefighters-received-chemical-burns-at-elon-musks-boring-company-construction-site/",
+    "image": "https://techcrunch.com/wp-content/uploads/2019/05/Boring-tunnel_-2.jpg?w=150",
+    "tag": "Tech",
+    "date": "2025-11-13T16:32:14.000Z",
+    "description": "\nFirefighters performing a safety drill at one of The Boring Company’s construction sites in Las Vegas received burns from chemicals used in the tunne",
+    "body": "\nFirefighters performing a safety drill at one of The Boring Company’s construction sites in Las Vegas received burns from chemicals used in the tunnel excavation process, according to a new report from Fortune.\nThose Clark County firefighters weren’t previously made aware of the potential hazard but were permanently scarred, the report states. Employees working on The Boring Company’s tunnels have also received similar chemical burns.\nThe Boring Company has been digging tunnels in Las Vegas for a few years in an attempt to connect the entire city with a subterranean network that uses Teslas to shuttle people. It’s the first effort to create a watered-down version of Elon Musk’s dream to build underground transportation, which once included fanciful ideas like hyperloops and larger people-movers.\nBut the project has been plagued by safety concerns and injuries since its inception. In September, the company even briefly halted work after an employee suffered a “crushing injury.” \nBoring Company employees have been receiving burns from the chemical — an accelerant that the company uses to harden the concrete tunnel walls — for years, according to prior reporting from Fortune’s Jessica Mathews.\nIn late 2024, the Clark County Fire Department (CCFD) started conducting emergency rescue drills at the tunnels. During prep work ahead of the drills, though, firefighters appear to have not learned about the potential to be burned by the chemical, which mixes with groundwater and dirt and forms pools of muck.\nWhile employees reportedly tried to clear the muck before the drills, they weren’t able to get rid of all of it. Firefighters reported irritations on their legs because their “boots were full of muck” and were taken to a nearby hospital to be treated for chemical burns. Nevada’s Occupational Safety and Health Administration (OSHA) opened an investigation.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThe Boring Company blamed the firefighters. “The key breakdowns in the Training Plan were committed by CCFD employees, not TBC employees,” a lawyer for The Boring Company wrote to Nevada OSHA.\nNevada OSHA still issued three “willful” citations (its most serious level) to The Boring Company in May over the incident and proposed fines of $425,595.\nThat same day, Boring Company president Steve Davis — a top Musk lieutenant and one of the leaders of the billionaire’s Department of Government Efficiency — called the Nevada governor’s office. Records show he spoke with the governor’s state infrastructure lead, a former Tesla employee. The next day, high-level Nevada officials met with Davis and Boring Company representatives.\nThe meeting was a highly unusual break from the normal citation-and-appeals process, former OSHA officials told Fortune. Regardless, Nevada OSHA withdrew the citations.\nWhat’s more, Nevada OSHA didn’t properly document the removal of the citations — something a rep for the state agency admitted to Fortune. And a document in the case file was altered to remove evidence of the meeting between The Boring Company leaders and the governor’s office. The meeting information was added back after Fortune pointed out the change.\n\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Firefighters received chemical burns at Elon Musk’s Boring Company construction site",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2019/05/Boring-tunnel_-2.jpg?w=150"
+      ],
+      "datePublished": "2025-11-13T16:32:14.000Z",
+      "dateModified": "2025-11-13T16:32:14.000Z",
       "author": [
         {
           "@type": "Person",
@@ -81,7 +331,7 @@
     "tag": "Tech",
     "date": "2025-11-13T16:00:00.000Z",
     "description": "\nFor the last two years, LinkedIn has tried to infuse AI into different parts of its platforms, including ad copies, content creation, personalized di",
-    "body": "\nFor the last two years, LinkedIn has tried to infuse AI into different parts of its platforms, including ad copies, content creation, personalized digests, hiring assistance, job hunting advice, and learning. The company is now finally adding AI to one of the most used parts of the site: search.\nEarlier this year, the company released a job search tool for members in the U.S., allowing them to search for jobs using natural language queries. Now, the company is extending the feature to people search.\nUsers can use queries like “Find me investors in the healthcare sector with FDA experience,” people who “co-founded a productivity company and are based in NYC,” or “Who in my network can help me understand wireless networks.”\nImage Credits: LinkedIn\nUntil now, LinkedIn’s search has been more complicated. You can type in a few words to find the right people or rely on many different LinkedIn filters in the hope of getting the right results. Plus, you also have to think about what kinds of words you might want to use to get the best out of the search system.\n“With lexical search, you have to know the exact title of the person, or you need to wrestle with filters to find the right person, maybe. And if you didn’t know the right combination, the right person remained undiscovered. The new AI-powered people search is designed to be the fastest path to the person who can help you the most,” Rohan Rajiv, senior director of product management at LinkedIn, told TechCrunch over a call.\nThe company said in its early testing, it has seen people use this to find others who can help them with their next job opportunity, expand their business, or boost their career prospects.\nSearch has been one area where all internet platforms have been rushing to add AI. Seeing people gravitate towards chatbots like ChatGPT and Perplexity for answers, incumbent search engines like Google, Bing, Brave, and DuckDuckGo have added AI-powered answers. There are plenty of startups working on AI-powered people search as well. Reddit has also leaned heavily into AI-powered search and locked down its platform’s data, asking other companies to sign a licensing agreement for AI training and usage.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nLinkedIn is one of the most used sites in AI demos for AI agents, browsers, and assistants. However, the Microsoft-owned company has not put restrictions on its data just yet.\n“I think we are still early in this age of browsers and how they are working on behalf of people. I think over time, we will have a more sturdy policy [around browsers],” Rajiv said.\n“On a broader note, I have seen a lot of demos that try to reason over a person’s LinkedIn network. This is sort of an area where I think it is going to be hard to find a substitute for the real thing because this is the worst the search has ever been.”\nImage Credits: LinkedIn\nLinkedIn is rolling out AI-powered people search to premium users in the U.S. with plans to expand it to other geographies in the coming months. People who will have access to this feature will see “I’m looking for…” in the search bar instead of “Search.”\nThe search is not perfect. You will get different results when you use a query like “people who co-founded a YC startup” as compared to using “Y Combinator” in the query. Also, when you search for “people who co-founded a voice AI startup,” some folks who have a LinkedIn top voice badge show up. \nThe company said it is working on improving the way the search tool understands the query.\n\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "body": "\nFor the last two years, LinkedIn has tried to infuse AI into different parts of its platforms, including ad copies, content creation, personalized digests, hiring assistance, job hunting advice, and learning. The company is now finally adding AI to one of the most-used parts of the site: search.\nEarlier this year, the company released a job search tool for members in the U.S., allowing them to search for jobs using natural language queries. Now, the company is extending the feature to people search.\nUsers can use queries like “Find me investors in the healthcare sector with FDA experience,” people who “co-founded a productivity company and are based in NYC,” or “Who in my network can help me understand wireless networks.”\nImage Credits:LinkedIn\nUntil now, LinkedIn’s search has been more complicated. You can type in a few words to find the right people or rely on many different LinkedIn filters in the hope of getting the right results. Plus, you also have to think about what kinds of words you might want to use to get the best out of the search system.\n“With lexical search, you have to know the exact title of the person, or you need to wrestle with filters to find the right person, maybe. And if you didn’t know the right combination, the right person remained undiscovered. The new AI-powered people search is designed to be the fastest path to the person who can help you the most,” Rohan Rajiv, senior director of product management at LinkedIn, told TechCrunch over a call.\nThe company said in its early testing, it has seen people use this to find others who can help them with their next job opportunity, expand their business, or boost their career prospects.\nSearch has been one area where all internet platforms have been rushing to add AI. Seeing people gravitate toward chatbots like ChatGPT and Perplexity for answers, incumbent search engines like Google, Bing, Brave, and DuckDuckGo have added AI-powered answers. There are plenty of startups working on AI-powered people search as well. Reddit has also leaned heavily into AI-powered search and locked down its platform’s data, asking other companies to sign a licensing agreement for AI training and usage.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nLinkedIn is one of the most used sites in AI demos for AI agents, browsers, and assistants. However, the Microsoft-owned company has not put restrictions on its data just yet.\n“I think we are still early in this age of browsers and how they are working on behalf of people. I think over time, we will have a more sturdy policy [around browsers],” Rajiv said.\n“On a broader note, I have seen a lot of demos that try to reason over a person’s LinkedIn network. This is sort of an area where I think it is going to be hard to find a substitute for the real thing because this is the worst the search has ever been.”\nImage Credits:LinkedIn\nLinkedIn is rolling out AI-powered people search to premium users in the U.S. with plans to expand it to other geographies in the coming months. People who will have access to this feature will see “I’m looking for…” in the search bar instead of “Search.”\nThe search is not perfect. You will get different results when you use a query like “people who co-founded a YC startup” as compared to using “Y Combinator” in the query. Also, when you search for “people who co-founded a voice AI startup,” some folks who have a LinkedIn top voice badge show up.\nThe company said it is working on improving the way the search tool understands the query.\n\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
@@ -100,272 +350,22 @@
     }
   },
   {
-    "title": "EU launches antitrust probe into how Google’s anti-spam policy affects publishers’ search rankings",
-    "url": "https://techcrunch.com/2025/11/13/eu-launches-antitrust-probe-into-how-googles-anti-spam-policy-affects-publishers-search-rankings/",
-    "image": "https://techcrunch.com/wp-content/uploads/2017/06/google-vs-eu.jpg?w=150",
+    "title": "After 5 months, the $1,200 bottles of Besties All-In tequila are finally starting to ship",
+    "url": "https://techcrunch.com/2025/11/13/after-5-months-the-1200-bottles-of-besties-all-in-tequila-are-finally-starting-to-ship/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/11/The-Besties-All-In-Tequila.png?w=150",
     "tag": "Tech",
-    "date": "2025-11-13T14:43:37.000Z",
-    "description": "\nThe European Commission has launched an investigation into how Google is implementing its “site reputation abuse policy” and its impact on publishers",
-    "body": "\nThe European Commission has launched an investigation into how Google is implementing its “site reputation abuse policy” and its impact on publishers.\nThe Commission said on Thursday that it had found signs that Google is using the policy to push news media and other publishers’ websites and content lower in search rankings when they include content from their business partners, and that the policy “appears to directly impact a common and legitimate way for publishers to monetise their websites and content.”\nThe EC is now investigating if Google’s policy impacts publishers’ “freedom to conduct legitimate business, innovate, and cooperate with third-party content providers.” \nAccording to Google’s page on the policy, the measures are aimed at curbing websites that seek to manipulate search rankings by publishing other websites’ content on their site in an attempt to take advantage of their high ranking signal. \n“Unfortunately, the investigation announced today into our anti-spam efforts is misguided and risks harming millions of European users,” Pandu Nayak, chief scientist of Search at Google, wrote in a blog post on Thursday. “And the investigation is without merit: a German court has already dismissed a similar claim, ruling that our anti-spam policy was valid, reasonable, and applied consistently.”\n“Google’s anti-spam policy is essential to how we fight deceptive pay-for-play tactics that degrade our results,” he added. “Our anti-spam policy helps level the playing field, so that websites using deceptive tactics don’t outrank websites competing on the merits with their own content.”\nIf the investigation yields proof that Google infringed the European Union’s Digital Markets Act (DMA), the Commission can charge fines worth up to 10% of Alphabet’s global annual turnover. And if the Commission finds that the infringement is systematic, it can also impose remedies, which can include forced divestiture of businesses, or banning the company from making acquisitions related to the infringement.\nThe European Commission in 2023 designated Google Search as a “core platform service” under the DMA, which gives the bloc’s executive arm extra powers to regulate the tech giant. Google Search is already under a separate investigation for breaching DMA rules related to self-preferential treatment of its own services.\n\n\n\t\tRam is a financial and tech reporter and editor. He covered North American and European M&A, equity, regulatory news and debt markets at Reuters and Acuris Global, and has also written about travel, tourism, entertainment and books.\nYou can contact or verify outreach from Ram by emailing ram.iyer@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2025-11-13T18:39:52.000Z",
+    "description": "\nWhen the hosts of the popular All-In podcast launched their own tequila brand at a star-studded party last June, all 750 bottles of the $1,200 spirit",
+    "body": "\nWhen the hosts of the popular All-In podcast launched their own tequila brand at a star-studded party last June, all 750 bottles of the $1,200 spirit quickly sold out. But getting those bottles into customers’ hands has proven harder than expected.\nThe long-awaited bottles of Besties All-In tequila began shipping last week to those who ordered them, ending a nearly five-month-long wait, Jason Calacanis, one of the podcast’s hosts, told TechCrunch. \nThe holdup was the unusual bottle, Calacanis said: “Handcrafted bottles took a bit longer to create than expected, but the bottles started shipping last week!” The bottle was designed as a collector item and looks like a stack of poker chips illuminated from the bottom. It gives homage to poker, another of the podcast hosts’ favorite pastimes besides drinking tequila.\nBuyers were told at that time that they could expect delivery by the end of summer. But summer came and went. The customers not only dished out the $1,200 but also paid taxes and other fees.  \nA TechCrunch reader told us that delivery was repeatedly delayed: pushed back to October, then November, and most recently, one person was told the delivery would be “after November,” according to a letter seen by TechCrunch from the distributor Flaviar, the spirits marketplace handling distribution.\nBoth the product’s official website and Flaviar’s communications reflected the shifting timeline — the website originally promised end-of-summer delivery but now says shipments will “begin in November.” The Flaviar letter indicated that deliveries were happening in batches.\nWhile it’s still not clear how long it will take the distributor to fulfill all orders, we at least know that shipments have begun and what the holdup was. With any luck, fans of the VCs, pod bros, and “besties” who host All-In will be sipping on the pricey, handcrafted liquor during the upcoming holiday season.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nFlaviar has not yet responded to our request for comment.  \n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "EU launches antitrust probe into how Google’s anti-spam policy affects publishers’ search rankings",
+      "headline": "After 5 months, the $1,200 bottles of Besties All-In tequila are finally starting to ship",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2017/06/google-vs-eu.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2025/11/The-Besties-All-In-Tequila.png?w=150"
       ],
-      "datePublished": "2025-11-13T14:43:37.000Z",
-      "dateModified": "2025-11-13T14:43:37.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Spotify introduces a Premium Platinum plan with lossless access in five markets",
-    "url": "https://techcrunch.com/2025/11/13/spotify-introduces-a-premium-platinum-plan-with-lossless-access-in-five-markets/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/11/blog-header.jpg?w=150",
-    "tag": "Tech",
-    "date": "2025-11-13T14:20:00.000Z",
-    "description": "\nSpotify is shaking up its premium offering and introducing new tiers called Premium Lite, Premium Standard, and Premium Platinum in five markets, inc",
-    "body": "\nSpotify is shaking up its premium offering and introducing new tiers called Premium Lite, Premium Standard, and Premium Platinum in five markets, including India, Indonesia, the United Arab Emirates, Saudi Arabia, and South Africa. \nPrior to this change, in markets like India, Spotify offered Premium Standard, Duo (for two people), and Family plans for six people, with features like ad-free listening, offline support, and high-quality audio. The new Premium tiers will offer these features in different configurations, based on the plan.\nFor instance, the Premium Lite plan priced at ₹139 per month ($1.57) will get ad-free listening and 160kbps audio quality. The Premium Standard plan, priced at ₹199 per month($2.25), has offline support and 320kbps audio quality. The most costly Premium Platinum plan at ₹299 ($3.37) per month will give users access to the newly launched Lossless tier, along with two other seats that can share the account.\nImage Credits: Spotify\nThe Platinum plan also gives users access to Spotify’s AI DJ feature that provides commentary while playing songs and lets you make requests. And it offers access to the audio platform’s AI-powered playlist creation tool. \nIn September, Spotify announced integration with AI software like rekordbox, Serato, and djay, to import users’ libraries to create sets and mixes. The Platinum tier will allow users to access this integration, as well.\nNotably, these features have existed in other markets such as North America and Europe for some time. But the five countries where Spotify is launching these new premium tiers are gaining access to some of these features for the first time.\nMultiple reports over the past few years have hinted at the company introducing a “super premium” plan with access to the lossless tier. While at the moment, this plan exists only for select markets, the company could extend it globally to all markets, putting lossless into the highest tier. (At the moment, all Premium users in more than 50 countries can experience tracks at 24-bit/44.1 kHz FLAC quality.)\nThe company said that if users have an existing account, their subscription will carry over. However, new subscribers won’t be able to pay for the old Duo or the Family plan and will have to choose one of the new plans instead.\nFor new subscribers in India, Spotify is increasing the subscription prices while reducing some of the benefits users got in the previous Premium plan. The Standard individual plan currently costs ₹139 ($1.57) per month, which is the price of the new Lite plan. The Family plan costs ₹229 ($2.58) per month with inclusion for six members. Account sharing is only possible with the new Platinum plan that costs ₹299 ($3.37) and allows for the inclusion of three users. Users who might not care about lossless streaming or AI features won’t have any option.\nThe company has made changes to its pricing plans in other markets as well. In the last two years, it has bumped the U.S. pricing from $9.99 to $11.99 per month across two $1 jumps.\n\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Spotify introduces a Premium Platinum plan with lossless access in five markets",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/11/blog-header.jpg?w=150"
-      ],
-      "datePublished": "2025-11-13T14:20:00.000Z",
-      "dateModified": "2025-11-13T14:20:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Spotify adds a new, less repetitive shuffle, plus audiobook recaps",
-    "url": "https://techcrunch.com/2025/11/13/spotify-adds-a-new-less-repetitive-shuffle-plus-audiobook-recaps/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/11/25_1001-ShuffleLaunch-FTRHeader.jpeg?w=150",
-    "tag": "Tech",
-    "date": "2025-11-13T13:30:00.000Z",
-    "description": "\nMusic streaming service Spotify said it is introducing a new shuffle option that repeats fewer suggested songs.\nThe company originally launched Smart",
-    "body": "\nMusic streaming service Spotify said it is introducing a new shuffle option that repeats fewer suggested songs.\nThe company originally launched Smart Shuffle for paid users in 2023, a feature that added new songs to a playlist’s queue based on users’ previously played songs and their preferences. Users previously could not disable this feature.\nWith this new update, the company is making shuffle with fewer repeats the default for paid users. This means users will hear fewer songs from their recent listening history and more new songs.\nIf they want the standard Smart Shuffle, they can go to Settings > Playback and choose the “Standard” option under the Shuffle Mode section.\nSpotify added that both free and premium users can tap any song to play next while shuffling without rearranging the queue. \nLauren Saunders, product director for personalization at Spotify, said that shuffle follows randomness, which means there is a higher probability of listening to the same songs again.\n“That’s the thing about real randomness: It can be clumpy. Just like you can roll three sixes in a row, a purely random shuffle might never seem to play the song you’re hoping for, or it might stack the same artist or album closer together than your brain expects. The math is right, but the feeling is wrong,” Saunders said.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n“Instead of giving you one random order and calling it a day, we now generate hundreds of truly random versions of your playlist. Then we score each one for freshness, looking at how recently you’ve played certain songs, how much variety is packed into the opening stretch, and whether you’re getting repeats too soon,” she said about the new approach to shuffle.\nAlong with this feature, Spotify is also releasing an AI-powered recap feature for audiobooks to let users catch up on a story to the point where they stopped listening. Users will see a recap button at the top of the audiobook’s page, which will play a summary of the story so far.\nImage Credits: Spotify\nSpotify said that the recaps will show up after users have listened to at least 15-20 minutes of a book and are regularly updated as they progress. It added that Spotify is not using audiobook content to train models, and recaps don’t replicate the original narration.\nThe feature is currently available on iOS in beta for a selection of English-language titles.\n\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Spotify adds a new, less repetitive shuffle, plus audiobook recaps",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/11/25_1001-ShuffleLaunch-FTRHeader.jpeg?w=150"
-      ],
-      "datePublished": "2025-11-13T13:30:00.000Z",
-      "dateModified": "2025-11-13T13:30:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Elon Musk’s X botched its security key switchover, locking users out",
-    "url": "https://techcrunch.com/2025/11/12/elon-musks-x-botched-its-security-key-switchover-locking-users-out/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/07/x-twitter-1.jpg?w=150",
-    "tag": "Tech",
-    "date": "2025-11-12T19:40:08.000Z",
-    "description": "\n\t\n\t\tImage Credits:(Collage TechCrunch) / Getty Images\t\n\t\n\t\t\t\t\t\t11:40 AM PST · November 12, 2025\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nWe’re seeing reports across social me",
-    "body": "\n\t\n\t\tImage Credits:(Collage TechCrunch) / Getty Images\t\n\t\n\t\t\t\t\t\t11:40 AM PST · November 12, 2025\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nWe’re seeing reports across social media that users of Elon Musk’s X are getting stuck in endless loops and, in some cases, getting locked out of their X account, following a mandatory two-factor security change that seems to have gone wrong.\nOn October 24, X said in a post that it was asking users who rely on passkeys or hardware security keys (such as YubiKeys) as their method of two-factor authentication to re-enroll using the x.com domain. (Users who use an authenticator app are unaffected.)\nX said this was part of an effort to retire the older twitter.com domain, which currently redirects to x.com. That change took effect in May 2024. The problem is that passkeys and security keys are digitally tied to the old twitter.com domain and can’t be transferred to x.com. That means users have to manually un-enroll and re-enroll using the new x.com domain.\nAs part of the switchover, X warned that after November 10, customers would have their accounts locked until they re-enroll or choose another method of two-factor authentication. \nNow that the deadline has passed, plenty of users are reporting that they’ve been locked out of their accounts and can’t re-enroll their passkey or security key, citing error messages or getting caught in an endless loop.\nThis is the latest issue to beset X, now owned by Elon Musk after he bought Twitter, as it was known then, for $44 billion. Since taking charge of the social networking site, the company has experienced massive layoffs and countless controversies.\nX did not respond to a request for comment, but Musk, who now owns X, has been posting as usual, presumably unaffected by the change.\n\n\t\t\t\n\tTopics\n\n\n\n\t\tZack Whittaker is the security editor at TechCrunch. He also authors the weekly cybersecurity newsletter, this week in security. \nHe can be reached via encrypted message at zackwhittaker.1337 on Signal. You can also contact him by email, or to verify outreach, at zack.whittaker@techcrunch.com. \t\n\t\n\t\tView Bio \n\t\n\n\t\t",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Elon Musk’s X botched its security key switchover, locking users out",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2023/07/x-twitter-1.jpg?w=150"
-      ],
-      "datePublished": "2025-11-12T19:40:08.000Z",
-      "dateModified": "2025-11-12T19:40:08.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Google’s SIMA 2 agent uses Gemini to reason and act in virtual world",
-    "url": "https://techcrunch.com/2025/11/13/googles-sima-2-agent-uses-gemini-to-reason-and-act-in-virtual-world/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/11/Blog-header-sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds@2x.png?w=150",
-    "tag": "Tech",
-    "date": "2025-11-13T16:15:47.000Z",
-    "description": "\nGoogle DeepMind shared on Thursday a research preview of SIMA 2, the next generation of its generalist AI agent that integrates the language and reas",
-    "body": "\nGoogle DeepMind shared on Thursday a research preview of SIMA 2, the next generation of its generalist AI agent that integrates the language and reasoning powers of Gemini, Google’s large language model, to move beyond simply following instructions to understanding and interacting with its environment. \nLike many of DeepMind’s projects, including AlphaFold, the first version of SIMA was trained on hundreds of hours of video game data to learn how to play multiple 3D games like a human, even some games it wasn’t trained on. SIMA 1, unveiled in March 2024, could follow basic instructions across a wide range of virtual environments, but it only had a 31% success rate for completing complex tasks, compared to 71% for humans.   \n“SIMA 2 is a step change and improvement in capabilities over SIMA 1,” Joe Marino, senior research scientist at DeepMind, said in a press briefing. “It’s a more general agent. It can complete complex tasks in previously unseen environments. And it’s a self-improving agent. So it can actually self-improve based on its own experience, which is a step towards more general-purpose robots and AGI systems more generally.”\nDeepMind says SIMA 2 doubles the performance of SIMA 1.Image Credits:Google DeepMind\nSIMA 2 is powered by the Gemini 2.5 flash-lite model, and AGI refers to artificial general intelligence, which DeepMind defines as a system capable of a wide range of intellectual tasks with the ability to learn new skills and generalize knowledge across different areas. \nWorking with so-called “embodied agents” is crucial to generalized intelligence, DeepMind’s researchers say. Marino explained that an embodied agent interacts with a physical or virtual world via a body – observing inputs and taking actions much like a robot or human would – whereas a non-embodied agent might interact with your calendar, take notes, or execute code. \nJane Wang, a research scientist at DeepMind with a background in neuroscience, told TechCrunch that SIMA 2 goes far beyond gameplay. \n“We’re asking it to actually understand what’s happening, understand what the user is asking it to do, and then be able to respond in a common-sense way that’s actually quite difficult,” Wang said. \n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nBy integrating Gemini, SIMA 2 doubled its predecessor’s performance, uniting Gemini’s advanced language and reasoning abilities with the embodied skills developed through training.\nMarino demoed SIMA 2 in No Man’s Sky, where the agent described its surroundings – a rocky planet surface – and determined its next steps by recognizing and interacting with a distress beacon. SIMA 2 also uses Gemini to reason internally. In another game, when asked to walk to the house that’s the color of a ripe tomato, the agent showed its thinking – ripe tomatoes are red, therefore I should go to the red house – then found and approached it.\nBeing Gemini-powered also means SIMA 2 follows instructions based on emojis: “You instruct it 🪓🌲, and it’ll go chop down a tree,” Marino said. \nMarino also demonstrated how SIMA 2 can navigate newly generated photorealistic worlds produced by Genie, DeepMind’s world model, correctly identifying and interacting with objects like benches, trees, and butterflies. \nDeepMind says SIMA 2 is a self-improving agent.Image Credits:Google DeepMind\nGemini also enables self-improvement without much human data, Marino added. Where SIMA 1 was trained entirely on human gameplay, SIMA 2 uses it as a baseline to provide a strong initial model. When the team puts the agent into a new environment, it asks another Gemini model to create new tasks and a separate reward model to score the agent’s attempts. Using these self-generated experiences as training data, the agent learns from its own mistakes and gradually performs better, essentially teaching itself new behaviors through trial and error as a human would, guided by AI-based feedback instead of humans.\nDeepMind sees SIMA 2 as a step toward unlocking more general-purpose robots.\n“If we think of what a system needs to do to perform tasks in the real world, like a robot, I think there are two components of it,” Frederic Besse, senior staff research engineer at DeepMind, said during a press briefing. “First, there is a high-level understanding of the real world and what needs to be done, as well as some reasoning.”\nIf you ask a humanoid robot in your house to go check how many cans of beans you have in the cupboard, the system needs to understand all of the different concepts – what beans are, what a cupboard is – and navigate to that location. Besse says SIMA 2 touches more on that high-level behavior than it does on lower-level actions, which he refers to as controlling things like physical joints and wheels.\nThe team declined to share a specific timeline for implementing SIMA 2 in physical robotics systems. Besse told TechCrunch that DeepMind’s recently unveiled robotics foundation models – which can also reason about the physical world and create multi-step plans to complete a mission – were trained differently and separately from SIMA. \nWhile there’s also no timeline for releasing more than a preview of SIMA 2, Wang told TechCrunch the goal is to show the world what DeepMind has been working on and see what kinds of collaborations and potential uses are possible.\n\n\n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Google’s SIMA 2 agent uses Gemini to reason and act in virtual world",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/11/Blog-header-sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds@2x.png?w=150"
-      ],
-      "datePublished": "2025-11-13T16:15:47.000Z",
-      "dateModified": "2025-11-13T16:15:47.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Sam Atlman-backed Exowatt wants to power AI data centers with billions of hot rocks",
-    "url": "https://techcrunch.com/2025/11/13/sam-atlman-backed-exowatt-wants-to-power-ai-data-centers-with-billions-of-hot-rocks/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/11/P3-Modules-at-data-center.jpg?w=150",
-    "tag": "Tech",
-    "date": "2025-11-13T15:30:00.000Z",
-    "description": "\nWhen Hannan Happi started thinking about how to solve the AI power crisis, he kept one figure in mind: one cent per kilowatt-hour.\n“We went through a",
-    "body": "\nWhen Hannan Happi started thinking about how to solve the AI power crisis, he kept one figure in mind: one cent per kilowatt-hour.\n“We went through all sorts of configurations and designs,” Happi, co-founder and CEO of Exowatt, told TechCrunch. “They all look different from each other. We tried to learn from everyone one of them: How do I reduce structural costs? How do I reduce maintenance costs? How do I optimize for this?”\nAfter years of brainstorming and building, Exowatt’s first step toward that goal is a simple box the size of a shipping container topped with a clear awning. Inside is similarly simple. If Exowatt can deliver on its promise of delivering cheap solar power that generates electricity 24-7, it could upend the data center market and broader energy world, delivering round-the-clock power at very low cost.\nTo scale production in pursuit of the one-cent per kWh target, Exowatt has raised an additional $50 million in an extension to its $70 million Series A round that closed in April, TechCrunch has exclusively learned. \nThe extension was led by MVP Ventures and 8090 Industries with participation from Atomic, BAM, Bay Bridge Ventures, DeepWork Capital, Dragon Global, the Florida Opportunity Fund, Massive VC, New Atlas Capital, Overmatch, Protagonist, and StepStone. Previous investors include Andreessen Horowitz and Sam Altman.\nHappi said that Exowatt wasn’t looking to raise additional capital after the April round, but “strong momentum we saw in the market” and “strong investor interest” encouraged him to take the new money at a higher valuation.\nExowatt’s backlog is currently about 10 million P3 units representing 90 gigawatt-hours of capacity, he said. “The goal is to scale as fast as possible to the millions and ultimately billions of units,” he said. The company should hit its one-cent target when production hits around 1 million units per year, Happi said.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nExowatt is basically repackaging a technology that’s been around for decades. Known as concentrated solar power or thermal solar power, it uses the Sun’s energy to heat materials that are good at storing  or transporting thermal energy. In cases where that thermal energy is stored for an extended period of time, those materials tend to be derived from or resemble rocks — hence the technology’s nickname of “rocks in a box.”\nEach P3 device consists of a metal box topped with lenses that focus the sunlight into a tight beam. That beam then heats a special brick inside the shipping container. A fan blows air over the brick to carry the heat to another box which contains a Stirling engine (a piston-driven device that converts heat to mechanical energy) and a generator. To store more power, developers would install more P3 boxes. “Everything is designed to be extremely simple,” Happi said.\nEach thermal battery can retain heat for up to five days, ensuring continuous operation, and Exowatt will string several together to feed a single generator unit. How many depends on how quickly and how much electricity a customer wants to generate. The system’s efficiency is on par with photovoltaic solar panels, and slightly better than PV paired with lithium-ion batteries, Happi said.\nOther companies have built various approaches to the same technology, though most have failed to compete with photovoltaic solar and lithium-ion batteries, both of which have surprised experts with how quickly they’ve come down in cost.\nHappi argued that the P3’s small size and Exowatt’s iterative approach sets it apart. There are just over 100 solar thermal or concentrated solar power projects that are planned, built, or decommissioned around the world, he said. “If you compare that to the fact that we produce 1.5 billion solar panels per year, you can see the learning curve effects are very, very far apart from each other. \n“What Exowatt is about is taking a modular system that we know in principle works, and really scaling the manufacturing of that and then applying the learning curves of manufacturing.”\nExowatt is unlikely to be cost effective everywhere, and the number of P3 units needed to power a data center could require massive amounts of land. Plus, it works best in the sunniest regions, which could limit its broader impact. \nBut Happi counters that there’s a “high overlap” between where Exowatt’s P3 excels and where new data centers are being built. “We’re not running short of any projects to do,” he said.\n\n\n\t\tTim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor. \r\nDe Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.\r\nYou can contact or verify outreach from Tim by emailing tim.dechant@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Sam Atlman-backed Exowatt wants to power AI data centers with billions of hot rocks",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/11/P3-Modules-at-data-center.jpg?w=150"
-      ],
-      "datePublished": "2025-11-13T15:30:00.000Z",
-      "dateModified": "2025-11-13T15:30:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Harbinger raises $160M, will build trucks for FedEx",
-    "url": "https://techcrunch.com/2025/11/13/harbinger-raises-160m-will-build-trucks-for-fedex/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/11/harbinger-fedex-electric-delivery-truck-series-c-funding-scaled-1.jpg?w=150",
-    "tag": "Tech",
-    "date": "2025-11-13T14:28:00.000Z",
-    "description": "\nLos Angeles-based electric truck startup Harbinger has raised $160 million in a Series C funding round co-led by FedEx, as it scales up production of",
-    "body": "\nLos Angeles-based electric truck startup Harbinger has raised $160 million in a Series C funding round co-led by FedEx, as it scales up production of its commercial vehicle program.\nAs part of the investment, FedEx has ordered 53 of Harbinger’s electric truck chassis, which the startup says will be ready by the end of this year.\nFounded in 2022 by former employees of now-defunct EV startup Canoo and battery company QuantumScape, Harbinger set out to build medium-duty, commercial truck chassis — and basically nothing else. That focus on keeping things simple helped the company raise a $100 million Series B in January and start production of its truck chassis this year, just three years after its inception.\nFedEx is Harbinger’s most recognizable customer to date, though the startup has spent the last few years also working with RV-builder THOR Industries. THOR co-led this Series C round with FedEx, as did the Technology Impact Fund at Capricorn, which was an early Tesla investor. \nPrevious investors in Harbinger, like Leitmotif (a new VC firm backed by Volkswagen), Tiger Global, Maniv Mobility, and Schematic Ventures participated in the round as well.\nFedEx has spent a decade looking to add electric trucks to its nationwide delivery fleet. In 2018, the logistics giant took a gamble on another Los Angeles-based startup called Chanje, placing an order for 1,000 of its imported Chinese delivery vans in a deal that ultimately ended in a lawsuit. (Chanje collapsed soon after.)\nThe market for commercial electric trucks and vans has matured since then, though the field still doesn’t have many players. General Motors recently gave up its BrightDrop delivery van program after a few lackluster years. Sales of Ford’s E-Transit van have plummeted. Rivian has supplied around 25,000 electric vans to Amazon, but is yet to lock down another major commercial customer.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nHarbinger is focused on trucks that are larger than the BrightDrop, Ford or Rivian vans, and it has found early success in that part of the market. It has sold over 200 chassis this year alone, and recently announced an expansion into the Canadian market.\n“FedEx’s participation signals a demand for innovation in the medium-duty truck sector and for an electric model that helps advance business and sustainability goals at the same time,” Dipender Saluja, the managing partner of Capricorn Investment Group’s Technology Impact Fund, said in a statement. “Over the last two decades, medium-duty truck fleets have generally deployed small volumes of demonstration electric trucks. The industry is now ready to move to mass adoption, with Harbinger leading that scale up.”\n\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Harbinger raises $160M, will build trucks for FedEx",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/11/harbinger-fedex-electric-delivery-truck-series-c-funding-scaled-1.jpg?w=150"
-      ],
-      "datePublished": "2025-11-13T14:28:00.000Z",
-      "dateModified": "2025-11-13T14:28:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Cash App debuts a new AI assistant that answers questions about your finances",
-    "url": "https://techcrunch.com/2025/11/13/cash-app-debuts-a-new-ai-assistant-that-answers-questions-about-your-finances/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/11/Releases-Overview-Graphic_1920x1080.jpg?w=150",
-    "tag": "Tech",
-    "date": "2025-11-13T11:00:00.000Z",
-    "description": "\nCash App released a slate of new features as part of its fall update, including an AI chatbot that can answer questions about users’ finances, a new ",
-    "body": "\nCash App released a slate of new features as part of its fall update, including an AI chatbot that can answer questions about users’ finances, a new benefits program, and the ability to discover places that accept Bitcoin payments and make Bitcoin payments using USD.\nThe company is launching an assistant called Moneybot that can answer questions about spending patterns and income, and provide insights for maintaining savings and setting aside money for investments.\nThe chatbot will be available to select users at launch, with broader availability planned for the coming months. Users can ask questions like “Can you show me my monthly income, expenses, and spending patterns?” to get reports about their accounts. The bot also surfaces suggestions for actions like splitting a bill, checking a bitcoin balance, or requesting money from someone.\nImage Credits: Cash App\n“Consumers today are given a host of data around their financial transactions and account balances, but Moneybot takes it a step further by helping to turn those insights into action. No two financial journeys are the same, so we’ve built Moneybot to learn each customer’s habits and tailor its suggestions in real-time,” Cameron Worboys, head of product design at Cash App, said in a statement.\nJack Dorsey-led Block, which owns Cash App and Square, has been creating new ways to promote Bitcoin payments. Last month, it released an integrated Bitcoin solution for merchants to easily receive the cryptocurrency into a wallet. Customers can now discover places that accept Bitcoin through a new map and use USD to pay in cryptocurrency without holding it. The company said it uses the Lightning Network, a layer-2 payment network built on top of Bitcoin, to facilitate transactions via QR codes.\nImage Credits: Cash App\nThe company said that soon it will also allow some customers to send and receive stablecoins through the app.\nBlock is also changing the benefits structure for Cash App customers. Previously, customers who had direct deposits of at least $300 per month qualified for benefits like a 3.5% yield. Now, the company is starting a new program called Cash App Green, where users who either spend $500 or more per month through the Cash App Card or Cash App Pay, or receive deposits or at least $300, qualify for benefits.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nImage Credits: Cash App\nThese benefits will include a higher borrowing limit — up to $400 for first-time borrowers and a limit increase of up to $300 for others; free overdraft coverage of up to $200 for Cash App Card transactions; free in-network ATM withdrawals; up to 3.5% annual percentage yield (APY) on savings balances; and five customized weekly offers at different stores.\nBlock said that this new program will make up to 8 million accounts eligible for benefits under the Cash App Green program.\nThe company is also offering a 3.5% APY for teen accounts without any balance limits. Other features in this release include expansion of the Cash App Borrow product to 48 states, and access to some Afterpay buy now pay later (BNPL) services and features within the Cash App without needing a separate login.\n\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Cash App debuts a new AI assistant that answers questions about your finances",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/11/Releases-Overview-Graphic_1920x1080.jpg?w=150"
-      ],
-      "datePublished": "2025-11-13T11:00:00.000Z",
-      "dateModified": "2025-11-13T11:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Cybersecurity firm Deepwatch lays off dozens, citing move to ‘accelerate’ AI investment",
-    "url": "https://techcrunch.com/2025/11/12/cybersecurity-firm-deepwatch-lays-off-dozens-citing-move-to-accelerate-ai-investment/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/12/data-breach-2024-roundup.jpg?w=150",
-    "tag": "Tech",
-    "date": "2025-11-12T20:05:35.000Z",
-    "description": "\n\t\n\t\tImage Credits:Bryce Durbin / TechCrunch\t\n\t\n\t\t\t\t\t\t12:05 PM PST · November 12, 2025\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nDeepwatch, a cybersecurity firm that makes an A",
-    "body": "\n\t\n\t\tImage Credits:Bryce Durbin / TechCrunch\t\n\t\n\t\t\t\t\t\t12:05 PM PST · November 12, 2025\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nDeepwatch, a cybersecurity firm that makes an AI-powered detection and response platform, laid off dozens of employees on Wednesday, citing AI as one of the reasons.\nJohn DiLullo, CEO at Deepwatch, told TechCrunch in an email that the company “is aligning our organization to accelerate our significant investments in AI and automation.”\nA current Deepwatch employee, who asked not to be named because they were not authorized to speak with the press, told TechCrunch that the layoffs affected between 60 and 80 staffers, out of a workforce of around 250 employees. A post on Linkedin by a person who said they were laid off mentioned 80 people as well. \n“They’re doing something with AI and agentic AI but it sounds like bullshit,” the current employee told TechCrunch.\n\n\t\t\tContact Us\n\t\t\tDo you have more information about the layoffs at Deepwatch? Or about layoffs at other cybersecurity companies? From a non-work device, you can contact Lorenzo Franceschi-Bicchierai securely on Signal at +1 917 257 1382, or via Telegram and Keybase @lorenzofb, or email. You also can contact TechCrunch via SecureDrop.\t\t\nEight former Deepwatch employees announced that they were laid off, according to LinkedIn posts seen by TechCrunch. \nDeepwatch is not the only cybersecurity company that has conducted layoffs this year. In May, cybersecurity giant CrowdStrike laid off around 500 workers, or 5% of its workforce. The cuts came despite a record year with “operating cash flow of $1.38 billion and record full year free cash flow of $1.07 billion,” according to a press release at the time.\nOther cybersecurity companies that have cut their workforce this year are Deep Instinct, Otorio, ActiveFence, SkyBox Security, and Sophos.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n\n\t\t\t\n\tTopics\n\n\n\n\t\tLorenzo Franceschi-Bicchierai is a Senior Writer at TechCrunch, where he covers hacking, cybersecurity, surveillance, and privacy. \nYou can contact or verify outreach from Lorenzo by emailing lorenzo@techcrunch.com, via encrypted message at +1 917 257 1382 on Signal, and @lorenzofb on Keybase/Telegram.\t\n\t\n\t\tView Bio \n\t\n\n\t\t",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Cybersecurity firm Deepwatch lays off dozens, citing move to ‘accelerate’ AI investment",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/12/data-breach-2024-roundup.jpg?w=150"
-      ],
-      "datePublished": "2025-11-12T20:05:35.000Z",
-      "dateModified": "2025-11-12T20:05:35.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "‘Chad: The Brainrot IDE’ is a new Y Combinator-backed product so wild, people thought it was fake",
-    "url": "https://techcrunch.com/2025/11/12/chad-the-brainrot-ide-is-a-new-y-combinator-backed-product-so-wild-people-thought-it-was-fake/",
-    "image": "https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-924636730.jpg?w=150",
-    "tag": "Tech",
-    "date": "2025-11-13T00:05:30.000Z",
-    "description": "\nWhen former Twitter CEO Dick Costolo spoke at TechCrunch Disrupt, someone from the audience asked him if HBO’s hit satire “Silicon Valley” would be r",
-    "body": "\nWhen former Twitter CEO Dick Costolo spoke at TechCrunch Disrupt, someone from the audience asked him if HBO’s hit satire “Silicon Valley” would be revived. Costolo, who was a writer for the show, essentially answered no (at timestamp 38:17).\nWhile the writers talk about that regularly, he said, they don’t pursue it because today’s actual Silicon Valley is so bizarre, it can’t be parodied.  \nThe latest case in point is a new company called Clad Labs that launched out of Y Combinator this week. Clad’s product is so outside-the-box that people thought it was an April Fools’ joke in November. \nBut it’s a real product, founder Richard Wang told TechCrunch. The product is called “Chad: The Brainrot IDE.” It is yet another vibe coding integrated development environment — an IDE is the software developers use to code — but with a twist. While waiting for the AI coding tool to finish its task, the developer can mess around with their favorite brainrot activities within a window of the IDE. \nOr, as the company’s website advertises: “Gamble while you code. Watch TikToks. Swipe on Tinder. Play minigames. This isn’t a joke — it’s Chad IDE, and it’s solving the biggest productivity problem in AI-powered development that nobody’s talking about.” \nThe founders say their IDE increases productivity by helping with “context switching.” Their argument is, by doing your brainrot activities within the IDE itself, as soon as the AI is done with the task, you’ll get right back to work rather than be focused on your phone or browser. \nReaction on X was mixed. While some people thought it was a fake satire, others thought it was a good — or a terrible — idea.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nLike it or hate it, everyone had an opinion, even Jordi Hays, co-host of the enthusiastically pro-tech podcast TBPN. Hays penned a post on the product called, “Rage Baiting is for Losers.” In it he said of Chad IDE: “On one hand it’s funny. On the other hand, what are we doing here and why does this belong on the official YC account?” \nHe argued that products like Chad IDE and Cluely have moved rage bait from a marketing gimmick to a “product strategy” and “it really should not be.” He urged YC to start teaching founders that “rage baiting is for losers.” \nThis is particularly interesting advice from someone who, as a founder, had mastered viral marketing without rage. Hays and his wife Sarah founded Party Round, a funding startup that went viral for their friendly marketing gimmicks like launching NFT versions of top “helpful” VCs. (Party Round rebranded to Capital and sold to Rho in 2024.) \nWang tells TechCrunch what the haters don’t get about his brainrot IDE is that it wasn’t intended to be rage bait. The founders hope it becomes a genuinely beloved AI vibe coder for consumer-app type developers. They want to give these folks a consumer app-like experience in an IDE.\nWhile the product is real, it’s not available to the public yet. \n”We’re currently in a closed beta,” Wang said. Right now, Chad is attempting to build a “community” of users who like the idea. Clad Labs hopes to open the product to the public soon, but for now, users must get an invite from someone already in the beta.\nNo doubt there’s a certain type of developer who would love Chad. But whatever the future holds for this product, one thing is true: It is nearly impossible to parody Silicon Valley these days. \n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "‘Chad: The Brainrot IDE’ is a new Y Combinator-backed product so wild, people thought it was fake",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-924636730.jpg?w=150"
-      ],
-      "datePublished": "2025-11-13T00:05:30.000Z",
-      "dateModified": "2025-11-13T00:05:30.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Milestone raises $10M to make sure AI rhymes with ROI",
-    "url": "https://techcrunch.com/2025/11/13/milestone-raises-10m-to-make-sure-ai-rhymes-with-roi/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/11/Milestone-Group.png?w=150",
-    "tag": "Tech",
-    "date": "2025-11-13T12:00:00.000Z",
-    "description": "\nGenAI has become a key part of coding workflows, but most companies struggle to track its use, let alone its return on investment. Israeli startup Mi",
-    "body": "\nGenAI has become a key part of coding workflows, but most companies struggle to track its use, let alone its return on investment. Israeli startup Milestone hopes to help with a platform designed to correlate AI tool usage with engineering metrics, including code quality.\nThe catch is that these companies have to give Milestone access to their codebases, a bet that investors initially questioned, CEO and co-founder Liad Elidan told TechCrunch. But with customers including Kayak, Monday, and Sapiens, the startup has now raised a $10 million seed funding round led by San Francisco-based venture firm Heavybit and Israeli fund Hanaco Ventures.\nIn an unusual arrangement, Elidan and Milestone’s CTO had gone years without meeting in person by the time they started fundraising. Unlike most of Milestone’s Israel-based team members, Professor Stephen Barrett lives in Ireland and teaches computer science at Trinity College Dublin, where Elidan was once his student and the two bonded through software projects.\nDespite the distance, the duo kept in touch over the years and eventually decided to found a startup focused on engineering efficiency, just as coding assistants and other code-generation tools were taking off. GitHub Copilot has since crossed the bar of 20 million users, but companies still lack visibility into how these tools are used and are impacting productivity.\nAccording to Elidan, Milestone answers these questions by relying on four pillars — codebases, project management platforms, team structure, and the codegen tools themselves — to create what he describes as “a genAI data lake.” In practice, this gives organizations actionable data on which teams use AI and to what effect — thanks to their own information.\nArmed with this data, managers under constant pressure to leverage AI to push productivity are, for instance, able to measure feature delivery speed, Elidan said, but also to find out whether recent bugs were caused by AI-generated code, and to take informed decisions on where to implement these tools. \nThis also gives Milestone a front-row seat on ROI — the “holy grail question” that it aims to answer granularly for its customers. But on a high level, he said, “We don’t have a customer that used Milestone and said, ‘Okay, GenAI doesn’t help me, I’m going to revoke all my licenses.’ It’s actually the opposite. They want to try more Gen AI tools.”\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThis fast-paced adoption also means that Milestone has to keep up with a rapidly evolving landscape. “It used to be auto-completes, then it was chat, then it was agentic-based chat, and it keeps going,” Elidan said. \nThat’s also where Barrett’s academic background helps the team understand the wave of transformation its customers are going through. “A lot of the ways we used to think about engineering are going to have to change,” the professor told TechCrunch. “I think in some sense, AI is filling out the team, and engineers are now becoming managers.”\nTo keep up with the tools that power this wave, Milestone says it has partnered with many vendors, such as GitHub, Augment Code, Qodo, Continue and Atlassian — the company that powers Jira and whose venture arm Atlassian Ventures also participated in this seed round. \nThe round was also supported by angel investors, including GitHub cofounder Tom Preston-Werner, former AT&T CEO John Donovan, Accenture’s senior tech advisor Paul Daugherty, and Datadog’s ex-president Amit Agrawal — who all understand that what Milestone is building is relevant for the enterprise market, Elidan said.\nThat enterprise focus was deliberate from day one, with Milestone even saying no to prospective clients that were too small—”a very hard thing to do,” Elidan said, but one that gave the startup clarity around a roadmap requiring enterprise credentials and features. Focus would be his main advice to other founders, and Milestone is taking it: the startup won’t expand into measuring GenAI’s impact on marketing or other functions, even as it grows.\n\n\n\t\tAnna Heim is a writer and editorial consultant. \nYou can contact or verify outreach from Anna by emailing annatechcrunch [at] gmail.com.\nAs a freelance reporter at TechCrunch since 2021, she has covered a large range of startup-related topics including AI, fintech & insurtech, SaaS & pricing, and global venture capital trends.\nAs of May 2025, her reporting for TechCrunch focuses on Europe’s most interesting startup stories.\nAnna has moderated panels and conducted onstage interviews at industry events of all sizes, including major tech conferences such as TechCrunch Disrupt, 4YFN, South Summit, TNW Conference, VivaTech, and many more.\nA former LATAM & Media Editor at The Next Web, startup founder and Sciences Po Paris alum, she’s fluent in multiple languages, including French, English, Spanish and Brazilian Portuguese.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Milestone raises $10M to make sure AI rhymes with ROI",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/11/Milestone-Group.png?w=150"
-      ],
-      "datePublished": "2025-11-13T12:00:00.000Z",
-      "dateModified": "2025-11-13T12:00:00.000Z",
+      "datePublished": "2025-11-13T18:39:52.000Z",
+      "dateModified": "2025-11-13T18:39:52.000Z",
       "author": [
         {
           "@type": "Person",
