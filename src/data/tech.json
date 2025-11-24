@@ -1,55 +1,5 @@
 [
   {
-    "title": "AI is too risky to insure, say people whose job is insuring risk",
-    "url": "https://techcrunch.com/2025/11/23/ai-is-too-risky-to-insure-say-people-whose-job-is-insuring-risk/",
-    "image": "https://techcrunch.com/wp-content/uploads/2021/07/Screen-Shot-2021-07-16-at-1.22.20-AM.png?w=150",
-    "tag": "Tech",
-    "date": "2025-11-23T17:45:00.000Z",
-    "description": "\nWhat happens when the software that everyone’s racing to adopt becomes too risky for anyone to insure? According to reporting from the Financial Time",
-    "body": "\nWhat happens when the software that everyone’s racing to adopt becomes too risky for anyone to insure? According to reporting from the Financial Times, we’re about to find out.\nMajor insurers including AIG, Great American, and WR Berkley are asking U.S. regulators for permission to exclude AI-related liabilities from corporate policies. One underwriter describes the AI models’ outputs to the FT as “too much of a black box.”\nThe industry has good reason to be spooked, the story reminds us. Google’s AI Overview falsely accused a solar company of legal troubles, triggering a $110 million lawsuit back in March. Air Canada last year got stuck honoring a discount its chatbot invented. And fraudsters last year used a digitally cloned version of a senior executive to steal $25 million from the London-based design engineering firm Arup during a video call that seemed entirely real.\nWhat really terrifies insurers isn’t one massive payout; it’s the systemic risk of thousands of simultaneous claims when a widely used AI model steps in it. As one Aon executive put it, insurers can handle a $400 million loss to one company. What they can’t handle is an agentic AI mishap that triggers 10,000 losses at once.\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "AI is too risky to insure, say people whose job is insuring risk",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2021/07/Screen-Shot-2021-07-16-at-1.22.20-AM.png?w=150"
-      ],
-      "datePublished": "2025-11-23T17:45:00.000Z",
-      "dateModified": "2025-11-23T17:45:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "X’s new About This Account feature is going great",
-    "url": "https://techcrunch.com/2025/11/23/xs-new-about-this-account-feature-is-going-great/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/11/twitter-impersonation-parody.jpg?w=150",
-    "tag": "Tech",
-    "date": "2025-11-23T21:11:05.000Z",
-    "description": "\nIn Brief\nPosted:\n1:11 PM PST · November 23, 2025\n\nImage Credits:Bryce Durbin / TechCrunch\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nX recently began",
-    "body": "\nIn Brief\nPosted:\n1:11 PM PST · November 23, 2025\n\nImage Credits:Bryce Durbin / TechCrunch\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nX recently began rolling out a new feature that seemingly revealed many right-wing “America First” accounts are actually based outside the United States. Except the data might not be reliable.\nWhile X’s new “About This Account” feature includes information about when a user joined and how they downloaded the app, geographic location is getting the most attention by far.\nPosting a gallery of MAGA accounts that are apparently based in Japan, New Zealand, Pakistan, and Thailand, left-wing influencer Micah Erfan wrote, “This is total armageddon for the online right.”\nMany of the accounts raising eyebrows, like the apparently Pakistan-based @American, are relatively small, though others have hundreds of thousands of followers.\nX’s director of product Nikita Bier said Saturday that the feature is being rolled out globally, describing this as “an important first step to securing the integrity of the global town square.” However, some users have complained that their listed location is wildly inaccurate. Bier acknowledged that the “data was not 100% for old accounts” and suggested that “a few rough edges … will be resolved by Tuesday.”\nThe Verge noted that while there are definitely rage-bait accounts and troll farms located outside the U.S., many of the listed locations seem highly questionable, with the confusion likely due to travel, global teams, VPNs, or old IP addresses.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\nLatest in Social\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "X’s new About This Account feature is going great",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2022/11/twitter-impersonation-parody.jpg?w=150"
-      ],
-      "datePublished": "2025-11-23T21:11:05.000Z",
-      "dateModified": "2025-11-23T21:11:05.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Roblox CEO interview gets heated over child safety",
     "url": "https://techcrunch.com/2025/11/23/roblox-ceo-interview-gets-heated-over-child-safety/",
     "image": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1167248846.jpeg?w=150",
@@ -66,6 +16,31 @@
       ],
       "datePublished": "2025-11-23T21:58:04.000Z",
       "dateModified": "2025-11-23T21:58:04.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "AI is too risky to insure, say people whose job is insuring risk",
+    "url": "https://techcrunch.com/2025/11/23/ai-is-too-risky-to-insure-say-people-whose-job-is-insuring-risk/",
+    "image": "https://techcrunch.com/wp-content/uploads/2021/07/Screen-Shot-2021-07-16-at-1.22.20-AM.png?w=150",
+    "tag": "Tech",
+    "date": "2025-11-23T17:45:00.000Z",
+    "description": "\nWhat happens when the software that everyone’s racing to adopt becomes too risky for anyone to insure? According to reporting from the Financial Time",
+    "body": "\nWhat happens when the software that everyone’s racing to adopt becomes too risky for anyone to insure? According to reporting from the Financial Times, we’re about to find out.\nMajor insurers including AIG, Great American, and WR Berkley are asking U.S. regulators for permission to exclude AI-related liabilities from corporate policies. One underwriter describes the AI models’ outputs to the FT as “too much of a black box.”\nThe industry has good reason to be spooked, the story reminds us. Google’s AI Overview falsely accused a solar company of legal troubles, triggering a $110 million lawsuit back in March. Air Canada last year got stuck honoring a discount its chatbot invented. And fraudsters last year used a digitally cloned version of a senior executive to steal $25 million from the London-based design engineering firm Arup during a video call that seemed entirely real.\nWhat really terrifies insurers isn’t one massive payout; it’s the systemic risk of thousands of simultaneous claims when a widely used AI model steps in it. As one Aon executive put it, insurers can handle a $400 million loss to one company. What they can’t handle is an agentic AI mishap that triggers 10,000 losses at once.\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "AI is too risky to insure, say people whose job is insuring risk",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2021/07/Screen-Shot-2021-07-16-at-1.22.20-AM.png?w=150"
+      ],
+      "datePublished": "2025-11-23T17:45:00.000Z",
+      "dateModified": "2025-11-23T17:45:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -125,22 +100,22 @@
     }
   },
   {
-    "title": "Bret Taylor’s Sierra reaches $100M ARR in under two years",
-    "url": "https://techcrunch.com/2025/11/21/bret-taylors-sierra-reaches-100m-arr-in-under-two-years/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/10/AP22166762614393.jpg?w=150",
+    "title": "X’s new About This Account feature is going great",
+    "url": "https://techcrunch.com/2025/11/23/xs-new-about-this-account-feature-is-going-great/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/11/twitter-impersonation-parody.jpg?w=150",
     "tag": "Tech",
-    "date": "2025-11-21T23:00:08.000Z",
-    "description": "\nSierra, a 21-month-old, San Francisco-based startup that builds customer service AI agents for enterprises, announced on Friday that it reached $100 ",
-    "body": "\nSierra, a 21-month-old, San Francisco-based startup that builds customer service AI agents for enterprises, announced on Friday that it reached $100 million in annual revenue run rate (ARR). The company’s rapid growth suggests that businesses across industries are embracing AI agents.\nThe startup’s growth rate surprised even its seasoned co-founders, former Salesforce co-CEO Bret Taylor and longtime Google alum Clay Bavor, who wrote on their blog: “That’s a heck of a lot quicker than we expected.”\nSierra’s customers include tech companies like Deliveroo, Discord, Ramp, Rivian, SoFi, and Tubi, as well as well-established businesses outside of the tech sector, such as ADT, Bissell, Vans, Cigna, and SiriusXM.\nTaylor and Bavor said they expected tech companies would feel comfortable experimenting with AI customer service agents, but they were astounded that older businesses also became Sierra’s customers.\nThe company says it can build AI agents that can handle tasks like authenticating patients for healthcare providers, processing returns, ordering replacement credit cards, and helping customers apply for mortgages — essentially automating customer service work that previously required human agents.\nSierra faces competition from startups like Decagon and Intercom, but the company claims to be the leader in the AI customer service category.\nSierra was last valued at $10 billion when it raised a $350 million round led by Greenoaks Capital in September. Other investors in the company include Sequoia, Benchmark, ICONIQ, and Thrive Capital.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nBased on its $100 million ARR, Sierra is currently valued at a 100x revenue multiple, a hefty valuation despite its exceptionally fast growth.\nThe startup employs an outcomes-based pricing model, charging customers for completed work rather than charging flat subscription fees.\nTaylor and Bavor met at Google in 2005, where Taylor hired Bavor as an associate product manager.\nA Stanford computer science graduate, Taylor co-created Google Maps before founding FriendFeed, which Facebook acquired. At Facebook, he served as CTO and helped create the iconic “Like” button. He later founded Quip, a Google Docs competitor that Salesforce acquired for $750 million in 2016. \nTaylor went on to serve as Salesforce co-CEO alongside Marc Benioff for over a year. After Taylor left Salesforce in 2023, Bavor — who had spent 18 years at Google leading products like Gmail and Google Drive — invited him to lunch, where they decided to launch Sierra.\n\n\n\t\tMarina Temkin is a venture capital and startups reporter at TechCrunch. Prior to joining TechCrunch, she wrote about VC for PitchBook and Venture Capital Journal. Earlier in her career, Marina was a financial analyst and earned a CFA charterholder designation.\r\nYou can contact or verify outreach from Marina by emailing marina.temkin@techcrunch.com or via encrypted message at +1 347-683-3909 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2025-11-23T21:11:05.000Z",
+    "description": "\nIn Brief\nPosted:\n1:11 PM PST · November 23, 2025\n\nImage Credits:Bryce Durbin / TechCrunch\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nX recently began",
+    "body": "\nIn Brief\nPosted:\n1:11 PM PST · November 23, 2025\n\nImage Credits:Bryce Durbin / TechCrunch\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nX recently began rolling out a new feature that seemingly revealed many right-wing “America First” accounts are actually based outside the United States. Except the data might not be reliable.\nWhile X’s new “About This Account” feature includes information about when a user joined and how they downloaded the app, geographic location is getting the most attention by far.\nPosting a gallery of MAGA accounts that are apparently based in Japan, New Zealand, Pakistan, and Thailand, left-wing influencer Micah Erfan wrote, “This is total armageddon for the online right.”\nMany of the accounts raising eyebrows, like the apparently Pakistan-based @American, are relatively small, though others have hundreds of thousands of followers.\nX’s director of product Nikita Bier said Saturday that the feature is being rolled out globally, describing this as “an important first step to securing the integrity of the global town square.” However, some users have complained that their listed location is wildly inaccurate. Bier acknowledged that the “data was not 100% for old accounts” and suggested that “a few rough edges … will be resolved by Tuesday.”\nThe Verge noted that while there are definitely rage-bait accounts and troll farms located outside the U.S., many of the listed locations seem highly questionable, with the confusion likely due to travel, global teams, VPNs, or old IP addresses.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\nLatest in Social\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Bret Taylor’s Sierra reaches $100M ARR in under two years",
+      "headline": "X’s new About This Account feature is going great",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2022/10/AP22166762614393.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2022/11/twitter-impersonation-parody.jpg?w=150"
       ],
-      "datePublished": "2025-11-21T23:00:08.000Z",
-      "dateModified": "2025-11-21T23:00:08.000Z",
+      "datePublished": "2025-11-23T21:11:05.000Z",
+      "dateModified": "2025-11-23T21:11:05.000Z",
       "author": [
         {
           "@type": "Person",
@@ -150,47 +125,22 @@
     }
   },
   {
-    "title": "Phictly’s new app brings people together over their favorite books and TV shows",
-    "url": "https://techcrunch.com/2025/11/21/phictlys-new-app-brings-people-together-over-their-favorite-books-and-tv-shows/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?w=150",
+    "title": "Impersonators are (still) targeting companies with fake TechCrunch outreach",
+    "url": "https://techcrunch.com/2025/11/21/impersonators-are-targeting-companies-with-fake-techcrunch-outreach/",
+    "image": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1095167058.jpg?w=150",
     "tag": "Tech",
-    "date": "2025-11-21T16:47:03.000Z",
-    "description": "\nIn the early days of social media, posting a rant about the latest episode of “Grey’s Anatomy” on Myspace felt like the ultimate Thursday night activ",
-    "body": "\nIn the early days of social media, posting a rant about the latest episode of “Grey’s Anatomy” on Myspace felt like the ultimate Thursday night activity. And discovering a Facebook group called “Team Jacob Forever” was one of the best finds.\nNowadays, finding that perfect niche community can seem impossible, but a new social app called Phictly aims to change that.\nAvailable on iOS and Android devices, the app lets users form clubs centered on their favorite books, TV shows, and movies, creating niche communities where people can discuss their specific interests without judgment.\nFor instance, users can dive into clubs for fantasy reads and gossip about Violet and Xaden in Rebecca Yarros’ “The Fourth Wing,” or reminisce about the early days of “Grey’s Anatomy.”\nImage Credits:Phictly\nThe app was created by Nyleena Aiken after she started a book club with her sisters and struggled to find books that interested everyone. She realized that many people likely face the same challenge and would benefit from an app dedicated to creating groups centered on a single specific title at a time.\n“Looking at our competitors, there are many large groups with little interactivity,” Aiken explained to TechCrunch. “Phictly keeps discussions focused and aligns with everyone’s fast-paced lifestyle, allowing users to fit conversations into their schedules.”\nKey features of Phictly include a cap of 20 members per club to keep discussions intimate, and users can also set the pace for their clubs based on their reading or viewing habits. For example, those who enjoy speed reading or binge-watching can create or join clubs that last just a day or two, while those who prefer a slower pace can participate in clubs lasting up to 30 days.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nAnother notable feature allows users to post spoilers while hiding them until others reach that part of the story. Each spoiler is initially blurred, giving users the choice of when to reveal it, which helps everyone stay on the same page. Phictly also includes a “Talk Points” feature, allowing users to set check-in dates to discuss specific episodes or chapters and give everyone the opportunity to join the conversation.\nSimilar to Goodreads, users can also track what they are currently reading or watching, log titles, and set personal goals for their reading or viewing habits.\nFuture updates will introduce a matching system that pairs users based on shared interests, favorite genres, and common TV shows and books. The app will eventually expand to include clubs focused on video games.\nPhictly is free to download but may soon offer a premium subscription with additional features, such as the ability to create a private profile.\n\n\n\t\tLauren covers media, streaming, apps and platforms at TechCrunch.\nYou can contact or verify outreach from Lauren by emailing laurenf.techcrunch@gmail.com or via encrypted message at laurenforris22.25 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2025-11-21T17:00:00.000Z",
+    "description": "\nHi, thanks as always for reading TechCrunch. We want to talk with you quickly about something important. \nA growing number of scammers are impersonat",
+    "body": "\nHi, thanks as always for reading TechCrunch. We want to talk with you quickly about something important. \nA growing number of scammers are impersonating TechCrunch reporters and event leads and reaching out to companies, pretending to be our staff when they absolutely are not. These bad actors are using our name and reputation to try to dupe unsuspecting businesses. It drives us crazy and infuriates us on your behalf. It ebbs and flows. Judging by the increased number of emails we’re receiving, asking, “Does this person really work for you?” it appears to be happening more actively at the moment.\nAnecdotally, this isn’t just happening to us; fraudsters are exploiting the trust that comes with established news brands to get their foot in the door with companies across the media industry.\nHere’s an example of the most common scheme we’ve been tracking: Impostors impersonating our reporters to extract sensitive business information from unsuspecting targets. In several cases we know about, scammers have adopted the identity of actual staff members, crafting what looks like a standard media inquiry about a company’s products and requesting an introductory call.\nSharp-eyed recipients sometimes catch discrepancies in email addresses that don’t match our real employees’ credentials (see a list of bogus email addresses below). But more newly, they are hearing from fake reporters who claim to have address conventions that do match our own, making it tricker to recognize a TechCrunch employee from someone else claiming to be one. Indeed, the schemes evolve quickly; bad actors keep refining their tactics, mimicking reporters’ writing styles, and referencing startup trends to make their pitches increasingly convincing. Equally troubling, victims who agree to phone interviews tell us the fraudsters use those exchanges to dig for even more proprietary details. A PR rep told Axios that someone posing as a TechCrunch reporter raised suspicions when they shared a scheduling link.\nWhy are they doing this? We don’t know, though a reasonable guess is that these are groups looking for initial access to a network or other sensitive information. In fact, former colleagues at Yahoo say these attempts align with a persistent threat actor they’ve been tracking who has historically engaged in TechCrunch impersonation to facilitate account takeover (ATO) and data theft, targeting cryptocurrency, cloud, and other tech companies using various pretexts.\nAs for what to do about it, if someone reaches out claiming to be from TechCrunch and you have even the slightest doubt about whether they’re legitimate, please don’t just take their word for it. We’ve made it easy for you to verify.\nStart by checking our TechCrunch staff page. It’s the quickest way to see if the person contacting you actually works here. If the individual’s name isn’t on our roster, you’ve got your answer right there.\nIf you do see someone’s name on our staff page, but our employee’s job description doesn’t square with the request you are receiving (e.g., a TechCrunch copy editor is suddenly very interested in learning about your business!), a bad actor may be trying to con you.\nIf it sounds like a legitimate request but you want to make doubly certain, you should also feel free to contact us directly and just ask. You can learn how to reach each writer, editor, sales executive, marketing guru, and events team member in our bios.\nWe know it’s frustrating to have to double-check media inquiries, but these groups are counting on you not taking that extra step. By being vigilant about verification, you’re not just protecting your own company — you’re also helping preserve the trust that legitimate journalists depend on to do their jobs.\nThank you. And for your future reference, here’s a list of some of the TechCrunch impersonating domains that we’ve seen created within the last few months:\nemail-techcrunch[.]comhr-techcrunch[.]cominterview-techcrunch[.]commail-techcrunch[.]commedia-techcrunch[.]comnoreply-tc-techcrunch[.]comnoreply-techcrunch[.]compr-techcrunch[.]comtechcrunch-outreach[.]comtechcrunch-startups[.]infotechcrunch-team[.]comtechcrunch[.]aitechcrunch[.]biz[.]idtechcrunch[.]bztechcrunch[.]cctechcrunch[.]chtechcrunch[.]com[.]pltechcrunch[.]gltechcrunch[.]gstechcrunch[.]idtechcrunch[.]ittechcrunch[.]latechcrunch[.]lttechcrunch[.]net[.]cntechcrunch1[.]com\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Phictly’s new app brings people together over their favorite books and TV shows",
+      "headline": "Impersonators are (still) targeting companies with fake TechCrunch outreach",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1095167058.jpg?w=150"
       ],
-      "datePublished": "2025-11-21T16:47:03.000Z",
-      "dateModified": "2025-11-21T16:47:03.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "X begins rolling out the ‘About this account’ feature to users’ profiles",
-    "url": "https://techcrunch.com/2025/11/21/x-begins-rolling-out-the-about-this-account-feature-to-users-profiles/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-1.jpg?w=150",
-    "tag": "Tech",
-    "date": "2025-11-21T18:12:57.000Z",
-    "description": "\nElon Musk’s X has begun rolling out a new feature for user profiles that will display information about the account, including where it’s based, how ",
-    "body": "\nElon Musk’s X has begun rolling out a new feature for user profiles that will display information about the account, including where it’s based, how many times the account has changed its username, the account’s original join date, and how the user downloaded the X app. The new information is meant to reduce inauthentic engagement on the platform, where bots often pretend to be humans — a problem that could get even harder to police in the age of AI.\nX’s plans for the feature were first announced in October, when X’s head of product Nikita Bier said the company would experiment with displaying this information on profiles, starting with his own account and those of X employees. The idea is that, by exposing these details, users would be able to make a more informed decision about whether they’re interacting with an authentic account or if the account was a bot or bad actor, looking to sow discord or spread misinformation.\nFor instance, if an X account’s bio claimed the user was from a U.S. state, but their account information shows that they’re based overseas, you might suspect they had another agenda. \nLast weekend, Bier responded to a post where a user had asked Elon Musk to require accounts to display information about where they’re based by saying to the user, “Give me 72 hours.”\nIn the days since, more people have seen the “About this account” feature become available on their own profiles.\nTo view your account information on the web or in the X mobile app, you’ll click on the “Joined” date on your profile. From here, you’re taken to a page that shows the date you joined Twitter/X, where your account is based, how many username changes have been done and when the last one was, and how you’re connected to X — like via the U.S. App Store or Google Play, for instance.\n\nBut while some users globally are reporting that the feature has appeared on their own profiles, TechCrunch is not able to access this account information on other people’s profiles as of press time. That could be because X wants to give users time to preview their information for accuracy and adjust their settings before it rolls out more broadly.\nSpecifically, X allows users to adjust whether or not the feature displays their country or if it only displays their geographical region. Originally, the company had said this would be an option in areas where free speech could have penalties, but we’re finding that even U.S. users can choose to set their profile to display either their country or their region/continent. (Country is the default, however.)\nImage Credits:X\nTo make the change, you can access the “About your account” setting under the X app’s “Privacy and Safety” settings. \nOne reverse engineer digging through the app’s code (see below) also found that X appears to be working on an additional feature that would display a warning on your account if you were using a VPN to mask your location. It’s unclear if or when that feature would go live, but if it does, it would flag to others that the user’s “country or region may not be accurate.”\nX did not respond to a request for comment about the rollout. However, Bier joked about all the recent sightings, indicating that people were seeing the feature as it began to roll out.\n\nX will show a warning on your account if you try to use a VPN to hide where your account is from when the upcoming \"About Your Account\" feature launches. \"One of our partners has indicated that you  may be connecting via a proxy—such as a VPN—which may change the country or… pic.twitter.com/vAOus842Br— Aaron (@aaronp613) November 15, 2025\n\nX is not the first social network to provide this level of transparency to users. Instagram has long offered a similar “About this account” feature, for instance.\n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "X begins rolling out the ‘About this account’ feature to users’ profiles",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-1.jpg?w=150"
-      ],
-      "datePublished": "2025-11-21T18:12:57.000Z",
-      "dateModified": "2025-11-21T18:12:57.000Z",
+      "datePublished": "2025-11-21T17:00:00.000Z",
+      "dateModified": "2025-11-21T17:00:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -216,6 +166,31 @@
       ],
       "datePublished": "2025-11-22T21:45:49.000Z",
       "dateModified": "2025-11-22T21:45:49.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Bret Taylor’s Sierra reaches $100M ARR in under two years",
+    "url": "https://techcrunch.com/2025/11/21/bret-taylors-sierra-reaches-100m-arr-in-under-two-years/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/10/AP22166762614393.jpg?w=150",
+    "tag": "Tech",
+    "date": "2025-11-21T23:00:08.000Z",
+    "description": "\nSierra, a 21-month-old, San Francisco-based startup that builds customer service AI agents for enterprises, announced on Friday that it reached $100 ",
+    "body": "\nSierra, a 21-month-old, San Francisco-based startup that builds customer service AI agents for enterprises, announced on Friday that it reached $100 million in annual revenue run rate (ARR). The company’s rapid growth suggests that businesses across industries are embracing AI agents.\nThe startup’s growth rate surprised even its seasoned co-founders, former Salesforce co-CEO Bret Taylor and longtime Google alum Clay Bavor, who wrote on their blog: “That’s a heck of a lot quicker than we expected.”\nSierra’s customers include tech companies like Deliveroo, Discord, Ramp, Rivian, SoFi, and Tubi, as well as well-established businesses outside of the tech sector, such as ADT, Bissell, Vans, Cigna, and SiriusXM.\nTaylor and Bavor said they expected tech companies would feel comfortable experimenting with AI customer service agents, but they were astounded that older businesses also became Sierra’s customers.\nThe company says it can build AI agents that can handle tasks like authenticating patients for healthcare providers, processing returns, ordering replacement credit cards, and helping customers apply for mortgages — essentially automating customer service work that previously required human agents.\nSierra faces competition from startups like Decagon and Intercom, but the company claims to be the leader in the AI customer service category.\nSierra was last valued at $10 billion when it raised a $350 million round led by Greenoaks Capital in September. Other investors in the company include Sequoia, Benchmark, ICONIQ, and Thrive Capital.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nBased on its $100 million ARR, Sierra is currently valued at a 100x revenue multiple, a hefty valuation despite its exceptionally fast growth.\nThe startup employs an outcomes-based pricing model, charging customers for completed work rather than charging flat subscription fees.\nTaylor and Bavor met at Google in 2005, where Taylor hired Bavor as an associate product manager.\nA Stanford computer science graduate, Taylor co-created Google Maps before founding FriendFeed, which Facebook acquired. At Facebook, he served as CTO and helped create the iconic “Like” button. He later founded Quip, a Google Docs competitor that Salesforce acquired for $750 million in 2016. \nTaylor went on to serve as Salesforce co-CEO alongside Marc Benioff for over a year. After Taylor left Salesforce in 2023, Bavor — who had spent 18 years at Google leading products like Gmail and Google Drive — invited him to lunch, where they decided to launch Sierra.\n\n\n\t\tMarina Temkin is a venture capital and startups reporter at TechCrunch. Prior to joining TechCrunch, she wrote about VC for PitchBook and Venture Capital Journal. Earlier in her career, Marina was a financial analyst and earned a CFA charterholder designation.\r\nYou can contact or verify outreach from Marina by emailing marina.temkin@techcrunch.com or via encrypted message at +1 347-683-3909 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Bret Taylor’s Sierra reaches $100M ARR in under two years",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2022/10/AP22166762614393.jpg?w=150"
+      ],
+      "datePublished": "2025-11-21T23:00:08.000Z",
+      "dateModified": "2025-11-21T23:00:08.000Z",
       "author": [
         {
           "@type": "Person",
@@ -300,6 +275,31 @@
     }
   },
   {
+    "title": "X begins rolling out the ‘About this account’ feature to users’ profiles",
+    "url": "https://techcrunch.com/2025/11/21/x-begins-rolling-out-the-about-this-account-feature-to-users-profiles/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-1.jpg?w=150",
+    "tag": "Tech",
+    "date": "2025-11-21T18:12:57.000Z",
+    "description": "\nElon Musk’s X has begun rolling out a new feature for user profiles that will display information about the account, including where it’s based, how ",
+    "body": "\nElon Musk’s X has begun rolling out a new feature for user profiles that will display information about the account, including where it’s based, how many times the account has changed its username, the account’s original join date, and how the user downloaded the X app. The new information is meant to reduce inauthentic engagement on the platform, where bots often pretend to be humans — a problem that could get even harder to police in the age of AI.\nX’s plans for the feature were first announced in October, when X’s head of product Nikita Bier said the company would experiment with displaying this information on profiles, starting with his own account and those of X employees. The idea is that, by exposing these details, users would be able to make a more informed decision about whether they’re interacting with an authentic account or if the account was a bot or bad actor, looking to sow discord or spread misinformation.\nFor instance, if an X account’s bio claimed the user was from a U.S. state, but their account information shows that they’re based overseas, you might suspect they had another agenda. \nLast weekend, Bier responded to a post where a user had asked Elon Musk to require accounts to display information about where they’re based by saying to the user, “Give me 72 hours.”\nIn the days since, more people have seen the “About this account” feature become available on their own profiles.\nTo view your account information on the web or in the X mobile app, you’ll click on the “Joined” date on your profile. From here, you’re taken to a page that shows the date you joined Twitter/X, where your account is based, how many username changes have been done and when the last one was, and how you’re connected to X — like via the U.S. App Store or Google Play, for instance.\n\nBut while some users globally are reporting that the feature has appeared on their own profiles, TechCrunch is not able to access this account information on other people’s profiles as of press time. That could be because X wants to give users time to preview their information for accuracy and adjust their settings before it rolls out more broadly.\nSpecifically, X allows users to adjust whether or not the feature displays their country or if it only displays their geographical region. Originally, the company had said this would be an option in areas where free speech could have penalties, but we’re finding that even U.S. users can choose to set their profile to display either their country or their region/continent. (Country is the default, however.)\nImage Credits:X\nTo make the change, you can access the “About your account” setting under the X app’s “Privacy and Safety” settings. \nOne reverse engineer digging through the app’s code (see below) also found that X appears to be working on an additional feature that would display a warning on your account if you were using a VPN to mask your location. It’s unclear if or when that feature would go live, but if it does, it would flag to others that the user’s “country or region may not be accurate.”\nX did not respond to a request for comment about the rollout. However, Bier joked about all the recent sightings, indicating that people were seeing the feature as it began to roll out.\n\nX will show a warning on your account if you try to use a VPN to hide where your account is from when the upcoming \"About Your Account\" feature launches. \"One of our partners has indicated that you  may be connecting via a proxy—such as a VPN—which may change the country or… pic.twitter.com/vAOus842Br— Aaron (@aaronp613) November 15, 2025\n\nX is not the first social network to provide this level of transparency to users. Instagram has long offered a similar “About this account” feature, for instance.\n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "X begins rolling out the ‘About this account’ feature to users’ profiles",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-1.jpg?w=150"
+      ],
+      "datePublished": "2025-11-21T18:12:57.000Z",
+      "dateModified": "2025-11-21T18:12:57.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "CrowdStrike fires ‘suspicious insider’ who passed information to hackers",
     "url": "https://techcrunch.com/2025/11/21/crowdstrike-fires-suspicious-insider-who-passed-information-to-hackers/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/07/crowdstrike-windows-glitch-v2.jpg?w=150",
@@ -325,6 +325,31 @@
     }
   },
   {
+    "title": "Phictly’s new app brings people together over their favorite books and TV shows",
+    "url": "https://techcrunch.com/2025/11/21/phictlys-new-app-brings-people-together-over-their-favorite-books-and-tv-shows/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?w=150",
+    "tag": "Tech",
+    "date": "2025-11-21T16:47:03.000Z",
+    "description": "\nIn the early days of social media, posting a rant about the latest episode of “Grey’s Anatomy” on Myspace felt like the ultimate Thursday night activ",
+    "body": "\nIn the early days of social media, posting a rant about the latest episode of “Grey’s Anatomy” on Myspace felt like the ultimate Thursday night activity. And discovering a Facebook group called “Team Jacob Forever” was one of the best finds.\nNowadays, finding that perfect niche community can seem impossible, but a new social app called Phictly aims to change that.\nAvailable on iOS and Android devices, the app lets users form clubs centered on their favorite books, TV shows, and movies, creating niche communities where people can discuss their specific interests without judgment.\nFor instance, users can dive into clubs for fantasy reads and gossip about Violet and Xaden in Rebecca Yarros’ “The Fourth Wing,” or reminisce about the early days of “Grey’s Anatomy.”\nImage Credits:Phictly\nThe app was created by Nyleena Aiken after she started a book club with her sisters and struggled to find books that interested everyone. She realized that many people likely face the same challenge and would benefit from an app dedicated to creating groups centered on a single specific title at a time.\n“Looking at our competitors, there are many large groups with little interactivity,” Aiken explained to TechCrunch. “Phictly keeps discussions focused and aligns with everyone’s fast-paced lifestyle, allowing users to fit conversations into their schedules.”\nKey features of Phictly include a cap of 20 members per club to keep discussions intimate, and users can also set the pace for their clubs based on their reading or viewing habits. For example, those who enjoy speed reading or binge-watching can create or join clubs that last just a day or two, while those who prefer a slower pace can participate in clubs lasting up to 30 days.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nAnother notable feature allows users to post spoilers while hiding them until others reach that part of the story. Each spoiler is initially blurred, giving users the choice of when to reveal it, which helps everyone stay on the same page. Phictly also includes a “Talk Points” feature, allowing users to set check-in dates to discuss specific episodes or chapters and give everyone the opportunity to join the conversation.\nSimilar to Goodreads, users can also track what they are currently reading or watching, log titles, and set personal goals for their reading or viewing habits.\nFuture updates will introduce a matching system that pairs users based on shared interests, favorite genres, and common TV shows and books. The app will eventually expand to include clubs focused on video games.\nPhictly is free to download but may soon offer a premium subscription with additional features, such as the ability to create a private profile.\n\n\n\t\tLauren covers media, streaming, apps and platforms at TechCrunch.\nYou can contact or verify outreach from Lauren by emailing laurenf.techcrunch@gmail.com or via encrypted message at laurenforris22.25 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Phictly’s new app brings people together over their favorite books and TV shows",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?w=150"
+      ],
+      "datePublished": "2025-11-21T16:47:03.000Z",
+      "dateModified": "2025-11-21T16:47:03.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Google says hackers stole data from 200 companies following Gainsight breach",
     "url": "https://techcrunch.com/2025/11/21/google-says-hackers-stole-data-from-200-companies-following-gainsight-breach/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1125951338.jpg?w=150",
@@ -341,31 +366,6 @@
       ],
       "datePublished": "2025-11-21T18:30:27.000Z",
       "dateModified": "2025-11-21T18:30:27.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Impersonators are (still) targeting companies with fake TechCrunch outreach",
-    "url": "https://techcrunch.com/2025/11/21/impersonators-are-targeting-companies-with-fake-techcrunch-outreach/",
-    "image": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1095167058.jpg?w=150",
-    "tag": "Tech",
-    "date": "2025-11-21T17:00:00.000Z",
-    "description": "\nHi, thanks as always for reading TechCrunch. We want to talk with you quickly about something important. \nA growing number of scammers are impersonat",
-    "body": "\nHi, thanks as always for reading TechCrunch. We want to talk with you quickly about something important. \nA growing number of scammers are impersonating TechCrunch reporters and event leads and reaching out to companies, pretending to be our staff when they absolutely are not. These bad actors are using our name and reputation to try to dupe unsuspecting businesses. It drives us crazy and infuriates us on your behalf. It ebbs and flows. Judging by the increased number of emails we’re receiving, asking, “Does this person really work for you?” it appears to be happening more actively at the moment.\nAnecdotally, this isn’t just happening to us; fraudsters are exploiting the trust that comes with established news brands to get their foot in the door with companies across the media industry.\nHere’s an example of the most common scheme we’ve been tracking: Impostors impersonating our reporters to extract sensitive business information from unsuspecting targets. In several cases we know about, scammers have adopted the identity of actual staff members, crafting what looks like a standard media inquiry about a company’s products and requesting an introductory call.\nSharp-eyed recipients sometimes catch discrepancies in email addresses that don’t match our real employees’ credentials (see a list of bogus email addresses below). But more newly, they are hearing from fake reporters who claim to have address conventions that do match our own, making it tricker to recognize a TechCrunch employee from someone else claiming to be one. Indeed, the schemes evolve quickly; bad actors keep refining their tactics, mimicking reporters’ writing styles, and referencing startup trends to make their pitches increasingly convincing. Equally troubling, victims who agree to phone interviews tell us the fraudsters use those exchanges to dig for even more proprietary details. A PR rep told Axios that someone posing as a TechCrunch reporter raised suspicions when they shared a scheduling link.\nWhy are they doing this? We don’t know, though a reasonable guess is that these are groups looking for initial access to a network or other sensitive information. In fact, former colleagues at Yahoo say these attempts align with a persistent threat actor they’ve been tracking who has historically engaged in TechCrunch impersonation to facilitate account takeover (ATO) and data theft, targeting cryptocurrency, cloud, and other tech companies using various pretexts.\nAs for what to do about it, if someone reaches out claiming to be from TechCrunch and you have even the slightest doubt about whether they’re legitimate, please don’t just take their word for it. We’ve made it easy for you to verify.\nStart by checking our TechCrunch staff page. It’s the quickest way to see if the person contacting you actually works here. If the individual’s name isn’t on our roster, you’ve got your answer right there.\nIf you do see someone’s name on our staff page, but our employee’s job description doesn’t square with the request you are receiving (e.g., a TechCrunch copy editor is suddenly very interested in learning about your business!), a bad actor may be trying to con you.\nIf it sounds like a legitimate request but you want to make doubly certain, you should also feel free to contact us directly and just ask. You can learn how to reach each writer, editor, sales executive, marketing guru, and events team member in our bios.\nWe know it’s frustrating to have to double-check media inquiries, but these groups are counting on you not taking that extra step. By being vigilant about verification, you’re not just protecting your own company — you’re also helping preserve the trust that legitimate journalists depend on to do their jobs.\nThank you. And for your future reference, here’s a list of some of the TechCrunch impersonating domains that we’ve seen created within the last few months:\nemail-techcrunch[.]comhr-techcrunch[.]cominterview-techcrunch[.]commail-techcrunch[.]commedia-techcrunch[.]comnoreply-tc-techcrunch[.]comnoreply-techcrunch[.]compr-techcrunch[.]comtechcrunch-outreach[.]comtechcrunch-startups[.]infotechcrunch-team[.]comtechcrunch[.]aitechcrunch[.]biz[.]idtechcrunch[.]bztechcrunch[.]cctechcrunch[.]chtechcrunch[.]com[.]pltechcrunch[.]gltechcrunch[.]gstechcrunch[.]idtechcrunch[.]ittechcrunch[.]latechcrunch[.]lttechcrunch[.]net[.]cntechcrunch1[.]com\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Impersonators are (still) targeting companies with fake TechCrunch outreach",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1095167058.jpg?w=150"
-      ],
-      "datePublished": "2025-11-21T17:00:00.000Z",
-      "dateModified": "2025-11-21T17:00:00.000Z",
       "author": [
         {
           "@type": "Person",
