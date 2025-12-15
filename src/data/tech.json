@@ -50,31 +50,6 @@
     }
   },
   {
-    "title": "Microsoft buys 3.6M metric tons of carbon removal from bioenergy plant",
-    "url": "https://techcrunch.com/2025/12/12/microsoft-buys-3-6m-metric-tons-of-carbon-removal-from-bioenergy-plant/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/1765443854968.jpeg?w=150",
-    "tag": "Tech",
-    "date": "2025-12-12T19:16:10.000Z",
-    "description": "\nMicrosoft announced Thursday it would buy 3.6 million carbon removal credits from a biofuels plant in Louisiana owned by C2X. The plant, which is sla",
-    "body": "\nMicrosoft announced Thursday it would buy 3.6 million carbon removal credits from a biofuels plant in Louisiana owned by C2X. The plant, which is slated to begin operating in 2029, will process forestry waste into methanol, which can be used to power ships and planes and as a raw material for chemical manufacturing. Altogether, the facility will produce more than 500,000 metric tons of methanol. About 1 million metric tons of carbon dioxide will be captured and stored, likely underground.\nThe purchase is one of many that Microsoft has made in the last year or so, including a 4.9 million metric ton deal with Vaulted Deep, a 3.7 million metric ton agreement with CO280, and a 7 million metric ton buy from Chestnut Carbon. Microsoft’s rapid expansion of its data center footprint has imperiled its 2030 pledge to remove more carbon from the atmosphere than it generates. While the company also buys large amounts of renewable and nuclear power, carbon renewal purchases like these will help offset future fossil fuel emissions.\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Microsoft buys 3.6M metric tons of carbon removal from bioenergy plant",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/12/1765443854968.jpeg?w=150"
-      ],
-      "datePublished": "2025-12-12T19:16:10.000Z",
-      "dateModified": "2025-12-12T19:16:10.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Data breach at credit check giant 700Credit affects at least 5.6 million",
     "url": "https://techcrunch.com/2025/12/12/data-breach-at-credit-check-giant-700credit-affects-at-least-5-6-million/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/05/social-security-cards-104145260.jpg?w=150",
@@ -91,6 +66,31 @@
       ],
       "datePublished": "2025-12-12T17:35:46.000Z",
       "dateModified": "2025-12-12T17:35:46.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Microsoft buys 3.6M metric tons of carbon removal from bioenergy plant",
+    "url": "https://techcrunch.com/2025/12/12/microsoft-buys-3-6m-metric-tons-of-carbon-removal-from-bioenergy-plant/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/1765443854968.jpeg?w=150",
+    "tag": "Tech",
+    "date": "2025-12-12T19:16:10.000Z",
+    "description": "\nMicrosoft announced Thursday it would buy 3.6 million carbon removal credits from a biofuels plant in Louisiana owned by C2X. The plant, which is sla",
+    "body": "\nMicrosoft announced Thursday it would buy 3.6 million carbon removal credits from a biofuels plant in Louisiana owned by C2X. The plant, which is slated to begin operating in 2029, will process forestry waste into methanol, which can be used to power ships and planes and as a raw material for chemical manufacturing. Altogether, the facility will produce more than 500,000 metric tons of methanol. About 1 million metric tons of carbon dioxide will be captured and stored, likely underground.\nThe purchase is one of many that Microsoft has made in the last year or so, including a 4.9 million metric ton deal with Vaulted Deep, a 3.7 million metric ton agreement with CO280, and a 7 million metric ton buy from Chestnut Carbon. Microsoft’s rapid expansion of its data center footprint has imperiled its 2030 pledge to remove more carbon from the atmosphere than it generates. While the company also buys large amounts of renewable and nuclear power, carbon renewal purchases like these will help offset future fossil fuel emissions.\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Microsoft buys 3.6M metric tons of carbon removal from bioenergy plant",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/12/1765443854968.jpeg?w=150"
+      ],
+      "datePublished": "2025-12-12T19:16:10.000Z",
+      "dateModified": "2025-12-12T19:16:10.000Z",
       "author": [
         {
           "@type": "Person",
@@ -175,31 +175,6 @@
     }
   },
   {
-    "title": "Home Depot exposed access to internal systems for a year, says researcher",
-    "url": "https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/home-depot-2200450751.jpg?w=150",
-    "tag": "Tech",
-    "date": "2025-12-12T16:42:57.000Z",
-    "description": "\nA security researcher said Home Depot exposed access to its internal systems for a year after one of its employees published a private access token o",
-    "body": "\nA security researcher said Home Depot exposed access to its internal systems for a year after one of its employees published a private access token online, likely by mistake. The researcher found the exposed token and tried to privately alert Home Depot to its security lapse but was ignored for several weeks. \nThe exposure is now fixed after TechCrunch contacted company representatives last week.\nSecurity researcher Ben Zimmermann told TechCrunch that, in early November, he found a published GitHub access token belonging to a Home Depot employee, which was exposed sometime in early 2024. \nWhen he tested the token, Zimmermann said that it granted access to hundreds of private Home Depot source code repositories hosted on GitHub and allowed the ability to modify their contents. \nThe researcher said the keys allowed access to Home Depot’s cloud infrastructure, including its order fulfillment and inventory management systems, and code development pipelines, among other systems. Home Depot has hosted much of its developer and engineering infrastructure on GitHub since 2015, according to a customer profile on GitHub’s website.\nZimmermann said he sent several emails to Home Depot but didn’t hear back. \nNor did he get a response from Home Depot’s chief information security officer, Chris Lanzilotta, after sending a message over LinkedIn.\nZimmermann told TechCrunch that he has disclosed several similar exposures in recent months to companies, which have thanked him for his findings. \n“Home Depot is the only company that ignored me,” he said.\nGiven that Home Depot does not have a way to report security flaws, such as a vulnerability disclosure or bug bounty program, Zimmermann contacted TechCrunch in an effort to get the exposure fixed.\nWhen reached by TechCrunch on December 5, Home Depot spokesperson George Lane acknowledged receipt of our email but did not respond to follow-up emails asking for comment. The exposed token is no longer online, and the researcher said the token’s access was revoked soon after our outreach.\nWe also asked Lane if Home Depot has the technical means, such as logs, to determine if anyone else used the token during the months it was left online to access any of Home Depot’s internal systems. We did not hear back.\n\n\n\t\tZack Whittaker is the security editor at TechCrunch. He also authors the weekly cybersecurity newsletter, this week in security. \nHe can be reached via encrypted message at zackwhittaker.1337 on Signal. You can also contact him by email, or to verify outreach, at zack.whittaker@techcrunch.com. \t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Home Depot exposed access to internal systems for a year, says researcher",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/12/home-depot-2200450751.jpg?w=150"
-      ],
-      "datePublished": "2025-12-12T16:42:57.000Z",
-      "dateModified": "2025-12-12T16:42:57.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "India’s Spinny lines up $160M funding to acquire GoMechanic, sources say",
     "url": "https://techcrunch.com/2025/12/13/indias-spinny-lines-up-160m-funding-to-acquire-gomechanic-sources-say/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/12/spinny.jpg?w=150",
@@ -250,31 +225,6 @@
     }
   },
   {
-    "title": "Retro, a photo-sharing app for friends, lets you ‘time-travel’ through your camera roll",
-    "url": "https://techcrunch.com/2025/12/12/retro-a-photo-sharing-app-for-friends-lets-you-time-travel-through-your-camera-roll/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/07/Retro.jpg?w=150",
-    "tag": "Tech",
-    "date": "2025-12-12T16:53:28.000Z",
-    "description": "\nRetro, a friend-focused photo-sharing app with roughly a million users, is adding a new feature that lets you time-travel through your old photo memo",
-    "body": "\nRetro, a friend-focused photo-sharing app with roughly a million users, is adding a new feature that lets you time-travel through your old photo memories from your phone’s camera roll. While the app today offers a way to share photos of what’s happening during your week with a private group of friends, or create shared albums, this latest addition, dubbed “Rewind,” is private to you — unless you choose to share the photos with others.\nRetro’s co-founder, Nathan Sharp, explains that the idea for Rewind was inspired by a feature the app already offered and was proving popular.\nToday, at the end of the row showcasing the photos your friends shared during the week, there’s a card you can tap that will let you view your own photos from that same week a year ago. \nHowever, that option wasn’t accessible to newer Retro users, since they hadn’t yet uploaded enough photos to the app to take advantage of the photo memories feature.\nImage Credits:Retro\n“If you’re a new user, you don’t really have the opportunity to go time-travel through your memories in this way,” said Sharp, who had spent over six years at Meta working on products like Instagram Stories and Facebook Dating, before leaving to found his own photo-sharing startup with Ryan Olson, Retro’s CTO, in 2022.\n“The other problem that we saw was that people take more photos than ever, but they actually do less with that volume of photos than ever before. So it’s almost as if those photos go into the ether,” he added.\nThe addition, to some extent, is pushback against the growing trend of AI-generated content and “for you” feed-style algorithms.\n“As people engage with those platforms more and more, something that has to be true and will be true is that people will still want to see more of their friends,” Sharp says. “The photos and videos you take will need to find a place where they can reach the intended audience.”\nImage Credits:Retro\nAlthough nearly half (45.7%) of Retro’s users participate in the app on a daily basis, the Rewind feature could boost that engagement even higher.  \nTo try Rewind, you can either launch it from the end of the row of shared photos, just past the “this week in” card, or from its more prominent position as the middle tab in the bottom navigation bar. \nWhen launched, there’s a haptic response as the screen starts cycling through the older photos pulled from your camera roll. These memories aren’t being shared, but you can tap on the share icon if you feel inspired to send them to a friend or post them. In addition, you can opt to hide photos you’d rather not see (like those of an ex), or tap a “dice” icon to be taken to a random memory instead.\nAs the iPod-inspired dial clicks back into your past, you’ll feel a subtle vibration as each new memory loads. You can also spin the dial to move forward or backward in time, watching the photos from months and years past flip by on the screen, pausing at those you want to view longer or share.\nImage Credits:Retro screenshot/TechCrunch\nYou can press and hold on any photo to see it uncropped, and when you share a photo, a timestamp is added at the bottom so friends will understand it’s not a new pic. \nWhile screenshots won’t appear in this photo archive, other photos — like those of receipts or whiteboards at work will show up, as they could still be interesting memories to you. (And if you come across a photo you don’t need to keep, deleting it from the app will also delete it from your camera roll.)\nThe idea to look back at older photo memories is hardly new, of course.\nIn the past, a startup called Timehop popularized the idea of doing something more with our growing digital photo archives by allowing users to revisit old photos through its simple mobile app. Later, Facebook copied the idea for its “On This Day” feature, and photo-hosting services like Google Photos and Apple Photos added memories features of their own.\nStill, Sharp doesn’t believe these will be direct competitors for Retro. Facebook, over the years, has downranked friends’ content as its feed became filled with links, news, and ads. Meanwhile, people tend to think of Apple’s and Google’s photo apps more as utilities for managing and storing photos, not as social apps like Retro.\n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Retro, a photo-sharing app for friends, lets you ‘time-travel’ through your camera roll",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2023/07/Retro.jpg?w=150"
-      ],
-      "datePublished": "2025-12-12T16:53:28.000Z",
-      "dateModified": "2025-12-12T16:53:28.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Google Translate now lets you hear real-time translations in your headphones",
     "url": "https://techcrunch.com/2025/12/12/google-translate-now-lets-you-hear-real-time-translations-in-your-headphones/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2196352264.jpg?w=150",
@@ -300,22 +250,47 @@
     }
   },
   {
-    "title": "How iRobot lost its way home",
-    "url": "https://techcrunch.com/2025/12/14/how-irobot-lost-its-way-home/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/01/Screenshot-2023-09-08-at-5.04.04PM.jpg?w=150",
+    "title": "Mirelo raises $41M from Index and a16z to solve AI video’s silent problem",
+    "url": "https://techcrunch.com/2025/12/15/mirelo-raises-41m-from-index-and-a16z-to-solve-ai-videos-silent-problem/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Mirelo-cofounders.jpg?w=150",
     "tag": "Tech",
-    "date": "2025-12-15T02:29:22.000Z",
-    "description": "\nThere’s something painfully American about the arc of iRobot, the company that taught your vacuum to navigate around the furniture. Founded in 1990 i",
-    "body": "\nThere’s something painfully American about the arc of iRobot, the company that taught your vacuum to navigate around the furniture. Founded in 1990 in Bedford, Massachusetts by MIT roboticist Rodney Brooks and his former students Colin Angle and Helen Greiner, the company filed for Chapter 11 bankruptcy on Sunday, punctuating a 35-year run that took it from the dreams of AI researchers to your kitchen floor and, finally, to the tender mercies of its Chinese supplier.\nBrooks, the founding director of MIT’s Computer Science and Artificial Intelligence Lab and the robotics field’s resident provocateur, spent the eighties watching insects and having epiphanies about how simple systems could produce complex behaviors. By 1990, he’d translated those insights into a company that would eventually sell over 50 million robots. The Roomba, launched in 2002, became the rare gadget that transcended its category to become a verb, a meme, and, to the amusement of many, a cat-transportation device.\nThe money soon followed, with the company raising $38 million altogether, including from The Carlyle Group, before going public in a 2005 IPO that raised $103.2 million. By 2015, iRobot was flush enough to launch its own venture arm, prompting TechCrunch to wryly declare that “robot domination may have just taken another step forward.” The plan at the time was to invest $100,000 to $2 million in up to 10 seed and Series A robotics startups each year. It was the kind of move that marks a company’s arrival, the moment when you’re successful enough to fund the next generation’s dreams.\nThen Amazon came knocking. In 2022, the corporate giant agreed to acquire iRobot for $1.7 billion in what would have been Amazon’s fourth-largest acquisition ever at the time. In a press release announcing the tie-up, Angle, who’d been CEO since the company’s inception, spoke about “creating innovative, practical products” and finding “a better place for our team to continue our mission.” It seemed like a fairy tale ending — the scrappy MIT spinoff absorbed into the Everything Store’s sprawling empire.\nExcept European regulators had other ideas. Indeed, amid threats they would block the deal — they believed Amazon could foreclose rivals by restricting or degrading access to its marketplace — Amazon and iRobot agreed to kill the deal in January 2024, with Amazon paying a $94 million breakup fee and walking away. Angle resigned. The company’s shares nosedived. It shed 31% of its workforce.\nWhat followed afterward was a slow-motion collapse. Earnings had been declining since 2021 thanks to supply chain chaos and Chinese competitors flooding the market with cheaper robot vacuums. The Carlyle Group, which provided a $200 million lifeline back in 2023, ultimately just prolonged the inevitable. (Carlyle finally sold that loan last month — presumably at a discount, though it didn’t specify either way.)\nNow it’s over, at least, the version of iRobot that existed previously. Shenzhen PICEA Robotics, iRobot’s main supplier and lender, will take control of the reorganized company. According to a release issued by iRobot on Sunday, the restructuring plan allows iRobot to remain as a going concern and “continue operating in the ordinary course with no anticipated disruption to its app functionality, customer programs, global partners, supply chain relationships, or ongoing product support.”\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nIt also vowed to “meet its commitments to employees and make timely payments in full to vendors and other creditors for amounts owed throughout the court-supervised process.”\nWhat this means for customers longer term is another question, one iRobot was eager to answer when we reached out to the company. “To be clear, today’s news has no impact on our business operations or our ability to serve our customers – which continues to be our top priority,” said spokeswoman Michèle Szynal in an emailed statement to TechCrunch. “We remain focused on delivering intelligent home innovations that make consumers’ lives better and easier.  Our products are not changing.”\nIn its release, iRobot similarly promises to keep supporting existing products during restructuring; at the same time, its legal disclosures acknowledge the inherent uncertainties of bankruptcy — whether suppliers stick around, whether the process goes as planned, whether the company survives at all.\nAs The Verge noted in a story about iRobot’s struggles last month, even if iRobot eventually collapses and takes its cloud services down with it, customers’ Roomba vacuums won’t become useless pucks. The physical controls should keep working — a Roomba owner could still jab the button to send it off to vacuum or tell it to head home. \nWhat Roomba owners would lose is everything that make the devices feel futuristic, including app-based scheduling, the ability to tell it which rooms to clean, and voice commands barked at Alexa while sprawled on the couch.\nUpdate: This story has been updated with comment from iRobot.\n\n\n\t\tLoizos has been reporting on Silicon Valley since the late ’90s, when she joined the original Red Herring magazine. Previously the Silicon Valley Editor of TechCrunch, she was named Editor in Chief and General Manager of TechCrunch in September 2023. She’s also the founder of StrictlyVC, a daily e-newsletter and lecture series acquired by Yahoo in August 2023 and now operated as a sub brand of TechCrunch.\nYou can contact or verify outreach from Connie by emailing connie@strictlyvc.com or connie@techcrunch.com, or via encrypted message at ConnieLoizos.53 on Signal.\r\n\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2025-12-15T12:30:00.000Z",
+    "description": "\nAI lets anyone create videos, but many AI video creation tools lack support for audio. Mirelo is building AI that adds soundtracks to match the video",
+    "body": "\nAI lets anyone create videos, but many AI video creation tools lack support for audio. Mirelo is building AI that adds soundtracks to match the video’s action. \nEarlier this year, the Berlin-based startup released Mirelo SFX v1.5, an AI model that interprets videos to add synced sound effects (SFX). \nThis attracted attention from VCs gearing up for a generative AI revolution in games. The two-year-old German startup has raised a $41 million seed round led by Index Ventures and Andreessen Horowitz, TechCrunch learned exclusively.\nThis new capital will help Mirelo compete more effectively in its emerging category. While it was still in stealth mode and resource-constrained, large companies such as Sony and Tencent released video-to-SFX models. So did Kuaishou-owned Kling AI, out of China, and ElevenLabs, which is also backed by a16z.\nWhile Mirelo already differs from them by its narrower focus, beating these models in the long run requires the startup to make additional hires. Altogether, the startup expects its team of 10 people to “double if not triple” in headcount by the end of next year, Mirelo CEO and co-founder CJ Simon-Gabriel told TechCrunch.\nThese new hires will support Mirelo’s R&D, as well as its product and go-to-market strategy. The startup published its models on Fal.ai and Replicate, and expects API usage to drive most of its revenue in the short term, Simon-Gabriel said. But it is also investing in building out its workspace for creators, Mirelo Studio, which could eventually support full professional use.\nAs Mirelo prepares to scale, the startup and its investors are also anticipating concerns around training data that have dogged other generative AI companies. According to Georgia Stevenson, who led Index’s investments, Mirelo based its models on public and purchased sound libraries, and is signing revenue-sharing partnerships that respect artists’ rights. \nIt’s a tension inherent to generative AI tools, but Mirelo isn’t displacing musicians and sound designers — at least not yet. With a freemium model including a recommended plan for creators priced at €20/month (approximately $23.50), the startup is mostly targeting amateurs and prosumers hoping to unmute AI-generated videos.\nAccording to Simon-Gabriel, creators can’t fully benefit from this new potential without audio. \n“George Lucas said that sound is 50% of the movie-going experience. It’s not an overstatement,” he said. “If anything, it’s an understatement. You can take exactly the same images, and the sound will shape a completely different ambience, depending on the sound and the music that you put in there.”\nHe and his co-founder, Florian Wenzel, are both AI researchers and musicians themselves, and the startup has AI music generation on its roadmap. But Mirelo is seeing more pull for sound effects, in part because there is less research happening than in other AI fields, Simon-Gabriel said. \n“It’s easier to build a real moat here, and then to capitalize on it,” he noted.\nThis could pay off for Mirelo. Simon-Gabriel declined to disclose its new valuation, but said it had increased “very significantly” compared to its previously undisclosed pre-seed round. That earlier round was led by Berlin-based firm Atlantic, which also participated in the new funding, bringing Mirelo’s total raised to $44 million and helping close its resource gap.\nThe startup is also backed by angels who lend credibility to its technology and could open new doors, including Mistral CEO Arthur Mensch, Hugging Face chief science officer Thomas Wolf, Fal.ai co-founder Burkay Gur, and others.\nStill, the team is aware that AI-generated videos may not be mute for long. \nFor instance, Gemini’s video generator now incorporates soundtracks powered by DeepMind’s Veo 3.1 video-to-audio model. But if anything, Simon-Gabriel sounds vindicated. “Now, suddenly, people realize, ‘Oh, maybe we should add sound.’ But, of course, you should add some. It’s a bit like silent movies versus talkies, right? It does make quite a difference!”\n\n\n\t\tAnna Heim is a writer and editorial consultant. \nYou can contact or verify outreach from Anna by emailing annatechcrunch [at] gmail.com.\nAs a freelance reporter at TechCrunch since 2021, she has covered a large range of startup-related topics including AI, fintech & insurtech, SaaS & pricing, and global venture capital trends.\nAs of May 2025, her reporting for TechCrunch focuses on Europe’s most interesting startup stories.\nAnna has moderated panels and conducted onstage interviews at industry events of all sizes, including major tech conferences such as TechCrunch Disrupt, 4YFN, South Summit, TNW Conference, VivaTech, and many more.\nA former LATAM & Media Editor at The Next Web, startup founder and Sciences Po Paris alum, she’s fluent in multiple languages, including French, English, Spanish and Brazilian Portuguese.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "How iRobot lost its way home",
+      "headline": "Mirelo raises $41M from Index and a16z to solve AI video’s silent problem",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/01/Screenshot-2023-09-08-at-5.04.04PM.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2025/12/Mirelo-cofounders.jpg?w=150"
       ],
-      "datePublished": "2025-12-15T02:29:22.000Z",
-      "dateModified": "2025-12-15T02:29:22.000Z",
+      "datePublished": "2025-12-15T12:30:00.000Z",
+      "dateModified": "2025-12-15T12:30:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Thea Energy previews Helios, its pixel-inspired fusion power plant",
+    "url": "https://techcrunch.com/2025/12/15/thea-energy-previews-helios-its-pixel-inspired-fusion-power-plant/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Thea-Energy-Helios-Maintainability-STILL.png?w=150",
+    "tag": "Tech",
+    "date": "2025-12-15T12:30:00.000Z",
+    "description": "\nFusion power has the potential to rewrite trillion-dollar energy markets, but first, startups have to prove their designs will work and won’t be too ",
+    "body": "\nFusion power has the potential to rewrite trillion-dollar energy markets, but first, startups have to prove their designs will work and won’t be too costly. Neither is easy, especially when considering the massive magnets and lasers used in many designs must be installed with millimeter precision or better.\nFusion startup Thea Energy says it’s pixel-inspired reactor and specialized control software should be able to generate power without requiring the same level of perfection.\n“It doesn’t have to be as good to begin with,” Brian Berzin, co-founder and CEO of Thea Energy,  told TechCrunch. “We have a way to tune out imperfections on the back end.” That margin of error could give Thea a leg up on the competition. \nFusion power plants promise to deliver gigawatts of clean power to the grid, but material and construction costs threaten to make them uncompetitive with cheap solar and wind. By building a power plant first and ironing out the kinks in software, Thea could help bring the cost of fusion power down dramatically.\nThis animation shows how Helios can be disassembled for maintenance.Image Credits:Thea Energy\nBut first the company has to build a working prototype. Today, Thea is publishing the details of its design, including the details of the physics that underpin it. The startup shared the paper exclusively with TechCrunch.\nThea is building a unique take on the stellarator, a specific type of reactor that uses magnets to whip the plasma fuel into shape. Magnets are one of the two main ways that fusion scientists keep plasma heat and confine plasma until fusion reactions occur. The other, known as inertial confinement, uses lasers or some other force to squeeze small fuel pellets.\nMost stellarators are built with magnets that looks at home in a Salvador Dali painting. But Thea’s design uses a dozen larger magnets and hundreds of smaller ones to create what you might call a “virtual” stellarator.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nIn a typical stellarator, the magnets are built to follow the contours of a shape that’s intended to work with the quirks of plasma, helping to confine it for longer using less power than tokamaks, which use a series of identically sized and shaped magnets. Yet stellarators have one major disadvantage: the irregular shape makes mass manufacturing magnets challenging.\nSo instead, Thea designed its reactor around small, identical superconducting magnets that are arranged in arrays. The startup will use software to control each magnet individually to generate magnetic fields that can replicate a stellarator’s wobbly shape.\nA cutaway view of plasma flowing through Helios’s reactor core.Image Credits:Thea Energy\nThe approach has several upsides. For one, it has allowed Thea to rapidly iterate on its magnet design. In the last two years, the company has tweaked the design more than 60 times, Berzin said. “Most fusion companies, you’re dealing with magnets that are the size of a car or a laser the size of a car or a wedge the size of car. That unfortunately means one is $20 million and takes two years [to make],” he said.\nIt has also meant the company can use software controls to overcome any irregularities in the way the magnets were made or installed. To test its original control system, Thea built a three-by-three array of its magnets laced with sensors. The controls, which were derived from the physics of electromagnetism, worked well. But the company also wanted to see how AI might handle the task, so it also trained a new one using reinforced learning.\nThe team came away surprised at how well it all worked.\n“We purposefully threw curveballs at the array,” Berzin said. “We purposefully dismounted a magnet by literally over a centimeter. You could see it was super out of line. It was really hard for us to actually manufacture it so poorly.” The team also tested superconducting material from five different manufacturers along with intentionally defective material. “Every single time we did that, the control system, without us turning knobs and intervening, was able to tune out those defects,” he said.\nThea’s reactor design, Helios, will use two types of magnets. One the outside, 12 large magnets of four different shapes will do the heavy lifting to keep the plasma confined. They’re similar to those found on a tokamak, the type of doughnut-shaped reactor that competitor Commonwealth Fusion Systems is building. Inside the large coils, 324 smaller circular magnets will fine tune the shape of the plasma.\nThe startup predicts Helios will generate 1.1 gigawatts of heat, which a steam turbine will turn into 390 megawatts of electricity. The reactor will have to shut down for an 84-day maintenance period once every two years. If all goes well, that means its capacity factor — a measure of how much power it generates over a given period of time — will be 88%. That’s far better than today’s gas-fired power plants and almost as good as today’s nuclear power plants.\nHelios is still in the conceptual phase. Thea first has to build Eos, its initial fusion device that’s intended to prove the science behind the concept. Berzin said the company will announce a site for Eos in 2026 with plans to turn it on “around 2030.” \nAs it builds Eos, Thea plans to start work in parallel on Helios. It’s a similar approach to how Commonwealth Fusion Systems is moving forward with work on Arc, its first commercial power plant, while building Sparc, its demonstration plant.\nFor now, Berzin is looking forward to hearing what the fusion community thinks. “This is the release of the overview paper. This will be followed up by quite a substantial amount of work that will come out via peer review and publication,” he said. “Now is the moment for us to go and set up the partnerships, collaborations, get the end users engaged to go build the first one.”\n\n\n\t\tTim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor. \r\nDe Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.\r\nYou can contact or verify outreach from Tim by emailing tim.dechant@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Thea Energy previews Helios, its pixel-inspired fusion power plant",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/12/Thea-Energy-Helios-Maintainability-STILL.png?w=150"
+      ],
+      "datePublished": "2025-12-15T12:30:00.000Z",
+      "dateModified": "2025-12-15T12:30:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -366,6 +341,31 @@
       ],
       "datePublished": "2025-12-15T01:30:00.000Z",
       "dateModified": "2025-12-15T01:30:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Inside Rivian’s big bet on AI-powered self-driving",
+    "url": "https://techcrunch.com/2025/12/12/inside-rivians-big-et-on-ai-powered-self-driving/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/rj-scaringe.jpeg?w=150",
+    "tag": "Tech",
+    "date": "2025-12-12T21:44:50.000Z",
+    "description": "\nThe robot swerved through the cafeteria of Rivian’s Palo Alto office, shelves adorned with chilled canned coffees — until it didn’t. Five minutes lat",
+    "body": "\nThe robot swerved through the cafeteria of Rivian’s Palo Alto office, shelves adorned with chilled canned coffees — until it didn’t. Five minutes later, a man carefully pushed it out of everyone’s way, the words “I’m stuck” flashing yellow on the poor droid’s screen.\nIt was an inauspicious start to Rivian’s “Autonomy & AI Day,” a showcase for the company’s plans to make its vehicles capable of driving themselves. Rivian doesn’t make the cafeteria robot and isn’t responsible for its abilities, but there was a familiar message in its foibles: this stuff is hard.\nHours later, as I rode in a 2025 R1S SUV during my 15-minute demo of Rivian’s new self-described “Large Driving Model,” I was reminded of that message.\nThe EV equipped with the automated-driving software drove myself and two Rivian employees on a switchback route near the company’s campus. As we glided past Tesla’s engineering office, I noticed a Model S in front of us slow to turn into the rival company’s lot. The R1S eventually noticed this, too, braking hard just before the Rivian employee nearly intervened.\nDuring my demo drive, there was one actual disengagement. The employee in the driver’s seat took over as we passed through a one-lane section of road due to some tree-trimming. Minor stuff overall. But it wasn’t exactly rare either; I spotted multiple other demo rides that had disengagements, too.\nThe rest of the drive went well enough for software that is not ready to be shipped, especially when you consider that Rivian threw out its old rules-based driver assistance system and adopted an end-to-end approach — which is how Tesla developed Full Self-Driving (Supervised). It stopped at stoplights, it handled turns, it slowed for speed bumps, all without programmed rules telling it to do these things.\nA quiet pivot in 2021\nImage Credits:Rivian\nRivian’s old system “was all very deterministic, and it was all very structured,” CEO RJ Scaringe said in an interview Thursday. “Everything that the vehicle did was the result of a prescribed control strategy written by humans.”\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nScaringe said that when Rivian saw transformer-based artificial intelligence taking off in 2021, he quietly “reconstituted the team and started with a clean sheet and said, let’s design our self-driving platform for an AI-centric world.”\nAfter spending “a lot of time in the basement,” Rivian launched the new ground-up driving software in 2024 on its second-generation R1 vehicles, which use Nvidia’s Orin processors. \nScaringe said it was only recently that his company started to see dramatic progress “once the data started really pouring in.”\nRivian is betting it can train its Large Driving Model (LDM) on fleet data so quickly that it will allow the company to roll out what it calls “Universal Hands-Free” later this month. That means Rivian owners will be able to take their hands off the wheel on 3.5 million miles of roads in the U.S. and Canada (so long as there are visible painted lines). In the back half of 2026, Rivian will allow “point-to-point” driving, or the consumer version of the demo we received Thursday.\nThe ‘eyes off’ to ‘hands off’ challenge\nBy the end of 2026, after Rivian has started shipping its smaller, more affordable R2 SUVs, it will ditch the Nvidia chips and outfit those vehicles with a new custom autonomy computer unveiled Thursday. That computer, plus a lidar sensor, will eventually allow drivers to take their hands and eyes off the road. True autonomy — where a driver doesn’t have to worry about re-taking control of the vehicle — lies well beyond that and will largely depend on how fast Rivian can train its LDM.\nThis rollout introduces a near-term challenge for Rivian. The new autonomy computer and lidar won’t be ready until months after the R2 goes on sale. If customers want a vehicle that can handle eyes-off driving (or more), they’ll have to wait. But the R2 is a crucial product for Rivian, and the company needs it to sell well — especially in the wake of declining sales of its first-generation vehicles.\n“When tech is moving as fast as it is, there’s always going to be some level of obsolescence, and so what we want to do here is to be really direct” about what’s coming, Scaringe said. The early R2s will still get Rivian’s promised “point-to-point” driving, which will be based on the new software and will be hands-off but not eyes-off.\n“So [if] you’re buying an R2 and you buy it in the first nine months, it’s just going to be more constrained,” he said. “I think what will happen is some customers will say ‘that matters a lot to me, and I’m going to wait.’ And some will say ‘I want the newest, best things now, and I’m going to get the R2 now, and maybe I’ll trade it in a year or two, and I’ll get the next version later. Fortunately, there’s so much demand backlog for R2 that we think, by being upfront with this, customers can make the decision themselves.”\n“In a perfect world, everything times at the same time, but the timeline of the vehicle and the timeline of the autonomy platform are just not perfectly aligned,” he said.\nWhen I first interviewed Scaringe in 2018, before Rivian even showed what its vehicles looked like, he shared a goal that still rattles around my head. He wanted to make Rivian’s vehicles so capable of driving themselves that: “if you go for a hike, and you start at one point and you finish at another point, you have the vehicle meet you at the end of the trail.”\nIt was the kind of pie-in-the-sky promise about self-driving cars that was all the rage seven years ago, but it stuck with me at least because it was something that felt true to Rivian’s whole brand of aspirational adventure.\nScaringe told me Thursday he still thinks it’s possible for Rivian to enable a use case like that in the next few years. It certainly won’t happen until the company tests and builds its more-capable R2 vehicles, which is at least a year away in a best-case scenario.\n“We could [do that]. It’s not been a huge focus,” he said. That could change as the company gets closer to level 4 autonomy, though, since by then the company will have its LDM trained on trickier roads without guiding features like lane lines.\n“Then, it becomes a bit of a like, what’s the ODD [operational design domain]? Dirt roads, off road? Easy,” he said. Just don’t expect a Rivian driving itself up Hell’s Gate in Moab.\n“We’re not putting any resources into rock crawling autonomously,” he said. “But in terms of getting to the trail head? For sure.”\nThis story has been updated to reflect that Rivian’s Universal Hands-Free update is coming later this month.\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Inside Rivian’s big bet on AI-powered self-driving",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/12/rj-scaringe.jpeg?w=150"
+      ],
+      "datePublished": "2025-12-12T21:44:50.000Z",
+      "dateModified": "2025-12-12T21:44:50.000Z",
       "author": [
         {
           "@type": "Person",
