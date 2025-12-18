@@ -1,30 +1,5 @@
 [
   {
-    "title": "Instacart’s AI-driven pricing tool attracted attention — now the FTC has questions",
-    "url": "https://techcrunch.com/2025/12/17/instacarts-ai-driven-pricing-tool-attracted-attention-now-the-ftc-has-questions/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-86056904.jpg?w=150",
-    "tag": "Tech",
-    "date": "2025-12-18T02:23:43.000Z",
-    "description": "\nIn Brief\nPosted:\n6:23 PM PST · December 17, 2025\n\nImage Credits:Brian Hagiwara / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nAccording to",
-    "body": "\nIn Brief\nPosted:\n6:23 PM PST · December 17, 2025\n\nImage Credits:Brian Hagiwara / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nAccording to Reuters, Instacart is currently getting the regulatory equivalent of a throat-clearing from the FTC, which has sent the grocery delivery platform a civil investigative demand regarding its AI-powered pricing tool, Eversight. Put another way, the agency wants to know why some people are paying substantially more for their organic granola than others.\nThe issue came to light after a study revealed that shoppers are seeing fairly different prices for identical groceries from the same stores — up to 23% higher prices in some cases. Instacart says these price tests were randomized, not tied to an algorithm that targets customers based on their browsing history. But when people are already anxious about affording eggs, that distinction probably doesn’t mean much.\nDynamic pricing isn’t new or necessarily nefarious. Harvard Business School will tell you it’s how digital platforms stay competitive. Airlines use it, hotels use it, Uber famously uses it. Companies argue that it helps balance supply and demand, maximizes profitability, and creates win-win scenarios.\nBut there’s a difference between paying surge pricing for a ride home from the bar and paying extra for groceries (food isn’t optional). So while the investigation doesn’t prove wrongdoing, it’s hardly shocking that the FTC — which has investigated data-driven pricing strategies by other companies — is reportedly asking questions. In an economy where everyone’s feeling squeezed, AI-driven price testing of kitchen essentials was bound to attract attention.\nFor its part, Instacart says the market misunderstands this particular initiative. “Much of what’s been reported has mischaracterized how pricing works on Instacart,” a spokesperson for the company tells TechCrunch. “First, our retail partners control their pricing strategies, and we work with them to align their online and in-store pricing wherever possible. Second, these tests are not dynamic pricing nor surveillance pricing – prices on Instacart do not change in real time nor are they based on supply or demand, and we never use personal, demographic, or user-level behavioral data to set item prices. These tests are a form of randomized A/B testing, similar to the way retailers have long run pricing tests between different stores.” \n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\nLatest in Commerce\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Instacart’s AI-driven pricing tool attracted attention — now the FTC has questions",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-86056904.jpg?w=150"
-      ],
-      "datePublished": "2025-12-18T02:23:43.000Z",
-      "dateModified": "2025-12-18T02:23:43.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Jared Isaacman confirmed as next head of NASA",
     "url": "https://techcrunch.com/2025/12/17/jared-isaacman-confirmed-as-next-head-of-nasa/",
     "image": "https://techcrunch.com/wp-content/uploads/2021/02/Jared_Isaacman_at_SpaceX_2.jpg?w=150",
@@ -41,6 +16,31 @@
       ],
       "datePublished": "2025-12-17T21:52:17.000Z",
       "dateModified": "2025-12-17T21:52:17.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Instacart’s AI-driven pricing tool attracted attention — now the FTC has questions",
+    "url": "https://techcrunch.com/2025/12/17/instacarts-ai-driven-pricing-tool-attracted-attention-now-the-ftc-has-questions/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-86056904.jpg?w=150",
+    "tag": "Tech",
+    "date": "2025-12-18T02:23:43.000Z",
+    "description": "\nIn Brief\nPosted:\n6:23 PM PST · December 17, 2025\n\nImage Credits:Brian Hagiwara / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nAccording to",
+    "body": "\nIn Brief\nPosted:\n6:23 PM PST · December 17, 2025\n\nImage Credits:Brian Hagiwara / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nAccording to Reuters, Instacart is currently getting the regulatory equivalent of a throat-clearing from the FTC, which has sent the grocery delivery platform a civil investigative demand regarding its AI-powered pricing tool, Eversight. Put another way, the agency wants to know why some people are paying substantially more for their organic granola than others.\nThe issue came to light after a study revealed that shoppers are seeing fairly different prices for identical groceries from the same stores — up to 23% higher prices in some cases. Instacart says these price tests were randomized, not tied to an algorithm that targets customers based on their browsing history. But when people are already anxious about affording eggs, that distinction probably doesn’t mean much.\nDynamic pricing isn’t new or necessarily nefarious. Harvard Business School will tell you it’s how digital platforms stay competitive. Airlines use it, hotels use it, Uber famously uses it. Companies argue that it helps balance supply and demand, maximizes profitability, and creates win-win scenarios.\nBut there’s a difference between paying surge pricing for a ride home from the bar and paying extra for groceries (food isn’t optional). So while the investigation doesn’t prove wrongdoing, it’s hardly shocking that the FTC — which has investigated data-driven pricing strategies by other companies — is reportedly asking questions. In an economy where everyone’s feeling squeezed, AI-driven price testing of kitchen essentials was bound to attract attention.\nFor its part, Instacart says the market misunderstands this particular initiative. “Much of what’s been reported has mischaracterized how pricing works on Instacart,” a spokesperson for the company tells TechCrunch. “First, our retail partners control their pricing strategies, and we work with them to align their online and in-store pricing wherever possible. Second, these tests are not dynamic pricing nor surveillance pricing – prices on Instacart do not change in real time nor are they based on supply or demand, and we never use personal, demographic, or user-level behavioral data to set item prices. These tests are a form of randomized A/B testing, similar to the way retailers have long run pricing tests between different stores.” \n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\nLatest in Commerce\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Instacart’s AI-driven pricing tool attracted attention — now the FTC has questions",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-86056904.jpg?w=150"
+      ],
+      "datePublished": "2025-12-18T02:23:43.000Z",
+      "dateModified": "2025-12-18T02:23:43.000Z",
       "author": [
         {
           "@type": "Person",
@@ -75,31 +75,6 @@
     }
   },
   {
-    "title": "Warner Bros. Discovery rejects Paramount’s hostile bid, calls offer ‘illusory’",
-    "url": "https://techcrunch.com/2025/12/17/warner-bros-discovery-rejects-paramounts-hostile-bid-calls-offer-illusory/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/09/warner-bros.jpg?w=150",
-    "tag": "Tech",
-    "date": "2025-12-17T15:30:22.000Z",
-    "description": "\nIn Brief\nPosted:\n7:30 AM PST · December 17, 2025\n\nImage Credits:Victor J. Blue/Bloomberg / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nWa",
-    "body": "\nIn Brief\nPosted:\n7:30 AM PST · December 17, 2025\n\nImage Credits:Victor J. Blue/Bloomberg / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nWarner Bros. Discovery’s (WBD) board of directors has rejected the $108 billion hostile takeover bid from David Ellison’s Paramount Skydance, calling the offer “illusory,” and saying that Paramount had misled shareholders about its financing.\nSaying it wants to honor its initial agreement to sell to Netflix, WBD’s board wrote in a letter to shareholders that Paramount “has consistently misled WBD shareholders that its proposed transaction has a ‘full backstop’ from the Ellison family.” \n“It does not, and never has,” the letter reads.\nWBD’s board said Paramount’s tender offer remains “inferior to the Netflix merger” and noted that Netflix’s $27.75-per-share offer for Warner Bros’ Hollywood studios and streaming business “is a binding agreement with enforceable commitments, with no need for any equity financing and robust debt commitments.”\nNetflix welcomed the move. “The Warner Bros. Discovery board reinforced that Netflix’s merger agreement is superior and that our acquisition is in the best interests of stockholders,” said Netflix co-CEO Ted Sarandos in a statement.\nParamount and Ellison’s backers, including his father, tech billionaire Larry Ellison, will review WBD’s rejection and determine whether to raise their offer, Variety reports.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\nLatest in Media & Entertainment\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Warner Bros. Discovery rejects Paramount’s hostile bid, calls offer ‘illusory’",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/09/warner-bros.jpg?w=150"
-      ],
-      "datePublished": "2025-12-17T15:30:22.000Z",
-      "dateModified": "2025-12-17T15:30:22.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Amazon reportedly in talks to invest $10B in OpenAI as circular deals stay popular",
     "url": "https://techcrunch.com/2025/12/17/amazon-reportedly-in-talks-to-invest-10b-in-openai-as-circular-deals-stay-popular/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?w=150",
@@ -125,22 +100,22 @@
     }
   },
   {
-    "title": "Google’s vibe-coding tool Opal comes to Gemini",
-    "url": "https://techcrunch.com/2025/12/17/googles-vibe-coding-tool-opal-comes-to-gemini/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/Google-Opal.jpg?w=150",
+    "title": "Warner Bros. Discovery rejects Paramount’s hostile bid, calls offer ‘illusory’",
+    "url": "https://techcrunch.com/2025/12/17/warner-bros-discovery-rejects-paramounts-hostile-bid-calls-offer-illusory/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/09/warner-bros.jpg?w=150",
     "tag": "Tech",
-    "date": "2025-12-17T15:16:42.000Z",
-    "description": "\nGoogle’s vibe-coding tool, Opal, is making its way to Gemini. The company on Wednesday said it is integrating the tool, which lets you build AI-power",
-    "body": "\nGoogle’s vibe-coding tool, Opal, is making its way to Gemini. The company on Wednesday said it is integrating the tool, which lets you build AI-powered mini apps, inside the Gemini web app, allowing users to create their own custom apps, which Google calls Gems.\nIntroduced in 2024, Gems are customized versions of Gemini designed for specific tasks or scenarios. For instance, some of Google’s pre-made Gems include a learning coach, a brainstorming assistant, a career guide, a coding partner, and an editor.\nOpal, meanwhile, focuses on helping users create mini-apps or mix existing apps. To use the feature, users describe in natural language the app they want to make, and the tool will use the different Gemini models to create it.\nNow, Opal is directly available from Gemini on the web, where it’s found in the Gems manager. The tool has a visual editor that lays out the steps required to create an application. From the editor, users can rearrange steps and link them together, without writing code.\nGoogle notes that the visual editor also includes a new view in Gemini that will take the user’s written prompts and turn them into a list of steps. This makes it even easier to build apps and see how they work.\nFor more advanced customization options, users can move from Gemini to the Advanced Editor at opal.google.com. The mini apps can be reused after they’re created.\nKnown as “vibe-coding,” using AI to program and make apps has skyrocketed in popularity over the past couple of years. The market now has apps from startups like Lovable and Cursor, as well as offerings from AI providers like Anthropic and OpenAI. There are also tools focused more directly on consumers, like those from AI-powered app-building startup Wabi.\nGemini’s web app is available at gemini.google.com.\n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2025-12-17T15:30:22.000Z",
+    "description": "\nIn Brief\nPosted:\n7:30 AM PST · December 17, 2025\n\nImage Credits:Victor J. Blue/Bloomberg / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nWa",
+    "body": "\nIn Brief\nPosted:\n7:30 AM PST · December 17, 2025\n\nImage Credits:Victor J. Blue/Bloomberg / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nWarner Bros. Discovery’s (WBD) board of directors has rejected the $108 billion hostile takeover bid from David Ellison’s Paramount Skydance, calling the offer “illusory,” and saying that Paramount had misled shareholders about its financing.\nSaying it wants to honor its initial agreement to sell to Netflix, WBD’s board wrote in a letter to shareholders that Paramount “has consistently misled WBD shareholders that its proposed transaction has a ‘full backstop’ from the Ellison family.” \n“It does not, and never has,” the letter reads.\nWBD’s board said Paramount’s tender offer remains “inferior to the Netflix merger” and noted that Netflix’s $27.75-per-share offer for Warner Bros’ Hollywood studios and streaming business “is a binding agreement with enforceable commitments, with no need for any equity financing and robust debt commitments.”\nNetflix welcomed the move. “The Warner Bros. Discovery board reinforced that Netflix’s merger agreement is superior and that our acquisition is in the best interests of stockholders,” said Netflix co-CEO Ted Sarandos in a statement.\nParamount and Ellison’s backers, including his father, tech billionaire Larry Ellison, will review WBD’s rejection and determine whether to raise their offer, Variety reports.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\nLatest in Media & Entertainment\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Google’s vibe-coding tool Opal comes to Gemini",
+      "headline": "Warner Bros. Discovery rejects Paramount’s hostile bid, calls offer ‘illusory’",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/07/Google-Opal.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2025/09/warner-bros.jpg?w=150"
       ],
-      "datePublished": "2025-12-17T15:16:42.000Z",
-      "dateModified": "2025-12-17T15:16:42.000Z",
+      "datePublished": "2025-12-17T15:30:22.000Z",
+      "dateModified": "2025-12-17T15:30:22.000Z",
       "author": [
         {
           "@type": "Person",
@@ -175,106 +150,6 @@
     }
   },
   {
-    "title": "Adobe hit with proposed class-action, accused of misusing authors’ work in AI training",
-    "url": "https://techcrunch.com/2025/12/17/adobe-hit-with-proposed-class-action-accused-of-misusing-authors-work-in-ai-training/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2162453288.jpg?w=150",
-    "tag": "Tech",
-    "date": "2025-12-18T00:44:55.000Z",
-    "description": "\nLike pretty much every other tech company in existence, Adobe has leaned heavily into AI over the past several years. The software firm has launched ",
-    "body": "\nLike pretty much every other tech company in existence, Adobe has leaned heavily into AI over the past several years. The software firm has launched a number of different AI services since 2023, including Firefly — its AI-powered media-generation suite. Now, however, the company’s full-throated embrace of the technology may have led to trouble, as a new lawsuit claims it used pirated books to train one of its AI models.\nA proposed class-action lawsuit filed on behalf of Elizabeth Lyon, an author from Oregon, claims that Adobe used pirated versions of numerous books — including her own — to train the company’s SlimLM program.\nAdobe describes SlimLM as a small language model series that can be “optimized for document assistance tasks on mobile devices.” It states that SlimLM was pre-trained on SlimPajama-627B, a “deduplicated, multi-corpora, open-source dataset” released by Cerebras in June of 2023. Lyon, who has written a number of guidebooks for non-fiction writing, says that some of her works were included in a pretraining dataset that Adobe had used.\nLyon’s lawsuit, which was originally reported on by Reuters, says that her writing was included in a processed subset of a manipulated dataset that was the basis of Adobe’s program: “The SlimPajama dataset was created by copying and manipulating the RedPajama dataset (including copying Books3),” the lawsuit says. “Thus, because it is a derivative copy of the RedPajama dataset, SlimPajama contains the Books3 dataset, including the copyrighted works of Plaintiff and the Class members.”\n“Books3” — a huge collection of 191,000 books that have been used to train GenAI systems — has been an ongoing source of legal trouble for the tech community. RedPajama has also been cited in a number of litigation cases. In September, a lawsuit against Apple claimed the company had used copyrighted material to train its Apple Intelligence model. The litigation mentioned the dataset and accused the tech company of copying protected works “without consent and without credit or compensation.” In October, a similar lawsuit against Salesforce also claimed the company had used RedPajama for training purposes. \nUnfortunately for the tech industry, such lawsuits have, by now, become somewhat commonplace. AI algorithms are trained on massive datasets and, in some cases, those datasets have allegedly included pirated materials. In September, Anthropic agreed to pay $1.5 billion to a number of authors who had sued it and accused it of using pirated versions of their work to train its chatbot, Claude. The case was considered a potential turning point in the ongoing legal battles over copyrighted material in AI training data, of which there are many.\n\n\n\t\n\t\tLucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. \nYou can contact Lucas by emailing lucas.ropek@techcrunch.com.\t\n\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Adobe hit with proposed class-action, accused of misusing authors’ work in AI training",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2162453288.jpg?w=150"
-      ],
-      "datePublished": "2025-12-18T00:44:55.000Z",
-      "dateModified": "2025-12-18T00:44:55.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "YouTube to pull music data from Billboard’s charts because it doesn’t like its ranking formula",
-    "url": "https://techcrunch.com/2025/12/17/youtube-to-pull-music-data-from-billboards-charts-because-it-doesnt-like-its-ranking-formula/",
-    "image": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1149449078-e1610399732853.jpg?w=150",
-    "tag": "Tech",
-    "date": "2025-12-17T20:57:51.000Z",
-    "description": "\nYouTube is pulling its data from Billboard for use in the publisher’s industry-leading U.S. music charts. The decision is in response to a recent cha",
-    "body": "\nYouTube is pulling its data from Billboard for use in the publisher’s industry-leading U.S. music charts. The decision is in response to a recent change Billboard made to its ranking formula, which continues to add more weight to paid, on-demand streaming compared with ad-supported, free streaming.\nBillboard justified its decision to adjust its age-old formula by saying that the change will “better reflect an increase in streaming revenue and changing consumer behaviors.”\nIn other words, streaming now matters more than buying albums or songs, so it wants its charts to reflect that.\nHowever, YouTube doesn’t like the new formula because it doesn’t want there to be much — if any — differentiation between free and paid streams, especially if the changes are meant to reflect how consumers today are enjoying music. \n“Billboard uses an outdated formula that weights subscription-supported streams higher than ad-supported. This doesn’t reflect how fans engage with music today and ignores the massive engagement from fans who don’t have a subscription,” a YouTube blog post published on Wednesday explains. “Streaming is the primary way people experience music, making up 84% of U.S. recorded music revenue.”\n“We’re simply asking that every stream is counted fairly and equally, whether it is subscription-based or ad-supported—because every fan matters and every play should count,” the post notes.\nThe ranking changes will be reflected starting with the charts published on January 17, which will include data from January 2-8, 2026. This will impact the Billboard 200 lists and genre-based album charts. In addition, the ratio between paid/subscription and ad-supported on-demand streaming tiers will be adjusted to 2.5:1 for the Billboard Hot 100, Billboard said.\nTo protest the new formula, YouTube said it will no longer provide data to Billboard after January 16, 2026.\nHere’s what that change means in practice: Under the revised calculation, Billboard said it will take 33.3% fewer ad-supported on-demand streams of songs from an album, and 20% fewer paid/subscription on-demand streams of songs from an album, to equal an album unit. In short, it will take fewer streams than before for an album to climb the charts. This is a win for streaming in general but not necessarily for YouTube.\nHere’s why. At present, the formula Billboard uses defines an album unit (the standard measurement for chart rankings) as one album sale. It counts 10 individual songs from an album as one album consumption unit, as well.\nOn the streaming side, it currently says an album unit equals 3,750 ad-supported streams — like YouTube’s  — or 1,250 paid/subscription official audio and video streams.\nAfter the changes, those figures will be adjusted, so it will take 2,500 ad-supported streams or 1,000 paid/subscription streams to count as one album unit. This means paid streams count 2.5x as much as ad-supported streams. While that’s less of a gap than the current 3:1 ratio, it’s still not what YouTube would prefer seeing here. The company is essentially doing what companies do in failed negotiations like this: it’s taking its ball and going home.\nOf course, by not cooperating with Billboard, YouTube’s music data won’t be considered in chart rankings, which could lead labels and artists to deprioritize publishing their music on YouTube. That’s not a good long-term strategy for YouTube as an important player in the streaming music era. That’s why this move should be viewed as the negotiation tactic it is.\n“We are committed to achieving equitable representation across the charts and hopefully can work with Billboard to return to theirs,” YouTube’s announcement concludes. \n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "YouTube to pull music data from Billboard’s charts because it doesn’t like its ranking formula",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1149449078-e1610399732853.jpg?w=150"
-      ],
-      "datePublished": "2025-12-17T20:57:51.000Z",
-      "dateModified": "2025-12-17T20:57:51.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Cisco says Chinese hackers are exploiting its customers with a new zero-day",
-    "url": "https://techcrunch.com/2025/12/17/cisco-says-chinese-hackers-are-exploiting-its-customers-with-a-new-zero-day/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1238829383-1.jpg?w=150",
-    "tag": "Tech",
-    "date": "2025-12-17T18:58:30.000Z",
-    "description": "\nOn Wednesday, Cisco announced hackers are exploiting a critical vulnerability in some of its most popular products that allows the full takeover of a",
-    "body": "\nOn Wednesday, Cisco announced hackers are exploiting a critical vulnerability in some of its most popular products that allows the full takeover of affected devices. Worse, there are no patches available at this time.\nIn a security advisory, Cisco said it discovered a hacking campaign on December 10 targeting Cisco AsyncOS software, and in particular the physical and virtual appliances Cisco Secure Email Gateway, Cisco Secure Email, and Web Manager. The advisory said affected devices have a feature called “Spam Quarantine” enabled and are reachable from the internet. \nCisco noted that this feature is not enabled by default and does not need to be exposed to the internet, which may be good news. Michael Taggart, a senior cybersecurity researcher at UCLA Health Sciences, told TechCrunch that “the requirement of an internet-facing management interface and certain features being enabled will limit the attack surface for this vulnerability.”\nHowever, Kevin Beaumont, a security researcher who tracks hacking campaigns, told TechCrunch that this appears to be a particularly problematic hacking campaign since a lot of big organizations use the affected products, there are no patches available, and it’s unclear how long the hackers had backdoors in the affected systems. \nAt this point Cisco is not saying how many customers are affected.\nWhen reached by TechCrunch, Cisco spokesperson Meredith Corley did not answer a series of questions, and instead said that the company “is actively investigating the issue and developing a permanent remediation.”\n\n\t\t\tContact Us\n\t\t\tDo you have more information about this hacking campaign? Such as what companies were targeted? From a non-work device, you can contact Lorenzo Franceschi-Bicchierai securely on Signal at +1 917 257 1382, or via Telegram and Keybase @lorenzofb, or email.\t\t\nThe solution Cisco is suggesting to customers right now is essentially to wipe and rebuild the affected products’ software, as there is no patch available. \n“​​In case of confirmed compromise, rebuilding the appliances is, currently, the only viable option to eradicate the threat actors persistence mechanism from the appliance,” the company wrote. \nThe hackers behind the campaign are linked to China and other known Chinese government hacking groups, according to Cisco Talos, the company’s threat intelligence research team, which published a blog post about the hacking campaign. \nThe researchers wrote that the hackers are taking advantage of the vulnerability, which at this point is a zero-day, to install persistent backdoors, and that the campaign has been ongoing “since at least late November 2025.”\n\n\n\t\tLorenzo Franceschi-Bicchierai is a Senior Writer at TechCrunch, where he covers hacking, cybersecurity, surveillance, and privacy. \nYou can contact or verify outreach from Lorenzo by emailing lorenzo@techcrunch.com, via encrypted message at +1 917 257 1382 on Signal, and @lorenzofb on Keybase/Telegram.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Cisco says Chinese hackers are exploiting its customers with a new zero-day",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1238829383-1.jpg?w=150"
-      ],
-      "datePublished": "2025-12-17T18:58:30.000Z",
-      "dateModified": "2025-12-17T18:58:30.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Rad Power Bikes files for bankruptcy and is looking to sell the business",
-    "url": "https://techcrunch.com/2025/12/17/rad-power-bikes-files-for-bankruptcy-and-is-looking-to-sell-the-business/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/11/IMG_4026.jpeg?w=150",
-    "tag": "Tech",
-    "date": "2025-12-17T17:28:50.000Z",
-    "description": "\nElectric bike company Rad Power Bikes filed for Chapter 11 bankruptcy protection on Monday, weeks after it warned employees that it could shut down w",
-    "body": "\nElectric bike company Rad Power Bikes filed for Chapter 11 bankruptcy protection on Monday, weeks after it warned employees that it could shut down without new funding.\nThe company will continue to operate while the bankruptcy case proceeds, and it’s looking to sell the business within 45-60 days, a spokesperson told TechCrunch.\n“This step allows us to keep operating in the ordinary course of business while we pursue the best possible outcome for the people who rely on Rad every day,” they said in a statement. “Our goal is to keep the company intact and preserve the relationships we have built with riders, vendors, suppliers, and partners.”\nRad Power is the latest in a series of e-bike companies from around the world to go through bankruptcy after pandemic-era excitement for the category wore off. Some of those companies have re-emerged, though, with VanMoof and Cake finding new owners during their respective court-led restructuring processes.\nRad itself had told employees in November that there had been a “very promising” option to keep the company afloat that was “likely to close,” but the deal fell apart. The company has not shared more details about that potential deal. \nWeeks later, the Consumer Product Safety Commission (CPSC) issued a warning that older Rad Power batteries posed “a risk of serious injury and death” after receiving 31 reports of fires. Rad Power said it “strongly disagrees” with the CPSC’s characterizations.\nRad’s tough November came at the end of a fairly tumultuous few years for the company. It has gone through multiple rounds of layoffs and swapped CEOs earlier this year, bringing in an executive with decades of experience turning around underperforming companies. That new CEO, Kathi Lentzsch, said Rad was shifting away from the direct-to-consumer model that had helped fuel its rise and toward a retail-focused approach.\n“This shift creates new opportunities to reach more riders, strengthen customer relationships, and evolve the brand in meaningful ways,” she said in a statement at the time. “[I]t’s an incredible time to come on board.” \nThe company said it entered the bankruptcy process with $32 million in assets and $73 million in liabilities. More than $8 million of its debt was owed to the U.S. Customs and Border Protection agency for unpaid tariffs. (The company has listed this claim as “disputed” in the bankruptcy paperwork.)\nIt’s not clear how much that contributed to Rad’s slide into bankruptcy. But it wouldn’t be the first time that Donald Trump’s tariffs helped push a micromobility company over the edge. During his first term, Trump’s tariffs on Chinese imports helped take the remaining wind out of electric skateboard company Boosted’s sails. Boosted went under shortly after.\n\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Rad Power Bikes files for bankruptcy and is looking to sell the business",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2022/11/IMG_4026.jpeg?w=150"
-      ],
-      "datePublished": "2025-12-17T17:28:50.000Z",
-      "dateModified": "2025-12-17T17:28:50.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Coursera and Udemy enter a merger agreement valued at around $2.5B",
     "url": "https://techcrunch.com/2025/12/17/coursera-and-udemy-enter-a-merger-agreement-valued-at-around-2-5b/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/12/Coursera_office_3.jpg?w=150",
@@ -291,6 +166,31 @@
       ],
       "datePublished": "2025-12-17T15:58:22.000Z",
       "dateModified": "2025-12-17T15:58:22.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Google’s vibe-coding tool Opal comes to Gemini",
+    "url": "https://techcrunch.com/2025/12/17/googles-vibe-coding-tool-opal-comes-to-gemini/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/Google-Opal.jpg?w=150",
+    "tag": "Tech",
+    "date": "2025-12-17T15:16:42.000Z",
+    "description": "\nGoogle’s vibe-coding tool, Opal, is making its way to Gemini. The company on Wednesday said it is integrating the tool, which lets you build AI-power",
+    "body": "\nGoogle’s vibe-coding tool, Opal, is making its way to Gemini. The company on Wednesday said it is integrating the tool, which lets you build AI-powered mini apps, inside the Gemini web app, allowing users to create their own custom apps, which Google calls Gems.\nIntroduced in 2024, Gems are customized versions of Gemini designed for specific tasks or scenarios. For instance, some of Google’s pre-made Gems include a learning coach, a brainstorming assistant, a career guide, a coding partner, and an editor.\nOpal, meanwhile, focuses on helping users create mini-apps or mix existing apps. To use the feature, users describe in natural language the app they want to make, and the tool will use the different Gemini models to create it.\nNow, Opal is directly available from Gemini on the web, where it’s found in the Gems manager. The tool has a visual editor that lays out the steps required to create an application. From the editor, users can rearrange steps and link them together, without writing code.\nGoogle notes that the visual editor also includes a new view in Gemini that will take the user’s written prompts and turn them into a list of steps. This makes it even easier to build apps and see how they work.\nFor more advanced customization options, users can move from Gemini to the Advanced Editor at opal.google.com. The mini apps can be reused after they’re created.\nKnown as “vibe-coding,” using AI to program and make apps has skyrocketed in popularity over the past couple of years. The market now has apps from startups like Lovable and Cursor, as well as offerings from AI providers like Anthropic and OpenAI. There are also tools focused more directly on consumers, like those from AI-powered app-building startup Wabi.\nGemini’s web app is available at gemini.google.com.\n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Google’s vibe-coding tool Opal comes to Gemini",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/07/Google-Opal.jpg?w=150"
+      ],
+      "datePublished": "2025-12-17T15:16:42.000Z",
+      "dateModified": "2025-12-17T15:16:42.000Z",
       "author": [
         {
           "@type": "Person",
@@ -325,22 +225,22 @@
     }
   },
   {
-    "title": "Facebook is testing a link-posting limit for professional accounts and pages",
-    "url": "https://techcrunch.com/2025/12/17/facebook-is-testing-a-link-posting-limit-for-professional-accounts-and-pages/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2194278734.jpg?w=150",
+    "title": "Mozilla’s new CEO says AI is coming to Firefox, but will remain a choice",
+    "url": "https://techcrunch.com/2025/12/17/mozillas-new-ceo-says-ai-is-coming-to-firefox-but-will-remain-a-choice/",
+    "image": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-956152050.jpg?w=150",
     "tag": "Tech",
-    "date": "2025-12-17T18:15:58.000Z",
-    "description": "\nIn a new experiment, Meta is limiting the number of links users can post on Facebook, unless they have a paid Meta Verified subscription.\nOver the la",
-    "body": "\nIn a new experiment, Meta is limiting the number of links users can post on Facebook, unless they have a paid Meta Verified subscription.\nOver the last week, several users have spotted Meta’s test, which impacts link posting. Social media strategist Matt Navarra noted that users part of the test can only post two links unless they pay for a Meta Verified subscription, which starts from $14.99 per month.\nAccording to the screenshot posted by Navarra, users can still post affiliate links, comments, and links to Meta platform posts, including Facebook, Instagram, and WhatsApp.\nThe company confirmed the test to TechCrunch and said it impacts those people using professional mode and Facebook Pages. Professional mode lets you convert your personal profile into a creator profile while making your content eligible for discovery by a wider audience.\n“This is a limited test to understand whether the ability to publish an increased volume of posts with links adds additional value for Meta Verified subscribers,” a Meta spokesperson told TechCrunch. \nThis would directly impact creators and brands posting links from their blogs or other platforms to reach a wider audience.\nThe company said it is trying to learn how it can add more value to Meta Verified subscribers, and this test is one such experiment to enhance that paid plan. The company added that, at the moment, publishers are not included in this test. It also said that users can still post links in comments, and they are not impacted by the limit.\nIn its transparency report for Q3, Meta said that more than 98% views on the feed in the U.S. come from the posts that don’t have any links. It is not clear if this signal pushed the company to experiment with limits on link sharing, however. The company said that the majority of the 1.9% of views of posts with links came from a page they followed. Linked posts shared by friends and groups were minimal.\nImage Credits:Meta\nThe same report noted that YouTube and TikTok, along with GoFundMe, were the top domains amid the links posted. With the new link posting limit test, creators and brands would be forced to post content from other Meta platforms if they reached their limit, or stop posting altogether if they didn’t want to pay for a subscription. \nAs AI has taken over the internet, there is an ever-raging debate about the link-based web. AI summary and search have impacted the publishing industry negatively. In the past few years, social networks like X have toyed with demoting linked posts to encourage users to post content on the platforms natively.\n\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2025-12-17T15:17:52.000Z",
+    "description": "\nMozilla has appointed Anthony Enzor-DeMeo as its CEO as the Firefox browser maker scrambles to adapt in a rapidly changing browser market.\nThe appoin",
+    "body": "\nMozilla has appointed Anthony Enzor-DeMeo as its CEO as the Firefox browser maker scrambles to adapt in a rapidly changing browser market.\nThe appointment comes at a time when web browsers are seeing a revitalization of sorts as AI changes how people use the internet. After more than a decade of dominating the market, incumbents like Firefox, Google Chrome, and Apple’s Safari are facing a fresh challenge from companies like Perplexity, Arc, OpenAI, and Opera, which are focused on baking AI models and agents into their browsers to bring AI to users at the first point of contact with the internet: the web browser.\nThese changes don’t seem to be lost on Mozilla, which consists of several organizations, one of which is the Mozilla Corporation, which develops Firefox and other technologies, and another of which is its nonprofit and tax-exempt Mozilla Foundation, which oversees Mozilla’s corporate governance structure and sets the browser maker’s policies.\nThe company has had a tough time lately: It’s gone through a restructuring, and last year laid off 30% of its employees and dropped its advocacy and global programs.\nBut the potential to make a comeback amid the modern browser wars doesn’t seem to be lost on the company. Mozilla will be investing in AI and will add AI features to Firefox, Enzor-DeMeo said in a blog post announcing his appointment.\nThat said, Mozilla seems intent on not infuriating users who’ve chosen Firefox for its lack of AI features: Enzor-DeMeo said the company will make AI features optional within Firefox and its other products. \n“AI should always be a choice — something people can easily turn off. People should know why a feature works the way it does and what value they get from it,” he wrote.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThe company will also be investing in diversifying its revenue beyond search (in exchange for having Google as its default search engine, Mozilla makes a significant portion of its revenue from the search giant), and Enzor-DeMeo said Mozilla plans to flesh Firefox out into “a broader ecosystem of trusted software.” \nCurrently, the company also develops the Thunderbird email client, a VPN, and last year launched an AI-powered website creator aimed at small businesses.\nBefore this appointment, Enzor-DeMeo was general manager of Firefox, and is now taking over from interim CEO, Laura Chambers, who was in the role for the past couple of years. Enzor-DeMeo previously held product roles at Roofstock, Better, and Wayfair. \n\n\n\t\tRam is a financial and tech reporter and editor. He covered North American and European M&A, equity, regulatory news and debt markets at Reuters and Acuris Global, and has also written about travel, tourism, entertainment and books.\nYou can contact or verify outreach from Ram by emailing ram.iyer@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Facebook is testing a link-posting limit for professional accounts and pages",
+      "headline": "Mozilla’s new CEO says AI is coming to Firefox, but will remain a choice",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2194278734.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-956152050.jpg?w=150"
       ],
-      "datePublished": "2025-12-17T18:15:58.000Z",
-      "dateModified": "2025-12-17T18:15:58.000Z",
+      "datePublished": "2025-12-17T15:17:52.000Z",
+      "dateModified": "2025-12-17T15:17:52.000Z",
       "author": [
         {
           "@type": "Person",
@@ -366,6 +266,106 @@
       ],
       "datePublished": "2025-12-17T19:32:52.000Z",
       "dateModified": "2025-12-17T19:32:52.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Rad Power Bikes files for bankruptcy and is looking to sell the business",
+    "url": "https://techcrunch.com/2025/12/17/rad-power-bikes-files-for-bankruptcy-and-is-looking-to-sell-the-business/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/11/IMG_4026.jpeg?w=150",
+    "tag": "Tech",
+    "date": "2025-12-17T17:28:50.000Z",
+    "description": "\nElectric bike company Rad Power Bikes filed for Chapter 11 bankruptcy protection on Monday, weeks after it warned employees that it could shut down w",
+    "body": "\nElectric bike company Rad Power Bikes filed for Chapter 11 bankruptcy protection on Monday, weeks after it warned employees that it could shut down without new funding.\nThe company will continue to operate while the bankruptcy case proceeds, and it’s looking to sell the business within 45-60 days, a spokesperson told TechCrunch.\n“This step allows us to keep operating in the ordinary course of business while we pursue the best possible outcome for the people who rely on Rad every day,” they said in a statement. “Our goal is to keep the company intact and preserve the relationships we have built with riders, vendors, suppliers, and partners.”\nRad Power is the latest in a series of e-bike companies from around the world to go through bankruptcy after pandemic-era excitement for the category wore off. Some of those companies have re-emerged, though, with VanMoof and Cake finding new owners during their respective court-led restructuring processes.\nRad itself had told employees in November that there had been a “very promising” option to keep the company afloat that was “likely to close,” but the deal fell apart. The company has not shared more details about that potential deal. \nWeeks later, the Consumer Product Safety Commission (CPSC) issued a warning that older Rad Power batteries posed “a risk of serious injury and death” after receiving 31 reports of fires. Rad Power said it “strongly disagrees” with the CPSC’s characterizations.\nRad’s tough November came at the end of a fairly tumultuous few years for the company. It has gone through multiple rounds of layoffs and swapped CEOs earlier this year, bringing in an executive with decades of experience turning around underperforming companies. That new CEO, Kathi Lentzsch, said Rad was shifting away from the direct-to-consumer model that had helped fuel its rise and toward a retail-focused approach.\n“This shift creates new opportunities to reach more riders, strengthen customer relationships, and evolve the brand in meaningful ways,” she said in a statement at the time. “[I]t’s an incredible time to come on board.” \nThe company said it entered the bankruptcy process with $32 million in assets and $73 million in liabilities. More than $8 million of its debt was owed to the U.S. Customs and Border Protection agency for unpaid tariffs. (The company has listed this claim as “disputed” in the bankruptcy paperwork.)\nIt’s not clear how much that contributed to Rad’s slide into bankruptcy. But it wouldn’t be the first time that Donald Trump’s tariffs helped push a micromobility company over the edge. During his first term, Trump’s tariffs on Chinese imports helped take the remaining wind out of electric skateboard company Boosted’s sails. Boosted went under shortly after.\n\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Rad Power Bikes files for bankruptcy and is looking to sell the business",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2022/11/IMG_4026.jpeg?w=150"
+      ],
+      "datePublished": "2025-12-17T17:28:50.000Z",
+      "dateModified": "2025-12-17T17:28:50.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "YouTube to pull music data from Billboard’s charts because it doesn’t like its ranking formula",
+    "url": "https://techcrunch.com/2025/12/17/youtube-to-pull-music-data-from-billboards-charts-because-it-doesnt-like-its-ranking-formula/",
+    "image": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1149449078-e1610399732853.jpg?w=150",
+    "tag": "Tech",
+    "date": "2025-12-17T20:57:51.000Z",
+    "description": "\nYouTube is pulling its data from Billboard for use in the publisher’s industry-leading U.S. music charts. The decision is in response to a recent cha",
+    "body": "\nYouTube is pulling its data from Billboard for use in the publisher’s industry-leading U.S. music charts. The decision is in response to a recent change Billboard made to its ranking formula, which continues to add more weight to paid, on-demand streaming compared with ad-supported, free streaming.\nBillboard justified its decision to adjust its age-old formula by saying that the change will “better reflect an increase in streaming revenue and changing consumer behaviors.”\nIn other words, streaming now matters more than buying albums or songs, so it wants its charts to reflect that.\nHowever, YouTube doesn’t like the new formula because it doesn’t want there to be much — if any — differentiation between free and paid streams, especially if the changes are meant to reflect how consumers today are enjoying music. \n“Billboard uses an outdated formula that weights subscription-supported streams higher than ad-supported. This doesn’t reflect how fans engage with music today and ignores the massive engagement from fans who don’t have a subscription,” a YouTube blog post published on Wednesday explains. “Streaming is the primary way people experience music, making up 84% of U.S. recorded music revenue.”\n“We’re simply asking that every stream is counted fairly and equally, whether it is subscription-based or ad-supported—because every fan matters and every play should count,” the post notes.\nThe ranking changes will be reflected starting with the charts published on January 17, which will include data from January 2-8, 2026. This will impact the Billboard 200 lists and genre-based album charts. In addition, the ratio between paid/subscription and ad-supported on-demand streaming tiers will be adjusted to 2.5:1 for the Billboard Hot 100, Billboard said.\nTo protest the new formula, YouTube said it will no longer provide data to Billboard after January 16, 2026.\nHere’s what that change means in practice: Under the revised calculation, Billboard said it will take 33.3% fewer ad-supported on-demand streams of songs from an album, and 20% fewer paid/subscription on-demand streams of songs from an album, to equal an album unit. In short, it will take fewer streams than before for an album to climb the charts. This is a win for streaming in general but not necessarily for YouTube.\nHere’s why. At present, the formula Billboard uses defines an album unit (the standard measurement for chart rankings) as one album sale. It counts 10 individual songs from an album as one album consumption unit, as well.\nOn the streaming side, it currently says an album unit equals 3,750 ad-supported streams — like YouTube’s  — or 1,250 paid/subscription official audio and video streams.\nAfter the changes, those figures will be adjusted, so it will take 2,500 ad-supported streams or 1,000 paid/subscription streams to count as one album unit. This means paid streams count 2.5x as much as ad-supported streams. While that’s less of a gap than the current 3:1 ratio, it’s still not what YouTube would prefer seeing here. The company is essentially doing what companies do in failed negotiations like this: it’s taking its ball and going home.\nOf course, by not cooperating with Billboard, YouTube’s music data won’t be considered in chart rankings, which could lead labels and artists to deprioritize publishing their music on YouTube. That’s not a good long-term strategy for YouTube as an important player in the streaming music era. That’s why this move should be viewed as the negotiation tactic it is.\n“We are committed to achieving equitable representation across the charts and hopefully can work with Billboard to return to theirs,” YouTube’s announcement concludes. \n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "YouTube to pull music data from Billboard’s charts because it doesn’t like its ranking formula",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1149449078-e1610399732853.jpg?w=150"
+      ],
+      "datePublished": "2025-12-17T20:57:51.000Z",
+      "dateModified": "2025-12-17T20:57:51.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Facebook is testing a link-posting limit for professional accounts and pages",
+    "url": "https://techcrunch.com/2025/12/17/facebook-is-testing-a-link-posting-limit-for-professional-accounts-and-pages/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2194278734.jpg?w=150",
+    "tag": "Tech",
+    "date": "2025-12-17T18:15:58.000Z",
+    "description": "\nIn a new experiment, Meta is limiting the number of links users can post on Facebook, unless they have a paid Meta Verified subscription.\nOver the la",
+    "body": "\nIn a new experiment, Meta is limiting the number of links users can post on Facebook, unless they have a paid Meta Verified subscription.\nOver the last week, several users have spotted Meta’s test, which impacts link posting. Social media strategist Matt Navarra noted that users part of the test can only post two links unless they pay for a Meta Verified subscription, which starts from $14.99 per month.\nAccording to the screenshot posted by Navarra, users can still post affiliate links, comments, and links to Meta platform posts, including Facebook, Instagram, and WhatsApp.\nThe company confirmed the test to TechCrunch and said it impacts those people using professional mode and Facebook Pages. Professional mode lets you convert your personal profile into a creator profile while making your content eligible for discovery by a wider audience.\n“This is a limited test to understand whether the ability to publish an increased volume of posts with links adds additional value for Meta Verified subscribers,” a Meta spokesperson told TechCrunch. \nThis would directly impact creators and brands posting links from their blogs or other platforms to reach a wider audience.\nThe company said it is trying to learn how it can add more value to Meta Verified subscribers, and this test is one such experiment to enhance that paid plan. The company added that, at the moment, publishers are not included in this test. It also said that users can still post links in comments, and they are not impacted by the limit.\nIn its transparency report for Q3, Meta said that more than 98% views on the feed in the U.S. come from the posts that don’t have any links. It is not clear if this signal pushed the company to experiment with limits on link sharing, however. The company said that the majority of the 1.9% of views of posts with links came from a page they followed. Linked posts shared by friends and groups were minimal.\nImage Credits:Meta\nThe same report noted that YouTube and TikTok, along with GoFundMe, were the top domains amid the links posted. With the new link posting limit test, creators and brands would be forced to post content from other Meta platforms if they reached their limit, or stop posting altogether if they didn’t want to pay for a subscription. \nAs AI has taken over the internet, there is an ever-raging debate about the link-based web. AI summary and search have impacted the publishing industry negatively. In the past few years, social networks like X have toyed with demoting linked posts to encourage users to post content on the platforms natively.\n\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Facebook is testing a link-posting limit for professional accounts and pages",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2194278734.jpg?w=150"
+      ],
+      "datePublished": "2025-12-17T18:15:58.000Z",
+      "dateModified": "2025-12-17T18:15:58.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Google launches Gemini 3 Flash, makes it the default model in the Gemini app",
+    "url": "https://techcrunch.com/2025/12/17/google-launches-gemini-3-flash-makes-it-the-default-model-in-the-gemini-app/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/gemini-3_flash_model_blog_header_dark_bleed_2096x1182.jpeg?w=150",
+    "tag": "Tech",
+    "date": "2025-12-17T16:00:00.000Z",
+    "description": "\nGoogle today released its fast and cheap Gemini 3 Flash model, based on the Gemini 3 released last month, looking to steal OpenAI’s thunder. The comp",
+    "body": "\nGoogle today released its fast and cheap Gemini 3 Flash model, based on the Gemini 3 released last month, looking to steal OpenAI’s thunder. The company is also making this the default model in the Gemini app and AI mode in search.\nThe new Flash model arrives six months after Google announced the Gemini 2.5 Flash model, offering significant improvements. On the benchmark, the Gemini 3 Flash model outperforms its predecessor by a significant margin and matches the performance of other frontier models, like Gemini 3 Pro and GPT 5.2, in some measures.\nFor instance, it scored 33.7% without tool use on Humanity’s Last Exam benchmark, which is designed to test expertise across different domains. In comparison, Gemini 3 Pro scored 37.5%, Gemini 2.5 Flash scored 11%, and the newly released GPT-5.2 scored 34.5%.\nOn the multimodality and reasoning benchmark MMMU-Pro, the new model outscored all competitors with an 81.2% score. \nConsumer rollout\nGoogle is making Gemini 3 Flash the default model in the Gemini app globally, replacing Gemini 2.5 Flash. Users can still choose the Pro model from the model picker for math and coding questions.\nThe company says the new model is good at identifying multimodal content and giving you an answer based on that. For instance, you can upload your pickleball short video and ask for tips; you can try drawing a sketch and have the model guess what you are drawing; or you can upload an audio recording to get analysis or generate a quiz.\nThe company also said the model better understands the intent of users’ queries and can generate more visual answers with elements like images and tables.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nYou can also use the new model to create app prototypes in the Gemini app using prompts.\nThe Gemini 3 Pro is now available to everyone in the U.S. for search and more people in the U.S. can access the Nano Banana Pro image model in search, as well.\nEnterprise and developer availability\nGoogle noted that companies like JetBrains, Figma, Cursor, Harvey, and Latitude are already using the Gemini 3 Flash model, which is available through Vertex AI and Gemini Enterprise.\nFor developers, the company is making the model available in a preview model through the API and in Antigravity, Google’s new coding tool released last month. \nThe company said the Gemini 3 Pro scores 78% on the SWE-bench verified coding benchmark, only outperformed by GPT-5.2. It added that the model is ideal for video analysis, data extraction, and visual Q&A, and because of its speed, it is suited for quick and repeatable workflows.\nImage Credits:Google\nModel pricing is $0.50 per 1 million input tokens and $3.00 per 1 million output tokens. This is slightly more expensive than $0.30 per 1 million input tokens and $2.50 per 1 million output tokens of Gemini Flash 2.5. But Google claims that the new model outperforms the Gemini 2.5 Pro model while being three times faster. And, for thinking tasks, it uses 30% fewer tokens on average than 2.5 Pro. That means overall, you might save on the number of tokens for certain tasks.\nImage Credits:Google\n“We really position flash as more of your workhorse model. So if you look at, for example, even the input and output prices at the top of this table, Flash is just a much cheaper offering from an input and output price perspective. And so it actually allows for, for many companies, bulk tasks,” Tulsee Doshi, senior director & head of Product for Gemini Models, told TechCrunch in a briefing\nSince it released Gemini 3, Google has processed over 1 trillion tokens per day on its API, amid its fierce release and performance war with OpenAI.\nEarlier this month, Sam Altman reportedly sent an internal “Code Red” memo to the OpenAI team after ChatGPT’s traffic dipped as Google’s market share in consumers rose. Post that, OpenAI has released GPT-5.2 and a new image generation model. OpenAI also boasted about its growing enterprise use and said the ChatGPT messages volume has grown 8x since November 2024.\nWhile Google didn’t directly address the competition with OpenAI, it said that the release of new models is challenging all companies to be active.\n“Just about what’s happening across the industry is like all of these models are continuing to be awesome, challenge each other, push the frontier. And I think what’s also awesome is as companies are releasing these models,” Doshi said.\n“We’re also introducing new benchmarks and new ways of evaluating these models. And so that’s also encouraging us.”\n\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Google launches Gemini 3 Flash, makes it the default model in the Gemini app",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/12/gemini-3_flash_model_blog_header_dark_bleed_2096x1182.jpeg?w=150"
+      ],
+      "datePublished": "2025-12-17T16:00:00.000Z",
+      "dateModified": "2025-12-17T16:00:00.000Z",
       "author": [
         {
           "@type": "Person",
