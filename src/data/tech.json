@@ -1,21 +1,21 @@
 [
   {
-    "title": "Snowflake, Databricks challenger ClickHouse hits $15B valuation",
-    "url": "https://techcrunch.com/2026/01/16/snowflake-databricks-challenger-clickhouse-hits-15b-valuation/",
-    "image": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1134862866.jpg?w=150",
+    "title": "X is down for the second time this week",
+    "url": "https://techcrunch.com/2026/01/16/x-is-down-for-the-second-time-this-week/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/X-outage.png?w=150",
     "tag": "Tech",
-    "date": "2026-01-16T22:05:08.000Z",
-    "description": "\nIn Brief\nPosted:\n2:05 PM PST · January 16, 2026\n\nImage Credits:GelatoPlus / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nDatabase provider",
-    "body": "\nIn Brief\nPosted:\n2:05 PM PST · January 16, 2026\n\nImage Credits:GelatoPlus / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nDatabase provider ClickHouse secured $400 million at a $15 billion valuation, Bloomberg reported, representing about a 2.5x increase from its $6.35 billion valuation last May. The round was led by Dragoneer Investment Group, the startup said, with participation from investors including Bessemer Venture Partners, GIC, Index Ventures, Khosla Ventures, and Lightspeed Venture Partners.\nClickHouse, which spun out from Russian search giant Yandex in 2021, develops database software designed to process the massive datasets required by AI agents. The company competes with Snowflake and Databricks.\nThe company also announced the acquisition of Langfuse, a startup that helps developers track and evaluate the performance of their AI agents. Langfuse competes directly with LangSmith, LangChain’s observability platform.\nClickHouse database is open sourced, and it makes money by selling managed cloud services, which saw annual recurring revenue (ARR) grow by more than 250% year-over-year, it said. The company’s customers include Meta, Tesla, Capital One, Lovable, Decagon, and Polymarket.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Enterprise\n\n",
+    "date": "2026-01-16T16:29:38.000Z",
+    "description": "\nIn Brief\nPosted:\n8:29 AM PST · January 16, 2026\n\nImage Credits:TechCrunch\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nElon Musk’s X is experiencing it",
+    "body": "\nIn Brief\nPosted:\n8:29 AM PST · January 16, 2026\n\nImage Credits:TechCrunch\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nElon Musk’s X is experiencing its second large-scale outage this week. \nThe site and app, formerly known as Twitter, are either not loading at all or are glitching into life briefly before throwing up error messages like gang signs.\nThe site Down Detector shows nearly 80,000 reports of X being down, starting at around 10 a.m. Eastern time, and is still down at the time of this writing.\nThis is the second major outage at X this week, following an earlier technical issue. It comes as the platform faces criticism after Grok, xAI’s chatbot that is integrated into X, has been fulfilling user requests to manipulate real photos of women, and even children, into nonconsensual sexual and violent imagery.\nWhen Musk took over Twitter in 2022, he laid off much of the staff, sparking worries that the site wouldn’t be able to function normally or adequately monitor for harmful content. The site has largely remained running, though there were notable outages last year.\nImage Credits:TechCrunch\nTechCrunch has reached out to X for comment.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Social\n\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Snowflake, Databricks challenger ClickHouse hits $15B valuation",
+      "headline": "X is down for the second time this week",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1134862866.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/01/X-outage.png?w=150"
       ],
-      "datePublished": "2026-01-16T22:05:08.000Z",
-      "dateModified": "2026-01-16T22:05:08.000Z",
+      "datePublished": "2026-01-16T16:29:38.000Z",
+      "dateModified": "2026-01-16T16:29:38.000Z",
       "author": [
         {
           "@type": "Person",
@@ -50,122 +50,22 @@
     }
   },
   {
-    "title": "X is down for the second time this week",
-    "url": "https://techcrunch.com/2026/01/16/x-is-down-for-the-second-time-this-week/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/X-outage.png?w=150",
+    "title": "Snowflake, Databricks challenger ClickHouse hits $15B valuation",
+    "url": "https://techcrunch.com/2026/01/16/snowflake-databricks-challenger-clickhouse-hits-15b-valuation/",
+    "image": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1134862866.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-01-16T16:29:38.000Z",
-    "description": "\nIn Brief\nPosted:\n8:29 AM PST · January 16, 2026\n\nImage Credits:TechCrunch\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nElon Musk’s X is experiencing it",
-    "body": "\nIn Brief\nPosted:\n8:29 AM PST · January 16, 2026\n\nImage Credits:TechCrunch\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nElon Musk’s X is experiencing its second large-scale outage this week. \nThe site and app, formerly known as Twitter, are either not loading at all or are glitching into life briefly before throwing up error messages like gang signs.\nThe site Down Detector shows nearly 80,000 reports of X being down, starting at around 10 a.m. Eastern time, and is still down at the time of this writing.\nThis is the second major outage at X this week, following an earlier technical issue. It comes as the platform faces criticism after Grok, xAI’s chatbot that is integrated into X, has been fulfilling user requests to manipulate real photos of women, and even children, into nonconsensual sexual and violent imagery.\nWhen Musk took over Twitter in 2022, he laid off much of the staff, sparking worries that the site wouldn’t be able to function normally or adequately monitor for harmful content. The site has largely remained running, though there were notable outages last year.\nImage Credits:TechCrunch\nTechCrunch has reached out to X for comment.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Social\n\n",
+    "date": "2026-01-16T22:05:08.000Z",
+    "description": "\nIn Brief\nPosted:\n2:05 PM PST · January 16, 2026\n\nImage Credits:GelatoPlus / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nDatabase provider",
+    "body": "\nIn Brief\nPosted:\n2:05 PM PST · January 16, 2026\n\nImage Credits:GelatoPlus / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nDatabase provider ClickHouse secured $400 million at a $15 billion valuation, Bloomberg reported, representing about a 2.5x increase from its $6.35 billion valuation last May. The round was led by Dragoneer Investment Group, the startup said, with participation from investors including Bessemer Venture Partners, GIC, Index Ventures, Khosla Ventures, and Lightspeed Venture Partners.\nClickHouse, which spun out from Russian search giant Yandex in 2021, develops database software designed to process the massive datasets required by AI agents. The company competes with Snowflake and Databricks.\nThe company also announced the acquisition of Langfuse, a startup that helps developers track and evaluate the performance of their AI agents. Langfuse competes directly with LangSmith, LangChain’s observability platform.\nClickHouse database is open sourced, and it makes money by selling managed cloud services, which saw annual recurring revenue (ARR) grow by more than 250% year-over-year, it said. The company’s customers include Meta, Tesla, Capital One, Lovable, Decagon, and Polymarket.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Enterprise\n\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "X is down for the second time this week",
+      "headline": "Snowflake, Databricks challenger ClickHouse hits $15B valuation",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/01/X-outage.png?w=150"
+        "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1134862866.jpg?w=150"
       ],
-      "datePublished": "2026-01-16T16:29:38.000Z",
-      "dateModified": "2026-01-16T16:29:38.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "TikTok quietly launches a microdrama app called ‘PineDrama’",
-    "url": "https://techcrunch.com/2026/01/16/tiktok-quietly-launches-a-micro-drama-app-called-pinedrama/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/pinedrama.png?w=150",
-    "tag": "Tech",
-    "date": "2026-01-16T21:11:11.000Z",
-    "description": "\nTikTok has quietly released a new stand-alone short drama app called PineDrama in the U.S. and Brazil. The app offers access to microdramas, which ar",
-    "body": "\nTikTok has quietly released a new stand-alone short drama app called PineDrama in the U.S. and Brazil. The app offers access to microdramas, which are essentially bite-sized TV shows that can be watched in a series of one-minute episodes. Think TikTok, but every video you come across is a short episode of a fictional story.\nPineDrama is available on iOS and Android. It’s free and currently ad-free, though that could change in the future.\nThe news was first reported by Business Insider. \nYou can find content through the app’s “Discover” tab, where you can sort through “All” or “Trending” dramas, or through endless vertical recommendations that are tailored to your taste. PineDrama features a variety of genres, including thriller, romance, family, and more. Examples of popular shows include “Love at First Bite” and “The Officer Fell for Me.”\nThe app features a “Watch history” section where you can jump back into the various series you’re watching. There’s also a “Favorites” section where you can save the dramas you like the most. You can also share thoughts with other viewers in the comment section and enter a full-screen viewing experience that gets rid of the caption and sidebar.\nImage Credits:TikTok\nThe move comes as TikTok launched a “TikTok Minis” section in its app late last year, where users can watch microdramas. With the launch of PineDrama, TikTok is taking on popular microdrama platforms like ReelShort and DramaBox. While the microdrama industry wasn’t that popular until recent years, it’s racing toward $26 billion in annual revenue by 2030, as reported by Variety.\nShort-form storytelling hasn’t always found success, even with notable backing. In 2020, DreamWorks co-founder and former Disney executive Jeffrey Katzenberg launched a short-form streaming platform called Quibi with $1.75 billion in funding. The platform offered episodes under 10 minutes featuring popular Hollywood actors, but failed to gain traction and was shut down six months later.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nReelShort and DramaBox succeeded where Quibi failed because while Quibi tried to compress Hollywood TV into shorter episodes, ReelShort and DramaBox created low-budget stories that hook viewers within the first few seconds, followed by continuous cliffhangers, all featuring non-union talent. Additionally, they target fans of soapy romance and revenge thriller stories, while Quibi tried to target everyone.\nTikTok is now looking to replicate this success with PineDrama. The company already dominates the short-form social media space and is now aiming to take on another media category.\n\n\n\t\tAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing aisha@techcrunch.com or via encrypted message at aisha_malik.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "TikTok quietly launches a microdrama app called ‘PineDrama’",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/01/pinedrama.png?w=150"
-      ],
-      "datePublished": "2026-01-16T21:11:11.000Z",
-      "dateModified": "2026-01-16T21:11:11.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune",
-    "url": "https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2148589533.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-01-17T08:26:08.000Z",
-    "description": "\n\t\n\t\tImage Credits:Axelle/Bauer-Griffin/FilmMagic / Getty Images\t\n\t\n\t\t\t\t\t\t12:26 AM PST · January 17, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nElon Musk wants a jaw-droppi",
-    "body": "\n\t\n\t\tImage Credits:Axelle/Bauer-Griffin/FilmMagic / Getty Images\t\n\t\n\t\t\t\t\t\t12:26 AM PST · January 17, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nElon Musk wants a jaw-dropping $79 billion to $134 billion in damages from OpenAI and Microsoft, claiming the AI company defrauded him by jettisoning its nonprofit mission, Bloomberg first reported. The figure comes from expert witness C. Paul Wazzan, a financial economist whose bio says he has been deposed nearly 100 times and testified at trial more than a dozen times in complex commercial litigation cases.\nWazzan, who specializes in valuation and damages calculations in high-stakes disputes, determined that Musk is entitled to a hefty portion of OpenAI’s current $500 billion valuation based on his $38 million seed donation when he co-founded the startup in 2015. (If you’re wondering, that would mean a 3,500-fold return on Musk’s investment.)\nWazzan’s analysis combines Musk’s initial financial contributions with the technical know-how and business contributions he offered to OpenAI’s early team, calculating wrongful gains of $65.5 billion to $109.4 billion for OpenAI and $13.3 billion to $25.1 billion for Microsoft, which today owns a 27% chunk of the company.\nMusk’s legal team argues he should be compensated as an early startup investor who sees returns “many orders of magnitude greater” than his initial investment. But the sheer scale of the damages demand underscores that this legal battle isn’t really about the money.\nMusk’s personal fortune currently hovers around $700 billion, making him by far the world’s richest person. As Reuters recently noted, his wealth now exceeds that of Google co-founder Larry Page, the world’s second-richest person, by a stunning $500 billion, according to Forbes’ billionaires list. In November, Tesla shareholders separately approved a $1 trillion pay package for Musk, the largest corporate pay package in history.\nAgainst this backdrop, even a $134 billion payout from OpenAI would represent a relatively modest addition to Musk’s wealth, likely reinforcing for those at OpenAI their characterization of the lawsuit as part of an “ongoing pattern of harassment” rather than a legitimate financial grievance. OpenAI already reportedly sent a letter Thursday to investors and others of its business partners, warning that Musk will make “deliberately outlandish, attention-grabbing claims” as his lawsuit against the company heads to trial in April. The case will be heard in Oakland, Calif., about 15 miles east of San Francisco.\n\n\t\t\t\n\tTopics\n\n\n\n\t\tLoizos has been reporting on Silicon Valley since the late ’90s, when she joined the original Red Herring magazine. Previously the Silicon Valley Editor of TechCrunch, she was named Editor in Chief and General Manager of TechCrunch in September 2023. She’s also the founder of StrictlyVC, a daily e-newsletter and lecture series acquired by Yahoo in August 2023 and now operated as a sub brand of TechCrunch.\nYou can contact or verify outreach from Connie by emailing connie@strictlyvc.com or connie@techcrunch.com, or via encrypted message at ConnieLoizos.53 on Signal.\r\n\t\n\t\n\t\tView Bio \n\t\n\n\t\t",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2148589533.jpg?w=150"
-      ],
-      "datePublished": "2026-01-17T08:26:08.000Z",
-      "dateModified": "2026-01-17T08:26:08.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "California AG sends Musk’s xAI a cease-and-desist order over sexual deepfakes",
-    "url": "https://techcrunch.com/2026/01/16/california-ag-sends-musks-xai-a-cease-and-desist-order-over-sexual-deepfakes/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2218892225.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-01-16T23:21:24.000Z",
-    "description": "\n\t\n\t\tImage Credits:Andrey Rudakov/Bloomberg / Getty Images\t\n\t\n\t\t\t\t\t\t3:21 PM PST · January 16, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nEarlier this week, the California a",
-    "body": "\n\t\n\t\tImage Credits:Andrey Rudakov/Bloomberg / Getty Images\t\n\t\n\t\t\t\t\t\t3:21 PM PST · January 16, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nEarlier this week, the California attorney general’s office announced that it was investigating xAI over reports that the startup’s chatbot, Grok, was being used to create nonconsensual sexual imagery of women and minors. On Friday, the government followed up by sending a cease-and-desist letter to the company, demanding that it take immediate action to stop the production of nonconsensual intimate images and CSAM — child sexual abuse material.\n“Today, I sent xAI a cease-and-desist letter, demanding the company immediately stop the creation and distribution of deepfake, nonconsensual, intimate images and child sexual abuse material,” said California AG Rob Bonta in a press release. “The creation of this material is illegal. I fully expect xAI to immediately comply. California has zero tolerance for [CSAM].”\nThe AG’s office additionally claimed that xAI appeared to be “facilitating the large-scale production” of nonconsensual nudes, the likes of which are being “used to harass women and girls across the internet.” The agency said it expects xAI to prove that it is taking steps to address these issues within the next five days. \nAt the heart of the backlash is Grok’s “spicy” mode feature, which xAI created to generate explicit content. The issue has spread beyond California; Japan, Canada, and Britain have opened investigations into Grok, and Malaysia and Indonesia have temporarily blocked the platform altogether. Despite xAI instituting some restrictions on its image-editing features late Wednesday, the California AG’s office moved ahead with its cease-and-desist letter.\nX’s safety account has previously denounced this kind of user activity, saying: “Anyone using or prompting Grok to make illegal content will suffer the same consequences as if they upload illegal content.” TechCrunch reached out to xAI for comment and was met with an automated email that says “Legacy Media Lies.” TC also reached out to the California AG’s office for more context.\nThe advent of free generative AI tools has led to a disturbing swell of non-consensual sexual material. Many platforms have been grappling with this problem, not just X. The sordid activity has drawn the attention not just of state leaders but also of Congress. Indeed, on Thursday, lawmakers sent a letter to the executives of several companies — including X, Reddit, Snap, TikTok, Alphabet, and Meta — asking how they planned to stem the proliferation of sexualized deepfakes.\n\n\t\t\t\n\tTopics\n\n\n\n\t\n\t\tLucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. \nYou can contact Lucas by emailing lucas.ropek@techcrunch.com.\t\n\n\t\n\t\tView Bio \n\t\n\n\t\t",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "California AG sends Musk’s xAI a cease-and-desist order over sexual deepfakes",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2218892225.jpg?w=150"
-      ],
-      "datePublished": "2026-01-16T23:21:24.000Z",
-      "dateModified": "2026-01-16T23:21:24.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "ChatGPT users are about to get hit with targeted ads",
-    "url": "https://techcrunch.com/2026/01/16/chatgpt-users-are-about-to-get-hit-with-targeted-ads/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2207801992.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-01-16T19:54:19.000Z",
-    "description": "\n\t\n\t\tImage Credits:Betul Abali/Anadolu / Getty Images\t\n\t\n\t\t\t\t\t\t11:54 AM PST · January 16, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nAn ongoing conversation — both within a",
-    "body": "\n\t\n\t\tImage Credits:Betul Abali/Anadolu / Getty Images\t\n\t\n\t\t\t\t\t\t11:54 AM PST · January 16, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nAn ongoing conversation — both within and outside of the tech community — has been about just how and when OpenAI, which is currently valued at $500 billion, will make money. Well, there’s one surefire way to do that, and that is through advertising. In the near term, that seems to be the AI giant’s plan, as it announced this week that limited ads are headed to certain ChatGPT users.\nIn a blog post published Friday, OpenAI said that it will begin testing ads in the U.S. for both its free and Go tiers. (Go accounts, which cost $8 a month, were introduced globally on Friday.) The company frames this as a way to sustain free access while generating revenue from people who aren’t ready to commit to a paid subscription. For the time being, the company’s more expensive paid tiers — Pro, Plus, Business, and Enterprise — will not be getting any ads.\nThe ads will appear at the bottom of a user’s conversation and will be targeted to the topic of discussion. Users will have some control over this situation, as they’ll be able to dismiss ads, see explanations for why they’re being shown particular ones, and also turn off personalization, which should defeat the ads’ targeted nature. The company has also made a commitment not to serve ads to users it believes are under the age of 18.\nImage Credits:TechCrunch (Screenshot)\nOpenAI says that ChatGPT will maintain “answer independence,” meaning that, despite the incorporation of advertising, those ads will not influence the answers that the chatbot serves to users. The company has also promised not to sell users’ data to advertisers.\nThis strategy could pay off in two ways. For users of the free and Go tiers, the company obviously stands to make a significant amount of ad revenue. At the same time, there will necessarily be certain users who appreciate the app but don’t appreciate the ads, which could conceivably drive an uptick in subscriptions to the platform’s more expensive accounts. \nOpenAI also wants everybody to know that it’s only sticking ads in its chatbot to help the world. In its blog post Friday, the company promised that its “pursuit of advertising is always in support of” its mission: that AGI “benefits all of humanity.”\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n\n\t\t\t\n\tTopics\n\n\n\n\t\n\t\tLucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. \nYou can contact Lucas by emailing lucas.ropek@techcrunch.com.\t\n\n\t\n\t\tView Bio \n\t\n\n\t\t",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "ChatGPT users are about to get hit with targeted ads",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2207801992.jpg?w=150"
-      ],
-      "datePublished": "2026-01-16T19:54:19.000Z",
-      "dateModified": "2026-01-16T19:54:19.000Z",
+      "datePublished": "2026-01-16T22:05:08.000Z",
+      "dateModified": "2026-01-16T22:05:08.000Z",
       "author": [
         {
           "@type": "Person",
@@ -200,6 +100,31 @@
     }
   },
   {
+    "title": "California AG sends Musk’s xAI a cease-and-desist order over sexual deepfakes",
+    "url": "https://techcrunch.com/2026/01/16/california-ag-sends-musks-xai-a-cease-and-desist-order-over-sexual-deepfakes/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2218892225.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-01-16T23:21:24.000Z",
+    "description": "\n\t\n\t\tImage Credits:Andrey Rudakov/Bloomberg / Getty Images\t\n\t\n\t\t\t\t\t\t3:21 PM PST · January 16, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nEarlier this week, the California a",
+    "body": "\n\t\n\t\tImage Credits:Andrey Rudakov/Bloomberg / Getty Images\t\n\t\n\t\t\t\t\t\t3:21 PM PST · January 16, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nEarlier this week, the California attorney general’s office announced that it was investigating xAI over reports that the startup’s chatbot, Grok, was being used to create nonconsensual sexual imagery of women and minors. On Friday, the government followed up by sending a cease-and-desist letter to the company, demanding that it take immediate action to stop the production of nonconsensual intimate images and CSAM — child sexual abuse material.\n“Today, I sent xAI a cease-and-desist letter, demanding the company immediately stop the creation and distribution of deepfake, nonconsensual, intimate images and child sexual abuse material,” said California AG Rob Bonta in a press release. “The creation of this material is illegal. I fully expect xAI to immediately comply. California has zero tolerance for [CSAM].”\nThe AG’s office additionally claimed that xAI appeared to be “facilitating the large-scale production” of nonconsensual nudes, the likes of which are being “used to harass women and girls across the internet.” The agency said it expects xAI to prove that it is taking steps to address these issues within the next five days. \nAt the heart of the backlash is Grok’s “spicy” mode feature, which xAI created to generate explicit content. The issue has spread beyond California; Japan, Canada, and Britain have opened investigations into Grok, and Malaysia and Indonesia have temporarily blocked the platform altogether. Despite xAI instituting some restrictions on its image-editing features late Wednesday, the California AG’s office moved ahead with its cease-and-desist letter.\nX’s safety account has previously denounced this kind of user activity, saying: “Anyone using or prompting Grok to make illegal content will suffer the same consequences as if they upload illegal content.” TechCrunch reached out to xAI for comment and was met with an automated email that says “Legacy Media Lies.” TC also reached out to the California AG’s office for more context.\nThe advent of free generative AI tools has led to a disturbing swell of non-consensual sexual material. Many platforms have been grappling with this problem, not just X. The sordid activity has drawn the attention not just of state leaders but also of Congress. Indeed, on Thursday, lawmakers sent a letter to the executives of several companies — including X, Reddit, Snap, TikTok, Alphabet, and Meta — asking how they planned to stem the proliferation of sexualized deepfakes.\n\n\t\t\t\n\tTopics\n\n\n\n\t\n\t\tLucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. \nYou can contact Lucas by emailing lucas.ropek@techcrunch.com.\t\n\n\t\n\t\tView Bio \n\t\n\n\t\t",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "California AG sends Musk’s xAI a cease-and-desist order over sexual deepfakes",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2218892225.jpg?w=150"
+      ],
+      "datePublished": "2026-01-16T23:21:24.000Z",
+      "dateModified": "2026-01-16T23:21:24.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Supreme Court hacker posted stolen government data on Instagram",
     "url": "https://techcrunch.com/2026/01/16/supreme-court-hacker-posted-stolen-government-data-on-instagram/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/us-supreme-court.jpg?w=150",
@@ -216,6 +141,106 @@
       ],
       "datePublished": "2026-01-16T20:01:12.000Z",
       "dateModified": "2026-01-16T20:01:12.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "ChatGPT users are about to get hit with targeted ads",
+    "url": "https://techcrunch.com/2026/01/16/chatgpt-users-are-about-to-get-hit-with-targeted-ads/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2207801992.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-01-16T19:54:19.000Z",
+    "description": "\n\t\n\t\tImage Credits:Betul Abali/Anadolu / Getty Images\t\n\t\n\t\t\t\t\t\t11:54 AM PST · January 16, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nAn ongoing conversation — both within a",
+    "body": "\n\t\n\t\tImage Credits:Betul Abali/Anadolu / Getty Images\t\n\t\n\t\t\t\t\t\t11:54 AM PST · January 16, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nAn ongoing conversation — both within and outside of the tech community — has been about just how and when OpenAI, which is currently valued at $500 billion, will make money. Well, there’s one surefire way to do that, and that is through advertising. In the near term, that seems to be the AI giant’s plan, as it announced this week that limited ads are headed to certain ChatGPT users.\nIn a blog post published Friday, OpenAI said that it will begin testing ads in the U.S. for both its free and Go tiers. (Go accounts, which cost $8 a month, were introduced globally on Friday.) The company frames this as a way to sustain free access while generating revenue from people who aren’t ready to commit to a paid subscription. For the time being, the company’s more expensive paid tiers — Pro, Plus, Business, and Enterprise — will not be getting any ads.\nThe ads will appear at the bottom of a user’s conversation and will be targeted to the topic of discussion. Users will have some control over this situation, as they’ll be able to dismiss ads, see explanations for why they’re being shown particular ones, and also turn off personalization, which should defeat the ads’ targeted nature. The company has also made a commitment not to serve ads to users it believes are under the age of 18.\nImage Credits:TechCrunch (Screenshot)\nOpenAI says that ChatGPT will maintain “answer independence,” meaning that, despite the incorporation of advertising, those ads will not influence the answers that the chatbot serves to users. The company has also promised not to sell users’ data to advertisers.\nThis strategy could pay off in two ways. For users of the free and Go tiers, the company obviously stands to make a significant amount of ad revenue. At the same time, there will necessarily be certain users who appreciate the app but don’t appreciate the ads, which could conceivably drive an uptick in subscriptions to the platform’s more expensive accounts. \nOpenAI also wants everybody to know that it’s only sticking ads in its chatbot to help the world. In its blog post Friday, the company promised that its “pursuit of advertising is always in support of” its mission: that AGI “benefits all of humanity.”\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n\n\t\t\t\n\tTopics\n\n\n\n\t\n\t\tLucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. \nYou can contact Lucas by emailing lucas.ropek@techcrunch.com.\t\n\n\t\n\t\tView Bio \n\t\n\n\t\t",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "ChatGPT users are about to get hit with targeted ads",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2207801992.jpg?w=150"
+      ],
+      "datePublished": "2026-01-16T19:54:19.000Z",
+      "dateModified": "2026-01-16T19:54:19.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "TikTok quietly launches a microdrama app called ‘PineDrama’",
+    "url": "https://techcrunch.com/2026/01/16/tiktok-quietly-launches-a-micro-drama-app-called-pinedrama/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/pinedrama.png?w=150",
+    "tag": "Tech",
+    "date": "2026-01-16T21:11:11.000Z",
+    "description": "\nTikTok has quietly released a new stand-alone short drama app called PineDrama in the U.S. and Brazil. The app offers access to microdramas, which ar",
+    "body": "\nTikTok has quietly released a new stand-alone short drama app called PineDrama in the U.S. and Brazil. The app offers access to microdramas, which are essentially bite-sized TV shows that can be watched in a series of one-minute episodes. Think TikTok, but every video you come across is a short episode of a fictional story.\nPineDrama is available on iOS and Android. It’s free and currently ad-free, though that could change in the future.\nThe news was first reported by Business Insider. \nYou can find content through the app’s “Discover” tab, where you can sort through “All” or “Trending” dramas, or through endless vertical recommendations that are tailored to your taste. PineDrama features a variety of genres, including thriller, romance, family, and more. Examples of popular shows include “Love at First Bite” and “The Officer Fell for Me.”\nThe app features a “Watch history” section where you can jump back into the various series you’re watching. There’s also a “Favorites” section where you can save the dramas you like the most. You can also share thoughts with other viewers in the comment section and enter a full-screen viewing experience that gets rid of the caption and sidebar.\nImage Credits:TikTok\nThe move comes as TikTok launched a “TikTok Minis” section in its app late last year, where users can watch microdramas. With the launch of PineDrama, TikTok is taking on popular microdrama platforms like ReelShort and DramaBox. While the microdrama industry wasn’t that popular until recent years, it’s racing toward $26 billion in annual revenue by 2030, as reported by Variety.\nShort-form storytelling hasn’t always found success, even with notable backing. In 2020, DreamWorks co-founder and former Disney executive Jeffrey Katzenberg launched a short-form streaming platform called Quibi with $1.75 billion in funding. The platform offered episodes under 10 minutes featuring popular Hollywood actors, but failed to gain traction and was shut down six months later.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nReelShort and DramaBox succeeded where Quibi failed because while Quibi tried to compress Hollywood TV into shorter episodes, ReelShort and DramaBox created low-budget stories that hook viewers within the first few seconds, followed by continuous cliffhangers, all featuring non-union talent. Additionally, they target fans of soapy romance and revenge thriller stories, while Quibi tried to target everyone.\nTikTok is now looking to replicate this success with PineDrama. The company already dominates the short-form social media space and is now aiming to take on another media category.\n\n\n\t\tAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing aisha@techcrunch.com or via encrypted message at aisha_malik.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "TikTok quietly launches a microdrama app called ‘PineDrama’",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/01/pinedrama.png?w=150"
+      ],
+      "datePublished": "2026-01-16T21:11:11.000Z",
+      "dateModified": "2026-01-16T21:11:11.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "YouTube relaxes monetization guidelines for some controversial topics",
+    "url": "https://techcrunch.com/2026/01/16/youtube-relaxes-monetization-guidelines-for-some-controversial-topics/",
+    "image": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1149449078-e1610399732853.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-01-16T15:56:58.000Z",
+    "description": "\n\t\n\t\tImage Credits:Olly Curtis/Future / Getty Images\t\n\t\n\t\t\t\t\t\t7:56 AM PST · January 16, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nYouTube is updating its advertiser-friend",
+    "body": "\n\t\n\t\tImage Credits:Olly Curtis/Future / Getty Images\t\n\t\n\t\t\t\t\t\t7:56 AM PST · January 16, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nYouTube is updating its advertiser-friendly content guidelines to allow more videos on controversial issues to earn full ad revenue, as long as they’re dramatized or discussed in a non-graphic manner. These controversial topics include self-harm, abortion, suicide, and domestic and sexual abuse. YouTube notes that content on child abuse or eating disorders will remain ineligible for full monetization. \nYouTube announced the change this week in a video on its Creator Insider channel.\n“In the past, the degree of graphic or descriptive detail was not considered a significant factor in determining advertiser friendliness, even for some dramatized material,” YouTube explained. “Consequently, such uploads typically received a yellow dollar icon, which restricted their ability to be fully monetized. With this week’s update, our guidelines are becoming more permissive, and creators will be able to earn more ad revenue.”\nThe Google-owned company says it’s making the change in response to creator feedback that YouTube’s guidelines were leading to limited ad revenue on dramatized and topical content. YouTube notes that it wants to ensure that creators who are telling sensitive stories or producing dramatized content have the opportunity to earn ad revenue.\n“We took a closer look and found our guidelines in this area had become too restrictive and ended up demonetizing uploads like dramatized content,” YouTube said. “This content might reference topics that advertisers find controversial, but are ultimately comfortable running their ads against. For example, content may be in a fictional context or voiced from personal experiences in passing or in a non-graphic manner. So, as long as the content steers clear of very descriptive or graphic scenes or segments, creators can now earn more ad revenue.”\nThe move comes as YouTube has been easing up on how it polices content on its platform. \nThe company told moderators last year to leave up videos that may violate platform rules if they are considered to be in the public interest. The New York Times reported at the time that these videos included discussions of political, social, and cultural issues. The policy shift came at a time when social media platforms were rolling back online speech moderation after President Donald Trump returned to office. \nYouTube notes that there are still some areas where ads will remain restricted, as topics like child abuse, including child sex trafficking and eating disorders, are not included in this update. Descriptive segments of those topics or dramatized content around them remain ineligible for ad revenue.\n\n\t\t\t\n\tTopics\n\n\n\n\t\tAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing aisha@techcrunch.com or via encrypted message at aisha_malik.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n\n\t\t",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "YouTube relaxes monetization guidelines for some controversial topics",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1149449078-e1610399732853.jpg?w=150"
+      ],
+      "datePublished": "2026-01-16T15:56:58.000Z",
+      "dateModified": "2026-01-16T15:56:58.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune",
+    "url": "https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2148589533.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-01-17T08:26:08.000Z",
+    "description": "\n\t\n\t\tImage Credits:Axelle/Bauer-Griffin/FilmMagic / Getty Images\t\n\t\n\t\t\t\t\t\t12:26 AM PST · January 17, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nElon Musk wants a jaw-droppi",
+    "body": "\n\t\n\t\tImage Credits:Axelle/Bauer-Griffin/FilmMagic / Getty Images\t\n\t\n\t\t\t\t\t\t12:26 AM PST · January 17, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nElon Musk wants a jaw-dropping $79 billion to $134 billion in damages from OpenAI and Microsoft, claiming the AI company defrauded him by jettisoning its nonprofit mission, Bloomberg first reported. The figure comes from expert witness C. Paul Wazzan, a financial economist whose bio says he has been deposed nearly 100 times and testified at trial more than a dozen times in complex commercial litigation cases.\nWazzan, who specializes in valuation and damages calculations in high-stakes disputes, determined that Musk is entitled to a hefty portion of OpenAI’s current $500 billion valuation based on his $38 million seed donation when he co-founded the startup in 2015. (If you’re wondering, that would mean a 3,500-fold return on Musk’s investment.)\nWazzan’s analysis combines Musk’s initial financial contributions with the technical know-how and business contributions he offered to OpenAI’s early team, calculating wrongful gains of $65.5 billion to $109.4 billion for OpenAI and $13.3 billion to $25.1 billion for Microsoft, which today owns a 27% chunk of the company.\nMusk’s legal team argues he should be compensated as an early startup investor who sees returns “many orders of magnitude greater” than his initial investment. But the sheer scale of the damages demand underscores that this legal battle isn’t really about the money.\nMusk’s personal fortune currently hovers around $700 billion, making him by far the world’s richest person. As Reuters recently noted, his wealth now exceeds that of Google co-founder Larry Page, the world’s second-richest person, by a stunning $500 billion, according to Forbes’ billionaires list. In November, Tesla shareholders separately approved a $1 trillion pay package for Musk, the largest corporate pay package in history.\nAgainst this backdrop, even a $134 billion payout from OpenAI would represent a relatively modest addition to Musk’s wealth, likely reinforcing for those at OpenAI their characterization of the lawsuit as part of an “ongoing pattern of harassment” rather than a legitimate financial grievance. OpenAI already reportedly sent a letter Thursday to investors and others of its business partners, warning that Musk will make “deliberately outlandish, attention-grabbing claims” as his lawsuit against the company heads to trial in April. The case will be heard in Oakland, Calif., about 15 miles east of San Francisco.\n\n\t\t\t\n\tTopics\n\n\n\n\t\tLoizos has been reporting on Silicon Valley since the late ’90s, when she joined the original Red Herring magazine. Previously the Silicon Valley Editor of TechCrunch, she was named Editor in Chief and General Manager of TechCrunch in September 2023. She’s also the founder of StrictlyVC, a daily e-newsletter and lecture series acquired by Yahoo in August 2023 and now operated as a sub brand of TechCrunch.\nYou can contact or verify outreach from Connie by emailing connie@strictlyvc.com or connie@techcrunch.com, or via encrypted message at ConnieLoizos.53 on Signal.\r\n\t\n\t\n\t\tView Bio \n\t\n\n\t\t",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2148589533.jpg?w=150"
+      ],
+      "datePublished": "2026-01-17T08:26:08.000Z",
+      "dateModified": "2026-01-17T08:26:08.000Z",
       "author": [
         {
           "@type": "Person",
@@ -250,6 +275,31 @@
     }
   },
   {
+    "title": "Chinese EVs inch closer to the US as Canada slashes tariffs",
+    "url": "https://techcrunch.com/2026/01/16/chinese-evs-inch-closer-to-the-us-as-canada-slashes-tariffs/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/zeekr-001-ces.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-01-16T16:04:02.000Z",
+    "description": "\nCanadian Prime Minister Mark Carney announced Friday that his country will slash its 100% import tax on Chinese EVs to just 6.1%, paving the way for ",
+    "body": "\nCanadian Prime Minister Mark Carney announced Friday that his country will slash its 100% import tax on Chinese EVs to just 6.1%, paving the way for companies like Geely, BYD, Xiaomi, and others to establish a second foothold in the North American automotive market. \nCanada is not going all-in on Chinese EVs, though. The country will initially cap annual imports at 49,000 vehicles. That cap will slowly increase to about 70,000 in around five years, according to the Associated Press. \nIt’s a major shift that comes at a time when China is looking to boost EV exports, especially as the European Union weighs lowering its own tariffs on the vehicles. The U.S. remains a holdout on that front, though this week President Trump said he’d be open to Chinese automakers building factories in the U.S. that produce EVs.\nChina has already been exporting gas, hybrid, and electric vehicles to Mexico, with the latter especially booming in 2025. Many of the leading EV-makers in China have been agitating to enter the U.S. market, including Geely, which held a drive event at the Consumer Electronics Show in Las Vegas last week. While the company was showcasing a number of models ostensibly meant for the Mexican market, one of its communications executives implied the conglomerate is aiming to announce an entry into the U.S. in the next two-to-three years.\nAutomotive journalists, influencers, and even some executives — most notably Ford CEO Jim Farley — have praised the quality of Chinese EVs over the last few years. \nBut the 100% tariff on Chinese cars has so far made the idea of exporting them to the U.S. a non-starter. That’s despite the fact that Chinese EVs are sold at far lower prices than the average car in the U.S. — a feat typically achieved through a combination of extremely low cost of capital, labor, and a willingness to burn money to gain market share.\nChina’s ability to undercut other automakers on price is just one concern. The U.S. has spent the last few years trying to separate itself from China’s EV supply chain for national security reasons, under both Presidents Biden and Trump. There are other legal hurdles too. Last year, the U.S. Department of Commerce’s Bureau of Industry and Security issued a rule restricting the import and sale of certain connected vehicles and related hardware and software linked to China or Russia.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nOn Thursday, Avery Ash, the CEO of nonprofit Securing America’s Future Energy, cautioned against Trump’s idea of allowing Chinese automakers to build cars in the United States.\n“We’ve seen this strategy backfire in Europe and elsewhere—it would have potentially catastrophic impacts on our automotive industry, have ripple effects on our entire defense industrial base, and make every American less secure,” he said in a statement. “We urge the President to stay tough against China and protect American auto manufacturers and workers.” \n\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Chinese EVs inch closer to the US as Canada slashes tariffs",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/01/zeekr-001-ces.jpg?w=150"
+      ],
+      "datePublished": "2026-01-16T16:04:02.000Z",
+      "dateModified": "2026-01-16T16:04:02.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Trump administration’s legal setbacks are good news for offshore wind — and the grid",
     "url": "https://techcrunch.com/2026/01/17/trump-administrations-legal-setbacks-are-good-news-for-offshore-wind-and-the-grid/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/01/wind-turbine-vinyard-wind-Worldview-Films.jpg?w=150",
@@ -266,31 +316,6 @@
       ],
       "datePublished": "2026-01-17T17:30:00.000Z",
       "dateModified": "2026-01-17T17:30:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "YouTube relaxes monetization guidelines for some controversial topics",
-    "url": "https://techcrunch.com/2026/01/16/youtube-relaxes-monetization-guidelines-for-some-controversial-topics/",
-    "image": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1149449078-e1610399732853.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-01-16T15:56:58.000Z",
-    "description": "\n\t\n\t\tImage Credits:Olly Curtis/Future / Getty Images\t\n\t\n\t\t\t\t\t\t7:56 AM PST · January 16, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nYouTube is updating its advertiser-friend",
-    "body": "\n\t\n\t\tImage Credits:Olly Curtis/Future / Getty Images\t\n\t\n\t\t\t\t\t\t7:56 AM PST · January 16, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nYouTube is updating its advertiser-friendly content guidelines to allow more videos on controversial issues to earn full ad revenue, as long as they’re dramatized or discussed in a non-graphic manner. These controversial topics include self-harm, abortion, suicide, and domestic and sexual abuse. YouTube notes that content on child abuse or eating disorders will remain ineligible for full monetization. \nYouTube announced the change this week in a video on its Creator Insider channel.\n“In the past, the degree of graphic or descriptive detail was not considered a significant factor in determining advertiser friendliness, even for some dramatized material,” YouTube explained. “Consequently, such uploads typically received a yellow dollar icon, which restricted their ability to be fully monetized. With this week’s update, our guidelines are becoming more permissive, and creators will be able to earn more ad revenue.”\nThe Google-owned company says it’s making the change in response to creator feedback that YouTube’s guidelines were leading to limited ad revenue on dramatized and topical content. YouTube notes that it wants to ensure that creators who are telling sensitive stories or producing dramatized content have the opportunity to earn ad revenue.\n“We took a closer look and found our guidelines in this area had become too restrictive and ended up demonetizing uploads like dramatized content,” YouTube said. “This content might reference topics that advertisers find controversial, but are ultimately comfortable running their ads against. For example, content may be in a fictional context or voiced from personal experiences in passing or in a non-graphic manner. So, as long as the content steers clear of very descriptive or graphic scenes or segments, creators can now earn more ad revenue.”\nThe move comes as YouTube has been easing up on how it polices content on its platform. \nThe company told moderators last year to leave up videos that may violate platform rules if they are considered to be in the public interest. The New York Times reported at the time that these videos included discussions of political, social, and cultural issues. The policy shift came at a time when social media platforms were rolling back online speech moderation after President Donald Trump returned to office. \nYouTube notes that there are still some areas where ads will remain restricted, as topics like child abuse, including child sex trafficking and eating disorders, are not included in this update. Descriptive segments of those topics or dramatized content around them remain ineligible for ad revenue.\n\n\t\t\t\n\tTopics\n\n\n\n\t\tAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing aisha@techcrunch.com or via encrypted message at aisha_malik.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n\n\t\t",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "YouTube relaxes monetization guidelines for some controversial topics",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1149449078-e1610399732853.jpg?w=150"
-      ],
-      "datePublished": "2026-01-16T15:56:58.000Z",
-      "dateModified": "2026-01-16T15:56:58.000Z",
       "author": [
         {
           "@type": "Person",
@@ -341,31 +366,6 @@
       ],
       "datePublished": "2026-01-16T19:38:27.000Z",
       "dateModified": "2026-01-16T19:38:27.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Chinese EVs inch closer to the US as Canada slashes tariffs",
-    "url": "https://techcrunch.com/2026/01/16/chinese-evs-inch-closer-to-the-us-as-canada-slashes-tariffs/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/zeekr-001-ces.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-01-16T16:04:02.000Z",
-    "description": "\nCanadian Prime Minister Mark Carney announced Friday that his country will slash its 100% import tax on Chinese EVs to just 6.1%, paving the way for ",
-    "body": "\nCanadian Prime Minister Mark Carney announced Friday that his country will slash its 100% import tax on Chinese EVs to just 6.1%, paving the way for companies like Geely, BYD, Xiaomi, and others to establish a second foothold in the North American automotive market. \nCanada is not going all-in on Chinese EVs, though. The country will initially cap annual imports at 49,000 vehicles. That cap will slowly increase to about 70,000 in around five years, according to the Associated Press. \nIt’s a major shift that comes at a time when China is looking to boost EV exports, especially as the European Union weighs lowering its own tariffs on the vehicles. The U.S. remains a holdout on that front, though this week President Trump said he’d be open to Chinese automakers building factories in the U.S. that produce EVs.\nChina has already been exporting gas, hybrid, and electric vehicles to Mexico, with the latter especially booming in 2025. Many of the leading EV-makers in China have been agitating to enter the U.S. market, including Geely, which held a drive event at the Consumer Electronics Show in Las Vegas last week. While the company was showcasing a number of models ostensibly meant for the Mexican market, one of its communications executives implied the conglomerate is aiming to announce an entry into the U.S. in the next two-to-three years.\nAutomotive journalists, influencers, and even some executives — most notably Ford CEO Jim Farley — have praised the quality of Chinese EVs over the last few years. \nBut the 100% tariff on Chinese cars has so far made the idea of exporting them to the U.S. a non-starter. That’s despite the fact that Chinese EVs are sold at far lower prices than the average car in the U.S. — a feat typically achieved through a combination of extremely low cost of capital, labor, and a willingness to burn money to gain market share.\nChina’s ability to undercut other automakers on price is just one concern. The U.S. has spent the last few years trying to separate itself from China’s EV supply chain for national security reasons, under both Presidents Biden and Trump. There are other legal hurdles too. Last year, the U.S. Department of Commerce’s Bureau of Industry and Security issued a rule restricting the import and sale of certain connected vehicles and related hardware and software linked to China or Russia.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nOn Thursday, Avery Ash, the CEO of nonprofit Securing America’s Future Energy, cautioned against Trump’s idea of allowing Chinese automakers to build cars in the United States.\n“We’ve seen this strategy backfire in Europe and elsewhere—it would have potentially catastrophic impacts on our automotive industry, have ripple effects on our entire defense industrial base, and make every American less secure,” he said in a statement. “We urge the President to stay tough against China and protect American auto manufacturers and workers.” \n\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Chinese EVs inch closer to the US as Canada slashes tariffs",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/01/zeekr-001-ces.jpg?w=150"
-      ],
-      "datePublished": "2026-01-16T16:04:02.000Z",
-      "dateModified": "2026-01-16T16:04:02.000Z",
       "author": [
         {
           "@type": "Person",
