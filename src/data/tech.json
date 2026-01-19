@@ -50,22 +50,22 @@
     }
   },
   {
-    "title": "Moxie Marlinspike has a privacy-conscious alternative to ChatGPT",
-    "url": "https://techcrunch.com/2026/01/18/moxie-marlinspike-has-a-privacy-conscious-alternative-to-chatgpt/",
-    "image": "https://techcrunch.com/wp-content/uploads/2017/09/moxie-marlinspike-147a2527.jpg?w=150",
+    "title": "Rogue agents and shadow AI: Why VCs are betting big on AI security",
+    "url": "https://techcrunch.com/2026/01/19/rogue-agents-and-shadow-ai-why-vcs-are-betting-big-on-ai-security/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/rick-caccia-witnessai.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-01-18T15:30:00.000Z",
-    "description": "\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t7:30 AM PST · January 18, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nIf you’re at all concerned about privacy, the rise of AI personal assistants can feel al",
-    "body": "\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t7:30 AM PST · January 18, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nIf you’re at all concerned about privacy, the rise of AI personal assistants can feel alarming. It’s difficult to use one without sharing personal information, which is retained by the model’s parent company. With OpenAI already testing advertising, it’s easy to imagine the same data collection that fuels Facebook and Google creeping into your chatbot conversations.\nA new project, launched in December by Signal co-founder Moxie Marlinspike, is showing what a privacy-conscious AI service might look like. Confer is designed to look and feel like ChatGPT or Claude, but the backend is arranged to avoid data collection, with the open-source rigor that makes Signal so trusted. Your Confer conversations can’t be used to train the model or target ads, for the simple reason that the host will never have access to them.\nFor Marlinspike, those protections are a response to the intimate nature of the service.\n“It’s a form of technology that actively invites confession,” says Marlinspike. “Chat interfaces like ChatGPT know more about people than any other technology before. When you combine that with advertising, it’s like someone paying your therapist to convince you to buy something.” \nEnsuring that privacy requires several different systems working in concert. \nFirst, Confer encrypts messages to and from the system using the WebAuthn passkey system. (Unfortunately, that standard works best on mobile devices or Macs running Sequoia, although you can also make it work on Windows or Linux with a password manager.) On the server side, all Confer’s inference processing is done in a Trusted Execution Environment (TEE), with remote attestation systems in place to verify the system hasn’t been compromised. Inside that, there’s an array of open-weight foundation models handling whatever query comes in. \nThe result is a lot more complicated than a standard inference setup (which is fairly complicated already), but it delivers on Confer’s basic promise to users. As long as those protections are in place, you can have sensitive conversations with the model without any information leaking out.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nConfer’s free tier is limited to 20 messages a day and five active chats. Users willing to pay $35 a month will get unlimited access, along with more advanced models and personalization. That’s quite a bit more than ChatGPT’s Plus plan — but privacy doesn’t come cheap.\n\n\t\t\t\n\tTopics\n\n\n\n\t\n\t\tRussell Brandom has been covering the tech industry since 2012, with a focus on platform policy and emerging technologies. He previously worked at The Verge and Rest of World, and has written for Wired, The Awl and MIT’s Technology Review.\r\n He can be reached at russell.brandom@techcrunch.com or on Signal at 412-401-5489.\t\n\n\t\n\t\tView Bio \n\t\n\n\t\t",
+    "date": "2026-01-19T16:00:00.000Z",
+    "description": "\n\n\n\nWhat happens when an AI agent decides the best way to complete a task is to blackmail you? \nThat’s not a hypothetical. According to Barmak Meftah,",
+    "body": "\n\n\n\nWhat happens when an AI agent decides the best way to complete a task is to blackmail you? \nThat’s not a hypothetical. According to Barmak Meftah, a partner at cybersecurity VC firm Ballistic Ventures, it recently happened to an enterprise employee working with an AI agent. The employee tried to suppress what the agent wanted to do, what it was trained to do, and it responded by scanning the user’s inbox, finding some inappropriate emails, and threatening to blackmail the user by forwarding the emails to the board of directors. \n“In the agent’s mind, it’s doing the right thing,” Meftah told TechCrunch on last week’s episode of Equity. “It’s trying to protect the end user and the enterprise.”\nMeftah’s example is reminiscent of Nick Bostrom’s AI paperclip problem. That thought experiment illustrates the potential existential risk posed by a superintelligent AI that single-mindedly pursues a seemingly innocuous goal – make paperclips – to the exclusion of all human values. In the case of this enterprise AI agent, its lack of context around why the employee was trying to override its goals led it to create a sub-goal that removed the obstacle (via blackmail) so it could meet its primary goal. That combined with the non-deterministic nature of AI agents means “things can go rogue,” per Meftah. \nMisaligned agents are just one layer of the AI security challenge that Ballistic’s portfolio company Witness AI is trying to solve. Witness AI says it monitors AI usage across enterprises and can detect when employees use unapproved tools, block attacks, and ensure compliance. \nWitness AI this week raised $58 million off the back of over 500% growth in ARR and scaled employee headcount by 5x over the last year as enterprises look to understand shadow AI use and scale AI safely. As part of Witness AI’s fundraise, the company announced new agentic AI security protections.\n“People are building these AI agents that take on the authorizations and capabilities of the people that manage them, and you want to make sure that these agents aren’t going rogue, aren’t deleting files, aren’t doing something wrong,” Rick Caccia, co-founder and CEO of Witness AI, told TechCrunch on Equity. \n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nMeftah sees agent usage growing “exponentially” across the enterprise. To complement that rise – and the machine-speed level of AI-powered attacks – analyst Lisa Warren predicts that AI security software will become an $800 billion to $1.2 trillion market by 2031.\n“I do think runtime observability and runtime frameworks for safety and risk are going to be absolutely essential,” Meftah said. \nAs to how such startups plan to compete with big players like AWS, Google, Salesforce and others who have built AI governance tools into their platforms, Meftah said, “AI safety and agentic safety is so huge,” there’s room for many approaches.\nPlenty of enterprises “want a standalone platform, end-to-end, to essentially provide that observability and governance around AI and agents,” he said.\nCaccia noted that Witness AI lives at the infrastructure layer, monitoring interactions between users and AI models, rather than building safety features into the models themselves. And that was intentional.\n“We purposely picked a part of the problem where OpenAI couldn’t easily subsume you,” he said. “So it means we end up competing more with the legacy security companies than the model guys. So the question is, how do you beat them?”\nFor his part, Caccia doesn’t want Witness AI to be one of the startups to just get acquired. He wants his company to be the one that grows and becomes a leading independent provider. \n“CrowdStrike did it in endpoint [protection]. Splunk did it in SIEM. Okta did it in identity,” he said. “Someone comes through and stands next to the big guys…and we built Witness to do that from Day One.\n\n\n\t\tRebecca Bellan is a senior reporter at TechCrunch where she covers the business, policy, and emerging trends shaping artificial intelligence. Her work has also appeared in Forbes, Bloomberg, The Atlantic, The Daily Beast, and other publications. \r\nYou can contact or verify outreach from Rebecca by emailing rebecca.bellan@techcrunch.com or via encrypted message at rebeccabellan.491 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Moxie Marlinspike has a privacy-conscious alternative to ChatGPT",
+      "headline": "Rogue agents and shadow AI: Why VCs are betting big on AI security",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2017/09/moxie-marlinspike-147a2527.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/01/rick-caccia-witnessai.jpg?w=150"
       ],
-      "datePublished": "2026-01-18T15:30:00.000Z",
-      "dateModified": "2026-01-18T15:30:00.000Z",
+      "datePublished": "2026-01-19T16:00:00.000Z",
+      "dateModified": "2026-01-19T16:00:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -116,6 +116,31 @@
       ],
       "datePublished": "2026-01-16T23:21:24.000Z",
       "dateModified": "2026-01-16T23:21:24.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Moxie Marlinspike has a privacy-conscious alternative to ChatGPT",
+    "url": "https://techcrunch.com/2026/01/18/moxie-marlinspike-has-a-privacy-conscious-alternative-to-chatgpt/",
+    "image": "https://techcrunch.com/wp-content/uploads/2017/09/moxie-marlinspike-147a2527.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-01-18T15:30:00.000Z",
+    "description": "\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t7:30 AM PST · January 18, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nIf you’re at all concerned about privacy, the rise of AI personal assistants can feel al",
+    "body": "\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t7:30 AM PST · January 18, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nIf you’re at all concerned about privacy, the rise of AI personal assistants can feel alarming. It’s difficult to use one without sharing personal information, which is retained by the model’s parent company. With OpenAI already testing advertising, it’s easy to imagine the same data collection that fuels Facebook and Google creeping into your chatbot conversations.\nA new project, launched in December by Signal co-founder Moxie Marlinspike, is showing what a privacy-conscious AI service might look like. Confer is designed to look and feel like ChatGPT or Claude, but the backend is arranged to avoid data collection, with the open-source rigor that makes Signal so trusted. Your Confer conversations can’t be used to train the model or target ads, for the simple reason that the host will never have access to them.\nFor Marlinspike, those protections are a response to the intimate nature of the service.\n“It’s a form of technology that actively invites confession,” says Marlinspike. “Chat interfaces like ChatGPT know more about people than any other technology before. When you combine that with advertising, it’s like someone paying your therapist to convince you to buy something.” \nEnsuring that privacy requires several different systems working in concert. \nFirst, Confer encrypts messages to and from the system using the WebAuthn passkey system. (Unfortunately, that standard works best on mobile devices or Macs running Sequoia, although you can also make it work on Windows or Linux with a password manager.) On the server side, all Confer’s inference processing is done in a Trusted Execution Environment (TEE), with remote attestation systems in place to verify the system hasn’t been compromised. Inside that, there’s an array of open-weight foundation models handling whatever query comes in. \nThe result is a lot more complicated than a standard inference setup (which is fairly complicated already), but it delivers on Confer’s basic promise to users. As long as those protections are in place, you can have sensitive conversations with the model without any information leaking out.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nConfer’s free tier is limited to 20 messages a day and five active chats. Users willing to pay $35 a month will get unlimited access, along with more advanced models and personalization. That’s quite a bit more than ChatGPT’s Plus plan — but privacy doesn’t come cheap.\n\n\t\t\t\n\tTopics\n\n\n\n\t\n\t\tRussell Brandom has been covering the tech industry since 2012, with a focus on platform policy and emerging technologies. He previously worked at The Verge and Rest of World, and has written for Wired, The Awl and MIT’s Technology Review.\r\n He can be reached at russell.brandom@techcrunch.com or on Signal at 412-401-5489.\t\n\n\t\n\t\tView Bio \n\t\n\n\t\t",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Moxie Marlinspike has a privacy-conscious alternative to ChatGPT",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2017/09/moxie-marlinspike-147a2527.jpg?w=150"
+      ],
+      "datePublished": "2026-01-18T15:30:00.000Z",
+      "dateModified": "2026-01-18T15:30:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -200,97 +225,22 @@
     }
   },
   {
-    "title": "Supreme Court hacker posted stolen government data on Instagram",
-    "url": "https://techcrunch.com/2026/01/16/supreme-court-hacker-posted-stolen-government-data-on-instagram/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/us-supreme-court.jpg?w=150",
+    "title": "BioticsAI, Battlefield 2023, gains FDA approval for its AI-powered fetal ultrasound product ",
+    "url": "https://techcrunch.com/2026/01/19/biotics-ai-battlefield-2023-gains-fda-approval-for-its-ai-powered-fetal-ultrasound-product/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-1434364212.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-01-16T20:01:12.000Z",
-    "description": "\nA hacker posted the personal data of several of his hacking victims on his Instagram account, @ihackthegovernment, according to a court document.\nLas",
-    "body": "\nA hacker posted the personal data of several of his hacking victims on his Instagram account, @ihackthegovernment, according to a court document.\nLast week, Nicholas Moore, 24, a resident of Springfield, Tennessee, pleaded guilty to repeatedly hacking into the U.S. Supreme Court’s electronic document filing system. At the time, there were no details about the specifics of the hacking crimes Moore was admitting to. \nOn Friday, a newly filled document — first spotted by Court Watch’s Seamus Hughes — revealed more details about Moore’s hacks. Per the filing, Moore hacked not only into the Supreme Court systems, but also the network of AmeriCorps, a government agency that runs stipend volunteer programs, and the systems of the Department of Veterans Affairs, which provides healthcare and welfare to military veterans. \nMoore accessed those systems using stolen credentials of users who were authorized to access them. Once he gained access to those victims’ accounts, Moore accessed and stole their personal data and posted some online to his Instagram account: @ihackthegovernment. \nIn the case of the Supreme Court victim, identified as GS, Moore posted their name and “current and past electronic filing records.” \nIn the case of the AmeriCorps victim, identified as SM, Moore boasted that he had access to the organization’s servers and published the victim’s “name, date of birth, email address, home address, phone number, citizenship status, veteran status, service history, and the last four digits of his social security number.” \nAnd, in the case of the victim at the Department of Veterans Affairs, identified as HW, Moore posted the victim’s identifiable health information “when he sent an associate a screenshot from HW’s MyHealtheVet account that identified HW and showed the medications he had been prescribed.”\nAccording to the court document, Moore faces a maximum sentence of one year in prison and a maximum fine of $100,000.\n\n\n\t\tLorenzo Franceschi-Bicchierai is a Senior Writer at TechCrunch, where he covers hacking, cybersecurity, surveillance, and privacy. \nYou can contact or verify outreach from Lorenzo by emailing lorenzo@techcrunch.com, via encrypted message at +1 917 257 1382 on Signal, and @lorenzofb on Keybase/Telegram.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-01-19T15:00:00.000Z",
+    "description": "\nTechCrunch Disrupt Battlefield 2023 winner, BioticsAI, announced on Monday that it has received FDA clearance for its AI software that helps detect f",
+    "body": "\nTechCrunch Disrupt Battlefield 2023 winner, BioticsAI, announced on Monday that it has received FDA clearance for its AI software that helps detect fetal abnormalities in ultrasound images. \nThe product was envisioned by founder CEO Robhy Bustami, who was raised in a family of obstetricians, including his mother, aunt and uncle. He spent a lot of time in hospitals growing up, often traveling with his mother as she provided maternal care throughout the U.S.  \nAfter learning to code and studying computer science at UC Irvine, Bustami teamed up with Salman Khan, Chaskin Saroff, and Dr. Hisham Elgammal in 2021 to launch BioticsAI.\nThe technology uses computer vision AI “to support fetal ultrasound quality assessment, anatomical completeness, automated reporting, and seamless integration into clinical workflows,” Bustami told TechCrunch. \nHe hopes his tech will help the U.S. combat the fact that the U.S. has one of the worst prenatal outcomes for mothers among high-income nations. Black women in particular face a very high rate of maternal deaths,  \nBustami said that the prenatal ultrasound has become the “cornerstone” of monitoring pregnancies, but its low-quality images can lead to misdiagnosis. \nBustami said the hardest part was not building his AI models, which were trained on a diverse set of hundreds of thousands of ultrasounds, but ensuring the tech performed reliably in the real world, especially on demographics with the highest risk for a tragic outcome. \n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n“In an environment where disparities in healthcare outcomes are well documented, it was critical to demonstrate consistent performance across patient subgroups, not just in idealized cases,” Bustami continued.  \nThe CEO said it took just under three years to go through the FDA process, including testing and validating the product. The experience taught him and his team how critical it is for engineering, product, clinical, and regulatory work to be tightly aligned from the very beginning. “By designing the product, clinical validation, and regulatory pathway together, rather than sequentially, we were able to move quickly,” he said.  \nNow with FDA clearance, Bustami said the companies’ next focus is scaling across various health systems nationwide. He also has plans to add more features for fetal medicine and reproductive health. \n“We’re positioned to scale both distribution and clinical impact while continuing to deepen the power of our technology,” he said.  \nThis piece was updated to correct the spelling of the co-founder’s name.\n\n\n\t\tDominic-Madori Davis is a senior venture capital and startup reporter at TechCrunch. She is based in New York City.\r\nYou can contact or verify outreach from Dominic by emailing dominic.davis@techcrunch.com or via encrypted message at +1 646 831-7565 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Supreme Court hacker posted stolen government data on Instagram",
+      "headline": "BioticsAI, Battlefield 2023, gains FDA approval for its AI-powered fetal ultrasound product ",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/01/us-supreme-court.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-1434364212.jpg?w=150"
       ],
-      "datePublished": "2026-01-16T20:01:12.000Z",
-      "dateModified": "2026-01-16T20:01:12.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "ChatGPT users are about to get hit with targeted ads",
-    "url": "https://techcrunch.com/2026/01/16/chatgpt-users-are-about-to-get-hit-with-targeted-ads/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2207801992.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-01-16T19:54:19.000Z",
-    "description": "\n\t\n\t\tImage Credits:Betul Abali/Anadolu / Getty Images\t\n\t\n\t\t\t\t\t\t11:54 AM PST · January 16, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nAn ongoing conversation — both within a",
-    "body": "\n\t\n\t\tImage Credits:Betul Abali/Anadolu / Getty Images\t\n\t\n\t\t\t\t\t\t11:54 AM PST · January 16, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nAn ongoing conversation — both within and outside of the tech community — has been about just how and when OpenAI, which is currently valued at $500 billion, will make money. Well, there’s one surefire way to do that, and that is through advertising. In the near term, that seems to be the AI giant’s plan, as it announced this week that limited ads are headed to certain ChatGPT users.\nIn a blog post published Friday, OpenAI said that it will begin testing ads in the U.S. for both its free and Go tiers. (Go accounts, which cost $8 a month, were introduced globally on Friday.) The company frames this as a way to sustain free access while generating revenue from people who aren’t ready to commit to a paid subscription. For the time being, the company’s more expensive paid tiers — Pro, Plus, Business, and Enterprise — will not be getting any ads.\nThe ads will appear at the bottom of a user’s conversation and will be targeted to the topic of discussion. Users will have some control over this situation, as they’ll be able to dismiss ads, see explanations for why they’re being shown particular ones, and also turn off personalization, which should defeat the ads’ targeted nature. The company has also made a commitment not to serve ads to users it believes are under the age of 18.\nImage Credits:TechCrunch (Screenshot)\nOpenAI says that ChatGPT will maintain “answer independence,” meaning that, despite the incorporation of advertising, those ads will not influence the answers that the chatbot serves to users. The company has also promised not to sell users’ data to advertisers.\nThis strategy could pay off in two ways. For users of the free and Go tiers, the company obviously stands to make a significant amount of ad revenue. At the same time, there will necessarily be certain users who appreciate the app but don’t appreciate the ads, which could conceivably drive an uptick in subscriptions to the platform’s more expensive accounts. \nOpenAI also wants everybody to know that it’s only sticking ads in its chatbot to help the world. In its blog post Friday, the company promised that its “pursuit of advertising is always in support of” its mission: that AGI “benefits all of humanity.”\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n\n\t\t\t\n\tTopics\n\n\n\n\t\n\t\tLucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. \nYou can contact Lucas by emailing lucas.ropek@techcrunch.com.\t\n\n\t\n\t\tView Bio \n\t\n\n\t\t",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "ChatGPT users are about to get hit with targeted ads",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2207801992.jpg?w=150"
-      ],
-      "datePublished": "2026-01-16T19:54:19.000Z",
-      "dateModified": "2026-01-16T19:54:19.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The AI healthcare gold rush is here",
-    "url": "https://techcrunch.com/video/the-ai-healthcare-gold-rush-is-here/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2198379646.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-01-16T18:57:03.000Z",
-    "description": "\n\t\t\n\nLoading the player…\n\nAI companies are clustering around healthcare and fast. \nIn just the past week, OpenAI bought health startup Torch, Anthropi",
-    "body": "\n\t\t\n\nLoading the player…\n\nAI companies are clustering around healthcare and fast. \nIn just the past week, OpenAI bought health startup Torch, Anthropic launched Claude for healthcare, and Sam Altman-backed MergeLabs closed a $250 million seed round at an $850 million valuation. The money and products are pouring into health and voice AI, but so are concerns about hallucination risks, inaccurate medical information, and massive security vulnerabilities in systems handling sensitive patient data. \nWatch as Equity podcast hosts Kirsten Korosec, Anthony Ha, and Sean O’Kane dig into why the AI world is suddenly obsessed with health care, what other products can expect an AI-makeover, and more. \nSubscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. You also can follow Equity on X and Threads, at @EquityPod. \n\n\t\t\n\tTopics\n\n\n\n\t\tTheresa Loconsolo is an audio producer at TechCrunch focusing on Equity, the network’s flagship podcast. Before joining TechCrunch in 2022, she was one of 2 producers at a four-station conglomerate where she wrote, recorded, voiced and edited content, and engineered live performances and interviews from guests like lovelytheband. Theresa is based in New Jersey and holds a bachelors degree in Communication from Monmouth University. You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n\n\t\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "The AI healthcare gold rush is here",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2198379646.jpg?w=150"
-      ],
-      "datePublished": "2026-01-16T18:57:03.000Z",
-      "dateModified": "2026-01-16T18:57:03.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Trump administration wants tech companies to buy $15B of power plants they may not use",
-    "url": "https://techcrunch.com/2026/01/16/trump-administration-wants-tech-companies-to-buy-15b-of-power-plants-they-may-not-use/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1453486183.jpeg?w=150",
-    "tag": "Tech",
-    "date": "2026-01-16T19:38:27.000Z",
-    "description": "\nThe Trump administration wants the largest electricity grid to add $15 billion worth of new power generation — and he wants tech companies to pay for",
-    "body": "\nThe Trump administration wants the largest electricity grid to add $15 billion worth of new power generation — and he wants tech companies to pay for it, even if they don’t need the capacity.\nThe White House and the governors of several states in the region want grid operator PJM to hold an auction for 15-year contracts for new generating capacity. The administration said it wants tech companies to bid on the contracts even if they don’t ultimately need the power for their data centers. Demand from data centers is expected to increase nearly threefold over the next decade.\nPJM said it was reviewing the “statement of principles” and that it would soon release the results of a months-long planning process that is looking to add new capacity to the grid.\nThe statement is nonbonding, though, and behind the scenes, PJM doesn’t appear to be jazzed about the administration attempting to force its hand. “We don’t have a lot to say on this,” PJM spokesman Jeffrey Shields told Bloomberg yesterday. “We were not invited to the event they are apparently having tomorrow and we will not be there.”\nPJM Interconnection, which covers 13 states in the Mid-Atlantic and the Midwest, serves more than 65 million people and includes the data center hotspot of northern Virginia. Electricity rates in 2025 were up about 10% to 15% in the region compared with the year before.\nIn the last decade, PJM’s peak load has increased 10%, according to Monitoring Analytics, and it’s expected to increase another 6.5% in 2027.\nMuch of the blame has been laid at the feet of tech companies and data center operators, which have been using increasing amounts of power for AI.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThe price of natural gas is also to blame. PJM is heavily dependent on the fossil fuel, and the price has soared recently. Monitoring Analytics, PJM’s independent monitor, says that about 60% of 2025’s price increases are the result of high prices for fossil fuels.\nGrid operators have been put in a bind as data centers have ramped up demand for electricity after more than a decade of zero growth. \nBuilding new fossil fuel power plants is a years-long proposition costing hundreds of millions of dollars. Many utilities and power providers are hesitant to commit to those timelines and outlays. If the AI boom fizzles, they could be left with unprofitable power plants that are built to operate for decades. \nTech companies, which haven’t traditionally been in the power business, have instead been turning to renewables, which are cheaper, more modular, and faster to deploy. Solar and batteries have been an early winner. A typical solar farm can be built in about 18 months, and because it can be built in phases, can start delivering power before it’s complete. That aligns more closely with data center construction, allowing companies to manage risk on similar timelines.\n\n\n\t\tTim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor. \r\nDe Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.\r\nYou can contact or verify outreach from Tim by emailing tim.dechant@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Trump administration wants tech companies to buy $15B of power plants they may not use",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1453486183.jpeg?w=150"
-      ],
-      "datePublished": "2026-01-16T19:38:27.000Z",
-      "dateModified": "2026-01-16T19:38:27.000Z",
+      "datePublished": "2026-01-19T15:00:00.000Z",
+      "dateModified": "2026-01-19T15:00:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -341,6 +291,56 @@
       ],
       "datePublished": "2026-01-18T22:15:17.000Z",
       "dateModified": "2026-01-18T22:15:17.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "How YC-backed Bucket Robotics survived its first CES",
+    "url": "https://techcrunch.com/2026/01/18/how-yc-backed-bucket-robotics-survived-its-first-ces/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/bucket-robotics-1.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-01-18T16:10:00.000Z",
+    "description": "\nThe weather in Las Vegas wasn’t looking good. The plan had been that each employee of YC-backed Bucket Robotics would carry parts of their booth in t",
+    "body": "\nThe weather in Las Vegas wasn’t looking good. The plan had been that each employee of YC-backed Bucket Robotics would carry parts of their booth in their luggage to the 2026 Consumer Electronics Show. But CEO and founder Matt Puchalski didn’t want to take the chance that one (or all) of their flights would be delayed. So he rented a Hyundai Santa Fe and packed it up. \n“It was… it was tight,” he said with a laugh on the show floor.  \nIt took 12 hours driving in the rain, but the gear – and Puchalski – made it safely to Las Vegas, and so began the young company’s first-ever CES.\nSan Francisco-based Bucket Robotics was just one of thousands of companies exhibiting at the annual tech conference, a speck of sand on a beach full of products and promises. But despite its modest setup in the automotive-focused West Hall, Puchalski said the trip was worth it.\nPart of that was a willingness to be tireless, observant, and always ready to pitch.\nAn engineer by trade, Puchalski spent most of the last decade working on autonomous vehicles at Uber, Argo AI, Ford’s subsidiary Latitude AI, and SoftBank-backed Stack AV.\nAt those jobs, Puchalski developed deep connections in the automotive industry, and we crossed paths all week.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThere he was at an industry networking party one night. On another night, in my hotel lobby at 10 p.m., he was debating how to balance quality and manufacturing yield with Sanjay Dastoor — founder of mobility startups Skip and Boosted, both of which also got off the ground at YC.\nBut I first ran into Puchalski during breakfast at the hotel. Seated at the table next to me, he and sales associate Max Joseph were running through preparations for the conference’s “Media Day” over (allegedly) cage-free eggs.\nPuchalski’s verve piqued my interest, and after making an intro, he told me what Bucket Robotics is up to. Before I knew it, he had cracked open a bright yellow Pelican case and I was holding a small piece of plastic.\nStarted as part of YC’s Spring 2024 batch, Bucket Robotics is all about using advanced vision systems to do quality inspections, specifically for surfaces. The goal is to automate a menial task that Puchalski joked is usually done by “dudes in Wisconsin,” and to accelerate the broad, multi-industry effort to onshore manufacturing. \nOne example Puchalski offered was car door handles. It’s a part customers touch every day, so it needs to be structurally sound, and that kind of quality inspection is basically solved.\nBut it can be challenging to make sure the surface is flawless. Is the color right? Are there any burn or scuff marks? These are the questions Bucket Robotics wants to answer.\n“It’s deeply hard to automate these types of challenges without huge volumes of data, so auto manufacturers just throw dudes in Wisconsin at this problem,” he said. \nBucket Robotics solves that data problem by working from the CAD files for a particular part. It then generates a bunch of simulated defects – burn marks, bumps, breaks – so that its vision software can detect those problems quickly on a production line.\nThere’s no need for manual labeling, and the company claims its models can deploy “in minutes” while also adapting if products or production lines change. One of the big selling points to date is that Bucket Robotics can integrate into existing production lines without adding new hardware, Puchalski said. \nThis has already attracted customers in automotive and in defense, setting up Bucket Robotics to pursue the increasingly popular path of becoming a “dual-use” company.  \nWhen the show floor opened, the first two hours were “intense,” Puchalski said. Attendees in suits snooped around the startup’s tables, plucked orange stickers with the Bucket Robotics logo, and quizzed the employees about their tech.  \nMore importantly, Puchalski said the level of interest stayed consistent throughout the week. He had “real technical discussions” with people from the worlds of manufacturing, robotics, and automation. He said Friday that he’s spent the week since the show on follow-up calls with prospective customers and investors. \nCES can be a slog, but Bucket Robotics survived. Now comes the actual hard part: building a business, scaling, fundraising, and striking commercial deals.  \nAs for the “dudes in Wisconsin,” Puchalski doesn’t see his company as a threat to their livelihoods. Those jobs are just as much about spotting defects as they are about identifying the root cause of the problem, he said.\nAnd besides, Puchalski added, automating surface quality inspection is something that the manufacturing industry has been trying to do for decades.\n“So when we go to our customers, it’s incredibly exciting,” he said. \n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "How YC-backed Bucket Robotics survived its first CES",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/01/bucket-robotics-1.jpg?w=150"
+      ],
+      "datePublished": "2026-01-18T16:10:00.000Z",
+      "dateModified": "2026-01-18T16:10:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "AI cloud startup Runpod hits $120M in ARR — and it started with a Reddit post  ",
+    "url": "https://techcrunch.com/2026/01/16/ai-cloud-startup-runpod-hits-120m-in-arr-and-it-started-with-a-reddit-post/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Runpod-founders-Zhen-Lu-Pardeep-Singh.png?w=150",
+    "tag": "Tech",
+    "date": "2026-01-16T23:46:33.000Z",
+    "description": "\nRunpod, an AI app hosting platform that launched four years ago, has hit a $120 million annual revenue run rate, founders Zhen Lu and Pardeep Singh t",
+    "body": "\nRunpod, an AI app hosting platform that launched four years ago, has hit a $120 million annual revenue run rate, founders Zhen Lu and Pardeep Singh tell TechCrunch.  \nTheir startup journey is a wild example of how if you build it well and the timing is lucky, they will definitely come.\nThe story includes bootstrapping their way to over $1 million in revenue; landing a $20 million seed round after VC Radhika Malik, a partner at Dell Technologies Capital, saw some Reddit posts; and gaining another key angel investor, Hugging Face co-founder Julien Chaumond, because he was using the product and reached out over the support chat, the founders tell TechCrunch. \nIt all began in late 2021 when the two friends, who worked together as corporate developers for Comcast, decided the hobby they were doing wasn’t fun anymore. \nThey had built setups of specialized computers used to generate Ethereum in their respective New Jersey basements. While they did successfully mine a bit of the cryptocurrency, it wasn’t enough to pay back their investment, they said. Plus, mining was going to end after the much-ballyhooed network upgrade called “The Merge.” \nOn top of that, it was “boring” after a couple of months, Lu said. \nBut they had talked their wives into letting them spend a good $50,000 on the hobby between them, they estimated. Lu and Singh knew that home harmony depended on finding a way to use those GPUs. \n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThe devs had been engaged in machine learning projects at work, so they opted to convert their mining rigs into AI servers. This was before ChatGPT, even before DALL-E 2. \nAs they repurposed the rigs, “We were seeing how really god-awful the software stack was for dealing with these GPUs,” Lu said. As developers, they found a problem they wanted to solve.  \nRunpod was born “because we felt that the actual experience of developing software on top of GPUs was just hot garbage,” Lu described. \nA few months later in early 2022, they were ready to share what they had built. Runpod is a platform for hosting AI apps, emphasizing speed, easily configured hardware (including a serverless option that automates configuration), and dev tools like APIs, command-line interfaces, and other integrations.  \nBack in 2021, they only had a few such integrations (like support for popular web app tool Jupyter notebooks). The next problem: finding beta testers. \n“As first-time founders, we didn’t really know how to market or how to do anything,” Lu recalled. “So I’m like, all right, let’s just post on Reddit.” \nSo, they posted in a couple of AI-oriented subreddits. The offer was simple: free access to their AI servers in exchange for feedback. It worked. They landed beta customers, which led to paying customers. Within nine months, they had quit their jobs and hit $1 million in revenue, they said. \nBootstrapping growth\nBut that led to another problem. “Six months in, business users were like, ‘Hey, I want to actually run real business stuff on your platform. But I cannot run it on servers that are in people’s basements,” Lu said. \nIt had not occurred to the New Jersey founders to raise capital from VCs. Instead they formed revenue-share partnerships with data centers to grow capacity. But it was stressful. The founders needed to stay three steps ahead. \n“If we don’t have the GPUs, the market sentiment, the user sentiment changes. Because when they don’t see capacity from you, they go somewhere else,” Singh described. \nMeanwhile, their user base was growing on Reddit and Discord, especially after ChatGPT launched.\nVCs were also on the prowl for investments. Malik saw them on Reddit and reached out, their first VC call. But Lu didn’t know how to pitch to an investor. “Radhika was super helpful, even at the first conversation,” he said. She basically explained to him how a VC thinks and told him she’d stay in touch.  \nMeanwhile, Lu had a business to run that had to pay for itself. “It was almost two years where we really didn’t have any funding,” he said. So Runpod never offered a free tier. It had to at least pay for itself, even if it wasn’t throwing off much profit. Unlike other AI cloud services that began as crypto miners, these founders refused to take on debt, they said. \nBy May 2024, with AI app fever spreading, their lucky decision to launch AI hosting for devs two years earlier was paying off. Their business had grown to 100,000 developers, and they landed a $20 million seed deal co-led by the VC arms of both Dell and Intel, with participation from big names like Nat Friedman and Chaumond.  \nThey haven’t raised more money since but are now planning to, armed with a business that, they believe, should command a healthy Series A. \nToday, Runpod counts 500,000 developers as customers, ranging from individuals to Fortune 500 enterprise teams with multimillion-dollar annual spend, the founders said. \nTheir cloud spans 31 regions globally and counts customers like Replit, Cursor, OpenAI, Perplexity, Wix, and Zillow as users.\nCompetition is also fierce. Devs have all the major clouds to choose from (AWS, Microsoft, Google), plus plenty of industry-specific choices like CoreWeave and Core Scientific. \nBut they also see their place in the world a bit differently — as a dev-centric platform. They don’t see coding ever going away but changing. Programmers will become AI agent creators and operators. \n“Our goal is to be what this next generation of software developers grows up on,” Lu said.  \n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "AI cloud startup Runpod hits $120M in ARR — and it started with a Reddit post  ",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/01/Runpod-founders-Zhen-Lu-Pardeep-Singh.png?w=150"
+      ],
+      "datePublished": "2026-01-16T23:46:33.000Z",
+      "dateModified": "2026-01-16T23:46:33.000Z",
       "author": [
         {
           "@type": "Person",
