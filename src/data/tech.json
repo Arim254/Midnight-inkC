@@ -1,55 +1,5 @@
 [
   {
-    "title": "Inference startup Inferact lands $150M to commercialize vLLM",
-    "url": "https://techcrunch.com/2026/01/22/inference-startup-inferact-lands-150m-to-commercialize-vllm/",
-    "image": "https://techcrunch.com/wp-content/uploads/2016/10/ai-tool.png?w=150",
-    "tag": "Tech",
-    "date": "2026-01-22T22:42:00.000Z",
-    "description": "\nIn Brief\nPosted:\n2:42 PM PST · January 22, 2026\n\nImage Credits:Askold Romanov/iStock\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nThe creators of the o",
-    "body": "\nIn Brief\nPosted:\n2:42 PM PST · January 22, 2026\n\nImage Credits:Askold Romanov/iStock\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nThe creators of the open source project vLLM have announced that they transitioned the popular tool into a VC-backed startup, Inferact, raising $150 million in seed funding at an $800 million valuation.\nThe round was co-led by Andreessen Horowitz and Lightspeed Venture Partners, confirming TechCrunch’s earlier reporting that vLLM has raised capital from a16z.\nInferact’s debut mirrors the recent commercialization of the SGLang project as RadixArk, which sources told us secured capital at a $400 million valuation led by Accel, as we reported on Wednesday.\nAs the focus in AI shifts from training models to deploying them in applications, a process known as inference, technologies like vLLM and SGLang that make these AI tools run faster and more affordably are attracting investor attention.\nBoth vLLM and SGLang were incubated in 2023 at the UC Berkeley lab of Databricks co-founder Ion Stoica.\nInferact CEO Simon Mo, one of the project’s original creators, told Bloomberg that existing users of vLLM include Amazon’s cloud service and the shopping app.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in AI\n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Inference startup Inferact lands $150M to commercialize vLLM",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2016/10/ai-tool.png?w=150"
-      ],
-      "datePublished": "2026-01-22T22:42:00.000Z",
-      "dateModified": "2026-01-22T22:42:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Voice AI engine and OpenAI partner LiveKit hits $1B valuation",
-    "url": "https://techcrunch.com/2026/01/22/voice-ai-engine-and-openai-partner-livekit-hits-1b-valuation/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-01-22T22:44:29.000Z",
-    "description": "\nIn Brief\nPosted:\n2:44 PM PST · January 22, 2026\n\nImage Credits:Carol Yepes / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nLiveKit, a devel",
-    "body": "\nIn Brief\nPosted:\n2:44 PM PST · January 22, 2026\n\nImage Credits:Carol Yepes / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nLiveKit, a developer of infrastructure software for real-time AI voice and video applications, has announced the raise of $100 million in funding at a $1 billion valuation.\nThe round, which comes 10 months after LiveKit’s previous fundraise, was led by Index Ventures with participation from existing investors, including Altimeter Capital Management, Hanabi Capital, and Redpoint Ventures.\nLiveKit powers OpenAI’s ChatGPT voice mode. The startup’s other customers include xAI, Salesforce, Tesla, as well as 911 emergency service operators and mental health providers.\nThe company was founded in 2021 by Russ d’Sa and David Zhao as an open source software project for building apps that can transmit real-time audio and video without interruptions, in an era when the whole world was meeting on Zoom during the pandemic.\nAlthough LiveKit began as a free developer tool, the business took off after the founders realized big companies wanted a managed cloud version and began providing those services to enterprises amid the voice AI boom.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Enterprise\n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Voice AI engine and OpenAI partner LiveKit hits $1B valuation",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?w=150"
-      ],
-      "datePublished": "2026-01-22T22:44:29.000Z",
-      "dateModified": "2026-01-22T22:44:29.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Vimeo starts layoffs after acquisition by Bending Spoons",
     "url": "https://techcrunch.com/2026/01/22/vimeo-starts-layoffs-after-acquisition-by-bending-spoons/",
     "image": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1162218344.jpg?w=150",
@@ -125,6 +75,31 @@
     }
   },
   {
+    "title": "Inference startup Inferact lands $150M to commercialize vLLM",
+    "url": "https://techcrunch.com/2026/01/22/inference-startup-inferact-lands-150m-to-commercialize-vllm/",
+    "image": "https://techcrunch.com/wp-content/uploads/2016/10/ai-tool.png?w=150",
+    "tag": "Tech",
+    "date": "2026-01-22T22:42:00.000Z",
+    "description": "\nIn Brief\nPosted:\n2:42 PM PST · January 22, 2026\n\nImage Credits:Askold Romanov/iStock\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nThe creators of the o",
+    "body": "\nIn Brief\nPosted:\n2:42 PM PST · January 22, 2026\n\nImage Credits:Askold Romanov/iStock\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nThe creators of the open source project vLLM have announced that they transitioned the popular tool into a VC-backed startup, Inferact, raising $150 million in seed funding at an $800 million valuation.\nThe round was co-led by Andreessen Horowitz and Lightspeed Venture Partners, confirming TechCrunch’s earlier reporting that vLLM has raised capital from a16z.\nInferact’s debut mirrors the recent commercialization of the SGLang project as RadixArk, which sources told us secured capital at a $400 million valuation led by Accel, as we reported on Wednesday.\nAs the focus in AI shifts from training models to deploying them in applications, a process known as inference, technologies like vLLM and SGLang that make these AI tools run faster and more affordably are attracting investor attention.\nBoth vLLM and SGLang were incubated in 2023 at the UC Berkeley lab of Databricks co-founder Ion Stoica.\nInferact CEO Simon Mo, one of the project’s original creators, told Bloomberg that existing users of vLLM include Amazon’s cloud service and the shopping app.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in AI\n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Inference startup Inferact lands $150M to commercialize vLLM",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2016/10/ai-tool.png?w=150"
+      ],
+      "datePublished": "2026-01-22T22:42:00.000Z",
+      "dateModified": "2026-01-22T22:42:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Meta seeks to limit evidence in child safety case",
     "url": "https://techcrunch.com/2026/01/22/meta-seeks-to-limit-evidence-in-child-safety-case/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/09/Meta-Connect-2024-09-25-at-1.57.52PM.jpg?w=150",
@@ -141,6 +116,31 @@
       ],
       "datePublished": "2026-01-22T18:40:01.000Z",
       "dateModified": "2026-01-22T18:40:01.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Voice AI engine and OpenAI partner LiveKit hits $1B valuation",
+    "url": "https://techcrunch.com/2026/01/22/voice-ai-engine-and-openai-partner-livekit-hits-1b-valuation/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-01-22T22:44:29.000Z",
+    "description": "\nIn Brief\nPosted:\n2:44 PM PST · January 22, 2026\n\nImage Credits:Carol Yepes / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nLiveKit, a devel",
+    "body": "\nIn Brief\nPosted:\n2:44 PM PST · January 22, 2026\n\nImage Credits:Carol Yepes / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nLiveKit, a developer of infrastructure software for real-time AI voice and video applications, has announced the raise of $100 million in funding at a $1 billion valuation.\nThe round, which comes 10 months after LiveKit’s previous fundraise, was led by Index Ventures with participation from existing investors, including Altimeter Capital Management, Hanabi Capital, and Redpoint Ventures.\nLiveKit powers OpenAI’s ChatGPT voice mode. The startup’s other customers include xAI, Salesforce, Tesla, as well as 911 emergency service operators and mental health providers.\nThe company was founded in 2021 by Russ d’Sa and David Zhao as an open source software project for building apps that can transmit real-time audio and video without interruptions, in an era when the whole world was meeting on Zoom during the pandemic.\nAlthough LiveKit began as a free developer tool, the business took off after the founders realized big companies wanted a managed cloud version and began providing those services to enterprises amid the voice AI boom.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Enterprise\n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Voice AI engine and OpenAI partner LiveKit hits $1B valuation",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?w=150"
+      ],
+      "datePublished": "2026-01-22T22:44:29.000Z",
+      "dateModified": "2026-01-22T22:44:29.000Z",
       "author": [
         {
           "@type": "Person",
@@ -175,88 +175,13 @@
     }
   },
   {
-    "title": "GM to end Chevy Bolt EV production next year, move China-made Buick to US factory",
-    "url": "https://techcrunch.com/2026/01/22/gm-to-end-chevy-bolt-ev-production-next-year-move-china-made-buick-to-u-s-factory/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Chevrolet-Bolt-2027-DriverFront.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-01-22T23:55:44.000Z",
-    "description": "\n\t\n\t\tImage Credits:GM\t\n\t\n\t\t\t\t\t\t3:55 PM PST · January 22, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nGeneral Motors is shuffling where its vehicles are made in a move that w",
-    "body": "\n\t\n\t\tImage Credits:GM\t\n\t\n\t\t\t\t\t\t3:55 PM PST · January 22, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nGeneral Motors is shuffling where its vehicles are made in a move that will shift production away from China and Mexico and to a U.S. factory in Kansas. That change will also mean the end of its rebooted Chevrolet Bolt EV, the only vehicle currently built at the Fairfax Assembly Plant in Kansas.\nThe factory musical chairs reflect an economic and political environment, shaped by the Trump administration’s tariff policy and its decision to end the federal EV tax credit, which provided up to $7,500 off qualifying electric vehicles. These changes have made it more expensive to build vehicles in China and Mexico that are then sold in the United States.\nProduction of the 2027 Chevy Bolt EV, which landed in dealerships this month, is expected to end in about a year and a half. The new Chevy Bolt EV, which is priced at $29,990 including the destination fee, is one of the most affordable new EVs available to U.S. consumers.\nGM confirmed to TechCrunch that the next-generation Buick Envision, currently built in China, will move to the Fairfax Assembly Plant in Kansas, beginning in 2028. The gas-powered Chevrolet Equinox, which is made in the San Luis Potosí plant in Mexico, will move to the Kansas factory in mid-2027.\nThe Bolt, meanwhile, will have a short life if GM follows through with its previously announced plans.\n“When we revealed Bolt in October, we said and it was widely reported that it’d be a limited run model,” a GM spokesperson said in a statement sent to TechCrunch. “We had also previously announced the gas-powered Equinox would be coming to Fairfax in mid 2027 after Bolt production ramps down. Today we’re announcing the next-generation Buick compact SUV will come to Fairfax beginning in 2028.”\nThe company still sells other EVs, including an electric Chevy Equinox and Chevy Blazer. The question is whether GM will change course and save the Bolt if sales are better than expected. We do know that GM has promised to make new future investments in Fairfax Assembly for its next generation of affordable EVs. We just don’t know when. \n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n\n\t\t\t\n\tTopics\n\n\n\n\t\tKirsten Korosec is a reporter and editor who has covered the future of transportation from EVs and autonomous vehicles to urban air mobility and in-car tech for more than a decade. She is currently the transportation editor at TechCrunch and co-host of TechCrunch’s Equity podcast. She is also co-founder and co-host of the podcast, “The Autonocast.” She previously wrote for Fortune, The Verge, Bloomberg, MIT Technology Review and CBS Interactive.\nYou can contact or verify outreach from Kirsten by emailing kirsten.korosec@techcrunch.com or via encrypted message at kkorosec.07 on Signal.\t\n\t\n\t\tView Bio \n\t\n\n\t\t",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "GM to end Chevy Bolt EV production next year, move China-made Buick to US factory",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/01/Chevrolet-Bolt-2027-DriverFront.jpg?w=150"
-      ],
-      "datePublished": "2026-01-22T23:55:44.000Z",
-      "dateModified": "2026-01-22T23:55:44.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "OpenAI is coming for those sweet enterprise dollars in 2026",
-    "url": "https://techcrunch.com/2026/01/22/openai-is-coming-for-those-sweet-enterprise-dollars-in-2026/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2213399157.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-01-23T00:52:33.000Z",
-    "description": "\nOpenAI has reorganized some of its leadership and picked a familiar face to lead its push into selling AI to business customers as the company looks ",
-    "body": "\nOpenAI has reorganized some of its leadership and picked a familiar face to lead its push into selling AI to business customers as the company looks to catch up to its rivals in 2026.\nThe company appointed Barret Zoph to lead its efforts to sell its AI to enterprises, according to reporting from The Information, citing an internal OpenAI memo.\nTechCrunch reached out to OpenAI for confirmation and more information.\nZoph returned to OpenAI last week after leaving Thinking Machine Labs, former OpenAI co-founder Mira Murati’s AI startup where Zoph had served as a co-founder and chief technology officer since October 2024.\nThe exact circumstances of his departure aren’t clear, with rumors swirling about whether Zoph and a few other former OpenAI employees were fired or left on their own accord, possibly with plans to return to OpenAI all along.\nZoph was previously the vice president of post-training inference at OpenAI from September 2022 to October 2024. He’s stepping into a very different position and will likely play an important role at the company as it looks to grow its enterprise business — an area where it is losing ground to competitors.\nOpenAI launched its enterprise-focused ChatGPT Enterprise product in 2023 more than a year before Anthropic, and multiple years before Google, launched their enterprise offerings. The company claims the product has more than 5 million business users and counts companies including SoftBank, Target and Loewe’s as customers.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nBut its market share is falling while its rivals are climbing.\nAnthropic holds a dominant lead over its AI rivals when it comes to enterprise large language model usage. The AI research lab holds a 40% market share, according to a December report from VC firm Menlo Ventures (which, it should be noted, has invested aggressively in Anthropic). In July, the startup’s market share was estimated to be 32%.\nGoogle’s Gemini adoption has been steadier, says Menlo Ventures. The company released its enterprise product last fall and has seen its enterprise LLM usage market share largely stay the same, grow from 20% in July to 21% at the end of the year.\nOpenAI on the other hand has seen its usage market share drop from 50% in 2023 to 27% at the end of 2025 — a trend that appears to concern the company. OpenAI CEO Sam Altman expressed concern that Google Gemini’s growth was starting to encroach on OpenAI in an internal memo a few months ago.\nEnterprise growth is an area of focus for the company in 2026, OpenAI’s CFO Sarah Friar wrote in a blog post on Sunday.\nThe company has since announced an expanded multi-year partnership with ServiceNow that will give ServiceNow customers access to OpenAI models.\n\n\n\t\tBecca is a senior writer at TechCrunch that covers venture capital trends and startups. She previously covered the same beat for Forbes and the Venture Capital Journal.\r\nYou can contact or verify outreach from Becca by emailing rebecca.szkutak@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "OpenAI is coming for those sweet enterprise dollars in 2026",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2213399157.jpg?w=150"
-      ],
-      "datePublished": "2026-01-23T00:52:33.000Z",
-      "dateModified": "2026-01-23T00:52:33.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Google DeepMind CEO is ‘surprised’ OpenAI is rushing forward with ads in ChatGPT",
-    "url": "https://techcrunch.com/2026/01/22/google-deepmind-ceo-is-surprised-openai-is-rushing-forward-with-ads-in-chatgpt/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/videoframe_271754.png?w=150",
-    "tag": "Tech",
-    "date": "2026-01-22T19:41:01.000Z",
-    "description": "\nGoogle DeepMind CEO Demis Hassabis said he’s “surprised” that OpenAI has already moved to introduce ads within its AI chatbot. In an interview with A",
-    "body": "\nGoogle DeepMind CEO Demis Hassabis said he’s “surprised” that OpenAI has already moved to introduce ads within its AI chatbot. In an interview with Axios at Davos, the AI leader was responding to a question about using ads to monetize AI services, saying the idea is something that the team at Google was thinking through “very carefully.”\nHassabis also said that his team wasn’t feeling pressure from the tech giant to make “a knee-jerk” decision around advertising, despite how key ads are to Google’s core business.\nThe DeepMind co-founder’s remarks followed Friday’s news that OpenAI will begin testing ads as a way to generate additional revenue from the portion of the AI chatbot’s 800 million weekly active users who don’t have a paid subscription. \nWhile OpenAI may have been forced to consider ads, considering its growing infrastructure and energy costs, its decision could change how users view the service.\n“I’m a little bit surprised they’ve moved so early into that,” Hassabis said, referring to OpenAI’s adoption of ads. “I mean, look, ads, there’s nothing wrong with ads…they funded much of the consumer internet. And if done well, they can be useful,” he clarified.\n“But in the realm of assistants, and if you think of the chatbot as an assistant that’s meant to be helpful — and ideally, in my mind, as they become more powerful, the kind of technology that works for you as the individual…there is a question about how ads fit into that model?… You want to have trust in your assistant, so how does that work?” he questioned.\nReiterating some early comments from another Davos interview, Hassabis also said that Google didn’t have “any current plans” to do ads in its AI chatbot. Instead, the company would monitor the situation to see how users respond.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nOf course, we’ve already seen consumer backlash to the idea of ads infiltrating people’s conversations with AI assistants. When OpenAI last month began exploring a feature that suggested apps to try during users’ chats, for instance, people reacted negatively, saying these suggestions felt like intrusive ads. Shortly after, OpenAI turned off the app suggestions, which it claimed were not actually ads as they had “no financial component.”\nBut whether or not money had exchanged hands was not what made users angry. Rather, it was how the app suggestions degraded the quality of the experience.\nThat’s something that also concerns Hassabis, his remarks suggested. \nHe explained that using a chatbot is a much different experience than using Google Search. With Search, Google already understands a user’s intent, so it can show potentially useful ads. Chatbots, on the other hand, are meant to become helpful digital assistants that know about you and can help you with many aspects of your life, he said. \n“I think that’s very different from the search use case. So I think there, that has to be thought through very carefully,” he added. \nMaking Gemini more useful to each user is also the focus of newly launched personalization features announced today for Google’s AI Mode. Now, users can opt into having Gemini’s AI tap into their Gmail and Photos for tailored responses in Search’s AI Mode, similar to how Gemini’s app just added a Personal Intelligence feature that can reference users’ Gmail, Photos, Search, and YouTube history.\nWhile personalized ad targeting is a business that sustains the free web, pushing an ad on the user while they’re in a conversation with an AI assistant can feel off-putting. It’s why customers rejected Amazon’s earlier attempts to infuse ads into its Alexa experience — they wanted an assistant, not a personal shopper hawking things for them to buy. \nHassabis said he wasn’t feeling top-down pressure to force ads into the AI product, either, though he admitted there may be a way to do them right later on. \n“We don’t feel any immediate pressure to make knee-jerk decisions like that — I think that’s been the history of what we’ve done at DeepMind — is be very scientific, and rigorous, and thoughtful about each step that we take — be that the technology itself or the product,” he noted.\n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Google DeepMind CEO is ‘surprised’ OpenAI is rushing forward with ads in ChatGPT",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/01/videoframe_271754.png?w=150"
-      ],
-      "datePublished": "2026-01-22T19:41:01.000Z",
-      "dateModified": "2026-01-22T19:41:01.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Substack launches a TV app",
     "url": "https://techcrunch.com/2026/01/22/substack-launches-a-tv-app/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/05/substack-on-a-phone.jpg?w=150",
     "tag": "Tech",
     "date": "2026-01-22T18:58:50.000Z",
-    "description": "\nSubstack, a platform known primarily for newsletters, is launching a TV app for Apple TV and Google TV. The company announced on Thursday that the be",
-    "body": "\nSubstack, a platform known primarily for newsletters, is launching a TV app for Apple TV and Google TV. The company announced on Thursday that the beta app will allow subscribers to watch video posts and livestreams on TV created by authors on its platform.\nThe TV app features a TikTok-like “For You” row that will highlight videos from these creators, along with recommended videos.\nFree and paid subscribers can now start using the TV app, with access based on their subscription tier. Substack plans to add paid content previews for free subscribers in the future. The platform also plans to add audio posts and read-alouds, enhanced search and discovery features, in-app upgrades to paid subscriptions, and dedicated sections for each publication where subscribers can explore all videos from a specific creator.\nThe move comes as Substack has been investing more heavily in video and livestreaming, as it looks to compete with platforms like YouTube and Patreon for both creators and viewers.\nSubstack began its push into video with the launch of video posts back in 2022. It then started allowing creators to monetize videos early last year. Around the same time, it rolled out livestreaming capabilities to all publishers. The company has also embraced short-form video, launching a TikTok-like video feed in its app in March 2025.\n“Substack is the home for the best longform—work creators put real care into and subscribers choose to spend time with,” the company wrote in a blog post. “Now these thought-provoking videos and livestreams have a natural home on the TV, where subscribers can settle in for the extended viewing that great video deserves.”\nWhile Substack sees the launch as the next step in its video ambitions, comments on its announcement tell another story. The top comment on the company’s blog post reads: “Please don’t do this. This is not YouTube. Elevate the written word.” Another popular comment reads: “You guys have gone from saying Substack is the best home for longform writing/writers to ‘Substack is the home for the best longform—work…’. I get trying to evolve, but this just seems like another venture capital-fueled idea.”\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nOther comments reflect a similar sentiment, questioning why the platform appears to be shifting its focus from writing to video. \nIt’s worth noting that Substack isn’t the only platform pushing into the living room, as Instagram recently launched IG for TV, a new experience that lets users watch Reels on TV, starting with Amazon Fire TV.\n\n\n\t\tAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing aisha@techcrunch.com or via encrypted message at aisha_malik.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "description": "\n\t\n\t\tImage Credits:Rafael Henrique/SOPA Images/LightRocket / Getty Images\t\n\t\n\t\t\t\t\t\t10:58 AM PST · January 22, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nSubstack, a platfor",
+    "body": "\n\t\n\t\tImage Credits:Rafael Henrique/SOPA Images/LightRocket / Getty Images\t\n\t\n\t\t\t\t\t\t10:58 AM PST · January 22, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nSubstack, a platform known primarily for newsletters, is launching a TV app for Apple TV and Google TV. The company announced on Thursday that the beta app will allow subscribers to watch video posts and livestreams on TV created by authors on its platform.\nThe TV app features a TikTok-like “For You” row that will highlight videos from these creators, along with recommended videos.\nFree and paid subscribers can now start using the TV app, with access based on their subscription tier. Substack plans to add paid content previews for free subscribers in the future. The platform also plans to add audio posts and read-alouds, enhanced search and discovery features, in-app upgrades to paid subscriptions, and dedicated sections for each publication where subscribers can explore all videos from a specific creator.\nThe move comes as Substack has been investing more heavily in video and livestreaming, as it looks to compete with platforms like YouTube and Patreon for both creators and viewers.\nSubstack began its push into video with the launch of video posts back in 2022. It then started allowing creators to monetize videos early last year. Around the same time, it rolled out livestreaming capabilities to all publishers. The company has also embraced short-form video, launching a TikTok-like video feed in its app in March 2025.\n“Substack is the home for the best longform—work creators put real care into and subscribers choose to spend time with,” the company wrote in a blog post. “Now these thought-provoking videos and livestreams have a natural home on the TV, where subscribers can settle in for the extended viewing that great video deserves.”\nWhile Substack sees the launch as the next step in its video ambitions, comments on its announcement tell another story. The top comment on the company’s blog post reads: “Please don’t do this. This is not YouTube. Elevate the written word.” Another popular comment reads: “You guys have gone from saying Substack is the best home for longform writing/writers to ‘Substack is the home for the best longform—work…’. I get trying to evolve, but this just seems like another venture capital-fueled idea.”\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nOther comments reflect a similar sentiment, questioning why the platform appears to be shifting its focus from writing to video. \nIt’s worth noting that Substack isn’t the only platform pushing into the living room, as Instagram recently launched IG for TV, a new experience that lets users watch Reels on TV, starting with Amazon Fire TV.\n\n\t\t\t\n\tTopics\n\n\n\n\t\tAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing aisha@techcrunch.com or via encrypted message at aisha_malik.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n\n\t\t",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
@@ -275,22 +200,22 @@
     }
   },
   {
-    "title": "Google now offers free SAT practice exams, powered by Gemini",
-    "url": "https://techcrunch.com/2026/01/22/google-now-offers-free-sat-practice-exams-powered-by-gemini/",
-    "image": "https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-1250037548.jpeg?w=150",
+    "title": "Former CEO of celeb fav gym Dogpound launches $5M fund to back wellness companies",
+    "url": "https://techcrunch.com/2026/01/22/former-ceo-of-celeb-fav-gym-dogpound-launches-5m-fund-to-back-wellness-companies/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Screenshot-2026-01-21-at-2.42.32-PM.png?w=150",
     "tag": "Tech",
-    "date": "2026-01-22T18:27:36.000Z",
-    "description": "\n\t\n\t\tImage Credits:Carol Yepes / Getty Images\t\n\t\n\t\t\t\t\t\t10:27 AM PST · January 22, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nPrepping for the SAT is nobody’s idea of fun, b",
-    "body": "\n\t\n\t\tImage Credits:Carol Yepes / Getty Images\t\n\t\n\t\t\t\t\t\t10:27 AM PST · January 22, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nPrepping for the SAT is nobody’s idea of fun, but Google aims to make it less stressful with AI. The company announced that it’s now focusing its AI education efforts on standardized testing with free SAT practice exams powered by Gemini. \nStudents can prompt Gemini by typing “I want to take a practice SAT test,” and the AI will provide them with a free practice exam. Gemini then analyzes the results, highlighting strengths and identifying areas that need further review. It also offers detailed explanations for any incorrect answers. \nImage Credits:Google\nThe company said it partnered with education companies like the Princeton Review to ensure the content is vetted and that students are working with questions that closely mirror what they will encounter on the actual SAT.\nThis recent move by Google is viewed as a game-changer for students who can’t readily access personalized SAT tutoring. By making SAT prep free, Google is trying to open the door for more students to compete on equal footing. However, it also sparks a broader conversation about the role of AI in education and just how much we want AI to shape how students learn.\nThe adoption of AI in education is not without controversy. Many teachers worry that students might end up leaning too heavily on tools like Gemini and ChatGPT to get their work done. If students let AI do all the thinking, it could chip away at their problem-solving skills. There are even studies out there that back this up, suggesting that relying too much on AI can actually weaken students’ ability to think critically and tackle challenges on their own.\nLet’s also not forget about human SAT tutors. Free AI-powered exam prep poses a significant threat to the traditional tutoring industry, which has long thrived on providing personalized coaching to college-bound students. With Google offering a free alternative, the job security of private SAT tutors may be at risk.\nThis news follows Google’s recent launch of a Gemini-powered feature that lets teachers create podcast-style audio lessons, which could help catch the attention of Gen Z students. Other available Gemini tools include features that help teachers brainstorm ideas, build lesson plans, and tailor learning materials for their classes.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n\n\t\t\t\n\tTopics\n\n\n\n\t\tLauren covers media, streaming, apps and platforms at TechCrunch.\nYou can contact or verify outreach from Lauren by emailing laurenf.techcrunch@gmail.com or via encrypted message at laurenforris22.25 on Signal.\t\n\t\n\t\tView Bio \n\t\n\n\t\t",
+    "date": "2026-01-22T18:00:00.000Z",
+    "description": "\nJenny Liu, former CEO of exclusive, celebrity-favorite gym Dogpound, said there were two reasons she wanted to start her own venture fund. \nFor one, ",
+    "body": "\nJenny Liu, former CEO of exclusive, celebrity-favorite gym Dogpound, said there were two reasons she wanted to start her own venture fund. \nFor one, she was surrounded by wellness founders at her local gym who loved testing new products and building community. Second, Liu also realized that many of these founders, especially women and minorities, were struggling to fund their ideas due to limited access to founder networks. \nTo bridge this gap, she launched Crush It Ventures, a wellness-focused early-stage fund. The firm hopes to back companies building across the wellness sector, including in mental health, fitness and sport, beauty, and hospitality. On Thursday, it announced the final close of a $5 million Fund I. \nThe wellness industry often overlaps with the health sector (like sleep and body health), making it quite hard to estimate how big it truly is. Nonetheless, wellness trends have been booming in the past few years. Gyms have become a Gen Z obsession, and so have run clubs.\nA McKinsey study from last year found that the U.S. alone spends more than $500 billion a year on wellness. Young people in particular have become big spenders as they continue to openly talk about mental health and burnout. The McKinsey report said that though Gen Z makes up 36% of the adult U.S. population, they are responsible for over 41% of wellness spending. This is compared to those 58 and older, who make up around 35% of the U.S. population, yet account for 28% of wellness spending.\nLiu believes this area has become so popular because people are realizing that health is more than just physical fitness — it also involves mental, emotional, and social well-being. “As we automate more with technology in our daily lives, we’re valuing experiences and products that foster real connection and long-term well-being,” she said. “It’s also a reflection of shifting values: younger generations want purpose-driven brands and are craving real community.” \nLiu said she started raising the fund in 2024. Though the environment was “cautious,” she said, there was a growing interest in wellness, “especially from LPs looking for more diverse mission-driven funds.” The environment for new funds is still tough (especially for a woman solo GP) as most of the capital continues to flow to the top firms.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nLiu declined to share the name of the LPs in the fund but said she was able to break through as a new fund manager by leaning into her network. She has a background in banking before angel investing in the gym, later joining as CFO. During her decade there, she was CEO for two years.\nAt Dogpound, she worked with founders and celebrities around the world. “I learned that brand building is not just about marketing a product or service, but about creating a space for shared experiences, joy, and genuine connection,” she said, adding that her fund is keen on helping founders build their brand and communities as they scale their businesses. \nCrush It plans to typically write checks of $100,000 to $250,000, and invest in between 20 and 25 companies, she said. So far, the firm has invested in 18 companies, like the wearable tech company Elemind and CPG business Caliwater. She hopes to deploy all of the checks within the next 12-18 months. \n“We want to help close the gap in wellness funding for underrepresented founders, build stronger founder networks, and show that purpose and community-driven companies can scale and make a meaningful difference in health and lifestyle,” she said. \n\n\n\t\tDominic-Madori Davis is a senior venture capital and startup reporter at TechCrunch. She is based in New York City.\r\nYou can contact or verify outreach from Dominic by emailing dominic.davis@techcrunch.com or via encrypted message at +1 646 831-7565 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Google now offers free SAT practice exams, powered by Gemini",
+      "headline": "Former CEO of celeb fav gym Dogpound launches $5M fund to back wellness companies",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-1250037548.jpeg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/01/Screenshot-2026-01-21-at-2.42.32-PM.png?w=150"
       ],
-      "datePublished": "2026-01-22T18:27:36.000Z",
-      "dateModified": "2026-01-22T18:27:36.000Z",
+      "datePublished": "2026-01-22T18:00:00.000Z",
+      "dateModified": "2026-01-22T18:00:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -325,22 +250,22 @@
     }
   },
   {
-    "title": "Google’s AI Mode can now tap into your Gmail and Photos to provide tailored responses",
-    "url": "https://techcrunch.com/2026/01/22/googles-ai-mode-can-now-tap-into-your-gmail-and-photos-to-provide-tailored-responses/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?w=150",
+    "title": "Google now offers free SAT practice exams, powered by Gemini",
+    "url": "https://techcrunch.com/2026/01/22/google-now-offers-free-sat-practice-exams-powered-by-gemini/",
+    "image": "https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-1250037548.jpeg?w=150",
     "tag": "Tech",
-    "date": "2026-01-22T16:00:00.000Z",
-    "description": "\nAI Mode, Google’s conversational Search feature for complex questions, is getting more personalized. The tech giant announced on Thursday that it’s b",
-    "body": "\nAI Mode, Google’s conversational Search feature for complex questions, is getting more personalized. The tech giant announced on Thursday that it’s bringing “Personal Intelligence” to AI Mode, enabling it to tap into your Gmail and Google Photos to provide more individualized responses.\nThe company debuted Personal Intelligence last week in the Gemini app to allow the AI assistant to tailor its responses by connecting across your Google ecosystem, starting with Gmail, Photos, Search, and YouTube history.\nThe opt-in feature is now starting to roll out to AI Mode to Google AI Pro and AI Ultra subscribers in English in the U.S. \nBy bringing Personal Intelligence to Gemini and AI Mode, Google is leveraging the wealth of user data already within its ecosystem. Since users already rely on services like Gmail and Photos, Google can deliver more personalized experiences that rivals can’t easily match. Of course, not everyone wants AI looking at their photos and emails, so you can turn Personal Intelligence on or off at any time.\n“With Personal Intelligence, recommendations don’t just match your interests — they fit seamlessly into your life,” Robby Stein, VP of Product, Google Search, explained in a blog post. “You don’t have to constantly explain your preferences or existing plans, it selects recommendations just for you, right from the start.”\nImage Credits:Google\nSay you’re planning a vacation and searching for things to do and places to eat that everyone in your family will enjoy. With Personal Intelligence, AI Mode can draw on your hotel booking in Gmail and past travel memories in Google Photos to suggest a tailored itinerary with something for everyone. For example, you might see recommendations like an old-timey ice cream parlor based on the many ice cream selfies stored in Google Photos.\nGoogle notes that AI Mode won’t just give you a generic list of restaurants and activities; it instead provides a personalized starting point for planning.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n“Personal Intelligence can also be particularly helpful for shopping, because AI Mode considers the types of items you buy and where you shop,” Stein wrote. “If you need a new coat for your upcoming trip, AI Mode could automatically take into account the brands you prefer, as well as your flight confirmation in Gmail to identify the destination and timing (Chicago in March). You’ll get suggestions for windproof, versatile coats that fit the weather and your preferred look. It’s like a personal shopper who already knows your itinerary and the vibe you’re going for.”\nGoogle says other questions you could ask are: “Make a scavenger hunt for [partner’s name] to celebrate our anniversary. For each location, include a hint about us,” or “I’m decorating [child’s name ]’s bedroom, give me ideas for a theme and suggestions for decor.”\nThe company notes that AI Mode doesn’t train directly on your Gmail inbox or Google Photos library. Instead, it trains on specific prompts and the model’s responses. \n\n\n\t\tAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing aisha@techcrunch.com or via encrypted message at aisha_malik.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-01-22T18:27:36.000Z",
+    "description": "\n\t\n\t\tImage Credits:Carol Yepes / Getty Images\t\n\t\n\t\t\t\t\t\t10:27 AM PST · January 22, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nPrepping for the SAT is nobody’s idea of fun, b",
+    "body": "\n\t\n\t\tImage Credits:Carol Yepes / Getty Images\t\n\t\n\t\t\t\t\t\t10:27 AM PST · January 22, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nPrepping for the SAT is nobody’s idea of fun, but Google aims to make it less stressful with AI. The company announced that it’s now focusing its AI education efforts on standardized testing with free SAT practice exams powered by Gemini. \nStudents can prompt Gemini by typing “I want to take a practice SAT test,” and the AI will provide them with a free practice exam. Gemini then analyzes the results, highlighting strengths and identifying areas that need further review. It also offers detailed explanations for any incorrect answers. \nImage Credits:Google\nThe company said it partnered with education companies like the Princeton Review to ensure the content is vetted and that students are working with questions that closely mirror what they will encounter on the actual SAT.\nThis recent move by Google is viewed as a game-changer for students who can’t readily access personalized SAT tutoring. By making SAT prep free, Google is trying to open the door for more students to compete on equal footing. However, it also sparks a broader conversation about the role of AI in education and just how much we want AI to shape how students learn.\nThe adoption of AI in education is not without controversy. Many teachers worry that students might end up leaning too heavily on tools like Gemini and ChatGPT to get their work done. If students let AI do all the thinking, it could chip away at their problem-solving skills. There are even studies out there that back this up, suggesting that relying too much on AI can actually weaken students’ ability to think critically and tackle challenges on their own.\nLet’s also not forget about human SAT tutors. Free AI-powered exam prep poses a significant threat to the traditional tutoring industry, which has long thrived on providing personalized coaching to college-bound students. With Google offering a free alternative, the job security of private SAT tutors may be at risk.\nThis news follows Google’s recent launch of a Gemini-powered feature that lets teachers create podcast-style audio lessons, which could help catch the attention of Gen Z students. Other available Gemini tools include features that help teachers brainstorm ideas, build lesson plans, and tailor learning materials for their classes.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n\n\t\t\t\n\tTopics\n\n\n\n\t\tLauren covers media, streaming, apps and platforms at TechCrunch.\nYou can contact or verify outreach from Lauren by emailing laurenf.techcrunch@gmail.com or via encrypted message at laurenforris22.25 on Signal.\t\n\t\n\t\tView Bio \n\t\n\n\t\t",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Google’s AI Mode can now tap into your Gmail and Photos to provide tailored responses",
+      "headline": "Google now offers free SAT practice exams, powered by Gemini",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-1250037548.jpeg?w=150"
       ],
-      "datePublished": "2026-01-22T16:00:00.000Z",
-      "dateModified": "2026-01-22T16:00:00.000Z",
+      "datePublished": "2026-01-22T18:27:36.000Z",
+      "dateModified": "2026-01-22T18:27:36.000Z",
       "author": [
         {
           "@type": "Person",
@@ -350,22 +275,97 @@
     }
   },
   {
-    "title": "Struggling fusion power company General Fusion to go public via $1B reverse merger",
-    "url": "https://techcrunch.com/2026/01/22/struggling-fusion-power-company-general-fusion-to-go-public-via-1b-reverse-merger/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/03/General-Fusion-LM26.jpg?w=150",
+    "title": "GM to end Chevy Bolt EV production next year, move China-made Buick to US factory",
+    "url": "https://techcrunch.com/2026/01/22/gm-to-end-chevy-bolt-ev-production-next-year-move-china-made-buick-to-u-s-factory/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Chevrolet-Bolt-2027-DriverFront.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-01-22T17:00:25.000Z",
-    "description": "\nLast year, fusion power startup General Fusion was struggling to raise funds, laying off at least 25% of its staff before receiving a $22 million lif",
-    "body": "\nLast year, fusion power startup General Fusion was struggling to raise funds, laying off at least 25% of its staff before receiving a $22 million lifeline investment while it figured out how to keep the company afloat.\nToday, General Fusion revealed its survival plan: It will go public through a reverse merger with a special purpose acquisition company, Spring Valley III, combined with additional investment from institutional investors. It’s a significant change in fortunes for a company whose CEO wrote a public letter just last year pleading for funding.\nIf the deal closes as planned, General Fusion could receive up to $335 million from the transaction, more than double what it was reportedly seeking to raise last year before it landed the $22 million lifeline.\nThe transaction will value the combined company at about $1 billion, General Fusion said. Before the merger was announced. The fusion startup, which was founded in 2002, had previously raised over $440 million, according to PitchBook.\nGeneral Fusion plans to use the money to complete its demonstration reactor, Lawson Machine 26 (LM26). The device uses an approach called “magnetized target fusion,” which works by compressing a fuel pellet until its atoms fuse together, releasing energy in the process. The National Ignition Facility used inertial confinement in its successful fusion experiments, using lasers to bombard the fuel pellets to unleash the compressive force.\nLM26 eschews the lasers, though. Instead, it uses steam-driven pistons that drive a wall of liquid lithium metal inward to compress the fuel pellet. That liquid lithium then circulates through a heat exchanger, which generates steam to spin a generator. By avoiding expensive lasers or superconducting magnets, which are required in other fusion reactor designs, General Fusion hopes to build a fusion power plant for less money. But first the company has to prove its approach is viable.\nLast year, before it revealed its financial problems, General Fusion said that in 2026, LM26 would hit scientific breakeven, in which a fusion reaction generates more power than was required to start it. Scientific breakeven is a key milestone, though distinct from and easier to attain than commercial breakeven, in which fusion reactions release enough energy to export electricity to the grid. In an email to TechCrunch, General Fusion said it was now aiming to reach breakeven in 2028.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThe acquisition company, Spring Valley, is something of a specialist in reverser mergers with energy companies. It previously took NuScale Power, a small modular nuclear reactor company, public in a deal whose stock price has since fallen more than 50% from its peak last year. The firm is also in the midst of completing a merger with Eagle Energy Metals, a uranium mining company that’s also supposedly developing its own SMR.\nGeneral Fusion isn’t the first fusion company to go public. In December, TAE Technologies announced it would merge with Trump Media & Technology Group in a deal valuing the combined company at more than $6 billion.\nThe common thread connecting these deals is data centers, of course. They’re expected to consume nearly 300% more power by 2035, according to BloombergNEF, and General Fusion explicitly points to rising data center energy demand in its merger announcement. \nBut the company also pointed to broader electrification trends, including EVs and electric heating, that could increase overall electricity demand by up to 50% by 2035. It’s a reminder that, while the Trump administration has cast doubts on an electrified future, other countries are charging ahead. While General Fusion may face technological challenges, trends in the energy world suggest that if it can deliver fusion power at a reasonable cost, it will find plenty of willing buyers.\nUpdate: 1:50 pm ET: Added comment from General Fusion regarding new breakeven target date.\n\n\n\t\tTim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor. \r\nDe Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.\r\nYou can contact or verify outreach from Tim by emailing tim.dechant@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-01-22T23:55:44.000Z",
+    "description": "\n\t\n\t\tImage Credits:GM\t\n\t\n\t\t\t\t\t\t3:55 PM PST · January 22, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nGeneral Motors is shuffling where its vehicles are made in a move that w",
+    "body": "\n\t\n\t\tImage Credits:GM\t\n\t\n\t\t\t\t\t\t3:55 PM PST · January 22, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nGeneral Motors is shuffling where its vehicles are made in a move that will shift production away from China and Mexico and to a U.S. factory in Kansas. That change will also mean the end of its rebooted Chevrolet Bolt EV, the only vehicle currently built at the Fairfax Assembly Plant in Kansas.\nThe factory musical chairs reflect an economic and political environment, shaped by the Trump administration’s tariff policy and its decision to end the federal EV tax credit, which provided up to $7,500 off qualifying electric vehicles. These changes have made it more expensive to build vehicles in China and Mexico that are then sold in the United States.\nProduction of the 2027 Chevy Bolt EV, which landed in dealerships this month, is expected to end in about a year and a half. The new Chevy Bolt EV, which is priced at $29,990 including the destination fee, is one of the most affordable new EVs available to U.S. consumers.\nGM confirmed to TechCrunch that the next-generation Buick Envision, currently built in China, will move to the Fairfax Assembly Plant in Kansas, beginning in 2028. The gas-powered Chevrolet Equinox, which is made in the San Luis Potosí plant in Mexico, will move to the Kansas factory in mid-2027.\nThe Bolt, meanwhile, will have a short life if GM follows through with its previously announced plans.\n“When we revealed Bolt in October, we said and it was widely reported that it’d be a limited run model,” a GM spokesperson said in a statement sent to TechCrunch. “We had also previously announced the gas-powered Equinox would be coming to Fairfax in mid 2027 after Bolt production ramps down. Today we’re announcing the next-generation Buick compact SUV will come to Fairfax beginning in 2028.”\nThe company still sells other EVs, including an electric Chevy Equinox and Chevy Blazer. The question is whether GM will change course and save the Bolt if sales are better than expected. We do know that GM has promised to make new future investments in Fairfax Assembly for its next generation of affordable EVs. We just don’t know when. \n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n\n\t\t\t\n\tTopics\n\n\n\n\t\tKirsten Korosec is a reporter and editor who has covered the future of transportation from EVs and autonomous vehicles to urban air mobility and in-car tech for more than a decade. She is currently the transportation editor at TechCrunch and co-host of TechCrunch’s Equity podcast. She is also co-founder and co-host of the podcast, “The Autonocast.” She previously wrote for Fortune, The Verge, Bloomberg, MIT Technology Review and CBS Interactive.\nYou can contact or verify outreach from Kirsten by emailing kirsten.korosec@techcrunch.com or via encrypted message at kkorosec.07 on Signal.\t\n\t\n\t\tView Bio \n\t\n\n\t\t",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Struggling fusion power company General Fusion to go public via $1B reverse merger",
+      "headline": "GM to end Chevy Bolt EV production next year, move China-made Buick to US factory",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/03/General-Fusion-LM26.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/01/Chevrolet-Bolt-2027-DriverFront.jpg?w=150"
       ],
-      "datePublished": "2026-01-22T17:00:25.000Z",
-      "dateModified": "2026-01-22T17:00:25.000Z",
+      "datePublished": "2026-01-22T23:55:44.000Z",
+      "dateModified": "2026-01-22T23:55:44.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Palmer Luckey says the coolest thing about Anduril expanding to Long Beach is the fighter jets",
+    "url": "https://techcrunch.com/2026/01/22/palmer-luckey-says-the-coolest-thing-about-anduril-expanding-to-long-beach-is-the-fighter-jets/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2152504211-e.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-01-23T01:31:54.000Z",
+    "description": "\nDefense tech company Anduril on Thursday announced its plans to expand its Southern California presence with a major campus in Long Beach, the coasta",
+    "body": "\nDefense tech company Anduril on Thursday announced its plans to expand its Southern California presence with a major campus in Long Beach, the coastal town where founder Palmer Luckey grew up.\nThe expanded campus will eventually support about 5,500 jobs. Luckey told TechCrunch that these will be new jobs, not transfers from other operations.\nAnduril’s headquarters is nearby, in Costa Mesa, California, and it also has a massive manufacturing facility in Ohio. The Long Beach campus will span 1.18 million square feet across six buildings, combining office space and industrial areas dedicated to R&D. It is expected to be ready by mid-2027, the company said.\nLong Beach is “a major aerospace hub right in our backyard,” Luckey told TechCrunch about why the company chose that location.\nThe plan is to hire similar types of employees to those working at headquarters: manufacturing workers, technicians, assembly workers, and engineers across disciplines (electrical, mechanical, aerodynamics), as well as build and test roles, and “a lot of people on the logistics side, because the things that we’re going to be making there, we’re going to be sending all over the world,” he said.\nWhile bringing thousands of jobs to his childhood town made headlines today, Luckey said the most exciting part for him was the fighter jets. \n“It looks like we’re going to be able to manufacture autonomous fighter jets that will take off right from the factory and fly to wherever the customer needs them,” he said. “We might have jets leaving the factory, flying directly into combat. And I think that that is extremely cool.”\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nAnduril makes autonomous military drones and aircraft for land, air, and sea. In 2025, it unveiled a fighter jet called Fury, designed to fly autonomously, meaning it operates using AI rather than being piloted remotely by a human operator. The AI executes flight plans set by humans. The Fury completed its first test flight in California on October 31. \n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Palmer Luckey says the coolest thing about Anduril expanding to Long Beach is the fighter jets",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2152504211-e.jpg?w=150"
+      ],
+      "datePublished": "2026-01-23T01:31:54.000Z",
+      "dateModified": "2026-01-23T01:31:54.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Former Sequoia partner’s new startup uses AI to negotiate your calendar for you",
+    "url": "https://techcrunch.com/2026/01/22/former-sequoia-partners-new-startup-uses-ai-to-negotiate-your-calendar-for-you/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Copy-of-SequoiaARCUS2023-FallWeek1NYC_0919-318.jpg.png?w=150",
+    "tag": "Tech",
+    "date": "2026-01-23T02:29:24.000Z",
+    "description": "\nKais Khimji has spent most of his professional career as a venture investor, including six years as a partner at the prominent VC firm Sequoia Capita",
+    "body": "\nKais Khimji has spent most of his professional career as a venture investor, including six years as a partner at the prominent VC firm Sequoia Capital.\nBut just like several other former Sequoia partners — including David Vélez, who founded the Brazilian digital bank Nubank — Khimji (pictured left) has always wanted to be a startup founder. On Thursday, he announced that he has revived an idea he began working on as a student at Harvard about 10 years ago, turning it into the AI calendar-scheduling company Blockit. In a major vote of confidence, Khimji’s former employer, Sequoia, led the company’s $5 million seed round.\n“Blockit has a chance to become a $1Bn+ revenue business, and Kais will make sure it gets there,” Pat Grady, Sequoia’s general partner and co-steward who led the investment, wrote in a blog post.\nWhile many startups have tried to automate scheduling in the past, Khimji believes that thanks to advances in LLMs, Blockit’s AI agents can handle scheduling more seamlessly and efficiently than many of its predecessors, including now-defunct startups Clara Labs and x.ai. (Yes, that domain name ended up with Elon Musk’s AI company.)\nUnlike the current category leader Calendly, which was last valued at $3 billion and relies on users sharing links to find availability, Blockit is betting that its AI agents can master the nuance required to handle the entire scheduling process without human involvement.\nWith Blockit, Khimji and co-founder John Hahn — who previously worked on calendar products, including Timeful, Google Calendar, and Clockwise — are building what is essentially an AI social network for people’s time.\n“It always felt very odd. I have a time database — my calendar. You have a time database — your calendar, and our databases just can’t talk to each other,” Khimji told TechCrunch.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nKhimji says that Blockit can finally solve this disconnection. When two users need to meet, their respective AI agents communicate directly to negotiate a time, bypassing the typical back-and-forth emails entirely.\nUsers can invoke the Blockit agent by copying it on an email or messaging it in Slack about a meeting. The bot then takes over the logistics, negotiating a mutually convenient time and location that fits the preferences of all participants.\nKhimji said that Blockit can work as seamlessly as a human executive assistant. Users simply need to provide the system with specific instructions about their preferences, such as which meetings are nonnegotiable and which are “movable” based on daily needs. “Sometimes my calendar is crazy, so I need to skip lunch, and the agent needs to know that it’s okay to skip lunch,” he said.\nThe system can even be trained to prioritize meetings based on the tone of an email. For instance, a user might instruct the agent that a meeting request signed with a formal “Best regards” should take precedence over a casual interaction ending with “Cheers.”\nBy learning the preferences of its users, Blockit appears to be capitalizing on what venture firm Foundation Capital’s partners Jaya Gupta and Ashu Garg call “context graphs.” In a widely shared essay, the investors describe a multibillion-dollar opportunity for AI agents to capture the “why” behind every business decision by relying on the hidden logic that previously only existed in a person’s head.\nBlockit is already being used by more than 200 companies, including AI startup Together.ai, the newly acquired fintech company Brex, and robotics startup Rogo, as well as venture firms a16z, Accel, and Index. The app is available for free for 30 days. After that, it costs $1,000 annually for individual users and $5,000 annually for a team license with support for multiple users, Khimji said.\n\n\n\t\tMarina Temkin is a venture capital and startups reporter at TechCrunch. Prior to joining TechCrunch, she wrote about VC for PitchBook and Venture Capital Journal. Earlier in her career, Marina was a financial analyst and earned a CFA charterholder designation.\r\nYou can contact or verify outreach from Marina by emailing marina.temkin@techcrunch.com or via encrypted message at +1 347-683-3909 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Former Sequoia partner’s new startup uses AI to negotiate your calendar for you",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/01/Copy-of-SequoiaARCUS2023-FallWeek1NYC_0919-318.jpg.png?w=150"
+      ],
+      "datePublished": "2026-01-23T02:29:24.000Z",
+      "dateModified": "2026-01-23T02:29:24.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "OpenAI is coming for those sweet enterprise dollars in 2026",
+    "url": "https://techcrunch.com/2026/01/22/openai-is-coming-for-those-sweet-enterprise-dollars-in-2026/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2213399157.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-01-23T00:52:33.000Z",
+    "description": "\nOpenAI has reorganized some of its leadership and picked a familiar face to lead its push into selling AI to business customers as the company looks ",
+    "body": "\nOpenAI has reorganized some of its leadership and picked a familiar face to lead its push into selling AI to business customers as the company looks to catch up to its rivals in 2026.\nThe company appointed Barret Zoph to lead its efforts to sell its AI to enterprises, according to reporting from The Information, citing an internal OpenAI memo.\nTechCrunch reached out to OpenAI for confirmation and more information.\nZoph returned to OpenAI last week after leaving Thinking Machine Labs, former OpenAI CTO Mira Murati’s AI startup where Zoph had served as a co-founder and CTO since October 2024.\nThe exact circumstances of his departure aren’t clear, with rumors swirling about whether Zoph and a few other former OpenAI employees were fired or left on their own accord, possibly with plans to return to OpenAI all along.\nZoph was previously the vice president of post-training inference at OpenAI from September 2022 to October 2024. He’s stepping into a very different position and will likely play an important role at the company as it looks to grow its enterprise business — an area where it is losing ground to competitors.\nOpenAI launched its enterprise-focused ChatGPT Enterprise product in 2023 more than a year before Anthropic and multiple years before Google launched its enterprise offerings. The company claims the product has more than 5 million business users and counts companies including SoftBank, Target, and Lowe’s as customers.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nBut its market share is falling while its rivals are climbing.\nAnthropic holds a dominant lead over its AI rivals when it comes to enterprise large language model usage. The AI research lab holds a 40% market share, according to a December report from VC firm Menlo Ventures (which, it should be noted, has invested aggressively in Anthropic). In July, the startup’s market share was estimated to be 32%.\nGoogle’s Gemini adoption has been steadier, according to Menlo Ventures. The company released its enterprise product last fall and has seen its enterprise LLM usage market share largely stay the same, per Menlo’s findings, growing from 20% in July to 21% at the end of the year.\nOpenAI on the other hand has seen its usage market share drop from 50% in 2023 to 27% at the end of 2025 — a trend that appears to concern the company. OpenAI CEO Sam Altman expressed concern specifically that Google Gemini’s growth was starting to encroach on OpenAI in an internal memo a few months ago.\nEnterprise growth is an area of focus for the company in 2026, OpenAI’s CFO Sarah Friar wrote in a blog post this past Sunday.\nThe company has since announced an expanded multi-year partnership with ServiceNow that will give ServiceNow customers access to OpenAI models.\n\n\n\t\tBecca is a senior writer at TechCrunch that covers venture capital trends and startups. She previously covered the same beat for Forbes and the Venture Capital Journal.\r\nYou can contact or verify outreach from Becca by emailing rebecca.szkutak@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "OpenAI is coming for those sweet enterprise dollars in 2026",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2213399157.jpg?w=150"
+      ],
+      "datePublished": "2026-01-23T00:52:33.000Z",
+      "dateModified": "2026-01-23T00:52:33.000Z",
       "author": [
         {
           "@type": "Person",
