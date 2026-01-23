@@ -25,81 +25,6 @@
     }
   },
   {
-    "title": "Microsoft 365 hit by outage, preventing access to emails and files",
-    "url": "https://techcrunch.com/2026/01/22/microsoft-365-hit-by-outage-preventing-access-to-emails-and-files/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/photo-mosh-getty-windows-logo.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-01-22T21:31:10.000Z",
-    "description": "\nIn Brief\nPosted:\n1:31 PM PST · January 22, 2026\n\nImage Credits:David Ryder / Bloomberg (PhotoMosh/modified) / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t",
-    "body": "\nIn Brief\nPosted:\n1:31 PM PST · January 22, 2026\n\nImage Credits:David Ryder / Bloomberg (PhotoMosh/modified) / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nAn ongoing Microsoft outage is preventing enterprise customers from accessing email inboxes, files, meetings, and other Microsoft cloud services.\nThe technology giant said in a post on X around 2:30 p.m. ET that the outage was caused by a “portion of service infrastructure in North America that is not processing traffic as expected.” Microsoft didn’t provide specific details of the cause of the outage, but said it was “working to restore the infrastructure to a healthy state to achieve recovery.”\nMicrosoft said on its status page that the outage affects its Exchange Online email service, searching files within SharePoint Online or OneDrive, and creating chats, meetings, or adding members in its video meeting platform, Teams.\nThe outage also prevents admins from accessing their Microsoft Purview and Defender XDR security dashboards and their admin centers.\nWe’ll reach out to Microsoft for comment — as soon as our email, which is hosted by Microsoft, returns to normal. \n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Security\n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Microsoft 365 hit by outage, preventing access to emails and files",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/07/photo-mosh-getty-windows-logo.jpg?w=150"
-      ],
-      "datePublished": "2026-01-22T21:31:10.000Z",
-      "dateModified": "2026-01-22T21:31:10.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Tesla launches robotaxi rides in Austin with no human safety driver",
-    "url": "https://techcrunch.com/2026/01/22/tesla-launches-robotaxi-rides-in-austin-with-no-human-safety-driver/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2220716767.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-01-22T18:51:43.000Z",
-    "description": "\nIn Brief\nPosted:\n10:51 AM PST · January 22, 2026\n\nImage Credits:Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nTesla is offering passengers ",
-    "body": "\nIn Brief\nPosted:\n10:51 AM PST · January 22, 2026\n\nImage Credits:Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nTesla is offering passengers robotaxi rides in Austin without a human safety driver in the front seat.\nCEO Elon Musk on Thursday posted on X, his social media platform: “Just started Tesla Robotaxi drives in Austin with no safety monitor in the car. Congrats to the Tesla AI team!” \nHe then made a recruitment pitch for engineers interested in “solving real-world AI,” which he says will “likely lead to AGI” to join the Tesla AI team. \nThe automaker launched its robotaxis in the Texas city last June in a limited deployment with a safety operator in the front passenger seat. Tesla initially offered those first rides to influencers and handpicked customers. In December, Tesla began testing its robotaxis in Austin without a safety driver in the front seat — a precaution in case the vehicle needs a human to take over.\nNot all of Tesla’s fleet in Austin will be fully driverless. Per Tesla’s AI lead Ashok Elluswamy, the company will be “starting with a few unsupervised vehicles mixed in with the broader robotaxi fleet with safety monitors, and the ratio will increase over time.”\nTesla is charging for the rides, according to one rider who posted on X. There also appears to be a chase car following the driverless vehicles. \nSome of Tesla’s rivals, like Zoox and Waymo, did not immediately charge for driverless rides upon initial deployment.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nTechCrunch has attempted to reach out to Tesla for clarification. \nThe article has been updated to reflect new information, including that Tesla is charging for the rides. \n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Transportation\n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Tesla launches robotaxi rides in Austin with no human safety driver",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2220716767.jpg?w=150"
-      ],
-      "datePublished": "2026-01-22T18:51:43.000Z",
-      "dateModified": "2026-01-22T18:51:43.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Meta seeks to limit evidence in child safety case",
-    "url": "https://techcrunch.com/2026/01/22/meta-seeks-to-limit-evidence-in-child-safety-case/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/09/Meta-Connect-2024-09-25-at-1.57.52PM.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-01-22T18:40:01.000Z",
-    "description": "\nIn Brief\nPosted:\n10:40 AM PST · January 22, 2026\n\n\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nMeta is about to go on trial in New Mexico, accused of ",
-    "body": "\nIn Brief\nPosted:\n10:40 AM PST · January 22, 2026\n\n\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nMeta is about to go on trial in New Mexico, accused of not doing enough to protect kids from sexual exploitation on its platforms. As the court date gets closer, Meta’s lawyers are working hard to limit what can be used against the company in court. \nAccording to public records reviewed by Wired, the company wants to block research about social media’s impact on youth mental health, stories about teen suicides linked to social media, any mention of Meta’s finances, the company’s past privacy violations, and even things about CEO Mark Zuckerberg’s college years.\nThese efforts are part of a lawsuit filed by New Mexico attorney general Raúl Torrez in late 2023. The state accuses Meta of failing to protect minors from online predators, trafficking, and sexual abuse on its platforms. The case claims Meta allegedly allowed explicit material to reach minors and didn’t put adequate child safety measures in place. \nNotably, this lawsuit is considered the first trial of its kind at the state level, scheduled to begin on February 2.\nIt’s fairly standard that Meta would try to keep the case as narrow as possible. However, two legal experts who talked to Wired believe the company’s attempt to keep out so much information is unusually broad, including its requests not to mention its AI chatbots.\nAdditionally, Meta requested that the court block any mention of a public health warning issued by former U.S. surgeon general Vivek Murthy regarding social media’s effect on youth mental health. The company also doesn’t want surveys (including its own) about the amount of inappropriate content on its platforms. It argues that all this information is irrelevant or could unfairly sway the jury.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Government & Policy\n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Meta seeks to limit evidence in child safety case",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/09/Meta-Connect-2024-09-25-at-1.57.52PM.jpg?w=150"
-      ],
-      "datePublished": "2026-01-22T18:40:01.000Z",
-      "dateModified": "2026-01-22T18:40:01.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Inference startup Inferact lands $150M to commercialize vLLM",
     "url": "https://techcrunch.com/2026/01/22/inference-startup-inferact-lands-150m-to-commercialize-vllm/",
     "image": "https://techcrunch.com/wp-content/uploads/2016/10/ai-tool.png?w=150",
@@ -150,6 +75,56 @@
     }
   },
   {
+    "title": "Microsoft 365 hit by outage, preventing access to emails and files",
+    "url": "https://techcrunch.com/2026/01/22/microsoft-365-hit-by-outage-preventing-access-to-emails-and-files/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/photo-mosh-getty-windows-logo.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-01-22T21:31:10.000Z",
+    "description": "\nIn Brief\nPosted:\n1:31 PM PST · January 22, 2026\n\nImage Credits:David Ryder / Bloomberg (PhotoMosh/modified) / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t",
+    "body": "\nIn Brief\nPosted:\n1:31 PM PST · January 22, 2026\n\nImage Credits:David Ryder / Bloomberg (PhotoMosh/modified) / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nAn ongoing Microsoft outage is preventing enterprise customers from accessing email inboxes, files, meetings, and other Microsoft cloud services.\nThe technology giant said in a post on X around 2:30 p.m. ET that the outage was caused by a “portion of service infrastructure in North America that is not processing traffic as expected.” Microsoft didn’t provide specific details of the cause of the outage, but said it was “working to restore the infrastructure to a healthy state to achieve recovery.”\nMicrosoft said on its status page that the outage affects its Exchange Online email service, searching files within SharePoint Online or OneDrive, and creating chats, meetings, or adding members in its video meeting platform, Teams.\nThe outage also prevents admins from accessing their Microsoft Purview and Defender XDR security dashboards and their admin centers.\nWe’ll reach out to Microsoft for comment — as soon as our email, which is hosted by Microsoft, returns to normal. \n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Security\n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Microsoft 365 hit by outage, preventing access to emails and files",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/07/photo-mosh-getty-windows-logo.jpg?w=150"
+      ],
+      "datePublished": "2026-01-22T21:31:10.000Z",
+      "dateModified": "2026-01-22T21:31:10.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "TikTok finalizes deal to create new US entity and avoid ban",
+    "url": "https://techcrunch.com/2026/01/23/tiktok-finalizes-deal-to-create-new-us-entity-and-avoid-ban/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2198288850.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-01-23T15:44:18.000Z",
+    "description": "\nIn Brief\nPosted:\n7:44 AM PST · January 23, 2026\n\nImage Credits:Artur Widak/NurPhoto / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nTikTok’",
+    "body": "\nIn Brief\nPosted:\n7:44 AM PST · January 23, 2026\n\nImage Credits:Artur Widak/NurPhoto / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nTikTok’s parent company, ByteDance, has signed a deal with a group of non-Chinese investors to form majority American-owned joint venture to keep the social app operating in the U.S. The deal ends a six-year long political saga that started in 2020 when President Donald Trump tried to ban the app over national security concerns during his first term.\nAdam Presser, who was TikTok’s head of operations and trust and safety, will be the CEO of TikTok USDS Joint Venture LLC. TikTok CEO Shou Chew will serve as a director. \nThe venture’s three managing investors, Oracle, private equity firm Silver Lake, and Abu Dhabi-based investment company MGX, will each hold a 15% stake. Other investors include Michael Dell’s family investment firm, along with several smaller investors.\nTikTok USDS Joint Venture “will operate under defined safeguards that protect national security through comprehensive data protections, algorithm security, content moderation, and software assurances for U.S. users,” TikTok said. \nThe joint venture will operate as an independent entity governed by seven members. In addition to Chew, the board includes Timothy Dattels of TPG Global, Mark Dooley of Susquehanna International Group, Egon Durban, co-CEO of Silver Lake, Raul Fernandez, CEO of DXC Technology, Kenneth Glueck of Oracle, and David Scott of MGX.\nTrump celebrated the deal in a post on Truth Social, stating that the app “will now be owned by a group of Great American Patriots and Investors, the Biggest in the World, and will be an important Voice.”\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Apps\n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "TikTok finalizes deal to create new US entity and avoid ban",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2198288850.jpg?w=150"
+      ],
+      "datePublished": "2026-01-23T15:44:18.000Z",
+      "dateModified": "2026-01-23T15:44:18.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Ring is adding a new content verification feature to videos",
     "url": "https://techcrunch.com/2026/01/22/ring-is-adding-a-new-content-verification-feature-to-videos/",
     "image": "https://techcrunch.com/wp-content/uploads/2021/01/AP_19198645983580.jpg?w=150",
@@ -175,22 +150,22 @@
     }
   },
   {
-    "title": "Google DeepMind CEO is ‘surprised’ OpenAI is rushing forward with ads in ChatGPT",
-    "url": "https://techcrunch.com/2026/01/22/google-deepmind-ceo-is-surprised-openai-is-rushing-forward-with-ads-in-chatgpt/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/videoframe_271754.png?w=150",
+    "title": "Tesla discontinues Autopilot in bid to boost adoption of its Full Self-Driving software",
+    "url": "https://techcrunch.com/2026/01/23/tesla-discontinues-autopilot-in-bid-to-boost-adoption-of-its-full-self-driving-software/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/12/tesla-autopilot-1.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-01-22T19:41:01.000Z",
-    "description": "\nGoogle DeepMind CEO Demis Hassabis said he’s “surprised” that OpenAI has already moved to introduce ads within its AI chatbot. In an interview with A",
-    "body": "\nGoogle DeepMind CEO Demis Hassabis said he’s “surprised” that OpenAI has already moved to introduce ads within its AI chatbot. In an interview with Axios at Davos, the AI leader was responding to a question about using ads to monetize AI services, saying the idea is something that the team at Google was thinking through “very carefully.”\nHassabis also said that his team wasn’t feeling pressure from the tech giant to make “a knee-jerk” decision around advertising, despite how key ads are to Google’s core business.\nThe DeepMind co-founder’s remarks followed Friday’s news that OpenAI will begin testing ads as a way to generate additional revenue from the portion of the AI chatbot’s 800 million weekly active users who don’t have a paid subscription. \nWhile OpenAI may have been forced to consider ads, considering its growing infrastructure and energy costs, its decision could change how users view the service.\n“I’m a little bit surprised they’ve moved so early into that,” Hassabis said, referring to OpenAI’s adoption of ads. “I mean, look, ads, there’s nothing wrong with ads…they funded much of the consumer internet. And if done well, they can be useful,” he clarified.\n“But in the realm of assistants, and if you think of the chatbot as an assistant that’s meant to be helpful — and ideally, in my mind, as they become more powerful, the kind of technology that works for you as the individual…there is a question about how ads fit into that model?… You want to have trust in your assistant, so how does that work?” he questioned.\nReiterating some early comments from another Davos interview, Hassabis also said that Google didn’t have “any current plans” to do ads in its AI chatbot. Instead, the company would monitor the situation to see how users respond.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nOf course, we’ve already seen consumer backlash to the idea of ads infiltrating people’s conversations with AI assistants. When OpenAI last month began exploring a feature that suggested apps to try during users’ chats, for instance, people reacted negatively, saying these suggestions felt like intrusive ads. Shortly after, OpenAI turned off the app suggestions, which it claimed were not actually ads as they had “no financial component.”\nBut whether or not money had exchanged hands was not what made users angry. Rather, it was how the app suggestions degraded the quality of the experience.\nThat’s something that also concerns Hassabis, his remarks suggested. \nHe explained that using a chatbot is a much different experience than using Google Search. With Search, Google already understands a user’s intent, so it can show potentially useful ads. Chatbots, on the other hand, are meant to become helpful digital assistants that know about you and can help you with many aspects of your life, he said. \n“I think that’s very different from the search use case. So I think there, that has to be thought through very carefully,” he added. \nMaking Gemini more useful to each user is also the focus of newly launched personalization features announced today for Google’s AI Mode. Now, users can opt into having Gemini’s AI tap into their Gmail and Photos for tailored responses in Search’s AI Mode, similar to how Gemini’s app just added a Personal Intelligence feature that can reference users’ Gmail, Photos, Search, and YouTube history.\nWhile personalized ad targeting is a business that sustains the free web, pushing an ad on the user while they’re in a conversation with an AI assistant can feel off-putting. It’s why customers rejected Amazon’s earlier attempts to infuse ads into its Alexa experience — they wanted an assistant, not a personal shopper hawking things for them to buy. \nHassabis said he wasn’t feeling top-down pressure to force ads into the AI product, either, though he admitted there may be a way to do them right later on. \n“We don’t feel any immediate pressure to make knee-jerk decisions like that — I think that’s been the history of what we’ve done at DeepMind — is be very scientific, and rigorous, and thoughtful about each step that we take — be that the technology itself or the product,” he noted.\n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-01-23T12:56:44.000Z",
+    "description": "\nTesla has discontinued Autopilot, its basic driver-assistance system, as the company tries to boost adoption of a more advanced version of the techno",
+    "body": "\nTesla has discontinued Autopilot, its basic driver-assistance system, as the company tries to boost adoption of a more advanced version of the technology that it calls Full Self-Driving (Supervised).\nThe decision comes as the company faces a 30-day suspension of its manufacturing and dealer licenses in its largest U.S. market, California. A judge ruled in December that Tesla engaged in deceptive marketing by overstating the capabilities of Autopilot and FSD for years. The California DMV, which originally brought the case and has a say over the licenses, stayed the ruling for 60 days to allow Tesla to comply by dropping the Autopilot name.\nAutopilot was a combination of Traffic Aware Cruise Control, which sticks to a designated speed while maintaining distance with cars ahead, and Autosteer, a lane-centering feature that could steer the car around curves. \nTesla’s online configuration site now states new cars now only come standard with Traffic Aware Cruise Control. It’s not clear if current customers are affected.\nThe decision comes one week after the company said that starting on February 14, it would stop charging a one-time $8,000 fee for the FSD software. After that, customers will only be able to access FSD through a monthly subscription of $99 — though Tesla CEO Elon Musk wrote in a post on Thursday that the subscription price will increase as the software’s capabilities improve.\nMusk believes that Tesla’s newer cars will be capable of “unsupervised” driving, saying FSD advances will allow drivers to “be on your phone or sleeping for the entire ride.” In December, he said a new version of FSD allowed the former, though texting while driving is illegal in almost all states. \nOn Thursday, Tesla rolled out the first robotaxi versions of its Model Y SUVs in Austin, Texas that have no human safety monitoring personnel in the cars. Those vehicles are running a more advanced version of the company’s driving software, and are still followed by the company’s cars for supervision.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nTesla launched the beta version of its Full Self-Driving software in late 2020, but adoption has always lagged behind the expectations of executives like Musk. In October 2025, Tesla’s chief financial officer Vaibhav Taneja said only 12% of all Tesla customers had paid for the software. Hitting “10 million active FSD subscriptions” by 2035 is one of the key “product goals” required for Musk to receive the full payout of his new $1 trillion pay package. Tesla first introduced Autopilot in the early 2010s after talks broke down between Musk and Google to leverage the tech being developed by the search giant’s then-nascent autonomous driving division (which eventually got spun out into Waymo). Tesla made the driver assistance system standard on all of its vehicles in April 2019.\nAcross the decade-plus of Autopilot’s existence, Tesla struggled with communicating the software’s capabilities. The company often overpromised and made the tech seem more capable than it was, leading some drivers to become overly confident in its abilities, which in turn led to hundreds of crashes and at least 13 fatalities, according to the National Highway Traffic Safety Administration.\n\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Google DeepMind CEO is ‘surprised’ OpenAI is rushing forward with ads in ChatGPT",
+      "headline": "Tesla discontinues Autopilot in bid to boost adoption of its Full Self-Driving software",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/01/videoframe_271754.png?w=150"
+        "https://techcrunch.com/wp-content/uploads/2023/12/tesla-autopilot-1.jpg?w=150"
       ],
-      "datePublished": "2026-01-22T19:41:01.000Z",
-      "dateModified": "2026-01-22T19:41:01.000Z",
+      "datePublished": "2026-01-23T12:56:44.000Z",
+      "dateModified": "2026-01-23T12:56:44.000Z",
       "author": [
         {
           "@type": "Person",
@@ -200,22 +175,22 @@
     }
   },
   {
-    "title": "Google now offers free SAT practice exams, powered by Gemini",
-    "url": "https://techcrunch.com/2026/01/22/google-now-offers-free-sat-practice-exams-powered-by-gemini/",
-    "image": "https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-1250037548.jpeg?w=150",
+    "title": "GM to end Chevy Bolt EV production next year, move China-made Buick to US factory",
+    "url": "https://techcrunch.com/2026/01/22/gm-to-end-chevy-bolt-ev-production-next-year-move-china-made-buick-to-u-s-factory/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Chevrolet-Bolt-2027-DriverFront.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-01-22T18:27:36.000Z",
-    "description": "\n\t\n\t\tImage Credits:Carol Yepes / Getty Images\t\n\t\n\t\t\t\t\t\t10:27 AM PST · January 22, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nPrepping for the SAT is nobody’s idea of fun, b",
-    "body": "\n\t\n\t\tImage Credits:Carol Yepes / Getty Images\t\n\t\n\t\t\t\t\t\t10:27 AM PST · January 22, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nPrepping for the SAT is nobody’s idea of fun, but Google aims to make it less stressful with AI. The company announced that it’s now focusing its AI education efforts on standardized testing with free SAT practice exams powered by Gemini. \nStudents can prompt Gemini by typing “I want to take a practice SAT test,” and the AI will provide them with a free practice exam. Gemini then analyzes the results, highlighting strengths and identifying areas that need further review. It also offers detailed explanations for any incorrect answers. \nImage Credits:Google\nThe company said it partnered with education companies like the Princeton Review to ensure the content is vetted and that students are working with questions that closely mirror what they will encounter on the actual SAT.\nThis recent move by Google is viewed as a game-changer for students who can’t readily access personalized SAT tutoring. By making SAT prep free, Google is trying to open the door for more students to compete on equal footing. However, it also sparks a broader conversation about the role of AI in education and just how much we want AI to shape how students learn.\nThe adoption of AI in education is not without controversy. Many teachers worry that students might end up leaning too heavily on tools like Gemini and ChatGPT to get their work done. If students let AI do all the thinking, it could chip away at their problem-solving skills. There are even studies out there that back this up, suggesting that relying too much on AI can actually weaken students’ ability to think critically and tackle challenges on their own.\nLet’s also not forget about human SAT tutors. Free AI-powered exam prep poses a significant threat to the traditional tutoring industry, which has long thrived on providing personalized coaching to college-bound students. With Google offering a free alternative, the job security of private SAT tutors may be at risk.\nThis news follows Google’s recent launch of a Gemini-powered feature that lets teachers create podcast-style audio lessons, which could help catch the attention of Gen Z students. Other available Gemini tools include features that help teachers brainstorm ideas, build lesson plans, and tailor learning materials for their classes.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n\n\t\t\t\n\tTopics\n\n\n\n\t\tLauren covers media, streaming, apps and platforms at TechCrunch.\nYou can contact or verify outreach from Lauren by emailing laurenf.techcrunch@gmail.com or via encrypted message at laurenforris22.25 on Signal.\t\n\t\n\t\tView Bio \n\t\n\n\t\t",
+    "date": "2026-01-22T23:55:44.000Z",
+    "description": "\n\t\n\t\tImage Credits:GM\t\n\t\n\t\t\t\t\t\t3:55 PM PST · January 22, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nGeneral Motors is shuffling where its vehicles are made in a move that w",
+    "body": "\n\t\n\t\tImage Credits:GM\t\n\t\n\t\t\t\t\t\t3:55 PM PST · January 22, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nGeneral Motors is shuffling where its vehicles are made in a move that will shift production away from China and Mexico and to a U.S. factory in Kansas. That change will also mean the end of its rebooted Chevrolet Bolt EV, the only vehicle currently built at the Fairfax Assembly Plant in Kansas.\nThe factory musical chairs reflect an economic and political environment, shaped by the Trump administration’s tariff policy and its decision to end the federal EV tax credit, which provided up to $7,500 off qualifying electric vehicles. These changes have made it more expensive to build vehicles in China and Mexico that are then sold in the United States.\nProduction of the 2027 Chevy Bolt EV, which landed in dealerships this month, is expected to end in about a year and a half. The new Chevy Bolt EV, which is priced at $29,990 including the destination fee, is one of the most affordable new EVs available to U.S. consumers.\nGM confirmed to TechCrunch that the next-generation Buick Envision, currently built in China, will move to the Fairfax Assembly Plant in Kansas, beginning in 2028. The gas-powered Chevrolet Equinox, which is made in the San Luis Potosí plant in Mexico, will move to the Kansas factory in mid-2027.\nThe Bolt, meanwhile, will have a short life if GM follows through with its previously announced plans.\n“When we revealed Bolt in October, we said and it was widely reported that it’d be a limited run model,” a GM spokesperson said in a statement sent to TechCrunch. “We had also previously announced the gas-powered Equinox would be coming to Fairfax in mid 2027 after Bolt production ramps down. Today we’re announcing the next-generation Buick compact SUV will come to Fairfax beginning in 2028.”\nThe company still sells other EVs, including an electric Chevy Equinox and Chevy Blazer. The question is whether GM will change course and save the Bolt if sales are better than expected. We do know that GM has promised to make new future investments in Fairfax Assembly for its next generation of affordable EVs. We just don’t know when. \n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n\n\t\t\t\n\tTopics\n\n\n\n\t\tKirsten Korosec is a reporter and editor who has covered the future of transportation from EVs and autonomous vehicles to urban air mobility and in-car tech for more than a decade. She is currently the transportation editor at TechCrunch and co-host of TechCrunch’s Equity podcast. She is also co-founder and co-host of the podcast, “The Autonocast.” She previously wrote for Fortune, The Verge, Bloomberg, MIT Technology Review and CBS Interactive.\nYou can contact or verify outreach from Kirsten by emailing kirsten.korosec@techcrunch.com or via encrypted message at kkorosec.07 on Signal.\t\n\t\n\t\tView Bio \n\t\n\n\t\t",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Google now offers free SAT practice exams, powered by Gemini",
+      "headline": "GM to end Chevy Bolt EV production next year, move China-made Buick to US factory",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-1250037548.jpeg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/01/Chevrolet-Bolt-2027-DriverFront.jpg?w=150"
       ],
-      "datePublished": "2026-01-22T18:27:36.000Z",
-      "dateModified": "2026-01-22T18:27:36.000Z",
+      "datePublished": "2026-01-22T23:55:44.000Z",
+      "dateModified": "2026-01-22T23:55:44.000Z",
       "author": [
         {
           "@type": "Person",
@@ -225,97 +200,22 @@
     }
   },
   {
-    "title": "Waymo continues robotaxi ramp up with Miami service now open to public",
-    "url": "https://techcrunch.com/2026/01/22/waymo-continues-robotaxi-ramp-up-with-miami-service-now-open-to-public/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Waymo-CES-korosec.jpg?w=150",
+    "title": "Palmer Luckey says the coolest thing about Anduril expanding to Long Beach is the fighter jets",
+    "url": "https://techcrunch.com/2026/01/22/palmer-luckey-says-the-coolest-thing-about-anduril-expanding-to-long-beach-is-the-fighter-jets/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2152504211-e.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-01-22T16:59:02.000Z",
-    "description": "\nWaymo robotaxis can now be hailed by the public in Miami. \nThe company said Thursday it will initially open the service, on a rolling basis, to the n",
-    "body": "\nWaymo robotaxis can now be hailed by the public in Miami. \nThe company said Thursday it will initially open the service, on a rolling basis, to the nearly 10,000 local residents on its waitlist. Once accepted, riders will be able to hail a robotaxi within a 60-square-mile service area in Miami that covers neighborhoods such as the Design District, Wynwood, Brickell, and Coral Gables. \nWaymo said it plans to eventually expand to Miami International Airport, but didn’t provide a timeline beyond that it was coming “soon.”\nWaymo has had a presence in Miami for months in the lead-up to the commercial launch. After mapping and then testing its autonomous vehicles on Miami’s public roads, the company removed safety operators from the fleet in November. The driverless service was initially open to employees.\nImage Credits:Waymo\nThis phased approach is part of Waymo’s launch playbook, and one that is being implemented far more often than even a year ago. Waymo first opened its robotaxis to the general public in Phoenix in 2020. It expanded to San Francisco and Los Angeles and eventually opened it to all riders in 2024. As the company continued to expand in those metro areas — pushing into the larger Bay Area and into Silicon Valley, for example — it also opened in new markets. \nWaymo opened a robotaxi service in spring 2025 in partnership with Uber in Atlanta and Austin, and expanded its service area in existing markets to include freeways. \nWaymo has laid out an aggressive plan to bring its robotaxi service to nearly a dozen more cities over the next year. Those plans include Dallas, Denver, Detroit, Houston, Las Vegas, Nashville, London, San Diego, Seattle, and Washington, D.C. The company has already started testing in some of those cities using a mix of its all-electric Jaguar I-Pace vehicles and newer Zeekr RT vans that have been rebranded “Ojai.”\nWaymo co-CEO Tekedra Mawakana said during an interview at TechCrunch Disrupt last October that “by the end of 2026, you should expect us to be offering 1 million trips per week.” \nThe expansion hasn’t been without problems. Residents in cities like San Francisco have captured video of Waymo vehicles creating traffic jams, notably during a widespread power outage in December. \nIt has also gotten the attention of federal safety regulators.  \nThe National Highway Traffic and Safety Administration’s Office of Defects Investigation (ODI) opened an initial investigation into the company last October over how its robotaxis operated around a stopped school bus in Atlanta. School district officials in Austin have shared video and complaints around the same issue of Waymo moving past school buses even when the lights are on and the stop sign is deployed.\nThe company has issued a voluntary software recall to fix that issue. However, new videos, which show Waymos illegally passing school buses, suggest the problem has not been resolved.\n\n\n\t\tKirsten Korosec is a reporter and editor who has covered the future of transportation from EVs and autonomous vehicles to urban air mobility and in-car tech for more than a decade. She is currently the transportation editor at TechCrunch and co-host of TechCrunch’s Equity podcast. She is also co-founder and co-host of the podcast, “The Autonocast.” She previously wrote for Fortune, The Verge, Bloomberg, MIT Technology Review and CBS Interactive.\nYou can contact or verify outreach from Kirsten by emailing kirsten.korosec@techcrunch.com or via encrypted message at kkorosec.07 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-01-23T01:31:54.000Z",
+    "description": "\nDefense tech company Anduril on Thursday announced its plans to expand its Southern California presence with a major campus in Long Beach, the coasta",
+    "body": "\nDefense tech company Anduril on Thursday announced its plans to expand its Southern California presence with a major campus in Long Beach, the coastal town where founder Palmer Luckey grew up.\nThe expanded campus will eventually support about 5,500 jobs. Luckey told TechCrunch that these will be new jobs, not transfers from other operations.\nAnduril’s headquarters is nearby, in Costa Mesa, California, and it also has a massive manufacturing facility in Ohio. The Long Beach campus will span 1.18 million square feet across six buildings, combining office space and industrial areas dedicated to R&D. It is expected to be ready by mid-2027, the company said.\nLong Beach is “a major aerospace hub right in our backyard,” Luckey told TechCrunch about why the company chose that location.\nThe plan is to hire similar types of employees to those working at headquarters: manufacturing workers, technicians, assembly workers, and engineers across disciplines (electrical, mechanical, aerodynamics), as well as build and test roles, and “a lot of people on the logistics side, because the things that we’re going to be making there, we’re going to be sending all over the world,” he said.\nWhile bringing thousands of jobs to his childhood town made headlines today, Luckey said the most exciting part for him about Anduril’s general expansion was the fighter jets.\n“It looks like we’re going to be able to manufacture autonomous fighter jets that will take off right from the factory and fly to wherever the customer needs them,” he said. “We might have jets leaving the factory, flying directly into combat. And I think that that is extremely cool.”\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThe plan is currently not to directly manufacturer fighter jets at the Long Beach facility — it will be focused on manufacturing-adjacent work like R&D, a company spokesperson tells TechCrunch. Manufacturing will be done at the company’s large Ohio facility.\nAnduril makes autonomous military drones and aircraft for land, air, and sea. In 2025, it unveiled a fighter jet called Fury, designed to fly autonomously, meaning it operates using AI rather than being piloted remotely by a human operator. The AI executes flight plans set by humans. The Fury completed its first test flight in California on October 31. \nNote: This story has been updated to include the company’s clarification on where Anduril’s fighter jets will be manufactured.\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Waymo continues robotaxi ramp up with Miami service now open to public",
+      "headline": "Palmer Luckey says the coolest thing about Anduril expanding to Long Beach is the fighter jets",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/01/Waymo-CES-korosec.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2152504211-e.jpg?w=150"
       ],
-      "datePublished": "2026-01-22T16:59:02.000Z",
-      "dateModified": "2026-01-22T16:59:02.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Substack launches a TV app",
-    "url": "https://techcrunch.com/2026/01/22/substack-launches-a-tv-app/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/05/substack-on-a-phone.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-01-22T18:58:50.000Z",
-    "description": "\n\t\n\t\tImage Credits:Rafael Henrique/SOPA Images/LightRocket / Getty Images\t\n\t\n\t\t\t\t\t\t10:58 AM PST · January 22, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nSubstack, a platfor",
-    "body": "\n\t\n\t\tImage Credits:Rafael Henrique/SOPA Images/LightRocket / Getty Images\t\n\t\n\t\t\t\t\t\t10:58 AM PST · January 22, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nSubstack, a platform known primarily for newsletters, is launching a TV app for Apple TV and Google TV. The company announced on Thursday that the beta app will allow subscribers to watch video posts and livestreams on TV created by authors on its platform.\nThe TV app features a TikTok-like “For You” row that will highlight videos from these creators, along with recommended videos.\nFree and paid subscribers can now start using the TV app, with access based on their subscription tier. Substack plans to add paid content previews for free subscribers in the future. The platform also plans to add audio posts and read-alouds, enhanced search and discovery features, in-app upgrades to paid subscriptions, and dedicated sections for each publication where subscribers can explore all videos from a specific creator.\nThe move comes as Substack has been investing more heavily in video and livestreaming, as it looks to compete with platforms like YouTube and Patreon for both creators and viewers.\nSubstack began its push into video with the launch of video posts back in 2022. It then started allowing creators to monetize videos early last year. Around the same time, it rolled out livestreaming capabilities to all publishers. The company has also embraced short-form video, launching a TikTok-like video feed in its app in March 2025.\n“Substack is the home for the best longform—work creators put real care into and subscribers choose to spend time with,” the company wrote in a blog post. “Now these thought-provoking videos and livestreams have a natural home on the TV, where subscribers can settle in for the extended viewing that great video deserves.”\nWhile Substack sees the launch as the next step in its video ambitions, comments on its announcement tell another story. The top comment on the company’s blog post reads: “Please don’t do this. This is not YouTube. Elevate the written word.” Another popular comment reads: “You guys have gone from saying Substack is the best home for longform writing/writers to ‘Substack is the home for the best longform—work…’. I get trying to evolve, but this just seems like another venture capital-fueled idea.”\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nOther comments reflect a similar sentiment, questioning why the platform appears to be shifting its focus from writing to video. \nIt’s worth noting that Substack isn’t the only platform pushing into the living room, as Instagram recently launched IG for TV, a new experience that lets users watch Reels on TV, starting with Amazon Fire TV.\n\n\t\t\t\n\tTopics\n\n\n\n\t\tAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing aisha@techcrunch.com or via encrypted message at aisha_malik.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n\n\t\t",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Substack launches a TV app",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/05/substack-on-a-phone.jpg?w=150"
-      ],
-      "datePublished": "2026-01-22T18:58:50.000Z",
-      "dateModified": "2026-01-22T18:58:50.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Former CEO of celeb fav gym Dogpound launches $5M fund to back wellness companies",
-    "url": "https://techcrunch.com/2026/01/22/former-ceo-of-celeb-fav-gym-dogpound-launches-5m-fund-to-back-wellness-companies/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Screenshot-2026-01-21-at-2.42.32-PM.png?w=150",
-    "tag": "Tech",
-    "date": "2026-01-22T18:00:00.000Z",
-    "description": "\nJenny Liu, former CEO of exclusive, celebrity-favorite gym Dogpound, said there were two reasons she wanted to start her own venture fund. \nFor one, ",
-    "body": "\nJenny Liu, former CEO of exclusive, celebrity-favorite gym Dogpound, said there were two reasons she wanted to start her own venture fund. \nFor one, she was surrounded by wellness founders at her local gym who loved testing new products and building community. Second, Liu also realized that many of these founders, especially women and minorities, were struggling to fund their ideas due to limited access to founder networks. \nTo bridge this gap, she launched Crush It Ventures, a wellness-focused early-stage fund. The firm hopes to back companies building across the wellness sector, including in mental health, fitness and sport, beauty, and hospitality. On Thursday, it announced the final close of a $5 million Fund I. \nThe wellness industry often overlaps with the health sector (like sleep and body health), making it quite hard to estimate how big it truly is. Nonetheless, wellness trends have been booming in the past few years. Gyms have become a Gen Z obsession, and so have run clubs.\nA McKinsey study from last year found that the U.S. alone spends more than $500 billion a year on wellness. Young people in particular have become big spenders as they continue to openly talk about mental health and burnout. The McKinsey report said that though Gen Z makes up 36% of the adult U.S. population, they are responsible for over 41% of wellness spending. This is compared to those 58 and older, who make up around 35% of the U.S. population, yet account for 28% of wellness spending.\nLiu believes this area has become so popular because people are realizing that health is more than just physical fitness — it also involves mental, emotional, and social well-being. “As we automate more with technology in our daily lives, we’re valuing experiences and products that foster real connection and long-term well-being,” she said. “It’s also a reflection of shifting values: younger generations want purpose-driven brands and are craving real community.” \nLiu said she started raising the fund in 2024. Though the environment was “cautious,” she said, there was a growing interest in wellness, “especially from LPs looking for more diverse mission-driven funds.” The environment for new funds is still tough (especially for a woman solo GP) as most of the capital continues to flow to the top firms.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nLiu declined to share the name of the LPs in the fund but said she was able to break through as a new fund manager by leaning into her network. She has a background in banking before angel investing in the gym, later joining as CFO. During her decade there, she was CEO for two years.\nAt Dogpound, she worked with founders and celebrities around the world. “I learned that brand building is not just about marketing a product or service, but about creating a space for shared experiences, joy, and genuine connection,” she said, adding that her fund is keen on helping founders build their brand and communities as they scale their businesses. \nCrush It plans to typically write checks of $100,000 to $250,000, and invest in between 20 and 25 companies, she said. So far, the firm has invested in 18 companies, like the wearable tech company Elemind and CPG business Caliwater. She hopes to deploy all of the checks within the next 12-18 months. \n“We want to help close the gap in wellness funding for underrepresented founders, build stronger founder networks, and show that purpose and community-driven companies can scale and make a meaningful difference in health and lifestyle,” she said. \n\n\n\t\tDominic-Madori Davis is a senior venture capital and startup reporter at TechCrunch. She is based in New York City.\r\nYou can contact or verify outreach from Dominic by emailing dominic.davis@techcrunch.com or via encrypted message at +1 646 831-7565 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Former CEO of celeb fav gym Dogpound launches $5M fund to back wellness companies",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/01/Screenshot-2026-01-21-at-2.42.32-PM.png?w=150"
-      ],
-      "datePublished": "2026-01-22T18:00:00.000Z",
-      "dateModified": "2026-01-22T18:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Former Sequoia partner’s new startup uses AI to negotiate your calendar for you",
-    "url": "https://techcrunch.com/2026/01/22/former-sequoia-partners-new-startup-uses-ai-to-negotiate-your-calendar-for-you/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Copy-of-SequoiaARCUS2023-FallWeek1NYC_0919-318.jpg.png?w=150",
-    "tag": "Tech",
-    "date": "2026-01-23T02:29:24.000Z",
-    "description": "\nKais Khimji has spent most of his professional career as a venture investor, including six years as a partner at the prominent VC firm Sequoia Capita",
-    "body": "\nKais Khimji has spent most of his professional career as a venture investor, including six years as a partner at the prominent VC firm Sequoia Capital.\nBut just like several other former Sequoia partners — including David Vélez, who founded the Brazilian digital bank Nubank — Khimji (pictured left) has always wanted to be a startup founder. On Thursday, he announced that he has revived an idea he began working on as a student at Harvard about 10 years ago, turning it into the AI calendar-scheduling company Blockit. In a major vote of confidence, Khimji’s former employer, Sequoia, led the company’s $5 million seed round.\n“Blockit has a chance to become a $1Bn+ revenue business, and Kais will make sure it gets there,” Pat Grady, Sequoia’s general partner and co-steward who led the investment, wrote in a blog post.\nWhile many startups have tried to automate scheduling in the past, Khimji believes that thanks to advances in LLMs, Blockit’s AI agents can handle scheduling more seamlessly and efficiently than many of its predecessors, including now-defunct startups Clara Labs and x.ai. (Yes, that domain name ended up with Elon Musk’s AI company.)\nUnlike the current category leader Calendly, which was last valued at $3 billion and relies on users sharing links to find availability, Blockit is betting that its AI agents can master the nuance required to handle the entire scheduling process without human involvement.\nWith Blockit, Khimji and co-founder John Hahn — who previously worked on calendar products, including Timeful, Google Calendar, and Clockwise — are building what is essentially an AI social network for people’s time.\n“It always felt very odd. I have a time database — my calendar. You have a time database — your calendar, and our databases just can’t talk to each other,” Khimji told TechCrunch.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nKhimji says that Blockit can finally solve this disconnection. When two users need to meet, their respective AI agents communicate directly to negotiate a time, bypassing the typical back-and-forth emails entirely.\nUsers can invoke the Blockit agent by copying it on an email or messaging it in Slack about a meeting. The bot then takes over the logistics, negotiating a mutually convenient time and location that fits the preferences of all participants.\nKhimji said that Blockit can work as seamlessly as a human executive assistant. Users simply need to provide the system with specific instructions about their preferences, such as which meetings are nonnegotiable and which are “movable” based on daily needs. “Sometimes my calendar is crazy, so I need to skip lunch, and the agent needs to know that it’s okay to skip lunch,” he said.\nThe system can even be trained to prioritize meetings based on the tone of an email. For instance, a user might instruct the agent that a meeting request signed with a formal “Best regards” should take precedence over a casual interaction ending with “Cheers.”\nBy learning the preferences of its users, Blockit appears to be capitalizing on what venture firm Foundation Capital’s partners Jaya Gupta and Ashu Garg call “context graphs.” In a widely shared essay, the investors describe a multibillion-dollar opportunity for AI agents to capture the “why” behind every business decision by relying on the hidden logic that previously only existed in a person’s head.\nBlockit is already being used by more than 200 companies, including AI startup Together.ai, the newly acquired fintech company Brex, and robotics startup Rogo, as well as venture firms a16z, Accel, and Index. The app is available for free for 30 days. After that, it costs $1,000 annually for individual users and $5,000 annually for a team license with support for multiple users, Khimji said.\n\n\n\t\tMarina Temkin is a venture capital and startups reporter at TechCrunch. Prior to joining TechCrunch, she wrote about VC for PitchBook and Venture Capital Journal. Earlier in her career, Marina was a financial analyst and earned a CFA charterholder designation.\r\nYou can contact or verify outreach from Marina by emailing marina.temkin@techcrunch.com or via encrypted message at +1 347-683-3909 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Former Sequoia partner’s new startup uses AI to negotiate your calendar for you",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/01/Copy-of-SequoiaARCUS2023-FallWeek1NYC_0919-318.jpg.png?w=150"
-      ],
-      "datePublished": "2026-01-23T02:29:24.000Z",
-      "dateModified": "2026-01-23T02:29:24.000Z",
+      "datePublished": "2026-01-23T01:31:54.000Z",
+      "dateModified": "2026-01-23T01:31:54.000Z",
       "author": [
         {
           "@type": "Person",
@@ -350,22 +250,122 @@
     }
   },
   {
-    "title": "Palmer Luckey says the coolest thing about Anduril expanding to Long Beach is the fighter jets",
-    "url": "https://techcrunch.com/2026/01/22/palmer-luckey-says-the-coolest-thing-about-anduril-expanding-to-long-beach-is-the-fighter-jets/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2152504211-e.jpg?w=150",
+    "title": "Microsoft gave FBI a set of BitLocker encryption keys to unlock suspects’ laptops: reports",
+    "url": "https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/microsoft-store-1185699758.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-01-23T01:31:54.000Z",
-    "description": "\nDefense tech company Anduril on Thursday announced its plans to expand its Southern California presence with a major campus in Long Beach, the coasta",
-    "body": "\nDefense tech company Anduril on Thursday announced its plans to expand its Southern California presence with a major campus in Long Beach, the coastal town where founder Palmer Luckey grew up.\nThe expanded campus will eventually support about 5,500 jobs. Luckey told TechCrunch that these will be new jobs, not transfers from other operations.\nAnduril’s headquarters is nearby, in Costa Mesa, California, and it also has a massive manufacturing facility in Ohio. The Long Beach campus will span 1.18 million square feet across six buildings, combining office space and industrial areas dedicated to R&D. It is expected to be ready by mid-2027, the company said.\nLong Beach is “a major aerospace hub right in our backyard,” Luckey told TechCrunch about why the company chose that location.\nThe plan is to hire similar types of employees to those working at headquarters: manufacturing workers, technicians, assembly workers, and engineers across disciplines (electrical, mechanical, aerodynamics), as well as build and test roles, and “a lot of people on the logistics side, because the things that we’re going to be making there, we’re going to be sending all over the world,” he said.\nWhile bringing thousands of jobs to his childhood town made headlines today, Luckey said the most exciting part for him was the fighter jets. \n“It looks like we’re going to be able to manufacture autonomous fighter jets that will take off right from the factory and fly to wherever the customer needs them,” he said. “We might have jets leaving the factory, flying directly into combat. And I think that that is extremely cool.”\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nAnduril makes autonomous military drones and aircraft for land, air, and sea. In 2025, it unveiled a fighter jet called Fury, designed to fly autonomously, meaning it operates using AI rather than being piloted remotely by a human operator. The AI executes flight plans set by humans. The Fury completed its first test flight in California on October 31. \n",
+    "date": "2026-01-23T15:54:09.000Z",
+    "description": "\n\t\n\t\tImage Credits:Nicolas Economou / NurPhot / Getty Images\t\n\t\n\t\t\t\t\t\t7:54 AM PST · January 23, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nMicrosoft provided the FBI with t",
+    "body": "\n\t\n\t\tImage Credits:Nicolas Economou / NurPhot / Getty Images\t\n\t\n\t\t\t\t\t\t7:54 AM PST · January 23, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nMicrosoft provided the FBI with the recovery keys to unlock encrypted data on the hard drives of three laptops as part of a federal investigation, Forbes reported on Friday.\nMany modern Windows computers rely on full-disk encryption, called BitLocker, which is enabled by default. This type of technology should prevent anyone except the device owner from accessing the data if the computer is locked and powered off. \nBut, by default, BitLocker recovery keys are uploaded to Microsoft’s cloud, allowing the tech giant — and by extension law enforcement — to access them and use them to decrypt drives encrypted with BitLocker, as with the case reported by Forbes.\nThe case involved several people suspected of fraud related to the Pandemic Unemployment Assistance program in Guam, a U.S. island in the Pacific. Local news outlet Pacific Daily News covered the case last year, reporting that a warrant had been served to Microsoft in relation to the suspects’ hard drives. Kandit News, another local Guam news outlet, also reported in October that the FBI requested the warrant six months after seizing the three laptops encrypted with BitLocker. \nA spokesperson for Microsoft did not immediately respond to a request for comment by TechCrunch. Microsoft told Forbes that the company sometimes provides BitLocker recovery keys to authorities, having received an average of 20 such requests per year. \nApart from the privacy risks of handing recovery keys to a company, Johns Hopkins professor and cryptography expert Matthew Green raised the potential scenario where malicious hackers compromise Microsoft’s cloud infrastructure — something that has happened several times in recent years — and get access to these recovery keys. The hackers would still need physical access to the hard drives to use the stolen recovery keys\n“It’s 2026 and these concerns have been known for years,” Green wrote in a post on Bluesky. “Microsoft’s inability to secure critical customer keys is starting to make it an outlier from the rest of the industry.”\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n\n\t\t\t\n\tTopics\n\n\n\n\t\tLorenzo Franceschi-Bicchierai is a Senior Writer at TechCrunch, where he covers hacking, cybersecurity, surveillance, and privacy. \nYou can contact or verify outreach from Lorenzo by emailing lorenzo@techcrunch.com, via encrypted message at +1 917 257 1382 on Signal, and @lorenzofb on Keybase/Telegram.\t\n\t\n\t\tView Bio \n\t\n\n\t\t",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Palmer Luckey says the coolest thing about Anduril expanding to Long Beach is the fighter jets",
+      "headline": "Microsoft gave FBI a set of BitLocker encryption keys to unlock suspects’ laptops: reports",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2152504211-e.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2025/07/microsoft-store-1185699758.jpg?w=150"
       ],
-      "datePublished": "2026-01-23T01:31:54.000Z",
-      "dateModified": "2026-01-23T01:31:54.000Z",
+      "datePublished": "2026-01-23T15:54:09.000Z",
+      "dateModified": "2026-01-23T15:54:09.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Former Sequoia partner’s new startup uses AI to negotiate your calendar for you",
+    "url": "https://techcrunch.com/2026/01/22/former-sequoia-partners-new-startup-uses-ai-to-negotiate-your-calendar-for-you/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Copy-of-SequoiaARCUS2023-FallWeek1NYC_0919-318.jpg.png?w=150",
+    "tag": "Tech",
+    "date": "2026-01-23T02:29:24.000Z",
+    "description": "\nKais Khimji has spent most of his professional career as a venture investor, including six years as a partner at the prominent VC firm Sequoia Capita",
+    "body": "\nKais Khimji has spent most of his professional career as a venture investor, including six years as a partner at the prominent VC firm Sequoia Capital.\nBut just like several other former Sequoia partners — including David Vélez, who founded the Brazilian digital bank Nubank — Khimji (pictured left) has always wanted to be a startup founder. On Thursday, he announced that he has revived an idea he began working on as a student at Harvard about 10 years ago, turning it into the AI calendar-scheduling company Blockit. In a major vote of confidence, Khimji’s former employer, Sequoia, led the company’s $5 million seed round.\n“Blockit has a chance to become a $1Bn+ revenue business, and Kais will make sure it gets there,” Pat Grady, Sequoia’s general partner and co-steward who led the investment, wrote in a blog post.\nWhile many startups have tried to automate scheduling in the past, Khimji believes that thanks to advances in LLMs, Blockit’s AI agents can handle scheduling more seamlessly and efficiently than many of its predecessors, including now-defunct startups Clara Labs and x.ai. (Yes, that domain name ended up with Elon Musk’s AI company.)\nUnlike the current category leader Calendly, which was last valued at $3 billion and relies on users sharing links to find availability, Blockit is betting that its AI agents can master the nuance required to handle the entire scheduling process without human involvement.\nWith Blockit, Khimji and co-founder John Hahn — who previously worked on calendar products, including Timeful, Google Calendar, and Clockwise — are building what is essentially an AI social network for people’s time.\n“It always felt very odd. I have a time database — my calendar. You have a time database — your calendar, and our databases just can’t talk to each other,” Khimji told TechCrunch.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nKhimji says that Blockit can finally solve this disconnection. When two users need to meet, their respective AI agents communicate directly to negotiate a time, bypassing the typical back-and-forth emails entirely.\nUsers can invoke the Blockit agent by copying it on an email or messaging it in Slack about a meeting. The bot then takes over the logistics, negotiating a mutually convenient time and location that fits the preferences of all participants.\nKhimji said that Blockit can work as seamlessly as a human executive assistant. Users simply need to provide the system with specific instructions about their preferences, such as which meetings are nonnegotiable and which are “movable” based on daily needs. “Sometimes my calendar is crazy, so I need to skip lunch, and the agent needs to know that it’s okay to skip lunch,” he said.\nThe system can even be trained to prioritize meetings based on the tone of an email. For instance, a user might instruct the agent that a meeting request signed with a formal “Best regards” should take precedence over a casual interaction ending with “Cheers.”\nBy learning the preferences of its users, Blockit appears to be capitalizing on what venture firm Foundation Capital’s partners Jaya Gupta and Ashu Garg call “context graphs.” In a widely shared essay, the investors describe a multibillion-dollar opportunity for AI agents to capture the “why” behind every business decision by relying on the hidden logic that previously only existed in a person’s head.\nBlockit is already being used by more than 200 companies, including AI startup Together.ai, the newly acquired fintech company Brex, and robotics startup Rogo, as well as venture firms a16z, Accel, and Index. The app is available for free for 30 days. After that, it costs $1,000 annually for individual users and $5,000 annually for a team license with support for multiple users, Khimji said.\n\n\n\t\tMarina Temkin is a venture capital and startups reporter at TechCrunch. Prior to joining TechCrunch, she wrote about VC for PitchBook and Venture Capital Journal. Earlier in her career, Marina was a financial analyst and earned a CFA charterholder designation.\r\nYou can contact or verify outreach from Marina by emailing marina.temkin@techcrunch.com or via encrypted message at +1 347-683-3909 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Former Sequoia partner’s new startup uses AI to negotiate your calendar for you",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/01/Copy-of-SequoiaARCUS2023-FallWeek1NYC_0919-318.jpg.png?w=150"
+      ],
+      "datePublished": "2026-01-23T02:29:24.000Z",
+      "dateModified": "2026-01-23T02:29:24.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "This startup will send 1,000 people’s ashes to space — affordably — in 2027",
+    "url": "https://techcrunch.com/2026/01/23/this-startup-will-send-1000-peoples-ashes-to-space-affordably-in-2027/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/space-beyond.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-01-23T16:00:00.000Z",
+    "description": "\nRyan Mitchell, the founder of a startup called Space Beyond, remembers looking at the night sky while camping at a state park and wondering what he s",
+    "body": "\nRyan Mitchell, the founder of a startup called Space Beyond, remembers looking at the night sky while camping at a state park and wondering what he should do next. \nA manufacturing engineer who worked on NASA’s space shuttle program before spending nearly a decade at Jeff Bezos’ space company, Blue Origin, Mitchell was considering his options. In those jobs, he had seen the cost to access space come down dramatically, thanks in large part to Blue Origin’s rival SpaceX. Those stars in the sky, he thought, seemed closer than ever. \nMitchell told TechCrunch that an idea finally clicked when he was attending a family member’s ash-spreading ceremony. \n“When it was over, we were kind of like, ‘now what?’ The moment was gone,” he said. He remembered thinking: “How could I do this better?”\nThat, he said, was the beginning of building Space Beyond and its “Ashes to Space” program, which will use a CubeSat, a class of miniature cube-shaped satellites, to send as many as 1,000 people’s ashes to space in one go. On Thursday, Space Beyond announced it signed a launch services agreement with Arrow Science & Technology, which will integrate the CubeSat on a SpaceX Falcon 9 rideshare mission scheduled for October 2027.\nSending people’s ashes to space is not a new idea. Companies like Celestis have been doing it since the 1990s. What Mitchell said is different about Space Beyond is that it’s doing it affordably — with its cheapest offering coming in at just $249. Other options typically cost in the thousands of dollars. (That said, customers will need to have the cremation performed elsewhere.) \nMitchell said Space Beyond has achieved this a few ways. Foremost is the ride-share model, which has greatly democratized access to space in general. Companies can now develop small CubeSats that get integrated into larger spacecraft for a fraction of the total price to hitch a ride on a Falcon 9, allowing for all sorts of new science and small-scale commercial missions.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nBut Space Beyond is also bootstrapped and not trying to generate big returns for investors.  \n“I’ve been told I’m not charging enough for this service,” he said, especially when considering how the funeral industry is built around over-charging people at one of their most vulnerable moments. “But I’m not looking to take over the world, and I’m not looking to make a billion dollars doing this.” \nThere are limits to what Space Beyond can offer given the CubeSat format. For one, customers will only be able to send about one gram’s worth of ashes to space. This allows for the startup to fit enough customers’ ashes on board to make the idea financially viable. But it’s also a result of the fact that — despite the easier access to space — weight is still a huge consideration for launch providers like SpaceX.\nSpace Beyond’s CubeSat will also only be in orbit for about five years, so this is not a memorial that will last forever.\nBut Mitchell said there are benefits to this approach. The company’s CubeSat will be in what’s known as a “sun-synchronous orbit,” which is at a very high altitude of around 550 kilometers (or around 341 miles). This allows the satellite to fly over the entire globe. With many modern spacecraft tracking services available, customers should be able to locate the CubeSat and know when it is in the night sky above their home.\nA five-year limit also means that the aluminum CubeSat and the ashes onboard will ultimately meet a fiery end as it burns up in the Earth’s atmosphere upon re-entry — a nice symbolic ending, Mitchell said, even if there’s no guarantee that customers will be able to see the resulting fireball.\nSpace Beyond will also never physically spread a customer’s ashes in space. That would be “almost a nightmare scenario,” Mitchell said, as the particles could create a debris cloud that could doom other spacecraft. But given that customers can only send around one gram per space, they’ll be able to do what they want with the rest of a loved one’s ashes. \nWhen Mitchell left Blue Origin last year, he said he filled “several pages” of a notebook with ideas of what to do next. The range was wide, including options like trying to be a launch director at another space company, or becoming a Kava bartender. Something kept pulling him back to this one, though.\n“I tried to talk myself out of [this idea] for a long time. I thought it would be too expensive or too difficult,” he explained. But he said it just made sense to him “every time I put actual engineering rigor to it, figured out what the requirements are, and what the business case is.” \nIt was also the idea that he was clearly most obsessed with. “My wife said: ‘I could have told you that weeks ago. You can’t stop talking about this,’” he said. \n\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "This startup will send 1,000 people’s ashes to space — affordably — in 2027",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/01/space-beyond.jpg?w=150"
+      ],
+      "datePublished": "2026-01-23T16:00:00.000Z",
+      "dateModified": "2026-01-23T16:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Google DeepMind CEO is ‘surprised’ OpenAI is rushing forward with ads in ChatGPT",
+    "url": "https://techcrunch.com/2026/01/22/google-deepmind-ceo-is-surprised-openai-is-rushing-forward-with-ads-in-chatgpt/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/videoframe_271754.png?w=150",
+    "tag": "Tech",
+    "date": "2026-01-22T19:41:01.000Z",
+    "description": "\nGoogle DeepMind CEO Demis Hassabis said he’s “surprised” that OpenAI has already moved to introduce ads within its AI chatbot. In an interview with A",
+    "body": "\nGoogle DeepMind CEO Demis Hassabis said he’s “surprised” that OpenAI has already moved to introduce ads within its AI chatbot. In an interview with Axios at Davos, the AI leader was responding to a question about using ads to monetize AI services, saying the idea is something that the team at Google was thinking through “very carefully.”\nHassabis also said that his team wasn’t feeling pressure from the tech giant to make “a knee-jerk” decision around advertising, despite how key ads are to Google’s core business.\nThe DeepMind co-founder’s remarks followed Friday’s news that OpenAI will begin testing ads as a way to generate additional revenue from the portion of the AI chatbot’s 800 million weekly active users who don’t have a paid subscription. \nWhile OpenAI may have been forced to consider ads, considering its growing infrastructure and energy costs, its decision could change how users view the service.\n“I’m a little bit surprised they’ve moved so early into that,” Hassabis said, referring to OpenAI’s adoption of ads. “I mean, look, ads, there’s nothing wrong with ads…they funded much of the consumer internet. And if done well, they can be useful,” he clarified.\n“But in the realm of assistants, and if you think of the chatbot as an assistant that’s meant to be helpful — and ideally, in my mind, as they become more powerful, the kind of technology that works for you as the individual…there is a question about how ads fit into that model?… You want to have trust in your assistant, so how does that work?” he questioned.\nReiterating some early comments from another Davos interview, Hassabis also said that Google didn’t have “any current plans” to do ads in its AI chatbot. Instead, the company would monitor the situation to see how users respond.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nOf course, we’ve already seen consumer backlash to the idea of ads infiltrating people’s conversations with AI assistants. When OpenAI last month began exploring a feature that suggested apps to try during users’ chats, for instance, people reacted negatively, saying these suggestions felt like intrusive ads. Shortly after, OpenAI turned off the app suggestions, which it claimed were not actually ads as they had “no financial component.”\nBut whether or not money had exchanged hands was not what made users angry. Rather, it was how the app suggestions degraded the quality of the experience.\nThat’s something that also concerns Hassabis, his remarks suggested. \nHe explained that using a chatbot is a much different experience than using Google Search. With Search, Google already understands a user’s intent, so it can show potentially useful ads. Chatbots, on the other hand, are meant to become helpful digital assistants that know about you and can help you with many aspects of your life, he said. \n“I think that’s very different from the search use case. So I think there, that has to be thought through very carefully,” he added. \nMaking Gemini more useful to each user is also the focus of newly launched personalization features announced today for Google’s AI Mode. Now, users can opt into having Gemini’s AI tap into their Gmail and Photos for tailored responses in Search’s AI Mode, similar to how Gemini’s app just added a Personal Intelligence feature that can reference users’ Gmail, Photos, Search, and YouTube history.\nWhile personalized ad targeting is a business that sustains the free web, pushing an ad on the user while they’re in a conversation with an AI assistant can feel off-putting. It’s why customers rejected Amazon’s earlier attempts to infuse ads into its Alexa experience — they wanted an assistant, not a personal shopper hawking things for them to buy. \nHassabis said he wasn’t feeling top-down pressure to force ads into the AI product, either, though he admitted there may be a way to do them right later on. \n“We don’t feel any immediate pressure to make knee-jerk decisions like that — I think that’s been the history of what we’ve done at DeepMind — is be very scientific, and rigorous, and thoughtful about each step that we take — be that the technology itself or the product,” he noted.\n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Google DeepMind CEO is ‘surprised’ OpenAI is rushing forward with ads in ChatGPT",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/01/videoframe_271754.png?w=150"
+      ],
+      "datePublished": "2026-01-22T19:41:01.000Z",
+      "dateModified": "2026-01-22T19:41:01.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Only 1 week left (or until the first 500 passes are gone): The first TechCrunch Disrupt 2026 ticket discount is ending ",
+    "url": "https://techcrunch.com/2026/01/23/only-1-week-left-or-until-the-first-500-passes-are-gone-the-first-disrupt-2026-ticket-discount-is-ending/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/54887091800_7d7665cecb_4k.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-01-23T15:00:00.000Z",
+    "description": "\n\t\n\t\tImage Credits:Kimberly White / Getty Images\t\n\t\n\t\t\t\t\t\t7:00 AM PST · January 23, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nTime flies — and so will these savings. The l",
+    "body": "\n\t\n\t\tImage Credits:Kimberly White / Getty Images\t\n\t\n\t\t\t\t\t\t7:00 AM PST · January 23, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nTime flies — and so will these savings. The lowest ticket prices for TechCrunch Disrupt 2026, along with the exclusive 50% off +1 pass for the first 500 registrations, are almost gone. If you’ve been eyeing which tech conferences to lock into your calendar this year, this is your moment.\nRegister now to save up to $680 on your pass and get a second ticket at 50% off. This offer ends next week on January 30, or once the first 500 tickets are claimed — whichever comes first.\nWhy Disrupt? \nFrom October 13–15, San Francisco’s Moscone West becomes the global epicenter of tech. Disrupt unites 10,000 founders, VCs, operators, and tech leaders for 200+ expert-led sessions featuring 250+ of the industry’s most influential voices. Explore what’s next as 300+ startups debut their breakthroughs, experience the high-stakes energy of Startup Battlefield 200 — the iconic startup pitch competition — and tap into curated, high-impact networking with the leaders shaping the future of tech.\nImage Credits:Kimberly White / Getty Images\nPast speakers have included some of the industry’s greatest minds:\n\nAlex Pall and Drew Taggart from The Chainsmokers, Co-Founders and Partners, MANTIS Venture Capital\n\n\nAssaf Rappaport, Co-founder & CEO, Wiz\n\n\nAshton Kutcher, Co-founder, Sound Ventures\n\n\nBridgit Mendler, CEO, Northwood Space\n\n\nColin Kaepernick, Founder & CEO, Lumi\n\n\nDenise Dresser, CEO, Slack\n\n\nErin and Sara Foster, Co-founders and General Partners, Oversubscribed Ventures\n\n\nMary Barra, CEO, General Motors\n\n\nMatt Mullenweg, Co-Founder, WordPress and CEO, Automattic\n\n\nPeter Beck, Founder & CEO, Rocketlab\n\n\nVinod Khosla, Founder, Khosla Ventures\n\n\nWassym Bensaid, CSO, Rivian\n\nEnhance your Disrupt experience with curation\nNo matter your role in tech, Disrupt is built to deliver a more intentional, curated experience. Founders connect directly with investors. VCs cut through the noise to discover startups aligned with their investment goals. Tech operators exchange real-world insights on building and scaling what’s next. If you’re hands-on in tech, Disrupt was built with you in mind.\nImage Credits:Slava Blazer Photography\nExplore all ticket options to find the right fit for you, your partner, and your team.\nFounders and Investors can unlock specialized passes designed to support your goals.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n\nFounder Pass: Get the tools, insights, and connections you need to accelerate your startup’s growth. Learn more here.\n\n\nInvestor Pass: Access curated opportunities to connect with standout startups and expand your portfolio. Learn more here.\n\nDon’t wait until all the first 500 +1 tickets are gone\nThese early savings won’t stick around. Lock in your Disrupt ticket now to save up to $680, and bring a +1 at 50% off while the first 500 discounted passes last. Secure your spot before this offer disappears. Register here.\nImage Credits:Kimberly White / Getty Images\n\n\t\t\t\n\tTopics\n\n\t\t",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Only 1 week left (or until the first 500 passes are gone): The first TechCrunch Disrupt 2026 ticket discount is ending ",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/10/54887091800_7d7665cecb_4k.jpg?w=150"
+      ],
+      "datePublished": "2026-01-23T15:00:00.000Z",
+      "dateModified": "2026-01-23T15:00:00.000Z",
       "author": [
         {
           "@type": "Person",
