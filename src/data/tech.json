@@ -1,21 +1,21 @@
 [
   {
-    "title": "Informant told FBI that Jeffrey Epstein had a ‘personal hacker’",
-    "url": "https://techcrunch.com/2026/01/30/informant-told-fbi-that-jeffrey-epstein-had-a-personal-hacker/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/getty-images-jeffrey-epstein.jpg?w=150",
+    "title": "Russian hackers breached Polish power grid thanks to bad security, report says",
+    "url": "https://techcrunch.com/2026/01/30/russian-hackers-breached-polish-power-grid-thanks-to-bad-security-report-says/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/poland-wind-energy-farm.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-01-30T22:04:00.000Z",
-    "description": "\nIn Brief\nPosted:\n2:04 PM PST · January 30, 2026\n\nImage Credits:Sandi Bachom / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nA confidential ",
-    "body": "\nIn Brief\nPosted:\n2:04 PM PST · January 30, 2026\n\nImage Credits:Sandi Bachom / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nA confidential informant told the FBI in 2017 that Jeffrey Epstein had a “personal hacker,” according to a document released by the Department of Justice on Friday.\nThe document, which was released as part of the Justice Department’s legally required effort to publish documents related to its investigation into the late sex offender, does not identify who the alleged hacker was, but does include several details about them. \nAccording to the informant, the hacker was an Italian born in the southern region of Calabria and specialized in finding vulnerabilities in iOS, BlackBerry devices, and the Firefox browser. \nThe hacker allegedly developed zero-day exploits and offensive cyber tools and sold them to several countries, including an unnamed central African government, the U.K., and the United States. The informant told the FBI that Epstein’s hacker sold a zero-day to Hezbollah, which paid him with “a trunk of cash.”  \nPer the informant, the hacker “was very good at finding vulnerabilities.”\n\n\t\t\tContact Us\n\t\t\tDo you have more information about Jeffrey Epstein’s “personal hacker”? From a non-work device, you can contact Lorenzo Franceschi-Bicchierai securely on Signal at +1 917 257 1382, or via Telegram, Keybase and Wire @lorenzofb, or email.\t\t\nIt’s important to note that this document contains allegations from only the informant, not from the FBI directly, so it’s unclear how trustworthy the information and allegations are. \nThe FBI declined to comment when reached by TechCrunch. The Justice Department did not respond to a request for comment. \nOn Friday, the Justice Department announced the release of 3.5 million additional pages from the Epstein files. The newly released files, some heavily redacted, include more than 2,000 videos and 180,000 images. \n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Security\n\n",
+    "date": "2026-01-30T16:50:24.000Z",
+    "description": "\nIn Brief\nPosted:\n8:50 AM PST · January 30, 2026\n\nImage Credits:Mateusz Wlodarczyk/NurPhoto / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\n",
+    "body": "\nIn Brief\nPosted:\n8:50 AM PST · January 30, 2026\n\nImage Credits:Mateusz Wlodarczyk/NurPhoto / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nThe Polish government said Russian government hackers broke into parts of the country’s energy grid infrastructure, taking advantage of its poor security.\nOn Friday, Poland’s Computer Emergency Response Team (CERT), which is part of the Ministry of Digital Affairs, released a technical report about an incident at the end of last year, where suspected Russian government hackers hacked wind and solar farms and a heat-and-power plant. According to the report, the hackers didn’t face a lot of resistance. The targeted systems used default usernames and passwords and did not have multi-factor authentication enabled, both incredibly basic mistakes. \nThe hackers tried to infect the systems they broke into with wiper malware designed to erase and effectively destroy the systems, perhaps trying to turn off the power, although it’s unclear if that was their goal. Either way, the attacks were stopped at the heat-and-power plant, but not at the wind and solar farms, whose systems to monitor and control grid systems were made inoperable by the malware. \n“All of the attacks were purely destructive in nature — by analogy to the physical world, they can be compared to deliberate acts of arson,” read the report. \nThe hackers failed to disrupt power at any of their targeted facilities. And even if they had succeeded, the report said that the hack “would not have affected the stability of the Polish power system during the period in question.”\nCybersecurity firms ESET and Dragos previously released reports about the attacks, which occurred on December 29 of last year, accusing the notorious Russian government hacking group Sandworm of being behind the intrusions. Sandworm has a documented history of targeting energy infrastructure in Ukraine and turning off the lights in the country in 2015, 2016, and 2022.\nPoland’s CERT, however, accused a different Russian government hacking group, known as Berserk Bear or Dragonfly, which is not known for destructive attacks, but rather more traditional cyberespionage.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nRelated\n\n\n\t\t\t\n\t\t\t\t\t\n\t\t\n\n\n\nLatest in Security\n\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Informant told FBI that Jeffrey Epstein had a ‘personal hacker’",
+      "headline": "Russian hackers breached Polish power grid thanks to bad security, report says",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/01/getty-images-jeffrey-epstein.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/01/poland-wind-energy-farm.jpg?w=150"
       ],
-      "datePublished": "2026-01-30T22:04:00.000Z",
-      "dateModified": "2026-01-30T22:04:00.000Z",
+      "datePublished": "2026-01-30T16:50:24.000Z",
+      "dateModified": "2026-01-30T16:50:24.000Z",
       "author": [
         {
           "@type": "Person",
@@ -50,97 +50,22 @@
     }
   },
   {
-    "title": "Russian hackers breached Polish power grid thanks to bad security, report says",
-    "url": "https://techcrunch.com/2026/01/30/russian-hackers-breached-polish-power-grid-thanks-to-bad-security-report-says/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/poland-wind-energy-farm.jpg?w=150",
+    "title": "Informant told FBI that Jeffrey Epstein had a ‘personal hacker’",
+    "url": "https://techcrunch.com/2026/01/30/informant-told-fbi-that-jeffrey-epstein-had-a-personal-hacker/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/getty-images-jeffrey-epstein.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-01-30T16:50:24.000Z",
-    "description": "\nIn Brief\nPosted:\n8:50 AM PST · January 30, 2026\n\nImage Credits:Mateusz Wlodarczyk/NurPhoto / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\n",
-    "body": "\nIn Brief\nPosted:\n8:50 AM PST · January 30, 2026\n\nImage Credits:Mateusz Wlodarczyk/NurPhoto / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nThe Polish government said Russian government hackers broke into parts of the country’s energy grid infrastructure, taking advantage of its poor security.\nOn Friday, Poland’s Computer Emergency Response Team (CERT), which is part of the Ministry of Digital Affairs, released a technical report about an incident at the end of last year, where suspected Russian government hackers hacked wind and solar farms and a heat-and-power plant. According to the report, the hackers didn’t face a lot of resistance. The targeted systems used default usernames and passwords and did not have multi-factor authentication enabled, both incredibly basic mistakes. \nThe hackers tried to infect the systems they broke into with wiper malware designed to erase and effectively destroy the systems, perhaps trying to turn off the power, although it’s unclear if that was their goal. Either way, the attacks were stopped at the heat-and-power plant, but not at the wind and solar farms, whose systems to monitor and control grid systems were made inoperable by the malware. \n“All of the attacks were purely destructive in nature — by analogy to the physical world, they can be compared to deliberate acts of arson,” read the report. \nThe hackers failed to disrupt power at any of their targeted facilities. And even if they had succeeded, the report said that the hack “would not have affected the stability of the Polish power system during the period in question.”\nCybersecurity firms ESET and Dragos previously released reports about the attacks, which occurred on December 29 of last year, accusing the notorious Russian government hacking group Sandworm of being behind the intrusions. Sandworm has a documented history of targeting energy infrastructure in Ukraine and turning off the lights in the country in 2015, 2016, and 2022.\nPoland’s CERT, however, accused a different Russian government hacking group, known as Berserk Bear or Dragonfly, which is not known for destructive attacks, but rather more traditional cyberespionage.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Security\n\n",
+    "date": "2026-01-30T22:04:00.000Z",
+    "description": "\nIn Brief\nPosted:\n2:04 PM PST · January 30, 2026\n\nImage Credits:Sandi Bachom / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nA confidential ",
+    "body": "\nIn Brief\nPosted:\n2:04 PM PST · January 30, 2026\n\nImage Credits:Sandi Bachom / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nA confidential informant told the FBI in 2017 that Jeffrey Epstein had a “personal hacker,” according to a document released by the Department of Justice on Friday.\nThe document, which was released as part of the Justice Department’s legally required effort to publish documents related to its investigation into the late sex offender, does not identify who the alleged hacker was, but does include several details about them. \nAccording to the informant, the hacker was an Italian born in the southern region of Calabria and specialized in finding vulnerabilities in iOS, BlackBerry devices, and the Firefox browser. \nThe hacker allegedly developed zero-day exploits and offensive cyber tools and sold them to several countries, including an unnamed central African government, the U.K., and the United States. The informant told the FBI that Epstein’s hacker sold a zero-day to Hezbollah, which paid him with “a trunk of cash.”  \nPer the informant, the hacker “was very good at finding vulnerabilities.”\n\n\t\t\tContact Us\n\t\t\tDo you have more information about Jeffrey Epstein’s “personal hacker”? From a non-work device, you can contact Lorenzo Franceschi-Bicchierai securely on Signal at +1 917 257 1382, or via Telegram, Keybase and Wire @lorenzofb, or email.\t\t\nIt’s important to note that this document contains allegations from only the informant, not from the FBI directly, so it’s unclear how trustworthy the information and allegations are. \nThe FBI declined to comment when reached by TechCrunch. The Justice Department did not respond to a request for comment. \nOn Friday, the Justice Department announced the release of 3.5 million additional pages from the Epstein files. The newly released files, some heavily redacted, include more than 2,000 videos and 180,000 images. \n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Security\n\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Russian hackers breached Polish power grid thanks to bad security, report says",
+      "headline": "Informant told FBI that Jeffrey Epstein had a ‘personal hacker’",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/01/poland-wind-energy-farm.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/01/getty-images-jeffrey-epstein.jpg?w=150"
       ],
-      "datePublished": "2026-01-30T16:50:24.000Z",
-      "dateModified": "2026-01-30T16:50:24.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "a16z partner Kofi Ampadu to leave firm after TxO program pause",
-    "url": "https://techcrunch.com/2026/01/30/a16z-partner-kofi-ampadu-to-leave-firm-after-txo-program-pause/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/a16z-Andreessen-Horowitz.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-01-31T01:23:12.000Z",
-    "description": "\n\t\n\t\tImage Credits:Thomas Fuller/SOPA Images/LightRocket / Getty Images\t\n\t\n\t\t\t\t\t\t5:23 PM PST · January 30, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nKofi Ampadu, the partn",
-    "body": "\n\t\n\t\tImage Credits:Thomas Fuller/SOPA Images/LightRocket / Getty Images\t\n\t\n\t\t\t\t\t\t5:23 PM PST · January 30, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nKofi Ampadu, the partner at a16z who led the firm’s Talent x Opportunity (TxO) fund and program, has left the firm, according to an email he sent to staff that TechCrunch obtained. This comes months after the firm paused TxO and laid off most of its staff. \n“During my time at the firm, I was deeply grateful for the opportunity and the trust to lead this work,” Ampadu wrote in the email, sent Friday afternoon, with the subject line “Closing My a16z Chapter.” \n“Identifying out-of-network entrepreneurs and supporting them as they sharpened their ideas, raised capital, and grew into confident leaders was one of the most meaningful experiences of my career,” he wrote.\nAmpadu led the program, which launched in 2020, for over four years until its pause last November, taking over for the initial leader, Nait Jones. Afterward, Ampadu seems to have worked at a16z’s latest accelerator, Speedrun.\nAmpadu’s departure perhaps signals the end of the TxO chapter. The fund and program focused on supporting underserved founders by providing access to tech networks and investment capital through a donor-advised fund. Though some founders spoke highly of the program, others criticized the controversial donor-advised structure. The program also launched a grant program in 2024 to provide $50,000 to nonprofits that help diverse founders.\nIts last cohort was in March 2025, and its indefinite pause came as many top tech names reframe, cut, or eliminate prior public commitments to diversity, equity, and inclusion. We’ve reached out to a16z and Ampadu for comment. His full note below:\n\nI moved to the United States three months before my 11th birthday. One month later, I started 6th grade in a school more than 5,000 miles from my home, my friends, and everything familiar. Recently, my mom reminded me that my school required me to enroll as an English-as-a-Second-Language student. My memory immediately returned to how confused I felt. Even at 10 years old, I knew it made no sense that a kid from Ghana, an English-speaking country, was being asked to learn a language he already spoke fluently. \nThis was a systems requirement, a blanketed assumption about what students from certain places could or could not do. That same type of systemic assumption is what we set out to challenge through the Talent x Opportunity Initiative. The venture ecosystem often relies on proxies such as schools, networks, and prior credentials, which can obscure exceptional founders who do not follow the most common paths. TxO invested in and supported these overlooked founders to bridge the gap between talent and opportunity. \nDuring my time at the firm, I was deeply grateful for the opportunity and the trust to lead this work. Identifying out-of-network entrepreneurs and supporting them as they sharpened their ideas, raised capital, and grew into confident leaders was one of the most meaningful experiences of my career. \nAs I move on to my next chapter, I leave with pride in what we built and gratitude for everyone who helped shape it. Thank you for the trust, the collaboration, and the belief in what is possible. There is more work to do and I am excited to keep building.\n\n\n\t\t\t\n\tTopics\n\n\n\n\t\tDominic-Madori Davis is a senior venture capital and startup reporter at TechCrunch. She is based in New York City.\r\nYou can contact or verify outreach from Dominic by emailing dominic.davis@techcrunch.com or via encrypted message at +1 646 831-7565 on Signal.\t\n\t\n\t\tView Bio \n\t\n\n\t\t",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "a16z partner Kofi Ampadu to leave firm after TxO program pause",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/01/a16z-Andreessen-Horowitz.jpg?w=150"
-      ],
-      "datePublished": "2026-01-31T01:23:12.000Z",
-      "dateModified": "2026-01-31T01:23:12.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Instagram might soon let you remove yourself from someone’s Close Friends list",
-    "url": "https://techcrunch.com/2026/01/30/instagram-might-soon-let-you-remove-yourself-from-someones-close-friends-list/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/10/instagram-app-icon-GettyImages-1046023150.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-01-30T21:14:58.000Z",
-    "description": "\nInstagram is developing a feature that will allow users to remove themselves from someone’s “Close Friends” list, Meta told TechCrunch on Friday. The",
-    "body": "\nInstagram is developing a feature that will allow users to remove themselves from someone’s “Close Friends” list, Meta told TechCrunch on Friday. The company says the feature is still in the early stages and is not being tested publicly yet.\nThe social network’s Close Friends feature lets users share Stories, Reels, and posts with a select group of people, rather than their entire follower base. Since the feature’s launch in 2018, users haven’t been able to remove themselves from someone else’s Close Friends list.\nThe internal prototype was first spotted by reverse engineer Alessandro Paluzzi, who specializes in finding unreleased features while they’re still under development.\nAccording to a screenshot shared by Paluzzi, Meta will warn users that if they leave a Close Friends list, they won’t be able to see that person’s Close Friends content unless that person adds them back to their list.\nWhile some people would undoubtedly feel offended if others leave their Close Friends list, the feature would likely be a welcome addition for those who’d rather not be included on certain people’s lists.\nIt’s worth noting that Snapchat, one of Instagram’s main competitors, already allows its users to remove themselves from someone’s private story — a similar feature.\nAs with any other internal prototype, it’s unknown when or if Instagram plans to release the feature publicly. \n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 23, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nBeyond Close Friends updates, Instagram is also working on other new features. Meta told TechCrunch earlier this week that it plans to test new subscriptions that give people access to exclusive features on Instagram, Facebook, and WhatsApp.\nWhile Meta didn’t share details about which specific features these subscriptions will include, Paluzzi shared that a premium subscription on Instagram will allow users to create unlimited audience lists, see which followers don’t follow them back, and view Stories without the poster knowing.\nMeta said its goal with the upcoming subscriptions is to give users access to special features and more control over how they share and connect, while keeping the core experiences free. The company doesn’t appear to be locked into one strategy, as it plans to test a variety of subscription features and bundles with each app subscription offering a distinct set of exclusive features.\n\n\n\t\tAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing aisha@techcrunch.com or via encrypted message at aisha_malik.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Instagram might soon let you remove yourself from someone’s Close Friends list",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/10/instagram-app-icon-GettyImages-1046023150.jpg?w=150"
-      ],
-      "datePublished": "2026-01-30T21:14:58.000Z",
-      "dateModified": "2026-01-30T21:14:58.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Anthropic brings agentic plug-ins to Cowork",
-    "url": "https://techcrunch.com/2026/01/30/anthropic-brings-agentic-plugins-to-cowork/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/Claude_3-7_illustration.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-01-30T18:00:00.000Z",
-    "description": "\nEarlier this month, Anthropic launched Cowork, a new agentic tool designed to take the benefits of its AI coding assistant Claude Code and transform ",
-    "body": "\nEarlier this month, Anthropic launched Cowork, a new agentic tool designed to take the benefits of its AI coding assistant Claude Code and transform it into a more general-use tool that non-coders could benefit from. Now Anthropic has launched a new feature within Cowork to make it even more powerful for enterprise users.\nBehold, the plug-in.\nThe idea behind plug-ins is simple: They are designed to automate “specialized” tasks within a company’s various departments. Whether that function is drafting content for the marketing department, reviewing risks in documents for a firm’s legal team, or drafting responses for customer support, the plug-in is designed to use agentic automation to streamline work with a specialized focus.\nThe company says you can use plug-ins to “tell Claude how you like work done, which tools and data to pull from, how to handle critical workflows, and what slash commands to expose so your team gets more consistent outcomes.”\nMatt Piccolella, who works on the product team at Anthropic, told TechCrunch that plug-ins are built to be customized and that the company expects enterprise users to create their very own bespoke use cases for them. Anthropic open sourced 11 of its in-house plug-ins as part of the release on Friday, but noted that custom plug-ins are “easy to build, edit, and share” and can be utilized without much technical expertise.\nPlug-ins have already been available within Claude Code for some time, and their expansion into Cowork is merely designed to take that same utility and share it with different kinds of users. “Really, what we’re doing with this launch is just bringing them to Cowork and giving them that kind of user-friendly, UI-centric flavor that will allow the maximum number of people to use them,” Piccolella said.\nPiccolella pointed to data analysis and sales as two departments within Anthropic where plug-ins have already shown promise. “Sales has been a really big one, both for our direct sales people, but then also just getting anybody who’s kind of sales adjacent, better connected to the customer and customer feedback and all of that,” he said.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 23, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nAnthropic says that the more enterprise users utilize plug-ins, the more Claude knows about a company’s workflows and how to optimize them. Currently, plug-ins get saved locally to a user’s machine, although Anthropic says that an organization-wide sharing tool is on the way.\nCowork, which just released about two weeks ago, is currently in its research preview. It’s unclear when it will launch more widely. For the time being, plug-ins will be available to all paying Claude customers, Anthropic says.\n\n\n\t\n\t\tLucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. \nYou can contact Lucas by emailing lucas.ropek@techcrunch.com.\t\n\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Anthropic brings agentic plug-ins to Cowork",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/02/Claude_3-7_illustration.jpg?w=150"
-      ],
-      "datePublished": "2026-01-30T18:00:00.000Z",
-      "dateModified": "2026-01-30T18:00:00.000Z",
+      "datePublished": "2026-01-30T22:04:00.000Z",
+      "dateModified": "2026-01-30T22:04:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -166,6 +91,31 @@
       ],
       "datePublished": "2026-01-29T23:57:21.000Z",
       "dateModified": "2026-01-29T23:57:21.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "a16z partner Kofi Ampadu to leave firm after TxO program pause",
+    "url": "https://techcrunch.com/2026/01/30/a16z-partner-kofi-ampadu-to-leave-firm-after-txo-program-pause/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/a16z-Andreessen-Horowitz.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-01-31T01:23:12.000Z",
+    "description": "\n\t\n\t\tImage Credits:Thomas Fuller/SOPA Images/LightRocket / Getty Images\t\n\t\n\t\t\t\t\t\t5:23 PM PST · January 30, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nKofi Ampadu, the partn",
+    "body": "\n\t\n\t\tImage Credits:Thomas Fuller/SOPA Images/LightRocket / Getty Images\t\n\t\n\t\t\t\t\t\t5:23 PM PST · January 30, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nKofi Ampadu, the partner at a16z who led the firm’s Talent x Opportunity (TxO) fund and program, has left the firm, according to an email he sent to staff that TechCrunch obtained. This comes months after the firm paused TxO and laid off most of its staff. \n“During my time at the firm, I was deeply grateful for the opportunity and the trust to lead this work,” Ampadu wrote in the email, sent Friday afternoon, with the subject line “Closing My a16z Chapter.” \n“Identifying out-of-network entrepreneurs and supporting them as they sharpened their ideas, raised capital, and grew into confident leaders was one of the most meaningful experiences of my career,” he wrote.\nAmpadu led the program, which launched in 2020, for over four years until its pause last November, taking over for the initial leader, Nait Jones. Afterward, Ampadu seems to have worked at a16z’s latest accelerator, Speedrun.\nAmpadu’s departure perhaps signals the end of the TxO chapter. The fund and program focused on supporting underserved founders by providing access to tech networks and investment capital through a donor-advised fund. Though some founders spoke highly of the program, others criticized the controversial donor-advised structure. The program also launched a grant program in 2024 to provide $50,000 to nonprofits that help diverse founders.\nIts last cohort was in March 2025, and its indefinite pause came as many top tech names reframe, cut, or eliminate prior public commitments to diversity, equity, and inclusion. We’ve reached out to a16z and Ampadu for comment. His full note below:\n\nI moved to the United States three months before my 11th birthday. One month later, I started 6th grade in a school more than 5,000 miles from my home, my friends, and everything familiar. Recently, my mom reminded me that my school required me to enroll as an English-as-a-Second-Language student. My memory immediately returned to how confused I felt. Even at 10 years old, I knew it made no sense that a kid from Ghana, an English-speaking country, was being asked to learn a language he already spoke fluently. \nThis was a systems requirement, a blanketed assumption about what students from certain places could or could not do. That same type of systemic assumption is what we set out to challenge through the Talent x Opportunity Initiative. The venture ecosystem often relies on proxies such as schools, networks, and prior credentials, which can obscure exceptional founders who do not follow the most common paths. TxO invested in and supported these overlooked founders to bridge the gap between talent and opportunity. \nDuring my time at the firm, I was deeply grateful for the opportunity and the trust to lead this work. Identifying out-of-network entrepreneurs and supporting them as they sharpened their ideas, raised capital, and grew into confident leaders was one of the most meaningful experiences of my career. \nAs I move on to my next chapter, I leave with pride in what we built and gratitude for everyone who helped shape it. Thank you for the trust, the collaboration, and the belief in what is possible. There is more work to do and I am excited to keep building.\n\n\n\t\t\t\n\tTopics\n\n\n\n\t\tDominic-Madori Davis is a senior venture capital and startup reporter at TechCrunch. She is based in New York City.\r\nYou can contact or verify outreach from Dominic by emailing dominic.davis@techcrunch.com or via encrypted message at +1 646 831-7565 on Signal.\t\n\t\n\t\tView Bio \n\t\n\n\t\t",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "a16z partner Kofi Ampadu to leave firm after TxO program pause",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/01/a16z-Andreessen-Horowitz.jpg?w=150"
+      ],
+      "datePublished": "2026-01-31T01:23:12.000Z",
+      "dateModified": "2026-01-31T01:23:12.000Z",
       "author": [
         {
           "@type": "Person",
@@ -225,22 +175,72 @@
     }
   },
   {
-    "title": "How Sequoia-backed Ethos reached the public market while rivals fell short",
-    "url": "https://techcrunch.com/2026/01/29/how-sequoia-backed-ethos-reached-the-public-market-while-rivals-fell-short/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1258565324-e1686567164487.jpg?w=150",
+    "title": "Uber is literally in the driver’s seat when it comes to AV bets",
+    "url": "https://techcrunch.com/video/uber-is-literally-in-the-drivers-seat-when-it-comes-to-av-bets/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/06/Waymo-on-Uber_Photo-2.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-01-30T01:33:13.000Z",
-    "description": "\nEthos Technologies, a San Francisco-based provider of software for selling life insurance, debuted on the Nasdaq on Thursday. As one of the year’s fi",
-    "body": "\nEthos Technologies, a San Francisco-based provider of software for selling life insurance, debuted on the Nasdaq on Thursday. As one of the year’s first major tech IPOs, the insurtech platform is being closely watched as a bellwether for the 2026 listing cycle.\nThe company and its selling shareholders raised approximately $200 million in the offering, selling 10.5 million shares at $19 each under the ticker symbol “LIFE” — one of the more on-the-nose choices in recent memory. The name fits. Ethos runs a three-sided platform where consumers buy policies online in 10 minutes without medical exams. It says over 10,000 independent agents use its software to sell those policies and that carriers like Legal & General America and John Hancock rely on it for underwriting and administrative services. Ethos itself isn’t an insurer — it’s a licensed agency earning commissions on sales.\nThough the company’s stock closed its first day as a public company at $16.85, 11% below its IPO price of $19, Ethos co-founders Peter Colis and Lingke Wang still have plenty to celebrate, having grown the 10-year-old business to public-market scale.\n“When we launched [the business], there were like eight or nine other life insurtech startups that looked very similar to Ethos, with similar Series A funding,” Colis told TechCrunch. “Over time, the vast majority of those startups have pivoted, been acquired at subscale, remain at subscale or gone out of business.”\nFor instance, Policygenius, which raised over $250 million from investors, including KKR and Norwest Venture Partners, was acquired by PE-backed Zinnia in 2023. Meanwhile, Health IQ, a startup that secured more than $200 million from prominent VCs like Andreessen Horowitz, filed for bankruptcy that same year.\nEthos, which has raised over $400 million in venture capital, could have easily succumbed to a similar fate. Instead, the company remained laser-focused on reaching profitability as the era of cheap capital and easy fundraising came to an end in 2022. “Not knowing what the ongoing funding climate would be, we got really serious about ensuring profitability,” Colis said.\nThat financial discipline transformed it into a profitable company by mid-2023, according to its IPO documents. Since then, Ethos has also maintained a year-over-year revenue growth rate of more than 50%. In the nine months ending September 30, 2025, the company generated almost $278 million in revenue and just under $46.6 million in net income.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 23, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nStill, the company ended its first day as a public company with a market capitalization of about $1.1 billion, a valuation that’s significantly below the $2.7 billion it garnered in its last private round led by SoftBank Vision Fund 2 in July 2021.\nWhen asked why Ethos went public, Colis said that a big part of the reason was to bring “additional trust and credibility” to potential partners and clients. He explained that because many major insurance carriers are over a century old, being publicly traded signals the company’s staying power.\nThe largest outside shareholders of Ethos include prominent firms, including Sequoia, Accel, Google’s venture arm GV, and SoftBank, as well as General Catalyst and Heroic Ventures. Sequoia and Accel did not sell shares in the IPO, the company disclosed.\n\n\n\t\tMarina Temkin is a venture capital and startups reporter at TechCrunch. Prior to joining TechCrunch, she wrote about VC for PitchBook and Venture Capital Journal. Earlier in her career, Marina was a financial analyst and earned a CFA charterholder designation.\r\nYou can contact or verify outreach from Marina by emailing marina.temkin@techcrunch.com or via encrypted message at +1 347-683-3909 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-01-30T18:56:17.000Z",
+    "description": "\n\t\t\n\nLoading the player…\n\nSelf-driving truck startup Waabi’s billion-dollar fundraise isn’t just about trucks.  \nThe deal, for $750 million up front p",
+    "body": "\n\t\t\n\nLoading the player…\n\nSelf-driving truck startup Waabi’s billion-dollar fundraise isn’t just about trucks.  \nThe deal, for $750 million up front plus another $250 million from Uber tied to deployment milestones, marks a major expansion into robotaxis for the company founded by former Uber AI chief Raquel Urtasun. It also feels like another chip from Uber on the autonomous vehicle roulette table. With more than 20 AV partners worldwide, the question isn’t just whether Waabi can deliver on its plans to deploy over 25,000 robotaxis, but whether Uber’s bet-on-everything strategy actually works. \nWatch as Equity podcast hosts Kirsten Korosec, Sean O’Kane and Anthony Ha discussed Uber’s AV partnership strategy, why Waabi’s “simulation-first” approach might be different, and more of the week’s headlines. \nSubscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. You also can follow Equity on X and Threads, at @EquityPod. \n\n\t\t\n\tTopics\n\t\n\t\tanduril, Equity Video, IPO, IPO window, Phia, Space, SpaceX, Startups, TikTok, Transportation, Uber, Waabi\t\n\n\n\n\t\tTheresa Loconsolo is an audio producer at TechCrunch focusing on Equity, the network’s flagship podcast. Before joining TechCrunch in 2022, she was one of 2 producers at a four-station conglomerate where she wrote, recorded, voiced and edited content, and engineered live performances and interviews from guests like lovelytheband. Theresa is based in New Jersey and holds a bachelors degree in Communication from Monmouth University. You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n\n\t\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "How Sequoia-backed Ethos reached the public market while rivals fell short",
+      "headline": "Uber is literally in the driver’s seat when it comes to AV bets",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1258565324-e1686567164487.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2025/06/Waymo-on-Uber_Photo-2.jpg?w=150"
       ],
-      "datePublished": "2026-01-30T01:33:13.000Z",
-      "dateModified": "2026-01-30T01:33:13.000Z",
+      "datePublished": "2026-01-30T18:56:17.000Z",
+      "dateModified": "2026-01-30T18:56:17.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Instagram might soon let you remove yourself from someone’s Close Friends list",
+    "url": "https://techcrunch.com/2026/01/30/instagram-might-soon-let-you-remove-yourself-from-someones-close-friends-list/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/instagram-app-icon-GettyImages-1046023150.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-01-30T21:14:58.000Z",
+    "description": "\nInstagram is developing a feature that will allow users to remove themselves from someone’s “Close Friends” list, Meta told TechCrunch on Friday. The",
+    "body": "\nInstagram is developing a feature that will allow users to remove themselves from someone’s “Close Friends” list, Meta told TechCrunch on Friday. The company says the feature is still in the early stages and is not being tested publicly yet.\nThe social network’s Close Friends feature lets users share Stories, Reels, and posts with a select group of people, rather than their entire follower base. Since the feature’s launch in 2018, users haven’t been able to remove themselves from someone else’s Close Friends list.\nThe internal prototype was first spotted by reverse engineer Alessandro Paluzzi, who specializes in finding unreleased features while they’re still under development.\nAccording to a screenshot shared by Paluzzi, Meta will warn users that if they leave a Close Friends list, they won’t be able to see that person’s Close Friends content unless that person adds them back to their list.\nWhile some people would undoubtedly feel offended if others leave their Close Friends list, the feature would likely be a welcome addition for those who’d rather not be included on certain people’s lists.\nIt’s worth noting that Snapchat, one of Instagram’s main competitors, already allows its users to remove themselves from someone’s private story — a similar feature.\nAs with any other internal prototype, it’s unknown when or if Instagram plans to release the feature publicly. \n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 23, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nBeyond Close Friends updates, Instagram is also working on other new features. Meta told TechCrunch earlier this week that it plans to test new subscriptions that give people access to exclusive features on Instagram, Facebook, and WhatsApp.\nWhile Meta didn’t share details about which specific features these subscriptions will include, Paluzzi shared that a premium subscription on Instagram will allow users to create unlimited audience lists, see which followers don’t follow them back, and view Stories without the poster knowing.\nMeta said its goal with the upcoming subscriptions is to give users access to special features and more control over how they share and connect, while keeping the core experiences free. The company doesn’t appear to be locked into one strategy, as it plans to test a variety of subscription features and bundles with each app subscription offering a distinct set of exclusive features.\n\n\n\t\tAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing aisha@techcrunch.com or via encrypted message at aisha_malik.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Instagram might soon let you remove yourself from someone’s Close Friends list",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/10/instagram-app-icon-GettyImages-1046023150.jpg?w=150"
+      ],
+      "datePublished": "2026-01-30T21:14:58.000Z",
+      "dateModified": "2026-01-30T21:14:58.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Anthropic brings agentic plug-ins to Cowork",
+    "url": "https://techcrunch.com/2026/01/30/anthropic-brings-agentic-plugins-to-cowork/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/Claude_3-7_illustration.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-01-30T18:00:00.000Z",
+    "description": "\nEarlier this month, Anthropic launched Cowork, a new agentic tool designed to take the benefits of its AI coding assistant Claude Code and transform ",
+    "body": "\nEarlier this month, Anthropic launched Cowork, a new agentic tool designed to take the benefits of its AI coding assistant Claude Code and transform it into a more general-use tool that non-coders could benefit from. Now Anthropic has launched a new feature within Cowork to make it even more powerful for enterprise users.\nBehold, the plug-in.\nThe idea behind plug-ins is simple: They are designed to automate “specialized” tasks within a company’s various departments. Whether that function is drafting content for the marketing department, reviewing risks in documents for a firm’s legal team, or drafting responses for customer support, the plug-in is designed to use agentic automation to streamline work with a specialized focus.\nThe company says you can use plug-ins to “tell Claude how you like work done, which tools and data to pull from, how to handle critical workflows, and what slash commands to expose so your team gets more consistent outcomes.”\nMatt Piccolella, who works on the product team at Anthropic, told TechCrunch that plug-ins are built to be customized and that the company expects enterprise users to create their very own bespoke use cases for them. Anthropic open sourced 11 of its in-house plug-ins as part of the release on Friday, but noted that custom plug-ins are “easy to build, edit, and share” and can be utilized without much technical expertise.\nPlug-ins have already been available within Claude Code for some time, and their expansion into Cowork is merely designed to take that same utility and share it with different kinds of users. “Really, what we’re doing with this launch is just bringing them to Cowork and giving them that kind of user-friendly, UI-centric flavor that will allow the maximum number of people to use them,” Piccolella said.\nPiccolella pointed to data analysis and sales as two departments within Anthropic where plug-ins have already shown promise. “Sales has been a really big one, both for our direct sales people, but then also just getting anybody who’s kind of sales adjacent, better connected to the customer and customer feedback and all of that,” he said.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 23, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nAnthropic says that the more enterprise users utilize plug-ins, the more Claude knows about a company’s workflows and how to optimize them. Currently, plug-ins get saved locally to a user’s machine, although Anthropic says that an organization-wide sharing tool is on the way.\nCowork, which just released about two weeks ago, is currently in its research preview. It’s unclear when it will launch more widely. For the time being, plug-ins will be available to all paying Claude customers, Anthropic says.\n\n\n\t\n\t\tLucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. \nYou can contact Lucas by emailing lucas.ropek@techcrunch.com.\t\n\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Anthropic brings agentic plug-ins to Cowork",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/02/Claude_3-7_illustration.jpg?w=150"
+      ],
+      "datePublished": "2026-01-30T18:00:00.000Z",
+      "dateModified": "2026-01-30T18:00:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -275,31 +275,6 @@
     }
   },
   {
-    "title": "Uber is literally in the driver’s seat when it comes to AV bets",
-    "url": "https://techcrunch.com/video/uber-is-literally-in-the-drivers-seat-when-it-comes-to-av-bets/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/06/Waymo-on-Uber_Photo-2.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-01-30T18:56:17.000Z",
-    "description": "\n\t\t\n\nLoading the player…\n\nSelf-driving truck startup Waabi’s billion-dollar fundraise isn’t just about trucks.  \nThe deal, for $750 million up front p",
-    "body": "\n\t\t\n\nLoading the player…\n\nSelf-driving truck startup Waabi’s billion-dollar fundraise isn’t just about trucks.  \nThe deal, for $750 million up front plus another $250 million from Uber tied to deployment milestones, marks a major expansion into robotaxis for the company founded by former Uber AI chief Raquel Urtasun. It also feels like another chip from Uber on the autonomous vehicle roulette table. With more than 20 AV partners worldwide, the question isn’t just whether Waabi can deliver on its plans to deploy over 25,000 robotaxis, but whether Uber’s bet-on-everything strategy actually works. \nWatch as Equity podcast hosts Kirsten Korosec, Sean O’Kane and Anthony Ha discussed Uber’s AV partnership strategy, why Waabi’s “simulation-first” approach might be different, and more of the week’s headlines. \nSubscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. You also can follow Equity on X and Threads, at @EquityPod. \n\n\t\t\n\tTopics\n\t\n\t\tanduril, Equity Video, IPO, IPO window, Phia, Space, SpaceX, Startups, TikTok, Transportation, Uber, Waabi\t\n\n\n\n\t\tTheresa Loconsolo is an audio producer at TechCrunch focusing on Equity, the network’s flagship podcast. Before joining TechCrunch in 2022, she was one of 2 producers at a four-station conglomerate where she wrote, recorded, voiced and edited content, and engineered live performances and interviews from guests like lovelytheband. Theresa is based in New Jersey and holds a bachelors degree in Communication from Monmouth University. You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n\n\t\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Uber is literally in the driver’s seat when it comes to AV bets",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/06/Waymo-on-Uber_Photo-2.jpg?w=150"
-      ],
-      "datePublished": "2026-01-30T18:56:17.000Z",
-      "dateModified": "2026-01-30T18:56:17.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Reid Hoffman urges Silicon Valley leaders to stop bending the knee to President Trump",
     "url": "https://techcrunch.com/2026/01/30/reid-hoffman-urges-silicon-valley-leaders-to-stop-bending-the-knee-to-president-trump/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1258942056.jpg?w=150",
@@ -325,22 +300,47 @@
     }
   },
   {
-    "title": "Medium employees given Friday off to participate in national strike protesting ICE",
-    "url": "https://techcrunch.com/2026/01/29/medium-gives-employees-friday-off-to-participate-in-national-strike-protesting-ice/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Medium-Press-01-Dark.jpg?w=150",
+    "title": "How Sequoia-backed Ethos reached the public market while rivals fell short",
+    "url": "https://techcrunch.com/2026/01/29/how-sequoia-backed-ethos-reached-the-public-market-while-rivals-fell-short/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1258565324-e1686567164487.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-01-29T21:49:15.000Z",
-    "description": "\nHustle culture may be the norm at tech companies in the AI era, but the work will stop tomorrow at publishing platform Medium. Medium CEO Tony Stubbl",
-    "body": "\nHustle culture may be the norm at tech companies in the AI era, but the work will stop tomorrow at publishing platform Medium. Medium CEO Tony Stubblebine is giving the company’s employees permission to take the day off to participate in tomorrow’s nationwide general strike protesting U.S. Immigration and Customs Enforcement, or ICE.\nActivists behind the general strike are calling for “no work, no school, and no shopping” amid a push to defund ICE, which has escalated raids in U.S. cities, killing several people, including two U.S. citizens earlier this month in Minneapolis.\nIn a Slack message shared today with Medium staff, Stubblebine says all employees are free to participate in the strike however they see fit.\n“Whether or not you want to fully take the day away from work, or do a partial work day, or orient your work towards something that feels aligned to the goals of the strike, that is up to you,” he wrote in a general announcements channel. \nThe exec clarified that Medium is not “in the business of dictating people’s politics,” so the choice to participate was an individual one, not a company mandate.\nOf course, the publishing platform has an important role in helping people share news, opinions, insights, and analysis around politics, culture, and other topics. So that it can allow its employees to take the day off to protest, Stubblebine said Medium will coordinate with the necessary teams to ensure there’s a plan for “business continuity” on Friday.\nTech leaders, including Google DeepMind chief scientist Jeff Dean, have been outspoken in protest of ICE. Still, many large tech companies and executives have spent the last several weeks courting favor with the Trump administration. Some execs — including Apple CEO Tim Cook — were criticized for attending the screening of the Amazon MGM Studios-produced “Melania” documentary on the day federal border control agents shot and killed ICU nurse Alex Pretti in Minneapolis.\nMany rank-and-file tech employees, meanwhile, have demanded that ICE and CBP (Customs and Border Protection) get out of U.S. cities, as evidenced by the open letter signed by more than 500 tech industry employees.\nStubblebine seems to share that opinion, writing that Medium has a responsibility to “make its stance clear,” especially “as many other tech orgs are donating to the Trump campaign.” He also said that Medium’s product exists to help “elevate truth and diverse voices,” not hateful content or racism. \nHis message also reiterated Medium’s support for DEI, the set of pro-diversity policies the Trump administration has attempted to dismantle through executive orders, the elimination of DEI positions in the federal workforce, curriculum removals, legal targeting, and more.  \n“Our business thrives when the country thrives, and so being out there representing is good for [our] mission,” Stubblebine said. \n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-01-30T01:33:13.000Z",
+    "description": "\nEthos Technologies, a San Francisco-based provider of software for selling life insurance, debuted on the Nasdaq on Thursday. As one of the year’s fi",
+    "body": "\nEthos Technologies, a San Francisco-based provider of software for selling life insurance, debuted on the Nasdaq on Thursday. As one of the year’s first major tech IPOs, the insurtech platform is being closely watched as a bellwether for the 2026 listing cycle.\nThe company and its selling shareholders raised approximately $200 million in the offering, selling 10.5 million shares at $19 each under the ticker symbol “LIFE” — one of the more on-the-nose choices in recent memory. The name fits. Ethos runs a three-sided platform where consumers buy policies online in 10 minutes without medical exams. It says over 10,000 independent agents use its software to sell those policies and that carriers like Legal & General America and John Hancock rely on it for underwriting and administrative services. Ethos itself isn’t an insurer — it’s a licensed agency earning commissions on sales.\nThough the company’s stock closed its first day as a public company at $16.85, 11% below its IPO price of $19, Ethos co-founders Peter Colis and Lingke Wang still have plenty to celebrate, having grown the 10-year-old business to public-market scale.\n“When we launched [the business], there were like eight or nine other life insurtech startups that looked very similar to Ethos, with similar Series A funding,” Colis told TechCrunch. “Over time, the vast majority of those startups have pivoted, been acquired at subscale, remain at subscale or gone out of business.”\nFor instance, Policygenius, which raised over $250 million from investors, including KKR and Norwest Venture Partners, was acquired by PE-backed Zinnia in 2023. Meanwhile, Health IQ, a startup that secured more than $200 million from prominent VCs like Andreessen Horowitz, filed for bankruptcy that same year.\nEthos, which has raised over $400 million in venture capital, could have easily succumbed to a similar fate. Instead, the company remained laser-focused on reaching profitability as the era of cheap capital and easy fundraising came to an end in 2022. “Not knowing what the ongoing funding climate would be, we got really serious about ensuring profitability,” Colis said.\nThat financial discipline transformed it into a profitable company by mid-2023, according to its IPO documents. Since then, Ethos has also maintained a year-over-year revenue growth rate of more than 50%. In the nine months ending September 30, 2025, the company generated almost $278 million in revenue and just under $46.6 million in net income.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 23, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nStill, the company ended its first day as a public company with a market capitalization of about $1.1 billion, a valuation that’s significantly below the $2.7 billion it garnered in its last private round led by SoftBank Vision Fund 2 in July 2021.\nWhen asked why Ethos went public, Colis said that a big part of the reason was to bring “additional trust and credibility” to potential partners and clients. He explained that because many major insurance carriers are over a century old, being publicly traded signals the company’s staying power.\nThe largest outside shareholders of Ethos include prominent firms, including Sequoia, Accel, Google’s venture arm GV, and SoftBank, as well as General Catalyst and Heroic Ventures. Sequoia and Accel did not sell shares in the IPO, the company disclosed.\n\n\n\t\tMarina Temkin is a venture capital and startups reporter at TechCrunch. Prior to joining TechCrunch, she wrote about VC for PitchBook and Venture Capital Journal. Earlier in her career, Marina was a financial analyst and earned a CFA charterholder designation.\r\nYou can contact or verify outreach from Marina by emailing marina.temkin@techcrunch.com or via encrypted message at +1 347-683-3909 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Medium employees given Friday off to participate in national strike protesting ICE",
+      "headline": "How Sequoia-backed Ethos reached the public market while rivals fell short",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/01/Medium-Press-01-Dark.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1258565324-e1686567164487.jpg?w=150"
       ],
-      "datePublished": "2026-01-29T21:49:15.000Z",
-      "dateModified": "2026-01-29T21:49:15.000Z",
+      "datePublished": "2026-01-30T01:33:13.000Z",
+      "dateModified": "2026-01-30T01:33:13.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "HomeBoost’s app will show you where to save on your utility bills",
+    "url": "https://techcrunch.com/2026/01/31/homeboosts-app-will-show-you-where-to-save-on-your-utility-bills/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/homeboost-app.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-01-31T16:15:00.000Z",
+    "description": "\nA few years ago, Selina Tobaccowala’s daughter started leaving post-it notes around the house, telling everyone to “turn off the lights” and such.\nTo",
+    "body": "\nA few years ago, Selina Tobaccowala’s daughter started leaving post-it notes around the house, telling everyone to “turn off the lights” and such.\nTobaccowala had just sold her last startup, Gixo, to OpenFit and was looking for a new challenge. “I saw the kids and thought, ‘Let me see if there’s something there on the sustainability and climate side,’” she told TechCrunch. “There had to be something more than like turning our lights off.”\nWithout a background in climate science or hardware engineering, she wasn’t sure where to start. So Tobaccowala turned to something she knew well: surveys. \n“Given my love of surveys, I surveyed a ton — a ton — of customers,” said Tobaccowala, who used to be president and CTO of SurveyMonkey. \nWhat she found was that people were struggling to figure out how to lower their utility bills. \n“When we talked to consumers, we heard the same thing over and over again: They get that email that says, ‘Hey, you spend more money than your neighbors,’” she said. “They were sort of stuck with what to do about it.”\nTobaccowala co-founded HomeBoost to help people conduct their own home energy assessments. The company was part of the Startup Battlefield 200 at TechCrunch Disrupt 2025.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 23, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nTobacowalla (second from right) and the HomeBoost team.Image Credits:HomeBoost\nHomeBoost’s assessment process begins by mailing customers a BoostBox, a small kit that includes an infrared camera, a blacklight and a link to an app that takes customers through the process. As people walk around their homes, the infrared camera shows them where cold (or hot) air is seeping into their homes; the blacklight tells people which lights could be upgraded.\nUsing data from the scans, the app then automatically generates a report which suggests the most cost effective upgrades, including rebates based on where the person lives. \nIn many parts of the country, utilities offer a similar service. Utilities, which are incentivized to reduce end users’ energy use, often work with energy auditors to survey people’s homes to identify ways to trim their consumption. But the quality of those services can be very uneven, Tobaccowala said. \n“We talked to a bunch of consumers who’d gotten home energy assessments done, and there this feeling that was like ‘all they did was try to sell me up an upgraded HVAC,’” she said.\nThe HomeBoost app is cheaper and faster than an auditor, and it helps people feel more in control of the process, Tobaccowala said.\nHomeBoost charges customers $99, which is about a quarter the cost of a traditional, in-person assessment. It is also working with utilities, which cover some or all of the cost for customers. The startup has signed deals with Central Hudson, Omaha Public Power District, and more recently Avista. Omaha Power, for example, pays for all but $19 of the cost, while Central Hudson will cover the entire cost if homeowners check out the BoostBox from a public library.\nBut not every homeowner wants to complete the survey process themselves, and not every auditor is a pushy salesperson. Dedicated auditors can spend between two and 10 hours surveying homes, collating data, and building reports, Tobaccowala said. For that, HomeBoost has developed a version of its app for professionals, allowing them to serve more customers.\nThe company is also testing a feature that will link homeowners with contractors who can follow through on the upgrades outlined in the report. For contractors, it’s another source of new business, and it allows them to get information on a project before even setting foot inside a home.\nBy bringing consumers, utilities, and contractors together, Tobaccowalla hopes that HomeBoost can ultimately deliver on the climate front, too. “It’s a very unique situation where everybody’s aligned to actually lower the utility bill, which in the net result is improvement on the climate,” she said.\n\n\n\t\tTim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor. \r\nDe Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.\r\nYou can contact or verify outreach from Tim by emailing tim.dechant@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "HomeBoost’s app will show you where to save on your utility bills",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/01/homeboost-app.jpg?w=150"
+      ],
+      "datePublished": "2026-01-31T16:15:00.000Z",
+      "dateModified": "2026-01-31T16:15:00.000Z",
       "author": [
         {
           "@type": "Person",
