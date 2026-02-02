@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.bbc.com/news/articles/cwy12z197q8o?at_medium=RSS&at_campaign=rss</loc>
-    <lastmod>2026-02-01T08:24:03.000Z</lastmod>
-  </url>
-  <url>
     <loc>https://www.bbc.com/news/articles/cd0yrrr1ryvo?at_medium=RSS&at_campaign=rss</loc>
     <lastmod>2026-02-01T00:45:34.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.bbc.co.uk/iplayer/episode/m0026pqz?at_mid=Wmb0QwHn72&at_campaign=Where_Eagles_Dare&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m0026pqz&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Where_Eagles_Dare&at_bbc_team=BBC&at_creation=Film</loc>
-    <lastmod>2026-01-10T17:46:15.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.bbc.com/news/videos/cddgvy8jjq0o?at_medium=RSS&at_campaign=rss</loc>
-    <lastmod>2026-02-01T14:17:05.000Z</lastmod>
   </url>
   <url>
     <loc>https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss</loc>
@@ -29,36 +17,48 @@
     <lastmod>2026-01-30T18:19:00.000Z</lastmod>
   </url>
   <url>
+    <loc>https://www.bbc.com/news/videos/cddgvy8jjq0o?at_medium=RSS&at_campaign=rss</loc>
+    <lastmod>2026-02-01T14:17:05.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bbc.co.uk/iplayer/episode/m0026pqz?at_mid=Wmb0QwHn72&at_campaign=Where_Eagles_Dare&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m0026pqz&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Where_Eagles_Dare&at_bbc_team=BBC&at_creation=Film</loc>
+    <lastmod>2026-01-10T17:46:15.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.bbc.com/news/articles/cx20z5nv9jxo?at_medium=RSS&at_campaign=rss</loc>
     <lastmod>2026-02-01T17:40:37.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.bbc.com/news/articles/c0lxr1ne52ro?at_medium=RSS&at_campaign=rss</loc>
-    <lastmod>2026-02-01T14:04:04.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.bbc.com/news/articles/ce8g7ymq959o?at_medium=RSS&at_campaign=rss</loc>
-    <lastmod>2026-02-01T13:43:36.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.bbc.com/news/articles/cn82elvzpz7o?at_medium=RSS&at_campaign=rss</loc>
-    <lastmod>2026-02-01T14:53:08.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.bbc.com/news/articles/ceqz8r2j24do?at_medium=RSS&at_campaign=rss</loc>
-    <lastmod>2026-02-01T19:00:01.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.bbc.com/news/articles/cdre7g2je63o?at_medium=RSS&at_campaign=rss</loc>
-    <lastmod>2026-02-01T19:58:03.000Z</lastmod>
   </url>
   <url>
     <loc>https://www.bbc.com/weather/articles/c4gr3x77048o?at_medium=RSS&at_campaign=rss</loc>
     <lastmod>2026-02-01T16:55:52.000Z</lastmod>
   </url>
   <url>
-    <loc>https://www.bbc.com/news/articles/cyv5z76jmpvo?at_medium=RSS&at_campaign=rss</loc>
-    <lastmod>2026-02-01T09:50:30.000Z</lastmod>
+    <loc>https://www.bbc.com/news/articles/ceqz8r2j24do?at_medium=RSS&at_campaign=rss</loc>
+    <lastmod>2026-02-01T19:00:01.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bbc.com/news/articles/c1508llzw4qo?at_medium=RSS&at_campaign=rss</loc>
+    <lastmod>2026-02-01T23:26:04.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bbc.com/news/articles/cgqedv5elzpo?at_medium=RSS&at_campaign=rss</loc>
+    <lastmod>2026-02-01T17:29:48.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bbc.com/news/articles/cvg1ymmkpkro?at_medium=RSS&at_campaign=rss</loc>
+    <lastmod>2026-02-01T13:20:38.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bbc.com/news/articles/c9qpr7y718do?at_medium=RSS&at_campaign=rss</loc>
+    <lastmod>2026-02-01T17:42:56.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bbc.com/sport/golf/articles/c74wk9g2272o?at_medium=RSS&at_campaign=rss</loc>
+    <lastmod>2026-02-01T23:55:06.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bbc.com/news/articles/ce8g7ymq959o?at_medium=RSS&at_campaign=rss</loc>
+    <lastmod>2026-02-01T13:43:36.000Z</lastmod>
   </url>
   <url>
     <loc>https://www.bbc.com/news/articles/cwy12z197q8o?at_medium=RSS&at_campaign=rss</loc>
@@ -73,60 +73,64 @@
     <lastmod>2026-02-01T17:40:37.000Z</lastmod>
   </url>
   <url>
-    <loc>https://www.bbc.com/news/articles/cdre7g2je63o?at_medium=RSS&at_campaign=rss</loc>
-    <lastmod>2026-02-01T19:58:03.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.bbc.com/news/articles/cn82elvzpz7o?at_medium=RSS&at_campaign=rss</loc>
-    <lastmod>2026-02-01T14:53:08.000Z</lastmod>
-  </url>
-  <url>
     <loc>https://www.bbc.com/news/articles/ceqz8r2j24do?at_medium=RSS&at_campaign=rss</loc>
     <lastmod>2026-02-01T19:00:01.000Z</lastmod>
   </url>
   <url>
-    <loc>https://www.bbc.com/news/articles/c14r1023yy6o?at_medium=RSS&at_campaign=rss</loc>
-    <lastmod>2026-01-31T14:45:42.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.bbc.com/news/articles/cwynzw7jd4go?at_medium=RSS&at_campaign=rss</loc>
-    <lastmod>2026-02-01T18:13:49.000Z</lastmod>
+    <loc>https://www.bbc.com/news/articles/c1ev53zyww2o?at_medium=RSS&at_campaign=rss</loc>
+    <lastmod>2026-02-02T01:13:12.000Z</lastmod>
   </url>
   <url>
     <loc>https://www.bbc.com/news/articles/cvg1ymmkpkro?at_medium=RSS&at_campaign=rss</loc>
     <lastmod>2026-02-01T13:20:38.000Z</lastmod>
   </url>
   <url>
-    <loc>https://www.bbc.com/news/articles/cd9e4xw8vqqo?at_medium=RSS&at_campaign=rss</loc>
-    <lastmod>2026-02-01T14:23:30.000Z</lastmod>
+    <loc>https://www.bbc.com/news/articles/c1508llzw4qo?at_medium=RSS&at_campaign=rss</loc>
+    <lastmod>2026-02-01T23:26:04.000Z</lastmod>
   </url>
   <url>
     <loc>https://www.bbc.com/news/articles/cm2ygq5p2l3o?at_medium=RSS&at_campaign=rss</loc>
     <lastmod>2026-01-31T22:14:54.000Z</lastmod>
   </url>
   <url>
-    <loc>https://www.bbc.com/news/articles/cd9ew5p3zvko?at_medium=RSS&at_campaign=rss</loc>
-    <lastmod>2026-02-01T05:12:13.000Z</lastmod>
+    <loc>https://www.bbc.com/news/articles/cd9e4xw8vqqo?at_medium=RSS&at_campaign=rss</loc>
+    <lastmod>2026-02-01T14:23:30.000Z</lastmod>
   </url>
   <url>
-    <loc>https://www.bbc.com/news/articles/cyv5z76jmpvo?at_medium=RSS&at_campaign=rss</loc>
-    <lastmod>2026-02-01T09:50:30.000Z</lastmod>
+    <loc>https://www.bbc.com/news/articles/cn42nedxqyqo?at_medium=RSS&at_campaign=rss</loc>
+    <lastmod>2026-02-01T10:08:55.000Z</lastmod>
   </url>
   <url>
-    <loc>https://www.bbc.com/news/articles/cd9ew2kwj0lo?at_medium=RSS&at_campaign=rss</loc>
-    <lastmod>2026-01-30T21:43:51.000Z</lastmod>
+    <loc>https://www.bbc.com/news/articles/cgqedv5elzpo?at_medium=RSS&at_campaign=rss</loc>
+    <lastmod>2026-02-01T17:29:48.000Z</lastmod>
   </url>
   <url>
     <loc>https://www.bbc.com/news/articles/cnvgljj1dygo?at_medium=RSS&at_campaign=rss</loc>
     <lastmod>2026-02-01T08:37:23.000Z</lastmod>
   </url>
   <url>
-    <loc>https://techcrunch.com/2026/01/31/waymo-reportedly-raising-a-16-billion-funding-round/</loc>
-    <lastmod>2026-01-31T21:56:22.000Z</lastmod>
+    <loc>https://www.bbc.com/news/articles/crmlr0nk8y9o?at_medium=RSS&at_campaign=rss</loc>
+    <lastmod>2026-01-31T20:02:12.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bbc.com/news/articles/ce8rk33dpvmo?at_medium=RSS&at_campaign=rss</loc>
+    <lastmod>2026-01-31T05:10:27.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bbc.com/news/articles/cdjn0nmnjmwo?at_medium=RSS&at_campaign=rss</loc>
+    <lastmod>2026-01-31T12:08:05.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://techcrunch.com/2026/02/01/ai-layoffs-or-ai-washing/</loc>
+    <lastmod>2026-02-01T22:15:53.000Z</lastmod>
   </url>
   <url>
     <loc>https://techcrunch.com/2026/01/31/spacex-seeks-federal-approval-to-launch-1-million-solar-powered-satellite-data-centers/</loc>
     <lastmod>2026-01-31T21:27:25.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://techcrunch.com/2026/01/31/waymo-reportedly-raising-a-16-billion-funding-round/</loc>
+    <lastmod>2026-01-31T21:56:22.000Z</lastmod>
   </url>
   <url>
     <loc>https://techcrunch.com/2026/01/30/informant-told-fbi-that-jeffrey-epstein-had-a-personal-hacker/</loc>
@@ -141,78 +145,80 @@
     <lastmod>2026-02-01T19:16:27.000Z</lastmod>
   </url>
   <url>
-    <loc>https://techcrunch.com/2026/01/30/onlyfans-considering-selling-majority-stake-to-architect-capital/</loc>
-    <lastmod>2026-01-30T23:54:09.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://techcrunch.com/2026/01/30/a16z-partner-kofi-ampadu-to-leave-firm-after-txo-program-pause/</loc>
-    <lastmod>2026-01-31T01:23:12.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://techcrunch.com/2026/01/30/instagram-might-soon-let-you-remove-yourself-from-someones-close-friends-list/</loc>
-    <lastmod>2026-01-30T21:14:58.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://techcrunch.com/2026/01/30/openclaws-ai-assistants-are-now-building-their-own-social-network/</loc>
-    <lastmod>2026-01-30T23:36:34.000Z</lastmod>
+    <loc>https://techcrunch.com/2026/01/31/meet-the-new-european-unicorns-of-2026/</loc>
+    <lastmod>2026-02-01T07:00:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://techcrunch.com/2026/01/31/nvidia-ceo-pushes-back-against-report-that-his-companys-100b-openai-investment-has-stalled/</loc>
     <lastmod>2026-01-31T17:54:12.000Z</lastmod>
   </url>
   <url>
-    <loc>https://techcrunch.com/2026/01/31/homeboosts-app-will-show-you-where-to-save-on-your-utility-bills/</loc>
-    <lastmod>2026-01-31T16:15:00.000Z</lastmod>
+    <loc>https://techcrunch.com/2026/01/30/a16z-partner-kofi-ampadu-to-leave-firm-after-txo-program-pause/</loc>
+    <lastmod>2026-01-31T01:23:12.000Z</lastmod>
   </url>
   <url>
-    <loc>https://techcrunch.com/2026/01/30/anthropic-brings-agentic-plugins-to-cowork/</loc>
-    <lastmod>2026-01-30T18:00:00.000Z</lastmod>
+    <loc>https://techcrunch.com/2026/01/30/onlyfans-considering-selling-majority-stake-to-architect-capital/</loc>
+    <lastmod>2026-01-30T23:54:09.000Z</lastmod>
   </url>
   <url>
     <loc>https://techcrunch.com/2026/01/30/blue-origin-pauses-space-tourism-flights-to-focus-on-the-moon/</loc>
     <lastmod>2026-01-30T21:11:52.000Z</lastmod>
   </url>
   <url>
-    <loc>https://techcrunch.com/video/uber-is-literally-in-the-drivers-seat-when-it-comes-to-av-bets/</loc>
-    <lastmod>2026-01-30T18:56:17.000Z</lastmod>
+    <loc>https://techcrunch.com/2026/01/30/instagram-might-soon-let-you-remove-yourself-from-someones-close-friends-list/</loc>
+    <lastmod>2026-01-30T21:14:58.000Z</lastmod>
   </url>
   <url>
-    <loc>https://techcrunch.com/2026/01/31/meet-the-new-european-unicorns-of-2026/</loc>
-    <lastmod>2026-02-01T07:00:00.000Z</lastmod>
+    <loc>https://techcrunch.com/2026/01/31/homeboosts-app-will-show-you-where-to-save-on-your-utility-bills/</loc>
+    <lastmod>2026-01-31T16:15:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://techcrunch.com/2026/01/30/openclaws-ai-assistants-are-now-building-their-own-social-network/</loc>
+    <lastmod>2026-01-30T23:36:34.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://techcrunch.com/2026/02/01/techcrunch-mobility-the-great-tesla-rebranding/</loc>
+    <lastmod>2026-02-01T17:05:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://www.openculture.com/2026/02/scott-galloway-unveils-resist-and-unsubscribe.html</loc>
     <lastmod>2026-02-01T18:40:43.000Z</lastmod>
   </url>
   <url>
-    <loc>https://hyperallergic.com/eugene-atget-readymade-icon/</loc>
-    <lastmod>2026-01-30T21:06:39.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://hyperallergic.com/after-the-strike-will-art-galleries-be-allies/</loc>
-    <lastmod>2026-01-30T21:22:41.000Z</lastmod>
-  </url>
-  <url>
     <loc>https://hyperallergic.com/attention-fascism-ahead/</loc>
     <lastmod>2026-01-31T11:00:56.000Z</lastmod>
   </url>
   <url>
-    <loc>https://hyperallergic.com/tribeca-galleries-discuss-reporting-street-vendors-drawing-criticism/</loc>
-    <lastmod>2026-01-30T21:55:50.000Z</lastmod>
+    <loc>https://www.artnews.com/art-news/news/collectors-steve-tisch-jean-pigozzi-jeffrey-epstein-files-1234771700/</loc>
+    <lastmod>2026-02-01T21:19:35.000Z</lastmod>
   </url>
   <url>
-    <loc>https://www.artnews.com/art-news/news/zapotec-tomb-unearthed-oaxaca-mexico-600-ce-1234771635/</loc>
-    <lastmod>2026-01-30T20:54:41.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.artnews.com/list/art-news/news/baltimore-museum-of-art-2025-acquisitions-highlights-1234771552/</loc>
-    <lastmod>2026-01-30T20:42:31.000Z</lastmod>
+    <loc>https://www.artnews.com/art-in-america/interviews/pat-oleszko-fool-sculpture-center-performance-whitney-biennial-1234771648/</loc>
+    <lastmod>2026-02-01T10:00:00.000Z</lastmod>
   </url>
   <url>
     <loc>
-                                                https://www.cbssports.com/nfl/news/patriots-seahawks-prediction-odds-line-spread-game-date-2026-super-bowl-60-picks/
+                                                https://www.cbssports.com/boxing/news/zuffa-boxing-02-fight-card-odds-preview-where-to-watch-start-time/
                     </loc>
-    <lastmod>2026-02-01T17:30:37.000Z</lastmod>
+    <lastmod>2026-02-01T23:30:41.000Z</lastmod>
+  </url>
+  <url>
+    <loc>
+                                                https://www.cbssports.com/nba/news/2026-nba-all-star-game-rosters-lebron-james-reserves/
+                    </loc>
+    <lastmod>2026-02-01T23:55:26.000Z</lastmod>
+  </url>
+  <url>
+    <loc>
+                                                https://www.cbssports.com/nba/news/celtics-bucks-odds-prediction-spread-time-2026-nba-picks-february-1/
+                    </loc>
+    <lastmod>2026-02-01T18:14:52.000Z</lastmod>
+  </url>
+  <url>
+    <loc>
+                                                https://www.cbssports.com/college-basketball/news/florida-alabama-todd-golden-nate-oats-charles-bediako-recap/
+                    </loc>
+    <lastmod>2026-02-01T22:26:54.000Z</lastmod>
   </url>
   <url>
     <loc>
@@ -222,21 +228,27 @@
   </url>
   <url>
     <loc>
-                                                https://www.cbssports.com/nba/news/draftkings-promo-code-bonus-bets-spurs-magic-suns-clippers-oregon-iowa-sunday/
+                                                https://www.cbssports.com/college-basketball/news/florida-alabama-odds-prediction-time-2026-college-basketball-picks-february-1/
                     </loc>
-    <lastmod>2026-02-01T15:29:36.000Z</lastmod>
+    <lastmod>2026-02-01T17:17:35.000Z</lastmod>
   </url>
   <url>
     <loc>
-                                                https://www.cbssports.com/college-basketball/news/rhode-island-duquesne-odds-prediction-time-2026-college-basketball-picks-sunday-february-1/
+                                                https://www.cbssports.com/nfl/news/patriots-seahawks-prediction-odds-line-spread-game-date-2026-super-bowl-60-picks/
                     </loc>
-    <lastmod>2026-02-01T13:30:40.000Z</lastmod>
+    <lastmod>2026-02-01T17:30:37.000Z</lastmod>
   </url>
   <url>
     <loc>
-                                                https://www.cbssports.com/nfl/news/raiders-coach-klint-kubiak-seahawks-super-bowl/
+                                                https://www.cbssports.com/mlb/news/mlb-rumors-red-sox-trade-jordan-hicks-white-sox/
                     </loc>
-    <lastmod>2026-02-01T18:37:59.000Z</lastmod>
+    <lastmod>2026-02-01T20:05:57.000Z</lastmod>
+  </url>
+  <url>
+    <loc>
+                                                https://www.cbssports.com/soccer/news/firecracker-emil-audero-cremonese-inter-serie-a/
+                    </loc>
+    <lastmod>2026-02-01T20:27:58.000Z</lastmod>
   </url>
   <url>
     <loc>
@@ -246,27 +258,9 @@
   </url>
   <url>
     <loc>
-                                                https://www.cbssports.com/nba/news/mavericks-jason-kidd-cooper-flagg-question/
-                    </loc>
-    <lastmod>2026-02-01T17:03:41.000Z</lastmod>
-  </url>
-  <url>
-    <loc>
                                                 https://www.cbssports.com/mlb/news/puerto-rico-2026-world-baseball-classic-insurance-issues/
                     </loc>
     <lastmod>2026-02-01T16:54:36.000Z</lastmod>
-  </url>
-  <url>
-    <loc>
-                                                https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-lakers-vs-knicks-bruins-vs-lightning-in-nhl-stadium-series/
-                    </loc>
-    <lastmod>2026-02-01T18:58:15.000Z</lastmod>
-  </url>
-  <url>
-    <loc>
-                                                https://www.cbssports.com/ufc/news/ufc-325-fight-fights-to-make-alexander-volkanovski-benoit-saint-denis-mauricio-ruffy/
-                    </loc>
-    <lastmod>2026-02-01T14:30:37.000Z</lastmod>
   </url>
   <url>
     <loc>
@@ -276,107 +270,101 @@
   </url>
   <url>
     <loc>
-                                                https://www.cbssports.com/ufc/news/ufc-325-takeaways-alexander-volkanovski-diego-lopes-benoit-saint-denis/
+                                                https://www.cbssports.com/womens-college-basketball/news/womens-college-hoops-tennessee-uconn-perfect-season/
                     </loc>
-    <lastmod>2026-02-01T06:36:01.000Z</lastmod>
+    <lastmod>2026-02-01T15:55:32.000Z</lastmod>
   </url>
   <url>
     <loc>
-                                                https://www.cbssports.com/nfl/news/where-to-watch-date-super-bowl-2026-opening-night/
+                                                https://www.cbssports.com/nfl/news/cardinals-hire-mike-lafleur-new-coach/
                     </loc>
-    <lastmod>2026-02-01T14:00:50.000Z</lastmod>
+    <lastmod>2026-02-01T21:07:07.000Z</lastmod>
   </url>
   <url>
     <loc>
-                                                https://www.cbssports.com/boxing/news/zuffa-boxing-02-fight-card-odds-preview-where-to-watch-start-time/
+                                                https://www.cbssports.com/nfl/news/49ers-hire-raheem-morris-defensive-coordinator/
                     </loc>
-    <lastmod>2026-02-01T15:00:50.000Z</lastmod>
-  </url>
-  <url>
-    <loc>
-                                                https://www.cbssports.com/nfl/news/inside-the-3-traits-that-make-the-seattle-seahawks-jaxon-smith-njigba-a-nightmare-for-defenses/
-                    </loc>
-    <lastmod>2026-02-01T14:34:28.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.cnbc.com/2026/01/31/flatiron-building-apartments-for-sale.html</loc>
-    <lastmod>2026-01-31T15:00:01.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.cnbc.com/2026/02/01/epstein-files-ro-khanna-says-dojs-release-is-not-good-enough.html</loc>
-    <lastmod>2026-02-01T19:04:50.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.cnbc.com/2026/02/01/spy-sheikh-stake-trump-crypto.html</loc>
-    <lastmod>2026-02-01T19:45:48.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.cnbc.com/2026/02/01/how-chinas-short-video-streamers-are-reshaping-latin-americas-media.html</loc>
-    <lastmod>2026-02-01T09:52:14.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.cnbc.com/2026/02/01/government-shutdown-mike-johnson.html</loc>
-    <lastmod>2026-02-01T17:07:06.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.cnbc.com/2026/02/01/ev-pullback-factories-jobs-south.html</loc>
-    <lastmod>2026-02-01T12:00:01.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.cnbc.com/2026/02/01/top-analysts-suggest-these-3-dividend-stocks-for-stable-income.html</loc>
-    <lastmod>2026-02-01T13:40:25.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.cnbc.com/2026/01/31/kraft-heinz-kellogg-breakups-show-big-food-is-getting-smaller.html</loc>
-    <lastmod>2026-01-31T13:00:01.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.cnbc.com/2026/01/30/china-beijing-trade-tariffs-trump-starmer-carney.html</loc>
-    <lastmod>2026-01-30T09:39:24.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.cnbc.com/2026/01/30/wealth-inequality-k-shaped-economy-united-states-consumer-spending-trump.html</loc>
-    <lastmod>2026-01-30T20:08:17.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.cnbc.com/2026/02/01/retail-mall-stores-closures-private-clubs-commercial-real-estate.html</loc>
-    <lastmod>2026-02-01T16:27:30.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.cnbc.com/2026/01/30/amazon-asks-fcc-to-extend-satellite-limit-as-it-buys-more-spacex-rides.html</loc>
-    <lastmod>2026-01-31T01:26:43.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.cnbc.com/2026/02/01/melania-documentary-posts-7-million-domestic-opening.html</loc>
-    <lastmod>2026-02-01T16:34:11.000Z</lastmod>
+    <lastmod>2026-02-01T21:44:05.000Z</lastmod>
   </url>
   <url>
     <loc>https://www.cnbc.com/2026/01/31/shark-tank-star-daymond-john-9-to-5-job-can-be-your-first-investor.html</loc>
     <lastmod>2026-01-31T14:30:01.000Z</lastmod>
   </url>
   <url>
+    <loc>https://www.cnbc.com/2026/01/31/federal-judge-denies-bid-to-end-ice-operation-metro-surge-in-minnesota.html</loc>
+    <lastmod>2026-01-31T19:12:14.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.cnbc.com/2026/02/01/indias-finance-minister-sees-modest-fiscal-consolidation-in-budget.html</loc>
+    <lastmod>2026-02-01T12:52:39.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.cnbc.com/2026/02/01/government-shutdown-mike-johnson.html</loc>
+    <lastmod>2026-02-01T17:07:06.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.cnbc.com/2026/02/01/epstein-files-ro-khanna-says-dojs-release-is-not-good-enough.html</loc>
+    <lastmod>2026-02-01T19:04:50.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.cnbc.com/2026/02/01/how-chinas-short-video-streamers-are-reshaping-latin-americas-media.html</loc>
+    <lastmod>2026-02-01T23:38:15.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.cnbc.com/2026/02/01/melania-documentary-posts-7-million-domestic-opening.html</loc>
+    <lastmod>2026-02-01T16:34:11.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.cnbc.com/2026/02/01/spy-sheikh-stake-trump-crypto.html</loc>
+    <lastmod>2026-02-01T20:36:33.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.cnbc.com/2026/01/31/kraft-heinz-kellogg-breakups-show-big-food-is-getting-smaller.html</loc>
+    <lastmod>2026-01-31T13:00:01.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.cnbc.com/2026/02/01/astrazeneca-nyse-listing-china-pharma-pours-15-billion-into-china.html</loc>
     <lastmod>2026-02-01T10:51:30.000Z</lastmod>
   </url>
   <url>
-    <loc>https://www.npr.org/2026/02/01/nx-s1-5692877/politics-chat-trump-clarifies-directions-to-dhs-house-to-take-up-spending-package</loc>
-    <lastmod>2026-02-01T13:05:29.000Z</lastmod>
+    <loc>https://www.cnbc.com/2026/01/31/the-best-communicators-do-these-simple-things-in-job-interviews-says-expert-charles-duhigg.html</loc>
+    <lastmod>2026-01-31T14:00:01.000Z</lastmod>
   </url>
   <url>
-    <loc>https://www.npr.org/2026/02/01/nx-s1-5695678/democrat-taylor-rehmet-wins-texas-state-senate-seat</loc>
-    <lastmod>2026-02-01T07:15:20.000Z</lastmod>
+    <loc>https://www.cnbc.com/2026/01/31/flatiron-building-apartments-for-sale.html</loc>
+    <lastmod>2026-01-31T15:00:01.000Z</lastmod>
   </url>
   <url>
-    <loc>https://www.npr.org/2026/02/01/nx-s1-5693182/alex-plechash-chair-of-minnesotas-republican-party-on-federal-agents-in-the-state</loc>
-    <lastmod>2026-02-01T13:06:04.000Z</lastmod>
+    <loc>https://www.cnbc.com/2026/01/30/trump-fed-chair-pick-kevin-warsh.html</loc>
+    <lastmod>2026-02-01T19:21:15.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.cnbc.com/2026/01/30/who-is-kevin-warsh-trumps-fed-chair-pick.html</loc>
+    <lastmod>2026-01-30T18:28:58.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.cnbc.com/2026/01/30/cramers-week-ahead-earnings-eli-lilly-alphabet-amazon-jobs-data.html</loc>
+    <lastmod>2026-01-30T23:17:49.000Z</lastmod>
   </url>
   <url>
     <loc>https://www.npr.org/2026/01/31/nx-s1-5695230/don-lemon-georgia-fort-release</loc>
     <lastmod>2026-02-01T01:00:49.000Z</lastmod>
   </url>
   <url>
+    <loc>https://www.npr.org/2026/02/01/nx-s1-5695677/trump-feds-protests-democratic-cities</loc>
+    <lastmod>2026-02-01T07:04:12.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.npr.org/2026/02/01/nx-s1-5695698/iran-khamenei-us-attack-warns-regional-war</loc>
     <lastmod>2026-02-01T10:23:56.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.npr.org/2026/02/01/nx-s1-5695678/democrat-taylor-rehmet-wins-texas-state-senate-seat</loc>
+    <lastmod>2026-02-01T07:15:20.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.npr.org/2026/02/01/nx-s1-5689031/minnesota-citizens-detained-ice</loc>
+    <lastmod>2026-02-01T10:00:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://www.npr.org/2026/01/31/nx-s1-5695197/as-winter-olympics-milan-protesters-call-for-ice-agents-to-leave-italy</loc>
@@ -387,135 +375,135 @@
     <lastmod>2026-02-01T09:22:04.000Z</lastmod>
   </url>
   <url>
-    <loc>https://www.npr.org/2026/02/01/nx-s1-5695677/trump-feds-protests-democratic-cities</loc>
-    <lastmod>2026-02-01T07:04:12.000Z</lastmod>
+    <loc>https://www.npr.org/2026/02/01/nx-s1-5695832/kennedy-center-renovations-trump</loc>
+    <lastmod>2026-02-02T01:09:49.000Z</lastmod>
   </url>
   <url>
-    <loc>https://www.npr.org/2026/01/31/nx-s1-5694696/partial-government-shutdown-begins-despite-senate-approval-of-spending-deal</loc>
-    <lastmod>2026-01-31T13:09:55.000Z</lastmod>
+    <loc>https://www.npr.org/2026/02/01/nx-s1-5693182/alex-plechash-chair-of-minnesotas-republican-party-on-federal-agents-in-the-state</loc>
+    <lastmod>2026-02-01T13:06:04.000Z</lastmod>
   </url>
   <url>
-    <loc>https://www.npr.org/2026/02/01/nx-s1-5689031/minnesota-citizens-detained-ice</loc>
-    <lastmod>2026-02-01T10:00:00.000Z</lastmod>
+    <loc>https://www.npr.org/2026/02/01/nx-s1-5692877/politics-chat-trump-clarifies-directions-to-dhs-house-to-take-up-spending-package</loc>
+    <lastmod>2026-02-01T13:05:29.000Z</lastmod>
   </url>
   <url>
-    <loc>https://variety.com/2026/film/global/succession-hiam-abbass-palestine-36-rotterdam-1236648437/</loc>
-    <lastmod>2026-02-01T20:08:02.000Z</lastmod>
+    <loc>https://variety.com/2026/music/news/trevor-noah-nicki-minaj-grammys-trump-maga-1236641769/</loc>
+    <lastmod>2026-02-02T01:19:31.000Z</lastmod>
   </url>
   <url>
-    <loc>https://variety.com/2026/shopping/news/how-to-watch-nhl-stadium-series-online-livestream-1236319901/</loc>
-    <lastmod>2026-02-01T20:00:14.000Z</lastmod>
+    <loc>https://variety.com/2026/music/news/sabrina-carpenter-manchild-grammys-performance-1236644987/</loc>
+    <lastmod>2026-02-02T01:19:50.000Z</lastmod>
   </url>
   <url>
-    <loc>https://variety.com/2026/music/awards/grammys-winners-list-1236642224/</loc>
-    <lastmod>2026-02-01T20:00:00.000Z</lastmod>
+    <loc>https://variety.com/2026/music/news/kendrick-lamar-breaks-grammys-record-most-awarded-rapper-1236642301/</loc>
+    <lastmod>2026-02-02T01:24:19.000Z</lastmod>
   </url>
   <url>
-    <loc>https://variety.com/2026/film/global/carla-simon-flamenco-short-film-audiovisual-from-spain-1236648347/</loc>
-    <lastmod>2026-02-01T19:49:58.000Z</lastmod>
+    <loc>https://variety.com/2026/film/news/devil-wears-prada-2-trailer-anne-hathaway-meryl-streep-emily-blunt-1236626412/</loc>
+    <lastmod>2026-02-02T01:09:40.000Z</lastmod>
   </url>
   <url>
-    <loc>https://variety.com/2026/film/news/elon-musk-christopher-nolan-odyssey-lupita-nyongo-1236648435/</loc>
-    <lastmod>2026-02-01T19:27:30.000Z</lastmod>
+    <loc>https://variety.com/2026/music/news/grammys-ice-out-pins-billie-eilish-kehlani-bon-iver-1236648441/</loc>
+    <lastmod>2026-02-02T00:38:15.000Z</lastmod>
   </url>
   <url>
-    <loc>https://variety.com/2026/film/awards/london-critics-circle-film-awards-2026-winners-1236647096/</loc>
-    <lastmod>2026-02-01T19:15:00.000Z</lastmod>
+    <loc>https://variety.com/2026/music/awards/steven-spielberg-egot-grammys-win-1236648688/</loc>
+    <lastmod>2026-02-01T23:52:38.000Z</lastmod>
   </url>
   <url>
-    <loc>https://variety.com/2026/film/reviews/nuisance-bear-review-1236647526/</loc>
-    <lastmod>2026-02-01T20:00:00.000Z</lastmod>
+    <loc>https://variety.com/2026/music/news/chappell-roan-grammys-topless-dress-1236648870/</loc>
+    <lastmod>2026-02-02T00:30:47.000Z</lastmod>
   </url>
   <url>
-    <loc>https://variety.com/2026/film/global/timothee-chalamet-spent-six-figures-snl-press-tours-not-gimmick-1236648224/</loc>
-    <lastmod>2026-02-01T18:42:30.000Z</lastmod>
+    <loc>https://variety.com/2026/music/news/kpop-demons-hunters-grammy-win-1236646031/</loc>
+    <lastmod>2026-02-01T21:16:51.000Z</lastmod>
   </url>
   <url>
-    <loc>https://variety.com/2026/music/news/olivia-dean-ozzy-osbourne-tribute-clive-davis-pre-grammy-1236648432/</loc>
-    <lastmod>2026-02-01T19:09:05.000Z</lastmod>
+    <loc>https://variety.com/2026/music/news/donald-trump-close-kennedy-center-two-years-1236648812/</loc>
+    <lastmod>2026-02-02T00:00:54.000Z</lastmod>
   </url>
   <url>
-    <loc>https://variety.com/2026/film/reviews/to-hold-a-mountain-review-1236646563/</loc>
-    <lastmod>2026-02-01T19:55:00.000Z</lastmod>
+    <loc>https://variety.com/gallery/grammys-red-carpet-fashion-best-dressed/</loc>
+    <lastmod>2026-02-01T21:43:06.000Z</lastmod>
   </url>
   <url>
-    <loc>https://www.tmz.com/2026/02/01/whod-you-rather-grammys/</loc>
-    <lastmod>2026-02-01T08:45:53.000Z</lastmod>
+    <loc>https://www.tmz.com/2026/02/01/the-voice-contestant-ifunanya-nwangene-dead-at-26-after-snake-bite/</loc>
+    <lastmod>2026-02-01T23:29:50.000Z</lastmod>
   </url>
   <url>
-    <loc>https://www.tmz.com/2026/02/01/jarrell-miller-loses-hairpiece-mid-fight/</loc>
-    <lastmod>2026-02-01T17:48:01.000Z</lastmod>
+    <loc>https://www.tmz.com/2026/02/01/chappell-roan-topless-grammy/</loc>
+    <lastmod>2026-02-02T00:25:44.000Z</lastmod>
   </url>
   <url>
-    <loc>https://www.tmz.com/2026/01/31/snoop-doggs-infant-granddaughter-dies/</loc>
-    <lastmod>2026-02-01T00:40:42.000Z</lastmod>
+    <loc>https://www.tmz.com/2026/02/01/guess-who-dog-mom/</loc>
+    <lastmod>2026-02-02T00:00:55.000Z</lastmod>
   </url>
   <url>
-    <loc>https://www.tmz.com/2026/02/01/travis-scott-kylie-jenner-celebrate-stormi-aire-birthday/</loc>
-    <lastmod>2026-02-01T13:58:45.000Z</lastmod>
+    <loc>https://www.tmz.com/2026/01/31/polls-you-be-the-judge/</loc>
+    <lastmod>2026-01-31T08:25:02.000Z</lastmod>
   </url>
   <url>
-    <loc>https://www.tmz.com/2026/02/01/melania-trump-documentary-earns-millions-opening-weekend/</loc>
-    <lastmod>2026-02-01T19:14:05.000Z</lastmod>
+    <loc>https://www.tmz.com/2026/02/01/justin-hailey-bieber-ice-grammys/</loc>
+    <lastmod>2026-02-02T01:07:38.000Z</lastmod>
   </url>
   <url>
-    <loc>https://lifehacker.com/tech/kaiser-permanente-spam-text-settlement?utm_medium=RSS</loc>
-    <lastmod>2026-01-30T20:30:00.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lifehacker.com/tech/tapo-magcam-2k-plus-sale-january-2026?utm_medium=RSS</loc>
-    <lastmod>2026-01-30T14:00:00.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lifehacker.com/tech/hisense-class-u8-tv-amazon-deal-of-the-day?utm_medium=RSS</loc>
-    <lastmod>2026-01-29T21:30:00.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lifehacker.com/tech/samsung-77-inch-oled-s85f-tv-sale-january-2026?utm_medium=RSS</loc>
-    <lastmod>2026-01-29T14:30:00.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lifehacker.com/tech/spotify-now-supports-group-chats?utm_medium=RSS</loc>
-    <lastmod>2026-01-29T20:30:02.000Z</lastmod>
+    <loc>https://lifehacker.com/tech/heres-where-to-find-your-settlement-from-the-siri-lawsuit?utm_medium=RSS</loc>
+    <lastmod>2026-01-27T18:20:07.000Z</lastmod>
   </url>
   <url>
     <loc>https://lifehacker.com/tech/hacks-every-roku-user-should-know?utm_medium=RSS</loc>
     <lastmod>2026-01-27T14:00:00.000Z</lastmod>
   </url>
   <url>
-    <loc>https://lifehacker.com/tech/roborock-q7-l5-robot-vacuum-and-mop-sale-january-2026?utm_medium=RSS</loc>
-    <lastmod>2026-01-30T21:30:43.000Z</lastmod>
+    <loc>https://lifehacker.com/tech/hacks-every-smart-tv-owner-should-know?utm_medium=RSS</loc>
+    <lastmod>2026-01-27T18:30:00.000Z</lastmod>
   </url>
   <url>
-    <loc>https://lifehacker.com/health/suuntos-new-route-planner-is-free-and-awesome?utm_medium=RSS</loc>
-    <lastmod>2026-01-28T15:30:41.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lifehacker.com/tech/jbl-endurance-race-2-earbuds-sale-january-2026?utm_medium=RSS</loc>
-    <lastmod>2026-01-30T15:00:00.000Z</lastmod>
+    <loc>https://lifehacker.com/tech/microsoft-phishing-email-scam?utm_medium=RSS</loc>
+    <lastmod>2026-01-29T13:30:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://lifehacker.com/how-to-individually-control-audio-volume-for-every-app-1847455401?utm_medium=RSS</loc>
     <lastmod>2026-01-27T21:00:00.000Z</lastmod>
   </url>
   <url>
-    <loc>https://lifehacker.com/tech/moltbook-is-a-social-media-platform-for-ai-bots-to-chat-with-each-other?utm_medium=RSS</loc>
-    <lastmod>2026-01-30T19:00:15.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lifehacker.com/tech/google-135-million-android-settlement?utm_medium=RSS</loc>
-    <lastmod>2026-01-29T17:30:00.000Z</lastmod>
-  </url>
-  <url>
     <loc>https://lifehacker.com/tech/youtube-fighting-back-against-ai-slop?utm_medium=RSS</loc>
     <lastmod>2026-01-29T22:00:00.000Z</lastmod>
   </url>
   <url>
-    <loc>https://lifehacker.com/tech/clawdbot-is-now-moltbot?utm_medium=RSS</loc>
-    <lastmod>2026-01-27T21:40:00.000Z</lastmod>
+    <loc>https://lifehacker.com/tech/how-to-clean-up-your-mac-menu-bar?utm_medium=RSS</loc>
+    <lastmod>2026-01-28T22:00:19.000Z</lastmod>
   </url>
   <url>
-    <loc>https://lifehacker.com/tech/whatsapp-has-its-own-lockdown-mode?utm_medium=RSS</loc>
-    <lastmod>2026-01-28T19:00:00.000Z</lastmod>
+    <loc>https://lifehacker.com/tech/meta-is-testing-paid-subscriptions-for-instagram-whatsapp-and-facebook?utm_medium=RSS</loc>
+    <lastmod>2026-01-27T17:30:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lifehacker.com/tech/these-obsolete-iphones-just-received-a-new-update?utm_medium=RSS</loc>
+    <lastmod>2026-01-27T20:55:05.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lifehacker.com/prevent-snow-shoveling-heart-attack?utm_medium=RSS</loc>
+    <lastmod>2026-01-23T15:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lifehacker.com/tech/google-just-updated-these-android-theft-protection-features?utm_medium=RSS</loc>
+    <lastmod>2026-01-29T17:01:43.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lifehacker.com/tech/it-looks-like-android-is-adding-liquid-glass-now-too?utm_medium=RSS</loc>
+    <lastmod>2026-01-26T18:30:43.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lifehacker.com/health/suuntos-new-route-planner-is-free-and-awesome?utm_medium=RSS</loc>
+    <lastmod>2026-01-28T15:30:41.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lifehacker.com/tech/your-iphone-might-not-be-fully-compatible-with-apples-new-airtag?utm_medium=RSS</loc>
+    <lastmod>2026-01-27T20:30:41.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lifehacker.com/tech/meta-sued-whatsapp-encryption-claims?utm_medium=RSS</loc>
+    <lastmod>2026-01-26T16:30:00.000Z</lastmod>
   </url>
 </urlset>
