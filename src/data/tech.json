@@ -50,6 +50,31 @@
     }
   },
   {
+    "title": "Google’s subscriptions rise in Q4 as YouTube pulls $60B in yearly revenue",
+    "url": "https://techcrunch.com/2026/02/05/googles-subscriptions-rise-in-q4-as-youtube-pulls-60b-in-yearly-revenue/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-2235294656.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-02-05T12:31:10.000Z",
+    "description": "\nIn Brief\nPosted:\n4:31 AM PST · February 5, 2026\n\nImage Credits:CFOTO/Future Publishing / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nAlph",
+    "body": "\nIn Brief\nPosted:\n4:31 AM PST · February 5, 2026\n\nImage Credits:CFOTO/Future Publishing / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nAlphabet-owned YouTube’s subscription and ad revenue is trending upwards. The company on Wednesday said it now has 325 million paying users across Google One and YouTube Premium, up from 300 million three months earlier.\nYouTube reported ad revenue increased 9% to $11.38 billion in the fourth quarter, but missed analysts’ average estimates of $11.84 billion. YouTube’s overall revenue, including ads and subscriptions, came in at $60 billion in the full financial year, up 17% compared to a year earlier.\nThe company said that YouTube’s $8 per month, ad-free premium tier is seeing strong traction, but didn’t specify any numbers. It added that YouTube Premium also saw strong growth.\nAlphabet CEO Sundar Pichai said the company plans to flesh out its subscription offerings, especially to capitalize on its growing YouTube TV userbase. “We’ll soon launch new YouTube TV plans, bringing more choice and flexibility to subscribers with over 10 genre-specific packages,” he said. \nYouTube Shorts recorded 200 billion average daily views in the quarter, the same as last year, but in some countries, ads on short-form video earn more than in-stream ads on a per-hour basis, the company said. Pichai also highlighted podcasts as a growing format, with viewers watching 700 million hours of podcasts from their TVs in October.\nYouTube said that its AI features are seeing traction, and more than 1 million channels are using its AI creation tools. The company said that 20 million consumers used its Gemini-powered content discovery tool in December.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Media & Entertainment\n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Google’s subscriptions rise in Q4 as YouTube pulls $60B in yearly revenue",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-2235294656.jpg?w=150"
+      ],
+      "datePublished": "2026-02-05T12:31:10.000Z",
+      "dateModified": "2026-02-05T12:31:10.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Alphabet won’t talk about the Google-Apple AI deal, even to investors",
     "url": "https://techcrunch.com/2026/02/04/alphabet-wont-talk-about-the-google-apple-ai-deal-even-to-investors/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/imgi_38_mp840x830mattef8f8f8t-pad1000x1000f8f8f8.jpg?w=150",
@@ -75,22 +100,47 @@
     }
   },
   {
-    "title": "The Wayback Machine debuts a new plug-in designed to fix the internet’s broken links problem",
-    "url": "https://techcrunch.com/2026/02/04/the-wayback-machine-debuts-a-new-plugin-designed-to-fix-the-internets-broken-links-problem/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-114847550.jpg?w=150",
+    "title": "ElevenLabs raises $500M from Sequoia at an $11 billion valuation",
+    "url": "https://techcrunch.com/2026/02/04/elevenlabs-raises-500m-from-sequioia-at-a-11-billion-valuation/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-02-04T22:27:12.000Z",
-    "description": "\n\t\n\t\tImage Credits:Tetra Images / Getty Images\t\n\t\n\t\t\t\t\t\t2:27 PM PST · February 4, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nThe Internet Archive is a nonprofit that — as y",
-    "body": "\n\t\n\t\tImage Credits:Tetra Images / Getty Images\t\n\t\n\t\t\t\t\t\t2:27 PM PST · February 4, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nThe Internet Archive is a nonprofit that — as you might expect — is devoted to archiving the internet and preserving digital context for future generations. This week, the platform announced a new tool designed to expand on that mission by helping the world’s WordPress users keep their articles in peak digital health.\nThe Archive’s Wayback Machine, which indexes the web through widespread snapshotting, has partnered with Automattic, the company behind WordPress. Together, the two organizations have launched a new WordPress plug-in — the Link Fixer — that is designed to combat the scourge of “link rot.”\n“Link rot” is the unfortunate phenomenon whereby online articles become populated by broken links — URLs that once led to active pages but now result in error messages or dead ends. A Pew Research study from 2024 showed that nearly 40% of links that existed in 2013 were no longer active. Such “digital decay” occurs across a broad diversity of web pages, from news and government sites to Wikipedia pages to tweets.\nAutomattic says that its new plug-in works by scanning your WordPress posts for outbound links, then cross-referencing the Wayback Machine for archived versions of those links. If there are none, it will automatically take new snapshots of the articles in question. Should a linked web page go offline, the new feature will then redirect readers to the archived versions, so that there is no drop in service. The tool also archives a user’s own posts, helping to ensure their longevity.\nThe tool is designed to keep a site’s visitors reading the best available version of a web page. Indeed, Automattic’s plug-in perpetually checks a web page’s links, and if an original link that had gone offline is resurrected, the plug-in will start redirecting the user to that original page again instead of the archived version.\nA write-up on Github shows that the plug-in’s controls are relatively easy to maneuver and offer convenient customization. For instance, users can specify how often they want the plug-in to scan a link for validity (the default offered by the program is every three days).\n\n\t\t\t\n\tTopics\n\n\n\n\t\n\t\tLucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. \nYou can contact Lucas by emailing lucas.ropek@techcrunch.com.\t\n\n\t\n\t\tView Bio \n\t\n\n\t\t",
+    "date": "2026-02-04T15:33:58.000Z",
+    "description": "\nVoice AI company ElevenLabs said today it raised $500 million in a new funding round led by Sequoia Capital, which was an investor in the startup’s l",
+    "body": "\nVoice AI company ElevenLabs said today it raised $500 million in a new funding round led by Sequoia Capital, which was an investor in the startup’s last secondary round through a tender. Sequoia partner Andrew Reed is joining the company’s board.\nThe startup is now valued at $11 billion, more than three times its valuation in its last round in January 2025. Earlier in the year, the Financial Times reported that the startup was looking to raise at that valuation.\nThe company said that existing investor a16z quadrupled its investment amount, and Iconiq, which led the last round, tripled it. Some prior investors, like BroadLight, NFDG, Valor Capital, AMP Coalition, and Smash Capital, also joined the round. New investors for the funding included Lightspeed Venture Partners, EvanticCapital, and Bond.\nElevenLabs said that it will disclose some investors later in February, which might be strategic partners. The company has raised over $781 million to date. It said that it will use the funding for research and product development, along with expansion in international markets like India, Japan, Singapore, Brazil, and Mexico. \nThe company’s co-founder, Mati Staniszewski, indicated that ElevenLabs might work on agents beyond voice and incorporate video. In January, the company announced a partnership with LTX to produce audio-to-video content.\n“The intersection of models and products is critical – and our team has proven, time and again, how to translate research into real-world experiences. This funding helps us go beyond voice alone to transform how we interact with technology altogether. We plan to expand our Creative offering – helping creators combine our best-in-class audio with video and Agents – enabling businesses to build agents that can talk, type, and take action,” he said in a statement.\nThe company has seen good growth momentum as it closed the year at $330 million ARR. In an interview with Bloomberg earlier this year, Staniszewski said that it took ElevenLabs five months to reach $200 million to $300 million in ARR.\nVoice AI model providers are an attractive target for investors and big tech companies. In January, rival Deepgram raised $130 million from AVP at a $1.3 billion valuation. Meanwhile, Google hired top talent from voice model company Hume AI, including CEO Alan Cowen.\n\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "The Wayback Machine debuts a new plug-in designed to fix the internet’s broken links problem",
+      "headline": "ElevenLabs raises $500M from Sequoia at an $11 billion valuation",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-114847550.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?w=150"
       ],
-      "datePublished": "2026-02-04T22:27:12.000Z",
-      "dateModified": "2026-02-04T22:27:12.000Z",
+      "datePublished": "2026-02-04T15:33:58.000Z",
+      "dateModified": "2026-02-04T15:33:58.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Google’s Gemini app has surpassed 750M monthly active users",
+    "url": "https://techcrunch.com/2026/02/04/googles-gemini-app-has-surpassed-750m-monthly-active-users/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/google-gemini-jagmeet-singh-techcrunch.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-02-04T22:53:46.000Z",
+    "description": "\nGoogle’s AI chatbot Gemini has surpassed 750 million monthly active users (MAUs), according to the company’s fourth-quarter 2025 earnings. This figur",
+    "body": "\nGoogle’s AI chatbot Gemini has surpassed 750 million monthly active users (MAUs), according to the company’s fourth-quarter 2025 earnings. This figure illustrates the rapid consumer adoption of Gemini, which has quickly become a prominent player in the AI space.\nLast quarter, Google reported 650 million monthly active users for Gemini, indicating substantial growth in a short period. In comparison, Meta AI has reported nearly 500 million monthly users. However, while Gemini is gaining traction, it still trails behind its biggest rival, ChatGPT, which is estimated to have around 810 million MAUs in late 2025.\nThe recently revealed number comes on the heels of the launch of Gemini 3, which showcases the company’s most advanced model yet, providing responses that the company claims exhibit an unprecedented level of depth and nuance. \nCEO Sundar Pichai highlighted that the introduction of Gemini 3 in AI mode was a “positive driver” for the company’s growth and emphasized that continued investment and iteration will maintain this momentum.\nGoogle recently rolled out a more affordable plan, the Google AI Plus, priced at $7.99 per month. The plan is expected to drive further growth by appealing to budget-conscious consumers, although it was made available too recently to have any influence on the quarterly figures.\n“We are focused on a free tier and subscriptions and seeing great growth,” Philipp Schindler, Google’s chief business officer, said during the call to investors. \nGemini’s growth is particularly notable given Alphabet’s overall financial performance. The company has surpassed $400 billion in annual revenue for the first time this quarter. Google attributes the achievement to the expansion of its AI division, which has seen increased demand. Recently, Google introduced the latest generation of its TPU AI accelerator chip, called Ironwood, to compete with Nvidia.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 23, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n“The launch of Gemini 3 was a major milestone, and we have great momentum. Our first party models, like Gemini, now process over 10 billion tokens per minute via direct API use by our customers, and the Gemini App has grown to over 750 million monthly active users. Search saw more usage than ever before, with AI continuing to drive an expansionary moment,” Pichai stated in today’s release.\n\n\n\t\tLauren covers media, streaming, apps and platforms at TechCrunch.\nYou can contact or verify outreach from Lauren by emailing laurenf.techcrunch@gmail.com or via encrypted message at laurenforris22.25 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Google’s Gemini app has surpassed 750M monthly active users",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/01/google-gemini-jagmeet-singh-techcrunch.jpg?w=150"
+      ],
+      "datePublished": "2026-02-04T22:53:46.000Z",
+      "dateModified": "2026-02-04T22:53:46.000Z",
       "author": [
         {
           "@type": "Person",
@@ -125,22 +175,22 @@
     }
   },
   {
-    "title": "Uber appoints new CFO as its AV plans accelerate",
-    "url": "https://techcrunch.com/2026/02/04/uber-appoints-new-cfo-as-its-av-plans-accelerate/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2043993878-e1722276196662.jpg?w=150",
+    "title": "The Wayback Machine debuts a new plug-in designed to fix the internet’s broken links problem",
+    "url": "https://techcrunch.com/2026/02/04/the-wayback-machine-debuts-a-new-plugin-designed-to-fix-the-internets-broken-links-problem/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-114847550.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-02-04T14:15:34.000Z",
-    "description": "\nUber is promoting Balaji Krishnamurthy, its VP of strategic finance and investor relations, to be its CFO, replacing its current finance chief Prasha",
-    "body": "\nUber is promoting Balaji Krishnamurthy, its VP of strategic finance and investor relations, to be its CFO, replacing its current finance chief Prashanth Mahendra-Rajah. \nKrishnamurthy has been at Uber for over six years, spending most of his tenure in the company in its investor relations division. He often posts about the company’s autonomous ride-hailing efforts, and has a board seat at AV company Waabi — so the appointment may be a signal of the company’s plans to expand its driverless investments and operations.\nIndeed, on the company’s fourth-quarter earnings call on Wednesday, Krishnamurthy said the company would invest capital in its AV software partners, work with AV makers by investing equity or via offtake agreements, and “support our AV infrastructure partners.”\n“With large and growing free cash flows, over the coming years we will invest with discipline across a multitude of opportunities, including positioning Uber to win in an AV future,” Krishnamurthy wrote in a statement detailing the company’s Q4 results.\nUber’s CEO Dara Khosrowshahi said on the call that he was convinced autonomous vehicles would “unlock a multitrillion-dollar opportunity,” for the company, adding that autonomy “fundamentally amplifies” the strengths of the company’s platform.\n“By the end of 2026, we expect to be facilitating AV trips in as many as 15 cities globally, with a roughly even split of U.S. and international cities. And by 2029, we intend to be the largest facilitator of AV trips in the world,” Khosrowshahi said.\nOver the past two years, Uber has amassed partnerships with at least 20 autonomous vehicle companies across a variety of use cases, including sidewalk delivery robots, robotaxis, and trucking. Waymo is perhaps its highest profile partner with shared robotaxi operations in Atlanta and Austin. It has also struck deals with Avride, UK-based Wayve, Chinese companies WeRide, Momenta, and Volkswagen, among others.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 23, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nIt has made direct investments in AV startups as well. Waabi, for instance, recently announced a $750 million Series C funding round that included an up to an additional $250 million (if it reaches certain milestones) from Uber to support the deployment of 25,000 or more robotaxis on its platform. Uber has also invested in Silicon Valley-based Nuro and Lucid as part of a deal to launch a premium robotaxi service. \nUber said revenue rose to $14.37 billion in the fourth quarter, up 20% from a year earlier, driven by strong demand for its food delivery services. \nMahendra-Rajah is leaving Uber after three years at the company.\n\n\n\t\tRam is a financial and tech reporter and editor. He covered North American and European M&A, equity, regulatory news and debt markets at Reuters and Acuris Global, and has also written about travel, tourism, entertainment and books.\nYou can contact or verify outreach from Ram by emailing ram.iyer@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-02-04T22:27:12.000Z",
+    "description": "\n\t\n\t\tImage Credits:Tetra Images / Getty Images\t\n\t\n\t\t\t\t\t\t2:27 PM PST · February 4, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nThe Internet Archive is a nonprofit that — as y",
+    "body": "\n\t\n\t\tImage Credits:Tetra Images / Getty Images\t\n\t\n\t\t\t\t\t\t2:27 PM PST · February 4, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nThe Internet Archive is a nonprofit that — as you might expect — is devoted to archiving the internet and preserving digital context for future generations. This week, the platform announced a new tool designed to expand on that mission by helping the world’s WordPress users keep their articles in peak digital health.\nThe Archive’s Wayback Machine, which indexes the web through widespread snapshotting, has partnered with Automattic, the company behind WordPress. Together, the two organizations have launched a new WordPress plug-in — the Link Fixer — that is designed to combat the scourge of “link rot.”\n“Link rot” is the unfortunate phenomenon whereby online articles become populated by broken links — URLs that once led to active pages but now result in error messages or dead ends. A Pew Research study from 2024 showed that nearly 40% of links that existed in 2013 were no longer active. Such “digital decay” occurs across a broad diversity of web pages, from news and government sites to Wikipedia pages to tweets.\nAutomattic says that its new plug-in works by scanning your WordPress posts for outbound links, then cross-referencing the Wayback Machine for archived versions of those links. If there are none, it will automatically take new snapshots of the articles in question. Should a linked web page go offline, the new feature will then redirect readers to the archived versions, so that there is no drop in service. The tool also archives a user’s own posts, helping to ensure their longevity.\nThe tool is designed to keep a site’s visitors reading the best available version of a web page. Indeed, Automattic’s plug-in perpetually checks a web page’s links, and if an original link that had gone offline is resurrected, the plug-in will start redirecting the user to that original page again instead of the archived version.\nA write-up on Github shows that the plug-in’s controls are relatively easy to maneuver and offer convenient customization. For instance, users can specify how often they want the plug-in to scan a link for validity (the default offered by the program is every three days).\n\n\t\t\t\n\tTopics\n\n\n\n\t\n\t\tLucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. \nYou can contact Lucas by emailing lucas.ropek@techcrunch.com.\t\n\n\t\n\t\tView Bio \n\t\n\n\t\t",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Uber appoints new CFO as its AV plans accelerate",
+      "headline": "The Wayback Machine debuts a new plug-in designed to fix the internet’s broken links problem",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2043993878-e1722276196662.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-114847550.jpg?w=150"
       ],
-      "datePublished": "2026-02-04T14:15:34.000Z",
-      "dateModified": "2026-02-04T14:15:34.000Z",
+      "datePublished": "2026-02-04T22:27:12.000Z",
+      "dateModified": "2026-02-04T22:27:12.000Z",
       "author": [
         {
           "@type": "Person",
@@ -150,22 +200,22 @@
     }
   },
   {
-    "title": "SNAK Venture Partners raises $50M fund to back vertical marketplaces",
-    "url": "https://techcrunch.com/2026/02/04/snak-venture-partners-raises-50m-fund-to-back-digitizing-marketplaces/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/sonia.jpg?w=150",
+    "title": "Spotify ventures into physical book sales, adds new audiobook features",
+    "url": "https://techcrunch.com/2026/02/05/spotify-ventures-into-physical-book-sales-adds-new-audiobook-features/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Spotify_Physical_Books.png?w=150",
     "tag": "Tech",
-    "date": "2026-02-04T14:00:00.000Z",
-    "description": "\nSNAK Venture Partners announced Wednesday the close of its oversubscribed $50 million debut fund, anchored by the investment firm Pritzker Group (fou",
-    "body": "\nSNAK Venture Partners announced Wednesday the close of its oversubscribed $50 million debut fund, anchored by the investment firm Pritzker Group (founded by Illinois governor JB Pritzker and his brother, Tony).\nSNAK founders Sonia Nagar and Adam Koopersmith worked at the firm and helped lead investments in companies like the auto marketplace Backlot Cars and TicketsNow (exited to Ticketmaster). The duo decided to break out on their own and, earlier this year, launched their firm to back digital marketplaces. \n“It felt like the timing was right and there was support within the firm to go do this,” Nagar said. \nThe vision is that there is still so much to digitize, like in supply chain and construction, and this is the moment to strike because even holdout industries are more comfortable adopting new technology as fintech architecture advances. \n“If you look at the biggest venture wins over the last decade,” she said, pointing to the likes of Uber, Instacart, and Airbnb, “those are five of the top 10 outcomes in venture.” As in those companies that raised billions from investors, went on to IPO, and returned millions to them.\n“Most of those wins were in consumer, which tends to be faster-moving than large enterprises,” Nagar continued. “We think there’s a ton of white space to double down and focus on B2B marketplaces.” Looking specifically for the categories that haven’t yet digitized. \nThe firm has already invested in six companies, including Big Rentals and Repackify, focused on equipment rental and packaging logistics, respectively. Nagar said the firm hopes to overall write seed checks into at least 20 companies, at $1 million to $2 million a pop. She said they hope to deploy the entire fund within the next 3 to 4 years. \n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 23, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThough many new funds are struggling to raise capital (and capital remains concentrated at the top), Nagar said she and Koopersmith were able to lean on their backgrounds when wooing LPs. \nNagar previously helped launch Amazon apparel back in 2009, and was head of mobile at RetailMeNot. Koopersmith, meanwhile, spent 20 years at Pritzker Group and serves on the board of various marketplace companies. At the same time, Nagar said that without Pritzker’s support, it would have been quite hard to raise this fund, especially in last year’s environment.\nOther LPs in their fund include the State of Illinois Growth and Innovation Fund and executives from other marketplace companies, like Favor Delivery and RetailMeNot. \nNagar said the firm is also location-agnostic, recognizing that the still-hidden marketplaces may not be found only in Silicon Valley and New York City. “We’re finding these overlooked founders in places where maybe other funds aren’t looking,” she said. \nSNAK is itself based in Chicago, which she said some LPs have questioned. “People perceive that as a disadvantage; we view it as an advantage,” she continued. “We can get to everybody very fast.” \n\n\n\t\tDominic-Madori Davis is a senior venture capital and startup reporter at TechCrunch. She is based in New York City.\r\nYou can contact or verify outreach from Dominic by emailing dominic.davis@techcrunch.com or via encrypted message at +1 646 831-7565 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-02-05T12:00:00.000Z",
+    "description": "\nWhile Spotify users face yet another price hike, book lovers have some exciting developments to look forward to that could help cushion the blow.\nSpo",
+    "body": "\nWhile Spotify users face yet another price hike, book lovers have some exciting developments to look forward to that could help cushion the blow.\nSpotify announced several updates for its audiobook business on Thursday, notably its expansion into physical books. Users in the U.S. and the UK will soon be able to purchase physical copies of their favorite audiobooks directly through the app, marking a significant pivot for the once digital-only platform. \nThe company also introduced two features designed to make the audiobook experience smoother and more flexible, including a new tool called “Page Match” that lets users scan a page from a physical book to instantly transition to that spot in the audiobook. \nAdditionally, “Audiobook Recaps”—a previously iOS-only feature—is coming to Android devices in the spring. This feature provides bite-sized recaps tailored to the last section users stopped listening to.\nImage Credits:Spotify\n​Spotify’s decision to sell physical books through its app positions it as a competitor to major booksellers, including Amazon and Barnes & Noble. The company also recognizes that many readers still value physical books, and by offering both print and digital formats, Spotify is trying to turn itself into a one-stop shop for book lovers. \nSpotify has partnered with Bookshop.org on the new offering, an online marketplace that supports local, independent bookstores. This partnership is great news for indie booksellers, as every purchase made via Spotify will directly benefit local book communities.\nThe ability to purchase physical books will roll out this spring and appear on audiobook pages in the app as a button labeled “Add to your bookshelf at home.” Clicking it takes users to Bookshop’s website, which handles the pricing, inventory, and shipping.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 23, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nImage Credits:Spotify\nTo bridge the gap between formats, Spotify is also launching a feature called Page Match, which is currently available to premium subscribers and will roll out to all audiobook users by late February. The feature was initially spotted by Android Authority last month. \nSpotify’s new Page Match feature lets users scan a page from a physical or e-book using their phone camera. The tool analyzes the page content and directs users to the exact spot in the audiobook. It’s powered by a combination of Spotify’s in-house and third-party computer vision and image scanning technologies.\nWhen users want to switch to the audiobook, they can select the “Scan to Listen” button and click the “Scan to Read” button to return to the physical book, making it easy for users to pick up where they left off, whether they’re reading at home or switching to audio while on the go.\nPage Match is currently available for most English-language titles, with plans for future expansion. There are now more than 500,000 titles on the platform.\nIn the two years since Spotify first introduced audiobooks, the platform has experienced significant growth. The company reported in October that the number of users listening to audiobooks rose 36% over the past year, and listening hours increased 37%. Plus, more than half of Spotify’s 281 million premium subscribers have engaged with an audiobook.\nSpotify is expected to release its fourth-quarter earnings results February 10.\n\n\n\t\tLauren covers media, streaming, apps and platforms at TechCrunch.\nYou can contact or verify outreach from Lauren by emailing laurenf.techcrunch@gmail.com or via encrypted message at laurenforris22.25 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "SNAK Venture Partners raises $50M fund to back vertical marketplaces",
+      "headline": "Spotify ventures into physical book sales, adds new audiobook features",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/02/sonia.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/02/Spotify_Physical_Books.png?w=150"
       ],
-      "datePublished": "2026-02-04T14:00:00.000Z",
-      "dateModified": "2026-02-04T14:00:00.000Z",
+      "datePublished": "2026-02-05T12:00:00.000Z",
+      "dateModified": "2026-02-05T12:00:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -225,31 +275,6 @@
     }
   },
   {
-    "title": "Google’s Gemini app has surpassed 750M monthly active users",
-    "url": "https://techcrunch.com/2026/02/04/googles-gemini-app-has-surpassed-750m-monthly-active-users/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/google-gemini-jagmeet-singh-techcrunch.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-02-04T22:53:46.000Z",
-    "description": "\nGoogle’s AI chatbot Gemini has surpassed 750 million monthly active users (MAUs), according to the company’s fourth-quarter 2025 earnings. This figur",
-    "body": "\nGoogle’s AI chatbot Gemini has surpassed 750 million monthly active users (MAUs), according to the company’s fourth-quarter 2025 earnings. This figure illustrates the rapid consumer adoption of Gemini, which has quickly become a prominent player in the AI space.\nLast quarter, Google reported 650 million monthly active users for Gemini, indicating substantial growth in a short period. In comparison, Meta AI has reported nearly 500 million monthly users. However, while Gemini is gaining traction, it still trails behind its biggest rival, ChatGPT, which is estimated to have around 810 million MAUs in late 2025.\nThe recently revealed number comes on the heels of the launch of Gemini 3, which showcases the company’s most advanced model yet, providing responses that the company claims exhibit an unprecedented level of depth and nuance. \nCEO Sundar Pichai highlighted that the introduction of Gemini 3 in AI mode was a “positive driver” for the company’s growth and emphasized that continued investment and iteration will maintain this momentum.\nGoogle recently rolled out a more affordable plan, the Google AI Plus, priced at $7.99 per month. The plan is expected to drive further growth by appealing to budget-conscious consumers, although it was made available too recently to have any influence on the quarterly figures.\n“We are focused on a free tier and subscriptions and seeing great growth,” Philipp Schindler, Google’s chief business officer, said during the call to investors. \nGemini’s growth is particularly notable given Alphabet’s overall financial performance. The company has surpassed $400 billion in annual revenue for the first time this quarter. Google attributes the achievement to the expansion of its AI division, which has seen increased demand. Recently, Google introduced the latest generation of its TPU AI accelerator chip, called Ironwood, to compete with Nvidia.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 23, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n“The launch of Gemini 3 was a major milestone, and we have great momentum. Our first party models, like Gemini, now process over 10 billion tokens per minute via direct API use by our customers, and the Gemini App has grown to over 750 million monthly active users. Search saw more usage than ever before, with AI continuing to drive an expansionary moment,” Pichai stated in today’s release.\n\n\n\t\tLauren covers media, streaming, apps and platforms at TechCrunch.\nYou can contact or verify outreach from Lauren by emailing laurenf.techcrunch@gmail.com or via encrypted message at laurenforris22.25 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Google’s Gemini app has surpassed 750M monthly active users",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/01/google-gemini-jagmeet-singh-techcrunch.jpg?w=150"
-      ],
-      "datePublished": "2026-02-04T22:53:46.000Z",
-      "dateModified": "2026-02-04T22:53:46.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Meet Gizmo: A TikTok for interactive, vibe-coded mini apps",
     "url": "https://techcrunch.com/2026/02/04/meet-gizmo-a-tiktok-for-interactive-vibe-coded-mini-apps/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/gizmo-app.jpg?w=150",
@@ -266,56 +291,6 @@
       ],
       "datePublished": "2026-02-04T21:45:32.000Z",
       "dateModified": "2026-02-04T21:45:32.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "ElevenLabs raises $500M from Sequoia at an $11 billion valuation",
-    "url": "https://techcrunch.com/2026/02/04/elevenlabs-raises-500m-from-sequioia-at-a-11-billion-valuation/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-02-04T15:33:58.000Z",
-    "description": "\nVoice AI company ElevenLabs said today it raised $500 million in a new funding round led by Sequoia Capital, which was an investor in the startup’s l",
-    "body": "\nVoice AI company ElevenLabs said today it raised $500 million in a new funding round led by Sequoia Capital, which was an investor in the startup’s last secondary round through a tender. Sequoia partner Andrew Reed is joining the company’s board.\nThe startup is now valued at $11 billion, more than three times its valuation in its last round in January 2025. Earlier in the year, the Financial Times reported that the startup was looking to raise at that valuation.\nThe company said that existing investor a16z quadrupled its investment amount, and Iconiq, which led the last round, tripled it. Some prior investors, like BroadLight, NFDG, Valor Capital, AMP Coalition, and Smash Capital, also joined the round. New investors for the funding included Lightspeed Venture Partners, EvanticCapital, and Bond.\nElevenLabs said that it will disclose some investors later in February, which might be strategic partners. The company has raised over $781 million to date. It said that it will use the funding for research and product development, along with expansion in international markets like India, Japan, Singapore, Brazil, and Mexico. \nThe company’s co-founder, Mati Staniszewski, indicated that ElevenLabs might work on agents beyond voice and incorporate video. In January, the company announced a partnership with LTX to produce audio-to-video content.\n“The intersection of models and products is critical – and our team has proven, time and again, how to translate research into real-world experiences. This funding helps us go beyond voice alone to transform how we interact with technology altogether. We plan to expand our Creative offering – helping creators combine our best-in-class audio with video and Agents – enabling businesses to build agents that can talk, type, and take action,” he said in a statement.\nThe company has seen good growth momentum as it closed the year at $330 million ARR. In an interview with Bloomberg earlier this year, Staniszewski said that it took ElevenLabs five months to reach $200 million to $300 million in ARR.\nVoice AI model providers are an attractive target for investors and big tech companies. In January, rival Deepgram raised $130 million from AVP at a $1.3 billion valuation. Meanwhile, Google hired top talent from voice model company Hume AI, including CEO Alan Cowen.\n\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "ElevenLabs raises $500M from Sequoia at an $11 billion valuation",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?w=150"
-      ],
-      "datePublished": "2026-02-04T15:33:58.000Z",
-      "dateModified": "2026-02-04T15:33:58.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Hackers publish personal information stolen during Harvard, UPenn data breaches",
-    "url": "https://techcrunch.com/2026/02/04/hackers-publish-personal-information-stolen-during-harvard-upenn-data-breaches/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/harvard-university-campus-2025.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-02-04T17:56:37.000Z",
-    "description": "\nA notorious hacking group has claimed responsibility for last year’s data breaches at Harvard University and the University of Pennsylvania (UPenn) a",
-    "body": "\nA notorious hacking group has claimed responsibility for last year’s data breaches at Harvard University and the University of Pennsylvania (UPenn) and published the data that they claim to have stolen from the two schools. \nOn Wednesday, the group known as ShinyHunters published what it claims are more than 1 million records from each university on the group’s dedicated leak site, which the gang uses to extort its victims.\nIn November, UPenn confirmed a data breach of “a select group of information systems related to Penn’s development and alumni activities.” At the time, the hackers also sent alumni emails announcing the hack from official university addresses. \nThe university blamed the breach on social engineering, an attack that often relies on hackers impersonating someone and tricking them into doing something they would not normally do. In its official breach disclosure web page, which has since been taken offline, UPenn did not say exactly what type of data the hackers stole, simply saying the cybercriminals accessed “systems related to Penn’s development and alumni activities.”\n\n\t\t\tContact Us\n\t\t\tDo you have more information about these breaches, or similar attacks? From a non-work device, you can contact Lorenzo Franceschi-Bicchierai securely on Signal at +1 917 257 1382, or via Telegram, Keybase and Wire @lorenzofb, or email.\t\t\nTechCrunch verified a portion of the dataset by confirming with alumni and public records, such as matching the data against student ID numbers.\nLater in November, Harvard University also confirmed a breach on its alumni systems, blaming it on a voice phishing attack, meaning an attack where hackers tricked the targets into clicking on a link or opening an attachment with a voice call. \nHarvard said that the stolen data included email addresses, phone numbers, home and business addresses, event attendance, details of donations to the university, and other biographical information relating to the university’s fundraising and alumni engagement activities.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 23, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThe data published by ShinyHunters, which TechCrunch has seen, appears to match the type of information that both universities said was stolen last year. \nThe hackers said they published the stolen data because the universities refused to pay a ransom to stop them from doing so. Cybercriminals like ShinyHunters often try to extort their victims asking for payment in exchange for not publishing the data they stole, and if the victims refuse payment, they then release the data online. \nDuring the UPenn breach, the hackers made it seem like they had political motives, in particular they expressed discontent with affirmative action policies. “We hire and admit morons because we love legacies, donors, and unqualified affirmative action admits,” the hackers wrote in the email sent to alumni. \nShinyHunters is not known to have political motives. The hackers did not respond to a question asking why they included that language in the email. \nPenn spokesperson Ron Ozio told TechCrunch that the university is “analyzing the data and will notify any individuals if required by applicable privacy regulations.”\nHarvard did not respond to a request for comment.\n\n\n\t\tLorenzo Franceschi-Bicchierai is a Senior Writer at TechCrunch, where he covers hacking, cybersecurity, surveillance, and privacy. \nYou can contact or verify outreach from Lorenzo by emailing lorenzo@techcrunch.com, via encrypted message at +1 917 257 1382 on Signal, and @lorenzofb on Keybase/Telegram.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Hackers publish personal information stolen during Harvard, UPenn data breaches",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/02/harvard-university-campus-2025.jpg?w=150"
-      ],
-      "datePublished": "2026-02-04T17:56:37.000Z",
-      "dateModified": "2026-02-04T17:56:37.000Z",
       "author": [
         {
           "@type": "Person",
@@ -350,22 +325,47 @@
     }
   },
   {
-    "title": "Sam Altman got exceptionally testy over Claude Super Bowl ads",
-    "url": "https://techcrunch.com/2026/02/04/sam-altman-got-exceptionally-testy-over-claude-super-bowl-ads/",
-    "image": "https://techcrunch.com/wp-content/uploads/2019/10/Sam-Altman-OpenAI-DSC02881.jpg?w=150",
+    "title": "Tinder looks to AI to help fight ‘swipe fatigue’ and dating app burnout",
+    "url": "https://techcrunch.com/2026/02/04/tinder-looks-to-ai-to-help-fight-swipe-fatigue-and-dating-app-burnout/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2197117084.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-02-05T00:45:11.000Z",
-    "description": "\nAnthropic’s Super Bowl commercial, one of four ads the AI lab dropped on Wednesday, begins with the word “BETRAYAL” splashed boldly across the screen",
-    "body": "\nAnthropic’s Super Bowl commercial, one of four ads the AI lab dropped on Wednesday, begins with the word “BETRAYAL” splashed boldly across the screen. The camera pans to a man earnestly asking a chatbot (obviously intended to depict ChatGPT) for advice on how to talk to his mom.\nThe bot, portrayed by a blonde woman, offers some classic bits of advice. Start by listening. Try a nature walk! And then twists into an ad for a fictitious (we hope!) cougar-dating site called Golden Encounters. Anthropic finishes the spot by saying that while ads are coming to AI, they won’t be coming to its own chatbot, Claude.\nAnother commercial features a slight young man looking for advice on building a six pack. After offering his height, age, and weight, the bot serves him an ad for height-boosting insoles.\nThe Anthropic commercials are cleverly aimed at OpenAI’s users, after that company’s recent announcement that ads will be coming to ChatGPT’s free tier. And they caused an immediate stir, spawning headlines that Anthropic “mocks,” “skewers,” and “dunks on” OpenAI.\nThey are funny enough that even Sam Altman admitted on X that he laughed at them. But he clearly didn’t really find them funny. They inspired him to write a novella-sized rant that devolved into calling his rival “dishonest” and “authoritarian.”\n\nFirst, the good part of the Anthropic ads: they are funny, and I laughed.But I wonder why Anthropic would go for something so clearly dishonest. Our most important principle for ads says that we won’t do exactly this; we would obviously never run ads in the way Anthropic…— Sam Altman (@sama) February 4, 2026\n\nIn that post, Altman explains that an ad-supported tier is intended to shoulder the burden of offering free ChatGPT to many of its millions of users. ChatGPT is still the most popular chatbot by a large margin.\nBut the OpenAI CEO insisted the ads were “dishonest” in implying that ChatGPT will twist a conversation to insert an ad (and possibly for an off-color product, to boot).”We would obviously never run ads in the way Anthropic depicts them,” Altman wrote in the social media post. “We are not stupid and we know our users would reject that.”\n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 23, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nIndeed, OpenAI has promised ads will be separate, labeled, and will never influence a chat. But the company has also said it is planning on making them conversation-specific — which is the central allegation of Anthropic’s ads. As OpenAI explained on its blog, “We plan to test ads at the bottom of answers in ChatGPT when there’s a relevant sponsored product or service based on your current conversation.”\nAltman then went on to fling some equally questionable assertions at his rival. “Anthropic serves an expensive product to rich people,” he wrote. “We also feel strongly that we need to bring AI to billions of people who can’t pay for subscriptions.”\nBut Claude has a free chat tier, too, with subscriptions at $0, $17, $100, and $200. ChatGPT’s tiers are $0, $8, $20, and $200. One could argue the subscription tiers are fairly equivalent.\nAltman also alleged in his post that “Anthropic wants to control what people do with AI.” He argues it blocks usage of Claude Code from “companies they don’t like,” like OpenAI, and said Anthropic tells people what they can and can’t use AI for.\nTrue, Anthropic’s whole marketing deal since day one has been “responsible AI.” The company was founded by two former OpenAI alums, after all, who claimed they grew alarmed about AI safety when they worked there.\nStill, both chatbot companies have usage policies, AI guardrails, and talk about AI safety. And while OpenAI allows ChatGPT to be used for erotica while Anthropic does not, OpenAI, like Anthropic, has determined that some content should be blocked, particularly in regards to mental health.\nYet Altman took this Anthropic-tells-you-what-to-do argument to an extreme level when he accused Anthropic of being “authoritarian.”\n“One authoritarian company won’t get us there on their own, to say nothing of the other obvious risks. It is a dark path,” he wrote.\nUsing “authoritarian” in a rant over a cheeky Super Bowl ad is misplaced, at best. It’s particularly tactless when considering the current geopolitical environment in which protesters around the world have been killed by agents of their own government. While business rivals have been duking it out in ads since the beginning of time, clearly Anthropic hit a nerve.\n\n\n\n",
+    "date": "2026-02-04T18:08:00.000Z",
+    "description": "\nTinder is turning to a new AI-powered feature, Chemistry, to help it reduce so-called “swipe fatigue,” a growing problem among online dating users wh",
+    "body": "\nTinder is turning to a new AI-powered feature, Chemistry, to help it reduce so-called “swipe fatigue,” a growing problem among online dating users who are feeling burned out and are in search of better outcomes.\nIntroduced last quarter, the Match-owned dating app said that Chemistry leverages AI to get to know users through questions and, with permission, accesses their Camera Roll on their phone to learn more about their interests and personality.\nOn Match’s Q4 2026 earnings call, one analyst from Morgan Stanley asked for an update on the product’s success so far.\nMatch CEO Spencer Rascoff noted that Chemistry was still only being tested in Australia for the time being, but said that the feature offered users an “AI way to interact with Tinder.” He explained that users could choose to answer questions to then “get just a single drop or two, rather than swiping through many, many profiles.” \nIn addition to Chemistry’s Q&A and Camera Roll features, the company plans to use the AI feature in other ways going forward, the CEO also hinted.  \nMost importantly, Rascoff said the feature is designed to combat swipe fatigue — a complaint from users who say they have to swipe through too many profiles to find a potential match. \nThe company’s turn toward AI comes as Tinder and other dating apps have been experiencing paying subscriber declines, user burnout, and declines in new sign-ups.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 23, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nIn the fourth quarter, new registrations on Tinder were still down 5% year-over-year, and its monthly active users were down 9%. These numbers show some slight improvements over prior quarters, which Match attributes to AI-driven recommendations that change the order of profiles shown to women, and other product experiments.\nMatch said that this year, it aims to address common Gen Z pain points, including better relevance, authenticity, and trust. To do so, the company said it is redesigning discovery to make it less repetitive and is using other features, like Face Check — a facial recognition verification system — to cut down on bad actors. On Tinder, the latter led to a more than 50% reduction in interactions with bad actors, Match noted.\nTinder’s decision to start moving away from the swipe toward more targeted, AI-powered recommendations could have a significant impact on the dating app. Today, the swipe method, which was popularized by Tinder, encourages users to think that they’re choosing a match from an endless number of profiles. But in reality, the app presents the illusion of choice, since matches have to be two-way to connect, and even then, a spark is not guaranteed.\nThe company delivered an earnings beat in the fourth quarter, with revenue of $878 million and EPS of 83 cents per share, above Wall Street estimates. But weak guidance saw the stock decline on Tuesday, before rising again in premarket trading on Wednesday.\nBeyond AI, Match will also increase its product marketing to help boost Tinder engagement. The company is committing to $50 million in Tinder marketing spend, which will include creator campaigns on TikTok and Instagram, where users will make claims that “Tinder is cool again,” Rascoff noted. \n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Sam Altman got exceptionally testy over Claude Super Bowl ads",
+      "headline": "Tinder looks to AI to help fight ‘swipe fatigue’ and dating app burnout",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2019/10/Sam-Altman-OpenAI-DSC02881.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2197117084.jpg?w=150"
       ],
-      "datePublished": "2026-02-05T00:45:11.000Z",
-      "dateModified": "2026-02-05T00:45:11.000Z",
+      "datePublished": "2026-02-04T18:08:00.000Z",
+      "dateModified": "2026-02-04T18:08:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Lunar Energy raises $232M to deploy home batteries that prop up the grid",
+    "url": "https://techcrunch.com/2026/02/04/lunar-energy-raises-232m-to-deploy-home-batteries-that-prop-up-the-grid/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Lunar-System_KM-1.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-02-04T17:56:40.000Z",
+    "description": "\nForget EVs — stationary batteries are getting all the buzz, and investment, in the U.S. these days.\nStartup Lunar Energy is the latest example. The s",
+    "body": "\nForget EVs — stationary batteries are getting all the buzz, and investment, in the U.S. these days.\nStartup Lunar Energy is the latest example. The six-year-old company, which builds battery packs for homeowners in California, Georgia, and Washington, said Wednesday it has completed two large funding rounds. The startup shared it raised a previously unannounced $130 million Series C and a $102 million Series D. The Series C was led by Activate Capital, while the Series D was led by B Capital and Prelude Ventures.\nThe startup plans to use the funds to scale manufacturing to 20,000 units by the end of this year before ramping up to 100,000 by the end of 2028. In total, Lunar has raised more than $500 million from investors.\nStationary storage has become a bright spot for battery manufacturers that have been subject to policy whiplash after the Trump administration and GOP-controlled Congress gutted large parts of the Inflation Reduction Act, which had incentivized companies to build batteries in the U.S. to supply the automotive industry.\nAs the grid strains under the weight of an increasingly electrified economy — along with the boom in data center demand — grid-connected batteries have become one of the most versatile ways to boost its resiliency. \nLunar can call on its fleet of batteries, which come in 5 kilowatt-hour modules between 15 kilowatt-hours and 30 kilowatt-hours, to deliver juice to the grid when needed. Its virtual power plant (VPP) software can also control EV chargers and appliances, allowing it to both supply electrons while tamping down demand.\nSuch VPPs are expected to be able to replace costly and polluting peaking power plants in a matter of years.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 23, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nCompetition in the space has been heating up lately. In October, Base Power raised $1 billion, less than six months after raising a $200 million round for its residential battery-based VPP. Tesla operates its own Powerwall-based VPP, too. \nOutside of residential settings, Tesla’s storage business has been growing in leaps and bounds, while former Tesla executive JB Straubel’s startup Redwood Materials has launched its own energy storage division. Even Ford wants in on the action. \nBatteries have transformed from bit players just five years ago to major assets on the grid. Their modularity makes them quick to build and easy to deploy, and while they’re still costly relative to some fossil fuel power sources, prices have been dropping quickly. No wonder investors are piling in.\n\n\n\t\tTim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor. \r\nDe Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.\r\nYou can contact or verify outreach from Tim by emailing tim.dechant@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Lunar Energy raises $232M to deploy home batteries that prop up the grid",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/02/Lunar-System_KM-1.jpg?w=150"
+      ],
+      "datePublished": "2026-02-04T17:56:40.000Z",
+      "dateModified": "2026-02-04T17:56:40.000Z",
       "author": [
         {
           "@type": "Person",
