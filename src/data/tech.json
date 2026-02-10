@@ -1,30 +1,5 @@
 [
   {
-    "title": "Waymo is testing driverless robotaxis in Nashville",
-    "url": "https://techcrunch.com/2026/02/09/waymo-is-testing-driverless-robotaxis-in-nashville/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/waymo-getty-streets.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-02-09T22:59:55.000Z",
-    "description": "\nIn Brief\nPosted:\n2:59 PM PST · February 9, 2026\n\nImage Credits:Brandon Bell / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nWaymo has pulle",
-    "body": "\nIn Brief\nPosted:\n2:59 PM PST · February 9, 2026\n\nImage Credits:Brandon Bell / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nWaymo has pulled the human safety driver from its autonomous test vehicles in Nashville, as the Alphabet-owned company moves closer to launching a robotaxi service in the city.\nWaymo, which has been testing in Nashville for months, is slated to launch a robotaxi service there this year in partnership with Lyft. Riders will initially hail rides directly through the Waymo app. Once the service expands, Waymo will also make its self-driving vehicles available through the Lyft app. Lyft has said it will handle fleet services, such as vehicle readiness and maintenance, charging infrastructure, and depot operations, through its wholly owned subsidiary Flexdrive.\nWaymo has accelerated its robotaxi expansion and today operates commercial services in Atlanta, Austin, Los Angeles, Miami, the San Francisco Bay Area, and Phoenix. It also has driverless test fleets in Dallas, Houston, San Antonio, and Orlando.\nThe company tends to follow the same rollout strategy in every new market, starting with a small fleet of vehicles that are manually driven to map the city. The autonomous vehicles are then tested with a human safety operator in the driver’s seat. Eventually, the company conducts driverless testing, often allowing employees to hail rides, before launching a robotaxi service. \n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Transportation\n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Waymo is testing driverless robotaxis in Nashville",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/02/waymo-getty-streets.jpg?w=150"
-      ],
-      "datePublished": "2026-02-09T22:59:55.000Z",
-      "dateModified": "2026-02-09T22:59:55.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Harvey reportedly raising at $11B valuation just months after it hit $8B",
     "url": "https://techcrunch.com/2026/02/09/harvey-reportedly-raising-at-11b-valuation-just-months-after-it-hit-8b/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/11/Screenshot-2025-11-14-at-11.50.31-AM.png?w=150",
@@ -100,22 +75,97 @@
     }
   },
   {
-    "title": "Databricks CEO says SaaS isn’t dead, but AI will soon make it irrelevant",
-    "url": "https://techcrunch.com/2026/02/09/databricks-ceo-says-saas-isnt-dead-but-ai-will-soon-make-it-irrelevant/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/01/Databricks_042221_Ali_Ghodsi_236.jpg?w=150",
+    "title": "Waymo is testing driverless robotaxis in Nashville",
+    "url": "https://techcrunch.com/2026/02/09/waymo-is-testing-driverless-robotaxis-in-nashville/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/waymo-getty-streets.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-02-09T21:14:50.000Z",
-    "description": "\nOn Monday, Databricks announced it reached a $5.4 billion revenue run rate, growing 65% year-over-year, of which more than $1.4 billion was from its ",
-    "body": "\nOn Monday, Databricks announced it reached a $5.4 billion revenue run rate, growing 65% year-over-year, of which more than $1.4 billion was from its AI products. \nCo-founder and CEO Ali Ghodsi wanted to share these growth numbers because there’s so much talk about how AI is going to kill the SaaS business, he told TechCrunch.\n“Everybody’s like, ‘Oh, it’s SaaS. What’s going to happen to all these companies? What’s AI going to do with all these companies?’ For us, it’s just increasing the usage,” he said.\nTo be sure, he also wants to distance Databricks from the SaaS label, given that private markets value it as an AI company. Databricks on Monday also officially closed on its massive, previously announced $5 billion raise at a $134 billion valuation, and nabbed a $2 billion loan facility as well.\nBut the company is straddling both worlds. Databricks is still best known as a cloud data warehouse provider. A data warehouse is where enterprises store massive amounts of data to analyze for business insights.\nGhodsi called out, in particular, one AI product that’s driving usage of its data warehouse: its LLM user interface named Genie.\nGenie is an example of how a SaaS business can replace its user interface with natural language. For instance, he uses it to ask why warehouse usage and revenue spike on particular days.\nJust a few years ago, such a request required writing queries in a specific technical language, or having a special report programmed. Today, any product with an LLM interface can be used by anyone, Ghodsi noted. Genie is one reason for the company’s usage growth numbers, he said.\nThe threat of AI to SaaS isn’t, as one AI VC jokingly tweeted, that enterprises will rip out their SaaS “systems of record” to replace them with vibe-coded homegrown versions. Systems of record store critical business data, whether it’s on sales, customer support, or finance.\n“Why would you move your system of record? You know, it’s hard to move it,” Ghodsi said.\nThe model makers aren’t offering databases to store that data and become systems of record anyway. Instead, they hope to replace the user interface with natural language for human use, or APIs or other plug-ins for AI agents.\nSo the threat to SaaS businesses, Ghodsi says, is that people no longer spend their careers becoming masters of a particular product: Salesforce specialists, or ServiceNow, or SAP. Once the interface is just language, the products become invisible, like plumbing.\n“Millions of people around the world got trained on those user interfaces. And so that was the biggest moat that those businesses have,” Ghodsi warned.\nSaaS companies that embrace the new LLM interface could grow, as Databricks is doing. But it also opens up possibilities for AI-native competitors to offer alternatives that work better with AI and agents.\nThat’s why Databricks created its Lakebase database designed for agents. He’s seeing early traction. “In its eight months that we’ve had it in the market, it’s done twice as much revenue as our data warehouse had when it was eight months old. Okay, obviously, that’s like comparing toddlers,” Ghodsi says. “But this is a toddler that’s twice as big.”\nMeanwhile, now that Databricks has closed on its massive funding round, Ghodsi tells us that the company is not immediately working on another raise, nor prepping for an IPO. \n“Now is not a great time to go public,” Ghodsi said. “I just wanted to be really well capitalized” should the markets go “south” again as they did in the 2022 downturn, when interest rates rose sharply after years of near-zero rates. A thick bank account “protects us, gives us many, many years of runway,” he added.\n",
+    "date": "2026-02-09T22:59:55.000Z",
+    "description": "\nIn Brief\nPosted:\n2:59 PM PST · February 9, 2026\n\nImage Credits:Brandon Bell / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nWaymo has pulle",
+    "body": "\nIn Brief\nPosted:\n2:59 PM PST · February 9, 2026\n\nImage Credits:Brandon Bell / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nWaymo has pulled the human safety driver from its autonomous test vehicles in Nashville, as the Alphabet-owned company moves closer to launching a robotaxi service in the city.\nWaymo, which has been testing in Nashville for months, is slated to launch a robotaxi service there this year in partnership with Lyft. Riders will initially hail rides directly through the Waymo app. Once the service expands, Waymo will also make its self-driving vehicles available through the Lyft app. Lyft has said it will handle fleet services, such as vehicle readiness and maintenance, charging infrastructure, and depot operations, through its wholly owned subsidiary Flexdrive.\nWaymo has accelerated its robotaxi expansion and today operates commercial services in Atlanta, Austin, Los Angeles, Miami, the San Francisco Bay Area, and Phoenix. It also has driverless test fleets in Dallas, Houston, San Antonio, and Orlando.\nThe company tends to follow the same rollout strategy in every new market, starting with a small fleet of vehicles that are manually driven to map the city. The autonomous vehicles are then tested with a human safety operator in the driver’s seat. Eventually, the company conducts driverless testing, often allowing employees to hail rides, before launching a robotaxi service. \n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Transportation\n\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Databricks CEO says SaaS isn’t dead, but AI will soon make it irrelevant",
+      "headline": "Waymo is testing driverless robotaxis in Nashville",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/01/Databricks_042221_Ali_Ghodsi_236.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/02/waymo-getty-streets.jpg?w=150"
       ],
-      "datePublished": "2026-02-09T21:14:50.000Z",
-      "dateModified": "2026-02-09T21:14:50.000Z",
+      "datePublished": "2026-02-09T22:59:55.000Z",
+      "dateModified": "2026-02-09T22:59:55.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "MrBeast’s company buys Gen Z-focused fintech app Step",
+    "url": "https://techcrunch.com/2026/02/09/mrbeasts-company-buys-gen-z-focused-fintech-app-step/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Screenshot-2025-12-03-at-4.07.49-PM.png?w=150",
+    "tag": "Tech",
+    "date": "2026-02-09T21:26:11.000Z",
+    "description": "\nYouTube megastar MrBeast announced on Monday that his company, Beast Industries, is buying Step, a teen-focused banking app.\nStep, which raised half ",
+    "body": "\nYouTube megastar MrBeast announced on Monday that his company, Beast Industries, is buying Step, a teen-focused banking app.\nStep, which raised half a billion in funding and has grown to over 7 million users, offers financial services geared toward Gen Z to help them build credit, save money, and invest. The company has attracted celebrity investors like Charli D’Amelio, Will Smith, The Chainsmokers, and Stephen Curry, in addition to venture firms like General Catalyst, Coatue, and the payments company Stripe.\nIf the company wants to continue getting its fintech product in front of young eyes, then partnering with Gen Z phenom MrBeast is wise. MrBeast, whose real name is Jimmy Donaldson, is the most-subscribed creator on YouTube, with over 466 million subscribers, but his ambitions stretch beyond his over-the-top videos.\n“Nobody taught me about investing, building credit, or managing money when I was growing up,” the 27-year-old said. “I want to give millions of young people the financial foundation I never had.”\n\nI'm so excited to share that we are acquiring the financial services app, @stepNobody taught me about investing, building credit, or managing money when I was growing up. That's exactly why we’re joining forces with Step! I want to give millions of young people the financial…— MrBeast (@MrBeast) February 9, 2026\n\nThis acquisition makes sense, considering that a leaked pitch document from last year showed this was an area of interest for Beast Industries. The company is also reportedly interested in launching a mobile virtual network operator (MVNO), a lower-cost cell phone plan similar to Ryan Reynolds’ Mint Mobile.\nIn line with other top creators, Beast Industries’ business is much more than YouTube ad revenue. (In fact, the company reinvests much of that money back into the content.) The company’s cash cow is the chocolate brand Feastables, which is more profitable than both the MrBeast YouTube channel and the Prime Video show “Beast Games,” according to leaked documents reported on by Bloomberg. Some of his other ventures, like Lunchly and MrBeast Burger, have struggled.\n“We’re excited about how this acquisition is going to amplify our platform and bring more groundbreaking products to Step customers,” Step founder and CEO CJ MacDonald said in a statement.\n\n\n\t\tAmanda Silberling is a senior writer at TechCrunch covering the intersection of technology and culture. She has also written for publications like Polygon, MTV, the Kenyon Review, NPR, and Business Insider. She is the co-host of Wow If True, a podcast about internet culture, with science fiction author Isabel J. Kim. Prior to joining TechCrunch, she worked as a grassroots organizer, museum educator, and film festival coordinator. She holds a B.A. in English from the University of Pennsylvania and served as a Princeton in Asia Fellow in Laos.\nYou can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "MrBeast’s company buys Gen Z-focused fintech app Step",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/12/Screenshot-2025-12-03-at-4.07.49-PM.png?w=150"
+      ],
+      "datePublished": "2026-02-09T21:26:11.000Z",
+      "dateModified": "2026-02-09T21:26:11.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Snapchat now lets you inform others when you have arrived at your destination",
+    "url": "https://techcrunch.com/2026/02/09/snapchat-now-lets-you-inform-others-when-you-have-arrived-at-your-destination/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-02-09T17:00:00.000Z",
+    "description": "\n\t\n\t\tImage Credits:KIRILL KUDRYAVTSEV/AFP / Getty Images\t\n\t\n\t\t\t\t\t\t9:00 AM PST · February 9, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nAfter launching a “Home Safe” feature",
+    "body": "\n\t\n\t\tImage Credits:KIRILL KUDRYAVTSEV/AFP / Getty Images\t\n\t\n\t\t\t\t\t\t9:00 AM PST · February 9, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nAfter launching a “Home Safe” feature that lets users notify friends and family when they’ve arrived home safely, Snapchat is now introducing additional alerts to inform others when users have arrived at other destinations.\nThe social media giant announced on Monday that with its new “Arrival Notifications,” users can now set one-time or recurring alerts for locations beyond their home, providing an automatic way to share when they’ve arrived at specific places. \n“Arrival Notifications now work for everyday moments — like letting someone know you’re back for the night while traveling, or automatically sharing when you arrive at a weekly class, practice, or meeting — without needing to remember to send a message,” the company wrote in a blog post.\nImage Credits:Snapchat\nAs with the platform’s Home Safe alerts, Arrival Notifications can only be sent to friends you choose to share your location with. It’s worth noting that location sharing on Snap Map is off by default. No one can see your location or receive an alert unless you choose to share it, Snapchat explained. One-time alerts expire after they’re sent or after 24 hours.\nTo use Arrival Notifications, you need to share your location with a trusted friend that you want to keep in the loop. Then, you need to tap on your friendship profile and scroll down to “Arrival Notifications.” You can pick a location on the map and give it a personal name. For example, you could set the location for your “run club” or the location for “piano lessons.” You can then choose a one-time or recurring alert, after which Snapchat will notify your friend when you arrive.\nThe new feature comes as Snapchat announced last summer that Snap Map now has more than 400 million monthly active users.\nSnap Map, which launched in 2017, was originally a way for users to see their friends’ locations and browse public snaps from around the world. The feature now also offers ways for users to discover local hotspots and find things to do.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 23, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nWith its Home Safe and Arrival Notifications features, Snapchat is looking to further compete with services like the family location-sharing app Life360 and Apple’s “Find My.”\n\n\t\t\t\n\tTopics\n\n\n\n\t\tAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing aisha@techcrunch.com or via encrypted message at aisha_malik.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n\n\t\t",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Snapchat now lets you inform others when you have arrived at your destination",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=150"
+      ],
+      "datePublished": "2026-02-09T17:00:00.000Z",
+      "dateModified": "2026-02-09T17:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Anthropic’s India expansion collides with a local company that already had the name",
+    "url": "https://techcrunch.com/2026/02/09/anthropics-india-expansion-collides-with-a-local-company-that-already-had-the-name/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/anthropic-image-jagmeet-singh-techcrunch.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-02-09T21:01:41.000Z",
+    "description": "\nAs Anthropic expands into India, a local software company has filed a court complaint saying it was already using the name “Anthropic,” spotlighting ",
+    "body": "\nAs Anthropic expands into India, a local software company has filed a court complaint saying it was already using the name “Anthropic,” spotlighting how the rapid global push of AI firms can collide with local incumbents.\nThe filing comes amid Anthropic deepening its focus on India, announcing an India office last October and more recently appointing former Microsoft India managing director Irina Ghose to lead its operations in the country, underscoring the South Asian market’s growing importance to global AI companies expanding beyond the U.S. and Europe.\nIn a complaint filed in a commercial court in Karnataka in January, reviewed by TechCrunch, the Indian company Anthropic Software says it has used the name since 2017 and that Anthropic’s recent entry into India has led to customer confusion. The firm is seeking recognition of its prior use and relief to prevent further confusion, along with ₹10 million (about $110,000) in damages.\nAnthropic Software founder and director Mohammad Ayyaz Mulla told TechCrunch that the Indian company was not seeking confrontation, but clarity and recognition of its prior use in India, adding that litigation was a fallback if clean coexistence could not be achieved.\n“As of now, I am exercising my legal right as it’s causing huge confusion to my customers,” he said.\nIndia, the world’s most populous nation and one of the fastest-growing internet markets, has become a key battleground for AI companies like Anthropic and its rival OpenAI. The country is also set to host an AI Impact Summit in New Delhi next week, where Anthropic co-founder and chief executive Dario Amodei is appearing alongside other industry leaders like Sam Altman, Jensen Huang, and Sundar Pichai.\nA court order dated January 20 and seen by TechCrunch shows that the court has issued notice and suit summons to Anthropic. However, it declined to grant an interim injunction and listed the matter to return on February 16.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 23, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nAnthropic did not respond to a request for comment.\n\n\n\t\tJagmeet covers startups, tech policy-related updates, and all other major tech-centric developments from India for TechCrunch. He previously worked as a principal correspondent at NDTV. \r\nYou can contact or verify outreach from Jagmeet by emailing mail@journalistjagmeet.com.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Anthropic’s India expansion collides with a local company that already had the name",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/01/anthropic-image-jagmeet-singh-techcrunch.jpg?w=150"
+      ],
+      "datePublished": "2026-02-09T21:01:41.000Z",
+      "dateModified": "2026-02-09T21:01:41.000Z",
       "author": [
         {
           "@type": "Person",
@@ -166,131 +216,6 @@
       ],
       "datePublished": "2026-02-09T17:37:23.000Z",
       "dateModified": "2026-02-09T17:37:23.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Lyft opens its ride-hailing app to teens",
-    "url": "https://techcrunch.com/2026/02/09/lyft-opens-its-ride-hailing-app-to-teens/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Lyft-Teen-Available-February-2026.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-02-09T18:05:32.000Z",
-    "description": "\nLyft launched teen accounts on Monday, a product that allows minors as young as 13 to hail a ride without an adult in 200 U.S. cities, including Atla",
-    "body": "\nLyft launched teen accounts on Monday, a product that allows minors as young as 13 to hail a ride without an adult in 200 U.S. cities, including Atlanta, Boston, Chicago, and New York.\nThe official launch comes two weeks after Lyft CEO David Risher announced on X plans to open the ride-hailing service to teenagers.\nLike its rival Uber, which also offers teen accounts, the new Lyft service comes with a number of guardrails. Only a parent or guardian can create a teen account, according to Lyft. Drivers who are matched with these underage passengers must meet additional criteria and pass yearly background checks. Teens can also bring guests along for the ride, as long as the parent has given permission, according to Lyft.\nLyft has also baked in features like PIN verification, audio recording, and real-time tracking to allow parents to see where their teen is during their ride. Parents who want to sign up their teen can go to the app, select their profile at the bottom right of the screen, then tap “Lyft Teen.” From here, parents can enter the teen’s contact info and add a shared payment method to cover teen rides. Once confirmed, the teen will receive a text message with a unique sign-up link.\nLyft is playing catch-up with Uber and even Waymo, which offers teen accounts in its robotaxi service area in Phoenix. Uber tested teen accounts as early as 2017 but didn’t roll out a commercial product until spring 2024 in more than a dozen cities in the U.S. and Canada. Uber has since added numerous other U.S. markets, as well as dozens of other countries. Last year, Uber started testing out teen accounts in several cities in India, as well.\nLyft’s new teen account is one of numerous new products and expansions that Risher has introduced at the company since he took the CEO spot. Lyft has made a handful of autonomous vehicle partnerships, including with May Mobility, Austrian manufacturer Benteler, and Holon, Tensor Auto, and autonomy provider Mobileye.\nThe company has also pushed into Europe with its $197 million acquisition of German multi-mobility app Freenow from BMW and Mercedes-Benz Mobility. The acquisition opened up the European market to Lyft for the first time.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 23, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n\n\n\t\tKirsten Korosec is a reporter and editor who has covered the future of transportation from EVs and autonomous vehicles to urban air mobility and in-car tech for more than a decade. She is currently the transportation editor at TechCrunch and co-host of TechCrunch’s Equity podcast. She is also co-founder and co-host of the podcast, “The Autonocast.” She previously wrote for Fortune, The Verge, Bloomberg, MIT Technology Review and CBS Interactive.\nYou can contact or verify outreach from Kirsten by emailing kirsten.korosec@techcrunch.com or via encrypted message at kkorosec.07 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Lyft opens its ride-hailing app to teens",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/02/Lyft-Teen-Available-February-2026.jpg?w=150"
-      ],
-      "datePublished": "2026-02-09T18:05:32.000Z",
-      "dateModified": "2026-02-09T18:05:32.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Anthropic’s India expansion collides with a local company that already had the name",
-    "url": "https://techcrunch.com/2026/02/09/anthropics-india-expansion-collides-with-a-local-company-that-already-had-the-name/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/anthropic-image-jagmeet-singh-techcrunch.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-02-09T21:01:41.000Z",
-    "description": "\nAs Anthropic expands into India, a local software company has filed a court complaint saying it was already using the name “Anthropic,” spotlighting ",
-    "body": "\nAs Anthropic expands into India, a local software company has filed a court complaint saying it was already using the name “Anthropic,” spotlighting how the rapid global push of AI firms can collide with local incumbents.\nThe filing comes amid Anthropic deepening its focus on India, announcing an India office last October and more recently appointing former Microsoft India managing director Irina Ghose to lead its operations in the country, underscoring the South Asian market’s growing importance to global AI companies expanding beyond the U.S. and Europe.\nIn a complaint filed in a commercial court in Karnataka in January, reviewed by TechCrunch, the Indian company Anthropic Software says it has used the name since 2017 and that Anthropic’s recent entry into India has led to customer confusion. The firm is seeking recognition of its prior use and relief to prevent further confusion, along with ₹10 million (about $110,000) in damages.\nAnthropic Software founder and director Mohammad Ayyaz Mulla told TechCrunch that the Indian company was not seeking confrontation, but clarity and recognition of its prior use in India, adding that litigation was a fallback if clean coexistence could not be achieved.\n“As of now, I am exercising my legal right as it’s causing huge confusion to my customers,” he said.\nIndia, the world’s most populous nation and one of the fastest-growing internet markets, has become a key battleground for AI companies like Anthropic and its rival OpenAI. The country is also set to host an AI Impact Summit in New Delhi next week, where Anthropic co-founder and chief executive Dario Amodei is appearing alongside other industry leaders like Sam Altman, Jensen Huang, and Sundar Pichai.\nA court order dated January 20 and seen by TechCrunch shows that the court has issued notice and suit summons to Anthropic. However, it declined to grant an interim injunction and listed the matter to return on February 16.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 23, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nAnthropic did not respond to a request for comment.\n\n\n\t\tJagmeet covers startups, tech policy-related updates, and all other major tech-centric developments from India for TechCrunch. He previously worked as a principal correspondent at NDTV. \r\nYou can contact or verify outreach from Jagmeet by emailing mail@journalistjagmeet.com.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Anthropic’s India expansion collides with a local company that already had the name",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/01/anthropic-image-jagmeet-singh-techcrunch.jpg?w=150"
-      ],
-      "datePublished": "2026-02-09T21:01:41.000Z",
-      "dateModified": "2026-02-09T21:01:41.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Snapchat now lets you inform others when you have arrived at your destination",
-    "url": "https://techcrunch.com/2026/02/09/snapchat-now-lets-you-inform-others-when-you-have-arrived-at-your-destination/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-02-09T17:00:00.000Z",
-    "description": "\n\t\n\t\tImage Credits:KIRILL KUDRYAVTSEV/AFP / Getty Images\t\n\t\n\t\t\t\t\t\t9:00 AM PST · February 9, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nAfter launching a “Home Safe” feature",
-    "body": "\n\t\n\t\tImage Credits:KIRILL KUDRYAVTSEV/AFP / Getty Images\t\n\t\n\t\t\t\t\t\t9:00 AM PST · February 9, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nAfter launching a “Home Safe” feature that lets users notify friends and family when they’ve arrived home safely, Snapchat is now introducing additional alerts to inform others when users have arrived at other destinations.\nThe social media giant announced on Monday that with its new “Arrival Notifications,” users can now set one-time or recurring alerts for locations beyond their home, providing an automatic way to share when they’ve arrived at specific places. \n“Arrival Notifications now work for everyday moments — like letting someone know you’re back for the night while traveling, or automatically sharing when you arrive at a weekly class, practice, or meeting — without needing to remember to send a message,” the company wrote in a blog post.\nImage Credits:Snapchat\nAs with the platform’s Home Safe alerts, Arrival Notifications can only be sent to friends you choose to share your location with. It’s worth noting that location sharing on Snap Map is off by default. No one can see your location or receive an alert unless you choose to share it, Snapchat explained. One-time alerts expire after they’re sent or after 24 hours.\nTo use Arrival Notifications, you need to share your location with a trusted friend that you want to keep in the loop. Then, you need to tap on your friendship profile and scroll down to “Arrival Notifications.” You can pick a location on the map and give it a personal name. For example, you could set the location for your “run club” or the location for “piano lessons.” You can then choose a one-time or recurring alert, after which Snapchat will notify your friend when you arrive.\nThe new feature comes as Snapchat announced last summer that Snap Map now has more than 400 million monthly active users.\nSnap Map, which launched in 2017, was originally a way for users to see their friends’ locations and browse public snaps from around the world. The feature now also offers ways for users to discover local hotspots and find things to do.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 23, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nWith its Home Safe and Arrival Notifications features, Snapchat is looking to further compete with services like the family location-sharing app Life360 and Apple’s “Find My.”\n\n\t\t\t\n\tTopics\n\n\n\n\t\tAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing aisha@techcrunch.com or via encrypted message at aisha_malik.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n\n\t\t",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Snapchat now lets you inform others when you have arrived at your destination",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=150"
-      ],
-      "datePublished": "2026-02-09T17:00:00.000Z",
-      "dateModified": "2026-02-09T17:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "YouTube TV introduces cheaper bundles, including a $65/month sports package",
-    "url": "https://techcrunch.com/2026/02/09/youtube-tv-introduces-cheaper-bundles-including-a-65-month-sports-package/",
-    "image": "https://techcrunch.com/wp-content/uploads/2020/06/youtube-tv.png?w=150",
-    "tag": "Tech",
-    "date": "2026-02-09T15:47:08.000Z",
-    "description": "\nYouTube on Monday introduced lower-priced YouTube TV plans that will allow subscribers to better tailor their plans to their own interests in areas l",
-    "body": "\nYouTube on Monday introduced lower-priced YouTube TV plans that will allow subscribers to better tailor their plans to their own interests in areas like sports, news, and entertainment. The company said that it will offer more than 10 different plans to choose from, all priced below the $82.99 per month main YouTube TV plan that has access to more than 100 networks. The new plans will start rolling out this week.\nWhile that main plan will not go away, the new plans will allow customers to pick what matters most and what they could do without in return for cost savings. \nImage Credits:YouTube\nAmong the new plans are a $64.99 per month Sports plan, a Sports + News plan for $71.99 per month, a less expensive Entertainment plan for $54.99 per month, and a $69.99 per month News + Entertainment + Family plan, which includes kids’ content.\nThe Sports plans include all major broadcasters, plus networks like FS1, NBC Sports Network, all of the ESPN networks, and ESPN Unlimited. This plan is $18 cheaper per month than the main plan.\nYouTube TV’s news channels include CNBC, Fox News, CNN, MS NOW, and Bloomberg, along with other national news channels. Combined with Sports, the package is priced $11 lower per month than the main YouTube TV plan.\nThe entertainment-only plan is $28 cheaper per month than the main plan, and includes major broadcasters as well as FX, Hallmark, Comedy Central, Bravo, Paramount, Food Network, and HGTV. Families with small kids can add other channels like Disney Channel, Nickelodeon, National Geographic, Cartoon Network, and PBS Kids for a bit more.\nThe company is also offering discounts for new subscribers, which could lower the price of certain plans further for either the first few months or the first year. Subscribers will continue to have access to YouTube TV’s unlimited DVR, support for up to six family members on one account, multiview, and more.\nOther add-ons like NFL Sunday Ticket + RedZone, HBO Max, and 4K Plus can also be purchased to customize plans further.\nThe company says all the new plans will roll out over the next several weeks. \nCustomized packages are now not a new idea in streaming — à la carte options were a key part of the early streaming pioneer Sling TV’s initial offering, for instance. This element of personalization was also one of the factors that was meant to make streaming a better alternative to traditional pay TV, where consumers often ended up paying for channels they didn’t want.\nBut as streamers added more content, networks, and, in particular, sports programming, the cost of streaming inched back up to compete with cable and linear television. Live TV streamers like YouTube TV may have offered convenience and some savings over still more expensive cable, but it wasn’t exactly affordable anymore.\nThese new packages hit the market at a time when consumer confidence is at its lowest in more than 11 years, due to fears about the labor market and higher prices, which have made consumers more cautious about their spending.\n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "YouTube TV introduces cheaper bundles, including a $65/month sports package",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2020/06/youtube-tv.png?w=150"
-      ],
-      "datePublished": "2026-02-09T15:47:08.000Z",
-      "dateModified": "2026-02-09T15:47:08.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "MrBeast’s company buys Gen Z-focused fintech app Step",
-    "url": "https://techcrunch.com/2026/02/09/mrbeasts-company-buys-gen-z-focused-fintech-app-step/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Screenshot-2025-12-03-at-4.07.49-PM.png?w=150",
-    "tag": "Tech",
-    "date": "2026-02-09T21:26:11.000Z",
-    "description": "\nYouTube megastar MrBeast announced on Monday that his company, Beast Industries, is buying Step, a teen-focused banking app.\nStep, which raised half ",
-    "body": "\nYouTube megastar MrBeast announced on Monday that his company, Beast Industries, is buying Step, a teen-focused banking app.\nStep, which raised half a billion in funding and has grown to over 7 million users, offers financial services geared toward Gen Z to help them build credit, save money, and invest. The company has attracted celebrity investors like Charli D’Amelio, Will Smith, The Chainsmokers, and Stephen Curry, in addition to venture firms like General Catalyst, Coatue, and the payments company Stripe.\nIf the company wants to continue getting its fintech product in front of young eyes, then partnering with Gen Z phenom MrBeast is wise. MrBeast, whose real name is Jimmy Donaldson, is the most-subscribed creator on YouTube, with over 466 million subscribers, but his ambitions stretch beyond his over-the-top videos.\n“Nobody taught me about investing, building credit, or managing money when I was growing up,” the 27-year-old said. “I want to give millions of young people the financial foundation I never had.”\n\nI'm so excited to share that we are acquiring the financial services app, @stepNobody taught me about investing, building credit, or managing money when I was growing up. That's exactly why we’re joining forces with Step! I want to give millions of young people the financial…— MrBeast (@MrBeast) February 9, 2026\n\nThis acquisition makes sense, considering that a leaked pitch document from last year showed this was an area of interest for Beast Industries. The company is also reportedly interested in launching a mobile virtual network operator (MVNO), a lower-cost cell phone plan similar to Ryan Reynolds’ Mint Mobile.\nIn line with other top creators, Beast Industries’ business is much more than YouTube ad revenue. (In fact, the company reinvests much of that money back into the content.) The company’s cash cow is the chocolate brand Feastables, which is more profitable than both the MrBeast YouTube channel and the Prime Video show “Beast Games,” according to leaked documents reported on by Bloomberg. Some of his other ventures, like Lunchly and MrBeast Burger, have struggled.\n“We’re excited about how this acquisition is going to amplify our platform and bring more groundbreaking products to Step customers,” Step founder and CEO CJ MacDonald said in a statement.\n\n\n\t\tAmanda Silberling is a senior writer at TechCrunch covering the intersection of technology and culture. She has also written for publications like Polygon, MTV, the Kenyon Review, NPR, and Business Insider. She is the co-host of Wow If True, a podcast about internet culture, with science fiction author Isabel J. Kim. Prior to joining TechCrunch, she worked as a grassroots organizer, museum educator, and film festival coordinator. She holds a B.A. in English from the University of Pennsylvania and served as a Princeton in Asia Fellow in Laos.\nYou can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "MrBeast’s company buys Gen Z-focused fintech app Step",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/12/Screenshot-2025-12-03-at-4.07.49-PM.png?w=150"
-      ],
-      "datePublished": "2026-02-09T21:26:11.000Z",
-      "dateModified": "2026-02-09T21:26:11.000Z",
       "author": [
         {
           "@type": "Person",
@@ -366,6 +291,81 @@
       ],
       "datePublished": "2026-02-09T20:15:26.000Z",
       "dateModified": "2026-02-09T20:15:26.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Databricks CEO says SaaS isn’t dead, but AI will soon make it irrelevant",
+    "url": "https://techcrunch.com/2026/02/09/databricks-ceo-says-saas-isnt-dead-but-ai-will-soon-make-it-irrelevant/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/Databricks_042221_Ali_Ghodsi_236.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-02-09T21:14:50.000Z",
+    "description": "\nOn Monday, Databricks announced it reached a $5.4 billion revenue run rate, growing 65% year-over-year, of which more than $1.4 billion was from its ",
+    "body": "\nOn Monday, Databricks announced it reached a $5.4 billion revenue run rate, growing 65% year-over-year, of which more than $1.4 billion was from its AI products. \nCo-founder and CEO Ali Ghodsi wanted to share these growth numbers because there’s so much talk about how AI is going to kill the SaaS business, he told TechCrunch.\n“Everybody’s like, ‘Oh, it’s SaaS. What’s going to happen to all these companies? What’s AI going to do with all these companies?’ For us, it’s just increasing the usage,” he said.\nTo be sure, he also wants to distance Databricks from the SaaS label, given that private markets value it as an AI company. Databricks on Monday also officially closed on its massive, previously announced $5 billion raise at a $134 billion valuation, and nabbed a $2 billion loan facility as well.\nBut the company is straddling both worlds. Databricks is still best known as a cloud data warehouse provider. A data warehouse is where enterprises store massive amounts of data to analyze for business insights.\nGhodsi called out, in particular, one AI product that’s driving usage of its data warehouse: its LLM user interface named Genie.\nGenie is an example of how a SaaS business can replace its user interface with natural language. For instance, he uses it to ask why warehouse usage and revenue spike on particular days.\nJust a few years ago, such a request required writing queries in a specific technical language, or having a special report programmed. Today, any product with an LLM interface can be used by anyone, Ghodsi noted. Genie is one reason for the company’s usage growth numbers, he said.\nThe threat of AI to SaaS isn’t, as one AI VC jokingly tweeted, that enterprises will rip out their SaaS “systems of record” to replace them with vibe-coded homegrown versions. Systems of record store critical business data, whether it’s on sales, customer support, or finance.\n“Why would you move your system of record? You know, it’s hard to move it,” Ghodsi said.\nThe model makers aren’t offering databases to store that data and become systems of record anyway. Instead, they hope to replace the user interface with natural language for human use, or APIs or other plug-ins for AI agents.\nSo the threat to SaaS businesses, Ghodsi says, is that people no longer spend their careers becoming masters of a particular product: Salesforce specialists, or ServiceNow, or SAP. Once the interface is just language, the products become invisible, like plumbing.\n“Millions of people around the world got trained on those user interfaces. And so that was the biggest moat that those businesses have,” Ghodsi warned.\nSaaS companies that embrace the new LLM interface could grow, as Databricks is doing. But it also opens up possibilities for AI-native competitors to offer alternatives that work better with AI and agents.\nThat’s why Databricks created its Lakebase database designed for agents. He’s seeing early traction. “In its eight months that we’ve had it in the market, it’s done twice as much revenue as our data warehouse had when it was eight months old. Okay, obviously, that’s like comparing toddlers,” Ghodsi says. “But this is a toddler that’s twice as big.”\nMeanwhile, now that Databricks has closed on its massive funding round, Ghodsi tells us that the company is not immediately working on another raise, nor prepping for an IPO. \n“Now is not a great time to go public,” Ghodsi said. “I just wanted to be really well capitalized” should the markets go “south” again as they did in the 2022 downturn, when interest rates rose sharply after years of near-zero rates. A thick bank account “protects us, gives us many, many years of runway,” he added.\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Databricks CEO says SaaS isn’t dead, but AI will soon make it irrelevant",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/01/Databricks_042221_Ali_Ghodsi_236.jpg?w=150"
+      ],
+      "datePublished": "2026-02-09T21:14:50.000Z",
+      "dateModified": "2026-02-09T21:14:50.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The first signs of burnout are coming from the people who embrace AI the most",
+    "url": "https://techcrunch.com/2026/02/09/the-first-signs-of-burnout-are-coming-from-the-people-who-embrace-ai-the-most/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1158287360-e1665956231123.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-02-10T06:46:55.000Z",
+    "description": "\nThe most seductive narrative in American work culture right now isn’t that AI will take your job. It’s that AI will save you from it.\nThat’s the vers",
+    "body": "\nThe most seductive narrative in American work culture right now isn’t that AI will take your job. It’s that AI will save you from it.\nThat’s the version the industry has spent the last three years selling to millions of nervous people who are eager to buy it. Yes, some white-collar jobs will disappear. But for most other roles, the argument goes, AI is a force multiplier. You become a more capable, more indispensable lawyer, consultant, writer, coder, financial analyst — and so on. The tools work for you, you work less hard, everybody wins.\nBut a new study published in Harvard Business Review follows that premise to its actual conclusion, and what it finds there isn’t a productivity revolution. It finds companies are at risk of becoming burnout machines.\nAs part of what they describe as “in-progress research,” UC Berkeley researchers spent eight months inside a 200-person tech company watching what happened when workers genuinely embraced AI. What they found across more than 40 “in-depth” interviews was that nobody was pressured at this company. Nobody was told to hit new targets. People just started doing more because the tools made more feel doable. But because they could do these things, work began bleeding into lunch breaks and late evenings. The employees’ to-do lists expanded to fill every hour that AI freed up, and then kept going.\nAs one engineer told them, “You had thought that maybe, oh, because you could be more productive with AI, then you save some time, you can work less. But then really, you don’t work less. You just work the same amount or even more.”\nOver on the tech industry forum Hacker News, one commenter had the same reaction, writing, “I feel this. Since my team has jumped into an AI everything working style, expectations have tripled, stress has tripled and actual productivity has only gone up by maybe 10%. It feels like leadership is putting immense pressure on everyone to prove their investment in AI is worth it and we all feel the pressure to try to show them it is while actually having to work longer hours to do so.”\nIt’s fascinating and also alarming. The argument about AI and work has always stalled on the same question — are the gains real? But too few have stopped to ask what happens when they are.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 23, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThe researchers’ new findings aren’t entirely novel. A separate trial last summer found experienced developers using AI tools took 19% longer on tasks while believing they were 20% faster. Around the same time, a National Bureau of Economic Research study tracking AI adoption across thousands of workplaces found that productivity gains amounted to just 3% in time savings, with no significant impact on earnings or hours worked in any occupation. Both studies have gotten picked apart.\nThis one may be harder to dismiss because it doesn’t challenge the premise that AI can augment what employees can do on their own. It confirms it, then shows where all that augmentation actually leads, which is “fatigue, burnout, and a growing sense that work is harder to step away from, especially as organizational expectations for speed and responsiveness rise,” according to the researchers.\nThe industry bet that helping people do more would be the answer to everything, but it may turn out to be the beginning of a different problem entirely. The research is worth reading, here.\n\n\n\t\tLoizos has been reporting on Silicon Valley since the late ’90s, when she joined the original Red Herring magazine. Previously the Silicon Valley Editor of TechCrunch, she was named Editor in Chief and General Manager of TechCrunch in September 2023. She’s also the founder of StrictlyVC, a daily e-newsletter and lecture series acquired by Yahoo in August 2023 and now operated as a sub brand of TechCrunch.\nYou can contact or verify outreach from Connie by emailing connie@strictlyvc.com or connie@techcrunch.com, or via encrypted message at ConnieLoizos.53 on Signal.\r\n\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "The first signs of burnout are coming from the people who embrace AI the most",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1158287360-e1665956231123.jpg?w=150"
+      ],
+      "datePublished": "2026-02-10T06:46:55.000Z",
+      "dateModified": "2026-02-10T06:46:55.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "YouTube TV introduces cheaper bundles, including a $65/month sports package",
+    "url": "https://techcrunch.com/2026/02/09/youtube-tv-introduces-cheaper-bundles-including-a-65-month-sports-package/",
+    "image": "https://techcrunch.com/wp-content/uploads/2020/06/youtube-tv.png?w=150",
+    "tag": "Tech",
+    "date": "2026-02-09T15:47:08.000Z",
+    "description": "\nYouTube on Monday introduced lower-priced YouTube TV plans that will allow subscribers to better tailor their plans to their own interests in areas l",
+    "body": "\nYouTube on Monday introduced lower-priced YouTube TV plans that will allow subscribers to better tailor their plans to their own interests in areas like sports, news, and entertainment. The company said that it will offer more than 10 different plans to choose from, all priced below the $82.99 per month main YouTube TV plan that has access to more than 100 networks. The new plans will start rolling out this week.\nWhile that main plan will not go away, the new plans will allow customers to pick what matters most and what they could do without in return for cost savings. \nImage Credits:YouTube\nAmong the new plans are a $64.99 per month Sports plan, a Sports + News plan for $71.99 per month, a less expensive Entertainment plan for $54.99 per month, and a $69.99 per month News + Entertainment + Family plan, which includes kids’ content.\nThe Sports plans include all major broadcasters, plus networks like FS1, NBC Sports Network, all of the ESPN networks, and ESPN Unlimited. This plan is $18 cheaper per month than the main plan.\nYouTube TV’s news channels include CNBC, Fox News, CNN, MS NOW, and Bloomberg, along with other national news channels. Combined with Sports, the package is priced $11 lower per month than the main YouTube TV plan.\nThe entertainment-only plan is $28 cheaper per month than the main plan, and includes major broadcasters as well as FX, Hallmark, Comedy Central, Bravo, Paramount, Food Network, and HGTV. Families with small kids can add other channels like Disney Channel, Nickelodeon, National Geographic, Cartoon Network, and PBS Kids for a bit more.\nThe company is also offering discounts for new subscribers, which could lower the price of certain plans further for either the first few months or the first year. Subscribers will continue to have access to YouTube TV’s unlimited DVR, support for up to six family members on one account, multiview, and more.\nOther add-ons like NFL Sunday Ticket + RedZone, HBO Max, and 4K Plus can also be purchased to customize plans further.\nThe company says all the new plans will roll out over the next several weeks. \nCustomized packages are now not a new idea in streaming — à la carte options were a key part of the early streaming pioneer Sling TV’s initial offering, for instance. This element of personalization was also one of the factors that was meant to make streaming a better alternative to traditional pay TV, where consumers often ended up paying for channels they didn’t want.\nBut as streamers added more content, networks, and, in particular, sports programming, the cost of streaming inched back up to compete with cable and linear television. Live TV streamers like YouTube TV may have offered convenience and some savings over still more expensive cable, but it wasn’t exactly affordable anymore.\nThese new packages hit the market at a time when consumer confidence is at its lowest in more than 11 years, due to fears about the labor market and higher prices, which have made consumers more cautious about their spending.\n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "YouTube TV introduces cheaper bundles, including a $65/month sports package",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2020/06/youtube-tv.png?w=150"
+      ],
+      "datePublished": "2026-02-09T15:47:08.000Z",
+      "dateModified": "2026-02-09T15:47:08.000Z",
       "author": [
         {
           "@type": "Person",
