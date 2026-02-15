@@ -1,5 +1,30 @@
 [
   {
+    "title": "Is safety ‘dead’ at xAI?",
+    "url": "https://techcrunch.com/2026/02/14/is-safety-is-dead-at-xai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2207699717.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-02-14T21:55:44.000Z",
+    "description": "\nIn Brief\nPosted:\n1:55 PM PST · February 14, 2026\n\nImage Credits:Klaudia Radecka/NurPhoto / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nEl",
+    "body": "\nIn Brief\nPosted:\n1:55 PM PST · February 14, 2026\n\nImage Credits:Klaudia Radecka/NurPhoto / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nElon Musk is “actively” working to make xAI’s Grok chatbot “more unhinged,” according to a former employee who spoke to The Verge about recent departures from Musk’s AI company.\nThis week, following the announcement that Musk’s SpaceX is acquiring xAI (which previously acquired his social media company X), at least 11 engineers and two co-founders said they’re leaving the company. Some said they’re departing to start something new, and Musk himself suggested this is part of an effort to organize xAI more effectively.\nBut two sources who left the company (at least one of them before the current wave) reportedly told The Verge that employees have become increasingly disillusioned by the company’s disregard for safety, resulting in global scrutiny after Grok was used to create more than 1 million sexualized images, including deepfakes of real women and minors.\nOne source said, “Safety is a dead org at xAI,” while the other said that Musk is “actively is trying to make the model more unhinged because safety means censorship, in a sense, to him.”\nThey also reportedly complained about a lack of direction, with one saying they felt xAI was “stuck in the catch-up phase” compared to competitors.\n\n\n\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in AI\n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Is safety ‘dead’ at xAI?",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2207699717.jpg?w=150"
+      ],
+      "datePublished": "2026-02-14T21:55:44.000Z",
+      "dateModified": "2026-02-14T21:55:44.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "OpenAI removes access to sycophancy-prone GPT-4o model",
     "url": "https://techcrunch.com/2026/02/13/openai-removes-access-to-sycophancy-prone-gpt-4o-model/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=150",
@@ -16,6 +41,31 @@
       ],
       "datePublished": "2026-02-13T18:10:00.000Z",
       "dateModified": "2026-02-13T18:10:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Homeland Security reportedly sent hundreds of subpoenas seeking to unmask anti-ICE accounts",
+    "url": "https://techcrunch.com/2026/02/14/homeland-security-reportedly-sent-hundreds-of-subpoenas-seeking-to-unmask-anti-ice-accounts/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2258756561.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-02-14T22:30:00.000Z",
+    "description": "\nIn Brief\nPosted:\n2:30 PM PST · February 14, 2026\n\nImage Credits:LightRocket / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nThe Department ",
+    "body": "\nIn Brief\nPosted:\n2:30 PM PST · February 14, 2026\n\nImage Credits:LightRocket / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nThe Department of Homeland Security has been increasing pressure on tech companies to identify the owners of social media accounts that criticize Immigration and Customs Enforcement (ICE), according to The New York Times.\nThis echoes other recent reporting, with Bloomberg pointing to five cases in which Homeland Security sought to identify the owners of anonymous Instagram accounts, with the department withdrawing its subpoenas after the owners sued. And a Washington Post story described Homeland Security’s growing use of administrative subpoenas — which do not require the approval of a judge — to target Americans.\nNow the NYT says a practice that was previously used sparingly has become increasingly common in recent months, with the department sending hundreds of these subpoenas to Google, Reddit, Discord, and Meta. The subpoenas reportedly focused on accounts that did not have a real name attached and either criticized ICE or described the location of ICE agents.\nGoogle, Meta, and Reddit have reportedly complied in at least some cases. Echoing past comments, Google said that it informs users of these subpoenas when it can, and that it pushes back when the subpoenas are “overbroad.”\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Government & Policy\n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Homeland Security reportedly sent hundreds of subpoenas seeking to unmask anti-ICE accounts",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2258756561.jpg?w=150"
+      ],
+      "datePublished": "2026-02-14T22:30:00.000Z",
+      "dateModified": "2026-02-14T22:30:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -75,31 +125,6 @@
     }
   },
   {
-    "title": "Roku to launch streaming bundles as part of its efforts to continue growing its profitability",
-    "url": "https://techcrunch.com/2026/02/13/roku-to-launch-streaming-bundles-as-part-of-its-efforts-to-continue-growing-its-profitability/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/04/roku-logo.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-02-13T16:39:27.000Z",
-    "description": "\nRoku shared its fourth-quarter earnings for 2025 this week, as well as some exciting plans in the pipeline. The company is rolling out new streaming ",
-    "body": "\nRoku shared its fourth-quarter earnings for 2025 this week, as well as some exciting plans in the pipeline. The company is rolling out new streaming bundles, expanding its $3 subscription service, Howdy, to more platforms, and partnering with more premium streaming services following the successful addition of HBO Max.\nLaunching bundles in 2026 is a smart move, as it could attract more viewers looking for enticing deals amid rising subscription prices. Many streaming platforms have been increasing their rates recently, and Roku aims to appeal to cost-conscious consumers. The positive impact of HBO Max on Roku’s premium subscriptions has encouraged the company to continue this strategy by adding more top-tier partners, which is likely to drive growth going forward.\nAdditionally, Roku launched its ad-free subscription streaming service, Howdy, last year and plans to expand its availability beyond the Roku platform. While specific details remain undisclosed, Roku CEO Anthony Wood stated at CES last month that the goal is to distribute Howdy widely, saying, “We want to distribute it everywhere.”\nOther highlights include Roku users streaming 145.6 billion hours of video in 2025, marking a 15% increase from 2024. The company is also nearing the milestone of 100 million streaming households, though it has decided to report this figure less frequently.\nFinancially, Roku delivered an impressive quarter, posting net income of $80.5 million, a rebound from a $35.5 million loss in the same period last year. Total revenue for Q4 2025 reached $1.4 billion, representing a 16% year-over-year increase.\nLooking ahead, Roku is optimistic, projecting total net revenue of $5.5 billion and gross profit of $2.4 billion.\n“In 2023, our priority was to rightsize our cost structure and reach adjusted EBITDA breakeven in 2024, and we achieved that goal a full year ahead of schedule,” Wood told investors during the call yesterday afternoon. “Looking ahead to 2026 and beyond, we are confident in our ability to sustain double-digit platform revenue growth while continuing to grow profitability.”\n\n\n\t\tLauren covers media, streaming, apps and platforms at TechCrunch.\nYou can contact or verify outreach from Lauren by emailing laurenf.techcrunch@gmail.com or via encrypted message at laurenforris22.25 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Roku to launch streaming bundles as part of its efforts to continue growing its profitability",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2023/04/roku-logo.jpg?w=150"
-      ],
-      "datePublished": "2026-02-13T16:39:27.000Z",
-      "dateModified": "2026-02-13T16:39:27.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Airbnb plans to bake in AI features for search, discovery and support",
     "url": "https://techcrunch.com/2026/02/13/airbnb-plans-to-bake-in-ai-features-for-search-discovery-and-support/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/08/brian-chesky-GettyImages-2217178973.jpg?w=150",
@@ -116,56 +141,6 @@
       ],
       "datePublished": "2026-02-14T02:40:42.000Z",
       "dateModified": "2026-02-14T02:40:42.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Dutch phone giant Odido says millions of customers affected by data breach",
-    "url": "https://techcrunch.com/2026/02/13/dutch-phone-giant-odido-says-millions-of-customers-affected-by-data-breach/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/odido.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-02-13T15:54:13.000Z",
-    "description": "\nDutch phone company Odido has confirmed a data breach affected millions of its customers.\nThe company said in a statement Thursday that unidentified ",
-    "body": "\nDutch phone company Odido has confirmed a data breach affected millions of its customers.\nThe company said in a statement Thursday that unidentified hackers gained access to its customer contact system and covertly downloaded reams of customer information. A spokesperson for Odido told local Dutch media that the breach affects more than 6.2 million customers, or about a third of the country’s population.\nThe stolen data includes customer names, phone numbers, postal and email addresses, dates of birth, bank account numbers (IBAN), and details of customers’ government-issued IDs, such as passport or driver’s license numbers and dates of validity.\nThe company said former customers who had service within the past two years may also be affected.\nOdido said the data did not include customer call records, location data, billing information, or image scans of government IDs. The data does not affect business customers, the company said.\nThe breach affects customers of both Odido and its subsidiary Ben NL. Both companies said that their phone, internet, and television operations were unaffected by the breach.\nThis is the latest in a series of data thefts targeting phone and telecommunication giants in recent years, as governments and financially motivated hackers continue to seek highly confidential information that telcos have on their customers.\nEarlier this week, the Singaporean government confirmed that a China-related hacking group had previously broken into four of the country’s top phone giants as part of a surveillance operation, but did not access customers’ personal information.\nAll the while, hackers associated with the China-backed threat group known as Salt Typhoon have hacked hundreds of phone companies around the world, including in Canada, Norway, the United Kingdom, and the United States, as part of an ongoing espionage campaign aimed at spying on senior government officials and diplomats.\n\n\n\t\tZack Whittaker is the security editor at TechCrunch. He also authors the weekly cybersecurity newsletter, this week in security. \nHe can be reached via encrypted message at zackwhittaker.1337 on Signal. You can also contact him by email, or to verify outreach, at zack.whittaker@techcrunch.com. \t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Dutch phone giant Odido says millions of customers affected by data breach",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/02/odido.jpg?w=150"
-      ],
-      "datePublished": "2026-02-13T15:54:13.000Z",
-      "dateModified": "2026-02-13T15:54:13.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Hollywood isn’t happy about the new Seedance 2.0 video generator",
-    "url": "https://techcrunch.com/2026/02/14/hollywood-isnt-happy-about-the-new-seedance-2-0-video-generator/",
-    "image": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1263876301.jpeg?w=150",
-    "tag": "Tech",
-    "date": "2026-02-14T18:26:52.000Z",
-    "description": "\nHollywood organizations are pushing back against a new AI video model called Seedance 2.0, which they say has quickly become a tool for “blatant” cop",
-    "body": "\nHollywood organizations are pushing back against a new AI video model called Seedance 2.0, which they say has quickly become a tool for “blatant” copyright infringement.\nByteDance, the Chinese company that recently finalized a deal to sell TikTok’s U.S. operations (it retains a stake in the new joint venture), launched Seedance 2.0 earlier this week.  According to the Wall Street Journal, the updated model is currently available to Chinese users of ByteDance’s Jianying app, and the company says it will soon be available to global users of its CapCut app.\nSimilar to tools such as OpenAI’s Sora, Seedance allows users to create videos (currently limited to 15 seconds in length) by just entering a text prompt. And like Sora, Seedance quickly drew criticism for an apparent lack of guardrails around the ability to create videos using the likeness of real people, as well as studios’ intellectual property.\nAfter one X user posted a brief video showing Tom Cruise fighting Brad Pitt, which they said was created by “a 2 line prompt in seedance 2,” “Deadpool” screenwriter Rhett Reese responded, “I hate to say it. It’s likely over for us.”\nThe Motion Picture Association soon issued a statement from CEO Charles Rivkin demanding that ByteDance “immediately cease its infringing activity.”\n“In a single day, the Chinese AI service Seedance 2.0 has engaged in unauthorized use of U.S. copyrighted works on a massive scale,” Rivkin said. “By launching a service that operates without meaningful safeguards against infringement, ByteDance is disregarding well-established copyright law that protects the rights of creators and underpins millions of American jobs.”\nThe Human Artistry Campaign — an initiative backed by Hollywood unions and trade groups — condemned Seedance 2.0 as “an attack one very creator around the world,” while the actors’ union SAG-AFTRA said it “stands with the studios in condemning the blatant infringement enabled by Bytedance’s new AI video model Seedance 2.0.”\n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 23, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nSeedance videos have apparently featured Disney-owned characters such as Spider-Man, Darth Vader, and Grogu, better known as Baby Yoda, prompting the company to take legal action. Axios reports that Disney has sent a cease-and-desist letter accusing ByteDance of a “virtual smash-and-grab of Disney’s IP”and claiming the Chinese company is “hijacking Disney’s characters by reproducing, distributing, and creating derivative works featuring those characters.”\nDisney isn’t necessarily opposed to working with AI companies — while it has reportedly sent a cease-and-desist letter to Google over similar issues, it’s signed a three-year licensing deal with OpenAI.\nTechCrunch has reached out to ByteDance for comment.\n\n\n\t\tAnthony Ha is TechCrunch’s weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local government reporter at the Hollister Free Lance, and vice president of content at a VC firm. He lives in New York City.\nYou can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Hollywood isn’t happy about the new Seedance 2.0 video generator",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1263876301.jpeg?w=150"
-      ],
-      "datePublished": "2026-02-14T18:26:52.000Z",
-      "dateModified": "2026-02-14T18:26:52.000Z",
       "author": [
         {
           "@type": "Person",
@@ -200,22 +175,22 @@
     }
   },
   {
-    "title": "Designer Kate Barton teams up with IBM and Fiducia AI for a NYFW presentation",
-    "url": "https://techcrunch.com/2026/02/14/designer-kate-barton-teams-up-with-ibm-and-fiducia-ai-for-a-nyfw-presentation/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Kate-Barton-IBM.jpg?w=150",
+    "title": "Hollywood isn’t happy about the new Seedance 2.0 video generator",
+    "url": "https://techcrunch.com/2026/02/14/hollywood-isnt-happy-about-the-new-seedance-2-0-video-generator/",
+    "image": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1263876301.jpeg?w=150",
     "tag": "Tech",
-    "date": "2026-02-14T17:43:46.000Z",
-    "description": "\nOn Saturday, designer Kate Barton will unveil her latest collection at New York Fashion Week — with a twist, of course. Barton teamed up with Fiducia",
-    "body": "\nOn Saturday, designer Kate Barton will unveil her latest collection at New York Fashion Week — with a twist, of course. Barton teamed up with Fiducia AI to create a multilingual AI agent (built with IBM Watsonx on IBM Cloud) to help guests identify pieces of the collection and try them on virtually. \nTechCrunch caught up with Barton and Ganesh Harinath, the founder and CEO of Fiducia AI, before the show to learn more about the presentation. \nFor one, Barton said technology is baked into how she thinks. She likes playing with the real and the unreal, and found the idea of using AI-like set design, “a portal into the collection’s world, rather than ‘AI for AI’s sake,” she said. \n“Today, tech is a tool for expanding the world around the clothes, how they are presented, and how people enter the story, and how we create that moment when your eyes do a double-take,” she told TechCrunch, adding that the goal for this collection was to create a sense of curiosity. \nHarinath said his company used IBM watsonx, IBM Cloud, and IBM Cloud Object Storage to help pull off Barton’s presentation. It was a production-grade activation with a Visual AI lens (built with IBM watsonx) that detects pieces from Barton’s new collection. It can answer questions in any language via voice and text and offers photorealistic virtual reality try-ons. \n“The hardest work wasn’t model tuning; it was orchestration,” he told TechCrunch. This isn’t the first time Barton has put a technological spin on her fashion — last season, she experimented with AI models, also in collaboration with Fiduicia AI. \nAt fashion week, there was some chatter about whether brands — and, if so, which ones — would be using technology and artificial intelligence. Barton thinks many brands are using AI, though quietly, mainly in operations. “Maybe fewer are using it publicly because of the potential reputational risk,” she said. \n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 23, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nIt rhymes a bit with the early days when many big fashion names were nervous about starting websites. “Then it became inevitable, and eventually the question shifted from ‘should we be online’ to ‘is our online presence any good?’” she said. \nImage Credits:Kate Barton\nHarinath added that, though many brands are experimenting with AI, much of its deployment remains at the surface level — such as chatbots, content generation, and internal productivity tools. \nBut Barton sees a world of better prototyping, better visualization, smarter production decisions, and more immersive ways to experience fashion, without replacing the humans who “actually make it worth wearing.” Change will only come with more clarity, she said, with “clear discourse, clear licensing, clear credit, and a shared understanding that human creativity is not an annoying overhead cost.” \n“If the technology is used to erase people, I am not into it,” she said, adding that audiences are smarter than we think. “They can tell the difference between invention and avoidance.” \nDespite the tension, AI is becoming more routine, and there will come a day when shows like Barton’s are just part of the norm. Harinath thinks AI in fashion will be normalized by 2028, and by 2030, he sees it becoming embedded into the operational core of retail.\n“Most of this technology already exists — the differentiator now is assembling the right partners and building teams that can operationalize it responsibly,” he said. \nDee Waddell, Global Head of Consumer, Travel and Transportation Industries at IBM Consulting, agreed. “When inspiration, product intelligence, and engagement are connected in real time, AI moves from being a feature to becoming a growth engine that drives measurable competitive advantage,” Waddell told TechCrunch. \nBut until then, there is this show. \n“The most exciting future for fashion is not automated fashion,” Barton said. “It is fashion that uses new tools to heighten craft, deepen storytelling, and bring more people into the experience, without flattening the people who make it.” \n",
+    "date": "2026-02-14T18:26:52.000Z",
+    "description": "\nHollywood organizations are pushing back against a new AI video model called Seedance 2.0, which they say has quickly become a tool for “blatant” cop",
+    "body": "\nHollywood organizations are pushing back against a new AI video model called Seedance 2.0, which they say has quickly become a tool for “blatant” copyright infringement.\nByteDance, the Chinese company that recently finalized a deal to sell TikTok’s U.S. operations (it retains a stake in the new joint venture), launched Seedance 2.0 earlier this week.  According to the Wall Street Journal, the updated model is currently available to Chinese users of ByteDance’s Jianying app, and the company says it will soon be available to global users of its CapCut app.\nSimilar to tools such as OpenAI’s Sora, Seedance allows users to create videos (currently limited to 15 seconds in length) by just entering a text prompt. And like Sora, Seedance quickly drew criticism for an apparent lack of guardrails around the ability to create videos using the likeness of real people, as well as studios’ intellectual property.\nAfter one X user posted a brief video showing Tom Cruise fighting Brad Pitt, which they said was created by “a 2 line prompt in seedance 2,” “Deadpool” screenwriter Rhett Reese responded, “I hate to say it. It’s likely over for us.”\nThe Motion Picture Association soon issued a statement from CEO Charles Rivkin demanding that ByteDance “immediately cease its infringing activity.”\n“In a single day, the Chinese AI service Seedance 2.0 has engaged in unauthorized use of U.S. copyrighted works on a massive scale,” Rivkin said. “By launching a service that operates without meaningful safeguards against infringement, ByteDance is disregarding well-established copyright law that protects the rights of creators and underpins millions of American jobs.”\nThe Human Artistry Campaign — an initiative backed by Hollywood unions and trade groups — condemned Seedance 2.0 as “an attack one very creator around the world,” while the actors’ union SAG-AFTRA said it “stands with the studios in condemning the blatant infringement enabled by Bytedance’s new AI video model Seedance 2.0.”\n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 23, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nSeedance videos have apparently featured Disney-owned characters such as Spider-Man, Darth Vader, and Grogu, better known as Baby Yoda, prompting the company to take legal action. Axios reports that Disney has sent a cease-and-desist letter accusing ByteDance of a “virtual smash-and-grab of Disney’s IP”and claiming the Chinese company is “hijacking Disney’s characters by reproducing, distributing, and creating derivative works featuring those characters.”\nDisney isn’t necessarily opposed to working with AI companies — while it has reportedly sent a cease-and-desist letter to Google over similar issues, it’s signed a three-year licensing deal with OpenAI.\nTechCrunch has reached out to ByteDance for comment.\n\n\n\t\tAnthony Ha is TechCrunch’s weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local government reporter at the Hollister Free Lance, and vice president of content at a VC firm. He lives in New York City.\nYou can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Designer Kate Barton teams up with IBM and Fiducia AI for a NYFW presentation",
+      "headline": "Hollywood isn’t happy about the new Seedance 2.0 video generator",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/02/Kate-Barton-IBM.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1263876301.jpeg?w=150"
       ],
-      "datePublished": "2026-02-14T17:43:46.000Z",
-      "dateModified": "2026-02-14T17:43:46.000Z",
+      "datePublished": "2026-02-14T18:26:52.000Z",
+      "dateModified": "2026-02-14T18:26:52.000Z",
       "author": [
         {
           "@type": "Person",
@@ -250,72 +225,22 @@
     }
   },
   {
-    "title": "Why top talent is walking away from OpenAI and xAI",
-    "url": "https://techcrunch.com/video/why-top-talent-is-walking-away-from-openai-and-xai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?w=150",
+    "title": "In a changed VC landscape, this exec is doubling down on overlooked founders",
+    "url": "https://techcrunch.com/2026/02/14/stacy-brown-philpot-cherryrock-capital-vc/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Screenshot-2026-02-12-at-8.42.46-AM.png?w=150",
     "tag": "Tech",
-    "date": "2026-02-13T21:00:00.000Z",
-    "description": "\n\t\t\n\nLoading the player…\n\nAI companies have been hemorrhaging talent the past few weeks. Half of xAI’s founding team has left the company — some on th",
-    "body": "\n\t\t\n\nLoading the player…\n\nAI companies have been hemorrhaging talent the past few weeks. Half of xAI’s founding team has left the company — some on their own, others through “restructuring” — while OpenAI is facing its own shakeups, from the disbanding of its mission alignment team to the firing of a policy exec who opposed its “adult mode” feature. \nWatch as TechCrunch’s Equity podcast hosts Kirsten Korosec, Anthony Ha, and Sean O’Kane dig into the week’s biggest deals and departures, from billion-dollar bets on fusion and robotics to the tech exodus reshaping AI companies. \nSubscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. You also can follow Equity on X and Threads, at @EquityPod. \n\n\t\t\n\tTopics\n\n\n\n\t\tTheresa Loconsolo is an audio producer at TechCrunch focusing on Equity, the network’s flagship podcast. Before joining TechCrunch in 2022, she was one of 2 producers at a four-station conglomerate where she wrote, recorded, voiced and edited content, and engineered live performances and interviews from guests like lovelytheband. Theresa is based in New Jersey and holds a bachelors degree in Communication from Monmouth University. You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n\n\t\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n",
+    "date": "2026-02-14T20:37:42.000Z",
+    "description": "\nMuch of Silicon Valley has spent years chasing mega-rounds and buzzy AI deals. Meanwhile, Stacy Brown-Philpot is running Cherryrock Capital like a th",
+    "body": "\nMuch of Silicon Valley has spent years chasing mega-rounds and buzzy AI deals. Meanwhile, Stacy Brown-Philpot is running Cherryrock Capital like a throwback to venture capital’s earlier days, writing smaller Series A and B checks to founders that larger firms routinely overlook.\nThe former TaskRabbit CEO and decade-long Google veteran launched Cherryrock a year ago after seeing what she calls a persistent gap: access to capital for “underinvested entrepreneurs” building software companies at the crucial growth stage.\n“When I left TaskRabbit, I took some time off to figure out what was next and saw this gap in the market, which was access to capital, particularly for underinvested entrepreneurs,” Brown-Philpot told TechCrunch. She’d originally come to the Bay Area 25 years ago, planning to become a VC and even writing her Stanford Business School essay about it. After spending a decade at Google and leading TaskRabbit to a successful exit to IKEA, she’s finally back to that original plan.\nShe circled back to it for a reason. Before launching Cherryrock, Brown-Philpot was a member of the investment committee for the SoftBank Opportunity Fund, a $100 million vehicle started in 2020 to back underserved entrepreneurs. That experience proved there was no shortage of overlooked founders.\nSoftBank itself sold the Opportunity Fund to its leadership team in late 2023, divesting from the diversity-focused initiative. Brown-Philpot, meanwhile, doubled down, and launched her own fund. By the time she closed Cherryrock’s debut fund in February 2025, she already had more than 2,000 companies in her pipeline. \nCherryrock is targeting 12 to 15 investments from its first fund — a concentrated approach and stark contrast to the seed funds that make dozens of bets, or massive funds that write nine-figure checks. Brown-Philpot’s also taking her time; a year after announcing the fund, she and her team, including cofounder Saydeah Howard, who spent nine years at the venture firm IVP, have backed just five companies, putting them about a third of the way toward their goal. In an era when many funds race to deploy capital almost as quickly as it’s raised, Brown-Philpot’s measured pace is another throwback to an earlier generation of VCs.\nBrown-Philpot’s focus on “underinvested” founders — a careful choice of words in today’s political climate — means backing entrepreneurs who might not fit the typical Silicon Valley mold.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 23, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nWhen asked directly about the current political environment, where DEI has become a lightning rod, Brown-Philpot is unfazed. “It doesn’t change the pitch at all,” she said. “When we look at the people who decided to back Cherryrock, like JPMorgan and Bank of America…these are financial institutions who expect to generate a return. Our job as investors is to do just that.”\nIn addition to those investors, Cherryrock’s LP roster includes Goldman Sachs Asset Management, MassMutual, Top Tier Capital Partners, and Melinda Gates’s Pivotal Ventures. Some of these have stepped back from explicit diversity pledges amid pressure from the Trump administration. Yet Brown-Philpot may find herself in an unexpectedly advantageous position. \nA new diversity reporting law in California requires VC firms with a California nexus to report demographic data on their portfolio companies’ founding teams, with the first deadline in April. Unlike some corporate diversity initiatives that have faced legal challenges, the law focuses on transparency rather than mandates, requiring reporting but not quotas. For a firm like Cherryrock that’s already tracking and prioritizing investments in diverse founders, compliance is “table stakes,” as Brown-Philpot puts it. “You accomplish what you measure.”\nBrown-Philpot’s perspective is informed by her vantage point across multiple institutions. Beyond Cherryrock, she sits on the boards of HP, StockX, and Stanford University — roles that give her insight into both enterprise buyers and the next generation of founders. At Stanford, she’s watching students navigate questions about AI’s impact on employment. “What I see on campus is the students are charting a path and finding a way to create opportunities for themselves,” she said.\nHer portfolio reflects her thesis. One investment is Coactive AI, led by Cody Coleman, an MIT grad with advanced degrees in philosophy and engineering from MIT and Stanford. The company provides multimodal AI infrastructure to the media and entertainment industry, a sector now under intense scrutiny following controversies around AI-generated content. Cherryrock led Coactive’s Series B alongside Emerson Collective.\nAnother bet is Vitable Health, founded by Joseph Kitonga, a Thiel Fellow and Y Combinator alum. The Philadelphia-based company provides on-demand, primary care-based health insurance to employers and hourly workers – the kind of population Brown-Philpot came to know well as the CEO of TaskRabbit during its last years as a standalone company. Kitonga “is the exact kind of founder that we want to back,” Brown-Philpot said. “He does what he says he’s going to do.” Brown-Philpot first invested at the seed stage of Vitable through her work with the SoftBank Opportunity Fund.\nWhen asked about her operating philosophy, Brown-Philpot is pragmatic about exits. “It’s very difficult to go public,” she said. “Most companies don’t go public, they do get acquired.” It’s a refreshingly honest take in an industry that often overpromises on IPO prospects. She points to TaskRabbit’s sale to IKEA as proof that the right acquisition can create lasting value.\nAs for 2026, Brown-Philpot’s priority is simple: “We are actively deploying capital.” She’s looking for Series A and B companies that have achieved product-market fit at scale, letting founders define what that means. And while the broader venture ecosystem debates the future of diversity initiatives, she is focused on finding great founders, wherever they are.\n“I’m from Detroit,” she says. “Hard things are hard, but we know how to do hard things.”\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Why top talent is walking away from OpenAI and xAI",
+      "headline": "In a changed VC landscape, this exec is doubling down on overlooked founders",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/02/Screenshot-2026-02-12-at-8.42.46-AM.png?w=150"
       ],
-      "datePublished": "2026-02-13T21:00:00.000Z",
-      "dateModified": "2026-02-13T21:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "India partners with Alibaba.com for export push despite past China tech bans",
-    "url": "https://techcrunch.com/2026/02/13/india-partners-with-alibaba-com-for-export-push-despite-past-china-tech-bans/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/alibaba-com-jagmeet-singh-techcrunch.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-02-13T17:32:59.000Z",
-    "description": "\nIndia’s government has partnered with China’s Alibaba.com on an export-focused program aimed at helping startups and small businesses reach overseas ",
-    "body": "\nIndia’s government has partnered with China’s Alibaba.com on an export-focused program aimed at helping startups and small businesses reach overseas buyers. The move highlights New Delhi’s selective engagement with Chinese-linked tech platforms years after it imposed sweeping bans on consumer apps and games.\nThis week, the Indian government’s Startup India initiative announced the collaboration with Alibaba.com to identify and support Indian startups that can help onboard and scale Indian exporters on the group’s global B2B platform. The program offers commissions and technical support to those startups to assist small manufacturers and traders in reaching overseas markets.\nThe new partnership arrives after years of strained India–China relations. New Delhi banned dozens of Chinese-linked apps in 2020 following a deadly border clash, including major platforms such as TikTok, PUBG Mobile, and AliExpress, an e-commerce app operated by Alibaba Group. Those restrictions remain in place, making the Indian government’s public collaboration with Alibaba’s export-focused platform a carefully circumscribed form of engagement rather than a broader policy reset.\nIndia’s export ambitions are closely tied to its small businesses and the platforms they use to reach overseas markets. Micro, small, and medium enterprises account for nearly half of the country’s exports and about 31% of GDP, according to the Indian government’s latest Economic Survey, underlining why New Delhi has focused on expanding digital market access for smaller firms through global B2B channels, including Alibaba.com.\nAlibaba.com’s B2B platform connects more than 50 million active buyers across over 200 countries and regions, said Rocky Lu, head of India business at the company.\n“Alibaba.com has been active in India for over two decades, and we remain dedicated to our core mission of empowering MSMEs to scale their businesses globally,” Lu told TechCrunch. “Our focus continues to be on leveraging our digital infrastructure to help ‘Made in India’ products reach an international audience through digital transformation.”\nLu did not confirm whether the Startup India initiative marks Alibaba.com’s first direct partnership with India’s federal government since 2020. He said, however, that the company has “maintained a consistent cadence of engagement with various government and semi-government bodies integral to the Indian export ecosystem,” including through digital training programs for MSMEs and collaborations with export promotion councils.\nThe partnership reflects India’s differentiated approach toward China, maintaining restrictions in strategic and security-sensitive sectors while allowing economic engagement where there is clear benefit, said Kazim Rizvi, founding director of the New Delhi-based public policy think tank The Dialogue.\n“Going forward, regulatory clarity will be important,” Rizvi told TechCrunch. “Predictable policy environments will help ensure that startups feel confident participating in such initiatives.”\nThe Indian government seems to be drawing a distinction between export-focused platforms and consumer-facing Chinese apps, said George Chen, partner and co-chair of the digital practice at The Asia Group, a Washington-based consultancy that advises companies on policy and geopolitical risks across Asia. Chen, who previously served as a regional public policy director at Meta, said New Delhi sees value in Alibaba’s role in supporting B2B exports, particularly given the platform’s reach in markets such as Africa, which could help Indian exporters diversify their global sales.\nIndia appears to be drawing lessons from China’s approach to digital platforms, Chen told TechCrunch.\n“China bans foreign apps like Facebook and Instagram for Chinese individual users but still allows Facebook and Google to do business with Chinese companies, especially exporters who rely on those platforms to sell products abroad,” Chen said.\nThe Startup India collaboration follows other recent steps by Alibaba.com to expand export-focused services in India. In June 2025, the company launched its Trade Assurance program in the country, aimed at helping Indian small and medium-sized exporters manage risks in cross-border transactions through payment protection and dispute-resolution tools.\nThe developments also come as India and China show tentative signs of improved engagement in multilateral technology forums, with Chinese representatives expected to attend the India AI Impact Summit in New Delhi next week. Indian officials, however, have not indicated any change to restrictions on Chinese consumer technology platforms.\nThe Indian commerce ministry did not respond to a request for comments.\n\n\n\t\tJagmeet covers startups, tech policy-related updates, and all other major tech-centric developments from India for TechCrunch. He previously worked as a principal correspondent at NDTV. \r\nYou can contact or verify outreach from Jagmeet by emailing mail@journalistjagmeet.com.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "India partners with Alibaba.com for export push despite past China tech bans",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/02/alibaba-com-jagmeet-singh-techcrunch.jpg?w=150"
-      ],
-      "datePublished": "2026-02-13T17:32:59.000Z",
-      "dateModified": "2026-02-13T17:32:59.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The SEC closed its investigation into Fisker",
-    "url": "https://techcrunch.com/2026/02/13/the-sec-closed-its-investigation-into-fisker/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/07/fisker-ocean-black.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-02-13T17:48:43.000Z",
-    "description": "\n\t\n\t\tImage Credits:Fisker\t\n\t\n\t\t\t\t\t\t9:48 AM PST · February 13, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nThe Securities and Exchange Commission closed its investigation int",
-    "body": "\n\t\n\t\tImage Credits:Fisker\t\n\t\n\t\t\t\t\t\t9:48 AM PST · February 13, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nThe Securities and Exchange Commission closed its investigation into bankrupt electric vehicle startup Fisker  last September, roughly one year after the probe was opened.\nTechCrunch learned the investigation was closed when the financial regulator responded to a Freedom of Information Act (FOIA) request in January. The SEC’s FOIA department said it had identified “approximately 21.7 gigabytes of electronically maintained records” related to the investigation. The agency doesn’t typically make records available if investigations are still open, and it explained in a follow-up email that it “was closed in September 2025.”\nIt’s not clear how far the investigation progressed. The SEC revealed the existence of the probe in an October 2024 filing in Fisker’s bankruptcy case. The agency wrote at the time that it had sent subpoenas to the company and that it may need to “request or subpoena additional documents in the future relating to its ongoing investigation.”\nA spokesperson for the agency declined to comment. Founder and former CEO Henrik Fisker did not respond to a message seeking comment.\nThe closure of the Fisker investigation comes amid a significant drop in enforcement actions and settlements during President Trump’s second term. The SEC initiated 313 enforcement actions in 2025 — the lowest in a decade and down 27% from the the final year of President Biden’s term, according to an analysis by law firm Paul, Weiss. Only four of those enforcement actions were against public companies. Total monetary settlements fell 45% from 2024.\nFisker was one of the last remaining electric vehicle startups under investigation by the SEC. Over the last few years, the agency settled fraud or other charges brought against Nikola, Lordstown Motors, Canoo, Hyzon Motors, and others. In 2023, it closed an investigation into Lucid Motors without a lawsuit.\nThe only known active investigation remaining into an electric vehicle startup is the one related to Faraday Future, which is now nearly four years old. In July 2025, the SEC sent Faraday and multiple executives “Wells notices,” or letters that inform a subject that the investigators recommend an enforcement action. No action has been taken since those letters were sent, though, and Faraday’s own regulatory filings indicate it has not yet responded to the Wells notices. \n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 23, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nFisker filed for bankruptcy in June 2024 amid a raft of problems with its first EV, the Ocean SUV. The company spent years making bold promises about developing radical new technologies, but pivoted from those ideas multiple times. It also had major financial trouble in the run-up to its collapse. It used the Chapter 11 bankruptcy process to sell off its remaining inventory of Oceans to a company that leases vehicles to ride-hail drivers and liquidate its other assets.\n\n\t\t\t\n\tTopics\n\n\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n\n\t\t",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "The SEC closed its investigation into Fisker",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/07/fisker-ocean-black.jpg?w=150"
-      ],
-      "datePublished": "2026-02-13T17:48:43.000Z",
-      "dateModified": "2026-02-13T17:48:43.000Z",
+      "datePublished": "2026-02-14T20:37:42.000Z",
+      "dateModified": "2026-02-14T20:37:42.000Z",
       "author": [
         {
           "@type": "Person",
@@ -350,6 +275,56 @@
     }
   },
   {
+    "title": "Roku to launch streaming bundles as part of its efforts to continue growing its profitability",
+    "url": "https://techcrunch.com/2026/02/13/roku-to-launch-streaming-bundles-as-part-of-its-efforts-to-continue-growing-its-profitability/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/04/roku-logo.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-02-13T16:39:27.000Z",
+    "description": "\nRoku shared its fourth-quarter earnings for 2025 this week, as well as some exciting plans in the pipeline. The company is rolling out new streaming ",
+    "body": "\nRoku shared its fourth-quarter earnings for 2025 this week, as well as some exciting plans in the pipeline. The company is rolling out new streaming bundles, expanding its $3 subscription service, Howdy, to more platforms, and partnering with more premium streaming services following the successful addition of HBO Max.\nLaunching bundles in 2026 is a smart move, as it could attract more viewers looking for enticing deals amid rising subscription prices. Many streaming platforms have been increasing their rates recently, and Roku aims to appeal to cost-conscious consumers. The positive impact of HBO Max on Roku’s premium subscriptions has encouraged the company to continue this strategy by adding more top-tier partners, which is likely to drive growth going forward.\nAdditionally, Roku launched its ad-free subscription streaming service, Howdy, last year and plans to expand its availability beyond the Roku platform. While specific details remain undisclosed, Roku CEO Anthony Wood stated at CES last month that the goal is to distribute Howdy widely, saying, “We want to distribute it everywhere.”\nOther highlights include Roku users streaming 145.6 billion hours of video in 2025, marking a 15% increase from 2024. The company is also nearing the milestone of 100 million streaming households, though it has decided to report this figure less frequently.\nFinancially, Roku delivered an impressive quarter, posting net income of $80.5 million, a rebound from a $35.5 million loss in the same period last year. Total revenue for Q4 2025 reached $1.4 billion, representing a 16% year-over-year increase.\nLooking ahead, Roku is optimistic, projecting total net revenue of $5.5 billion and gross profit of $2.4 billion.\n“In 2023, our priority was to rightsize our cost structure and reach adjusted EBITDA breakeven in 2024, and we achieved that goal a full year ahead of schedule,” Wood told investors during the call yesterday afternoon. “Looking ahead to 2026 and beyond, we are confident in our ability to sustain double-digit platform revenue growth while continuing to grow profitability.”\n\n\n\t\tLauren covers media, streaming, apps and platforms at TechCrunch.\nYou can contact or verify outreach from Lauren by emailing laurenf.techcrunch@gmail.com or via encrypted message at laurenforris22.25 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Roku to launch streaming bundles as part of its efforts to continue growing its profitability",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2023/04/roku-logo.jpg?w=150"
+      ],
+      "datePublished": "2026-02-13T16:39:27.000Z",
+      "dateModified": "2026-02-13T16:39:27.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "‘Clueless’ -inspired app Alta partners with brand Public School to start integrating styling tools into websites",
+    "url": "https://techcrunch.com/2026/02/14/clueless-inspired-app-alta-partners-with-brand-public-school-to-start-integrating-styling-tools-into-websites/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Alta.png?w=150",
+    "tag": "Tech",
+    "date": "2026-02-14T19:00:00.000Z",
+    "description": "\nMuch has changed for Jenny Wang, the founder who’s bringing “Clueless” fashion tech to life. \nLast year, her company, Alta, raised $11 million in a r",
+    "body": "\nMuch has changed for Jenny Wang, the founder who’s bringing “Clueless” fashion tech to life. \nLast year, her company, Alta, raised $11 million in a round led by Menlo Ventures to let users create digital closets and try on their clothes with their own virtual avatars. It’s a tech once seen only in movies, most notably in “Clueless,” where Cher styles and plans her outfits using computer technology. Alta is similar to that, allowing users to plan and style outfits using the latest AI innovations. \nA slew of big names participated in Atla’s round last year, including models Jasmine Tookes and Karlie Kloss, Anthropic’s VC arm Anthology Fund, and Rent the Runway cofounder Jenny Fleiss. \nTechCrunch caught up with Wang during New York Fashion Week to talk about how the company has expanded since that round.\nFor starters, the product is officially in the app store; Time and Vogue named it one of the best innovations of last year, and Wang said more than 100 million outfits have been generated on the platform since its launch in 2023.  It has partnerships with Poshmark and the Council of Fashion Designers of America, with more partnerships to be announced soon.\n“Alta’s own app also features thousands of brands that users can shop from,” Wang said. \nRight now, the company is focused on building app and website integration experiences for brands, she said, where customers can try on a designer’s clothing using a personalized Alta Avatar. This week, the company unveiled its first integration collaboration, teaming up with Public School, a storied New York City brand. \n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 23, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n“Shoppers can style looks from the new collection on their own Alta avatar,” Wang said. \nShe met the Public School team — Dao-Yi Chow and Maxwell Osborne — through the founder of Poshmak, who is also an angel investor in both companies. \n“Public School designers Dao-Yi Chow and Maxwell Osborne had been looking for an AI partner and virtual try-on avatar solution, and Dao-Yi has been an Alta app user himself,” Wang said. \nPublic School actually went on hiatus for a few years, with this NYFW marking its grand re-debut. When asked, the founders of the brand said they rediscovered their voices and what they wanted to say. \n“We have to look at tech as a partner in the business today,” Chow told TechCrunch, adding, “It’s not 2015 anymore,” so the team wants to take advantage of the latest technological developments. “We want to be thoughtful on how we use tech and AI,” he continued, “not as a design tool but as a tool to extend our storytelling and a tool to interact with the consumer and have them experience the brand even if they can’t do so in person.”\nImage Credits:Alta\nWang said this is one of the first instances of a designer embedding personal avatar and styling technology into its own website. Near the bottom of Public School’s product page, there is an icon that says Style by Alta. Clicking that takes the customer to Alta for them to then style their avatars and test out how Public School clothing would look on them, should they purchase. \nUsers on Alta’s standalone app can also access Public School through Alta’s app. Wang said the goal is for Alta to integrate more experiences like this into other brands and websites, so Alta users can try on clothes on other websites even while outside the Alta app. \n“Right now, a user would have to add a potential purchase into their Alta wishlist, then style outfits and try on their avatar, versus being able to do that directly on the brand website.” (For every site but Public School, that is.) “The goal is to bring their community on a new journey to engage with and shop the brand.” \nMany major fashion brands, like Zara and Balmain, have already experimented with digital avatars. Wang said what makes Alta different here, especially compared to Zara, is that Alta avatars can put on at least 8 items within seconds, whereas Zara avatars can wear only four and often take around two minutes. \nOverall, demand for virtual avatars has increased. Wang considers Alta both still the “Cluless”  technology that it started out with, and a digital avatar business. \n“The consumer Alta app is the ‘Clueless’ closet, while the enterprise Alta experience allows shoppers to style pieces and try the outfits on their pre-existing Alta avatar,” he said. Eventually, Wang said she wants Alta to be the “personal identity layer for the future of consumer AI and shopping.”\nFor agentic commerce to truly work, she said, “We need a data layer that understands the shopper’s style preferences, such as their closet, past purchases, and their avatar, likeness, and body, which is Alta.”\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "‘Clueless’ -inspired app Alta partners with brand Public School to start integrating styling tools into websites",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/02/Alta.png?w=150"
+      ],
+      "datePublished": "2026-02-14T19:00:00.000Z",
+      "dateModified": "2026-02-14T19:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Sex toys maker Tenga says hacker stole customer information",
     "url": "https://techcrunch.com/2026/02/13/sex-toys-maker-tenga-says-hacker-stole-customer-information/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/eggplant-blue-background.jpg?w=150",
@@ -366,6 +341,31 @@
       ],
       "datePublished": "2026-02-13T20:19:05.000Z",
       "dateModified": "2026-02-13T20:19:05.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The SEC closed its investigation into Fisker",
+    "url": "https://techcrunch.com/2026/02/13/the-sec-closed-its-investigation-into-fisker/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/07/fisker-ocean-black.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-02-13T17:48:43.000Z",
+    "description": "\n\t\n\t\tImage Credits:Fisker\t\n\t\n\t\t\t\t\t\t9:48 AM PST · February 13, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nThe Securities and Exchange Commission closed its investigation int",
+    "body": "\n\t\n\t\tImage Credits:Fisker\t\n\t\n\t\t\t\t\t\t9:48 AM PST · February 13, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nThe Securities and Exchange Commission closed its investigation into bankrupt electric vehicle startup Fisker  last September, roughly one year after the probe was opened.\nTechCrunch learned the investigation was closed when the financial regulator responded to a Freedom of Information Act (FOIA) request in January. The SEC’s FOIA department said it had identified “approximately 21.7 gigabytes of electronically maintained records” related to the investigation. The agency doesn’t typically make records available if investigations are still open, and it explained in a follow-up email that it “was closed in September 2025.”\nIt’s not clear how far the investigation progressed. The SEC revealed the existence of the probe in an October 2024 filing in Fisker’s bankruptcy case. The agency wrote at the time that it had sent subpoenas to the company and that it may need to “request or subpoena additional documents in the future relating to its ongoing investigation.”\nA spokesperson for the agency declined to comment. Founder and former CEO Henrik Fisker did not respond to a message seeking comment.\nThe closure of the Fisker investigation comes amid a significant drop in enforcement actions and settlements during President Trump’s second term. The SEC initiated 313 enforcement actions in 2025 — the lowest in a decade and down 27% from the the final year of President Biden’s term, according to an analysis by law firm Paul, Weiss. Only four of those enforcement actions were against public companies. Total monetary settlements fell 45% from 2024.\nFisker was one of the last remaining electric vehicle startups under investigation by the SEC. Over the last few years, the agency settled fraud or other charges brought against Nikola, Lordstown Motors, Canoo, Hyzon Motors, and others. In 2023, it closed an investigation into Lucid Motors without a lawsuit.\nThe only known active investigation remaining into an electric vehicle startup is the one related to Faraday Future, which is now nearly four years old. In July 2025, the SEC sent Faraday and multiple executives “Wells notices,” or letters that inform a subject that the investigators recommend an enforcement action. No action has been taken since those letters were sent, though, and Faraday’s own regulatory filings indicate it has not yet responded to the Wells notices. \n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 23, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nFisker filed for bankruptcy in June 2024 amid a raft of problems with its first EV, the Ocean SUV. The company spent years making bold promises about developing radical new technologies, but pivoted from those ideas multiple times. It also had major financial trouble in the run-up to its collapse. It used the Chapter 11 bankruptcy process to sell off its remaining inventory of Oceans to a company that leases vehicles to ride-hail drivers and liquidate its other assets.\n\n\t\t\t\n\tTopics\n\n\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n\n\t\t",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "The SEC closed its investigation into Fisker",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2024/07/fisker-ocean-black.jpg?w=150"
+      ],
+      "datePublished": "2026-02-13T17:48:43.000Z",
+      "dateModified": "2026-02-13T17:48:43.000Z",
       "author": [
         {
           "@type": "Person",
