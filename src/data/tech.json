@@ -25,81 +25,6 @@
     }
   },
   {
-    "title": "Microsoft says Office bug exposed customers’ confidential emails to Copilot AI",
-    "url": "https://techcrunch.com/2026/02/18/microsoft-says-office-bug-exposed-customers-confidential-emails-to-copilot-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2041281128-e1712563728365.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-02-18T14:44:28.000Z",
-    "description": "\nIn Brief\nPosted:\n6:44 AM PST · February 18, 2026\n\nImage Credits:Rafael Henrique/SOPA Images/LightRocket / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t",
-    "body": "\nIn Brief\nPosted:\n6:44 AM PST · February 18, 2026\n\nImage Credits:Rafael Henrique/SOPA Images/LightRocket / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nMicrosoft has confirmed that a bug allowed its Copilot AI to summarize customers’ confidential emails for weeks without permission.\nThe bug, first reported by Bleeping Computer, allowed Copilot Chat to read and outline the contents of emails since January, even if customers had data loss prevention policies to prevent ingesting their sensitive information into Microsoft’s large language model.\nCopilot Chat allows paying Microsoft 365 customers to use the AI-powered chat feature in its Office software products, including Word, Excel, and PowerPoint.\nMicrosoft said the bug, trackable by admins as CW1226324, means that draft and sent email messages “with a confidential label applied are being incorrectly processed by Microsoft 365 Copilot chat.” \nThe tech giant said it began rolling out a fix for the bug earlier in February. A spokesperson for Microsoft did not respond to a request for comment, including a question about how many customers are affected by the bug.\nEarlier this week, the European Parliament’s IT department told lawmakers that it blocked the built-in AI features on their work-issued devices, citing concerns that the AI tools could upload potentially confidential correspondence to the cloud.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Security\n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Microsoft says Office bug exposed customers’ confidential emails to Copilot AI",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2041281128-e1712563728365.jpg?w=150"
-      ],
-      "datePublished": "2026-02-18T14:44:28.000Z",
-      "dateModified": "2026-02-18T14:44:28.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Google adds music-generation capabilities to the Gemini app",
-    "url": "https://techcrunch.com/2026/02/18/google-adds-music-generation-capabilities-to-the-gemini-app/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Lyria-feature.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-02-18T16:00:00.000Z",
-    "description": "\nGoogle announced on Wednesday that it’s adding a music-generation feature to the Gemini app. The company is using DeepMind’s Lyria 3 music-generation",
-    "body": "\nGoogle announced on Wednesday that it’s adding a music-generation feature to the Gemini app. The company is using DeepMind’s Lyria 3 music-generation model to power the feature, which is still in beta.\nTo use the feature, you’ll describe the song you want to create, and the app will generate a track along with lyrics. For instance, you could ask Gemini to create a “comical R&B slow jam about a sock finding its match,” and the app will generate a 30-second track along with cover art made by Nano Banana.\nGoogle said that you can even upload a photo or a video, and the AI-powered tool will create a song to match the mood of the media file.\n\nLoading the player…\n\nThe company said that Lyria 3 improves on the previous generation of models, creating more realistic and complex music tracks. Users can also change and control other elements like style, vocals, and tempo.\nAlong with rolling out Lyria 3 to the Gemini app, Google is making the model available to YouTube creators through the Dream Track feature on YouTube, a tool that helps creators make AI-generated tracks. The option was only available to YouTube creators in the U.S. until now. But with this release, Google is expanding Dream Track availability globally.\nGoogle said that you can’t mimic an artist outright, but if you add an artist’s name to your prompt, Gemini will create a track in a similar style or a mood. (It’s not clear if generation will make it easier for others to decode the music style of a particular artist.)\n“Music generation with Lyria 3 is designed for original expression, not for mimicking existing artists. If your prompt names a specific artist, Gemini will take this as broad creative inspiration and create a track that shares a similar style or mood. We also have filters in place to check outputs against existing content,” the company said in a blog post.\nGoogle noted that all songs created with the Lyria 3 model will have a SynthID watermark to identify AI-generated content. The company said that it’s also adding capabilities to identify AI-generated music with SynthID within Gemini. Users will be able to upload tracks and ask Gemini if it is AI-generated.\nMusic generation is rolling out to all 18+ Gemini users across the world with support for English, German, Spanish, French, Hindi, Japanese, Korean, and Portuguese.\nAI-generated music has created mixed sentiments among artists and listeners. On one hand, companies like YouTube and Spotify are adopting AI and signing contracts with music labels to monetize AI-generated music. On the other hand, AI model and tooling companies are facing lawsuits from the music industry over copyrights of the training material. Platforms like Deezer have published tools to mark AI-generated music to curb fraudulent streams of this kind of music.\n\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Google adds music-generation capabilities to the Gemini app",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/02/Lyria-feature.jpg?w=150"
-      ],
-      "datePublished": "2026-02-18T16:00:00.000Z",
-      "dateModified": "2026-02-18T16:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "OpenAI pushes into higher education as India seeks to scale AI skills",
-    "url": "https://techcrunch.com/2026/02/18/openai-pushes-into-higher-education-as-india-seeks-to-scale-ai-skills/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/08/openai-india.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-02-18T14:32:42.000Z",
-    "description": "\nOpenAI is expanding its footprint in India and moving into the country’s higher-education system through partnerships with leading academic instituti",
-    "body": "\nOpenAI is expanding its footprint in India and moving into the country’s higher-education system through partnerships with leading academic institutions. The move comes as the South Asian nation seeks to scale AI skills and build domestic capacity in one of the world’s largest talent markets.\nOn Wednesday, OpenAI said it was partnering with six public and private higher-education institutions in India, including top engineering, management, medical, and design-focused institutes, with the aim of reaching more than 100,000 students, faculty, and staff over the next year.\nRather than focusing on consumer use, the initiative centers on integrating AI into core academic functions, signaling OpenAI’s interest in influencing how AI is taught, governed, and normalized within one of the world’s largest higher-education systems.\nOpenAI has already built a large consumer audience for its ChatGPT chatbot, which has over 100 million monthly active users in India, according to CEO Sam Altman, and India has emerged as the company’s second-largest user base after the U.S. The announcement also coincides with a broader push by leading AI firms to deepen their presence in India, which is hosting an AI Impact Summit in New Delhi this week.\nThe first cohort of partners includes some of India’s most influential academic institutions, such as the Indian Institute of Technology Delhi, the Indian Institute of Management Ahmedabad, and the All India Institute of Medical Sciences New Delhi, alongside private universities and specialized design schools. The ChatGPT maker said the partnerships would span disciplines ranging from engineering and management to healthcare and creative fields.\nIndia has already emerged as a key testing ground for AI use in education. Last month, Google said India accounts for the highest global usage of its Gemini tools for learning. Microsoft, similarly, said this week it would expand its Elevate skilling program in India to train teachers across schools, vocational institutes, and higher-education settings, working with government agencies as part of a broader push to build AI skills at scale.\nOpenAI said the partnerships would involve campus-wide access to its ChatGPT Edu tools, faculty training, and responsible-use frameworks. The focus, the company said, is on embedding AI into core academic workflows such as coding, research, analytics, and case analysis, rather than offering standalone access to tools.\nTwo of the partner institutions, the Indian Institute of Management Ahmedabad and Manipal Academy of Higher Education, will also introduce OpenAI-backed certifications. Additionally, OpenAI said it would work with Indian ed-tech platforms, including Physics Wallah, upGrad, and HCL GUVI, to extend AI training beyond campuses. These platforms will launch structured courses on AI fundamentals and ChatGPT use cases, aimed at students and early-career professionals.\nRaghav Gupta, head of education at OpenAI India, said educational institutions were a “critical route” to closing the gap between rapidly advancing AI tools and how people are actually using them, as skills demands shift across the economy.\nLast year, OpenAI hired Gupta, a former Coursera Asia-Pacific managing director, as its India and Asia-Pacific head of education, alongside the launch of a Learning Accelerator program focused on expanding AI skills.\nThe flurry of moves into education underscores how AI companies are increasingly looking beyond consumer tools and corporate clients toward institutions that shape skills, norms, and long-term adoption. For countries like India, the contest is not just around access to AI, but also about who helps define how it is taught, governed, and embedded at scale.\n\n\n\t\tJagmeet covers startups, tech policy-related updates, and all other major tech-centric developments from India for TechCrunch. He previously worked as a principal correspondent at NDTV. \r\nYou can contact or verify outreach from Jagmeet by emailing mail@journalistjagmeet.com.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "OpenAI pushes into higher education as India seeks to scale AI skills",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/08/openai-india.jpg?w=150"
-      ],
-      "datePublished": "2026-02-18T14:32:42.000Z",
-      "dateModified": "2026-02-18T14:32:42.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Etsy sells secondhand clothing marketplace Depop to eBay for $1.2B",
     "url": "https://techcrunch.com/2026/02/18/etsy-sells-secondhand-clothing-marketplace-depop-to-ebay-for-1-2b/",
     "image": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1240165689.jpg?w=150",
@@ -116,6 +41,31 @@
       ],
       "datePublished": "2026-02-18T22:55:41.000Z",
       "dateModified": "2026-02-18T22:55:41.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Reliance unveils $110B AI investment plan as India ramps up tech ambitions",
+    "url": "https://techcrunch.com/2026/02/19/reliance-unveils-110b-ai-investment-plan-as-india-ramps-up-tech-ambitions/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/reliance-mukesh-ambani.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-02-19T11:39:17.000Z",
+    "description": "\nMukesh Ambani, the billionaire chairperson of Indian conglomerate Reliance, on Thursday unveiled the group’s ₹10 trillion (about $110 billion) plan t",
+    "body": "\nMukesh Ambani, the billionaire chairperson of Indian conglomerate Reliance, on Thursday unveiled the group’s ₹10 trillion (about $110 billion) plan to build AI computing infrastructure in India over the next seven years.\nSpeaking at the India AI Impact Summit in New Delhi on Thursday, Ambani said the investment would fund gigawatt-scale data centers, a nationwide edge computing network, and new AI services integrated with Reliance’s Jio telecom platform.\nReliance has already begun construction of multi-gigawatt data centers in Jamnagar, Gujarat, Ambani said, and more than 120 megawatts of capacity is expected to come online in the second half of 2026.\nAmbani’s pledge adds to a growing wave of AI investment in India. Earlier this week, Adani Group outlined plans to invest about $100 billion to build AI data centers in the country, and the Indian government expects more than $200 billion in AI infrastructure spending over the next two years. \nGlobal technology firms are also stepping up their presence, with OpenAI partnering with the Tata Group to develop about 100 megawatts of AI capacity in the country, and plans to scale that to 1 gigawatt eventually.\nAmbani said the push is essential for India’s technological self-reliance, saying the country “cannot afford to rent intelligence,” and that Reliance aims to cut the cost of AI services as dramatically as it once reduced mobile data prices in the country.\n“The biggest constraint in AI today is not talent or imagination,” Ambani said. “It is scarcity and high cost of compute.”\n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 23, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThe build-out, Ambani said, would be supported by Reliance’s green energy capacity, which stretches to 10 gigawatts of surplus power from solar projects in Gujarat and Andhra Pradesh.\nReliance will partner with Indian enterprises, startups, and academic institutions to embed AI in industries ranging from manufacturing and logistics to agriculture, healthcare and financial services.\nJio has already been striking AI partnerships: it last year landed a deal with Google to offer free Gemini AI Pro access to millions of its users in India.\nReliance also plans to develop AI capabilities in several Indian languages to spur adoption of the tech, Ambani said.\nThe aggressive push highlights how India’s largest conglomerates are racing to secure a foothold in what is expected to be one of the country’s biggest technology opportunities.\n\n\n\t\tJagmeet covers startups, tech policy-related updates, and all other major tech-centric developments from India for TechCrunch. He previously worked as a principal correspondent at NDTV. \r\nYou can contact or verify outreach from Jagmeet by emailing mail@journalistjagmeet.com.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Reliance unveils $110B AI investment plan as India ramps up tech ambitions",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/02/reliance-mukesh-ambani.jpg?w=150"
+      ],
+      "datePublished": "2026-02-19T11:39:17.000Z",
+      "dateModified": "2026-02-19T11:39:17.000Z",
       "author": [
         {
           "@type": "Person",
@@ -150,22 +100,22 @@
     }
   },
   {
-    "title": "Audible’s new ‘Read & Listen’ feature syncs your Kindle e-books with audiobooks",
-    "url": "https://techcrunch.com/2026/02/18/audibles-new-read-listen-feature-syncs-your-kindle-ebooks-with-audiobooks/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/audible-read-and-listen.png?w=150",
+    "title": "Amazon halts Blue Jay robotics project after less than 6 months",
+    "url": "https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/08/about-amazon-hero-20230227-amazon-288.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-02-18T16:20:09.000Z",
-    "description": "\nOnly days after Spotify announced its foray into physical book sales, which included an audiobook feature that lets you sync your listening and your ",
-    "body": "\nOnly days after Spotify announced its foray into physical book sales, which included an audiobook feature that lets you sync your listening and your offline reading progress, Amazon-owned Audible has launched a feature that brings e-books together with audiobooks.\nThe company announced on Wednesday an “immersion reading” feature in the Audible app, which allows readers who have both the e-book and audiobook versions of a title in their Audible and Kindle libraries to read the e-book’s text while the audio plays. The feature also lets users switch between the different formats across devices. While in the “Read & Listen” mode, the text of the book is highlighted in real time in sync with the narration.\nThe Kindle app already offered a tool that would allow readers to move between the Audible version and the e-book, when both versions had been purchased. This feature is now coming to Audible’s app for the first time. Customers will need to own both versions of the book for this to work, but discounted audiobooks will be made available to customers who own the matching e-book, the company says.\nAt launch, hundreds of thousands of titles will be supported by the new “Read & Listen” feature, including those in English, German, Spanish, Italian, and French. Initially, the option will be offered in the U.S., with the U.K., Australia, and Germany gaining support over the next few months.\nTo discover eligible titles, Audible will automatically identify which Kindle e-books have audiobook matches within its app.\nOf course, many customers were already reading and listening to their books without buying two versions — by having Alexa narrate their e-books from their Kindle library. Alexa is not a professional narrator by any means, and the AI assistant’s more monotonous delivery can lead you to zone out. By offering a way to add on the audiobook for a lower price when you’ve already bought the e-book, Amazon hopes to boost book sales across formats.\nThe company also claims that the combination of reading and listening can improve focus and comprehension, according to industry research and its own internal data. In addition, customers who read and listen are the most engaged, consuming nearly twice as much content per month as audiobook-only customers, Audible noted. \n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 23, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThe feature may make sense for students and those learning a new language, as well as those who are trying to get through more books quickly. It’s also useful for those who regularly switch back and forth between reading and listening, and those who want the experience of the narration — particularly if a book is read by a favorite voice actor. Plus, some may simply appreciate having a narrator introduce all the characters by name, so they can learn the pronunciation without having to guess (a particularly thorny issue in fantasy novels!).\n“Audiobooks count as reading,” said Andy Tsao, chief product officer at Audible, in a statement about the launch. “But now at Audible, you can read with your eyes too. Read & Listen gives book lovers the best of both worlds. Whether you’re learning a new language, studying for school, or lost in a story’s world, you no longer have to choose one format over the other.”\nAmazon notes that the new feature will not impact publishers’ royalty payments. \n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-02-18T18:27:10.000Z",
+    "description": "\n\t\n\t\tImage Credits:Amazon\t\n\t\n\t\t\t\t\t\t10:27 AM PST · February 18, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nAmazon has hundreds of thousands of robots in its warehouses, but ",
+    "body": "\n\t\n\t\tImage Credits:Amazon\t\n\t\n\t\t\t\t\t\t10:27 AM PST · February 18, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nAmazon has hundreds of thousands of robots in its warehouses, but that doesn’t mean all of its robotic initiatives are a success story.\nThe e-commerce giant has halted its Blue Jay warehouse robotics project just months after unveiling the tech, as originally reported by Business Insider and confirmed by TechCrunch.\nBlue Jay, a multi-armed robot designed to sort and move packages, was unveiled in October for use in the company’s same-day delivery facilities. At the time, the company was testing the robots at a facility in South Carolina and said it took Amazon significantly less time to develop Blue Jay — only about a year— than it did to develop its other warehouse robots, a speed the company credited to advancements in AI.\nAmazon spokesperson Terrence Clark told TechCrunch that Blue Jay was launched as a prototype — although that was not made clear in the company’s original press release.\nThe company plans to use Blue Jay’s core technology for other robotics “manipulation programs” with employees who worked on Blue Jay being moved to other projects.\n“We’re always experimenting with new ways to improve the customer experience and make work safer, more efficient, and more engaging for our employees,” Clark told TechCrunch over email. “In this case, we’re actually accelerating the use of the underlying technology developed for Blue Jay, and nearly all of the technologies are being carried over and will continue to support employees across our network.”\nAmazon also unveiled the Vulcan robot last year, which is used in the storage compartments of the company’s warehouses. Vulcan is a two-armed robot, with one arm meant to rearrange and move items in a compartment while the other is equipped with a camera and suction cups to grab goods. The Vulcan can allegedly “feel” the objects that it touches and was trained on data gathered from real-world interactions.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 23, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nAmazon has been developing its internal robotics program since 2012 when it purchased Kiva Systems, a robotics company whose warehouse automation technology formed the foundation of Amazon’s fulfillment operations. It surpassed 1 million robots in its warehouses last July.\n\n\t\t\t\n\tTopics\n\n\n\n\t\tBecca is a senior writer at TechCrunch that covers venture capital trends and startups. She previously covered the same beat for Forbes and the Venture Capital Journal.\r\nYou can contact or verify outreach from Becca by emailing rebecca.szkutak@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n\n\t\t",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Audible’s new ‘Read & Listen’ feature syncs your Kindle e-books with audiobooks",
+      "headline": "Amazon halts Blue Jay robotics project after less than 6 months",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/02/audible-read-and-listen.png?w=150"
+        "https://techcrunch.com/wp-content/uploads/2024/08/about-amazon-hero-20230227-amazon-288.jpg?w=150"
       ],
-      "datePublished": "2026-02-18T16:20:09.000Z",
-      "dateModified": "2026-02-18T16:20:09.000Z",
+      "datePublished": "2026-02-18T18:27:10.000Z",
+      "dateModified": "2026-02-18T18:27:10.000Z",
       "author": [
         {
           "@type": "Person",
@@ -175,122 +125,22 @@
     }
   },
   {
-    "title": "Hacking conference Def Con bans three people linked to Epstein",
-    "url": "https://techcrunch.com/2026/02/18/hacking-conference-def-con-bans-three-people-linked-to-epstein/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/def-con-conference-2025.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-02-18T22:04:13.000Z",
-    "description": "\nDef Con, one of the largest and longest-running hacking conferences in the world, announced on Wednesday that three people linked to Jeffrey Epstein ",
-    "body": "\nDef Con, one of the largest and longest-running hacking conferences in the world, announced on Wednesday that three people linked to Jeffrey Epstein are no longer allowed to attend.  \nThe conference justified adding Pablos Holman, Vincenzo Iozzo, and Joichi Ito to its public list of banned individuals, citing the three as appearing in the Department of Justice’s latest release of files related to its investigation of the late investor and convicted sex offender. Def Con also cited an article in Politico based on emails that the three exchanged with Epstein.\nJoan Vollero, a spokesperson for Iozzo, told TechCrunch in a statement that Def Con’s actions are “entirely performative, given that Mr. Iozzo has barely attended the conference in the past twenty years.”\n“It was a rush to judgment not based on any investigation or wrongdoing by Mr. Iozzo,” the spokesperson said.\nRepresentatives for Def Con, Holman, and Ito did not immediately respond to TechCrunch’s request for comment. \nThe move to ban the three comes days after TechCrunch reported that cybersecurity conferences Black Hat and Code Blue removed Iozzo from their official review board pages, amid new and emerging revelations linking the prominent hacker, among others, to Epstein.\n\n\t\t\tContact Us\n\t\t\tDo you have more information about Epstein’s connections in the cybersecurity world?? From a non-work device, you can contact Lorenzo Franceschi-Bicchierai securely on Signal at +1 917 257 1382, or via Telegram, Keybase and Wire @lorenzofb, or by email. \t\t\nIozzo is a veteran of the cybersecurity industry who is currently the founder and chief executive of identity startup SlashID. He previously served as a director at CrowdStrike after the security giant acquired his cybersecurity startup IperLane in 2017. As TechCrunch previously reported, Iozzo interacted with Epstein between 2014 and 2018, including after the Miami Herald reported new allegations that Epstein had abused dozens of women and children.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 23, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nEpstein pleaded guilty in 2008 to soliciting sex from girls and registered as a sex offender in New York and Florida. In 2019, the Department of Justice accused Epstein of trafficking, exploiting, and abusing dozens of underage girls. Epstein died in jail.\nIozzo previously told TechCrunch that his interactions with Epstein were “limited to business opportunities that never materialized, as well as discussion of the markets and emerging technologies,” and that he “never observed nor participated in any illegal activity or behavior.”\nPrior to his startups, Iozzo was a research affiliate at MIT Media Lab, which was overseen by Ito at the time. The two appear in several Epstein emails together. \nJoichi Ito was the director of the MIT Media Lab until 2019, when he resigned after it was reported that he was aware that Epstein was a convicted sex offender and that he and the university had extensive personal and financial relationships with Epstein. \nHolman, meanwhile, is the general partner at venture capital firm Deep Future and describes himself on his website as “a hacker, inventor & technology futurist.” \nHolman was in contact with Epstein since 2010, planned to stay at one of his apartments in New York City in 2013, and tried to help Epstein hide negative online news stories about himself. \nAccording to an email, Epstein made plans to attend Def Con along with Holman in 2013, but it’s unclear if they attended. Def Con founder Jeff Moss said that as far as he knows, “Epstein never attended.”\n\n\n\t\tLorenzo Franceschi-Bicchierai is a Senior Writer at TechCrunch, where he covers hacking, cybersecurity, surveillance, and privacy. \nYou can contact or verify outreach from Lorenzo by emailing lorenzo@techcrunch.com, via encrypted message at +1 917 257 1382 on Signal, and @lorenzofb on Keybase/Telegram.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Hacking conference Def Con bans three people linked to Epstein",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/02/def-con-conference-2025.jpg?w=150"
-      ],
-      "datePublished": "2026-02-18T22:04:13.000Z",
-      "dateModified": "2026-02-18T22:04:13.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Is your startup’s check engine light on? Google Cloud’s VP explains what to do",
-    "url": "https://techcrunch.com/video/is-your-startups-check-engine-light-on-google-clouds-vp-explains-what-to-do/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/54885194602_44d8e5385f_o.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-02-18T21:07:00.000Z",
-    "description": "\n\t\t\n\nLoading the player…\n\nStartup founders are being pushed to move faster than ever, using AI while facing tighter funding, rising infrastructure cos",
-    "body": "\n\t\t\n\nLoading the player…\n\nStartup founders are being pushed to move faster than ever, using AI while facing tighter funding, rising infrastructure costs, and more pressure to show real traction early. Cloud credits, access to GPUs, and foundation models have made it easier to get started, but those early infrastructure choices can have unforeseen consequences once startups move beyond free credits and into real cloud bills. \nOn this episode of TechCrunch’s Equity podcast, Rebecca Bellan caught up with Darren Mowry, Google Cloud’s vice president of global startups who is right at the center of those tradeoffs. Watch as they discuss what Mowry’s seeing across the startup ecosystem, how Google Cloud is competing for AI startups, and what founders should be thinking about as they scale. \nSubscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. You also can follow Equity on X and Threads, at @EquityPod. \n\n\t\t\n\tTopics\n\n\n\n\t\tTheresa Loconsolo is an audio producer at TechCrunch focusing on Equity, the network’s flagship podcast. Before joining TechCrunch in 2022, she was one of 2 producers at a four-station conglomerate where she wrote, recorded, voiced and edited content, and engineered live performances and interviews from guests like lovelytheband. Theresa is based in New Jersey and holds a bachelors degree in Communication from Monmouth University. You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n\n\t\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Is your startup’s check engine light on? Google Cloud’s VP explains what to do",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/02/54885194602_44d8e5385f_o.jpg?w=150"
-      ],
-      "datePublished": "2026-02-18T21:07:00.000Z",
-      "dateModified": "2026-02-18T21:07:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "X continues to bet on vertical video with its latest update",
-    "url": "https://techcrunch.com/2026/02/18/x-continues-to-bet-on-vertical-video-with-its-latest-update/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2258168632.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-02-18T16:15:12.000Z",
-    "description": "\nX recently introduced a new immersive video player, signaling another major step in its ongoing push into video-focused experiences. \nNikita Bier, X’",
-    "body": "\nX recently introduced a new immersive video player, signaling another major step in its ongoing push into video-focused experiences. \nNikita Bier, X’s head of product, announced the update earlier this week, admitting the previous video player “badly needed a refresh.” The redesign aims to make video consumption more engaging and user-friendly, especially on mobile devices.\nImage Credits:@nikitabier on X\nThe update, currently rolling out to iOS, allows users to expand videos to full screen with a single tap. Once in full-screen mode, viewers can swipe up to scroll to the next video, which is reminiscent of TikTok’s popular format.\nWhile the new player aims to enhance mobile video viewing, some users argue that the update forces all videos into a cropped, full-screen view, removing the option to view content in its original aspect ratio.\n“This UI sucks so bad. Let me just watch full-scale videos,” one user said. \nWhen another user asked which orientation is preferred, Bier confirmed that portrait is ideal. This approach mirrors broader industry trends, with vertical videos dominating platforms such as TikTok and Instagram Reels. Even streaming services have adopted the format, with Disney+ being the most recent to introduce a vertical video feed. \n“Sorry, but cropping the video incentivized people to post square videos. We are a mobile company,” he said, noting that X will stop cropping vertical content moving forward. \n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 23, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nBier hinted that more video-focused updates are on the horizon as X doubles down on its video ambitions.\nThe timing of X’s update is notable, given that last month TikTok’s U.S. operations were sold to an American investor group. X is positioning itself as a competitor, ramping up its video features to attract both viewers and creators. \nThe recent introduction of the video player follows X’s launch of a dedicated vertical video feed that became available globally last year. The company is also incorporating AI-driven tools, such as Grok’s text-to-video generation feature. \nNotably, Grok’s image-generation capability recently sparked controversy, leading to its restriction to paying subscribers on X, due to the tool allowing users to create sexualized and nude images of women and children.\n\n\n\t\tLauren covers media, streaming, apps and platforms at TechCrunch.\nYou can contact or verify outreach from Lauren by emailing laurenf.techcrunch@gmail.com or via encrypted message at laurenforris22.25 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "X continues to bet on vertical video with its latest update",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2258168632.jpg?w=150"
-      ],
-      "datePublished": "2026-02-18T16:15:12.000Z",
-      "dateModified": "2026-02-18T16:15:12.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Snapchat+ tops 25M subscribers, driving company’s direct revenue ARR to $1B",
-    "url": "https://techcrunch.com/2026/02/18/snapchat-tops-25m-subscribers-driving-companys-direct-revenue-arr-to-1b/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=150",
+    "title": "Google adds music-generation capabilities to the Gemini app",
+    "url": "https://techcrunch.com/2026/02/18/google-adds-music-generation-capabilities-to-the-gemini-app/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Lyria-feature.jpg?w=150",
     "tag": "Tech",
     "date": "2026-02-18T16:00:00.000Z",
-    "description": "\nSnap’s direct revenue business has reached a $1 billion annualized revenue run rate, the company announced on Wednesday. Annualized revenue refers to",
-    "body": "\nSnap’s direct revenue business has reached a $1 billion annualized revenue run rate, the company announced on Wednesday. Annualized revenue refers to a business’s current revenue rate projected over a full year. The social media giant says the milestone is driven by its Snapchat+ offering, which has now surpassed 25 million subscribers.\nLaunched in 2022, Snapchat+ gives subscribers access to exclusive and pre-release features for $3.99 per month. Following a successful launch, Snap introduced additional paid tiers beyond the core Snapchat+ subscription over the past year to further diversify its revenue streams.\n“Snapchat+ has become one of the fastest-growing consumer subscription services globally, with subscriber growth every quarter,” the company wrote in a blog post. “What started as an early-access program for our most engaged Snapchatters has quickly scaled into a meaningful business—one that now represents a strong and growing revenue stream alongside our ads business.”\nLast June, Snapchat launched Lens+, which gives users access to exclusive Lenses and AR experiences, along with the perks in the standard Snapchat+ tier, for $8.99 per month. \nIn early 2025, the company launched an ad-free Snapchat+ subscription tier called Platinum for $15.99 per month. And, in a controversial move in September, Snapchat announced plans to cap free storage for its Memories feature and launched a paid storage plan that costs $1.99 per month. Snapchat+ subscribers will get up to 250GB of storage as part of their monthly subscription, while Snapchat Platinum users will get 5TB.\nMoving beyond Snapchat+, the company announced yesterday that it’s launching creator subscriptions in alpha with select people in the U.S. Users will be able to buy subscriptions to creators, including Jeremiah Brown, Harry Jowsey, and Skai Jackson. Creators can set their own monthly prices for subscriptions, which will unlock subscriber-only content, priority replies to a creator’s public Stories, and an ad-free experience for that creator’s Stories.\nIn terms of the future, Snap says it’s going to continue to grow Snapchat+ with a focus on customization and community-driven features. \nSnap has proven there is a market for social media subscriptions, and rival Meta is following suit, as the company told TechCrunch last month that it was going to test new subscriptions that give people access to exclusive features on Instagram, Facebook, and WhatsApp.\n\n\n\t\tAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing aisha@techcrunch.com or via encrypted message at aisha_malik.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "description": "\nGoogle announced on Wednesday that it’s adding a music-generation feature to the Gemini app. The company is using DeepMind’s Lyria 3 music-generation",
+    "body": "\nGoogle announced on Wednesday that it’s adding a music-generation feature to the Gemini app. The company is using DeepMind’s Lyria 3 music-generation model to power the feature, which is still in beta.\nTo use the feature, you’ll describe the song you want to create, and the app will generate a track along with lyrics. For instance, you could ask Gemini to create a “comical R&B slow jam about a sock finding its match,” and the app will generate a 30-second track along with cover art made by Nano Banana.\nGoogle said that you can even upload a photo or a video, and the AI-powered tool will create a song to match the mood of the media file.\n\nLoading the player…\n\nThe company said that Lyria 3 improves on the previous generation of models, creating more realistic and complex music tracks. Users can also change and control other elements like style, vocals, and tempo.\nAlong with rolling out Lyria 3 to the Gemini app, Google is making the model available to YouTube creators through the Dream Track feature on YouTube, a tool that helps creators make AI-generated tracks. The option was only available to YouTube creators in the U.S. until now. But with this release, Google is expanding Dream Track availability globally.\nGoogle said that you can’t mimic an artist outright, but if you add an artist’s name to your prompt, Gemini will create a track in a similar style or a mood. (It’s not clear if generation will make it easier for others to decode the music style of a particular artist.)\n“Music generation with Lyria 3 is designed for original expression, not for mimicking existing artists. If your prompt names a specific artist, Gemini will take this as broad creative inspiration and create a track that shares a similar style or mood. We also have filters in place to check outputs against existing content,” the company said in a blog post.\nGoogle noted that all songs created with the Lyria 3 model will have a SynthID watermark to identify AI-generated content. The company said that it’s also adding capabilities to identify AI-generated music with SynthID within Gemini. Users will be able to upload tracks and ask Gemini if it is AI-generated.\nMusic generation is rolling out to all 18+ Gemini users across the world with support for English, German, Spanish, French, Hindi, Japanese, Korean, and Portuguese.\nAI-generated music has created mixed sentiments among artists and listeners. On one hand, companies like YouTube and Spotify are adopting AI and signing contracts with music labels to monetize AI-generated music. On the other hand, AI model and tooling companies are facing lawsuits from the music industry over copyrights of the training material. Platforms like Deezer have published tools to mark AI-generated music to curb fraudulent streams of this kind of music.\n\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Snapchat+ tops 25M subscribers, driving company’s direct revenue ARR to $1B",
+      "headline": "Google adds music-generation capabilities to the Gemini app",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/02/Lyria-feature.jpg?w=150"
       ],
       "datePublished": "2026-02-18T16:00:00.000Z",
       "dateModified": "2026-02-18T16:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "OpenAI taps Tata for 100MW AI data center capacity in India, eyes 1GW",
-    "url": "https://techcrunch.com/2026/02/18/openai-taps-tata-for-100mw-ai-data-center-capacity-in-india-eyes-1gw/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/10/india-chatgpt.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-02-19T05:34:25.000Z",
-    "description": "\nOpenAI has partnered with India’s Tata Group to secure 100 megawatts of AI-ready data center capacity in the country, with plans to scale to 1 gigawa",
-    "body": "\nOpenAI has partnered with India’s Tata Group to secure 100 megawatts of AI-ready data center capacity in the country, with plans to scale to 1 gigawatt. The move is part of a broader push to deepen the company’s enterprise and infrastructure footprint in one of its fastest-growing markets. \nOpenAI announced on Thursday that the partnership with the Tata Group is part of its Stargate project, which aims to build AI-ready infrastructure and expand enterprise adoption globally. OpenAI will become the first customer of Tata Consultancy Services’ HyperVault data center business, beginning with 100 megawatts of capacity. The deal also includes deploying ChatGPT Enterprise across Tata’s workforce and standardizing AI-native software development through OpenAI’s tools.\nThe partnership, which falls under the “OpenAI for India” initiative, highlights the company’s expanding footprint in the country, which according to recent estimates from CEO Sam Altman has more than 100 million weekly ChatGPT users spanning students, teachers, developers, and entrepreneurs. The scale of adoption has positioned India as one of OpenAI’s most important growth markets as it deepens enterprise and infrastructure investments in the country.\nThe local data center capacity will allow OpenAI to run its most advanced models within India, reducing latency for users while meeting data residency, security, and compliance requirements for regulated sectors and government workloads. Hosting compute domestically is critical for enterprises that handle sensitive data and operate under data localization and digital infrastructure rules. These circumstances could widen OpenAI’s access to enterprise customers that require in-country processing.\nAn initial 100 megawatts of capacity represents a substantial commitment in the context of AI infrastructure, where large-scale model training and inference require power-hungry clusters of graphics processing units, or GPUs. Scaling to 1 gigawatt over time would place the Tata facility among the largest AI-focused data center deployments globally, underlining the scale of OpenAI’s long-term ambitions in India.\nBeyond infrastructure, OpenAI and Tata Group will pursue a strategic enterprise collaboration aimed at accelerating AI adoption across Tata’s businesses. The conglomerate plans to roll out ChatGPT Enterprise to its workforce over the coming years, beginning with hundreds of thousands of employees at Tata Consultancy Services (TCS), in what would rank among the largest enterprise AI deployments globally. TCS also intends to use OpenAI’s Codex tools to standardize AI-native software development across its engineering teams.\nN Chandrasekaran, chairman of Tata Sons, said OpenAI’s partnership would help build “state-of-the-art AI infrastructure in India” while supporting efforts to skill the country’s workforce for the AI era.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 23, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nFinancial terms of the deal were not disclosed, including whether OpenAI is making a capital investment in HyperVault or leasing capacity.\nIn November 2025, TCS secured backing from private equity firm TPG to develop AI-ready infrastructure in India under its HyperVault data center business. The platform is backed by about ₹180 billion (about $2 billion) in planned investment and is designed to support large-scale compute workloads for hyperscalers and enterprise customers.\nOpenAI will also expand its certification programs in India, with TCS becoming the first participating organization outside the United States. The certifications are designed to help professionals build practical AI skills across roles and industries, the company said. The move follows OpenAI’s recent partnerships with leading Indian institutions in engineering, medicine, and design.\nOpenAI plans to open new offices in Mumbai and Bengaluru later this year, adding to its existing presence in New Delhi as it deepens operations in the country. The expansion is expected to support enterprise partnerships, developer engagement, and local regulatory coordination as the company scales its footprint in India.\nThe announcement comes as India hosts its AI Impact Summit in New Delhi, where global AI leaders, including Sam Altman, Anthropic CEO Dario Amodei and Google CEO Sundar Pichai are participating alongside Indian startups and enterprises showcasing AI applications across sectors such as finance, healthcare, and education.\nOpenAI has been expanding its presence in India through partnerships with companies including Pine Labs, JioHotstar, Eternal, Cars24, HCLTech, PhonePe, CRED, and MakeMyTrip, as it seeks to embed its models across consumer platforms, enterprise systems and digital payments infrastructure in one of the world’s largest internet markets.\nTogether, the data center build-out, enterprise deployments, and expanding partner ecosystem signal OpenAI’s most comprehensive push yet to anchor advanced AI infrastructure and applications in India.\n\n\n\t\tJagmeet covers startups, tech policy-related updates, and all other major tech-centric developments from India for TechCrunch. He previously worked as a principal correspondent at NDTV. \r\nYou can contact or verify outreach from Jagmeet by emailing mail@journalistjagmeet.com.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "OpenAI taps Tata for 100MW AI data center capacity in India, eyes 1GW",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/10/india-chatgpt.jpg?w=150"
-      ],
-      "datePublished": "2026-02-19T05:34:25.000Z",
-      "dateModified": "2026-02-19T05:34:25.000Z",
       "author": [
         {
           "@type": "Person",
@@ -325,22 +175,22 @@
     }
   },
   {
-    "title": "Amazon halts Blue Jay robotics project after less than 6 months",
-    "url": "https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/08/about-amazon-hero-20230227-amazon-288.jpg?w=150",
+    "title": "OpenAI taps Tata for 100MW AI data center capacity in India, eyes 1GW",
+    "url": "https://techcrunch.com/2026/02/18/openai-taps-tata-for-100mw-ai-data-center-capacity-in-india-eyes-1gw/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/india-chatgpt.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-02-18T18:27:10.000Z",
-    "description": "\n\t\n\t\tImage Credits:Amazon\t\n\t\n\t\t\t\t\t\t10:27 AM PST · February 18, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nAmazon has hundreds of thousands of robots in its warehouses, but ",
-    "body": "\n\t\n\t\tImage Credits:Amazon\t\n\t\n\t\t\t\t\t\t10:27 AM PST · February 18, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nAmazon has hundreds of thousands of robots in its warehouses, but that doesn’t mean all of its robotic initiatives are a success story.\nThe e-commerce giant has halted its Blue Jay warehouse robotics project just months after unveiling the tech, as originally reported by Business Insider and confirmed by TechCrunch.\nBlue Jay, a multi-armed robot designed to sort and move packages, was unveiled in October for use in the company’s same-day delivery facilities. At the time, the company was testing the robots at a facility in South Carolina and said it took Amazon significantly less time to develop Blue Jay — only about a year— than it did to develop its other warehouse robots, a speed the company credited to advancements in AI.\nAmazon spokesperson Terrence Clark told TechCrunch that Blue Jay was launched as a prototype — although that was not made clear in the company’s original press release.\nThe company plans to use Blue Jay’s core technology for other robotics “manipulation programs” with employees who worked on Blue Jay being moved to other projects.\n“We’re always experimenting with new ways to improve the customer experience and make work safer, more efficient, and more engaging for our employees,” Clark told TechCrunch over email. “In this case, we’re actually accelerating the use of the underlying technology developed for Blue Jay, and nearly all of the technologies are being carried over and will continue to support employees across our network.”\nAmazon also unveiled the Vulcan robot last year, which is used in the storage compartments of the company’s warehouses. Vulcan is a two-armed robot, with one arm meant to rearrange and move items in a compartment while the other is equipped with a camera and suction cups to grab goods. The Vulcan can allegedly “feel” the objects that it touches and was trained on data gathered from real-world interactions.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 23, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nAmazon has been developing its internal robotics program since 2012 when it purchased Kiva Systems, a robotics company whose warehouse automation technology formed the foundation of Amazon’s fulfillment operations. It surpassed 1 million robots in its warehouses last July.\n\n\t\t\t\n\tTopics\n\n\n\n\t\tBecca is a senior writer at TechCrunch that covers venture capital trends and startups. She previously covered the same beat for Forbes and the Venture Capital Journal.\r\nYou can contact or verify outreach from Becca by emailing rebecca.szkutak@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n\n\t\t",
+    "date": "2026-02-19T05:34:25.000Z",
+    "description": "\nOpenAI has partnered with India’s Tata Group to secure 100 megawatts of AI-ready data center capacity in the country, with plans to scale to 1 gigawa",
+    "body": "\nOpenAI has partnered with India’s Tata Group to secure 100 megawatts of AI-ready data center capacity in the country, with plans to scale to 1 gigawatt. The move is part of a broader push to deepen the company’s enterprise and infrastructure footprint in one of its fastest-growing markets. \nOpenAI announced on Thursday that the partnership with the Tata Group is part of its Stargate project, which aims to build AI-ready infrastructure and expand enterprise adoption globally. OpenAI will become the first customer of Tata Consultancy Services’ HyperVault data center business, beginning with 100 megawatts of capacity. The deal also includes deploying ChatGPT Enterprise across Tata’s workforce and standardizing AI-native software development through OpenAI’s tools.\nThe partnership, which falls under the “OpenAI for India” initiative, highlights the company’s expanding footprint in the country, which according to recent estimates from CEO Sam Altman has more than 100 million weekly ChatGPT users spanning students, teachers, developers, and entrepreneurs. The scale of adoption has positioned India as one of OpenAI’s most important growth markets as it deepens enterprise and infrastructure investments in the country.\nThe local data center capacity will allow OpenAI to run its most advanced models within India, reducing latency for users while meeting data residency, security, and compliance requirements for regulated sectors and government workloads. Hosting compute domestically is critical for enterprises that handle sensitive data and operate under data localization and digital infrastructure rules. These circumstances could widen OpenAI’s access to enterprise customers that require in-country processing.\nAn initial 100 megawatts of capacity represents a substantial commitment in the context of AI infrastructure, where large-scale model training and inference require power-hungry clusters of graphics processing units, or GPUs. Scaling to 1 gigawatt over time would place the Tata facility among the largest AI-focused data center deployments globally, underlining the scale of OpenAI’s long-term ambitions in India.\nBeyond infrastructure, OpenAI and Tata Group will pursue a strategic enterprise collaboration aimed at accelerating AI adoption across Tata’s businesses. The conglomerate plans to roll out ChatGPT Enterprise to its workforce over the coming years, beginning with hundreds of thousands of employees at Tata Consultancy Services (TCS), in what would rank among the largest enterprise AI deployments globally. TCS also intends to use OpenAI’s Codex tools to standardize AI-native software development across its engineering teams.\nN Chandrasekaran, chairman of Tata Sons, said OpenAI’s partnership would help build “state-of-the-art AI infrastructure in India” while supporting efforts to skill the country’s workforce for the AI era.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 23, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nFinancial terms of the deal were not disclosed, including whether OpenAI is making a capital investment in HyperVault or leasing capacity.\nIn November 2025, TCS secured backing from private equity firm TPG to develop AI-ready infrastructure in India under its HyperVault data center business. The platform is backed by about ₹180 billion (about $2 billion) in planned investment and is designed to support large-scale compute workloads for hyperscalers and enterprise customers.\nOpenAI will also expand its certification programs in India, with TCS becoming the first participating organization outside the United States. The certifications are designed to help professionals build practical AI skills across roles and industries, the company said. The move follows OpenAI’s recent partnerships with leading Indian institutions in engineering, medicine, and design.\nOpenAI plans to open new offices in Mumbai and Bengaluru later this year, adding to its existing presence in New Delhi as it deepens operations in the country. The expansion is expected to support enterprise partnerships, developer engagement, and local regulatory coordination as the company scales its footprint in India.\nThe announcement comes as India hosts its AI Impact Summit in New Delhi, where global AI leaders, including Sam Altman, Anthropic CEO Dario Amodei and Google CEO Sundar Pichai are participating alongside Indian startups and enterprises showcasing AI applications across sectors such as finance, healthcare, and education.\nOpenAI has been expanding its presence in India through partnerships with companies including Pine Labs, JioHotstar, Eternal, Cars24, HCLTech, PhonePe, CRED, and MakeMyTrip, as it seeks to embed its models across consumer platforms, enterprise systems and digital payments infrastructure in one of the world’s largest internet markets.\nTogether, the data center build-out, enterprise deployments, and expanding partner ecosystem signal OpenAI’s most comprehensive push yet to anchor advanced AI infrastructure and applications in India.\n\n\n\t\tJagmeet covers startups, tech policy-related updates, and all other major tech-centric developments from India for TechCrunch. He previously worked as a principal correspondent at NDTV. \r\nYou can contact or verify outreach from Jagmeet by emailing mail@journalistjagmeet.com.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Amazon halts Blue Jay robotics project after less than 6 months",
+      "headline": "OpenAI taps Tata for 100MW AI data center capacity in India, eyes 1GW",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/08/about-amazon-hero-20230227-amazon-288.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2025/10/india-chatgpt.jpg?w=150"
       ],
-      "datePublished": "2026-02-18T18:27:10.000Z",
-      "dateModified": "2026-02-18T18:27:10.000Z",
+      "datePublished": "2026-02-19T05:34:25.000Z",
+      "dateModified": "2026-02-19T05:34:25.000Z",
       "author": [
         {
           "@type": "Person",
@@ -366,6 +216,156 @@
       ],
       "datePublished": "2026-02-18T18:19:14.000Z",
       "dateModified": "2026-02-18T18:19:14.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Google debuts $499 Pixel 10a",
+    "url": "https://techcrunch.com/2026/02/18/google-debuts-499-pixel-10a/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Screenshot-2026-02-18-at-11.57.59-AM.png?w=150",
+    "tag": "Tech",
+    "date": "2026-02-18T17:41:46.000Z",
+    "description": "\nGoogle on Wednesday introduced its latest entry-level Pixel smartphone. The $499 Pixel 10a launches with new AI software capabilities and minor hardw",
+    "body": "\nGoogle on Wednesday introduced its latest entry-level Pixel smartphone. The $499 Pixel 10a launches with new AI software capabilities and minor hardware updates. The smartphone is available for preorder now with shipments starting March 5.  It comes in Lavender, Berry, Fog, and Obsidian.\nThe Pixel 10a features a completely flat back, which means the camera bar blends with the back of the phone and lies flat when you place it down on a surface.\nGoogle notes that the smartphone’s 6.3-inch Actua display is 11% brighter than the Pixel 9a. It also has faster charging than its predecessor, with more than 30 hours of battery life and up to 120 hours with the “Extreme Battery Saver” setting turned on.\nThe Pixel 10a comes with the same Tensor G4 chip that powered last year’s Pixel 9a. It features a 48 MP main camera, which Google says is the best camera on a phone under $500, along with a 13 MP ultrawide camera.\nImage Credits:Google\nAfter debuting a set of AI-powered camera features on the Pixel 10 series last summer, Google is now bringing them to the A-series phone. The “Auto Best Take” feature captures multiple frames in one shutter press and automatically selects the best version so everyone looks good in a group photo, while the “Camera Coach” feature gives users step-by-step guidance on lighting and composition.\nAdditionally, Google is bringing Satellite SOS to the A-series for the first time, allowing users to connect with emergency services even when they don’t have Wi-Fi or cellular service.\nAs with recent Pixel phones, the Pixel 10a will come with seven years of software and security updates.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 23, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nIt’s worth noting that the Pixel 10a doesn’t have the “PixelSnap” magnetic Qi charging feature on the Pixel 10, Pixel 10 Pro, and Pixel 10 Pro Fold.\nThe smartphone’s arrival comes just ahead of Apple’s upcoming new entry-level phone, the iPhone 17e. The device is expected to cost $599, like last year’s iPhone 16e.\nGoogle also announced that it’s launching Pixel Buds 2a in two new colors, Berry and Fog, to go with the Pixel 10a.\n\n\n\t\tAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing aisha@techcrunch.com or via encrypted message at aisha_malik.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Google debuts $499 Pixel 10a",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/02/Screenshot-2026-02-18-at-11.57.59-AM.png?w=150"
+      ],
+      "datePublished": "2026-02-18T17:41:46.000Z",
+      "dateModified": "2026-02-18T17:41:46.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Audible’s new ‘Read & Listen’ feature syncs your Kindle e-books with audiobooks",
+    "url": "https://techcrunch.com/2026/02/18/audibles-new-read-listen-feature-syncs-your-kindle-ebooks-with-audiobooks/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/audible-read-and-listen.png?w=150",
+    "tag": "Tech",
+    "date": "2026-02-18T16:20:09.000Z",
+    "description": "\nOnly days after Spotify announced its foray into physical book sales, which included an audiobook feature that lets you sync your listening and your ",
+    "body": "\nOnly days after Spotify announced its foray into physical book sales, which included an audiobook feature that lets you sync your listening and your offline reading progress, Amazon-owned Audible has launched a feature that brings e-books together with audiobooks.\nThe company announced on Wednesday an “immersion reading” feature in the Audible app, which allows readers who have both the e-book and audiobook versions of a title in their Audible and Kindle libraries to read the e-book’s text while the audio plays. The feature also lets users switch between the different formats across devices. While in the “Read & Listen” mode, the text of the book is highlighted in real time in sync with the narration.\nThe Kindle app already offered a tool that would allow readers to move between the Audible version and the e-book, when both versions had been purchased. This feature is now coming to Audible’s app for the first time. Customers will need to own both versions of the book for this to work, but discounted audiobooks will be made available to customers who own the matching e-book, the company says.\nAt launch, hundreds of thousands of titles will be supported by the new “Read & Listen” feature, including those in English, German, Spanish, Italian, and French. Initially, the option will be offered in the U.S., with the U.K., Australia, and Germany gaining support over the next few months.\nTo discover eligible titles, Audible will automatically identify which Kindle e-books have audiobook matches within its app.\nOf course, many customers were already reading and listening to their books without buying two versions — by having Alexa narrate their e-books from their Kindle library. Alexa is not a professional narrator by any means, and the AI assistant’s more monotonous delivery can lead you to zone out. By offering a way to add on the audiobook for a lower price when you’ve already bought the e-book, Amazon hopes to boost book sales across formats.\nThe company also claims that the combination of reading and listening can improve focus and comprehension, according to industry research and its own internal data. In addition, customers who read and listen are the most engaged, consuming nearly twice as much content per month as audiobook-only customers, Audible noted. \n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 23, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThe feature may make sense for students and those learning a new language, as well as those who are trying to get through more books quickly. It’s also useful for those who regularly switch back and forth between reading and listening, and those who want the experience of the narration — particularly if a book is read by a favorite voice actor. Plus, some may simply appreciate having a narrator introduce all the characters by name, so they can learn the pronunciation without having to guess (a particularly thorny issue in fantasy novels!).\n“Audiobooks count as reading,” said Andy Tsao, chief product officer at Audible, in a statement about the launch. “But now at Audible, you can read with your eyes too. Read & Listen gives book lovers the best of both worlds. Whether you’re learning a new language, studying for school, or lost in a story’s world, you no longer have to choose one format over the other.”\nAmazon notes that the new feature will not impact publishers’ royalty payments. \n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Audible’s new ‘Read & Listen’ feature syncs your Kindle e-books with audiobooks",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/02/audible-read-and-listen.png?w=150"
+      ],
+      "datePublished": "2026-02-18T16:20:09.000Z",
+      "dateModified": "2026-02-18T16:20:09.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Is your startup’s check engine light on? Google Cloud’s VP explains what to do",
+    "url": "https://techcrunch.com/video/is-your-startups-check-engine-light-on-google-clouds-vp-explains-what-to-do/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/54885194602_44d8e5385f_o.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-02-18T21:07:00.000Z",
+    "description": "\n\t\t\n\nLoading the player…\n\nStartup founders are being pushed to move faster than ever, using AI while facing tighter funding, rising infrastructure cos",
+    "body": "\n\t\t\n\nLoading the player…\n\nStartup founders are being pushed to move faster than ever, using AI while facing tighter funding, rising infrastructure costs, and more pressure to show real traction early. Cloud credits, access to GPUs, and foundation models have made it easier to get started, but those early infrastructure choices can have unforeseen consequences once startups move beyond free credits and into real cloud bills. \nOn this episode of TechCrunch’s Equity podcast, Rebecca Bellan caught up with Darren Mowry, Google Cloud’s vice president of global startups who is right at the center of those tradeoffs. Watch as they discuss what Mowry’s seeing across the startup ecosystem, how Google Cloud is competing for AI startups, and what founders should be thinking about as they scale. \nSubscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. You also can follow Equity on X and Threads, at @EquityPod. \n\n\t\t\n\tTopics\n\n\n\n\t\tTheresa Loconsolo is an audio producer at TechCrunch focusing on Equity, the network’s flagship podcast. Before joining TechCrunch in 2022, she was one of 2 producers at a four-station conglomerate where she wrote, recorded, voiced and edited content, and engineered live performances and interviews from guests like lovelytheband. Theresa is based in New Jersey and holds a bachelors degree in Communication from Monmouth University. You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n\n\t\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Is your startup’s check engine light on? Google Cloud’s VP explains what to do",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/02/54885194602_44d8e5385f_o.jpg?w=150"
+      ],
+      "datePublished": "2026-02-18T21:07:00.000Z",
+      "dateModified": "2026-02-18T21:07:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Snapchat+ tops 25M subscribers, driving company’s direct revenue ARR to $1B",
+    "url": "https://techcrunch.com/2026/02/18/snapchat-tops-25m-subscribers-driving-companys-direct-revenue-arr-to-1b/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-02-18T16:00:00.000Z",
+    "description": "\nSnap’s direct revenue business has reached a $1 billion annualized revenue run rate, the company announced on Wednesday. Annualized revenue refers to",
+    "body": "\nSnap’s direct revenue business has reached a $1 billion annualized revenue run rate, the company announced on Wednesday. Annualized revenue refers to a business’s current revenue rate projected over a full year. The social media giant says the milestone is driven by its Snapchat+ offering, which has now surpassed 25 million subscribers.\nLaunched in 2022, Snapchat+ gives subscribers access to exclusive and pre-release features for $3.99 per month. Following a successful launch, Snap introduced additional paid tiers beyond the core Snapchat+ subscription over the past year to further diversify its revenue streams.\n“Snapchat+ has become one of the fastest-growing consumer subscription services globally, with subscriber growth every quarter,” the company wrote in a blog post. “What started as an early-access program for our most engaged Snapchatters has quickly scaled into a meaningful business—one that now represents a strong and growing revenue stream alongside our ads business.”\nLast June, Snapchat launched Lens+, which gives users access to exclusive Lenses and AR experiences, along with the perks in the standard Snapchat+ tier, for $8.99 per month. \nIn early 2025, the company launched an ad-free Snapchat+ subscription tier called Platinum for $15.99 per month. And, in a controversial move in September, Snapchat announced plans to cap free storage for its Memories feature and launched a paid storage plan that costs $1.99 per month. Snapchat+ subscribers will get up to 250GB of storage as part of their monthly subscription, while Snapchat Platinum users will get 5TB.\nMoving beyond Snapchat+, the company announced yesterday that it’s launching creator subscriptions in alpha with select people in the U.S. Users will be able to buy subscriptions to creators, including Jeremiah Brown, Harry Jowsey, and Skai Jackson. Creators can set their own monthly prices for subscriptions, which will unlock subscriber-only content, priority replies to a creator’s public Stories, and an ad-free experience for that creator’s Stories.\nIn terms of the future, Snap says it’s going to continue to grow Snapchat+ with a focus on customization and community-driven features. \nSnap has proven there is a market for social media subscriptions, and rival Meta is following suit, as the company told TechCrunch last month that it was going to test new subscriptions that give people access to exclusive features on Instagram, Facebook, and WhatsApp.\n\n\n\t\tAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing aisha@techcrunch.com or via encrypted message at aisha_malik.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Snapchat+ tops 25M subscribers, driving company’s direct revenue ARR to $1B",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=150"
+      ],
+      "datePublished": "2026-02-18T16:00:00.000Z",
+      "dateModified": "2026-02-18T16:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "X continues to bet on vertical video with its latest update",
+    "url": "https://techcrunch.com/2026/02/18/x-continues-to-bet-on-vertical-video-with-its-latest-update/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2258168632.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-02-18T16:15:12.000Z",
+    "description": "\nX recently introduced a new immersive video player, signaling another major step in its ongoing push into video-focused experiences. \nNikita Bier, X’",
+    "body": "\nX recently introduced a new immersive video player, signaling another major step in its ongoing push into video-focused experiences. \nNikita Bier, X’s head of product, announced the update earlier this week, admitting the previous video player “badly needed a refresh.” The redesign aims to make video consumption more engaging and user-friendly, especially on mobile devices.\nImage Credits:@nikitabier on X\nThe update, currently rolling out to iOS, allows users to expand videos to full screen with a single tap. Once in full-screen mode, viewers can swipe up to scroll to the next video, which is reminiscent of TikTok’s popular format.\nWhile the new player aims to enhance mobile video viewing, some users argue that the update forces all videos into a cropped, full-screen view, removing the option to view content in its original aspect ratio.\n“This UI sucks so bad. Let me just watch full-scale videos,” one user said. \nWhen another user asked which orientation is preferred, Bier confirmed that portrait is ideal. This approach mirrors broader industry trends, with vertical videos dominating platforms such as TikTok and Instagram Reels. Even streaming services have adopted the format, with Disney+ being the most recent to introduce a vertical video feed. \n“Sorry, but cropping the video incentivized people to post square videos. We are a mobile company,” he said, noting that X will stop cropping vertical content moving forward. \n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 23, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nBier hinted that more video-focused updates are on the horizon as X doubles down on its video ambitions.\nThe timing of X’s update is notable, given that last month TikTok’s U.S. operations were sold to an American investor group. X is positioning itself as a competitor, ramping up its video features to attract both viewers and creators. \nThe recent introduction of the video player follows X’s launch of a dedicated vertical video feed that became available globally last year. The company is also incorporating AI-driven tools, such as Grok’s text-to-video generation feature. \nNotably, Grok’s image-generation capability recently sparked controversy, leading to its restriction to paying subscribers on X, due to the tool allowing users to create sexualized and nude images of women and children.\n\n\n\t\tLauren covers media, streaming, apps and platforms at TechCrunch.\nYou can contact or verify outreach from Lauren by emailing laurenf.techcrunch@gmail.com or via encrypted message at laurenforris22.25 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "X continues to bet on vertical video with its latest update",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2258168632.jpg?w=150"
+      ],
+      "datePublished": "2026-02-18T16:15:12.000Z",
+      "dateModified": "2026-02-18T16:15:12.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "This VC’s best advice for building a founding team",
+    "url": "https://techcrunch.com/2026/02/19/this-vcs-best-advice-for-building-a-founding-team/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/BM-S2E1-GC-still2.png?w=150",
+    "tag": "Tech",
+    "date": "2026-02-19T12:30:00.000Z",
+    "description": "\nOne of the most consequential decisions early-stage founders have to make is who they will bring on as their founding team. The first five to 10 empl",
+    "body": "\nOne of the most consequential decisions early-stage founders have to make is who they will bring on as their founding team. The first five to 10 employees will have a massive impact on the company culture, and the precedents set with them are difficult to change down the road. That’s why this season on Build Mode, we’re diving into what it takes to build a world-class founding team.  \nTo kick off season two, Isabelle Johannessen is joined by Yuri Sagalov, managing director at General Catalyst and former founder, YC partner, and seed investor at Wayfinder Ventures. Sagalov has worked with hundreds of pre-seed and seed-stage companies and has seen firsthand the best (and worst) ways to hire in the early days.\nIn this episode, Sagalov offers his best pieces of advice for founders who are hiring their first team, strategically building their cap table, and forming compensation structures that can scale with the company.\nThe three types of investors (and which one to avoid) \nSagalov categorizes investors into three main buckets: the ones that are heavily involved and function as an extension of your team, the ones that will give you a check and then vanish, and the micromanagers. \nThe first type of investor is the most valuable according to Sagalov: “They’re going to help you with recruiting, hiring, go to market. And the most interesting thing with those investors is often it’s completely disconnected from the check size.”\nAlthough it may feel counterintuitive to turn down investments, working with VCs who will become overly involved in the process may cause more harm than good in the long run. Sagalov said, “The only bucket that I avoid is this third bucket of investors who give you money and they’re kind of in your kitchen, meddling. They have an opinion on everything. They get stressed out when things don’t go right.”\nIn a fundraise, everyone is putting their best foot forward, so Sagalov suggests reaching out to current portfolio companies before committing to an investor.  “The best thing you can do as a founder is actually talk to portfolio companies, talk to other founders that they’ve worked with, ask for concrete examples of how they’ve been helpful, if they’ve been helpful, and then actually ask how they were when things didn’t go right.”\n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 23, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nHow to split equity with a co-founder \nAs an investor, Sagalov looks for co-founders who have created an equity split that is fair but also hedges for future misalignments. He suggests creating a slight differentiation by plus or minus one share so there is a clear way to break deadlocks.  \nSagalov also reminds early-stage founders that these early decisions have staying power: “Oftentimes founders over-index on ‘I came up with the idea, so I deserve the lion’s share.’  Most of the journey of the company is ahead of them. You don’t want someone waking up five years from now feeling like they put in equal blood, sweat, and tears but own one-fifth of the equity.”\nTalk to early employees about risk and compensation \nThe first few hires should be all in on the startup’s mission. Oftentimes, joining an early-stage startup can be perceived as risky. Sagalov emphasized the importance of discussing the risks and potential benefits: “Fundamentally, what you’re looking for when you’re hiring the first few people are missionaries who, beyond even the compensation, want to join you for the mission of the business,” he said. “You want to be honest with them that there is a lot of risk on the journey.” \nNext week on Build Mode, we’re talking with Sarah Lucena, the founder and CEO of Mappa, who discusses how founders can take compatibility into account and hire the right fit for the team the first time, using their AI tool. \nIsabelle Johannessen is our host. Build Mode is produced and edited by Maggie Nye. Audience Development is led by Morgan Little. And a special thanks to the Foundry and Cheddar video teams. \n\n\n\t\tMaggie Nye is a Podcast Producer for TechCrunch based in Denver, Colorado. Previously, she worked as the Brand and Content Manager for BUILT BY GIRLS where she developed an interest in tech and a passion for creating equitable and welcoming professional tech spaces. She holds a bachelor’s degree in Journalism with a minor in English from Hofstra University in New York.\r\nYou can contact or verify outreach from Maggie by emailing maggie@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "This VC’s best advice for building a founding team",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/02/BM-S2E1-GC-still2.png?w=150"
+      ],
+      "datePublished": "2026-02-19T12:30:00.000Z",
+      "dateModified": "2026-02-19T12:30:00.000Z",
       "author": [
         {
           "@type": "Person",
