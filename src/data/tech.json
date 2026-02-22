@@ -50,6 +50,31 @@
     }
   },
   {
+    "title": "Tesla loses bid to overturn $243M Autopilot verdict",
+    "url": "https://techcrunch.com/2026/02/20/tesla-loses-bid-to-overturn-243m-autopilot-verdict/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/12/tesla-autopilot-2.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-02-20T17:37:24.000Z",
+    "description": "\nA judge has denied Tesla’s request to overturn a $243 million jury verdict that held the automaker partially responsible for a fatal crash involving ",
+    "body": "\nA judge has denied Tesla’s request to overturn a $243 million jury verdict that held the automaker partially responsible for a fatal crash involving its Autopilot driver assistance system.\n“The grounds for relief that Tesla relies upon are virtually the same as those Tesla put forth previously during the course of trial and in their briefings on summary judgment — arguments that were already considered and rejected,” Hon. Judge Beth Bloom’s decision reads. “Furthermore, Tesla does not present additional arguments or controlling law that persuades this Court to alter its earlier decisions or the jury verdict.”\nLast August, a jury awarded a $243 million verdict against Tesla over its culpability in a 2019 fatal crash in Florida that killed Naibel Benavides and critically injured Dillon Angulo. The jury assigned the driver two-thirds of the blame, and attributed one-third to Tesla. Notably, the jury assessed punitive damages only against Tesla.\nTesla’s lawyers argued, in its request to reverse the ruling, that the blame rested on the driver, who helped cause the crash. \n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Tesla loses bid to overturn $243M Autopilot verdict",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2023/12/tesla-autopilot-2.jpg?w=150"
+      ],
+      "datePublished": "2026-02-20T17:37:24.000Z",
+      "dateModified": "2026-02-20T17:37:24.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "OpenAI debated calling police about suspected Canadian shooter’s chats",
     "url": "https://techcrunch.com/2026/02/21/openai-debated-calling-police-about-suspected-canadian-shooters-chats/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=150",
@@ -91,31 +116,6 @@
       ],
       "datePublished": "2026-02-20T20:52:48.000Z",
       "dateModified": "2026-02-20T20:52:48.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Tesla loses bid to overturn $243M Autopilot verdict",
-    "url": "https://techcrunch.com/2026/02/20/tesla-loses-bid-to-overturn-243m-autopilot-verdict/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/12/tesla-autopilot-2.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-02-20T17:37:24.000Z",
-    "description": "\nA judge has denied Tesla’s request to overturn a $243 million jury verdict that held the automaker partially responsible for a fatal crash involving ",
-    "body": "\nA judge has denied Tesla’s request to overturn a $243 million jury verdict that held the automaker partially responsible for a fatal crash involving its Autopilot driver assistance system.\n“The grounds for relief that Tesla relies upon are virtually the same as those Tesla put forth previously during the course of trial and in their briefings on summary judgment — arguments that were already considered and rejected,” Hon. Judge Beth Bloom’s decision reads. “Furthermore, Tesla does not present additional arguments or controlling law that persuades this Court to alter its earlier decisions or the jury verdict.”\nLast August, a jury awarded a $243 million verdict against Tesla over its culpability in a 2019 fatal crash in Florida that killed Naibel Benavides and critically injured Dillon Angulo. The jury assigned the driver two-thirds of the blame, and attributed one-third to Tesla. Notably, the jury assessed punitive damages only against Tesla.\nTesla’s lawyers argued, in its request to reverse the ruling, that the blame rested on the driver, who helped cause the crash. \n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Tesla loses bid to overturn $243M Autopilot verdict",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2023/12/tesla-autopilot-2.jpg?w=150"
-      ],
-      "datePublished": "2026-02-20T17:37:24.000Z",
-      "dateModified": "2026-02-20T17:37:24.000Z",
       "author": [
         {
           "@type": "Person",
@@ -175,47 +175,22 @@
     }
   },
   {
-    "title": "Wikipedia blacklists Archive.today after alleged DDoS attack",
-    "url": "https://techcrunch.com/2026/02/21/wikipedia-blacklists-archive-today-after-alleged-ddos-attack/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1873370000.jpg?w=150",
+    "title": "The creator economy’s ad revenue problem and India’s AI ambitions",
+    "url": "https://techcrunch.com/video/the-creator-economys-ad-revenue-problem-and-indias-ai-ambitions/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/modi-openai-anthropic-2261854815.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-02-21T20:20:15.000Z",
-    "description": "\nWikipedia editors have decided to remove all links to Archive.today, a web archiving service that they said has been linked to more than 695,000 time",
-    "body": "\nWikipedia editors have decided to remove all links to Archive.today, a web archiving service that they said has been linked to more than 695,000 times across the online encyclopedia.\nArchive.today — which also operates under several other domain names, including archive.is and archive.ph — is perhaps most widely used to access content that’s otherwise inaccessible behind paywalls. That also makes it useful as a source for Wikipedia citations.\nHowever, according to the Wikipedia discussion page about this topic, “There is consensus to immediately deprecate archive.today, and, as soon as practicable, add it to the spam blacklist […] and to forthwith remove all links to it.” (Ars Technica first reported on the decision.)\nThe discussion page says that Archive.today was previously blacklisted in 2013, only to be removed from the blacklist in 2016.\nWhy reverse course again? Because, the discussion page says, “Wikipedia should not direct its readers towards a website that hijacks users’ computers to run a DDoS attack.” Plus, “evidence has been presented that archive.today’s operators have altered the content of archived pages, rendering it unreliable.”\nThe distributed denial of service (DDoS) attack in question was allegedly directed at blogger Jani Patokallio. Patokallio wrote that beginning on January 11, users who loaded the archive’s CAPTCHA page have been unknowingly loading and executing JavaScript that sends a search request to his Gyrovague blog, in an apparent attempt to get Patokallio’s attention and increase his hosting bill.\nBack in 2023, Patokallio published a blog post examining Archive.today, whose ownership he described as “an opaque mystery.” And while he wasn’t able to track down a specific owner, he concluded the site was likely “a one-person labor of love, operated by a Russian of considerable talent and access to Europe.”\n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 9, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nMore recently, Patokallio said the webmaster at Archive.today asked him to take the post down for two or three months.\n“I do not mind the post, but the issue is: journos from mainstream media (Heise, Verge, etc) cherry-pick just a couple of words from your blog, and then construct very different narratives having your post the only citable source; then they cite each other and produce a shitty result to present for a wide audience,” the webmaster said, according to emails shared by Patokallio.\nPatokallio said that after he declined to take the post down, the webmaster responded with “an increasingly unhinged series of threats.”\nWikipedia editors also pointed to webpage snapshots in Archive.today that appeared to have been altered to insert Patokallio’s name — hence the concern that it’s become “unreliable” as an archive.\nWikipedia’s guidance now calls for editors to remove links to Archive.today and related sites, replacing them with links to the original source or to other archives like the Wayback Machine.\nOn a blog linked from the Archive.today website, the site’s apparent owner wrote that Archive.today’s value to Wikipedia was “not about paywalls” but rather “the ability to offload copyright issues.” They later wrote that things had turned out “pretty well” and said they would “scale down the ‘DDoS’.”\n“Why didn’t you write about such events earlier, folks of the tabloids?” they said. “I don’t expect you to write anything good, because then who would read you, but there was plenty of dramas, wasn’t there? Because there was no Jani to nudge you?”\n\n\n\t\tAnthony Ha is TechCrunch’s weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local government reporter at the Hollister Free Lance, and vice president of content at a VC firm. He lives in New York City.\nYou can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-02-20T23:00:00.000Z",
+    "description": "\n\t\t\n\nLoading the player…\n\nThe creator economy is evolving fast, and ad revenue alone isn’t cutting it anymore. YouTubers are launching product lines, ",
+    "body": "\n\t\t\n\nLoading the player…\n\nThe creator economy is evolving fast, and ad revenue alone isn’t cutting it anymore. YouTubers are launching product lines, acquiring startups, and building actual business empires. In fact, MrBeast’s company bought fintech startup Step, and his chocolate business is outearning his media arm. This isn’t just one creator’s strategy. For many, it’s the new playbook. \nOn this episode of TechCrunch’s Equity podcast, hosts Kirsten Korosec, Anthony Ha, and Rebecca Bellan unpack how creators are diversifying beyond ads, whether their model can scale beyond the top 1%, everything happing at India’s AI Impact Summit, and more of the week’s headlines.\n\n\t\t\n\tTopics\n\n\n\n\t\tTheresa Loconsolo is an audio producer at TechCrunch focusing on Equity, the network’s flagship podcast. Before joining TechCrunch in 2022, she was one of 2 producers at a four-station conglomerate where she wrote, recorded, voiced and edited content, and engineered live performances and interviews from guests like lovelytheband. Theresa is based in New Jersey and holds a bachelors degree in Communication from Monmouth University. You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n\n\t\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Wikipedia blacklists Archive.today after alleged DDoS attack",
+      "headline": "The creator economy’s ad revenue problem and India’s AI ambitions",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1873370000.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/02/modi-openai-anthropic-2261854815.jpg?w=150"
       ],
-      "datePublished": "2026-02-21T20:20:15.000Z",
-      "dateModified": "2026-02-21T20:20:15.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "InScope nabs $14.5M to solve the pain of financial reporting",
-    "url": "https://techcrunch.com/2026/02/20/inscope-nabs-14-5m-to-solve-the-pain-of-financial-reporting/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/In-scope.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-02-20T19:24:57.000Z",
-    "description": "\nEven without a background in accounting, anyone who has ever glanced at a 10-K or 10-Q can tell that preparing financial statements is a complex, ted",
-    "body": "\nEven without a background in accounting, anyone who has ever glanced at a 10-K or 10-Q can tell that preparing financial statements is a complex, tedious process.\nWhile legacy platforms like Workiva and Donnelley Financial Solutions aim to streamline financial reporting, longtime accountants Mary Antony (pictured right) and Kelsey Gootnick (pictured center) found themselves exhausted by various manual hurdles within these tools (co-founder and CTO Jared Tibshraeny is pictured left).\nThe duo met seven years ago at Flexport, where Gootnick served as the company’s controller and Antony served as assistant controller. They stayed in touch even after Antony moved to Miro and Gootnick to Hopin and later Thrive Global.\nNo matter where they worked, Antony and Gootnick kept running into the same manual challenges.\n“The way financial statements come together, it’s just patched together in a lot of spreadsheets, moved into a bunch of Word documents, emailed back and forth between people,” Antony told TechCrunch.  \nSo, in 2023, the pair decided to launch InScope, an AI-powered financial reporting platform that helps companies and accounting firms automate many aspects of the financial statement preparation process. The startup just raised $14.5 million in Series A funding led by Norwest, with participation from Storm Ventures and existing backers Better Tomorrow Ventures and Lightspeed Venture Partners.\nWhile InScope isn’t fully automating the generation of income statements and balance sheets yet, it automates a vast amount of the manual busy work, from verifying math to formatting. Simply ensuring that dollar signs and commas are uniform and correctly placed can save accountants up to 20% of their time, according to Antony, InScope’s CEO.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 9, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nOver the last 12 months, InScope has grown its customer base by 5x, attracting significant accounting firms such as CohnReznick, currently ranked in the top 15 nationally.\nOf course, it may be a while before accountants — a profession Antony describes as risk-averse — feel comfortable letting AI fully automate financial statement preparation. Nonetheless, that remains InScope’s ultimate goal.\nNorwest partner Sean Jacobsohn told TechCrunch that he invested in InScope after he heard from multiple clients that the startup’s product saves them a lot of time.\nJacobsohn is convinced that InScope stands out because few founders possess the specific expertise required to reinvent financial reporting technology.\n“It’s a very complex space, and you need to be able to have been in the shoes of the buyer before,” he said.\nAntony agrees that accountants are not typically the type to launch startups. Fortunately, she and Gootnick developed their entrepreneurial instincts through years of operating within the fast-paced cultures of other high-growth startups.\n\n\n\t\tMarina Temkin is a venture capital and startups reporter at TechCrunch. Prior to joining TechCrunch, she wrote about VC for PitchBook and Venture Capital Journal. Earlier in her career, Marina was a financial analyst and earned a CFA charterholder designation.\r\nYou can contact or verify outreach from Marina by emailing marina.temkin@techcrunch.com or via encrypted message at +1 347-683-3909 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "InScope nabs $14.5M to solve the pain of financial reporting",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/02/In-scope.jpg?w=150"
-      ],
-      "datePublished": "2026-02-20T19:24:57.000Z",
-      "dateModified": "2026-02-20T19:24:57.000Z",
+      "datePublished": "2026-02-20T23:00:00.000Z",
+      "dateModified": "2026-02-20T23:00:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -250,31 +225,6 @@
     }
   },
   {
-    "title": "The creator economy’s ad revenue problem and India’s AI ambitions",
-    "url": "https://techcrunch.com/video/the-creator-economys-ad-revenue-problem-and-indias-ai-ambitions/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/modi-openai-anthropic-2261854815.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-02-20T23:00:00.000Z",
-    "description": "\n\t\t\n\nLoading the player…\n\nThe creator economy is evolving fast, and ad revenue alone isn’t cutting it anymore. YouTubers are launching product lines, ",
-    "body": "\n\t\t\n\nLoading the player…\n\nThe creator economy is evolving fast, and ad revenue alone isn’t cutting it anymore. YouTubers are launching product lines, acquiring startups, and building actual business empires. In fact, MrBeast’s company bought fintech startup Step, and his chocolate business is outearning his media arm. This isn’t just one creator’s strategy. For many, it’s the new playbook. \nOn this episode of TechCrunch’s Equity podcast, hosts Kirsten Korosec, Anthony Ha, and Rebecca Bellan unpack how creators are diversifying beyond ads, whether their model can scale beyond the top 1%, everything happing at India’s AI Impact Summit, and more of the week’s headlines.\n\n\t\t\n\tTopics\n\n\n\n\t\tTheresa Loconsolo is an audio producer at TechCrunch focusing on Equity, the network’s flagship podcast. Before joining TechCrunch in 2022, she was one of 2 producers at a four-station conglomerate where she wrote, recorded, voiced and edited content, and engineered live performances and interviews from guests like lovelytheband. Theresa is based in New Jersey and holds a bachelors degree in Communication from Monmouth University. You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n\n\t\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "The creator economy’s ad revenue problem and India’s AI ambitions",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/02/modi-openai-anthropic-2261854815.jpg?w=150"
-      ],
-      "datePublished": "2026-02-20T23:00:00.000Z",
-      "dateModified": "2026-02-20T23:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Meta’s metaverse leaves virtual reality",
     "url": "https://techcrunch.com/2026/02/20/meta-metaverse-leaves-vr-horizon-worlds-mobile/",
     "image": "https://techcrunch.com/wp-content/uploads/2021/12/horizonworlds-copy.jpg?w=150",
@@ -300,22 +250,72 @@
     }
   },
   {
-    "title": "India’s Sarvam launches Indus AI chat app as competition heats up",
-    "url": "https://techcrunch.com/2026/02/20/indias-sarvam-launches-indus-ai-chat-app-as-competition-heats-up/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/sarvam-indus-chat-app-jagmeet-singh-techcrunch.jpg?w=150",
+    "title": "Threads posts can now be shared directly to your Instagram Story without leaving the app",
+    "url": "https://techcrunch.com/2026/02/20/threads-posts-can-now-be-shared-directly-to-your-instagram-story-without-leaving-the-app/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/12/instagram-threads-GettyImages-2159215889.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-02-21T01:00:00.000Z",
-    "description": "\nSarvam, an Indian AI startup focused on building models for local languages and users, on Friday launched its Indus chat app for web and mobile users",
-    "body": "\nSarvam, an Indian AI startup focused on building models for local languages and users, on Friday launched its Indus chat app for web and mobile users, entering a fast-growing market dominated by global players including OpenAI, Anthropic, and Google.\nThe launch comes as India has become a key battleground for generative AI adoption. Recently, OpenAI CEO Sam Altman said ChatGPT has more than 100 million weekly active users in India, while Anthropic said India accounts for 5.8% of total Claude usage, second only to the U.S.\nIndus serves as a chat interface for its newly announced Sarvam 105B model, the company’s 105-billion-parameter large language model. The app’s launch comes two days after Bengaluru-based Sarvam unveiled its 105B and 30B models at the India AI Impact Summit in New Delhi earlier this week. At the summit, the startup also outlined enterprise initiatives and hardware plans and announced partnerships with companies including HMD to bring AI to Nokia feature phones and Bosch for AI-enabled automotive applications.\nCurrently available in beta on iOS, Android, and the web, the Indus app allows users to type or speak queries and receive responses in text and audio. Users can sign in using their phone number, Google or Microsoft account, or Apple ID, though the service appears to be limited to India for now.\nImage Credits:Jagmeet Singh / TechCrunch\nThe app currently comes with some limitations. Users cannot delete their chat history without deleting their account, and there is no option to turn off the app’s reasoning feature, which can sometimes slow response times. Sarvam has also warned that access may be restricted as it gradually expands its compute capacity.\n“We’re gradually rolling out Indus on a limited compute capacity, so you may hit a waitlist at first. We will expand access over time,” Sarvam co-founder Pratyush Kumar wrote on X, adding that the company is seeking feedback from users.\nFounded in 2023, Sarvam has raised $41 million to date from investors, including Lightspeed Venture Partners, Peak XV Partners, and Khosla Ventures as it builds large language models tailored for India.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 9, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nSarvam is one of a small but growing group of Indian startups attempting to build domestic alternatives to global artificial intelligence platforms as India seeks greater control over its AI infrastructure.\n\n\n\t\tJagmeet covers startups, tech policy-related updates, and all other major tech-centric developments from India for TechCrunch. He previously worked as a principal correspondent at NDTV. \r\nYou can contact or verify outreach from Jagmeet by emailing mail@journalistjagmeet.com.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-02-20T16:55:12.000Z",
+    "description": "\n\t\t\t\t\t\t8:55 AM PST · February 20, 2026\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\nThreads already has over 400 million monthly users, but Meta wants to push that number even high",
+    "body": "\n\t\t\t\t\t\t8:55 AM PST · February 20, 2026\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\nThreads already has over 400 million monthly users, but Meta wants to push that number even higher. With the launch of a new Threads feature this week, the company is making it easier for Threads users to share posts on the app to their Instagram Stories — a move that could capitalize on Instagram’s larger user base to bring more people to Meta’s X competitor.\nThe company announced on Thursday a new feature that lets you share a Threads post to your Instagram Story without having to leave the Threads app, instead previewing how the post would look on your Story directly within the Threads app.\nThe app previously allowed you to share anyone’s Threads post to your Instagram Story similar to how you would reshare someone’s Instagram post to your Story. It also already offered tools for sharing posts to your Instagram Feed or DMs.\nImage Credits:Meta\nMeta’s text-first, Twitter-like app Threads first launched in July 2023 and benefited from its ties with Instagram to rapidly grow its initial user base. To sign up, users had to authenticate with their Instagram credentials, which allowed Threads to populate with account details, like username, bio, and photo, as well as verification status and followers.\nWith one tap, users could immediately follow the accounts they already followed on Instagram — and those not on Threads would get a notification that someone had added them.\nIn the months and years following its launch, Meta has heavily leaned on its other, bigger social platforms to continue to grow Threads, including by displaying popular Threads posts on Facebook and adding a similar carousel of Threads posts to Instagram users. The company also made it easy for users to cross-post from Instagram and Facebook to Threads, which also helped boost adoption. \nThese moves have paid off. Data from market intelligence provider Similarweb last month indicated that Threads is now seeing more daily usage than Elon Musk’s X on mobile devices. (X still dominates on the web, however.) Threads’ numbers overall have been steadily growing as well, doubling usage from 200 million monthly active users in August 2024 to 400 million monthly users as of August 2025. The company announced in October that Threads reached 150 million daily active users, as well. \n\n\t\t\t\n\tTopics\n\n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n\n\t\t",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "India’s Sarvam launches Indus AI chat app as competition heats up",
+      "headline": "Threads posts can now be shared directly to your Instagram Story without leaving the app",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/02/sarvam-indus-chat-app-jagmeet-singh-techcrunch.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2024/12/instagram-threads-GettyImages-2159215889.jpg?w=150"
       ],
-      "datePublished": "2026-02-21T01:00:00.000Z",
-      "dateModified": "2026-02-21T01:00:00.000Z",
+      "datePublished": "2026-02-20T16:55:12.000Z",
+      "dateModified": "2026-02-20T16:55:12.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "InScope nabs $14.5M to solve the pain of financial reporting",
+    "url": "https://techcrunch.com/2026/02/20/inscope-nabs-14-5m-to-solve-the-pain-of-financial-reporting/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/In-scope.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-02-20T19:24:57.000Z",
+    "description": "\nEven without a background in accounting, anyone who has ever glanced at a 10-K or 10-Q can tell that preparing financial statements is a complex, ted",
+    "body": "\nEven without a background in accounting, anyone who has ever glanced at a 10-K or 10-Q can tell that preparing financial statements is a complex, tedious process.\nWhile legacy platforms like Workiva and Donnelley Financial Solutions aim to streamline financial reporting, longtime accountants Mary Antony (pictured right) and Kelsey Gootnick (pictured center) found themselves exhausted by various manual hurdles within these tools (co-founder and CTO Jared Tibshraeny is pictured left).\nThe duo met seven years ago at Flexport, where Gootnick served as the company’s controller and Antony served as assistant controller. They stayed in touch even after Antony moved to Miro and Gootnick to Hopin and later Thrive Global.\nNo matter where they worked, Antony and Gootnick kept running into the same manual challenges.\n“The way financial statements come together, it’s just patched together in a lot of spreadsheets, moved into a bunch of Word documents, emailed back and forth between people,” Antony told TechCrunch.  \nSo, in 2023, the pair decided to launch InScope, an AI-powered financial reporting platform that helps companies and accounting firms automate many aspects of the financial statement preparation process. The startup just raised $14.5 million in Series A funding led by Norwest, with participation from Storm Ventures and existing backers Better Tomorrow Ventures and Lightspeed Venture Partners.\nWhile InScope isn’t fully automating the generation of income statements and balance sheets yet, it automates a vast amount of the manual busy work, from verifying math to formatting. Simply ensuring that dollar signs and commas are uniform and correctly placed can save accountants up to 20% of their time, according to Antony, InScope’s CEO.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 9, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nOver the last 12 months, InScope has grown its customer base by 5x, attracting significant accounting firms such as CohnReznick, currently ranked in the top 15 nationally.\nOf course, it may be a while before accountants — a profession Antony describes as risk-averse — feel comfortable letting AI fully automate financial statement preparation. Nonetheless, that remains InScope’s ultimate goal.\nNorwest partner Sean Jacobsohn told TechCrunch that he invested in InScope after he heard from multiple clients that the startup’s product saves them a lot of time.\nJacobsohn is convinced that InScope stands out because few founders possess the specific expertise required to reinvent financial reporting technology.\n“It’s a very complex space, and you need to be able to have been in the shoes of the buyer before,” he said.\nAntony agrees that accountants are not typically the type to launch startups. Fortunately, she and Gootnick developed their entrepreneurial instincts through years of operating within the fast-paced cultures of other high-growth startups.\n\n\n\t\tMarina Temkin is a venture capital and startups reporter at TechCrunch. Prior to joining TechCrunch, she wrote about VC for PitchBook and Venture Capital Journal. Earlier in her career, Marina was a financial analyst and earned a CFA charterholder designation.\r\nYou can contact or verify outreach from Marina by emailing marina.temkin@techcrunch.com or via encrypted message at +1 347-683-3909 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "InScope nabs $14.5M to solve the pain of financial reporting",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/02/In-scope.jpg?w=150"
+      ],
+      "datePublished": "2026-02-20T19:24:57.000Z",
+      "dateModified": "2026-02-20T19:24:57.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Wikipedia blacklists Archive.today after alleged DDoS attack",
+    "url": "https://techcrunch.com/2026/02/21/wikipedia-blacklists-archive-today-after-alleged-ddos-attack/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1873370000.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-02-21T20:20:15.000Z",
+    "description": "\nWikipedia editors have decided to remove all links to Archive.today, a web archiving service that they said has been linked to more than 695,000 time",
+    "body": "\nWikipedia editors have decided to remove all links to Archive.today, a web archiving service that they said has been linked to more than 695,000 times across the online encyclopedia.\nArchive.today — which also operates under several other domain names, including archive.is and archive.ph — is perhaps most widely used to access content that’s otherwise inaccessible behind paywalls. That also makes it useful as a source for Wikipedia citations.\nHowever, according to the Wikipedia discussion page about this topic, “There is consensus to immediately deprecate archive.today, and, as soon as practicable, add it to the spam blacklist […] and to forthwith remove all links to it.” (Ars Technica first reported on the decision.)\nThe discussion page says that Archive.today was previously blacklisted in 2013, only to be removed from the blacklist in 2016.\nWhy reverse course again? Because, the discussion page says, “Wikipedia should not direct its readers towards a website that hijacks users’ computers to run a DDoS attack.” Plus, “evidence has been presented that archive.today’s operators have altered the content of archived pages, rendering it unreliable.”\nThe distributed denial of service (DDoS) attack in question was allegedly directed at blogger Jani Patokallio. Patokallio wrote that beginning on January 11, users who loaded the archive’s CAPTCHA page have been unknowingly loading and executing JavaScript that sends a search request to his Gyrovague blog, in an apparent attempt to get Patokallio’s attention and increase his hosting bill.\nBack in 2023, Patokallio published a blog post examining Archive.today, whose ownership he described as “an opaque mystery.” And while he wasn’t able to track down a specific owner, he concluded the site was likely “a one-person labor of love, operated by a Russian of considerable talent and access to Europe.”\n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 9, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nMore recently, Patokallio said the webmaster at Archive.today asked him to take the post down for two or three months.\n“I do not mind the post, but the issue is: journos from mainstream media (Heise, Verge, etc) cherry-pick just a couple of words from your blog, and then construct very different narratives having your post the only citable source; then they cite each other and produce a shitty result to present for a wide audience,” the webmaster said, according to emails shared by Patokallio.\nPatokallio said that after he declined to take the post down, the webmaster responded with “an increasingly unhinged series of threats.”\nWikipedia editors also pointed to webpage snapshots in Archive.today that appeared to have been altered to insert Patokallio’s name — hence the concern that it’s become “unreliable” as an archive.\nWikipedia’s guidance now calls for editors to remove links to Archive.today and related sites, replacing them with links to the original source or to other archives like the Wayback Machine.\nOn a blog linked from the Archive.today website, the site’s apparent owner wrote that Archive.today’s value to Wikipedia was “not about paywalls” but rather “the ability to offload copyright issues.” They later wrote that things had turned out “pretty well” and said they would “scale down the ‘DDoS’.”\n“Why didn’t you write about such events earlier, folks of the tabloids?” they said. “I don’t expect you to write anything good, because then who would read you, but there was plenty of dramas, wasn’t there? Because there was no Jani to nudge you?”\n\n\n\t\tAnthony Ha is TechCrunch’s weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local government reporter at the Hollister Free Lance, and vice president of content at a VC firm. He lives in New York City.\nYou can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Wikipedia blacklists Archive.today after alleged DDoS attack",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1873370000.jpg?w=150"
+      ],
+      "datePublished": "2026-02-21T20:20:15.000Z",
+      "dateModified": "2026-02-21T20:20:15.000Z",
       "author": [
         {
           "@type": "Person",
@@ -350,22 +350,22 @@
     }
   },
   {
-    "title": "Threads posts can now be shared directly to your Instagram Story without leaving the app",
-    "url": "https://techcrunch.com/2026/02/20/threads-posts-can-now-be-shared-directly-to-your-instagram-story-without-leaving-the-app/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/12/instagram-threads-GettyImages-2159215889.jpg?w=150",
+    "title": "India’s Sarvam launches Indus AI chat app as competition heats up",
+    "url": "https://techcrunch.com/2026/02/20/indias-sarvam-launches-indus-ai-chat-app-as-competition-heats-up/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/sarvam-indus-chat-app-jagmeet-singh-techcrunch.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-02-20T16:55:12.000Z",
-    "description": "\n\t\t\t\t\t\t8:55 AM PST · February 20, 2026\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\nThreads already has over 400 million monthly users, but Meta wants to push that number even high",
-    "body": "\n\t\t\t\t\t\t8:55 AM PST · February 20, 2026\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\nThreads already has over 400 million monthly users, but Meta wants to push that number even higher. With the launch of a new Threads feature this week, the company is making it easier for Threads users to share posts on the app to their Instagram Stories — a move that could capitalize on Instagram’s larger user base to bring more people to Meta’s X competitor.\nThe company announced on Thursday a new feature that lets you share a Threads post to your Instagram Story without having to leave the Threads app, instead previewing how the post would look on your Story directly within the Threads app.\nThe app previously allowed you to share anyone’s Threads post to your Instagram Story similar to how you would reshare someone’s Instagram post to your Story. It also already offered tools for sharing posts to your Instagram Feed or DMs.\nImage Credits:Meta\nMeta’s text-first, Twitter-like app Threads first launched in July 2023 and benefited from its ties with Instagram to rapidly grow its initial user base. To sign up, users had to authenticate with their Instagram credentials, which allowed Threads to populate with account details, like username, bio, and photo, as well as verification status and followers.\nWith one tap, users could immediately follow the accounts they already followed on Instagram — and those not on Threads would get a notification that someone had added them.\nIn the months and years following its launch, Meta has heavily leaned on its other, bigger social platforms to continue to grow Threads, including by displaying popular Threads posts on Facebook and adding a similar carousel of Threads posts to Instagram users. The company also made it easy for users to cross-post from Instagram and Facebook to Threads, which also helped boost adoption. \nThese moves have paid off. Data from market intelligence provider Similarweb last month indicated that Threads is now seeing more daily usage than Elon Musk’s X on mobile devices. (X still dominates on the web, however.) Threads’ numbers overall have been steadily growing as well, doubling usage from 200 million monthly active users in August 2024 to 400 million monthly users as of August 2025. The company announced in October that Threads reached 150 million daily active users, as well. \n\n\t\t\t\n\tTopics\n\n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n\n\t\t",
+    "date": "2026-02-21T01:00:00.000Z",
+    "description": "\nSarvam, an Indian AI startup focused on building models for local languages and users, on Friday launched its Indus chat app for web and mobile users",
+    "body": "\nSarvam, an Indian AI startup focused on building models for local languages and users, on Friday launched its Indus chat app for web and mobile users, entering a fast-growing market dominated by global players including OpenAI, Anthropic, and Google.\nThe launch comes as India has become a key battleground for generative AI adoption. Recently, OpenAI CEO Sam Altman said ChatGPT has more than 100 million weekly active users in India, while Anthropic said India accounts for 5.8% of total Claude usage, second only to the U.S.\nIndus serves as a chat interface for its newly announced Sarvam 105B model, the company’s 105-billion-parameter large language model. The app’s launch comes two days after Bengaluru-based Sarvam unveiled its 105B and 30B models at the India AI Impact Summit in New Delhi earlier this week. At the summit, the startup also outlined enterprise initiatives and hardware plans and announced partnerships with companies including HMD to bring AI to Nokia feature phones and Bosch for AI-enabled automotive applications.\nCurrently available in beta on iOS, Android, and the web, the Indus app allows users to type or speak queries and receive responses in text and audio. Users can sign in using their phone number, Google or Microsoft account, or Apple ID, though the service appears to be limited to India for now.\nImage Credits:Jagmeet Singh / TechCrunch\nThe app currently comes with some limitations. Users cannot delete their chat history without deleting their account, and there is no option to turn off the app’s reasoning feature, which can sometimes slow response times. Sarvam has also warned that access may be restricted as it gradually expands its compute capacity.\n“We’re gradually rolling out Indus on a limited compute capacity, so you may hit a waitlist at first. We will expand access over time,” Sarvam co-founder Pratyush Kumar wrote on X, adding that the company is seeking feedback from users.\nFounded in 2023, Sarvam has raised $41 million to date from investors, including Lightspeed Venture Partners, Peak XV Partners, and Khosla Ventures as it builds large language models tailored for India.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 9, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nSarvam is one of a small but growing group of Indian startups attempting to build domestic alternatives to global artificial intelligence platforms as India seeks greater control over its AI infrastructure.\n\n\n\t\tJagmeet covers startups, tech policy-related updates, and all other major tech-centric developments from India for TechCrunch. He previously worked as a principal correspondent at NDTV. \r\nYou can contact or verify outreach from Jagmeet by emailing mail@journalistjagmeet.com.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Threads posts can now be shared directly to your Instagram Story without leaving the app",
+      "headline": "India’s Sarvam launches Indus AI chat app as competition heats up",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/12/instagram-threads-GettyImages-2159215889.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/02/sarvam-indus-chat-app-jagmeet-singh-techcrunch.jpg?w=150"
       ],
-      "datePublished": "2026-02-20T16:55:12.000Z",
-      "dateModified": "2026-02-20T16:55:12.000Z",
+      "datePublished": "2026-02-21T01:00:00.000Z",
+      "dateModified": "2026-02-21T01:00:00.000Z",
       "author": [
         {
           "@type": "Person",
