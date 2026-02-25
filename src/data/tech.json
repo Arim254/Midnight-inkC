@@ -50,31 +50,6 @@
     }
   },
   {
-    "title": "Nvidia challenger AI chip startup MatX raised $500M",
-    "url": "https://techcrunch.com/2026/02/24/nvidia-challenger-ai-chip-startup-matx-raised-500m/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/09/chip-manufacturing-getty.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-02-25T00:45:47.000Z",
-    "description": "\nIn Brief\nPosted:\n4:45 PM PST · February 24, 2026\n\nImage Credits:sankai / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nMatX, a chip startup",
-    "body": "\nIn Brief\nPosted:\n4:45 PM PST · February 24, 2026\n\nImage Credits:sankai / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nMatX, a chip startup founded by two former Google hardware engineers, has raised a $500 million Series B led by Jane Street and Situational Awareness, an investment fund formed by former OpenAI researcher Leopold Aschenbrenner.\nThe company’s goal is to make its processors 10 times better at training LLMs and delivering results than Nvidia’s GPUs.  \nOther investors in the round include Marvell Technology, NFDG, Spark Capital, and Stripe co-founders Patrick Collison and John Collison, the startup’s founder and CEO Reiner Pope announced Tuesday in a post on LinkedIn.\nAlthough the company didn’t release its latest valuation, Etched, MatX’s closest competitor, raised a $500 million round at a $5 billion valuation, Bloomberg reported last month. Etched didn’t immediately respond to a request for comment.\nMatX’s latest round comes more than a year after its Series A of about $100 million, which was led by Spark Capital. TechCrunch earlier reported that the 2024 round valued the startup at more than $300 million.\nBefore co-founding MatX in 2023, Pope led AI software development for Google’s TPUs, the tech giant’s proprietary AI chips. His co-founder, Mike Gunter, was a lead designer of the TPU hardware before leaving to launch the startup.\nThe new funding will help MatX produce its chips with TSMC, with plans to start shipping them in 2027.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 9, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Hardware\n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Nvidia challenger AI chip startup MatX raised $500M",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/09/chip-manufacturing-getty.jpg?w=150"
-      ],
-      "datePublished": "2026-02-25T00:45:47.000Z",
-      "dateModified": "2026-02-25T00:45:47.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Uber engineers built an AI version of their boss",
     "url": "https://techcrunch.com/2026/02/24/uber-engineers-built-ai-version-of-boss-dara-khosrowshahi/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2211281388.jpg?w=150",
@@ -100,22 +75,22 @@
     }
   },
   {
-    "title": "CarGurus data breach affects 12.5 million accounts",
-    "url": "https://techcrunch.com/2026/02/24/cargurus-data-breach-affects-12-5-million-accounts/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/cargurus-getty.jpg?w=150",
+    "title": "Nvidia challenger AI chip startup MatX raised $500M",
+    "url": "https://techcrunch.com/2026/02/24/nvidia-challenger-ai-chip-startup-matx-raised-500m/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/09/chip-manufacturing-getty.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-02-24T21:27:42.000Z",
-    "description": "\nIn Brief\nPosted:\n1:27 PM PST · February 24, 2026\n\nImage Credits:CarGurus\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nAutomotive marketplace CarGurus w",
-    "body": "\nIn Brief\nPosted:\n1:27 PM PST · February 24, 2026\n\nImage Credits:CarGurus\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nAutomotive marketplace CarGurus was the target of a data breach in which the names, email addresses, phone numbers, and physical addresses of millions of customers were stolen. \nHave I Been Pwned, a data-breach notification site provided by security researcher Troy Hunt, reported that 12.5 million CarGurus accounts were compromised in the data breach.\nCarGurus, founded in 2006, operates an online marketplace that allows customers to buy, sell, and finance vehicle purchases.\nHave I Been Pwned attributed the breach to the ShinyHunters hacking group.\nThe ShinyHunters group is known for its social engineering skills, such as calling up help desks and pretending to be employees who need their password reset. The hackers have used their social engineering skills to steal reams of data from several universities and over a billion records from Salesforce customers, including Google and Workday, and they claimed recent hacks at Pornhub and fintech lending giant Figure.\nTechCrunch has reached out to CarGurus for comment and will update this article if the company responds. \nThe customer data that was published included user account ID mappings, finance prequalification application data, and dealer account and subscription information, according to Have I Been Pwned.\nThis is the second automotive-related data breach reported by Have I Been Pwned this year. Last month, data allegedly from CarMax was published following a failed extortion attempt, the data breach notification site reported. The data breach included about 431,000 unique email addresses along with names, phone numbers, and physical addresses.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Transportation\n\n",
+    "date": "2026-02-25T00:45:47.000Z",
+    "description": "\nIn Brief\nPosted:\n4:45 PM PST · February 24, 2026\n\nImage Credits:sankai / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nMatX, a chip startup",
+    "body": "\nIn Brief\nPosted:\n4:45 PM PST · February 24, 2026\n\nImage Credits:sankai / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nMatX, a chip startup founded by two former Google hardware engineers, has raised a $500 million Series B led by Jane Street and Situational Awareness, an investment fund formed by former OpenAI researcher Leopold Aschenbrenner.\nThe company’s goal is to make its processors 10 times better at training LLMs and delivering results than Nvidia’s GPUs.  \nOther investors in the round include Marvell Technology, NFDG, Spark Capital, and Stripe co-founders Patrick Collison and John Collison, the startup’s founder and CEO Reiner Pope announced Tuesday in a post on LinkedIn.\nAlthough the company didn’t release its latest valuation, Etched, MatX’s closest competitor, raised a $500 million round at a $5 billion valuation, Bloomberg reported last month. Etched didn’t immediately respond to a request for comment.\nMatX’s latest round comes more than a year after its Series A of about $100 million, which was led by Spark Capital. TechCrunch earlier reported that the 2024 round valued the startup at more than $300 million.\nBefore co-founding MatX in 2023, Pope led AI software development for Google’s TPUs, the tech giant’s proprietary AI chips. His co-founder, Mike Gunter, was a lead designer of the TPU hardware before leaving to launch the startup.\nThe new funding will help MatX produce its chips with TSMC, with plans to start shipping them in 2027.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 9, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Hardware\n\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "CarGurus data breach affects 12.5 million accounts",
+      "headline": "Nvidia challenger AI chip startup MatX raised $500M",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/02/cargurus-getty.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2024/09/chip-manufacturing-getty.jpg?w=150"
       ],
-      "datePublished": "2026-02-24T21:27:42.000Z",
-      "dateModified": "2026-02-24T21:27:42.000Z",
+      "datePublished": "2026-02-25T00:45:47.000Z",
+      "dateModified": "2026-02-25T00:45:47.000Z",
       "author": [
         {
           "@type": "Person",
@@ -150,6 +125,31 @@
     }
   },
   {
+    "title": "CarGurus data breach affects 12.5 million accounts",
+    "url": "https://techcrunch.com/2026/02/24/cargurus-data-breach-affects-12-5-million-accounts/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/cargurus-getty.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-02-24T21:27:42.000Z",
+    "description": "\nIn Brief\nPosted:\n1:27 PM PST · February 24, 2026\n\nImage Credits:CarGurus\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nAutomotive marketplace CarGurus w",
+    "body": "\nIn Brief\nPosted:\n1:27 PM PST · February 24, 2026\n\nImage Credits:CarGurus\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nAutomotive marketplace CarGurus was the target of a data breach in which the names, email addresses, phone numbers, and physical addresses of millions of customers were stolen. \nHave I Been Pwned, a data-breach notification site provided by security researcher Troy Hunt, reported that 12.5 million CarGurus accounts were compromised in the data breach.\nCarGurus, founded in 2006, operates an online marketplace that allows customers to buy, sell, and finance vehicle purchases.\nHave I Been Pwned attributed the breach to the ShinyHunters hacking group.\nThe ShinyHunters group is known for its social engineering skills, such as calling up help desks and pretending to be employees who need their password reset. The hackers have used their social engineering skills to steal reams of data from several universities and over a billion records from Salesforce customers, including Google and Workday, and they claimed recent hacks at Pornhub and fintech lending giant Figure.\nTechCrunch has reached out to CarGurus for comment and will update this article if the company responds. \nThe customer data that was published included user account ID mappings, finance prequalification application data, and dealer account and subscription information, according to Have I Been Pwned.\nThis is the second automotive-related data breach reported by Have I Been Pwned this year. Last month, data allegedly from CarMax was published following a failed extortion attempt, the data breach notification site reported. The data breach included about 431,000 unique email addresses along with names, phone numbers, and physical addresses.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Transportation\n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "CarGurus data breach affects 12.5 million accounts",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/02/cargurus-getty.jpg?w=150"
+      ],
+      "datePublished": "2026-02-24T21:27:42.000Z",
+      "dateModified": "2026-02-24T21:27:42.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Google adds a way to create automated workflows to Opal",
     "url": "https://techcrunch.com/2026/02/24/google-adds-a-way-to-create-automated-workflows-to-opal/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/Agent-Banner-hero.jpeg?w=150",
@@ -166,31 +166,6 @@
       ],
       "datePublished": "2026-02-24T19:00:00.000Z",
       "dateModified": "2026-02-24T19:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Google’s new 1.9GW clean energy deal includes massive 100-hour battery",
-    "url": "https://techcrunch.com/2026/02/24/googles-new-1-9gw-clean-energy-deal-includes-massive-100-hour-battery/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2177664491.jpeg?w=150",
-    "tag": "Tech",
-    "date": "2026-02-24T21:32:22.000Z",
-    "description": "\nGoogle announced Tuesday that it will build a data center in Minnesota that’s backed by 1.9 gigawatts of clean power, including a massive 300-megawat",
-    "body": "\nGoogle announced Tuesday that it will build a data center in Minnesota that’s backed by 1.9 gigawatts of clean power, including a massive 300-megawatt battery made by startup Form Energy.\nThe new data center, Google’s first in Minnesota, will be located in Pine Island, about an hour southeast of Minneapolis.\nThe tech company is working with Xcel Energy to build 1.4 gigawatts of wind power and 200 megawatts of solar power. Both will feed Form’s battery, which will be capable of delivering its rated power for 100 hours. At 30 gigawatt-hours, it will be the largest battery in the world, helping the data center operate on clean energy for longer periods of time.\nSuch long-duration batteries help renewable energy sources continue to provide power at night or during lulls, “firming” the power source, as experts call it. Grid-scale lithium-ion batteries do this already, though for shorter periods.\nForm Energy’s batteries are unlike most other grid-scale batteries. Whereas a typical grid-scale battery today uses lithium-ion technology that’s been repurposed from chemistries used by the automotive industry, Form’s batteries store energy by rusting and deoxidizing iron. \nWhen oxygen from the air flows over pebbles of iron inside the battery, it rusts the iron, generating electricity in the process. To charge, electrical current deoxidizes the rust, turning it back into metallic iron and releasing oxygen in the process, which is drawn out of the battery.\nAs battery chemistries go, Form’s iron-air cells are heavy and not very efficient. Typical iron-air batteries can only deliver 50% to 70% of the energy used to charge them, compared with upwards of 90% for lithium-ion batteries. But for all their downsides, they come with one very large upside: they’re incredibly cheap. Form says 1 kilowatt-hour of storage will ultimately cost just $20 using their technology, which is at least three times cheaper than lithium-ion batteries.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 9, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThe new project also introduces a wonky utility fee structure to Minnesota that’s intended to help utilities adopt clean technologies without running afoul of their regulators, which push utilities to use the cheapest source of electricity. \nGoogle first developed the concept in Nevada, where it’s buying power from enhanced geothermal startup Fervo. Alternately called the “clean transition tariff” or the “clean energy accelerator charge,” the agreement between Google and Xcel allows the utility to accept projects that might be considered risky by regulators, with the tech company paying a premium to ensure that regular ratepayers aren’t left holding the bag. \nSolar and wind are both proven technologies, but Form’s iron-air batteries are still relatively new. The startup’s first battery is currently being installed in Minnesota with cooperative utility Great River Energy, and it will store 150 megawatt-hours for 100 hours, sending 1.5 megawatts to the grid at its peak. \nForm makes its batteries at a factory in West Virginia. The company has raised $1.4 billion to date, according to PitchBook data.\n\n\n\t\tTim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor. \r\nDe Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.\r\nYou can contact or verify outreach from Tim by emailing tim.dechant@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Google’s new 1.9GW clean energy deal includes massive 100-hour battery",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2177664491.jpeg?w=150"
-      ],
-      "datePublished": "2026-02-24T21:32:22.000Z",
-      "dateModified": "2026-02-24T21:32:22.000Z",
       "author": [
         {
           "@type": "Person",
@@ -250,31 +225,6 @@
     }
   },
   {
-    "title": "Spotify and Liquid Death release a limited-edition speaker shaped like … an urn? ",
-    "url": "https://techcrunch.com/2026/02/24/spotify-and-liquid-death-release-a-limited-edition-speaker-shaped-like-an-urn/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/SPOTIFY-Liquid-Deathpng.png?w=150",
-    "tag": "Tech",
-    "date": "2026-02-24T18:48:13.000Z",
-    "description": "\nSpotify and Liquid Death have teamed up to launch what might be the wildest product collaboration of the year: the Eternal Playlist Urn, a wireless B",
-    "body": "\nSpotify and Liquid Death have teamed up to launch what might be the wildest product collaboration of the year: the Eternal Playlist Urn, a wireless Bluetooth speaker shaped like a cremation urn. Yes, you read that right.\nThe Eternal Playlist Urn is not really meant to hold ashes, but is instead a collector’s item, with only 150 available for purchase in the U.S. For $495, buyers receive a 7-inch-by-11.4-inch urn with a Bluetooth speaker built into the lid. (We question the audio quality, since all the tech is crammed into the lid of this tiny urn.)\nAccording to Spotify, the urn offers “the world’s first ever music-streaming urn,” making death “a lot less boring.” With this product, the idea is that even the dearly departed can keep jamming to their favorite tunes for eternity, or at least that’s the company’s joke.\n“Life needs music. So does the afterlife. That’s why Spotify has partnered with Liquid Death to create the Eternal Playlist Urn, the world’s first wireless speaker designed to bring your music somewhere it’s never been before,” Spotify stated in a blog post. \nWhen you get the urn, you can create your own Eternal Playlist on Spotify by answering questions like “What’s your eternal vibe?” or “What’s your go-to ghost noise?” Spotify will then use your answers and listening history to generate a custom playlist, which syncs directly to the urn’s speaker and can be shared with friends and family.\nImage Credits:Spotify\nWhile Spotify hasn’t released a branded smart speaker, it partnered with Ikea in 2022 on a portable Bluetooth lamp speaker with Spotify Tap functionality, making this the company’s second hardware collaboration with another brand. The company also released “Car Thing,” an in-car entertainment device, which was later discontinued.\nThis isn’t the first time Liquid Death has pushed the limits of extreme marketing. The brand is known for its outrageous campaigns, including a life-sized Yeti Casket-shaped cooler. While some may find the humor a little morbid, fans of dark, irreverent comedy seem to be intrigued by it. The cooler had over 800 bidders and sold for $68,200.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 9, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nWhether you view this as a clever stunt, a funny gag, a tasteless joke, or simply absurd, the Eternal Playlist Urn is a testament to how far brands will go to capture our attention.\n\n\n\n\t\tLauren covers media, streaming, apps and platforms at TechCrunch.\nYou can contact or verify outreach from Lauren by emailing laurenf.techcrunch@gmail.com or via encrypted message at laurenforris22.25 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Spotify and Liquid Death release a limited-edition speaker shaped like … an urn? ",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/02/SPOTIFY-Liquid-Deathpng.png?w=150"
-      ],
-      "datePublished": "2026-02-24T18:48:13.000Z",
-      "dateModified": "2026-02-24T18:48:13.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "More startups are hitting $10M ARR in 3 months than ever before",
     "url": "https://techcrunch.com/2026/02/24/more-startups-are-hitting-10m-arr-in-3-months-than-ever-before/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/01/GettyImages-582759168.jpg?w=150",
@@ -291,6 +241,31 @@
       ],
       "datePublished": "2026-02-24T19:39:36.000Z",
       "dateModified": "2026-02-24T19:39:36.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Spotify and Liquid Death release a limited-edition speaker shaped like … an urn? ",
+    "url": "https://techcrunch.com/2026/02/24/spotify-and-liquid-death-release-a-limited-edition-speaker-shaped-like-an-urn/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/SPOTIFY-Liquid-Deathpng.png?w=150",
+    "tag": "Tech",
+    "date": "2026-02-24T18:48:13.000Z",
+    "description": "\nSpotify and Liquid Death have teamed up to launch what might be the wildest product collaboration of the year: the Eternal Playlist Urn, a wireless B",
+    "body": "\nSpotify and Liquid Death have teamed up to launch what might be the wildest product collaboration of the year: the Eternal Playlist Urn, a wireless Bluetooth speaker shaped like a cremation urn. Yes, you read that right.\nThe Eternal Playlist Urn is not really meant to hold ashes, but is instead a collector’s item, with only 150 available for purchase in the U.S. For $495, buyers receive a 7-inch-by-11.4-inch urn with a Bluetooth speaker built into the lid. (We question the audio quality, since all the tech is crammed into the lid of this tiny urn.)\nAccording to Spotify, the urn offers “the world’s first ever music-streaming urn,” making death “a lot less boring.” With this product, the idea is that even the dearly departed can keep jamming to their favorite tunes for eternity, or at least that’s the company’s joke.\n“Life needs music. So does the afterlife. That’s why Spotify has partnered with Liquid Death to create the Eternal Playlist Urn, the world’s first wireless speaker designed to bring your music somewhere it’s never been before,” Spotify stated in a blog post. \nWhen you get the urn, you can create your own Eternal Playlist on Spotify by answering questions like “What’s your eternal vibe?” or “What’s your go-to ghost noise?” Spotify will then use your answers and listening history to generate a custom playlist, which syncs directly to the urn’s speaker and can be shared with friends and family.\nImage Credits:Spotify\nWhile Spotify hasn’t released a branded smart speaker, it partnered with Ikea in 2022 on a portable Bluetooth lamp speaker with Spotify Tap functionality, making this the company’s second hardware collaboration with another brand. The company also released “Car Thing,” an in-car entertainment device, which was later discontinued.\nThis isn’t the first time Liquid Death has pushed the limits of extreme marketing. The brand is known for its outrageous campaigns, including a life-sized Yeti Casket-shaped cooler. While some may find the humor a little morbid, fans of dark, irreverent comedy seem to be intrigued by it. The cooler had over 800 bidders and sold for $68,200.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 9, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nWhether you view this as a clever stunt, a funny gag, a tasteless joke, or simply absurd, the Eternal Playlist Urn is a testament to how far brands will go to capture our attention.\n\n\n\n\t\tLauren covers media, streaming, apps and platforms at TechCrunch.\nYou can contact or verify outreach from Lauren by emailing laurenf.techcrunch@gmail.com or via encrypted message at laurenforris22.25 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Spotify and Liquid Death release a limited-edition speaker shaped like … an urn? ",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/02/SPOTIFY-Liquid-Deathpng.png?w=150"
+      ],
+      "datePublished": "2026-02-24T18:48:13.000Z",
+      "dateModified": "2026-02-24T18:48:13.000Z",
       "author": [
         {
           "@type": "Person",
@@ -325,22 +300,22 @@
     }
   },
   {
-    "title": "Self-driving tech startup Wayve raises $1.2B from Nvidia, Uber, and three automakers",
-    "url": "https://techcrunch.com/2026/02/24/self-driving-tech-startup-wayve-raises-1-2b-from-nvidia-uber-and-three-automakers/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Wayve-Germany-02.jpg?w=150",
+    "title": "Google’s new 1.9GW clean energy deal includes massive 100-hour battery",
+    "url": "https://techcrunch.com/2026/02/24/googles-new-1-9gw-clean-energy-deal-includes-massive-100-hour-battery/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2177664491.jpeg?w=150",
     "tag": "Tech",
-    "date": "2026-02-25T00:37:59.000Z",
-    "description": "\nWayve’s self-driving tech has attracted a diverse set of investors in the company’s latest $1.2 billion funding round, including three automakers, to",
-    "body": "\nWayve’s self-driving tech has attracted a diverse set of investors in the company’s latest $1.2 billion funding round, including three automakers, top venture and institutional firms, and returning backers Microsoft, Nvidia, and Uber. The total raise could reach $1.5 billion thanks to another $300 million from Uber contingent on deploying robotaxis, beginning in London.\nEveryone, it seems, wants a piece of the U.K. startup, which is now valued at $8.6 billion. The funding round illustrates the eagerness among Big Tech, legacy automakers, and the investor community to profit from the burgeoning automated driving industry. \nWayve provides what founder and CEO Alex Kendall calls the “contrarian” option in automated driving — contrarian both in its approach to tech and its business model, he told TechCrunch in an interview Tuesday.\n“I think the technology chessboard is set around where different companies have invested on the technology strategy, and now the commercial chessboard is being arranged,” Kendall said. “We took a very contrarian view on the technology side. We were the first to build end-to-end deep learning for autonomous driving, and we pioneered this approach. Now, when it comes to this phase of moving into commercialization, we’re also taking a contrarian business model approach.”\nWayve, which launched in 2017, uses a self-learning approach to its software. The company developed a software layer using an end-to-end neural network that doesn’t require high-definition maps and only uses data to teach the vehicle how to drive. \nThis data-driven learning approach underpins two products: an “eyes on” assisted-driving system and an “eyes off” fully automated-driving system that could be applied to robotaxis or consumer vehicles that can handle all of the driving in certain environments. \nThe company’s pitch to customers is the agnostic nature of its technology, which is not reliant on specific sensors or maps. The automated-driving software captures data from whatever sensors are on the vehicle and directs the system’s driving decisions. Wayve’s software can also run on whatever chip its OEM partners already have in their vehicles.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 9, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nIt should be noted, however, that Nvidia, which is also a backer, has had a close development relationship with Wayve since 2018. The startup’s Gen 3 platform, which was unveiled last fall, uses an in-vehicle compute autonomous vehicle development kit called Nvidia Drive AGX Thor. The Gen 3 platform will allow Wayve to offer eyes-off advanced driving-assistance systems and Level 4 — or fully driverless — features that will work on city streets and highways.\nThe company’s tech is somewhat similar to how Tesla has approached automated driving, although there are key differences in their business models. \nWayve doesn’t want to be the operator of its hands-free driving-assistance system or its “eyes-off” fully automated-driving system. (For comparison, Waymo is largely the operator of its robotaxis, although it does have partners.) Nor does Wayve want to build vehicles bundled with its own software, as Tesla does. Instead, it is selling its “embodied AI” to automakers and other tech companies like Uber. \nKendall argues that this is the business model with the largest addressable market, but he says it’s only viable because Wayve built an AI that generalizes across different hardware and environments.\n“If you build an autonomy stack that’s specific to a sensor or compute architecture, [or] if you build it where it requires mapping or something like this, then you can’t take option three,” Kendall said, referring to the business model his company has chosen.\nNissan and Uber are both Wayve customers. Nissan said the startup’s self-driving software will be used to beef up the advanced driver-assistance system in its cars starting in 2027. Meanwhile, later this year, Uber plans to launch commercial trials in vehicles equipped with Wayve’s software.\nIts relationship with Uber appears poised to stretch well beyond a pilot program, though. Uber CEO Dara Khosrowshahi’s statement Tuesday hints at the scope of its partnership with and investment in Wayve. \n“We are very proud to continue to deepen our partnership with Wayve, with plans to deploy together in more than 10 markets around the world. Wayve’s powerful end-to-end approach is purpose-built for scale, safety, and effectiveness, and we’re excited to work with them across multiple OEMs and geographies, which we’ll share more about soon.”\nThe round was led by Eclipse, Balderton, and SoftBank Vision Fund 2. New investors include the Ontario Teachers’ Pension Plan, Baillie Gifford, British Business Bank, Icehouse Ventures, Schroders Capital, and other global institutional investors, the company said. \nGlobal automakers Mercedes-Benz, Nissan, and Stellantis — all of which plan to use Wayve’s technology — also participated. Nvidia, which participated in Wayve’s $1.05 billion Series C round, said last year it was evaluating a $500 million strategic investment in Wayve’s next raise. While Nvidia did participate, Kendall wouldn’t disclose the exact amount of its investment or whether it came close to that $500 million figure.\nUpdated to include more information on the $300 million in additional funding from Uber. \n",
+    "date": "2026-02-24T21:32:22.000Z",
+    "description": "\nGoogle announced Tuesday that it will build a data center in Minnesota that’s backed by 1.9 gigawatts of clean power, including a massive 300-megawat",
+    "body": "\nGoogle announced Tuesday that it will build a data center in Minnesota that’s backed by 1.9 gigawatts of clean power, including a massive 300-megawatt battery made by startup Form Energy.\nThe new data center, Google’s first in Minnesota, will be located in Pine Island, about an hour southeast of Minneapolis.\nThe tech company is working with Xcel Energy to build 1.4 gigawatts of wind power and 200 megawatts of solar power. Both will feed Form’s battery, which will be capable of delivering its rated power for 100 hours. At 30 gigawatt-hours, it will be the largest battery in the world, helping the data center operate on clean energy for longer periods of time.\nSuch long-duration batteries help renewable energy sources continue to provide power at night or during lulls, “firming” the power source, as experts call it. Grid-scale lithium-ion batteries do this already, though for shorter periods.\nForm Energy’s batteries are unlike most other grid-scale batteries. Whereas a typical grid-scale battery today uses lithium-ion technology that’s been repurposed from chemistries used by the automotive industry, Form’s batteries store energy by rusting and deoxidizing iron. \nWhen oxygen from the air flows over pebbles of iron inside the battery, it rusts the iron, generating electricity in the process. To charge, electrical current deoxidizes the rust, turning it back into metallic iron and releasing oxygen in the process, which is drawn out of the battery.\nAs battery chemistries go, Form’s iron-air cells are heavy and not very efficient. Typical iron-air batteries can only deliver 50% to 70% of the energy used to charge them, compared with upwards of 90% for lithium-ion batteries. But for all their downsides, they come with one very large upside: they’re incredibly cheap. Form says 1 kilowatt-hour of storage will ultimately cost just $20 using their technology, which is at least three times cheaper than lithium-ion batteries.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 9, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThe new project also introduces a wonky utility fee structure to Minnesota that’s intended to help utilities adopt clean technologies without running afoul of their regulators, which push utilities to use the cheapest source of electricity. \nGoogle first developed the concept in Nevada, where it’s buying power from enhanced geothermal startup Fervo. Alternately called the “clean transition tariff” or the “clean energy accelerator charge,” the agreement between Google and Xcel allows the utility to accept projects that might be considered risky by regulators, with the tech company paying a premium to ensure that regular ratepayers aren’t left holding the bag. \nSolar and wind are both proven technologies, but Form’s iron-air batteries are still relatively new. The startup’s first battery is currently being installed in Minnesota with cooperative utility Great River Energy, and it will store 150 megawatt-hours for 100 hours, sending 1.5 megawatts to the grid at its peak. \nForm makes its batteries at a factory in West Virginia. The company has raised $1.4 billion to date, according to PitchBook data.\n\n\n\t\tTim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor. \r\nDe Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.\r\nYou can contact or verify outreach from Tim by emailing tim.dechant@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Self-driving tech startup Wayve raises $1.2B from Nvidia, Uber, and three automakers",
+      "headline": "Google’s new 1.9GW clean energy deal includes massive 100-hour battery",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/02/Wayve-Germany-02.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2177664491.jpeg?w=150"
       ],
-      "datePublished": "2026-02-25T00:37:59.000Z",
-      "dateModified": "2026-02-25T00:37:59.000Z",
+      "datePublished": "2026-02-24T21:32:22.000Z",
+      "dateModified": "2026-02-24T21:32:22.000Z",
       "author": [
         {
           "@type": "Person",
@@ -366,6 +341,31 @@
       ],
       "datePublished": "2026-02-24T23:32:00.000Z",
       "dateModified": "2026-02-24T23:32:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Self-driving tech startup Wayve raises $1.2B from Nvidia, Uber, and three automakers",
+    "url": "https://techcrunch.com/2026/02/24/self-driving-tech-startup-wayve-raises-1-2b-from-nvidia-uber-and-three-automakers/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Wayve-Germany-02.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-02-25T00:37:59.000Z",
+    "description": "\nWayve’s self-driving tech has attracted a diverse set of investors in the company’s latest $1.2 billion funding round, including three automakers, to",
+    "body": "\nWayve’s self-driving tech has attracted a diverse set of investors in the company’s latest $1.2 billion funding round, including three automakers, top venture and institutional firms, and returning backers Microsoft, Nvidia, and Uber. The total raise could reach $1.5 billion thanks to another $300 million from Uber contingent on deploying robotaxis, beginning in London.\nEveryone, it seems, wants a piece of the U.K. startup, which is now valued at $8.6 billion. The funding round illustrates the eagerness among Big Tech, legacy automakers, and the investor community to profit from the burgeoning automated driving industry. \nWayve provides what founder and CEO Alex Kendall calls the “contrarian” option in automated driving — contrarian both in its approach to tech and its business model, he told TechCrunch in an interview Tuesday.\n“I think the technology chessboard is set around where different companies have invested on the technology strategy, and now the commercial chessboard is being arranged,” Kendall said. “We took a very contrarian view on the technology side. We were the first to build end-to-end deep learning for autonomous driving, and we pioneered this approach. Now, when it comes to this phase of moving into commercialization, we’re also taking a contrarian business model approach.”\nWayve, which launched in 2017, uses a self-learning approach to its software. The company developed a software layer using an end-to-end neural network that doesn’t require high-definition maps and only uses data to teach the vehicle how to drive. \nThis data-driven learning approach underpins two products: an “eyes on” assisted-driving system and an “eyes off” fully automated-driving system that could be applied to robotaxis or consumer vehicles that can handle all of the driving in certain environments. \nThe company’s pitch to customers is the agnostic nature of its technology, which is not reliant on specific sensors or maps. The automated-driving software captures data from whatever sensors are on the vehicle and directs the system’s driving decisions. Wayve’s software can also run on whatever chip its OEM partners already have in their vehicles.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 9, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nIt should be noted, however, that Nvidia, which is also a backer, has had a close development relationship with Wayve since 2018. The startup’s Gen 3 platform, which was unveiled last fall, uses an in-vehicle compute autonomous vehicle development kit called Nvidia Drive AGX Thor. The Gen 3 platform will allow Wayve to offer eyes-off advanced driving-assistance systems and Level 4 — or fully driverless — features that will work on city streets and highways.\nThe company’s tech is somewhat similar to how Tesla has approached automated driving, although there are key differences in their business models. \nWayve doesn’t want to be the operator of its hands-free driving-assistance system or its “eyes-off” fully automated-driving system. (For comparison, Waymo is largely the operator of its robotaxis, although it does have partners.) Nor does Wayve want to build vehicles bundled with its own software, as Tesla does. Instead, it is selling its “embodied AI” to automakers and other tech companies like Uber. \nKendall argues that this is the business model with the largest addressable market, but he says it’s only viable because Wayve built an AI that generalizes across different hardware and environments.\n“If you build an autonomy stack that’s specific to a sensor or compute architecture, [or] if you build it where it requires mapping or something like this, then you can’t take option three,” Kendall said, referring to the business model his company has chosen.\nNissan and Uber are both Wayve customers. Nissan said the startup’s self-driving software will be used to beef up the advanced driver-assistance system in its cars starting in 2027. Meanwhile, later this year, Uber plans to launch commercial trials in vehicles equipped with Wayve’s software.\nIts relationship with Uber appears poised to stretch well beyond a pilot program, though. Uber CEO Dara Khosrowshahi’s statement Tuesday hints at the scope of its partnership with and investment in Wayve. \n“We are very proud to continue to deepen our partnership with Wayve, with plans to deploy together in more than 10 markets around the world. Wayve’s powerful end-to-end approach is purpose-built for scale, safety, and effectiveness, and we’re excited to work with them across multiple OEMs and geographies, which we’ll share more about soon.”\nThe round was led by Eclipse, Balderton, and SoftBank Vision Fund 2. New investors include the Ontario Teachers’ Pension Plan, Baillie Gifford, British Business Bank, Icehouse Ventures, Schroders Capital, and other global institutional investors, the company said. \nGlobal automakers Mercedes-Benz, Nissan, and Stellantis — all of which plan to use Wayve’s technology — also participated. Nvidia, which participated in Wayve’s $1.05 billion Series C round, said last year it was evaluating a $500 million strategic investment in Wayve’s next raise. While Nvidia did participate, Kendall wouldn’t disclose the exact amount of its investment or whether it came close to that $500 million figure.\nUpdated to include more information on the $300 million in additional funding from Uber. \n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Self-driving tech startup Wayve raises $1.2B from Nvidia, Uber, and three automakers",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/02/Wayve-Germany-02.jpg?w=150"
+      ],
+      "datePublished": "2026-02-25T00:37:59.000Z",
+      "dateModified": "2026-02-25T00:37:59.000Z",
       "author": [
         {
           "@type": "Person",
