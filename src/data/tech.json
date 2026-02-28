@@ -1,30 +1,5 @@
 [
   {
-    "title": "AI music generator Suno hits 2M paid subscribers and $300M in annual recurring revenue",
-    "url": "https://techcrunch.com/2026/02/27/ai-music-generator-suno-hits-2-million-paid-subscribers-and-300m-in-annual-recurring-revenue/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2159558534.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-02-27T17:22:02.000Z",
-    "description": "\nIn Brief\nPosted:\n9:22 AM PST · February 27, 2026\n\nImage Credits:Barry Chin/The Boston Globe / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n",
-    "body": "\nIn Brief\nPosted:\n9:22 AM PST · February 27, 2026\n\nImage Credits:Barry Chin/The Boston Globe / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nSuno co-founder and CEO Mikey Shulman shared on LinkedIn that the AI music generator has amassed 2 million paid subscribers and $300 million in annual recurring revenue.\nJust three months ago, Suno announced a $250 million funding round that valued the company at $2.45 billion. At the time, Suno told The Wall Street Journal that annual revenue had hit $200 million — that would indicate that the company has had some major growth in a short time frame.\nSuno lets users create music using natural language prompts, making it possible for people with little experience to generate audio with little effort. This has sparked concern from musicians and record labels, who have sued Suno for copyright infringement, since its AI model was likely trained on existing recorded music. But Warner Music Group recently settled its lawsuit and instead reached a deal that allows Suno to launch models that use licensed music from its catalog.\nSuno has generated synthetic music that sounds real enough to top charts on Spotify and Billboard. Telisha Jones, a 31-year-old in Mississippi, used Suno to turn her poetry into the viral R&B song “How Was I Supposed to Know” and signed a record deal with Hallwood Media in a deal reportedly worth $3 million. \nStill, many musicians have spoken out against the use of AI in music, including Billie Eilish, Chappell Roan, Katy Perry, and more.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Media & Entertainment\n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "AI music generator Suno hits 2M paid subscribers and $300M in annual recurring revenue",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2159558534.jpg?w=150"
-      ],
-      "datePublished": "2026-02-27T17:22:02.000Z",
-      "dateModified": "2026-02-27T17:22:02.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "ChatGPT reaches 900M weekly active users",
     "url": "https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=150",
@@ -41,6 +16,56 @@
       ],
       "datePublished": "2026-02-27T18:25:51.000Z",
       "dateModified": "2026-02-27T18:25:51.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "OpenAI fires employee for using confidential info on prediction markets",
+    "url": "https://techcrunch.com/2026/02/27/openai-fires-employee-for-using-confidential-info-on-prediction-markets/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/06/OpenAI-logo-symmetry.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-02-27T23:00:54.000Z",
+    "description": "\nIn Brief\nPosted:\n3:00 PM PST · February 27, 2026\n\nImage Credits:Bryce Durbin / TechCrunch\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nOpenAI has fired",
+    "body": "\nIn Brief\nPosted:\n3:00 PM PST · February 27, 2026\n\nImage Credits:Bryce Durbin / TechCrunch\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nOpenAI has fired an employee over the employee’s activity on prediction markets, including Polymarket, the company confirmed to Wired. The employee used confidential OpenAI information in connection with the trades made, the company alleges.\nOpenAI didn’t release the name of the employee. However, a spokesperson said that such actions violated a company policy that bans workers from using inside information for personal gain, including on prediction markets.\nPrediction markets like Polymarket and Kalshi allow people to make wagers on the outcomes of real-world events. For instance, on Polymarket, there are wagers being made around the kind of products OpenAI will announce in 2026 and when the company will go public. They can cover any event, and some eye-popping money can be made. As we recently reported, an accountant won a $470,300 jackpot on Kalshi by betting against DOGE believers.\nPrediction markets insist they are not gambling sites, preferring to label themselves as financial platforms. Kalshi is a regulated exchange and, in fact, it fined and banned a MrBeast editor for similar alleged insider trading earlier this week. OpenAI did not immediately respond to a request for additional comment.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Fintech\n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "OpenAI fires employee for using confidential info on prediction markets",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2023/06/OpenAI-logo-symmetry.jpg?w=150"
+      ],
+      "datePublished": "2026-02-27T23:00:54.000Z",
+      "dateModified": "2026-02-27T23:00:54.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "AI music generator Suno hits 2M paid subscribers and $300M in annual recurring revenue",
+    "url": "https://techcrunch.com/2026/02/27/ai-music-generator-suno-hits-2-million-paid-subscribers-and-300m-in-annual-recurring-revenue/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2159558534.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-02-27T17:22:02.000Z",
+    "description": "\nIn Brief\nPosted:\n9:22 AM PST · February 27, 2026\n\nImage Credits:Barry Chin/The Boston Globe / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n",
+    "body": "\nIn Brief\nPosted:\n9:22 AM PST · February 27, 2026\n\nImage Credits:Barry Chin/The Boston Globe / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nSuno co-founder and CEO Mikey Shulman shared on LinkedIn that the AI music generator has amassed 2 million paid subscribers and $300 million in annual recurring revenue.\nJust three months ago, Suno announced a $250 million funding round that valued the company at $2.45 billion. At the time, Suno told The Wall Street Journal that annual revenue had hit $200 million — that would indicate that the company has had some major growth in a short time frame.\nSuno lets users create music using natural language prompts, making it possible for people with little experience to generate audio with little effort. This has sparked concern from musicians and record labels, who have sued Suno for copyright infringement, since its AI model was likely trained on existing recorded music. But Warner Music Group recently settled its lawsuit and instead reached a deal that allows Suno to launch models that use licensed music from its catalog.\nSuno has generated synthetic music that sounds real enough to top charts on Spotify and Billboard. Telisha Jones, a 31-year-old in Mississippi, used Suno to turn her poetry into the viral R&B song “How Was I Supposed to Know” and signed a record deal with Hallwood Media in a deal reportedly worth $3 million. \nStill, many musicians have spoken out against the use of AI in music, including Billie Eilish, Chappell Roan, Katy Perry, and more.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Media & Entertainment\n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "AI music generator Suno hits 2M paid subscribers and $300M in annual recurring revenue",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2159558534.jpg?w=150"
+      ],
+      "datePublished": "2026-02-27T17:22:02.000Z",
+      "dateModified": "2026-02-27T17:22:02.000Z",
       "author": [
         {
           "@type": "Person",
@@ -100,31 +125,6 @@
     }
   },
   {
-    "title": "Musk bashes OpenAI in deposition, saying ‘nobody committed suicide because of Grok’",
-    "url": "https://techcrunch.com/2026/02/27/musk-bashes-openai-in-deposition-saying-nobody-committed-suicide-because-of-grok/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2183887189.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-02-27T19:42:00.000Z",
-    "description": "\nIn a newly released deposition filed in Elon Musk’s case against OpenAI, the tech executive attacked OpenAI’s safety record, claiming that his compan",
-    "body": "\nIn a newly released deposition filed in Elon Musk’s case against OpenAI, the tech executive attacked OpenAI’s safety record, claiming that his company, xAI, better prioritizes safety.  He went so far as to say that “Nobody has committed suicide because of Grok, but apparently they have because of ChatGPT.”\nThe comment came up in a line of questioning about a public letter Musk signed in March 2023. In it, he called on AI labs to pause development of AI systems more powerful than GPT-4, OpenAI’s flagship model at the time, for at least six months. The letter, which was signed by over 1,100 people, including many AI experts, stated there was not enough planning and management taking place at AI labs, as they were locked in an “out-of-control race to develop and deploy ever more powerful digital minds that no one — not even their creators — can understand, predict, or reliably control.”\nThose fears have since gained credibility. OpenAI now faces a series of lawsuits alleging that ChatGPT’s manipulative conversation tactics have led several people to experience negative mental health effects, with some dying by suicide. Musk’s comment suggests that these incidents could be used as fodder in his case against OpenAI.\nThe transcript of Musk’s video testimony, which took place back in September, was filed publicly this week, ahead of the expected jury trial next month.\nThe lawsuit against OpenAI centers on the company’s shift from a nonprofit AI research lab to a for-profit company, which Musk claims violated its founding agreements. As part of his arguments, Musk claims that AI safety could be compromised by OpenAI’s commercial relationships, as such relationships would place speed, scale, and revenue above safety concerns.\nHowever, since that recording, xAI has faced safety concerns of its own. Last month, Musk’s social network X was flooded with nonconsensual nude images generated by xAI’s Grok, some of which were said to be of minors. This led the California Attorney General’s office to open an investigation into the matter. The EU is also running its own investigation, and other governments have taken action, too, with some imposing blocks and bans.\nIn the newly filed deposition, Musk claimed he had signed the AI safety letter because “it seemed like a good idea,” not because he had just incorporated an AI company looking to compete with OpenAI.\n“I signed it, as many people did, to urge caution with AI development,” Musk said. “I just wanted … AI safety to be prioritized.”\nImage Credits:imgflip\nMusk also responded to other questions in the deposition, including those about artificial general intelligence, or AGI — the concept of AI that can match or surpass human reasoning across a broad range of tasks — saying “it has a risk.” He also confirmed that he “was mistaken” about his supposed $100 million donation to OpenAI; the second amended complaint in the case puts the actual figure closer to $44.8 million.\nHe also recalled why OpenAI was founded, which, from his perspective, was because he was “increasingly concerned about the danger of Google being a monopoly in AI,” adding that his conversations with Google co-founder Larry Page were “alarming, in that he did not seem to be taking AI safety seriously.” OpenAI was formed as a counterweight to that threat, Musk claimed.\n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Musk bashes OpenAI in deposition, saying ‘nobody committed suicide because of Grok’",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2183887189.jpg?w=150"
-      ],
-      "datePublished": "2026-02-27T19:42:00.000Z",
-      "dateModified": "2026-02-27T19:42:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Apple and Netflix team up to air Formula 1 Canadian Grand Prix ",
     "url": "https://techcrunch.com/2026/02/27/apple-and-netflix-team-up-to-air-formula-1-canadian-grand-prix/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/Canada-race-F1-2026.jpeg?w=150",
@@ -175,6 +175,56 @@
     }
   },
   {
+    "title": "Pentagon moves to designate Anthropic as a supply-chain risk",
+    "url": "https://techcrunch.com/2026/02/27/pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2225249178.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-02-27T21:53:14.000Z",
+    "description": "\nIn a post on Truth Social, President Trump directed federal agencies to cease use of all Anthropic products after the company’s public dispute with t",
+    "body": "\nIn a post on Truth Social, President Trump directed federal agencies to cease use of all Anthropic products after the company’s public dispute with the Department of Defense. The president allowed for a six-month phase-out period for departments using the products, but emphasized that Anthropic was no longer welcome as a federal contractor.\n“We don’t need it, we don’t want it, and will not do business with them again,” the president wrote in the post.\n\nNotably, the president’s post did not mention any plans to designate Anthropic as a supply chain risk, as had been previously mentioned as a consequence. However, a subsequent tweet from Secretary of Defense Pete Hegseth made good on the threat.\n“In conjunction with the President’s directive for the Federal Government to cease all use of Anthropic’s technology, I am directing the Department of War to designate Anthropic a Supply-Chain Risk to National Security,” Secretary Hegseth wrote. “Effective immediately, no contractor, supplier, or partner that does business with the United States military may conduct any commercial activity with Anthropic.”\nThe Pentagon dispute centered on Anthropic’s refusal to allow its AI models to be used to power either mass domestic surveillance or fully autonomous weapons, which Secretary Hegseth found unduly restrictive.\nCEO Dario Amodei reiterated his stance in a public post on Thursday, refusing to compromise on the two points.\n“Our strong preference is to continue to serve the Department and our warfighters — with our two requested safeguards in place,” Amodei wrote at the time. “Should the Department choose to offboard Anthropic, we will work to enable a smooth transition to another provider, avoiding any disruption to ongoing military planning, operations, or other critical missions.”\n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 9, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nOpenAI has come out in support of Anthropic’s decision. Per the BBC, CEO Sam Altman sent a memo to staff on Thursday saying he shared the same “red lines” and that any OpenAI-related defense contracts would also reject uses that were “unlawful or unsuited to cloud deployments, such as domestic surveillance and autonomous offensive weapons.”\nOpenAI co-founder Ilya Sutskever, who very publicly fell out with Altman in November 2023 and has since co-founded his own AI company, also waded into the conversation on Friday, writing on X: “It’s extremely good that Anthropic has not backed down, and it’s significant that OpenAI has taken a similar stance.\nIn the future, there will be much more challenging situations of this nature, and it will be critical for the relevant leaders to rise up to the occasion, for fierce competitors to put their differences aside. Good to see that happen today.”\nAnthropic, OpenAI and Google each received contract awards from the U.S. Defense Department last July. While some Google employees have come out in support of Anthropic, Google and its parent company have yet to comment.\n\n\n\t\n\t\tRussell Brandom has been covering the tech industry since 2012, with a focus on platform policy and emerging technologies. He previously worked at The Verge and Rest of World, and has written for Wired, The Awl and MIT’s Technology Review.\r\n He can be reached at russell.brandom@techcrunch.com or on Signal at 412-401-5489.\t\n\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Pentagon moves to designate Anthropic as a supply-chain risk",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2225249178.jpg?w=150"
+      ],
+      "datePublished": "2026-02-27T21:53:14.000Z",
+      "dateModified": "2026-02-27T21:53:14.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Netflix backs out of bid for Warner Bros. Discovery, giving studios, HBO, and CNN to Ellison-owned Paramount",
+    "url": "https://techcrunch.com/2026/02/26/netflix-warner-bros-discovery-paramount-wbd-bid-studios-hbo-cnn-ellison/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/09/warner-bros.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-02-26T23:55:39.000Z",
+    "description": "\nIn a flurry of deal offers in the high tens of billions of dollars, the bidding war for Warner Bros. Discovery is over. David Ellison-owned Paramount",
+    "body": "\nIn a flurry of deal offers in the high tens of billions of dollars, the bidding war for Warner Bros. Discovery is over. David Ellison-owned Paramount will acquire Warner Bros. Discovery.\nOn Thursday, Warner Bros. Discovery announced that Paramount Skydance’s newest offer of $31 a share was a “superior proposal,” giving Netflix four business days to counter. Netflix then said it would not raise its $82.7 billion all-cash bid for the legacy studio, and would walk away from the deal.\n“The transaction we negotiated would have created shareholder value with a clear path to regulatory approval,” said Netflix co-CEOs Ted Sarandos and Greg Peters in a statement Thursday. “However, we’ve always been disciplined, and at the price required to match Paramount Skydance’s latest offer, the deal is no longer financially attractive, so we are declining to match the Paramount Skydance bid.”\nPer the terms of the original deal, Warner Bros. Discovery will have to pay a $2.8 billion termination fee to Netflix to end the existing agreement. Paramount’s renewed offer — backed by the world’s sixth-richest person, Oracle’s executive chair, and David Ellison’s father, Larry Ellison — includes paying that breakup fee.\nThe new deal will see Paramount, which was bought just last year by Ellison’s Skydance Media with heavy financial backing from his father, acquiring the entirety of Warner Bros. Discovery, including its studios, HBO, its streaming service, its games and entertainment divisions, and linear television networks like CNN, TBS, TNT, Discovery, and HGTV.\nEllison, whose Paramount already owns major studios, entertainment, and news businesses, has warned of significant job cuts. His ownership of news network CBS has also attracted controversy and has largely been seen as a sympathetic turn toward the Trump administration, with reporting critical of the administration shelved or facing increased scrutiny by Ellison and CBS’s editor-in-chief, the conservative provocateur Bari Weiss. Larry Ellison is a major donor and supporter of President Trump.\nNetflix had announced its intent to acquire WBD in December, offering nearly $83 billion for its studios and streaming service alone. Despite several hostile takeover bids by Paramount, Warner Bros. Discovery reaffirmed to shareholders its belief that Netflix’s offer was superior to Paramount’s, which offered $108 billion for the full company including its linear television networks. Paramount’s newest bid, of $31 a share, values WBD at about $111 billion.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 9, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nParamount will take on the about $33 billion in debt held by Warner Bros. Discovery, according to the deal. Larry Ellison, whose net worth is $201 billion, according to Bloomberg, has agreed to supply the additional equity to fulfill Paramount’s bid. Paramount’s market cap is about $12 billion.\nThe deal is also being financed by a $57.5 billion debt commitment from Bank of America Merrill Lynch, Citi, and Apollo Global Management.\nNetflix shares jumped as much as 10% in after-hours trading in New York. Shares in Paramount were up 4.5%.\n\n\n\t\n\t\tGraham Starr is the deputy editor of TechCrunch. He has led teams of reporters to break news on some of the biggest stories in tech, media, and health care for ADWEEK, Bloomberg News, Business Insider, and The New York Times.\t\n\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Netflix backs out of bid for Warner Bros. Discovery, giving studios, HBO, and CNN to Ellison-owned Paramount",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/09/warner-bros.jpg?w=150"
+      ],
+      "datePublished": "2026-02-26T23:55:39.000Z",
+      "dateModified": "2026-02-26T23:55:39.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "OpenAI raises $110B in one of the largest private funding rounds in history",
     "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2197366846.jpg?w=150",
@@ -191,6 +241,31 @@
       ],
       "datePublished": "2026-02-27T14:13:01.000Z",
       "dateModified": "2026-02-27T14:13:01.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Memory shortage could cause the biggest dip in smartphone shipments in over a decade",
+    "url": "https://techcrunch.com/2026/02/27/memory-shortage-could-cause-the-biggest-smartphone-shipments-dip-in-over-a-decade/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/Apple-iphone-16-2.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-02-27T14:00:00.000Z",
+    "description": "\nA rise in the need for computers and data centers to power AI is causing a massive shortage of RAM, driving memory prices sharply higher. Now, analys",
+    "body": "\nA rise in the need for computers and data centers to power AI is causing a massive shortage of RAM, driving memory prices sharply higher. Now, analyst firm IDC predicts that this will cause smartphone shipments to plummet by 12.9% this year, making it the biggest single-year dip in more than a decade. Hours after IDC published its report, another analyst firm, Counterpoint, made a similar prediction and said the market will dip by 12% this year.\nEarlier this year, IDC reported that manufacturers shipped 1.26 billion devices in 2025. The firm predicts that figure will drop to just 1.12 billion this year.\n“The memory crisis will cause more than a temporary decline; it marks a structural reset of the entire market, fundamentally reshaping the long‑term TAM [total addressable market], the vendor landscape, and the product mix,” said Nabila Popal, senior research director with IDC’s Worldwide Quarterly Mobile Phone Tracker, in a statement.\nImage Credits:IDC\nPopal said that because of memory shortage, the average retail price of a smartphone is expected to rise by 14%.\n“We expect consolidation as smaller players exit, and low-end vendors face sharp shipment declines amid supply constraints and lower demand at higher price points. Although shipments will witness a record drop, smartphone ASP [average selling price] is projected to rise 14% to a record $523 this year,” she added.\nPopal also noted that rising component costs could make the sub-$100 smartphone “permanently uneconomical,” pricing out phone makers that manufacture devices at that price point.\nThe firm said that, because of this trend, shipments in the Middle East and Africa will drop more than 20% year-over-year. China and the broader Asia Pacific region (excluding Japan) will also see declines of 10.5% and 13.1%, respectively.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 9, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nIDC added that it expects RAM prices to stabilize by mid-2027.\nCounterpoint said that premium smartphones would be more resilient to this change, but the sub-$200 smartphone segment will see a 20% dip. \n“The impact is expected to continue through H2 2027, as it will take several quarters for memory supply expansion to materialize. Lower-end smartphones are likely to be affected the most, especially as LPDDR4 supply is shrinking faster than expected. OEMs are already responding with launch delays, streamlined portfolios, and specification trade-offs. We have also observed 10% to 20% price increases across some Android OEM portfolios in January 2026,” Principal Analyst Yang Wang said.\nImage Credits:Counterpoint\nThe firm also predicted that pricing volatility amid handsets will also drive the second-hand devices market up. \nEarlier this year, Nothing co-founder and CEO Carl Pei also warned that smartphones will cost more in 2026 as memory costs for smartphones rise. “Brands now face a simple choice: raise prices by 30% or more in some cases, or downgrade specs. The ‘more specs for less money’ model that many value brands were built on is no longer sustainable in 2026,” he said.\n“As a result, some markets, particularly entry and mid-tier segments, are likely to shrink by 20% or more, and brands that have historically dominated these segments will struggle,” Pei added.\n\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Memory shortage could cause the biggest dip in smartphone shipments in over a decade",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/02/Apple-iphone-16-2.jpg?w=150"
+      ],
+      "datePublished": "2026-02-27T14:00:00.000Z",
+      "dateModified": "2026-02-27T14:00:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -225,22 +300,22 @@
     }
   },
   {
-    "title": "Anthropic CEO stands firm as Pentagon deadline looms",
-    "url": "https://techcrunch.com/2026/02/26/anthropic-ceo-stands-firm-as-pentagon-deadline-looms/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=150",
+    "title": "Musk bashes OpenAI in deposition, saying ‘nobody committed suicide because of Grok’",
+    "url": "https://techcrunch.com/2026/02/27/musk-bashes-openai-in-deposition-saying-nobody-committed-suicide-because-of-grok/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2183887189.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-02-26T23:19:06.000Z",
-    "description": "\nAnthropic CEO Dario Amodei said Thursday that he “cannot in good conscience accede to [the Pentagon’s] request” to give the military unrestricted acc",
-    "body": "\nAnthropic CEO Dario Amodei said Thursday that he “cannot in good conscience accede to [the Pentagon’s] request” to give the military unrestricted access to its AI systems.\n“Anthropic understands that the Department of War, not private companies, makes military decisions,” Amodei wrote in a statement. “However, in a narrow set of cases, we believe AI can undermine, rather than defend, democratic values. Some uses are also simply outside the bounds of what today’s technology can safely and reliably do.”\nThe two cases are: mass surveillance of Americans and fully autonomous weapons with no human in the loop. The Pentagon believes it should be able to use Anthropic’s model for all lawful purposes, and that its uses shouldn’t be dictated by a private company.\n\nThis isn’t about Anthropic or the specific conditions at issue. It’s about the broader premise that technology deeply embedded in our military must be under the exclusive control of our duly elected/appointed leaders. No private company can dictate normative terms of use—which… https://t.co/VHbtzWujDA— Senior Official Jeremy Lewin (@UnderSecretaryF) February 27, 2026\n\nAmodei’s statement comes less than 24 hours ahead of the Friday 5:01 p.m. deadline Defense Secretary Pete Hegseth has given Anthropic to either acquiesce to his demands, or face the consequences. An Anthropic spokesperson told TechCrunch Amodei’s statement does not mean the firm is walking away from negotiations and is continuing to engage in good faith with the Department going forward. \n“The contract language we received overnight from the Department of War made virtually no progress on preventing Claude’s use for mass surveillance of Americans or in fully autonomous weapons,” an Anthropic spokesperson told TechCrunch. “New language framed as compromise was paired with legalese that would allow those safeguards to be disregarded at will. Despite DOW’s recent public statements, these narrow safeguards have been the crux of our negotiations for months.”\nThe Department of Defense has attempted to force Amodei’s hand by either labeling Anthropic a supply chain risk — a designation reserved for foreign adversaries — or invoke the Defense Production Act and effectively force the firm to do its bidding. The DPA gives the president the authority to force companies to prioritize or expand production for national defense.\nAmodei pointed out the contradiction in those two threats. “One labels us a security risk; the other labels Claude as essential to national security.”\n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 9, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nHe added that it’s the Department’s right to choose contractors most aligned with its vision, “but given the substantial value that Anthropic’s technology provides to our armed forces, we hope they reconsider.”\nAnthropic is currently the only frontier AI lab that has classified-ready systems for the military, though the DOD is reportedly getting xAI ready for the job. \n“Our strong preference is to continue to serve the Department and our warfighters—with our two requested safeguards in place,” Amodei said. “Should the Department choose to offboard Anthropic, we will work to enable a smooth transition to another provider, avoiding any disruption to ongoing military planning, operations, or other critical missions.”\nTLDR, he’s saying: “We can just part ways. There’s no need to be nasty about it.”\nThis article has been updated with a statement from an Anthropic spokesperson. \n\n\n\t\tRebecca Bellan is a senior reporter at TechCrunch where she covers the business, policy, and emerging trends shaping artificial intelligence. Her work has also appeared in Forbes, Bloomberg, The Atlantic, The Daily Beast, and other publications. \r\nYou can contact or verify outreach from Rebecca by emailing rebecca.bellan@techcrunch.com or via encrypted message at rebeccabellan.491 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-02-27T19:42:00.000Z",
+    "description": "\nIn a newly released deposition filed in Elon Musk’s case against OpenAI, the tech executive attacked OpenAI’s safety record, claiming that his compan",
+    "body": "\nIn a newly released deposition filed in Elon Musk’s case against OpenAI, the tech executive attacked OpenAI’s safety record, claiming that his company, xAI, better prioritizes safety.  He went so far as to say that “Nobody has committed suicide because of Grok, but apparently they have because of ChatGPT.”\nThe comment came up in a line of questioning about a public letter Musk signed in March 2023. In it, he called on AI labs to pause development of AI systems more powerful than GPT-4, OpenAI’s flagship model at the time, for at least six months. The letter, which was signed by over 1,100 people, including many AI experts, stated there was not enough planning and management taking place at AI labs, as they were locked in an “out-of-control race to develop and deploy ever more powerful digital minds that no one — not even their creators — can understand, predict, or reliably control.”\nThose fears have since gained credibility. OpenAI now faces a series of lawsuits alleging that ChatGPT’s manipulative conversation tactics have led several people to experience negative mental health effects, with some dying by suicide. Musk’s comment suggests that these incidents could be used as fodder in his case against OpenAI.\nThe transcript of Musk’s video testimony, which took place back in September, was filed publicly this week, ahead of the expected jury trial next month.\nThe lawsuit against OpenAI centers on the company’s shift from a nonprofit AI research lab to a for-profit company, which Musk claims violated its founding agreements. As part of his arguments, Musk claims that AI safety could be compromised by OpenAI’s commercial relationships, as such relationships would place speed, scale, and revenue above safety concerns.\nHowever, since that recording, xAI has faced safety concerns of its own. Last month, Musk’s social network X was flooded with nonconsensual nude images generated by xAI’s Grok, some of which were said to be of minors. This led the California Attorney General’s office to open an investigation into the matter. The EU is also running its own investigation, and other governments have taken action, too, with some imposing blocks and bans.\nIn the newly filed deposition, Musk claimed he had signed the AI safety letter because “it seemed like a good idea,” not because he had just incorporated an AI company looking to compete with OpenAI.\n“I signed it, as many people did, to urge caution with AI development,” Musk said. “I just wanted … AI safety to be prioritized.”\nImage Credits:imgflip\nMusk also responded to other questions in the deposition, including those about artificial general intelligence, or AGI — the concept of AI that can match or surpass human reasoning across a broad range of tasks — saying “it has a risk.” He also confirmed that he “was mistaken” about his supposed $100 million donation to OpenAI; the second amended complaint in the case puts the actual figure closer to $44.8 million.\nHe also recalled why OpenAI was founded, which, from his perspective, was because he was “increasingly concerned about the danger of Google being a monopoly in AI,” adding that his conversations with Google co-founder Larry Page were “alarming, in that he did not seem to be taking AI safety seriously.” OpenAI was formed as a counterweight to that threat, Musk claimed.\n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Anthropic CEO stands firm as Pentagon deadline looms",
+      "headline": "Musk bashes OpenAI in deposition, saying ‘nobody committed suicide because of Grok’",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2183887189.jpg?w=150"
       ],
-      "datePublished": "2026-02-26T23:19:06.000Z",
-      "dateModified": "2026-02-26T23:19:06.000Z",
+      "datePublished": "2026-02-27T19:42:00.000Z",
+      "dateModified": "2026-02-27T19:42:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -291,81 +366,6 @@
       ],
       "datePublished": "2026-02-27T15:57:02.000Z",
       "dateModified": "2026-02-27T15:57:02.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Netflix backs out of bid for Warner Bros. Discovery, giving studios, HBO, and CNN to Ellison-owned Paramount",
-    "url": "https://techcrunch.com/2026/02/26/netflix-warner-bros-discovery-paramount-wbd-bid-studios-hbo-cnn-ellison/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/09/warner-bros.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-02-26T23:55:39.000Z",
-    "description": "\nIn a flurry of deal offers in the high tens of billions of dollars, the bidding war for Warner Bros. Discovery is over. David Ellison-owned Paramount",
-    "body": "\nIn a flurry of deal offers in the high tens of billions of dollars, the bidding war for Warner Bros. Discovery is over. David Ellison-owned Paramount will acquire Warner Bros. Discovery.\nOn Thursday, Warner Bros. Discovery announced that Paramount Skydance’s newest offer of $31 a share was a “superior proposal,” giving Netflix four business days to counter. Netflix then said it would not raise its $82.7 billion all-cash bid for the legacy studio, and would walk away from the deal.\n“The transaction we negotiated would have created shareholder value with a clear path to regulatory approval,” said Netflix co-CEOs Ted Sarandos and Greg Peters in a statement Thursday. “However, we’ve always been disciplined, and at the price required to match Paramount Skydance’s latest offer, the deal is no longer financially attractive, so we are declining to match the Paramount Skydance bid.”\nPer the terms of the original deal, Warner Bros. Discovery will have to pay a $2.8 billion termination fee to Netflix to end the existing agreement. Paramount’s renewed offer — backed by the world’s sixth-richest person, Oracle’s executive chair, and David Ellison’s father, Larry Ellison — includes paying that breakup fee.\nThe new deal will see Paramount, which was bought just last year by Ellison’s Skydance Media with heavy financial backing from his father, acquiring the entirety of Warner Bros. Discovery, including its studios, HBO, its streaming service, its games and entertainment divisions, and linear television networks like CNN, TBS, TNT, Discovery, and HGTV.\nEllison, whose Paramount already owns major studios, entertainment, and news businesses, has warned of significant job cuts. His ownership of news network CBS has also attracted controversy and has largely been seen as a sympathetic turn toward the Trump administration, with reporting critical of the administration shelved or facing increased scrutiny by Ellison and CBS’s editor-in-chief, the conservative provocateur Bari Weiss. Larry Ellison is a major donor and supporter of President Trump.\nNetflix had announced its intent to acquire WBD in December, offering nearly $83 billion for its studios and streaming service alone. Despite several hostile takeover bids by Paramount, Warner Bros. Discovery reaffirmed to shareholders its belief that Netflix’s offer was superior to Paramount’s, which offered $108 billion for the full company including its linear television networks. Paramount’s newest bid, of $31 a share, values WBD at about $111 billion.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 9, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nParamount will take on the about $33 billion in debt held by Warner Bros. Discovery, according to the deal. Larry Ellison, whose net worth is $201 billion, according to Bloomberg, has agreed to supply the additional equity to fulfill Paramount’s bid. Paramount’s market cap is about $12 billion.\nThe deal is also being financed by a $57.5 billion debt commitment from Bank of America Merrill Lynch, Citi, and Apollo Global Management.\nNetflix shares jumped as much as 10% in after-hours trading in New York. Shares in Paramount were up 4.5%.\n\n\n\t\n\t\tGraham Starr is the deputy editor of TechCrunch. He has led teams of reporters to break news on some of the biggest stories in tech, media, and health care for ADWEEK, Bloomberg News, Business Insider, and The New York Times.\t\n\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Netflix backs out of bid for Warner Bros. Discovery, giving studios, HBO, and CNN to Ellison-owned Paramount",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/09/warner-bros.jpg?w=150"
-      ],
-      "datePublished": "2026-02-26T23:55:39.000Z",
-      "dateModified": "2026-02-26T23:55:39.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "South Korea opens the door to let Google Maps operate fully",
-    "url": "https://techcrunch.com/2026/02/27/south-korea-opens-the-door-to-let-google-maps-operate-fully/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/07/google-maps.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-02-27T13:12:40.000Z",
-    "description": "\nAfter years of appeals, Google has finally received conditional approval to export high-precision geographic information out of South Korea, a move t",
-    "body": "\nAfter years of appeals, Google has finally received conditional approval to export high-precision geographic information out of South Korea, a move that opens the door to let the company provide proper Google Maps services in the country, such as walking and real-time driving directions.\nThe move reverses a long-standing policy on data restrictions that had essentially made Google Maps and Apple Maps non-functional in the country. Google has so far provided maps services in South Korea using high-resolution, 1:5,000 scale map data, but without the ability to export that data to its servers, the company couldn’t offer features like turn-by-turn navigation or detailed listings for businesses.\nSouth Korea has resisted Google’s appeals since 2011, arguing that the company’s precise satellite maps could endanger national security by exposing sensitive military sites when combined with commercial imagery and online data.  Given that South Korea remains technically at war with North Korea, the government is cautious about exposing such locations, and had until now demanded Google set up a data center in the country and obscure sensitive locations.\nThe green light comes with strict rules designed to protect sensitive military and infrastructure sites. The South Korean government will verify compliance before any data leaves the country; any images of South Korean territory used in Google Maps and Google Earth must comply with national security regulations; and historical imagery in Google Earth and Street View must obscure sensitive military sites. Google is also required to either remove or limit coordinate data for South Korean locations, and only essential data for navigation and routing can be exported.\nThe government also requires all data processing to be done on servers operated by Google’s local partners. Sensitive topographic and military data remain off-limits, and any updates to military or security sites must be carried out promptly on domestic servers at the government’s request. \nGoogle did not immediately return a request for comment.\nThe move will no doubt send ripples through Korea’s domestic maps market, which has seen local navigation apps such as Naver Map, T Map, and Kakao Map thrive in the relative absence of providers like Google or Apple. \n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 9, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nIn its announcement, the Ministry of Land, Infrastructure and Transport said the decision was influenced by its intention to boost tourism in the country — because Google Maps has until now proved a bit useless in Korea, tourists have had to rely on local apps, whether or not they offer English language support. \nThe ministry said the move is also aimed at strengthening the country’s geospatial industry by supporting the development of high-precision, 3D infrastructure and geo AI technologies. The government is urging Google to help grow South Korea’s geospatial industry so that exporting the data benefits not just the tech giant, but also domestic innovation and economic growth.\nGoogle has not yet said if it would set up a data center in South Korea. The company operates an array of data centers in Asia, including in Singapore, Taiwan, Japan, Thailand, and Malaysia.\nThe government also outlined new measures to handle potential security incidents related to the export of high-resolution maps. The ministry said it would work with Google to set up a “security incident prevention and response framework” to manage potential risks before any data leaves the country. For situations involving imminent threats to national security, a technical “red button” mechanism will be implemented, allowing for rapid emergency response. \nIn addition, South Korea will require a local officer to be stationed in-country to maintain constant communication with the government and ensure smooth handling of any security incidents.\n\n\n\n\t\tRam is a financial and tech reporter and editor. He covered North American and European M&A, equity, regulatory news and debt markets at Reuters and Acuris Global, and has also written about travel, tourism, entertainment and books.\nYou can contact or verify outreach from Ram by emailing ram.iyer@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n\n\n\n\tKate Park is a reporter at TechCrunch, with a focus on technology, startups and venture capital in Asia. She previously was a financial journalist at Mergermarket covering M&A, private equity and venture capital.\n\n\t\n\t\tView Bio \n\t\n\n\t",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "South Korea opens the door to let Google Maps operate fully",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/07/google-maps.jpg?w=150"
-      ],
-      "datePublished": "2026-02-27T13:12:40.000Z",
-      "dateModified": "2026-02-27T13:12:40.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Jack Dorsey just halved the size of Block’s employee base — and he says your company is next",
-    "url": "https://techcrunch.com/2026/02/26/jack-dorsey-block-layoffs-4000-halved-employees-your-company-is-next/",
-    "image": "https://techcrunch.com/wp-content/uploads/2018/09/GettyImages-1027231340.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-02-26T23:43:32.000Z",
-    "description": "\nJack Dorsey has long been an open admirer of Elon Musk. Now, it seems, he may have been taking notes.\nOn Thursday, Dorsey announced that Block, the p",
-    "body": "\nJack Dorsey has long been an open admirer of Elon Musk. Now, it seems, he may have been taking notes.\nOn Thursday, Dorsey announced that Block, the payments company he founded that operates Square, Cash App, and Tidal, is cutting more than 4,000 employees, nearly half its global workforce, taking it from over 10,000 workers down to just under 6,000. Investors responded enthusiastically, sending the stock up more than 24% in after-hours trading.\nIt isn’t the first time a major tech company has done something of the sort. In November 2022, Musk slashed roughly 50% of Twitter’s staff in a single stroke after taking the company private, a move that rattled many in Silicon Valley and rewrote the unofficial rules for how far a CEO could go in one shot.\nDorsey was in an unusual position to watch it unfold. He’d rolled his roughly 2.4% ownership stake in Twitter into Musk’s takeover rather than taking a cash payout, making him one of the largest outside investors in what became X.\nThe two men have had one of tech’s stranger relationships, with warm words giving way to public shots, then back again. Dorsey championed Musk’s Twitter acquisition, then said Musk “should have walked away.” He helped launch Bluesky, the decentralized Twitter alternative, then quit its board and called X “freedom technology.” Both are also vocal Bitcoin advocates — Block and Tesla each carry the cryptocurrency on their balance sheets.\nDorsey framed Thursday’s cuts as a proactive, even empathetic, choice, and not a financial emergency. (The 4,000 people losing their jobs may see it differently.) “Repeated rounds of cuts are destructive to morale, to focus, and to the trust that customers and shareholders place in our ability to lead,” he wrote on X. He predicted that within a year, most companies will arrive at the same place. “I’d rather get there honestly and on our own terms than be forced into it reactively,” he said.\nThe cuts are being driven, at least officially, by AI. Block CFO Amrita Ahuja said the cuts will position the company to “move faster with smaller, highly talented teams using AI to automate more work.” \n\n\t\tTechcrunch event\n\t\t\n\t\t\tBoston, MA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tJune 9, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nAs for severance, Dorsey told U.S. employees who are being cut that they will receive “your salary for 20 weeks + 1 week per year of tenure, equity vested through the end of [M]ay, 6 months of health care, your corporate devices, and $5,000 to put toward whatever you need to help you in this transition.” Employees outside the U.S. will receive “similar support” dependent on their countries’ policies, he added.\nSalesforce and Amazon are among a growing list of other companies that have made enormous staffing cuts citing the increased gains they are seeing from AI, though a Forrester Research report last month cast some doubt on how real those gains are versus the likelihood that many layoffs are financially driven.\n\n\n\t\tLoizos has been reporting on Silicon Valley since the late ’90s, when she joined the original Red Herring magazine. Previously the Silicon Valley Editor of TechCrunch, she was named Editor in Chief and General Manager of TechCrunch in September 2023. She’s also the founder of StrictlyVC, a daily e-newsletter and lecture series acquired by Yahoo in August 2023 and now operated as a sub brand of TechCrunch.\nYou can contact or verify outreach from Connie by emailing connie@strictlyvc.com or connie@techcrunch.com, or via encrypted message at ConnieLoizos.53 on Signal.\r\n\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Jack Dorsey just halved the size of Block’s employee base — and he says your company is next",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2018/09/GettyImages-1027231340.jpg?w=150"
-      ],
-      "datePublished": "2026-02-26T23:43:32.000Z",
-      "dateModified": "2026-02-26T23:43:32.000Z",
       "author": [
         {
           "@type": "Person",
