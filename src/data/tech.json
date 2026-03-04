@@ -1,5 +1,30 @@
 [
   {
+    "title": "TikTok won’t add end-to-end encryption to direct messages, report says",
+    "url": "https://techcrunch.com/2026/03/04/tiktok-wont-add-end-to-end-encryption-to-direct-messages-report-says/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/tiktok-icon-badged-GettyImages-2246518404.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-03-04T15:15:31.000Z",
+    "description": "\nTikTok will not introduce end-to-end encryption for direct messages (DMs) on its platform, according to a new report from the BBC. The social media g",
+    "body": "\nTikTok will not introduce end-to-end encryption for direct messages (DMs) on its platform, according to a new report from the BBC. The social media giant says end-to-end encryption would make users less safe, as it believes the technology would prevent police and safety teams from accessing messages when necessary.\nTikTok told the outlet that this is a deliberate decision to distinguish itself from rivals and protect users, particularly younger ones, from harm.\nWith end-to-end encryption, only the sender and recipient of a direct message can view its contents. \nThe company said direct messages are still protected with standard encryption, similar to services like Gmail. Only authorized employees can access direct messages, and only under specific circumstances, such as in response to a valid law enforcement request or a user report of harmful behavior.\nEnd-to-end encryption is the default technology used in popular apps like Signal, WhatsApp, Facebook Messenger (for 1:1 personal chats and calls), Apple’s Messages, and Google Messages.\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "TikTok won’t add end-to-end encryption to direct messages, report says",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/03/tiktok-icon-badged-GettyImages-2246518404.jpg?w=150"
+      ],
+      "datePublished": "2026-03-04T15:15:31.000Z",
+      "dateModified": "2026-03-04T15:15:31.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Just three companies dominated the $189B in VC investments last month",
     "url": "https://techcrunch.com/2026/03/03/openai-anthropic-waymo-dominated-189-billion-vc-investments-february-crunchbase-report/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1502217391.jpg?w=150",
@@ -16,31 +41,6 @@
       ],
       "datePublished": "2026-03-03T22:38:58.000Z",
       "dateModified": "2026-03-03T22:38:58.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Apple’s rumored MacBook Neo, a lower-cost, colorful laptop, could launch this week",
-    "url": "https://techcrunch.com/2026/03/03/apple-macbook-neo-a-low-cost-colorful-laptop-could-launch-this-week/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/03/Apple-MacBook-Air-lifestyle-on-the-go-250305.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-03-03T17:22:42.000Z",
-    "description": "\nIn Brief\nPosted:\n9:22 AM PST · March 3, 2026\n\nImage Credits:Apple\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nAccording to multiple reports, Apple is ",
-    "body": "\nIn Brief\nPosted:\n9:22 AM PST · March 3, 2026\n\nImage Credits:Apple\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nAccording to multiple reports, Apple is working on a low-cost MacBook, which would allow the company to compete with inexpensive laptops for the first time. As Apple drips out news this week about its newest iPhones and MacBooks, could we finally see this new laptop unveiled? If reporting from MacRumors and Bloomberg is correct, the lower-cost MacBook, which is rumored to be released in multiple colors, could be announced as soon as Wednesday.\nAccording to MacRumors, Apple accidentally posted a regulatory document on its website that alluded to the existence of a yet-to-be-announced device called the MacBook Neo. It’s possible Apple could blindside its most dedicated leakers, but the reports are pointing to the company releasing a low-cost Chromebook competitor.\nWhile no concrete details have been confirmed about the new laptop in the MacBook family, it is thought to run on an iPhone chip, as opposed to a stronger M-series chip. There are also rumors that the device could come in some fun, bright colors, like the green, blue, and yellow of this week’s Apple event logo.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Hardware\n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Apple’s rumored MacBook Neo, a lower-cost, colorful laptop, could launch this week",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/03/Apple-MacBook-Air-lifestyle-on-the-go-250305.jpg?w=150"
-      ],
-      "datePublished": "2026-03-03T17:22:42.000Z",
-      "dateModified": "2026-03-03T17:22:42.000Z",
       "author": [
         {
           "@type": "Person",
@@ -100,122 +100,22 @@
     }
   },
   {
-    "title": "Alibaba’s Qwen tech lead steps down after major AI push",
-    "url": "https://techcrunch.com/2026/03/03/alibabas-qwen-tech-lead-steps-down-after-major-ai-push/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/alibaba-qwen-ai.jpg?w=150",
+    "title": "Host a Side Event during TechCrunch Founder Summit Week in Boston",
+    "url": "https://techcrunch.com/2026/03/04/host-a-side-event-during-techcrunch-founder-summit-week-in-boston/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/54963427938_23d9e50d14_o.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-03-03T23:16:36.000Z",
-    "description": "\nAlibaba’s Qwen AI project has lost one of its most visible technical leaders just a day after the Chinese tech giant unveiled its new Qwen 3.5 open-w",
-    "body": "\nAlibaba’s Qwen AI project has lost one of its most visible technical leaders just a day after the Chinese tech giant unveiled its new Qwen 3.5 open-weight small models. \nJunyang Lin, a central technical leader on Alibaba’s Qwen team, said in a post on X on Tuesday that he was “stepping down” from the project, without elaborating. He joined Alibaba in July 2019 and became part of the Qwen team in April 2023, according to his LinkedIn profile.\nThe abrupt departure, which drew strong reactions from colleagues and industry partners, comes as global competition among AI developers intensifies and companies race to build models rivaling those from OpenAI, Google, and Anthropic. \nAlibaba’s Qwen family of models has emerged as one of China’s most prominent open-weight AI efforts, with recent releases posting benchmark results that often rival systems from leading U.S. developers. The Chinese tech giant introduced the model in April 2023 and opened it to public use that September after receiving regulatory clearance.\nAlibaba introduced its Qwen 3.5 Small Model series on Monday, with four models spanning 0.8B, 2B, 4B, and 9B parameters. The systems, the company said, are native multimodal models designed for uses ranging from on-device AI deployment to lightweight agents. The launch drew attention from figures in the AI community, including Elon Musk, who wrote on X that the models showed “impressive intelligence density.”\nLin’s departure came just as the Qwen team was pushing ahead with new releases, prompting unusually strong reactions from colleagues and partners who described his role in the project as central.\nWenting Zhao, a research scientist on the Qwen team, described Lin’s departure as “the end of an era,” thanking him in a post on X for helping drive the project’s advances in open source AI and engineering. Yuchen Jin, chief technology officer of AI infrastructure startup Hyperbolic, said Lin helped connect Qwen with the global developer community, recalling late-night collaboration with the team during model launches. Tiezhen Wang, head of APAC ecosystem at Hugging Face, also described Lin’s departure as “an immense loss” for the Qwen project.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThe circumstances surrounding Lin’s departure remain unclear. Lin did not respond to a request for comment.\nChen Cheng, a contributor to the Qwen project, wrote that he was “heartbroken” by the news. In his post on X, Cheng appeared to be addressing Lin directly, writing, “I know leaving wasn’t your choice” and said the team had been working together on model launches only hours earlier.\nBinyuan Hui, another member of the Qwen team, has updated his X profile to describe himself as “formerly MTS @Alibaba_Qwen.” However, it is not immediately clear whether he had left the company or when the change was made.\nAlibaba did not respond to a request for comment on the reasons for the move or on the leadership structure of the Qwen team.\n\n\n\t\tJagmeet covers startups, tech policy-related updates, and all other major tech-centric developments from India for TechCrunch. He previously worked as a principal correspondent at NDTV. \r\nYou can contact or verify outreach from Jagmeet by emailing mail@journalistjagmeet.com.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-03-04T16:00:00.000Z",
+    "description": "\n\t\n\t\tImage Credits:Slava Blazer Photography\t\n\t\n\t\t\t\t\t\t8:00 AM PST · March 4, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nWant to tap into the energy of 1,100+ startup founder",
+    "body": "\n\t\n\t\tImage Credits:Slava Blazer Photography\t\n\t\n\t\t\t\t\t\t8:00 AM PST · March 4, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nWant to tap into the energy of 1,100+ startup founders, investors, and tech leaders descending on Boston for the Founder Summit 2026 on June 9? Host your own Side Event during “Founder Summit Week,” happening June 4-10!\nWhether it’s a networking mixer, workshop, morning run, fireside chat, or cocktail hour — you call the shots. Create a moment. Build your community. Increase brand visibility with a Side Event.\nWhy host a Side Event?\nAlong with extending the energy beyond the venue and the actual event, you’ll get:\n\nVisibility to the full TechCrunch audience.\nFeatured on the official agenda, Side Events page, and mobile app.\nHighlighted in attendee emails and articles.\nA community discount code for your team and guests.\n\nMust-know details about Side Events\nCheck out the full details on the Founder Summit 2026 page. As the host, you’ll handle the event details, and we’ll help spread the word. There’s no fee to be listed, and everything must be:\n\nIn-person and Boston-based.\nHeld June 4-10 (only post-5 p.m. ET events will be allowed on June 9).\n18+ only (21+ if there’s alcohol).\n\nApply now to make a brand impact at Founder Summit 2026\nLet’s make it happen! Hosting a Side Event is an easy way to grow your network and connect your brand to Boston’s startup crowd. Apply here to lock in your Side Event before the deadline. This is your moment to show up and stand out.\n\n\t\t\t\n\tTopics\n\n\t\t",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Alibaba’s Qwen tech lead steps down after major AI push",
+      "headline": "Host a Side Event during TechCrunch Founder Summit Week in Boston",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/03/alibaba-qwen-ai.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/03/54963427938_23d9e50d14_o.jpg?w=150"
       ],
-      "datePublished": "2026-03-03T23:16:36.000Z",
-      "dateModified": "2026-03-03T23:16:36.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "ChatGPT’s new GPT-5.3 Instant model will stop telling you to calm down",
-    "url": "https://techcrunch.com/2026/03/03/chatgpts-new-gpt-5-3-instant-model-will-stop-telling-you-to-calm-down/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/angry-at-phone-GettyImages-1314491343.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-03-03T20:20:56.000Z",
-    "description": "\nTake a breath, stop spiraling. You’re not crazy, you’re just stressed. And honestly, that’s okay. \nIf you felt immediately triggered reading these wo",
-    "body": "\nTake a breath, stop spiraling. You’re not crazy, you’re just stressed. And honestly, that’s okay. \nIf you felt immediately triggered reading these words, you’re probably also sick of ChatGPT constantly talking to you as if you’re in some sort of crisis and need delicate handling. Now, things may be improving. OpenAI says its new model, GPT-5.3 Instant, will reduce the “cringe” and other “preachy disclaimers.” \nAccording to the model’s release notes, the GPT-5.3 update will focus on the user experience, including things like tone, relevance, and conversational flow — areas that may not show up in benchmarks, but can make ChatGPT feel frustrating, the company said.\nOr, as OpenAI put it on X, “We heard your feedback loud and clear, and 5.3 Instant reduces the cringe.”\nIn the company’s example, it showed the same query with responses from the GPT-5.2 Instant model compared with the GPT-5.3 Instant model. In the former, the chatbot’s response starts, “First of all — you’re not broken,” a common phrase that’s been getting under everyone’s skin lately.\nIn the updated model, the chatbot instead acknowledges the difficulty of the situation, without trying to directly reassure the user. \n\nThe insufferable tone of ChatGPT’s 5.2 model has been annoying users to the point that some have even canceled their subscriptions, according to numerous posts on social media. (It was a huge point of discussion on the ChatGPT Reddit, for instance, before the Pentagon deal stole the focus.)\nPeople complained that this type of language, where the bot talks to you as if it assumes you’re panicking or stressed when you were just seeking information, comes across as condescending. \nOften, ChatGPT replied to users with reminders to breathe and other attempts at reassurance, even when the situation didn’t warrant it. This made users feel infantilized, in some cases, or as if the bot was making assumptions about the user’s mental state that just weren’t true.\nAs one Reddit user recently pointed out, “no one has ever calmed down in all the history of telling someone to calm down.”\nIt’s understandable that OpenAI would attempt to implement guardrails of some kind, especially as it faces multiple lawsuits accusing the chatbot of leading people to experience negative mental health effects, which sometimes included suicide.\nBut there’s a delicate balance between responding with empathy and providing quick, factual answers. After all, Google never asks you about your feelings when you’re searching for information.  \n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "ChatGPT’s new GPT-5.3 Instant model will stop telling you to calm down",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/03/angry-at-phone-GettyImages-1314491343.jpg?w=150"
-      ],
-      "datePublished": "2026-03-03T20:20:56.000Z",
-      "dateModified": "2026-03-03T20:20:56.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Who needs data centers in space when they can float offshore?",
-    "url": "https://techcrunch.com/2026/03/04/who-needs-data-centers-in-space-when-they-can-float-offshore/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/01/wind-turbine-vinyard-wind-Worldview-Films.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-03-04T12:00:00.000Z",
-    "description": "\nThe power crunch for AI data centers has gotten so severe that people — not just Elon Musk — are talking about launching servers into space so they c",
-    "body": "\nThe power crunch for AI data centers has gotten so severe that people — not just Elon Musk — are talking about launching servers into space so they can access solar power 24/7.\nOne startup thinks the ocean is a better place for them. Offshore wind developer Aikido is planning to submerge a 100-kilowatt demonstration data center off the coast of Norway this year. The small unit will live in the submerged pods of a floating offshore wind turbine.\nIf all goes well, the company hopes to build a larger version to deploy off the coast of the UK in 2028. That model will sport a 15 megawatt to 18 megawatt turbine that will feed a 10 megawatt to 12 megawatt data center.\nThe move offshore could solve a few challenges. Proximity to power is an obvious one, since the source will sit overhead. Winds offshore are more consistent than onshore, and a modest battery could bridge any lulls. \nSubmerged data centers could eliminate concerns from NIMBY groups — “not in my backyard” — who oppose data centers near their properties over noise and and pollution concerns. \nLastly, by floating in cold seawater, cooling the servers would be a simpler proposition. (Cooling is one particularly vexing issue for orbital data centers, since they need to employ different techniques in the vacuum of space.)\nBut for all the challenges offshore data centers solve, they introduce a few more. The ocean is a harsh environment. While submerged servers wouldn’t be battered by waves, they also wouldn’t be completely stationary, so they’d need to be fully battened down. Seawater is also corrosive, so any equipment, including the container and power and data connections, will need to be hardened against it.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nAikido isn’t the first company to propose sinking data centers in seawater. Microsoft first floated the idea over a decade ago, and in 2018 it launched an experiment off the coast of Scotland, which was modestly successful. Only six of more than 850 servers failed in the 25-month trial. (The data hall was filled with inert nitrogen gas, which might help explain the servers’ low failure rates.) \nMicrosoft accrued a number of patents over the years, which it open-sourced in 2021. But by 2024, the company had deep-sixed the project.\n\n\n\t\tTim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor. \r\nDe Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.\r\nYou can contact or verify outreach from Tim by emailing tim.dechant@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Who needs data centers in space when they can float offshore?",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/01/wind-turbine-vinyard-wind-Worldview-Films.jpg?w=150"
-      ],
-      "datePublished": "2026-03-04T12:00:00.000Z",
-      "dateModified": "2026-03-04T12:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Claude Code rolls out a voice mode capability",
-    "url": "https://techcrunch.com/2026/03/03/claude-code-rolls-out-a-voice-mode-capability/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/ClaudeCode2025.jpeg?w=150",
-    "tag": "Tech",
-    "date": "2026-03-03T20:02:10.000Z",
-    "description": "\nAnthropic is bringing Voice Mode to Claude Code, the company’s AI coding assistant for developers. The launch of voice mode marks a significant step ",
-    "body": "\nAnthropic is bringing Voice Mode to Claude Code, the company’s AI coding assistant for developers. The launch of voice mode marks a significant step toward more hands-free, conversational coding workflows.\nThariq Shihipar, an engineer at Anthropic, announced the feature’s gradual release on X on Tuesday. According to Shihipar, voice mode is now live for about 5% of users, with a broader rollout planned in the coming weeks.\nVoice mode is designed to streamline the coding experience by letting users interact with Claude Code through spoken commands. To enable it, type /voice to toggle it on, then speak your command and Claude Code will execute the request. For instance, “refactor the authentication middleware.”\nVoice mode is rolling out now in Claude Code. It’s live for ~5% of users today, and will be ramping through the coming weeks.You’ll see a note on the welcome screen once you have access. /voice to toggle it on! pic.twitter.com/P7GQ6pEANy— Thariq (@trq212) March 3, 2026 \nIt remains unclear what the limitations of the new capability are, including whether there are caps on voice interactions or specific technical constraints. It’s also unknown if this feature was built in collaboration with a third-party AI voice provider like ElevenLabs, with whom Anthropic was reportedly in talks.\nThe company has not yet responded to requests for comment from TechCrunch.\nAnthropic launched Voice Mode for its standard Claude chatbot last May, allowing users to interact with the model via voice for a variety of general-purpose tasks. \n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThe competition in AI coding assistants is fierce, with Microsoft’s GitHub Copilot, Cursor, Google, and OpenAI all vying for developers’ attention. Yet, Claude Code stands out as one of the most widely adopted tools in the market today. In February, Anthropic reported that Claude Code’s run-rate revenue surpassed $2.5 billion, more than doubling since the beginning of 2026. Plus, weekly active users have doubled since January.\nMeanwhile, Claude’s mobile app has seen a dramatic jump in user growth after the company refused to allow the Department of Defense to use its AI for domestic surveillance or autonomous weapons. In the aftermath, the app soared to the top of the U.S. App Store charts, overtaking ChatGPT.\n\n\n\t\tLauren covers media, streaming, apps and platforms at TechCrunch.\nYou can contact or verify outreach from Lauren by emailing laurenf.techcrunch@gmail.com or via encrypted message at laurenforris22.25 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Claude Code rolls out a voice mode capability",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/03/ClaudeCode2025.jpeg?w=150"
-      ],
-      "datePublished": "2026-03-03T20:02:10.000Z",
-      "dateModified": "2026-03-03T20:02:10.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Amid new competition, Chrome speeds up its release schedule",
-    "url": "https://techcrunch.com/2026/03/03/amid-new-competition-chrome-speeds-up-its-release-schedule/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/chrome-browser-web.png?w=150",
-    "tag": "Tech",
-    "date": "2026-03-03T17:00:00.000Z",
-    "description": "\nAs AI-powered browsers from companies like OpenAI, Perplexity, and others attempt to carve out a space for themselves in a market that’s long been do",
-    "body": "\nAs AI-powered browsers from companies like OpenAI, Perplexity, and others attempt to carve out a space for themselves in a market that’s long been dominated by Chrome, Google says that it’s now speeding up the pace of Chrome releases. Starting this September, Chrome will move from a four-week release schedule to a two-week schedule, the tech giant announced on Tuesday.\nChrome has committed to shipping a new milestone of some sort with each release, in areas like stability, speed, or ease of use. (This is in addition to the weekly security updates that were introduced back in 2023.) As a result, those milestones will now come twice as frequently.\nOfficially, Google says that the new schedule reflects the ever-changing web platform, and it wants to ensure developers have immediate access to the latest tools and improvements. However, the move comes at a time when Chrome is finally facing what could one day become real competition from AI model providers, who are trying to rebuild the browser for an agentic web, where more tasks are automated on users’ behalf. \nChatGPT Atlas, OpenAI’s web browser, offers its AI assistant built in and is experimenting with various automations. Perplexity’s Comet, meanwhile, includes a sidecar AI assistant for all and other tools like an email assistant and meeting scheduler for its paid customers.\nIn response to the emerging threats, Google has been rapidly rolling out deeper Gemini integrations into Chrome, including its own set of agentic features for autonomous tasks.\nGoogle told TechCrunch this latest move isn’t AI-related, but it’s hard to see how the need to compete at a faster pace isn’t playing a role.\nThe new release schedule starts with the beta and stable versions (ver. 153) of Chrome on September 8, 2026, and will apply to all platforms, including desktop, Android, and iOS. No changes are being made to other early release platforms, like the Dev and Canary channels.\nImage Credits:Google\nThe Extended Stable release, designed for enterprise admins and Chromium embedders who need more time to manage updates, will continue to be on an eight-week cycle, as before. This option will also still be available to Chromebook users, Google notes. \n\n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Amid new competition, Chrome speeds up its release schedule",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/03/chrome-browser-web.png?w=150"
-      ],
-      "datePublished": "2026-03-03T17:00:00.000Z",
-      "dateModified": "2026-03-03T17:00:00.000Z",
+      "datePublished": "2026-03-04T16:00:00.000Z",
+      "dateModified": "2026-03-04T16:00:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -250,22 +150,97 @@
     }
   },
   {
-    "title": "Audible launches a cheaper ‘Standard’ subscription plan, challenging Spotify",
-    "url": "https://techcrunch.com/2026/03/03/audible-launches-a-cheaper-standard-subscription-plan-challenging-spotify/",
-    "image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-1179901012.jpg?w=150",
+    "title": "Meet the MacBook Neo, Apple’s colorful answer to the Chromebook, starting at $599",
+    "url": "https://techcrunch.com/2026/03/04/meet-the-macbook-neo-apples-colorful-answer-to-the-chromebook-starting-at-599/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/macbook-neo-color-unselect-202603-gallery-1.webp?w=150",
     "tag": "Tech",
-    "date": "2026-03-03T16:40:19.000Z",
-    "description": "\nAudible is rolling out a cheaper “Standard” subscription plan that costs $8.99 per month, the Amazon-owned company announced on Tuesday. The new plan",
-    "body": "\nAudible is rolling out a cheaper “Standard” subscription plan that costs $8.99 per month, the Amazon-owned company announced on Tuesday. The new plan is $6 cheaper than the platform’s existing “Premium” plan, which costs $14.95 per month. \nThe Standard plan includes one audiobook per month from Audible’s catalog and unlimited listening from a curated library that includes a selection of Audible Originals. \nUnder the new Standard plan, subscribers will lose access to the audiobooks they’ve consumed when they unsubscribe. The Premium plan lets users keep the audiobooks they’ve listened to even if they unsubscribe.\nThe Standard plan also includes access to nearly 200 of the most popular titles available on the Wondery+ app, which is shutting down in the coming months.\nThe Standard plan is launching in the United States, the United Kingdom, Canada, Australia, Germany, and France. Audible is testing the plan in additional markets, the company says.\nThe launch of the new subscription plans comes as Audible is facing growing competition from Spotify, which launched audiobooks in 2022 and has bundled the format with music and podcasts as part of its own Premium subscription.\nSpotify said last October that the number of users listening to audiobooks rose 36% over the past year, and listening hours increased 37%. Additionally, it noted that more than half of Spotify’s 281 million premium subscribers have engaged with an audiobook.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nSpotify recently hiked the price of its monthly subscription plan for the third time in three years, potentially opening the door to competitors like Audible.\n“By expanding our membership options, we’re maximizing access for lighter listeners while enabling publishers and creators to reach new audiences — a win-win that grows the entire audiobook category,” said Cynthia Chu, chief financial and growth officer at Audible, in a press release.\nAudible says early testing of the new plan showed strong member acquisition and retention rates, as testing in the United Kingdom and Australia showed that the plan drove a double-digit increase in new member sign-ups compared with previous offerings. With its expansion to new markets, the Standard plan is projected to bring in millions of new customers, the company says. \n\n\n\t\tAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing aisha@techcrunch.com or via encrypted message at aisha_malik.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-03-04T14:57:17.000Z",
+    "description": "\nApple on Wednesday unveiled a low-cost, entry-level laptop dubbed MacBook Neo, marking the first time the company has targeted a similar audience as ",
+    "body": "\nApple on Wednesday unveiled a low-cost, entry-level laptop dubbed MacBook Neo, marking the first time the company has targeted a similar audience as Google did with its Chromebook. \nStarting at $599, the MacBook Neo is aimed at students or users whose work doesn’t involve intensive workflows like video editing or 3D rendering. The 13-inch MacBook Neo comes in four colors: silver, blush, citrus, and indigo. The base model comes with 256GB of storage, and an upgrade to the $699 model gets you 512GB of storage, plus Touch ID. \nApple is seemingly able to offer the Neo at this price point because the laptop runs on the A18 Pro chip, which powers the iPhone 16 Pro models, rather than the more powerful, pricey M5 chip that the latest MacBook Air uses.\nImage Credits:Apple\n“Powered by A18 Pro, MacBook Neo can fly through everyday tasks, from browsing the web and streaming content, to editing photos, exploring creative hobbies, or using AI capabilities across apps,” Apple wrote in a press release. “In fact, it’s up to 50 percent faster for everyday tasks like web browsing, and up to 3x faster when running on-device AI workloads like applying advanced effects to photos, compared to the bestselling PC with the latest shipping Intel Core Ultra 5.”\nThe laptop comes with a 1080p FaceTime HD camera and dual microphones, plus speakers that fire from each side of the laptop to support Spatial Audio. Apple says the laptop’s battery can last up to 16 hours on a single charge, which is delivered via one of two USB-C ports. The Neo also has a standard 3.5mm headphone jack.\nThe MacBook Neo uses a 5-core GPU and a 16-core Neural Engine, which can support similar levels of gameplay and on-device AI tasks as a recent iPhone. It’s fan-less, like the MacBook Air, and can operate silently.\nAs the ongoing RAM shortage makes Apple’s more advanced models like the MacBook Pro up to $400 more expensive than their predecessors, the MacBook Neo has the potential to appeal to users who don’t need so many technical perks… or, for those of us who simply cannot resist a pink MacBook.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n\n\n\t\tAmanda Silberling is a senior writer at TechCrunch covering the intersection of technology and culture. She has also written for publications like Polygon, MTV, the Kenyon Review, NPR, and Business Insider. She is the co-host of Wow If True, a podcast about internet culture, with science fiction author Isabel J. Kim. Prior to joining TechCrunch, she worked as a grassroots organizer, museum educator, and film festival coordinator. She holds a B.A. in English from the University of Pennsylvania and served as a Princeton in Asia Fellow in Laos.\nYou can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Audible launches a cheaper ‘Standard’ subscription plan, challenging Spotify",
+      "headline": "Meet the MacBook Neo, Apple’s colorful answer to the Chromebook, starting at $599",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-1179901012.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/03/macbook-neo-color-unselect-202603-gallery-1.webp?w=150"
       ],
-      "datePublished": "2026-03-03T16:40:19.000Z",
-      "dateModified": "2026-03-03T16:40:19.000Z",
+      "datePublished": "2026-03-04T14:57:17.000Z",
+      "dateModified": "2026-03-04T14:57:17.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Claude Code rolls out a voice mode capability",
+    "url": "https://techcrunch.com/2026/03/03/claude-code-rolls-out-a-voice-mode-capability/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/ClaudeCode2025.jpeg?w=150",
+    "tag": "Tech",
+    "date": "2026-03-03T20:02:10.000Z",
+    "description": "\nAnthropic is bringing Voice Mode to Claude Code, the company’s AI coding assistant for developers. The launch of voice mode marks a significant step ",
+    "body": "\nAnthropic is bringing Voice Mode to Claude Code, the company’s AI coding assistant for developers. The launch of voice mode marks a significant step toward more hands-free, conversational coding workflows.\nThariq Shihipar, an engineer at Anthropic, announced the feature’s gradual release on X on Tuesday. According to Shihipar, voice mode is now live for about 5% of users, with a broader rollout planned in the coming weeks.\nVoice mode is designed to streamline the coding experience by letting users interact with Claude Code through spoken commands. To enable it, type /voice to toggle it on, then speak your command and Claude Code will execute the request. For instance, “refactor the authentication middleware.”\nVoice mode is rolling out now in Claude Code. It’s live for ~5% of users today, and will be ramping through the coming weeks.You’ll see a note on the welcome screen once you have access. /voice to toggle it on! pic.twitter.com/P7GQ6pEANy— Thariq (@trq212) March 3, 2026 \nIt remains unclear what the limitations of the new capability are, including whether there are caps on voice interactions or specific technical constraints. It’s also unknown if this feature was built in collaboration with a third-party AI voice provider like ElevenLabs, with whom Anthropic was reportedly in talks.\nThe company has not yet responded to requests for comment from TechCrunch.\nAnthropic launched Voice Mode for its standard Claude chatbot last May, allowing users to interact with the model via voice for a variety of general-purpose tasks. \n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThe competition in AI coding assistants is fierce, with Microsoft’s GitHub Copilot, Cursor, Google, and OpenAI all vying for developers’ attention. Yet, Claude Code stands out as one of the most widely adopted tools in the market today. In February, Anthropic reported that Claude Code’s run-rate revenue surpassed $2.5 billion, more than doubling since the beginning of 2026. Plus, weekly active users have doubled since January.\nMeanwhile, Claude’s mobile app has seen a dramatic jump in user growth after the company refused to allow the Department of Defense to use its AI for domestic surveillance or autonomous weapons. In the aftermath, the app soared to the top of the U.S. App Store charts, overtaking ChatGPT.\n\n\n\t\tLauren covers media, streaming, apps and platforms at TechCrunch.\nYou can contact or verify outreach from Lauren by emailing laurenf.techcrunch@gmail.com or via encrypted message at laurenforris22.25 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Claude Code rolls out a voice mode capability",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/03/ClaudeCode2025.jpeg?w=150"
+      ],
+      "datePublished": "2026-03-03T20:02:10.000Z",
+      "dateModified": "2026-03-03T20:02:10.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "One startup’s pitch to provide more reliable AI answers: crowdsource the chatbots",
+    "url": "https://techcrunch.com/2026/03/04/one-startups-pitch-to-provide-more-reliable-ai-answers-crowdsource-the-chatbots/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/11/neuralink-header.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-03-04T14:00:00.000Z",
+    "description": "\nJohn Davie wanted Buyers Edge Platform, the hospitality procurement enterprise he founded and still leads, to benefit from the AI wave. When he looke",
+    "body": "\nJohn Davie wanted Buyers Edge Platform, the hospitality procurement enterprise he founded and still leads, to benefit from the AI wave. When he looked around, the CEO wasn’t satisfied with the options. \nThe answer was CollectivIQ, a Boston-based company incubated at Buyers Edge Platform that gives users more accurate answers to their AI queries by showing them responses that pull information from ChatGPT, Gemini, Claude, Grok — and up to 10 other models — all at the same time.\nWhen new AI tools began hitting the market a few years ago, Davie told TechCrunch he was excited about the potential and encouraged his employees to try them out. His optimism was short-lived.\n“We had a bit of a wake-up call about a year ago when we learned that if our employees are just using any various AI tools, or even their own license, it could be training on our company information,” Davie said. “We could be essentially edging our competitor.”\nDavie looked into more secure enterprise AI contracts and discovered expensive long-term contracts for large language models that produced inaccurate information and hallucinations.\n“We hated having to decide which employees deserved AI,” he said. “What really made it worse, employees were complaining about hallucinated, biased answers. Sometimes it was really giving us flat, incorrect answers that made their way into PowerPoint presentations and cover presentations.”\nHe challenged his chief technology officer to build something better.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThe result was CollectivIQ. The spinout created a tool that queries several large language models, including those from OpenAI, Anthropic, Google, and xAI at the same time. The software searches for overlapping and differing information to produce a fused answer that is meant to be more accurate than those produced by each LLM on its own.\nAll the data involved with CollectivIQ prompts is encrypted and deleted after use to maintain enterprise-grade privacy, the company claimed.\n“As somebody who just loves technology, you’re always looking for the best of the best, right?” Davie said. “You always want to have the latest, greatest iPhone or laptop or tool and I wanted to give my employees the best of the best of AI, but there was really nothing out there that you know would bring them all together into one.”\nCollectivIQ started rolling the software out internally to its employees at the beginning of 2026. The initial response was strong, Davie said. Once Davie learned that many of Buyers Edge Platform’s customers were dealing with the same confusion or hesitation around adopting AI tools, the company decided to release it to the public.\nThe software was built using AI model enterprise APIs. CollectivIQ pays for the token costs and its customers pay by usage, which Davie hopes will help the company stand out in a crowded enterprise AI market.\n“I’m hoping that this is a breath of fresh air for companies that see that they are not going to have to be committed,” Davie said. “They’re only going to pay for the value they get out of it.”\nCollectivIQ was fully funded by Davie, who told TechCrunch he plans to seek outside capital at some point later this year. For Davie, it’s been fun to be back building a new startup nearly 28 years after he launched his current company.\n“It does feel like way back in the day and we are doing it all over again and being scrappy and being very in the weeds on LLMs and post training and all sorts of things I was not trained in,” Davie said. “It’s fun and exciting. I go sit hand and hand with the software developers building the product, that’s how I got my main company, it’s a lot of fun.”\n\n\n\t\tBecca is a senior writer at TechCrunch that covers venture capital trends and startups. She previously covered the same beat for Forbes and the Venture Capital Journal.\r\nYou can contact or verify outreach from Becca by emailing rebecca.szkutak@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "One startup’s pitch to provide more reliable AI answers: crowdsource the chatbots",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2022/11/neuralink-header.jpg?w=150"
+      ],
+      "datePublished": "2026-03-04T14:00:00.000Z",
+      "dateModified": "2026-03-04T14:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "ChatGPT’s new GPT-5.3 Instant model will stop telling you to calm down",
+    "url": "https://techcrunch.com/2026/03/03/chatgpts-new-gpt-5-3-instant-model-will-stop-telling-you-to-calm-down/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/angry-at-phone-GettyImages-1314491343.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-03-03T20:20:56.000Z",
+    "description": "\nTake a breath, stop spiraling. You’re not crazy, you’re just stressed. And honestly, that’s okay. \nIf you felt immediately triggered reading these wo",
+    "body": "\nTake a breath, stop spiraling. You’re not crazy, you’re just stressed. And honestly, that’s okay. \nIf you felt immediately triggered reading these words, you’re probably also sick of ChatGPT constantly talking to you as if you’re in some sort of crisis and need delicate handling. Now, things may be improving. OpenAI says its new model, GPT-5.3 Instant, will reduce the “cringe” and other “preachy disclaimers.” \nAccording to the model’s release notes, the GPT-5.3 update will focus on the user experience, including things like tone, relevance, and conversational flow — areas that may not show up in benchmarks, but can make ChatGPT feel frustrating, the company said.\nOr, as OpenAI put it on X, “We heard your feedback loud and clear, and 5.3 Instant reduces the cringe.”\nIn the company’s example, it showed the same query with responses from the GPT-5.2 Instant model compared with the GPT-5.3 Instant model. In the former, the chatbot’s response starts, “First of all — you’re not broken,” a common phrase that’s been getting under everyone’s skin lately.\nIn the updated model, the chatbot instead acknowledges the difficulty of the situation, without trying to directly reassure the user. \n\nThe insufferable tone of ChatGPT’s 5.2 model has been annoying users to the point that some have even canceled their subscriptions, according to numerous posts on social media. (It was a huge point of discussion on the ChatGPT Reddit, for instance, before the Pentagon deal stole the focus.)\nPeople complained that this type of language, where the bot talks to you as if it assumes you’re panicking or stressed when you were just seeking information, comes across as condescending. \nOften, ChatGPT replied to users with reminders to breathe and other attempts at reassurance, even when the situation didn’t warrant it. This made users feel infantilized, in some cases, or as if the bot was making assumptions about the user’s mental state that just weren’t true.\nAs one Reddit user recently pointed out, “no one has ever calmed down in all the history of telling someone to calm down.”\nIt’s understandable that OpenAI would attempt to implement guardrails of some kind, especially as it faces multiple lawsuits accusing the chatbot of leading people to experience negative mental health effects, which sometimes included suicide.\nBut there’s a delicate balance between responding with empathy and providing quick, factual answers. After all, Google never asks you about your feelings when you’re searching for information.  \n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "ChatGPT’s new GPT-5.3 Instant model will stop telling you to calm down",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/03/angry-at-phone-GettyImages-1314491343.jpg?w=150"
+      ],
+      "datePublished": "2026-03-03T20:20:56.000Z",
+      "dateModified": "2026-03-03T20:20:56.000Z",
       "author": [
         {
           "@type": "Person",
@@ -325,22 +300,22 @@
     }
   },
   {
-    "title": "Activist investor Elliott takes a $1B stake in Pinterest, betting on AI-driven growth",
-    "url": "https://techcrunch.com/2026/03/03/activist-investor-elliot-takes-a-1b-stake-in-pinterest-betting-on-ai-driven-growth/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/08/bill-ready-pinterest-GettyImages-2213037081.jpg?w=150",
+    "title": "Alibaba’s Qwen tech lead steps down after major AI push",
+    "url": "https://techcrunch.com/2026/03/03/alibabas-qwen-tech-lead-steps-down-after-major-ai-push/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/alibaba-qwen-ai.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-03-03T17:27:37.000Z",
-    "description": "\nElliott Investment Management, an activist investor known for its assertive involvement in company decisions, has taken a $1 billion stake in Pintere",
-    "body": "\nElliott Investment Management, an activist investor known for its assertive involvement in company decisions, has taken a $1 billion stake in Pinterest. The firm first invested in the social platform in 2022.\nPinterest announced the financial boost on Tuesday, and CEO Bill Ready said he considers this a major vote of confidence that underscores the company’s ambitious AI efforts. \n“We delivered record revenue in 2025, with users reaching all-time highs for ten consecutive quarters and more than 80 billion monthly searches on our platform, as we continue to deliver strong innovation in visual search using AI. We are excited to continue our partnership with Elliott for the next phase of Pinterest’s growth. Elliott’s investment is a strong vote of confidence in the work we have done to build our business and the significant opportunities ahead for Pinterest,” Ready said in a statement.\nAs part of this investment, Pinterest will buy back shares of its Class A common stock through a $1 billion accelerated repurchase agreement. The new capital will also help fund a broader, newly authorized $3.5 billion share buyback program.\nPinterest stock jumped 6% in premarket trading following the $1 billion investment announcement.\nThe news comes as Pinterest has faced serious headwinds. Shares tumbled over the past year, with disappointing earnings, layoffs affecting 15% of its workforce, a declining ad business, and increased rivalry from AI chatbots.\nYet, Elliott’s increased investment signals a belief in Pinterest’s turnaround strategy. Specifically, its aggressive bet on AI. Recent initiatives include AI-powered visual search that allows users to snap a photo or select an image and instantly receive recommendations for similar items, home decor ideas, and fashion inspiration. The company also leverages AI for personalized recommendations and to improve content moderation, and advertisers can use it as a creative tool.\nHowever, on another note, Elliott’s track record suggests that its continued involvement in Pinterest will likely mean heightened scrutiny. \nThe firm has a long history of urging cost-cutting and frequently pushes for strategic overhauls and leadership changes at companies where it holds a major stake. For instance, at eBay, Elliott pushed the company to reduce expenses and refocus on its core marketplace, which led to eBay selling its StubHub and classifieds businesses.\n\n\n\t\tLauren covers media, streaming, apps and platforms at TechCrunch.\nYou can contact or verify outreach from Lauren by emailing laurenf.techcrunch@gmail.com or via encrypted message at laurenforris22.25 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-03-03T23:16:36.000Z",
+    "description": "\nAlibaba’s Qwen AI project has lost one of its most visible technical leaders just a day after the Chinese tech giant unveiled its new Qwen 3.5 open-w",
+    "body": "\nAlibaba’s Qwen AI project has lost one of its most visible technical leaders just a day after the Chinese tech giant unveiled its new Qwen 3.5 open-weight small models. \nJunyang Lin, a central technical leader on Alibaba’s Qwen team, said in a post on X on Tuesday that he was “stepping down” from the project, without elaborating. He joined Alibaba in July 2019 and became part of the Qwen team in April 2023, according to his LinkedIn profile.\nThe abrupt departure, which drew strong reactions from colleagues and industry partners, comes as global competition among AI developers intensifies and companies race to build models rivaling those from OpenAI, Google, and Anthropic. \nAlibaba’s Qwen family of models has emerged as one of China’s most prominent open-weight AI efforts, with recent releases posting benchmark results that often rival systems from leading U.S. developers. The Chinese tech giant introduced the model in April 2023 and opened it to public use that September after receiving regulatory clearance.\nAlibaba introduced its Qwen 3.5 Small Model series on Monday, with four models spanning 0.8B, 2B, 4B, and 9B parameters. The systems, the company said, are native multimodal models designed for uses ranging from on-device AI deployment to lightweight agents. The launch drew attention from figures in the AI community, including Elon Musk, who wrote on X that the models showed “impressive intelligence density.”\nLin’s departure came just as the Qwen team was pushing ahead with new releases, prompting unusually strong reactions from colleagues and partners who described his role in the project as central.\nWenting Zhao, a research scientist on the Qwen team, described Lin’s departure as “the end of an era,” thanking him in a post on X for helping drive the project’s advances in open source AI and engineering. Yuchen Jin, chief technology officer of AI infrastructure startup Hyperbolic, said Lin helped connect Qwen with the global developer community, recalling late-night collaboration with the team during model launches. Tiezhen Wang, head of APAC ecosystem at Hugging Face, also described Lin’s departure as “an immense loss” for the Qwen project.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThe circumstances surrounding Lin’s departure remain unclear. Lin did not respond to a request for comment.\nChen Cheng, a contributor to the Qwen project, wrote that he was “heartbroken” by the news. In his post on X, Cheng appeared to be addressing Lin directly, writing, “I know leaving wasn’t your choice” and said the team had been working together on model launches only hours earlier.\nBinyuan Hui, another member of the Qwen team, has updated his X profile to describe himself as “formerly MTS @Alibaba_Qwen.” However, it is not immediately clear whether he had left the company or when the change was made.\nAlibaba did not respond to a request for comment on the reasons for the move or on the leadership structure of the Qwen team.\n\n\n\t\tJagmeet covers startups, tech policy-related updates, and all other major tech-centric developments from India for TechCrunch. He previously worked as a principal correspondent at NDTV. \r\nYou can contact or verify outreach from Jagmeet by emailing mail@journalistjagmeet.com.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Activist investor Elliott takes a $1B stake in Pinterest, betting on AI-driven growth",
+      "headline": "Alibaba’s Qwen tech lead steps down after major AI push",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/08/bill-ready-pinterest-GettyImages-2213037081.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/03/alibaba-qwen-ai.jpg?w=150"
       ],
-      "datePublished": "2026-03-03T17:27:37.000Z",
-      "dateModified": "2026-03-03T17:27:37.000Z",
+      "datePublished": "2026-03-03T23:16:36.000Z",
+      "dateModified": "2026-03-03T23:16:36.000Z",
       "author": [
         {
           "@type": "Person",
@@ -350,22 +325,47 @@
     }
   },
   {
-    "title": "Why AI startups are selling the same equity at two different prices",
-    "url": "https://techcrunch.com/2026/03/03/why-ai-startups-are-selling-the-same-equity-at-two-different-prices/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/07/money-firehose.jpg?w=150",
+    "title": "X taps William Shatner to give out invites to its payments service, X Money",
+    "url": "https://techcrunch.com/2026/03/04/x-taps-william-shatner-to-give-out-invites-to-its-payments-service-x-money/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/HCjE-apawBMQq8A.jpeg?w=150",
     "tag": "Tech",
-    "date": "2026-03-04T00:31:25.000Z",
-    "description": "\nAs competition among AI startups heats up, founders and VCs are turning to novel valuation mechanisms to manufacture a perception of market dominance",
-    "body": "\nAs competition among AI startups heats up, founders and VCs are turning to novel valuation mechanisms to manufacture a perception of market dominance.\nUntil recently, the most sought-after companies raised multiple rounds of funding in quick succession at escalating valuations. However, because constant fundraising distracts founders from building their products, lead VCs have devised a new pricing structure that effectively consolidates what would have been two separate funding cycles into one.\nRecent rounds employing this scheme include Aaru’s Series A. The synthetic-customer research startup raised a round led by Redpoint, which invested a large portion of its check at a $450 million valuation, The Wall Street Journal reported. Redpoint then invested a smaller portion at a $1 billion valuation, and other VCs joined at that same $1 billion price point, according to our reporting. TechCrunch was the first to report Aaru’s financing, including its multi-tiered valuation.\nThe approach allows desirable startups like Aaru to call themselves a unicorn — valued at more than $1 billion — even though a significant portion of the equity was acquired at a lower price.\n“It is a sign that the market is incredibly competitive for venture capital firms to win deals,” said Jason Shuman, a general partner at Primary Ventures. “If the headline number is huge, it’s also an incredible strategy to scare away other VCs from backing the number two and number three players.”\nThe massive “headline” valuation creates the aura of a market winner, even though the lead VC’s average price was significantly lower.\nMultiple investors told TechCrunch that until recently, they had never encountered a deal where a lead investor splits their capital between two different valuation tiers in a single round.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nWesley Chan, co-founder and managing partner at FPV Ventures, views this valuation tactic as a symptom of bubble-like behavior. “You can’t sell the same product at two different prices. Only airlines can get away with this,” he said.\nIn most cases, founders offer a discount to top-tier VCs because their involvement serves as a powerful market signal that helps attract talent and future capital.\nBut since these rounds are frequently oversubscribed, startups have found a way to accommodate the excess interest: Rather than turning away eager investors, they allow them to participate immediately, but at a significantly higher price. These investors are willing to pay that premium because it is the only way to secure a spot on a high-demand cap table.\nAnother startup that gave preferential pricing to its lead investor is Serval, an AI-powered IT help desk startup, according to The Wall Street Journal. While Sequoia’s lowest entry price was at a $400 million valuation, Serval announced in December that its $75 million Series B valued the company at $1 billion.\nWhile the high “headline” valuation can help recruit talent and attract corporate customers who may view the company as having a stronger market position than its competitors, the strategy is not without its risks.\nEven though the true, blended valuation for these startups is lower than $1 billion, they are expected to raise their next round at a valuation that is higher than the headline price; otherwise it will be a punitive down round, Shuman said.\nThese companies are in high demand now, but they may face unexpected challenges that will make it very hard for them to justify their high valuations. In a down round, employees and founders end up with a smaller ownership percentage of the company; they can also erode the confidence of partners, customers, future investors, and potential new hires.\nJack Selby, managing director at Thiel Capital and founder of Copper Sky Capital, warns founders that chasing extreme valuations is a dangerous game, pointing to the painful market reset of 2022 as a cautionary tale. “If you put yourself on this high-wire act, it’s very easy to fall off,” he said.\n\n\n\t\tMarina Temkin is a venture capital and startups reporter at TechCrunch. Prior to joining TechCrunch, she wrote about VC for PitchBook and Venture Capital Journal. Earlier in her career, Marina was a financial analyst and earned a CFA charterholder designation.\r\nYou can contact or verify outreach from Marina by emailing marina.temkin@techcrunch.com or via encrypted message at +1 347-683-3909 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-03-04T16:34:21.000Z",
+    "description": "\nX Chat’s standalone app isn’t the only new service X is testing this week. The company has also begun offering select users invites to its X Money pa",
+    "body": "\nX Chat’s standalone app isn’t the only new service X is testing this week. The company has also begun offering select users invites to its X Money payments service, which was previously being tested internally among X employees. These invites, however, were not doled out in the typical way. Instead, X owner Elon Musk worked with William Shatner (yes, the actor) to invite people into the beta in exchange for a $1,000 donation to Shatner’s charity that supports childrens’ and veterans’ organizations.  \nOn X, Shatner has been sharing information about the X Money service and its beta invites, which were made available via an online auction on Monday. Musk reshared one of Shatner’s posts to his own feed, saying simply “X Money.” Musk also reposted another user’s post about X Money, adding, “This will be big.” \n\nThe auction, Shatner noted, was conducted with Musk’s blessing after Shatner received payment from Musk via the X Money app. (A screenshot showed that Musk sent him $42, a playful sci-fi reference: the number is, in “The Hitchhiker’s Guide to the Galaxy” by Douglas Adams, the answer to “everything.”)\nX also offered 42 invites to the X Money beta to those who donated in the auction. \nAfter receiving a notification, the auction winners will be able to see a link to the X Money service appear in the app, just below the link to Premium. They will also be among the first to receive the metal X Money debit card with their username from X’s partner, Visa, which is helping power the person-to-person payments aspect of the service. \nThe addition of X Money to X is part of Musk’s plan to make the social network more of an “everything app,” offering a variety of features, including private messaging, payments, creator content, subscriptions, video, and more.\n\nAll 42 usernames have now been given to X for entry into the Beta.  The easiest way to tell if you are active is to look at your profile for the Money Link. pic.twitter.com/Dl39F8aefB— William Shatner (@WilliamShatner) March 4, 2026\n\nScreenshots posted by Shatner on X showed the X Money interface with three tabs: Account, Rewards, and Activity, along with buttons for making deposits, sending money, and making requests. Users also have the option of setting up direct deposit to earn APY, the screenshots showed. (One screen showed the option of earning up to 6.00% APY.) \nUsers’ deposits are held by Cross River Bank, Member FDIC, and are insured up to $250,000 per individual, per a screenshot Shatner posted. \nX Payments itself is not an FDIC-insured bank, but it has been racking up money transmitter licenses across the U.S. X now has licenses in over 40 U.S. states, and, in X’s public all-hands meeting in February, Musk told staff that the service would enter a limited external beta in a month or two, before going worldwide to all users. \nWith X Chat, the company hasn’t just launched a new link inside X but is testing giving the messaging service its own standalone app. Potentially, X Money could have its own app as well to better compete with others in the space, like Venmo, PayPal, and Cash App. \nMusk’s interest in payments has spanned decades, as he founded an online financial services startup called X.com in 1999, which was later merged into the company that became PayPal. After acquiring Twitter in October 2022, Musk renamed the company X less than a year later, in tribute to his early beginnings. \n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Why AI startups are selling the same equity at two different prices",
+      "headline": "X taps William Shatner to give out invites to its payments service, X Money",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/07/money-firehose.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/03/HCjE-apawBMQq8A.jpeg?w=150"
       ],
-      "datePublished": "2026-03-04T00:31:25.000Z",
-      "dateModified": "2026-03-04T00:31:25.000Z",
+      "datePublished": "2026-03-04T16:34:21.000Z",
+      "dateModified": "2026-03-04T16:34:21.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Who needs data centers in space when they can float offshore?",
+    "url": "https://techcrunch.com/2026/03/04/who-needs-data-centers-in-space-when-they-can-float-offshore/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/01/wind-turbine-vinyard-wind-Worldview-Films.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-03-04T12:00:00.000Z",
+    "description": "\nThe power crunch for AI data centers has gotten so severe that people — not just Elon Musk — are talking about launching servers into space so they c",
+    "body": "\nThe power crunch for AI data centers has gotten so severe that people — not just Elon Musk — are talking about launching servers into space so they can access solar power 24/7.\nOne startup thinks the ocean is a better place for them. Offshore wind developer Aikido is planning to submerge a 100-kilowatt demonstration data center off the coast of Norway this year. The small unit will live in the submerged pods of a floating offshore wind turbine.\nIf all goes well, the company hopes to build a larger version to deploy off the coast of the UK in 2028. That model will sport a 15 megawatt to 18 megawatt turbine that will feed a 10 megawatt to 12 megawatt data center.\nThe move offshore could solve a few challenges. Proximity to power is an obvious one, since the source will sit overhead. Winds offshore are more consistent than onshore, and a modest battery could bridge any lulls. \nSubmerged data centers could eliminate concerns from NIMBY groups — “not in my backyard” — who oppose data centers near their properties over noise and and pollution concerns. \nLastly, by floating in cold seawater, cooling the servers would be a simpler proposition. (Cooling is one particularly vexing issue for orbital data centers, since they need to employ different techniques in the vacuum of space.)\nBut for all the challenges offshore data centers solve, they introduce a few more. The ocean is a harsh environment. While submerged servers wouldn’t be battered by waves, they also wouldn’t be completely stationary, so they’d need to be fully battened down. Seawater is also corrosive, so any equipment, including the container and power and data connections, will need to be hardened against it.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nAikido isn’t the first company to propose sinking data centers in seawater. Microsoft first floated the idea over a decade ago, and in 2018 it launched an experiment off the coast of Scotland, which was modestly successful. Only six of more than 850 servers failed in the 25-month trial. (The data hall was filled with inert nitrogen gas, which might help explain the servers’ low failure rates.) \nMicrosoft accrued a number of patents over the years, which it open-sourced in 2021. But by 2024, the company had deep-sixed the project.\n\n\n\t\tTim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor. \r\nDe Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.\r\nYou can contact or verify outreach from Tim by emailing tim.dechant@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Who needs data centers in space when they can float offshore?",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2024/01/wind-turbine-vinyard-wind-Worldview-Films.jpg?w=150"
+      ],
+      "datePublished": "2026-03-04T12:00:00.000Z",
+      "dateModified": "2026-03-04T12:00:00.000Z",
       "author": [
         {
           "@type": "Person",
