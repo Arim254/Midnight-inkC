@@ -1,30 +1,5 @@
 [
   {
-    "title": "Anthropic’s Claude found 22 vulnerabilities in Firefox over two weeks",
-    "url": "https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/08/Claude-Chrome-Ext_email-hero-hero.png?w=150",
-    "tag": "Tech",
-    "date": "2026-03-06T19:00:22.000Z",
-    "description": "\nIn a recent security partnership with Mozilla, Anthropic found 22 separate vulnerabilities in Firefox — 14 of them classified as “high-severity.” Mos",
-    "body": "\nIn a recent security partnership with Mozilla, Anthropic found 22 separate vulnerabilities in Firefox — 14 of them classified as “high-severity.” Most of the bugs have been fixed in Firefox 148 (the version released this February), although a few fixes will have to wait for the next release.\nAnthropic’s team used Claude Opus 4.6 over the span of two weeks, starting in the JavaScript engine and then expanding to other portions of the codebase. According to the post, the team focused on Firefox because “it’s both a complex codebase and one of the most well-tested and secure open-source projects in the world.”\nNotably, Claude Opus was much better at finding vulnerabilities than writing software to exploit them. The team ended up spending $4,000 in API credits trying to concoct proof-of-concept exploits, but only succeeded in two cases.\nStill, it’s a reminder of how powerful AI tools can be for open source projects — even if they bring a flood of bad merge requests alongside the useful ones.\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Anthropic’s Claude found 22 vulnerabilities in Firefox over two weeks",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/08/Claude-Chrome-Ext_email-hero-hero.png?w=150"
-      ],
-      "datePublished": "2026-03-06T19:00:22.000Z",
-      "dateModified": "2026-03-06T19:00:22.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Nintendo sues the US government for a refund on tariffs",
     "url": "https://techcrunch.com/2026/03/06/nintendo-sues-the-u-s-government-for-a-refund-on-tariffs/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2263890630.jpg?w=150",
@@ -75,6 +50,31 @@
     }
   },
   {
+    "title": "Anthropic’s Claude found 22 vulnerabilities in Firefox over two weeks",
+    "url": "https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/08/Claude-Chrome-Ext_email-hero-hero.png?w=150",
+    "tag": "Tech",
+    "date": "2026-03-06T19:00:22.000Z",
+    "description": "\nIn a recent security partnership with Mozilla, Anthropic found 22 separate vulnerabilities in Firefox — 14 of them classified as “high-severity.” Mos",
+    "body": "\nIn a recent security partnership with Mozilla, Anthropic found 22 separate vulnerabilities in Firefox — 14 of them classified as “high-severity.” Most of the bugs have been fixed in Firefox 148 (the version released this February), although a few fixes will have to wait for the next release.\nAnthropic’s team used Claude Opus 4.6 over the span of two weeks, starting in the JavaScript engine and then expanding to other portions of the codebase. According to the post, the team focused on Firefox because “it’s both a complex codebase and one of the most well-tested and secure open-source projects in the world.”\nNotably, Claude Opus was much better at finding vulnerabilities than writing software to exploit them. The team ended up spending $4,000 in API credits trying to concoct proof-of-concept exploits, but only succeeded in two cases.\nStill, it’s a reminder of how powerful AI tools can be for open source projects — even if they bring a flood of bad merge requests alongside the useful ones.\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Anthropic’s Claude found 22 vulnerabilities in Firefox over two weeks",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/08/Claude-Chrome-Ext_email-hero-hero.png?w=150"
+      ],
+      "datePublished": "2026-03-06T19:00:22.000Z",
+      "dateModified": "2026-03-06T19:00:22.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Robinhood’s startup fund stumbles in NYSE debut",
     "url": "https://techcrunch.com/2026/03/06/robinhoods-startup-fund-stumbles-in-nyse-debut/",
     "image": "https://techcrunch.com/wp-content/uploads/2018/03/39667676405_fbb3b9feff_k.jpg?w=150",
@@ -91,181 +91,6 @@
       ],
       "datePublished": "2026-03-07T02:04:43.000Z",
       "dateModified": "2026-03-07T02:04:43.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "X is testing a new ad format that connects posts with products",
-    "url": "https://techcrunch.com/2026/03/06/x-is-testing-a-new-ad-format-that-connects-posts-with-products/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-1.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-03-06T22:41:26.000Z",
-    "description": "\nX is testing a new ad format that inserts a recommendation directly underneath a post that references the company or its products. The initial test, ",
-    "body": "\nX is testing a new ad format that inserts a recommendation directly underneath a post that references the company or its products. The initial test, spotted by an X user in Europe, displayed a suggestion to “Get Starlink” beneath a post from a user that said Starlink’s satellite service works great in Portugal. The link, when clicked, directed users to Starlink’s website.\nX head of product Nikita Bier confirmed the test, responding, “Trying to make an ad product that isn’t an ad.”\n\nThe Starlink ad is not visible to all users at this time, but the placeholder where the ad sits is. \nIf you visit X user @levelsio’s post from March 6 (screenshotted below in case of deletion), you’ll see an outlined box beneath the text of his post. This box currently showcases a random X post, unless you’re in the market where the ad test is live.\nIn places where the ad displays, several commenters noticed the new addition, with one asking, “lmao, did you add this Starlink button?”\nIn the thread, Bier also responded to a suggestion that X should allow affiliate links in this ad slot by saying, “No, then people will lie. I want to trust recommendations on here.”\nImage Credits:Screenshot from X\nX could not be immediately reached for comment. TechCrunch will update the article if the company responds.\nThe test follows news earlier this week that the company is rolling out “Paid Partnership” labels for creators. The labels can be applied to posts to comply with regulations around social media advertising, instead of requiring creators to use a hashtag like “ad” or “paid partnership.”\nIf creators’ sponsored posts were to be combined with an embedded link to an advertiser like the one being tested, X could potentially attract more marketers to the platform. That could boost creators’ use of the app, allowing it to better compete against larger social networks favored by creators, like Instagram, YouTube, and TikTok.\nX has been chasing creator content for some time — even before it was called “X” and before it was owned by Elon Musk. Yet the app has never quite found its footing in this space. So far, the company has rolled out a number of creator products, including payouts for viral content, ad-revenue sharing, creator subscriptions, and more. \nThe company this week also revamped its Creator Subscriptions offering with a number of new features, including the ability to monetize individual threads. \nIn addition, X announced Friday that the integrated chatbot Grok is now capable of reading X’s long-form content, known as Articles. This feature, too, is underutilized, as creators who publish lengthy written text tend to prefer doing so through their own websites or newsletters.\n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "X is testing a new ad format that connects posts with products",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-1.jpg?w=150"
-      ],
-      "datePublished": "2026-03-06T22:41:26.000Z",
-      "dateModified": "2026-03-06T22:41:26.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "DiligenceSquared uses AI, voice agents to make M&A research affordable",
-    "url": "https://techcrunch.com/2026/03/05/diligencesquared-uses-ai-voice-agents-to-make-ma-research-affordable/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/DS2.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-03-05T23:14:04.000Z",
-    "description": "\nA typical merger-and-acquisition process is time-consuming and expensive, even for the largest, well-staffed private equity firms. In addition to spe",
-    "body": "\nA typical merger-and-acquisition process is time-consuming and expensive, even for the largest, well-staffed private equity firms. In addition to spending countless hours meeting with senior executives of potential targets and modeling financial outcomes, these groups spend millions of dollars on external advisers: accountants, lawyers, and management consultants.\nSince expenses for external advisers are not reimbursed if a deal falls through, PE firms wait until they are certain of their interest before engaging costly specialists such as consultants from McKinsey, BCG, or Bain to perform extensive commercial research on the market and the target company.\nDiligenceSquared, a startup that was part of YC’s Fall 2025 cohort, says that with the help of AI, it can provide top-tier consultancy-quality commercial research at a fraction of the traditional cost.\nThe startup’s co-founders, Frederik Hansen and Søren Biltoft, possess deep expertise in private equity due diligence. Hansen was formerly a principal at Blackstone, where he commissioned these reports for multiple billion-dollar buyouts. Meanwhile, Biltoft spent seven years in BCG’s private equity practice leading these types of diligence efforts.  \nSince launching in October, Hansen’s and Biltoft’s industry experience has helped DiligenceSquared complete multiple projects for several of the world’s largest PE firms and mid-market funds, Hansen tells TechCrunch.\nThat early traction convinced Damir Becirovic, a former Index Ventures partner, to lead DiligenceSquared’s $5 million seed round out of his new VC firm, Relentless.\nInstead of relying on expensive management consultants, the startup uses AI voice agents to conduct interviews with customers of the companies the PE firms are considering buying.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nDiligenceSquared is applying the same AI-interview model seen in consumer research startups like Keplar, Outset, and Listen Labs, which in January raised $69 million at a $500 million valuation. But Hansen and Biltoft argue that their due-diligence process and final outputs are fundamentally different from the consumer research produced by these startups.\nPE firms can pay $500,000 to $1 million for McKinsey, Bain, or BCG to interview dozens of corporate customers, including C-suite executives, and produce 200-page reports synthesizing those insights with proprietary market data, Hansen said. To ensure the quality of the analysis, DiligenceSquared involves senior human consultants who verify the accuracy and commercial insights of the final output.\nSince AI is doing a lot of the groundwork, the startup claims it can provide the analysis for just $50,000.\n“We are taking these great insights that were previously reserved for the very big decisions, and now we make them more accessible,” Hansen said. Because of the lower price point, PE firms are now far more willing to engage DiligenceSquared earlier in the process, well before they have high conviction in a deal.\nDiligenceSquared isn’t the only company trying to disrupt the diligence market. Its main competitor, Bridgetown Research, raised a $19 million Series A co-led by Accel and Lightspeed in February 2026.\nIn addition to Hansen and Biltoft, DiligenceSquared was co-founded by Harshil Rastogi, a former Google engineer.\n\n\n\t\tMarina Temkin is a venture capital and startups reporter at TechCrunch. Prior to joining TechCrunch, she wrote about VC for PitchBook and Venture Capital Journal. Earlier in her career, Marina was a financial analyst and earned a CFA charterholder designation.\r\nYou can contact or verify outreach from Marina by emailing marina.temkin@techcrunch.com or via encrypted message at +1 347-683-3909 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "DiligenceSquared uses AI, voice agents to make M&A research affordable",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/03/DS2.jpg?w=150"
-      ],
-      "datePublished": "2026-03-05T23:14:04.000Z",
-      "dateModified": "2026-03-05T23:14:04.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Anthropic to challenge DOD’s supply-chain label in court",
-    "url": "https://techcrunch.com/2026/03/05/anthropic-to-challenge-dods-supply-chain-label-in-court/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-03-06T01:28:54.000Z",
-    "description": "\nDario Amodei said Thursday that Anthropic plans to challenge the Department of Defense’s decision to label the AI firm a supply-chain risk in court, ",
-    "body": "\nDario Amodei said Thursday that Anthropic plans to challenge the Department of Defense’s decision to label the AI firm a supply-chain risk in court, a designation he has called “legally unsound.”\nThe statement comes a few hours after the DOD officially designated Anthropic a supply-chain risk following a weeks-long dispute over how much control the military should have over AI systems. A supply-chain risk designation can bar a company from working with the Pentagon and its contractors. Amodei drew a firm line that Anthropic’s AI will not be used for mass surveillance of Americans or for fully autonomous weapons, but the Pentagon believed it should have unrestricted access for “all lawful purposes.”\nIn his statement, Amodei said the vast majority of Anthropic’s customers are unaffected by the supply-chain risk designation.\n“With respect to our customers, it plainly applies only to the use of Claude by customers as a direct part of contracts with the Department of War, not all use of Claude by customers who have such contracts,” he said.\nAs a preview of what Anthropic will likely argue in court, Amodei said the Department’s letter labeling the firm a supply-chain risk is narrow in scope.\n“It exists to protect the government rather than to punish a supplier; in fact, the law requires the Secretary of War to use the least restrictive means necessary to accomplish the goal of protecting the supply chain,” Amodei said. “Even for Department of War contractors, the supply chain risk designation doesn’t (and can’t) limit uses of Claude or business relationships with Anthropic if those are unrelated to their specific Department of War contracts.”\nAmodei reiterated that Anthropic had been having productive conversations with the DOD over the last several days, conversations that some suspect got derailed when an internal memo he sent to staff was leaked. In it, Amodei characterized rival OpenAI’s dealings with the Department of Defense as “safety theater.”\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nOpenAI has signed a deal to work with the DOD in Anthropic’s place, a move that has sparked backlash among OpenAI staff.\nAmodei apologized for the leak in his Thursday statement, claiming that the company did not intentionally share the memo or direct anyone else to do so. “It is not in our interest to escalate the situation,” he said. \nAmodei said the memo was written within “a few hours” of a series of announcements, including a presidential Truth Social post saying Anthropic would be removed from federal systems, then Defense Secretary Pete Hegseth’s supply-chain risk designation, and finally the Pentagon’s deal announcement with OpenAI. He apologized for the tone, calling it “a difficult day for the company” and said the memo didn’t reflect his “careful or considered views.” Written six days ago, he added, it’s now an “out-of-date assessment.”\nHe finished by saying Anthropic’s top priority is to ensure American soldiers and national security experts maintain access to important tools in the middle of ongoing major combat operations. Anthropic is currently supporting some of the U.S.’s operations in Iran, and Amodei said the company would continue to provide its models to the DOD at “nominal cost” for “as long as necessary to make that transition.”\nAnthropic could challenge the designation in federal court, likely in Washington, but the law behind the decision makes it harder to contest because it limits the usual ways companies can challenge government procurement decisions and gives the Pentagon broad discretion on national security matters.\nOr as Dean Ball — a former Trump-era White House adviser on AI who has spoken out against Hegseth’s treatment of Anthropic — put it: “Courts are pretty reluctant to second-guess the government on what is and is not a national security issue … There’s a very high bar that one needs to clear in order to do that. But it’s not impossible.”\n\n\n\t\tRebecca Bellan is a senior reporter at TechCrunch where she covers the business, policy, and emerging trends shaping artificial intelligence. Her work has also appeared in Forbes, Bloomberg, The Atlantic, The Daily Beast, and other publications. \r\nYou can contact or verify outreach from Rebecca by emailing rebecca.bellan@techcrunch.com or via encrypted message at rebeccabellan.491 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Anthropic to challenge DOD’s supply-chain label in court",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-.jpg?w=150"
-      ],
-      "datePublished": "2026-03-06T01:28:54.000Z",
-      "dateModified": "2026-03-06T01:28:54.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "TriZetto confirms 3.4M people’s health and personal data was stolen during breach",
-    "url": "https://techcrunch.com/2026/03/06/trizetto-confirms-3-4m-peoples-health-and-personal-data-was-stolen-during-breach/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1481914168.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-03-06T14:28:31.000Z",
-    "description": "\nHealth tech giant TriZetto has confirmed that more than 3.4 million people’s personal and health information was stolen in a 2024 cyberattack, which ",
-    "body": "\nHealth tech giant TriZetto has confirmed that more than 3.4 million people’s personal and health information was stolen in a 2024 cyberattack, which the company failed to detect for almost a year.\nThe tech company, owned by multinational conglomerate Cognizant, serves around 200 million people across 875,000 healthcare providers throughout the U.S., according to its website. Doctors’ offices and healthcare providers use TriZetto to assess patients’ insurance for medical treatments.\nTriZetto said in a filing with Maine’s attorney general on Friday that hackers stole patients’ insurance eligibility transaction reports from the company’s servers.\nThe data includes personal information like patients’ names, dates of birth, home addresses, and Social Security numbers, as well as information about their healthcare, such as their provider’s name, demographic data, and health and insurance details.\nTriZetto said it identified the breach on October 2, 2025, but later discovered that the hackers had access as far back as November 2024. \nCognizant spokesperson William Abelson said the company “eliminated the threat” to its environment, but would not say why it took the company a year to detect the breach.\nSeveral organizations have confirmed that their patients’ information was compromised in the cyberattack. One of these is OCHIN, a nonprofit consultancy firm that provides healthcare technology to some 300 rural and community care providers across the United States. Other healthcare providers across California have also confirmed.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nAccording to TriZetto, not every customer was affected by the breach.\nTriZetto is the latest major health tech company to confirm a hack in recent years. \nIn 2024, a ransomware attack at Change Healthcare, another health tech giant that processes some 15 billion healthcare transactions, allowed hackers to make off with more than 192 million patient files. The cyberattack sparked outages across the U.S., leaving many without access to medical treatments or medications.\nUpdated with comment from Cognizant.\n\n\n\t\tZack Whittaker is the security editor at TechCrunch. He also authors the weekly cybersecurity newsletter, this week in security. \nHe can be reached via encrypted message at zackwhittaker.1337 on Signal. You can also contact him by email, or to verify outreach, at zack.whittaker@techcrunch.com. \t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "TriZetto confirms 3.4M people’s health and personal data was stolen during breach",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1481914168.jpg?w=150"
-      ],
-      "datePublished": "2026-03-06T14:28:31.000Z",
-      "dateModified": "2026-03-06T14:28:31.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "After Europe, WhatsApp will let rival AI companies offer chatbots in Brazil",
-    "url": "https://techcrunch.com/2026/03/06/after-europe-whatsapp-will-let-rival-ai-companies-offer-chatbots-in-brazil/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/08/whatsapp-getty.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-03-06T13:20:43.000Z",
-    "description": "\nMeta is now allowing rival AI companies to provide their chatbots on WhatsApp to Brazilian users for a fee, a day after the company confirmed a simil",
-    "body": "\nMeta is now allowing rival AI companies to provide their chatbots on WhatsApp to Brazilian users for a fee, a day after the company confirmed a similar decision for users in Europe.\nEarlier this week, Brazil’s antitrust regulator CADE ruled against Meta and rejected its appeal to block an earlier order to suspend its policy change that seeks to bar third-party AI chatbots on WhatsApp.\n“Upon reviewing the case, the CADE Tribunal determined that the necessary requirements for maintaining the preventive measure were present. According to the case rapporteur, Councilor Carlos Jacques, there is evidence of legal plausibility, considering the relevance of WhatsApp in the Brazilian instant messaging services market,” CADE’s ruling reads.\nThe regulator added that banning third-party AI chatbots on WhatsApp “would not be proportionate” and could result in competitive harm.\nMeta said in response that it would let third-party AI chatbot providers use its WhatsApp Business API to offer their services on the app for a fee, wherever it is legally required to do so. The company will charge $0.0625 per “non-template message” in Brazil from March 11.\n“Where we are legally required to provide AI chatbots through the WhatsApp business API, we are introducing pricing for the companies that choose to use our platform to provide those services,” a Meta spokesperson said.\nMeta announced the policy change last October, which spurred several antitrust investigations, particularly because the company offers its own AI chatbot, Meta AI, inside WhatsApp. The company has maintained that its WhatsApp Business API was not designed to cater to AI chatbots and that they put a strain on the company’s system.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nWhile Meta is now allowing third-party chatbots in some regions because of regulations, developers tell TechCrunch that they are hesitant to resume services, saying the pricing set by Meta is high and could result in high costs.\nZapia, one of the companies that filed the complaint with CADE in Brazil, welcomed the decision.\n“Competition and preventing powerful companies from limiting how innovation reaches users. At Zapia, we believe people should be free to choose the AI tools they use, and innovation only thrives when the platforms people rely on every day remain open. We will continue challenging these restrictions across the rest of Latin America, and we now look forward to seeing how Meta adapts its policies in Brazil to comply with the decision,” it said in a statement. \n\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "After Europe, WhatsApp will let rival AI companies offer chatbots in Brazil",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2023/08/whatsapp-getty.jpg?w=150"
-      ],
-      "datePublished": "2026-03-06T13:20:43.000Z",
-      "dateModified": "2026-03-06T13:20:43.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Bill Gates’ TerraPower gets approval to build new nuclear reactor",
-    "url": "https://techcrunch.com/2026/03/06/bill-gates-terrapower-gets-approval-to-build-new-nuclear-reactor/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/terrapower-groundbreaking-bill-gates.jpeg?w=150",
-    "tag": "Tech",
-    "date": "2026-03-06T19:47:40.000Z",
-    "description": "\nThe Nuclear Regulatory Commission (NRC) gave TerraPower the go-ahead this week to build a new nuclear reactor in the shadow of an aging coal power pl",
-    "body": "\nThe Nuclear Regulatory Commission (NRC) gave TerraPower the go-ahead this week to build a new nuclear reactor in the shadow of an aging coal power plant in Wyoming.\nTerraPower’s permit is the first to be issued by the NRC in nearly a decade. The startup — founded by Bill Gates in 2015 and backed by Nvidia — has been designing its Natrium reactor with GE Vernova Hitachi. The final power plant will generate 345 megawatts, which is about two-thirds smaller than modern full-size reactors, but multiple times larger than many small modular reactor designs favored by other startups.\nNatrium differs from other reactors not just in scale, but also in the details of its design. Where most nuclear reactors built in the last 50 years have been cooled by water, Natrium is cooled by molten sodium, which TerraPower says should be safer. This is the first time a commercial reactor that is not cooled by regular water has been approved by the NRC in more than 40 years.\nThe reactor will operate with an excess of molten sodium, which will be stored in large, insulated tanks. This allows atoms to keep splitting when demand is low, with the hot sodium saving that energy, which can be used to fill in any lulls in wind and solar output. Since nuclear power plants operate best near full capacity, storing excess energy as heat should help lower generating costs.\nThe NRC’s approval is notable because TerraPower followed the long-established permitting process, giving it permission to build on private property. The Department of Energy recently loosened its safety rules, but those regulations only apply to land owned by the agency.\nTerraPower is one of nearly half a dozen nuclear startups backed by tech companies or their founders. As electricity demand from data centers grows, the Trump administration has come under pressure to boost generating capacity, including by building new nuclear reactors.\nInvestors have taken note of the two trends, and in recent months, they’ve showered nuclear startups with well over $1 billion in capital. TerraPower alone has raised a total of $1.7 billion, including a $650 million round that closed in June, according to PitchBook.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nDespite the momentum, nuclear power still faces an uphill battle. To date, nuclear has been one of the most expensive forms of new generating capacity. Part of that is due to cost overruns at massive power plants, but it also reflects the tremendous strides that solar, wind, and batteries have made in bringing costs down over the years. \nNuclear startups are hoping to leverage mass manufacturing to rein in capital expenditures, but the theory has yet to be proven. And while manufacturing can help cut costs, it often takes at least a decade for the savings to materialize.\n\n\n\t\tTim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor. \r\nDe Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.\r\nYou can contact or verify outreach from Tim by emailing tim.dechant@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Bill Gates’ TerraPower gets approval to build new nuclear reactor",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/03/terrapower-groundbreaking-bill-gates.jpeg?w=150"
-      ],
-      "datePublished": "2026-03-06T19:47:40.000Z",
-      "dateModified": "2026-03-06T19:47:40.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "India PC shipments surpass pandemic peak as first-time users upgrade",
-    "url": "https://techcrunch.com/2026/03/06/india-pc-shipments-surpass-pandemic-peak-as-first-time-users-upgrade/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/computers-india-1585282291.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-03-06T17:51:49.000Z",
-    "description": "\nIndia’s PC market had its strongest year on record in 2025, surpassing the surge in demand during the COVID-19 pandemic as millions of first-time buy",
-    "body": "\nIndia’s PC market had its strongest year on record in 2025, surpassing the surge in demand during the COVID-19 pandemic as millions of first-time buyers who purchased laptops during lockdowns began upgrading their devices.\nShipments of desktops, notebooks, and workstations in India rose 10.2% year-over-year to 15.9 million units in 2025, according to analysts at IDC. The total marks the first time annual shipments have crossed the 15-million-unit milestone, surpassing the peaks seen in 2021 and 2022.\nPandemic-driven lockdowns exposed many people in India to PCs for the first time, expanding the country’s PC userbase and creating demand for upgrades as those devices age, Bharath Shenoy, a research manager at IDC, told TechCrunch. Growing digitization, rising PC adoption among startups and small businesses, and wider availability of devices in smaller cities have also supported demand, he added.\nIndia’s share of global PC shipments rose to 5.6% in 2025 from 3.3% in 2020, IDC data shared with TechCrunch shows. Worldwide PC shipments grew 8.1% to 284.7 million units in 2025, according to IDC’s earlier report. The South Asian nation remains one of the fastest-growing PC markets as demand expands beyond major cities.\nCommercial buyers accounted for 52.9% of PC shipments in India in 2025, while the consumer segment made up the remaining 47.1%, IDC said.\nEnterprise purchases were partly driven by a Windows refresh cycle last year, while many small and medium-sized businesses and some public sector organizations are now beginning to replace older devices, Shenoy told TechCrunch.\nHP, Lenovo, Dell, Acer, and Asus were among the top PC vendors in India last year, IDC said. However, Apple’s Mac computers hold a smaller share of India’s personal computer market than in the U.S. MacBooks accounted for about 5.6% of India’s notebook market in 2025, compared with roughly 11% to 12% globally and around 20% in the U.S., according to IDC.\nImage Credits:IDC\nMacBooks’ share of India’s notebook market peaked at 7.4% in 2022, up from 3.9% in 2020, IDC data shows.\nAbout 85% to 87% of Mac shipments in India come from the consumer segment, Shenoy said, reflecting Apple’s limited presence in enterprise purchases. The premium notebook segment — devices priced above $1,000 — grew 8.2% year-over-year in 2025, indicating steady demand for higher-end devices.\nDemand for Macs in India could see an uptick as Apple this week introduced its lower-priced MacBook Neo, while Windows notebooks are becoming more expensive, Shenoy said. The Cupertino company is also focusing on expanding its presence in the commercial segment, which could help it gain market share, he added.\nApple did not respond to a request for comment.\nArtificial intelligence features are also beginning to appear in premium laptops, though they are not yet a major driver of PC demand in India, Shenoy said. Many enterprises that previously bought premium notebooks are now opting for AI-enabled PCs as they come within the same budget range, while demand from content creators could also support adoption as digital media consumption rises, he added.\nDespite the strong performance last year, the market could face headwinds in the near term as rising prices and component shortages weigh on demand, Shenoy also noted. PC shipments in India could decline about 5% in 2026, compared with a low double-digit drop expected globally, he said.\nIndia is still expected to perform better than many other markets because of its relatively low PC penetration and the scale of demand, Shenoy told TechCrunch. PC penetration in the country is estimated at around 17% to 20%, leaving significant room for growth as digital adoption spreads across households and businesses.\nThe market could remain under pressure into 2027 before returning to growth as demand from businesses and consumers stabilizes, Shenoy said.\n\n\n\t\tJagmeet covers startups, tech policy-related updates, and all other major tech-centric developments from India for TechCrunch. He previously worked as a principal correspondent at NDTV. \r\nYou can contact or verify outreach from Jagmeet by emailing mail@journalistjagmeet.com.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "India PC shipments surpass pandemic peak as first-time users upgrade",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/03/computers-india-1585282291.jpg?w=150"
-      ],
-      "datePublished": "2026-03-06T17:51:49.000Z",
-      "dateModified": "2026-03-06T17:51:49.000Z",
       "author": [
         {
           "@type": "Person",
@@ -300,22 +125,122 @@
     }
   },
   {
-    "title": "Claude’s consumer growth surge continues after Pentagon deal debacle",
-    "url": "https://techcrunch.com/2026/03/06/claudes-consumer-growth-surge-continues-after-pentagon-deal-debacle/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?w=150",
+    "title": "DiligenceSquared uses AI, voice agents to make M&A research affordable",
+    "url": "https://techcrunch.com/2026/03/05/diligencesquared-uses-ai-voice-agents-to-make-ma-research-affordable/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/DS2.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-03-06T17:56:07.000Z",
-    "description": "\nClaude’s daily active users are on the rise on mobile devices, as are its new app installs, following the company’s fallout with the Pentagon. After ",
-    "body": "\nClaude’s daily active users are on the rise on mobile devices, as are its new app installs, following the company’s fallout with the Pentagon. After Anthropic CEO Dario Amodei refused to allow the government to use its AI systems for mass surveillance of Americans or to power fully autonomous weapons, the AI model provider behind Claude was marked as a supply-chain risk. \nHowever, Anthropic’s stance led many consumers to favor the model, data suggests.\nApp intelligence provider Appfigures reports that the U.S. downloads of Claude’s mobile app continue to surpass those of ChatGPT. The most recent figures from March 2 show Claude with 149,000 daily downloads, compared with 124,000 for ChatGPT, the company’s estimates indicate.\nImage Credits:Appfigures\nWhile download figures offer a window into how many new users are installing the app for the first time, active users offer insight into how many people are actually using it. \nOn that front, another market intelligence provider, Similarweb, found that Claude’s app on iOS and Android devices saw 11.3 million daily active users on March 2, up 183% from the start of the year when usage was around 4 million, and up from 5 million daily active users at the beginning of February.\nClaude’s growth put it ahead of other AI apps by daily active users, like Perplexity and Microsoft Copilot, but not other top rivals like ChatGPT. This is partially due to the fact that Claude’s jump in usage began later in the month, timed around the news of Anthropic’s tense negotiations with the Pentagon. If these trends continue throughout March, it could rank higher. \nImage Credits:Similarweb\nOf course, ChatGPT still dominates the market by a significant factor, as its daily active users on March 2 were 250.5 million across iOS and Android. \nSimilarweb also reports that Claude’s web traffic has been growing. \nWhile it’s still far behind other top AI providers in terms of web traffic, Claude’s web traffic was up 43% month-over-month in February, and up 297.7% year-over-year. At least some of this growth could be at the expense of ChatGPT, whose web traffic dropped 6.5% month-over-month during the same time period. Gemini also saw a slight bump of 2.1%, which is slower growth than in previous months. \nImage Credits:Similarweb\nAnthropic itself has been touting Claude’s progress, noting that its AI chatbot is now seeing more than 1 million sign-ups per day after becoming the No. 1 app on the U.S. App Store over the past weekend — a position it still holds. The app is also No. 1 in 15 other countries, including Austria, Belgium, Canada, Finland, France, Germany, Ireland, Italy, New Zealand, Norway, Portugal, Singapore, Switzerland, the U.K.\nThe company noted, too, that Claude has broken its own signup record every day since early last week in every country where Claude is available.\n ChatGPT’s app uninstalls, meanwhile, have been growing, an earlier report found. \nAnthropic said it doesn’t comment on third-party data, but a spokesperson noted that daily active users have more than tripled since the beginning of 2026, and paid subscribers have doubled. \nUpdated with Anthropic’s comment after publication. \n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-03-05T23:14:04.000Z",
+    "description": "\nA typical merger-and-acquisition process is time-consuming and expensive, even for the largest, well-staffed private equity firms. In addition to spe",
+    "body": "\nA typical merger-and-acquisition process is time-consuming and expensive, even for the largest, well-staffed private equity firms. In addition to spending countless hours meeting with senior executives of potential targets and modeling financial outcomes, these groups spend millions of dollars on external advisers: accountants, lawyers, and management consultants.\nSince expenses for external advisers are not reimbursed if a deal falls through, PE firms wait until they are certain of their interest before engaging costly specialists such as consultants from McKinsey, BCG, or Bain to perform extensive commercial research on the market and the target company.\nDiligenceSquared, a startup that was part of YC’s Fall 2025 cohort, says that with the help of AI, it can provide top-tier consultancy-quality commercial research at a fraction of the traditional cost.\nThe startup’s co-founders, Frederik Hansen and Søren Biltoft, possess deep expertise in private equity due diligence. Hansen was formerly a principal at Blackstone, where he commissioned these reports for multiple billion-dollar buyouts. Meanwhile, Biltoft spent seven years in BCG’s private equity practice leading these types of diligence efforts.  \nSince launching in October, Hansen’s and Biltoft’s industry experience has helped DiligenceSquared complete multiple projects for several of the world’s largest PE firms and mid-market funds, Hansen tells TechCrunch.\nThat early traction convinced Damir Becirovic, a former Index Ventures partner, to lead DiligenceSquared’s $5 million seed round out of his new VC firm, Relentless.\nInstead of relying on expensive management consultants, the startup uses AI voice agents to conduct interviews with customers of the companies the PE firms are considering buying.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nDiligenceSquared is applying the same AI-interview model seen in consumer research startups like Keplar, Outset, and Listen Labs, which in January raised $69 million at a $500 million valuation. But Hansen and Biltoft argue that their due-diligence process and final outputs are fundamentally different from the consumer research produced by these startups.\nPE firms can pay $500,000 to $1 million for McKinsey, Bain, or BCG to interview dozens of corporate customers, including C-suite executives, and produce 200-page reports synthesizing those insights with proprietary market data, Hansen said. To ensure the quality of the analysis, DiligenceSquared involves senior human consultants who verify the accuracy and commercial insights of the final output.\nSince AI is doing a lot of the groundwork, the startup claims it can provide the analysis for just $50,000.\n“We are taking these great insights that were previously reserved for the very big decisions, and now we make them more accessible,” Hansen said. Because of the lower price point, PE firms are now far more willing to engage DiligenceSquared earlier in the process, well before they have high conviction in a deal.\nDiligenceSquared isn’t the only company trying to disrupt the diligence market. Its main competitor, Bridgetown Research, raised a $19 million Series A co-led by Accel and Lightspeed in February 2026.\nIn addition to Hansen and Biltoft, DiligenceSquared was co-founded by Harshil Rastogi, a former Google engineer.\n\n\n\t\tMarina Temkin is a venture capital and startups reporter at TechCrunch. Prior to joining TechCrunch, she wrote about VC for PitchBook and Venture Capital Journal. Earlier in her career, Marina was a financial analyst and earned a CFA charterholder designation.\r\nYou can contact or verify outreach from Marina by emailing marina.temkin@techcrunch.com or via encrypted message at +1 347-683-3909 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Claude’s consumer growth surge continues after Pentagon deal debacle",
+      "headline": "DiligenceSquared uses AI, voice agents to make M&A research affordable",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/03/DS2.jpg?w=150"
       ],
-      "datePublished": "2026-03-06T17:56:07.000Z",
-      "dateModified": "2026-03-06T17:56:07.000Z",
+      "datePublished": "2026-03-05T23:14:04.000Z",
+      "dateModified": "2026-03-05T23:14:04.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "TriZetto confirms 3.4M people’s health and personal data was stolen during breach",
+    "url": "https://techcrunch.com/2026/03/06/trizetto-confirms-3-4m-peoples-health-and-personal-data-was-stolen-during-breach/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1481914168.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-03-06T14:28:31.000Z",
+    "description": "\nHealth tech giant TriZetto has confirmed that more than 3.4 million people’s personal and health information was stolen in a 2024 cyberattack, which ",
+    "body": "\nHealth tech giant TriZetto has confirmed that more than 3.4 million people’s personal and health information was stolen in a 2024 cyberattack, which the company failed to detect for almost a year.\nThe tech company, owned by multinational conglomerate Cognizant, serves around 200 million people across 875,000 healthcare providers throughout the U.S., according to its website. Doctors’ offices and healthcare providers use TriZetto to assess patients’ insurance for medical treatments.\nTriZetto said in a filing with Maine’s attorney general on Friday that hackers stole patients’ insurance eligibility transaction reports from the company’s servers.\nThe data includes personal information like patients’ names, dates of birth, home addresses, and Social Security numbers, as well as information about their healthcare, such as their provider’s name, demographic data, and health and insurance details.\nTriZetto said it identified the breach on October 2, 2025, but later discovered that the hackers had access as far back as November 2024. \nCognizant spokesperson William Abelson said the company “eliminated the threat” to its environment, but would not say why it took the company a year to detect the breach.\nSeveral organizations have confirmed that their patients’ information was compromised in the cyberattack. One of these is OCHIN, a nonprofit consultancy firm that provides healthcare technology to some 300 rural and community care providers across the United States. Other healthcare providers across California have also confirmed.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nAccording to TriZetto, not every customer was affected by the breach.\nTriZetto is the latest major health tech company to confirm a hack in recent years. \nIn 2024, a ransomware attack at Change Healthcare, another health tech giant that processes some 15 billion healthcare transactions, allowed hackers to make off with more than 192 million patient files. The cyberattack sparked outages across the U.S., leaving many without access to medical treatments or medications.\nUpdated with comment from Cognizant.\n\n\n\t\tZack Whittaker is the security editor at TechCrunch. He also authors the weekly cybersecurity newsletter, this week in security. \nHe can be reached via encrypted message at zackwhittaker.1337 on Signal. You can also contact him by email, or to verify outreach, at zack.whittaker@techcrunch.com. \t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "TriZetto confirms 3.4M people’s health and personal data was stolen during breach",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1481914168.jpg?w=150"
+      ],
+      "datePublished": "2026-03-06T14:28:31.000Z",
+      "dateModified": "2026-03-06T14:28:31.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "India PC shipments surpass pandemic peak as first-time users upgrade",
+    "url": "https://techcrunch.com/2026/03/06/india-pc-shipments-surpass-pandemic-peak-as-first-time-users-upgrade/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/computers-india-1585282291.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-03-06T17:51:49.000Z",
+    "description": "\nIndia’s PC market had its strongest year on record in 2025, surpassing the surge in demand during the COVID-19 pandemic as millions of first-time buy",
+    "body": "\nIndia’s PC market had its strongest year on record in 2025, surpassing the surge in demand during the COVID-19 pandemic as millions of first-time buyers who purchased laptops during lockdowns began upgrading their devices.\nShipments of desktops, notebooks, and workstations in India rose 10.2% year-over-year to 15.9 million units in 2025, according to analysts at IDC. The total marks the first time annual shipments have crossed the 15-million-unit milestone, surpassing the peaks seen in 2021 and 2022.\nPandemic-driven lockdowns exposed many people in India to PCs for the first time, expanding the country’s PC userbase and creating demand for upgrades as those devices age, Bharath Shenoy, a research manager at IDC, told TechCrunch. Growing digitization, rising PC adoption among startups and small businesses, and wider availability of devices in smaller cities have also supported demand, he added.\nIndia’s share of global PC shipments rose to 5.6% in 2025 from 3.3% in 2020, IDC data shared with TechCrunch shows. Worldwide PC shipments grew 8.1% to 284.7 million units in 2025, according to IDC’s earlier report. The South Asian nation remains one of the fastest-growing PC markets as demand expands beyond major cities.\nCommercial buyers accounted for 52.9% of PC shipments in India in 2025, while the consumer segment made up the remaining 47.1%, IDC said.\nEnterprise purchases were partly driven by a Windows refresh cycle last year, while many small and medium-sized businesses and some public sector organizations are now beginning to replace older devices, Shenoy told TechCrunch.\nHP, Lenovo, Dell, Acer, and Asus were among the top PC vendors in India last year, IDC said. However, Apple’s Mac computers hold a smaller share of India’s personal computer market than in the U.S. MacBooks accounted for about 5.6% of India’s notebook market in 2025, compared with roughly 11% to 12% globally and around 20% in the U.S., according to IDC.\nImage Credits:IDC\nMacBooks’ share of India’s notebook market peaked at 7.4% in 2022, up from 3.9% in 2020, IDC data shows.\nAbout 85% to 87% of Mac shipments in India come from the consumer segment, Shenoy said, reflecting Apple’s limited presence in enterprise purchases. The premium notebook segment — devices priced above $1,000 — grew 8.2% year-over-year in 2025, indicating steady demand for higher-end devices.\nDemand for Macs in India could see an uptick as Apple this week introduced its lower-priced MacBook Neo, while Windows notebooks are becoming more expensive, Shenoy said. The Cupertino company is also focusing on expanding its presence in the commercial segment, which could help it gain market share, he added.\nApple did not respond to a request for comment.\nArtificial intelligence features are also beginning to appear in premium laptops, though they are not yet a major driver of PC demand in India, Shenoy said. Many enterprises that previously bought premium notebooks are now opting for AI-enabled PCs as they come within the same budget range, while demand from content creators could also support adoption as digital media consumption rises, he added.\nDespite the strong performance last year, the market could face headwinds in the near term as rising prices and component shortages weigh on demand, Shenoy also noted. PC shipments in India could decline about 5% in 2026, compared with a low double-digit drop expected globally, he said.\nIndia is still expected to perform better than many other markets because of its relatively low PC penetration and the scale of demand, Shenoy told TechCrunch. PC penetration in the country is estimated at around 17% to 20%, leaving significant room for growth as digital adoption spreads across households and businesses.\nThe market could remain under pressure into 2027 before returning to growth as demand from businesses and consumers stabilizes, Shenoy said.\n\n\n\t\tJagmeet covers startups, tech policy-related updates, and all other major tech-centric developments from India for TechCrunch. He previously worked as a principal correspondent at NDTV. \r\nYou can contact or verify outreach from Jagmeet by emailing mail@journalistjagmeet.com.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "India PC shipments surpass pandemic peak as first-time users upgrade",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/03/computers-india-1585282291.jpg?w=150"
+      ],
+      "datePublished": "2026-03-06T17:51:49.000Z",
+      "dateModified": "2026-03-06T17:51:49.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Anthropic to challenge DOD’s supply-chain label in court",
+    "url": "https://techcrunch.com/2026/03/05/anthropic-to-challenge-dods-supply-chain-label-in-court/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-03-06T01:28:54.000Z",
+    "description": "\nDario Amodei said Thursday that Anthropic plans to challenge the Department of Defense’s decision to label the AI firm a supply-chain risk in court, ",
+    "body": "\nDario Amodei said Thursday that Anthropic plans to challenge the Department of Defense’s decision to label the AI firm a supply-chain risk in court, a designation he has called “legally unsound.”\nThe statement comes a few hours after the DOD officially designated Anthropic a supply-chain risk following a weeks-long dispute over how much control the military should have over AI systems. A supply-chain risk designation can bar a company from working with the Pentagon and its contractors. Amodei drew a firm line that Anthropic’s AI will not be used for mass surveillance of Americans or for fully autonomous weapons, but the Pentagon believed it should have unrestricted access for “all lawful purposes.”\nIn his statement, Amodei said the vast majority of Anthropic’s customers are unaffected by the supply-chain risk designation.\n“With respect to our customers, it plainly applies only to the use of Claude by customers as a direct part of contracts with the Department of War, not all use of Claude by customers who have such contracts,” he said.\nAs a preview of what Anthropic will likely argue in court, Amodei said the Department’s letter labeling the firm a supply-chain risk is narrow in scope.\n“It exists to protect the government rather than to punish a supplier; in fact, the law requires the Secretary of War to use the least restrictive means necessary to accomplish the goal of protecting the supply chain,” Amodei said. “Even for Department of War contractors, the supply chain risk designation doesn’t (and can’t) limit uses of Claude or business relationships with Anthropic if those are unrelated to their specific Department of War contracts.”\nAmodei reiterated that Anthropic had been having productive conversations with the DOD over the last several days, conversations that some suspect got derailed when an internal memo he sent to staff was leaked. In it, Amodei characterized rival OpenAI’s dealings with the Department of Defense as “safety theater.”\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nOpenAI has signed a deal to work with the DOD in Anthropic’s place, a move that has sparked backlash among OpenAI staff.\nAmodei apologized for the leak in his Thursday statement, claiming that the company did not intentionally share the memo or direct anyone else to do so. “It is not in our interest to escalate the situation,” he said. \nAmodei said the memo was written within “a few hours” of a series of announcements, including a presidential Truth Social post saying Anthropic would be removed from federal systems, then Defense Secretary Pete Hegseth’s supply-chain risk designation, and finally the Pentagon’s deal announcement with OpenAI. He apologized for the tone, calling it “a difficult day for the company” and said the memo didn’t reflect his “careful or considered views.” Written six days ago, he added, it’s now an “out-of-date assessment.”\nHe finished by saying Anthropic’s top priority is to ensure American soldiers and national security experts maintain access to important tools in the middle of ongoing major combat operations. Anthropic is currently supporting some of the U.S.’s operations in Iran, and Amodei said the company would continue to provide its models to the DOD at “nominal cost” for “as long as necessary to make that transition.”\nAnthropic could challenge the designation in federal court, likely in Washington, but the law behind the decision makes it harder to contest because it limits the usual ways companies can challenge government procurement decisions and gives the Pentagon broad discretion on national security matters.\nOr as Dean Ball — a former Trump-era White House adviser on AI who has spoken out against Hegseth’s treatment of Anthropic — put it: “Courts are pretty reluctant to second-guess the government on what is and is not a national security issue … There’s a very high bar that one needs to clear in order to do that. But it’s not impossible.”\n\n\n\t\tRebecca Bellan is a senior reporter at TechCrunch where she covers the business, policy, and emerging trends shaping artificial intelligence. Her work has also appeared in Forbes, Bloomberg, The Atlantic, The Daily Beast, and other publications. \r\nYou can contact or verify outreach from Rebecca by emailing rebecca.bellan@techcrunch.com or via encrypted message at rebeccabellan.491 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Anthropic to challenge DOD’s supply-chain label in court",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-.jpg?w=150"
+      ],
+      "datePublished": "2026-03-06T01:28:54.000Z",
+      "dateModified": "2026-03-06T01:28:54.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "After Europe, WhatsApp will let rival AI companies offer chatbots in Brazil",
+    "url": "https://techcrunch.com/2026/03/06/after-europe-whatsapp-will-let-rival-ai-companies-offer-chatbots-in-brazil/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/08/whatsapp-getty.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-03-06T13:20:43.000Z",
+    "description": "\nMeta is now allowing rival AI companies to provide their chatbots on WhatsApp to Brazilian users for a fee, a day after the company confirmed a simil",
+    "body": "\nMeta is now allowing rival AI companies to provide their chatbots on WhatsApp to Brazilian users for a fee, a day after the company confirmed a similar decision for users in Europe.\nEarlier this week, Brazil’s antitrust regulator CADE ruled against Meta and rejected its appeal to block an earlier order to suspend its policy change that seeks to bar third-party AI chatbots on WhatsApp.\n“Upon reviewing the case, the CADE Tribunal determined that the necessary requirements for maintaining the preventive measure were present. According to the case rapporteur, Councilor Carlos Jacques, there is evidence of legal plausibility, considering the relevance of WhatsApp in the Brazilian instant messaging services market,” CADE’s ruling reads.\nThe regulator added that banning third-party AI chatbots on WhatsApp “would not be proportionate” and could result in competitive harm.\nMeta said in response that it would let third-party AI chatbot providers use its WhatsApp Business API to offer their services on the app for a fee, wherever it is legally required to do so. The company will charge $0.0625 per “non-template message” in Brazil from March 11.\n“Where we are legally required to provide AI chatbots through the WhatsApp business API, we are introducing pricing for the companies that choose to use our platform to provide those services,” a Meta spokesperson said.\nMeta announced the policy change last October, which spurred several antitrust investigations, particularly because the company offers its own AI chatbot, Meta AI, inside WhatsApp. The company has maintained that its WhatsApp Business API was not designed to cater to AI chatbots and that they put a strain on the company’s system.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nWhile Meta is now allowing third-party chatbots in some regions because of regulations, developers tell TechCrunch that they are hesitant to resume services, saying the pricing set by Meta is high and could result in high costs.\nZapia, one of the companies that filed the complaint with CADE in Brazil, welcomed the decision.\n“Competition and preventing powerful companies from limiting how innovation reaches users. At Zapia, we believe people should be free to choose the AI tools they use, and innovation only thrives when the platforms people rely on every day remain open. We will continue challenging these restrictions across the rest of Latin America, and we now look forward to seeing how Meta adapts its policies in Brazil to comply with the decision,” it said in a statement. \n\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "After Europe, WhatsApp will let rival AI companies offer chatbots in Brazil",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2023/08/whatsapp-getty.jpg?w=150"
+      ],
+      "datePublished": "2026-03-06T13:20:43.000Z",
+      "dateModified": "2026-03-06T13:20:43.000Z",
       "author": [
         {
           "@type": "Person",
@@ -350,6 +275,56 @@
     }
   },
   {
+    "title": "City Detect, which uses AI to help cities stay safe and clean, raises $13M Series A",
+    "url": "https://techcrunch.com/2026/03/06/city-detect-uses-ai-to-help-cities-stay-safe-and-clean/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/CIty-Detect.webp?w=150",
+    "tag": "Tech",
+    "date": "2026-03-06T14:00:00.000Z",
+    "description": "\nCity Detect, a company that uses vision AI to help local governments monitor the health of buildings and neighborhoods, announced on Friday a $13 mil",
+    "body": "\nCity Detect, a company that uses vision AI to help local governments monitor the health of buildings and neighborhoods, announced on Friday a $13 million Series A round led by Prudence Venture Capital.\nThe startup launched in 2021, and Gavin Baum-Blake, the remaining co-founder, serves as CEO. He said the company was founded in part because cities were struggling to deal with “urban blight and decay.” The idea was to use advanced computer vision and AI technology to help cities track and fix such problems.\nCity Detect mounts cameras on public vehicles like garbage trucks and street sweepers, captures photos of surrounding buildings as those vehicles pass, then uses computer vision to analyze the images. It’s essentially a Google Maps Street View, but focused on ensuring buildings are up to code. \n“The problems could be graffiti, illegal dumping, litter that’s on the side of the road,” Baum-Blake told TechCrunch. Then, City Detect works with local governments to fix the issues, a process that usually involves local officials sending a crew out to clean everything up. \nRight now, tracking dilapidated buildings is very manual, so Baum-Blake considers his competition to be the “status quo.” \n“They’re able to do 50 per week,” he said of humans tasked with keeping track of decaying buildings, “whereas we’re able to do thousands per week.”\nThe product, which Baum-Blake has patented, has some fun and essential features. The latter is that faces and license plates are always blurred for privacy reasons; the former is that City Detect’s technology can distinguish between street art and vandalism. It also helps governments track whether landlords are not properly maintaining their buildings. \n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n“We’re able to see if there’s structural roof issues or we’re able to identify if there’s been storm damage,” Baum-Blake continued.\nCity Detect is in at least 17 cities and works with local governments in places like Dallas and Miami. The company has raised $15 million in funding to date and is a member of the GovAI Coalition (an AI governance collective), is SOC 2 Type II compliant (meaning it’s independently certified for privacy), and follows its own responsible AI policy. \n“We published our Responsible AI policy in response to a consortium of local governments that stated they were looking for clarity on what vendors were actually willing to commit to,” Baum-Blake said. “We committed to this policy so that our local government partners could know what to expect from us.” \nBaum-Blake said the new funding will be used to hire more engineers and advance some of the storm-detection damage technology. It also wants to expand throughout the U.S. \n“We are seeing huge efficiency gains across the departments that we work with, we’re seeing more instances of blight being solved without anyone receiving a citation, we’re seeing tires and litter, and illegal dumping being abated quicker and detected quicker,” he said. “It’s exciting to see technology-forward municipalities lean into predictive AI like City Detect’s models.” \nZeal Capital Partners, Knoll Ventures, and Las Olas Venture Capital also participated in the round. \n\n\n\t\tDominic-Madori Davis is a senior venture capital and startup reporter at TechCrunch. She is based in New York City.\r\nYou can contact or verify outreach from Dominic by emailing dominic.davis@techcrunch.com or via encrypted message at +1 646 831-7565 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "City Detect, which uses AI to help cities stay safe and clean, raises $13M Series A",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/03/CIty-Detect.webp?w=150"
+      ],
+      "datePublished": "2026-03-06T14:00:00.000Z",
+      "dateModified": "2026-03-06T14:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Bill Gates’ TerraPower gets approval to build new nuclear reactor",
+    "url": "https://techcrunch.com/2026/03/06/bill-gates-terrapower-gets-approval-to-build-new-nuclear-reactor/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/terrapower-groundbreaking-bill-gates.jpeg?w=150",
+    "tag": "Tech",
+    "date": "2026-03-06T19:47:40.000Z",
+    "description": "\nThe Nuclear Regulatory Commission (NRC) gave TerraPower the go-ahead this week to build a new nuclear reactor in the shadow of an aging coal power pl",
+    "body": "\nThe Nuclear Regulatory Commission (NRC) gave TerraPower the go-ahead this week to build a new nuclear reactor in the shadow of an aging coal power plant in Wyoming.\nTerraPower’s permit is the first to be issued by the NRC in nearly a decade. The startup — founded by Bill Gates in 2015 and backed by Nvidia — has been designing its Natrium reactor with GE Vernova Hitachi. The final power plant will generate 345 megawatts, which is about two-thirds smaller than modern full-size reactors, but multiple times larger than many small modular reactor designs favored by other startups.\nNatrium differs from other reactors not just in scale, but also in the details of its design. Where most nuclear reactors built in the last 50 years have been cooled by water, Natrium is cooled by molten sodium, which TerraPower says should be safer. This is the first time a commercial reactor that is not cooled by regular water has been approved by the NRC in more than 40 years.\nThe reactor will operate with an excess of molten sodium, which will be stored in large, insulated tanks. This allows atoms to keep splitting when demand is low, with the hot sodium saving that energy, which can be used to fill in any lulls in wind and solar output. Since nuclear power plants operate best near full capacity, storing excess energy as heat should help lower generating costs.\nThe NRC’s approval is notable because TerraPower followed the long-established permitting process, giving it permission to build on private property. The Department of Energy recently loosened its safety rules, but those regulations only apply to land owned by the agency.\nTerraPower is one of nearly half a dozen nuclear startups backed by tech companies or their founders. As electricity demand from data centers grows, the Trump administration has come under pressure to boost generating capacity, including by building new nuclear reactors.\nInvestors have taken note of the two trends, and in recent months, they’ve showered nuclear startups with well over $1 billion in capital. TerraPower alone has raised a total of $1.7 billion, including a $650 million round that closed in June, according to PitchBook.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nDespite the momentum, nuclear power still faces an uphill battle. To date, nuclear has been one of the most expensive forms of new generating capacity. Part of that is due to cost overruns at massive power plants, but it also reflects the tremendous strides that solar, wind, and batteries have made in bringing costs down over the years. \nNuclear startups are hoping to leverage mass manufacturing to rein in capital expenditures, but the theory has yet to be proven. And while manufacturing can help cut costs, it often takes at least a decade for the savings to materialize.\n\n\n\t\tTim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor. \r\nDe Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.\r\nYou can contact or verify outreach from Tim by emailing tim.dechant@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Bill Gates’ TerraPower gets approval to build new nuclear reactor",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/03/terrapower-groundbreaking-bill-gates.jpeg?w=150"
+      ],
+      "datePublished": "2026-03-06T19:47:40.000Z",
+      "dateModified": "2026-03-06T19:47:40.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "India’s Karnataka signals intent to ban social media for under-16s",
     "url": "https://techcrunch.com/2026/03/06/indias-karnataka-signals-intent-to-ban-social-media-for-under-16s/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/06/social-media-icons.jpg?w=150",
@@ -366,6 +341,31 @@
       ],
       "datePublished": "2026-03-06T13:35:57.000Z",
       "dateModified": "2026-03-06T13:35:57.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
+    "url": "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/Screenshot-2025-04-04-at-1.14.37PM.png?w=150",
+    "tag": "Tech",
+    "date": "2026-03-06T19:50:10.000Z",
+    "description": "\nEnterprises and startups that use Anthropic Claude through Microsoft and Google products need not fear that the model will be ripped from their reach",
+    "body": "\nEnterprises and startups that use Anthropic Claude through Microsoft and Google products need not fear that the model will be ripped from their reach, Microsoft and Google confirmed to TechCrunch. AWS customers and partners can also reportedly continue to use Claude for their non-defense associated workloads.\nMicrosoft was the first big tech company to offer assurance that Anthropic’s models will remain available to its customers even though the Trump administration’s Department of War — formally known as the Department of Defense — has escalated its feud with Anthropic.\nThe Defense Department officially designated the American AI startup as a supply-chain risk on Thursday after the AI company refused to give it unrestricted access to its tech for applications the company said its AI could not safely support, such as mass surveillance and fully autonomous weapons.\nThe supply-chain risk designation is typically reserved for foreign adversaries. For Anthropic, the designation means that the Pentagon won’t be able to use the company’s products once it transitions Claude off its systems. It also requires any company or agency that works with the Pentagon to certify that they don’t use Anthropic’s models, either. Anthropic has vowed to fight the designation in court.\nMicrosoft sells an array of products, from Office to its cloud, to many federal agencies, including the Defense Department. A Microsoft spokesperson said that the company will continue making Anthropic’s models available within its own products and to Microsoft customers.\n“Our lawyers have studied the designation and have concluded that Anthropic products, including Claude, can remain available to our customers — other than the Department of War — through platforms such as M365, GitHub, and Microsoft’s AI Foundry, and that we can continue to work with Anthropic on non-defense related projects,” the spokesperson said in an email. CNBC first reported on the comment.\nGoogle, which sells cloud computing, AI, and productivity tools federal agencies, has also confirmed that it will continue to make Claude available to its customers.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n“We understand that the Determination does not preclude us from working with Anthropic on non-defense related projects, and their products remain available through our platforms, like Google Cloud,” a Google spokesperson said.\nCNBC also reported that AWS customers and partners can keep using Claude for their non-defense workloads. \nThis echoes what Anthropic CEO Dario Amodei said in his statement vowing to fight the designation.\n“With respect to our customers, it plainly applies only to the use of Claude by customers as a direct part of contracts with the Department of War, not all use of Claude by customers who have such contracts,” Amodei said, adding, “Even for Department of War contractors, the supply chain risk designation doesn’t (and can’t) limit uses of Claude or business relationships with Anthropic if those are unrelated to their specific Department of War contracts.”\nIn the meantime, Claude’s consumer growth surge has continued after Anthropic refused to give in to the department’s demands.\n\nLoading the player…\n \n\n\n\t\tRebecca Bellan is a senior reporter at TechCrunch where she covers the business, policy, and emerging trends shaping artificial intelligence. Her work has also appeared in Forbes, Bloomberg, The Atlantic, The Daily Beast, and other publications. \r\nYou can contact or verify outreach from Rebecca by emailing rebecca.bellan@techcrunch.com or via encrypted message at rebeccabellan.491 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/04/Screenshot-2025-04-04-at-1.14.37PM.png?w=150"
+      ],
+      "datePublished": "2026-03-06T19:50:10.000Z",
+      "dateModified": "2026-03-06T19:50:10.000Z",
       "author": [
         {
           "@type": "Person",
