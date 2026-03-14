@@ -25,106 +25,6 @@
     }
   },
   {
-    "title": "Nyne, founded by a father-son duo, gives AI agents the human context they’re missing",
-    "url": "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Nyne.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-03-13T21:37:01.000Z",
-    "description": "\nAI agents are expected to soon start making autonomous purchasing and scheduling decisions on behalf of humans.\nBut Michael Fanous, a UC Berkeley com",
-    "body": "\nAI agents are expected to soon start making autonomous purchasing and scheduling decisions on behalf of humans.\nBut Michael Fanous, a UC Berkeley computer science graduate and former machine learning engineer at CareRev, argues that these agents are currently missing a critical piece of the puzzle: the full context required to truly understand the people they are programmed to serve.\nFanous claims that machines currently struggle to discern whether a person’s professional profile on LinkedIn, their activity on Instagram, and their public government records all belong to the same human being.\nTo solve this, he teamed up with his father, Emad Fanous, a veteran CTO, to build Nyne, a startup aiming to become the intelligence layer that helps agents understand humans across their entire digital footprint.\nOn Friday, Nyne announced it raised $5.3 million in seed funding led by Wischoff Ventures and South Park Commons, with participation from several angel investors, including Gil Elbaz, the co-founder of Applied Semantics and a pioneer of Google AdSense.\nWhile it may seem that Nyne is tackling an issue already solved by classic machine learning — given how effective Google’s ad targeting is at identifying its users — CEO Michael Fanous argues otherwise. Google’s “secret sauce” is its exclusive access to users’ search histories and cross-platform activity, a data advantage the tech giant will never share with external agents, he said.\nFor everyone else, “this is an oddly hard problem to solve,” explained Nichole Wischoff, founder of the solo VC fund Wischoff Ventures, which backed the deal. \nFanous told TechCrunch that Nyne tackles the problem by deploying millions of agents across the internet to analyze public digital footprints and then applying machine learning techniques to that data.\nNyne can triangulate information about a person by looking across not only major social networks like Instagram, Facebook, and X, but also their activity on apps like SoundCloud and Strava.\nLater, as more consumer-facing companies deploy AI agents, they can turn to Nyne to give those agents a deeper, real-world understanding of both existing and potential customers.\n“I can give them any piece of information about a person that could be useful to make the right next action,” Fanous said. “Once you make all these connections, you can understand a person fairly deeply, their interests, their hobbies, and how they think about very specific things,” he added.\nAccording to Wischoff, the market for this data is massive and valuable to any company using AI agents to reach out to customers.\n“How do I know you’re pregnant and sell you A, B, or C as early as possible?” she said.\nWhile previous generations of adtech companies were able to gather some of this data, Nyne intends to do this for the world of agents with much more precision.\nAs for how the father-son duo works together, the CEO says he has an ideal partnership with his CTO and dad.\n“I think with co-founders, it becomes easy to walk away when things don’t work,” Fanous said. “If I have to ping him at three in the morning to finish a launch, I know he’s going to still love me the next day.”\n\n\n\t\tMarina Temkin is a venture capital and startups reporter at TechCrunch. Prior to joining TechCrunch, she wrote about VC for PitchBook and Venture Capital Journal. Earlier in her career, Marina was a financial analyst and earned a CFA charterholder designation.\r\nYou can contact or verify outreach from Marina by emailing marina.temkin@techcrunch.com or via encrypted message at +1 347-683-3909 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Nyne, founded by a father-son duo, gives AI agents the human context they’re missing",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/03/Nyne.jpg?w=150"
-      ],
-      "datePublished": "2026-03-13T21:37:01.000Z",
-      "dateModified": "2026-03-13T21:37:01.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Digg lays off staff and shuts down app as company retools",
-    "url": "https://techcrunch.com/2026/03/13/digg-lays-off-staff-and-shuts-down-app-as-company-retools/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/03/Digg.png?w=150",
-    "tag": "Tech",
-    "date": "2026-03-13T21:51:17.000Z",
-    "description": "\nDigg — Kevin Rose’s reboot of his once-popular link-sharing site — is laying off a sizable portion of its staff, the company announced on Friday. The",
-    "body": "\nDigg — Kevin Rose’s reboot of his once-popular link-sharing site — is laying off a sizable portion of its staff, the company announced on Friday. The startup is not closing, however, Digg CEO Justin Mezzell said. Instead, Rose will return to work on Digg full-time as the company tries to find its footing.\nRose will continue to work as an advisor at investing firm True Ventures, but will make Digg his primary focus from here on out.\nThe startup had set out to offer an alternative to existing community forums, where people could post and share links, media, and text, and engage in topical discussions. But while Digg had clever ideas on how to better moderate content and verify that users were who they claimed to be, the company admits it was overwhelmed by bots even in its earliest days.\nNodding to the “dead internet theory,” which claims today’s web is more bots than people, Mezzell describes the problem of combating bot spam in a post on the Digg website.\n“When the Digg beta launched, we immediately noticed posts from SEO spammers noting that Digg still carried meaningful Google link authority,” the blog post about the layoffs states. “Within hours, we got a taste of what we’d only heard rumors about. The internet is now populated, in meaningful part, by sophisticated AI agents and automated accounts. We knew bots were part of the landscape, but we didn’t appreciate the scale, sophistication, or speed at which they’d find us.”\nThe company said it banned tens of thousands of accounts, deployed internal tooling, and worked with external vendors, but it wasn’t enough. For a site that relied on user votes to rank content, an uncontrollable bot problem meant those votes couldn’t be trusted.\n“This isn’t just a Digg problem. It’s an internet problem,” Mezzell notes.\nMezzell also said that taking on established rivals (likely a reference to Reddit) was too hard, calling the competition not just a moat but a wall.\nThe company didn’t share how many people were affected by the layoffs, but said that a small team will continue to rebuild Digg as something “genuinely different.” The Digg app has been pulled from the App Store, and the layoff post is currently the only content on Digg’s website. The Diggnation podcast — a video show Rose hosts — will continue, however.\nFor context, Rose and Reddit co-founder Alexis Ohanian acquired what remained of the old Digg earlier last year, intending to build up a site where communities had more moderator and admin control and ownership. The deal was a leveraged buyout involving True Ventures, Ohanian’s firm Seven Seven Six, Rose and Ohanian personally, and the venture firm S32. Funding details weren’t made public.\nDigg was not immediately available for comment.\n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Digg lays off staff and shuts down app as company retools",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/03/Digg.png?w=150"
-      ],
-      "datePublished": "2026-03-13T21:51:17.000Z",
-      "dateModified": "2026-03-13T21:51:17.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Facebook makes it easier for creators to report impersonators",
-    "url": "https://techcrunch.com/2026/03/13/facebook-makes-it-easier-for-creators-to-report-impersonators/",
-    "image": "https://techcrunch.com/wp-content/uploads/2021/09/Facebook-Reels-Experience.png?w=150",
-    "tag": "Tech",
-    "date": "2026-03-13T20:48:43.000Z",
-    "description": "\nAfter widespread complaints that Facebook has become an “AI slop hellscape,” Meta on Friday announced new tools to detect impersonation, as well as u",
-    "body": "\nAfter widespread complaints that Facebook has become an “AI slop hellscape,” Meta on Friday announced new tools to detect impersonation, as well as updated creator guidelines that better define what Facebook considers to be “original content.”\nLast year, the company announced a crackdown on spammy and unoriginal content — things like repeatedly reusing someone else’s photos, videos, or text. The goal: elevate original creator content in its feeds and push back against the AI-generated slop and other low-quality posts that had been dragging down Facebook’s reputation.\nThis is key to Facebook’s continued success as a creator platform. Simply put, if unoriginal content and AI slop drown out original voices and reduce creators’ ability to monetize, Facebook will no longer be a destination they prefer.\nMeta now says its earlier efforts caused both views of and time spent watching original content on Facebook to approximately double during the second half of 2025, compared with the same period the year before.\nIt also said it has made progress on removing impersonators, with 20 million accounts removed in total last year and a 33% drop in the number of impersonation reports targeting large creators.\nImage Credits:Facebook\nNow, Facebook says it’s testing enhancements to its content protection tools. These allow creators to take action when their reels are detected across Facebook’s platforms after being published by impersonators. From a central dashboard, creators can flag that content. With the upcoming update, Meta aims to make the reporting process even easier by allowing creators to submit reports all in one place.\nHowever, the current tool is focused on matching duplicate content — not detecting unauthorized use of a creator’s likeness — which is another area that needs addressing.\nMeta is not the only company struggling with the impact that AI technology has had on its community. This week, YouTube also announced it would expand its AI deepfake detection tools to politicians, public figures, and journalists. \nAs part of these changes, Meta said it’s updating Facebook’s content guidelines to better define what it means by “original.” This now includes content that’s “filmed or produced directly by a creator” and reels that remix other content or use overlays to present something new — like analysis, discussion, or new information. Meanwhile, content that involves minor edits to a creator’s work or is duplicative of that will be deemed unoriginal and deprioritized. That means things like re-uploads or other low-value changes, like adding borders or captions, won’t be enough to differentiate the unoriginal content from its source.\n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Facebook makes it easier for creators to report impersonators",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2021/09/Facebook-Reels-Experience.png?w=150"
-      ],
-      "datePublished": "2026-03-13T20:48:43.000Z",
-      "dateModified": "2026-03-13T20:48:43.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Travis Kalanick launches a new company called Atoms focused on robotics",
-    "url": "https://techcrunch.com/2026/03/13/travis-kalanick-launches-a-new-company-called-atoms-focused-on-robotics/",
-    "image": "https://techcrunch.com/wp-content/uploads/2018/12/GettyImages-630043956.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-03-13T19:28:00.000Z",
-    "description": "\nUber founder Travis Kalanick has a new company called Atoms focused on robotics that, according to its website, will operate in the food, mining, and",
-    "body": "\nUber founder Travis Kalanick has a new company called Atoms focused on robotics that, according to its website, will operate in the food, mining, and transportation industries.\nKalanick is rolling his existing ghost kitchen company, CloudKitchens, into Atoms. It’s not immediately clear how he plans to tackle mining and transportation. Atoms’ website says it will build a “wheelbase for robots,” and Kalanick said in a live interview with TBPN on Friday that his company will apply this wheelbase to “specialized robots” — not humanoids.\n“Humanoids have their place, but there’s a lot of room for specialized robots that do things in an efficient, sort of industrial-scale kind of way, which is sort of where we play,” he said. \nTo support the mining business, Kalanick said Friday that he’s on the precipice of acquiring Pronto, the autonomous vehicle startup focused on industrial and mining sites that was created by his former Uber colleague, Anthony Levandowski. Kalanick revealed Friday that he is already the “largest investor” in Pronto. \n“The industrial thing is sort of like, probably, our main jam,” Kalanick told TBPN. Kalanick demurred on the idea of using Atoms robots to move people, at least in the near-term. “Once you crack movement in the physical world, there’s lots of people who want access to that.”\nEarlier Friday The Information reported Kalanick was getting back into self-driving vehicles with “major backing” from Uber, and that he has reportedly told people he “wants to be more aggressive in rolling out self-driving technology than Waymo.” Uber didn’t immediately respond to a request for comment. Atoms’ website makes no mention of Uber. The Information first reported Kalanick was discussing acquiring Pronto.\nLast year, Kalanick was said to be interested in buying the U.S. arm of Chinese self-driving vehicle company Pony AI with backing from Uber, though The Information said Friday that those talks ended.\nKalanick resigned from Uber in 2017 after a confluence of crises at the ride-hail company. At the time, the company was plagued by complaints of sexual harassment and discrimination, which sparked an external investigation that resulted in more than 20 employees being fired.\nBefore that, Kalanick had created a self-driving division at Uber in 2015. Levandowski played a big role in that project after Kalanick lured him away from Google. Uber was ultimately sued by Google for stealing secrets related to its own self-driving car project (which eventually became Waymo). The two companies settled, but Levandowski was criminally charged and sentenced to 18 months in prison for his role in the affair. The engineer received a last-minute pardon from President Trump at the end of his first term.\nThe company kept working on the project after Kalanick resigned, including after one of its test vehicles struck and killed a pedestrian in 2018. Kalanick’s successor, Dara Khosrowshahi, shuttered and sold the division to autonomous trucking company Aurora in 2020.\nIn a rare interview in March 2025, Kalanick expressed regret that Uber had abandoned developing its own self-driving cars.\nThis story has been updated to reflect new information from Atoms’ website and an interview with Kalanick.\n\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Travis Kalanick launches a new company called Atoms focused on robotics",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2018/12/GettyImages-630043956.jpg?w=150"
-      ],
-      "datePublished": "2026-03-13T19:28:00.000Z",
-      "dateModified": "2026-03-13T19:28:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Apple drops commission rates in China without a fuss",
     "url": "https://techcrunch.com/2026/03/13/apple-drops-commission-rates-in-china-25-percent/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/01/RedNote-GettyImages-2193805638.jpg?w=150",
@@ -175,22 +75,47 @@
     }
   },
   {
-    "title": "Channel Surfer lets you watch YouTube like it’s old-school cable TV",
-    "url": "https://techcrunch.com/2026/03/12/channel-surfer-watch-youtube-retro-cable-tv-guide/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/channel-surfer-3.jpg?w=150",
+    "title": "Digg lays off staff and shuts down app as company retools",
+    "url": "https://techcrunch.com/2026/03/13/digg-lays-off-staff-and-shuts-down-app-as-company-retools/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/03/Digg.png?w=150",
     "tag": "Tech",
-    "date": "2026-03-12T20:27:17.000Z",
-    "description": "\nThere’s a fun new way to watch YouTube: by channel surfing like a boomer with cable TV. This creative idea comes from London-based developer Steven I",
-    "body": "\nThere’s a fun new way to watch YouTube: by channel surfing like a boomer with cable TV. This creative idea comes from London-based developer Steven Irby, who has just launched a web app called Channel Surfer, which presents interesting YouTube videos in an interface resembling a retro-looking TV guide.\nIn the app, you can browse through different, topic-focused channels and click to tune in as if you were watching live TV.  \nAt launch, there are 40 of these custom-built “channels” to choose from, including those focused on general topics like news, politics, sports, and lifestyle content, as well as a selection of music channels and others with a more tech focus. \nThe latter group includes channels like “AI & ML,” “Code & Dev,” “Space,” “Retro Tech,” “Tech & Gadgets,” and “Gaming.” \nImage Credits:Channel Surfer\nAs you move between channels, you join the video being played mid-stream. Meanwhile, the guide informs you of the upcoming content on all the channels and what time of day it will play. You can also scroll ahead to look at programming planned for the next 24 hours.\nThis makes watching YouTube feel a lot like watching old-school live television — an experience that’s proven popular on free streaming services like Plex, Pluto TV, Tubi, and others, which offer lineups of live channels playing TV shows and movies. YouTube itself, meanwhile, dominates TV streaming in the U.S.\nPlus, a small counter at the bottom of the screen tracks how many other people are currently watching YouTube with you. \nImage Credits:Channel Surfer\nIrby says he came up with the idea to build a similar experience at the streamers, but for YouTube videos, because finding something to watch can still be a struggle.\n“I built Channel Surfer because I’m tired of the algorithms and indecision fatigue,” Irby told TechCrunch. “I miss channel surfing and not having to decide what to watch. I want to just sit and tune into what’s on and not think about what to watch next.” \n“My boomer Mom watches cable TV. I want the same, but with my YouTube channels instead. Also, it’s weirdly comforting to know I’m watching with other people,” he said.\nThe project is one of many new experiments from Irby, a 40-year-old tech industry veteran who has spent the past decade-plus traveling the world. \n“I have so much creativity from my long, weird journey. I can’t bear the thought of being a Jira ticket monkey anymore,” he said. \nThe app seems to be a hit, with Irby noting that Channel Surfer’s brand-new website saw more than 10,000 views on its first day.\n\nUnder the hood, Channel Surfer is, for now, a static Next.js site that uses PartyKit and is hosted on Cloudflare. The channels and music it offers are from Ibry’s own hand-picked list. GitHub Actions is used to run a script that refreshes the data daily. There’s no back end yet.\nAnd while Claude assisted in the coding process, the site is not “vibe-coded,” Irby says.\nThe channels themselves are essentially playing YouTube embeds, including YouTube’s ads, so the app should not be violating policy. Eventually, Irby says he’d love to bring the app to TV platforms, like Fire TV, Google TV, and others. (It also runs on mobile devices and tablets, but needs more work.)\nAt launch, Channel Surfer is a free service offering access to 175 YouTube channels and 25 music playlists. But if you subscribe to Irby’s newsletter, you’re given the option to import your own YouTube subscriptions into the app.\nIt’s a quick-and-dirty process to do so: You drag a “Channel Surfer” bookmarklet to your bookmarks bar, then open your YouTube subscriptions, and click the bookmarklet. The process begins, directing you back to the app where you paste the copied JSON text into a box and click an “import” button. This adds your own channels to Channel Surfer’s existing lineup, potentially giving you hundreds more channels to watch in this format.\nThe site’s existence harkens back to the web’s earlier days, filled with fun experiments and creativity. For Irby, that’s the point. \n“I’m obsessed with showing the world that the old web is still alive and well,” he says. “It’s just buried under a mountain of slop.” \n",
+    "date": "2026-03-13T21:51:17.000Z",
+    "description": "\nDigg — Kevin Rose’s reboot of his once-popular link-sharing site — is laying off a sizable portion of its staff, the company announced on Friday. The",
+    "body": "\nDigg — Kevin Rose’s reboot of his once-popular link-sharing site — is laying off a sizable portion of its staff, the company announced on Friday. The startup is not closing, however, Digg CEO Justin Mezzell said. Instead, Rose will return to work on Digg full-time as the company tries to find its footing.\nRose will continue to work as an advisor at investing firm True Ventures, but will make Digg his primary focus from here on out.\nThe startup had set out to offer an alternative to existing community forums, where people could post and share links, media, and text, and engage in topical discussions. But while Digg had clever ideas on how to better moderate content and verify that users were who they claimed to be, the company admits it was overwhelmed by bots even in its earliest days.\nNodding to the “dead internet theory,” which claims today’s web is more bots than people, Mezzell describes the problem of combating bot spam in a post on the Digg website.\n“When the Digg beta launched, we immediately noticed posts from SEO spammers noting that Digg still carried meaningful Google link authority,” the blog post about the layoffs states. “Within hours, we got a taste of what we’d only heard rumors about. The internet is now populated, in meaningful part, by sophisticated AI agents and automated accounts. We knew bots were part of the landscape, but we didn’t appreciate the scale, sophistication, or speed at which they’d find us.”\nThe company said it banned tens of thousands of accounts, deployed internal tooling, and worked with external vendors, but it wasn’t enough. For a site that relied on user votes to rank content, an uncontrollable bot problem meant those votes couldn’t be trusted.\n“This isn’t just a Digg problem. It’s an internet problem,” Mezzell notes.\nMezzell also said that taking on established rivals (likely a reference to Reddit) was too hard, calling the competition not just a moat but a wall.\nThe company didn’t share how many people were affected by the layoffs, but said that a small team will continue to rebuild Digg as something “genuinely different.” The Digg app has been pulled from the App Store, and the layoff post is currently the only content on Digg’s website. The Diggnation podcast — a video show Rose hosts — will continue, however.\nFor context, Rose and Reddit co-founder Alexis Ohanian acquired what remained of the old Digg earlier last year, intending to build up a site where communities had more moderator and admin control and ownership. The deal was a leveraged buyout involving True Ventures, Ohanian’s firm Seven Seven Six, Rose and Ohanian personally, and the venture firm S32. Funding details weren’t made public.\nDigg was not immediately available for comment.\n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Channel Surfer lets you watch YouTube like it’s old-school cable TV",
+      "headline": "Digg lays off staff and shuts down app as company retools",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/03/channel-surfer-3.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2025/03/Digg.png?w=150"
       ],
-      "datePublished": "2026-03-12T20:27:17.000Z",
-      "dateModified": "2026-03-12T20:27:17.000Z",
+      "datePublished": "2026-03-13T21:51:17.000Z",
+      "dateModified": "2026-03-13T21:51:17.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Nyne, founded by a father-son duo, gives AI agents the human context they’re missing",
+    "url": "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Nyne.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-03-13T21:37:01.000Z",
+    "description": "\nAI agents are expected to soon start making autonomous purchasing and scheduling decisions on behalf of humans.\nBut Michael Fanous, a UC Berkeley com",
+    "body": "\nAI agents are expected to soon start making autonomous purchasing and scheduling decisions on behalf of humans.\nBut Michael Fanous, a UC Berkeley computer science graduate and former machine learning engineer at CareRev, argues that these agents are currently missing a critical piece of the puzzle: the full context required to truly understand the people they are programmed to serve.\nFanous claims that machines currently struggle to discern whether a person’s professional profile on LinkedIn, their activity on Instagram, and their public government records all belong to the same human being.\nTo solve this, he teamed up with his father, Emad Fanous, a veteran CTO, to build Nyne, a startup aiming to become the intelligence layer that helps agents understand humans across their entire digital footprint.\nOn Friday, Nyne announced it raised $5.3 million in seed funding led by Wischoff Ventures and South Park Commons, with participation from several angel investors, including Gil Elbaz, the co-founder of Applied Semantics and a pioneer of Google AdSense.\nWhile it may seem that Nyne is tackling an issue already solved by classic machine learning — given how effective Google’s ad targeting is at identifying its users — CEO Michael Fanous argues otherwise. Google’s “secret sauce” is its exclusive access to users’ search histories and cross-platform activity, a data advantage the tech giant will never share with external agents, he said.\nFor everyone else, “this is an oddly hard problem to solve,” explained Nichole Wischoff, founder of the solo VC fund Wischoff Ventures, which backed the deal. \nFanous told TechCrunch that Nyne tackles the problem by deploying millions of agents across the internet to analyze public digital footprints and then applying machine learning techniques to that data.\nNyne can triangulate information about a person by looking across not only major social networks like Instagram, Facebook, and X, but also their activity on apps like SoundCloud and Strava.\nLater, as more consumer-facing companies deploy AI agents, they can turn to Nyne to give those agents a deeper, real-world understanding of both existing and potential customers.\n“I can give them any piece of information about a person that could be useful to make the right next action,” Fanous said. “Once you make all these connections, you can understand a person fairly deeply, their interests, their hobbies, and how they think about very specific things,” he added.\nAccording to Wischoff, the market for this data is massive and valuable to any company using AI agents to reach out to customers.\n“How do I know you’re pregnant and sell you A, B, or C as early as possible?” she said.\nWhile previous generations of adtech companies were able to gather some of this data, Nyne intends to do this for the world of agents with much more precision.\nAs for how the father-son duo works together, the CEO says he has an ideal partnership with his CTO and dad.\n“I think with co-founders, it becomes easy to walk away when things don’t work,” Fanous said. “If I have to ping him at three in the morning to finish a launch, I know he’s going to still love me the next day.”\n\n\n\t\tMarina Temkin is a venture capital and startups reporter at TechCrunch. Prior to joining TechCrunch, she wrote about VC for PitchBook and Venture Capital Journal. Earlier in her career, Marina was a financial analyst and earned a CFA charterholder designation.\r\nYou can contact or verify outreach from Marina by emailing marina.temkin@techcrunch.com or via encrypted message at +1 347-683-3909 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Nyne, founded by a father-son duo, gives AI agents the human context they’re missing",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/03/Nyne.jpg?w=150"
+      ],
+      "datePublished": "2026-03-13T21:37:01.000Z",
+      "dateModified": "2026-03-13T21:37:01.000Z",
       "author": [
         {
           "@type": "Person",
@@ -216,6 +141,56 @@
       ],
       "datePublished": "2026-03-13T19:47:58.000Z",
       "dateModified": "2026-03-13T19:47:58.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Travis Kalanick launches a new company called Atoms focused on robotics",
+    "url": "https://techcrunch.com/2026/03/13/travis-kalanick-launches-a-new-company-called-atoms-focused-on-robotics/",
+    "image": "https://techcrunch.com/wp-content/uploads/2018/12/GettyImages-630043956.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-03-13T19:28:00.000Z",
+    "description": "\nUber founder Travis Kalanick has a new company called Atoms focused on robotics that, according to its website, will operate in the food, mining, and",
+    "body": "\nUber founder Travis Kalanick has a new company called Atoms focused on robotics that, according to its website, will operate in the food, mining, and transportation industries.\nKalanick is rolling his existing ghost kitchen company, CloudKitchens, into Atoms. It’s not immediately clear how he plans to tackle mining and transportation. Atoms’ website says it will build a “wheelbase for robots,” and Kalanick said in a live interview with TBPN on Friday that his company will apply this wheelbase to “specialized robots” — not humanoids.\n“Humanoids have their place, but there’s a lot of room for specialized robots that do things in an efficient, sort of industrial-scale kind of way, which is sort of where we play,” he said. \nTo support the mining business, Kalanick said Friday that he’s on the precipice of acquiring Pronto, the autonomous vehicle startup focused on industrial and mining sites that was created by his former Uber colleague, Anthony Levandowski. Kalanick revealed Friday that he is already the “largest investor” in Pronto. \n“The industrial thing is sort of like, probably, our main jam,” Kalanick told TBPN. Kalanick demurred on the idea of using Atoms robots to move people, at least in the near-term. “Once you crack movement in the physical world, there’s lots of people who want access to that.”\nEarlier Friday The Information reported Kalanick was getting back into self-driving vehicles with “major backing” from Uber, and that he has reportedly told people he “wants to be more aggressive in rolling out self-driving technology than Waymo.” Uber didn’t immediately respond to a request for comment. Atoms’ website makes no mention of Uber. The Information first reported Kalanick was discussing acquiring Pronto.\nLast year, Kalanick was said to be interested in buying the U.S. arm of Chinese self-driving vehicle company Pony AI with backing from Uber, though The Information said Friday that those talks ended.\nKalanick resigned from Uber in 2017 after a confluence of crises at the ride-hail company. At the time, the company was plagued by complaints of sexual harassment and discrimination, which sparked an external investigation that resulted in more than 20 employees being fired.\nBefore that, Kalanick had created a self-driving division at Uber in 2015. Levandowski played a big role in that project after Kalanick lured him away from Google. Uber was ultimately sued by Google for stealing secrets related to its own self-driving car project (which eventually became Waymo). The two companies settled, but Levandowski was criminally charged and sentenced to 18 months in prison for his role in the affair. The engineer received a last-minute pardon from President Trump at the end of his first term.\nThe company kept working on the project after Kalanick resigned, including after one of its test vehicles struck and killed a pedestrian in 2018. Kalanick’s successor, Dara Khosrowshahi, shuttered and sold the division to autonomous trucking company Aurora in 2020.\nIn a rare interview in March 2025, Kalanick expressed regret that Uber had abandoned developing its own self-driving cars.\nThis story has been updated to reflect new information from Atoms’ website and an interview with Kalanick.\n\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Travis Kalanick launches a new company called Atoms focused on robotics",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2018/12/GettyImages-630043956.jpg?w=150"
+      ],
+      "datePublished": "2026-03-13T19:28:00.000Z",
+      "dateModified": "2026-03-13T19:28:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Facebook makes it easier for creators to report impersonators",
+    "url": "https://techcrunch.com/2026/03/13/facebook-makes-it-easier-for-creators-to-report-impersonators/",
+    "image": "https://techcrunch.com/wp-content/uploads/2021/09/Facebook-Reels-Experience.png?w=150",
+    "tag": "Tech",
+    "date": "2026-03-13T20:48:43.000Z",
+    "description": "\nAfter widespread complaints that Facebook has become an “AI slop hellscape,” Meta on Friday announced new tools to detect impersonation, as well as u",
+    "body": "\nAfter widespread complaints that Facebook has become an “AI slop hellscape,” Meta on Friday announced new tools to detect impersonation, as well as updated creator guidelines that better define what Facebook considers to be “original content.”\nLast year, the company announced a crackdown on spammy and unoriginal content — things like repeatedly reusing someone else’s photos, videos, or text. The goal: elevate original creator content in its feeds and push back against the AI-generated slop and other low-quality posts that had been dragging down Facebook’s reputation.\nThis is key to Facebook’s continued success as a creator platform. Simply put, if unoriginal content and AI slop drown out original voices and reduce creators’ ability to monetize, Facebook will no longer be a destination they prefer.\nMeta now says its earlier efforts caused both views of and time spent watching original content on Facebook to approximately double during the second half of 2025, compared with the same period the year before.\nIt also said it has made progress on removing impersonators, with 20 million accounts removed in total last year and a 33% drop in the number of impersonation reports targeting large creators.\nImage Credits:Facebook\nNow, Facebook says it’s testing enhancements to its content protection tools. These allow creators to take action when their reels are detected across Facebook’s platforms after being published by impersonators. From a central dashboard, creators can flag that content. With the upcoming update, Meta aims to make the reporting process even easier by allowing creators to submit reports all in one place.\nHowever, the current tool is focused on matching duplicate content — not detecting unauthorized use of a creator’s likeness — which is another area that needs addressing.\nMeta is not the only company struggling with the impact that AI technology has had on its community. This week, YouTube also announced it would expand its AI deepfake detection tools to politicians, public figures, and journalists. \nAs part of these changes, Meta said it’s updating Facebook’s content guidelines to better define what it means by “original.” This now includes content that’s “filmed or produced directly by a creator” and reels that remix other content or use overlays to present something new — like analysis, discussion, or new information. Meanwhile, content that involves minor edits to a creator’s work or is duplicative of that will be deemed unoriginal and deprioritized. That means things like re-uploads or other low-value changes, like adding borders or captions, won’t be enough to differentiate the unoriginal content from its source.\n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Facebook makes it easier for creators to report impersonators",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2021/09/Facebook-Reels-Experience.png?w=150"
+      ],
+      "datePublished": "2026-03-13T20:48:43.000Z",
+      "dateModified": "2026-03-13T20:48:43.000Z",
       "author": [
         {
           "@type": "Person",
@@ -300,6 +275,31 @@
     }
   },
   {
+    "title": "Channel Surfer lets you watch YouTube like it’s old-school cable TV",
+    "url": "https://techcrunch.com/2026/03/12/channel-surfer-watch-youtube-retro-cable-tv-guide/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/channel-surfer-3.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-03-12T20:27:17.000Z",
+    "description": "\nThere’s a fun new way to watch YouTube: by channel surfing like a boomer with cable TV. This creative idea comes from London-based developer Steven I",
+    "body": "\nThere’s a fun new way to watch YouTube: by channel surfing like a boomer with cable TV. This creative idea comes from London-based developer Steven Irby, who has just launched a web app called Channel Surfer, which presents interesting YouTube videos in an interface resembling a retro-looking TV guide.\nIn the app, you can browse through different, topic-focused channels and click to tune in as if you were watching live TV.  \nAt launch, there are 40 of these custom-built “channels” to choose from, including those focused on general topics like news, politics, sports, and lifestyle content, as well as a selection of music channels and others with a more tech focus. \nThe latter group includes channels like “AI & ML,” “Code & Dev,” “Space,” “Retro Tech,” “Tech & Gadgets,” and “Gaming.” \nImage Credits:Channel Surfer\nAs you move between channels, you join the video being played mid-stream. Meanwhile, the guide informs you of the upcoming content on all the channels and what time of day it will play. You can also scroll ahead to look at programming planned for the next 24 hours.\nThis makes watching YouTube feel a lot like watching old-school live television — an experience that’s proven popular on free streaming services like Plex, Pluto TV, Tubi, and others, which offer lineups of live channels playing TV shows and movies. YouTube itself, meanwhile, dominates TV streaming in the U.S.\nPlus, a small counter at the bottom of the screen tracks how many other people are currently watching YouTube with you. \nImage Credits:Channel Surfer\nIrby says he came up with the idea to build a similar experience at the streamers, but for YouTube videos, because finding something to watch can still be a struggle.\n“I built Channel Surfer because I’m tired of the algorithms and indecision fatigue,” Irby told TechCrunch. “I miss channel surfing and not having to decide what to watch. I want to just sit and tune into what’s on and not think about what to watch next.” \n“My boomer Mom watches cable TV. I want the same, but with my YouTube channels instead. Also, it’s weirdly comforting to know I’m watching with other people,” he said.\nThe project is one of many new experiments from Irby, a 40-year-old tech industry veteran who has spent the past decade-plus traveling the world. \n“I have so much creativity from my long, weird journey. I can’t bear the thought of being a Jira ticket monkey anymore,” he said. \nThe app seems to be a hit, with Irby noting that Channel Surfer’s brand-new website saw more than 10,000 views on its first day.\n\nUnder the hood, Channel Surfer is, for now, a static Next.js site that uses PartyKit and is hosted on Cloudflare. The channels and music it offers are from Ibry’s own hand-picked list. GitHub Actions is used to run a script that refreshes the data daily. There’s no back end yet.\nAnd while Claude assisted in the coding process, the site is not “vibe-coded,” Irby says.\nThe channels themselves are essentially playing YouTube embeds, including YouTube’s ads, so the app should not be violating policy. Eventually, Irby says he’d love to bring the app to TV platforms, like Fire TV, Google TV, and others. (It also runs on mobile devices and tablets, but needs more work.)\nAt launch, Channel Surfer is a free service offering access to 175 YouTube channels and 25 music playlists. But if you subscribe to Irby’s newsletter, you’re given the option to import your own YouTube subscriptions into the app.\nIt’s a quick-and-dirty process to do so: You drag a “Channel Surfer” bookmarklet to your bookmarks bar, then open your YouTube subscriptions, and click the bookmarklet. The process begins, directing you back to the app where you paste the copied JSON text into a box and click an “import” button. This adds your own channels to Channel Surfer’s existing lineup, potentially giving you hundreds more channels to watch in this format.\nThe site’s existence harkens back to the web’s earlier days, filled with fun experiments and creativity. For Irby, that’s the point. \n“I’m obsessed with showing the world that the old web is still alive and well,” he says. “It’s just buried under a mountain of slop.” \n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Channel Surfer lets you watch YouTube like it’s old-school cable TV",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/03/channel-surfer-3.jpg?w=150"
+      ],
+      "datePublished": "2026-03-12T20:27:17.000Z",
+      "dateModified": "2026-03-12T20:27:17.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "The $32B acquisition that one VC is calling the ‘Deal of the Decade’",
     "url": "https://techcrunch.com/video/the-32b-acquisition-that-one-vc-is-calling-the-deal-of-the-decade/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2161842016.jpg?w=150",
@@ -325,6 +325,31 @@
     }
   },
   {
+    "title": "Before quantum computing arrives, this startup wants enterprises already running on it",
+    "url": "https://techcrunch.com/2026/03/12/before-quantum-computing-arrives-this-startup-wants-enterprises-already-running-on-it/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2174694566.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-03-13T05:00:00.000Z",
+    "description": "\nEighteen months after selling his startup to chipmaker AMD for $665 million, Finnish entrepreneur Peter Sarlin has left his role as CEO of the unit n",
+    "body": "\nEighteen months after selling his startup to chipmaker AMD for $665 million, Finnish entrepreneur Peter Sarlin has left his role as CEO of the unit now known as AMD Silo AI. He is now chairman at two new ventures: physical AI lab NestAI, and Qutwo, an AI startup aimed at helping companies prepare for the era of quantum computing.\nCurrently fully funded by Sarlin’s family office, PostScriptum, Qutwo describes itself as “an AI lab for the quantum era.” Rather than waiting for quantum computing to mature, however, it is already working with enterprise customers — including European fashion retailer Zalando, with which it is developing what the two companies call “lifestyle agents,” AI tools designed to go beyond product search and proactively suggest products and experiences.\nQutwo is built on the premise that AI is hitting an efficiency wall that quantum computing may eventually help solve. But the company is not betting on when that will happen, Sarlin told TechCrunch. Instead, the startup is building Qutwo OS as an orchestration layer that allows companies to shift from classical to quantum computing — making use of hybrid computing along the way.\nSarlin invested in Finnish quantum companies IQM and QMill through PostScriptum, and is one of a growing number of investors who believe it will eventually outperform classical computers in a wide range of industry applications while easing AI’s energy demands. But he also thinks that initial use cases will require mixed hardware environments, and that enterprises would rather focus on their business problems while Qutwo OS takes care of the routing.\nIn that respect, the potential advantage of the middle ground known as “quantum-inspired” computing is that it is already viable today, because it uses classical hardware while simulating quantum behavior, working around the hurdles that still hinder quantum hardware. Meanwhile, Qutwo OS is designed to be flexible, supporting quantum or non-quantum algorithms and chips alike.\nQutwo’s team brings experience on both sides of the quantum-AI divide. On the quantum side, there’s IQM co-founder Kuan Yen Tan and board member Antti Vasara, also chair at SemiQon, a Finnish semiconductor startup focused on quantum chips. The enterprise side is equally represented, by Sarlin himself and Kaj-Mikael Björk, one of his former co-founders at Silo AI. Pekka Lundmark, the former CEO of Finnish telecom giant Nokia, also joined Qutwo’s board.\nAcross both areas, the team counts over 30 quantum and AI scientists, and Sarlin is clear where the company stands. “We’re building for the quantum world, but Qutwo is an AI company,” he said, meaning that Qutwo is “pushing AI workloads from classical to quantum.”\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThis also means that its customer base could be quite broad. Beyond Zalando, Qutwo also launched a joint quantum AI research initiative with OP Pohjola, a major Finnish financial services provider.\nFrom the outset, Qutwo has been commercially minded and already has “large design partnerships which are in the tens of millions,” Sarlin said. Design partnerships — in which a vendor co-develops its product alongside enterprise customers — are a way for Qutwo to learn what a customer expects as it builds its product. They are also a bet from enterprises looking to establish early footing when and if quantum computing does arrive.\n\n\n\t\tAnna Heim is a writer and editorial consultant. \nYou can contact or verify outreach from Anna by emailing annatechcrunch [at] gmail.com.\nAs a freelance reporter at TechCrunch since 2021, she has covered a large range of startup-related topics including AI, fintech & insurtech, SaaS & pricing, and global venture capital trends.\nAs of May 2025, her reporting for TechCrunch focuses on Europe’s most interesting startup stories.\nAnna has moderated panels and conducted onstage interviews at industry events of all sizes, including major tech conferences such as TechCrunch Disrupt, 4YFN, South Summit, TNW Conference, VivaTech, and many more.\nA former LATAM & Media Editor at The Next Web, startup founder and Sciences Po Paris alum, she’s fluent in multiple languages, including French, English, Spanish and Brazilian Portuguese.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Before quantum computing arrives, this startup wants enterprises already running on it",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2174694566.jpg?w=150"
+      ],
+      "datePublished": "2026-03-13T05:00:00.000Z",
+      "dateModified": "2026-03-13T05:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "‘Not built right the first time’ — Musk’s xAI is starting over again, again",
     "url": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/elon-musk-world-economic-forum1.jpg?w=150",
@@ -341,31 +366,6 @@
       ],
       "datePublished": "2026-03-14T00:12:22.000Z",
       "dateModified": "2026-03-14T00:12:22.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Peacock expands into AI-driven video, mobile-first live sports, and gaming",
-    "url": "https://techcrunch.com/2026/03/13/peacock-expands-into-ai-driven-video-mobile-first-live-sports-and-gaming/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Peacock-newfeatures2026.png?w=150",
-    "tag": "Tech",
-    "date": "2026-03-13T14:00:00.000Z",
-    "description": "\nPeacock is making a clear bet on two things: AI and mobile-first entertainment.\nBased on what the streamer previewed at a press event yesterday, Peac",
-    "body": "\nPeacock is making a clear bet on two things: AI and mobile-first entertainment.\nBased on what the streamer previewed at a press event yesterday, Peacock’s mobile app is about to look a whole lot more like a mix of TikTok, a casual gaming hub, and a streaming service.\nFrom an AI-powered “Bravoverse” vertical video experience narrated by a digital avatar of TV host Andy Cohen to vertical live NBA broadcasts and mobile games, Peacock is rolling out several new features designed to keep viewers entertained on their phones even longer.\nThe biggest reveal was a new feature called “Your Bravoverse,” aimed at viewers deeply immersed in Bravo fandom, home to addictive reality franchises like “The Real Housewives” and “Vanderpump Rules.”\nThe feature pulls short-form clips from more than 5,000 hours of Bravo footage and stitches them into personalized playlists. The best part (arguably) is that your guide will be a generative AI avatar of Andy Cohen, the famous reunion host for “The Real Housewives” franchise.\nUsers will start the experience by selecting their favorite Bravo shows and iconic moments. From there, the AI builds a personalized stream of clips. Then Cohen’s avatar acts as the narrator, introducing moments, connecting storylines, and even surfacing new shows viewers might not have watched yet.\nBehind the scenes, Peacock says the system uses computer vision to identify key storylines and moments across its library. AI agents trained on Bravo fan behavior help determine what viewers care about most, while the platform stitches clips together across seasons and franchises. The result, according to Peacock, is more than 600 billion possible viewing variations.\nImage Credits:Peacock\nIf Peacock wanted a passionate fanbase to test AI storytelling on, Bravo viewers may be the perfect audience. Fans of the franchise are famously devoted, and reality TV creates the perfect bite-sized clips to start with. According to the company, the average Bravo viewer watches about 24 hours of Bravo content per month, while some of the most dedicated fans watch up to 75 episodes monthly.\n“Your Bravoverse” launches on mobile this summer, with living room devices expected later.\nAdditionally, Peacock is experimenting with new ways to watch live sports on mobile. The company announced that fans will soon be able to stream live games in a vertical format, powered by AI-driven real-time cropping optimized for phone screens.\nThe feature will debut in beta during NBA games this spring. Users will find the vertical broadcasts inside Courtside Live, a mobile viewing feature Peacock introduced during the 2026 NBA All-Star Game. Courtside Live allows viewers to switch between multiple camera angles alongside the main broadcast, creating a more immersive way to follow the action.\nImage Credits:Peacock\nThis builds upon its short-form video feature launched last year. The feed surfaces clips from across Peacock’s catalog, including TV shows, movies, sports, and news. This summer, the company plans to expand the feature by giving vertical video its own dedicated section in the app, a move clearly inspired by TikTok, Instagram Reels, and YouTube Shorts, as streaming platforms increasingly compete with social media for viewers’ attention.\nPeacock isn’t alone in exploring short-form video. Disney+ launched its own mobile short-form feed for U.S. users on Thursday, which features scenes and moments from its shows and films. Netflix has also said it plans to expand its short-form video features to promote new original video podcasts.\nThis also isn’t Peacock’s first experiment with AI. During the 2024 Summer Olympics, the platform introduced a generative AI recap that created personalized 10-minute summaries of the previous day’s events, narrated by an AI voice modeled after sports announcer Al Michaels.\nImage Credits:Peacock\nThe company is also expanding its mobile gaming lineup after introducing mini-games in the app last year.\nThe streamer is launching two new mystery games, Law & Order: Clue Hunter and Public Eye, which both come from AI gaming startup Wolf Games, co-founded by Elliot Wolf, the son of “Law & Order” creator Dick Wolf. NBCUniversal announced a partnership with Wolf Games in October to build immersive games, which involve gathering clues and using an AI assistant to help solve crimes.  \nPlus, Peacock is adding a daily trivia experience based on the iconic game show Jeopardy!. The title joins existing games on the app, such as Wheel of Fortune and Daily Swap. \nAll these updates hint at a bigger strategy for Peacock. Instead of competing purely as a traditional streaming service, the platform is trying to reshape its app into something much more interactive. The shift comes as the service looks for new ways to drive engagement and growth. \nWhile Peacock recently added subscribers, the platform is still operating at a loss. Peacock has grown to 44 million subscribers, up from a plateau of 41 million subscribers that lasted for three consecutive quarters last year. However, the streamer reported a $552 million loss in Q4 2025.\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Peacock expands into AI-driven video, mobile-first live sports, and gaming",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/03/Peacock-newfeatures2026.png?w=150"
-      ],
-      "datePublished": "2026-03-13T14:00:00.000Z",
-      "dateModified": "2026-03-13T14:00:00.000Z",
       "author": [
         {
           "@type": "Person",
