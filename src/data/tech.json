@@ -1,30 +1,5 @@
 [
   {
-    "title": "Apple rolls out first ‘background security’ update for iPhones, iPads, and Macs to fix Safari bug",
-    "url": "https://techcrunch.com/2026/03/17/apple-rolls-out-first-background-security-update-for-iphones-ipads-and-macs-to-fix-safari-bug/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/12/apple-ios-lockdown-mode-2024.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-03-17T20:10:45.000Z",
-    "description": "\nIn Brief\nPosted:\n1:10 PM PDT · March 17, 2026\n\nImage Credits:Bryce Durbin / TechCrunch\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nApple has published",
-    "body": "\nIn Brief\nPosted:\n1:10 PM PDT · March 17, 2026\n\nImage Credits:Bryce Durbin / TechCrunch\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nApple has published its first “background security improvement” update to patch a security bug in its Safari web browser on iPhones, iPads, and Macs.\nAccording to a new security advisory posted Tuesday, Apple said a security researcher discovered a bug in WebKit, the browser engine that powers Safari and other apps. The bug, if exploited, could allow a malicious website to potentially access data from another website in the same browser session.\nApple explains that background security improvements are “lightweight” software updates that contain important fixes for security vulnerabilities, which the company pushes to customers’ devices in between larger software updates.\nThese updates, which debuted with iPhones, iPads, and Macs running the latest version of iOS, iPadOS, and macOS (ver. 26.1 and higher), can contain fixes for certain software components, such as Safari, its WebKit engine, and other system libraries that benefit from occasional ongoing security updates.\nApple did not give a reason for why it patched this specific bug, and a spokesperson for Apple did not immediately comment when contacted by TechCrunch.\nWhen we downloaded the new background security update, it only required a quick device restart, rather than the longer reboot typically reserved for software updates containing more substantial fixes.\nPrior to Tuesday’s first background security improvement, Apple published several security fixes to software testers to trial the new update feature before it launched.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Security\n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Apple rolls out first ‘background security’ update for iPhones, iPads, and Macs to fix Safari bug",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/12/apple-ios-lockdown-mode-2024.jpg?w=150"
-      ],
-      "datePublished": "2026-03-17T20:10:45.000Z",
-      "dateModified": "2026-03-17T20:10:45.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "The Pentagon is developing alternatives to Anthropic, report says",
     "url": "https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-1601911146.jpg?w=150",
@@ -50,22 +25,22 @@
     }
   },
   {
-    "title": "Stryker says it’s restoring systems after pro-Iran hackers wiped thousands of employee devices",
-    "url": "https://techcrunch.com/2026/03/17/stryker-says-its-restoring-systems-after-pro-iran-hackers-wiped-thousands-of-employee-devices/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/stryker-2265823884.jpg?w=150",
+    "title": "Apple rolls out first ‘background security’ update for iPhones, iPads, and Macs to fix Safari bug",
+    "url": "https://techcrunch.com/2026/03/17/apple-rolls-out-first-background-security-update-for-iphones-ipads-and-macs-to-fix-safari-bug/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/12/apple-ios-lockdown-mode-2024.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-03-17T15:52:50.000Z",
-    "description": "\nMedical tech giant Stryker said it’s in the process of restoring its computers and internal network following a cyberattack that reportedly allowed p",
-    "body": "\nMedical tech giant Stryker said it’s in the process of restoring its computers and internal network following a cyberattack that reportedly allowed pro-Iranian hackers to remotely wipe tens of thousands of employee devices.\nThe hack, which brought ongoing widespread disruption to the company’s operations, is thought to be the first major cyberattack in the United States in response to the Trump administration’s war in Iran.\nStryker said in an update over the weekend that the March 11 cyberattack was contained to the company’s internal Microsoft environment, and that its internet-connected medical products are “safe to use.”\nWhile the cause of the breach is still under investigation, the medical device tech maker said it has seen no indication of ransomware or malware. Stryker said its ability to process orders, manufacture, or ship devices continues to be disrupted.\nA pro-Iran hacking group called Handala took credit for the destructive breach, claiming its hack was in response to a U.S. air strike on an Iranian school that killed at least 175 people, mostly children. The hackers also defaced the company’s login pages with its own logo.\nAccording to Bleeping Computer, the Handala hackers may have broken in using an internal Stryker administrator account that granted them near-unlimited access to the company’s Windows network. The hackers allegedly accessed the company’s Microsoft Intune dashboards, which allows the remote management of employee laptops and mobile devices, such as deleting data in case an employee’s device is lost or stolen.\nA successful compromise of the company’s Intune dashboards would have allowed the hackers to remotely wipe employee phones and laptops, including personal devices, without using malware.\nThe Wall Street Journal also reported that the hackers targeted Intune.\nA spokesperson for Stryker did not respond to a request for comment or questions about the breach, including whether the allegedly compromised account was protected with multi-factor authentication.\nIt’s unclear how the hackers obtained their access to Stryker’s network to begin with. Security researchers with Palo Alto Networks said the Handala hackers may have relied on phishing to compromise Stryker’s network. IBM said the Iran-aligned hacking group is known for using phishing techniques and destructive attacks, including targeting the healthcare and energy sectors. Infostealer malware, which can steal a person’s passwords and credentials, may also be to blame.\nStryker has 56,000 staff around the world and operates in more than 60 countries, according to Reuters.\n\n\n\t\tZack Whittaker is the security editor at TechCrunch. He also authors the weekly cybersecurity newsletter, this week in security. \nHe can be reached via encrypted message at zackwhittaker.1337 on Signal. You can also contact him by email, or to verify outreach, at zack.whittaker@techcrunch.com. \t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-03-17T20:10:45.000Z",
+    "description": "\nIn Brief\nPosted:\n1:10 PM PDT · March 17, 2026\n\nImage Credits:Bryce Durbin / TechCrunch\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nApple has published",
+    "body": "\nIn Brief\nPosted:\n1:10 PM PDT · March 17, 2026\n\nImage Credits:Bryce Durbin / TechCrunch\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nApple has published its first “background security improvement” update to patch a security bug in its Safari web browser on iPhones, iPads, and Macs.\nAccording to a new security advisory posted Tuesday, Apple said a security researcher discovered a bug in WebKit, the browser engine that powers Safari and other apps. The bug, if exploited, could allow a malicious website to potentially access data from another website in the same browser session.\nApple explains that background security improvements are “lightweight” software updates that contain important fixes for security vulnerabilities, which the company pushes to customers’ devices in between larger software updates.\nThese updates, which debuted with iPhones, iPads, and Macs running the latest version of iOS, iPadOS, and macOS (ver. 26.1 and higher), can contain fixes for certain software components, such as Safari, its WebKit engine, and other system libraries that benefit from occasional ongoing security updates.\nApple did not give a reason for why it patched this specific bug, and a spokesperson for Apple did not immediately comment when contacted by TechCrunch.\nWhen we downloaded the new background security update, it only required a quick device restart, rather than the longer reboot typically reserved for software updates containing more substantial fixes.\nPrior to Tuesday’s first background security improvement, Apple published several security fixes to software testers to trial the new update feature before it launched.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Security\n\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Stryker says it’s restoring systems after pro-Iran hackers wiped thousands of employee devices",
+      "headline": "Apple rolls out first ‘background security’ update for iPhones, iPads, and Macs to fix Safari bug",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/03/stryker-2265823884.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2024/12/apple-ios-lockdown-mode-2024.jpg?w=150"
       ],
-      "datePublished": "2026-03-17T15:52:50.000Z",
-      "dateModified": "2026-03-17T15:52:50.000Z",
+      "datePublished": "2026-03-17T20:10:45.000Z",
+      "dateModified": "2026-03-17T20:10:45.000Z",
       "author": [
         {
           "@type": "Person",
@@ -88,56 +63,6 @@
       "headline": "Niv-AI exits stealth to wring more power performance out of GPUs",
       "image": [
         "https://techcrunch.com/wp-content/uploads/2026/03/Niv-AI-Founding-Team.jpeg?w=150"
-      ],
-      "datePublished": "2026-03-17T13:00:00.000Z",
-      "dateModified": "2026-03-17T13:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Google’s Personal Intelligence feature is expanding to all US users",
-    "url": "https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2198713751.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-03-17T16:00:00.000Z",
-    "description": "\nGoogle announced on Tuesday that it’s expanding Personal Intelligence, its feature that allows its AI assistant to tailor its responses by connecting",
-    "body": "\nGoogle announced on Tuesday that it’s expanding Personal Intelligence, its feature that allows its AI assistant to tailor its responses by connecting across your Google ecosystem, such as Gmail and Google Photos, to all users in the U.S. Previously only available to paid users, Personal Intelligence is available in AI Mode in Search, the Gemini app, and Gemini in Chrome. \n“Whether you’re looking for a specific brand of sneakers you previously purchased, or planning a family getaway based on your hotel confirmations and past travel memories, Personal Intelligence helps you find exactly what you need without having to give all the context,” Google explained in a blog post.\nPersonal Intelligence is off by default, as users have the option to choose if and when they want to connect their Google apps to these services. \nIf you’re at a tire shop and don’t remember your car’s tire size, any AI chatbot can help determine it. But with Personal Intelligence, Gemini can go further by suggesting all-weather tires after recognizing family road-trip photos in your Google Photos.\nOr, say you’re planning a vacation and searching for things to do and places to eat that everyone in your family will enjoy. With Personal Intelligence, AI Mode can draw on your hotel booking in Gmail and past travel memories in Google Photos to suggest a tailored itinerary with something for everyone. For example, you might see recommendations like an old-timey ice cream parlor based on the many ice cream selfies stored in Google Photos.\nImage Credits:Google\nIn another example, you could be looking for a new bag to match the new shoes you just bought. With Personal Intelligence in Chrome, you’ll see a range of options tailored to your recent purchases and preferred brands and styles. The recommendations will include subtle details, like purses with hardware that go with your new gold shoes.\nGemini doesn’t train directly on your Gmail inbox or Google Photos library. Instead, it trains on specific prompts in Gemini or AI Mode and the model’s responses, Google says. \n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nPersonal Intelligence is available today in the U.S. for AI Mode in Search, and is starting to roll out in the Gemini app and Gemini in Chrome for free-tier users in the U.S.\nGoogle notes that these experiences are only available for personal Google accounts, and not for Workspace business, enterprise, or education users.\n\n\n\t\tAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing aisha@techcrunch.com or via encrypted message at aisha_malik.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Google’s Personal Intelligence feature is expanding to all US users",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2198713751.jpg?w=150"
-      ],
-      "datePublished": "2026-03-17T16:00:00.000Z",
-      "dateModified": "2026-03-17T16:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Gamma adds AI image-generation tools in bid to take on Canva and Adobe",
-    "url": "https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Imagine-1.jpeg?w=150",
-    "tag": "Tech",
-    "date": "2026-03-17T13:00:00.000Z",
-    "description": "\nGamma, a platform that lets you use AI to create presentations and websites, is launching a new image-generation product for making marketing assets ",
-    "body": "\nGamma, a platform that lets you use AI to create presentations and websites, is launching a new image-generation product for making marketing assets as it seeks to better compete with the likes of Canva and Adobe.\nThe company says its new product, called Gamma Imagine, will let users employ text prompts to create brand-specific assets like interactive charts and visualizations, marketing collateral, social graphics, and infographics. Gamma currently provides more than 100 templates, which you can use alongside its AI tools to build the kind of assets that you need. \n\n\n\nTo power its data-driven asset-generation features, the company is integrating with tools like ChatGPT, Claude, Make, Zapier, Atlassian, n8n, and Superhuman Go.\n“As we started working with a lot of our early users, we realized that in the presentations they want to create, there was a variety of graphical design use cases that they all also had,” Grant Lee, Gamma’s CEO and co-founder, told TechCrunch. “So we worked alongside them to develop basically a new set of tools that allows them to go far beyond just the traditional presentation format,” he said.\nLee believes Gamma sits well between tools for professionals like Adobe or Figma, and legacy tools like Microsoft PowerPoint.\n“We think we can serve the very long tail of knowledge workers and business professionals whose demand for their job is to communicate visually, but they just don’t have the tools. They need to pull in a design resource to be able to help with this stuff, and we want to make an-AI native approach that serves their needs in the sort of middle that we feel is really underserved,” he said.\nLast November, Gamma raised $68 million in a Series B round led by a16z, at a $2.1 billion valuation. At that time, the company said it had ARR of $100 million and 70 million users. The company told TechCrunch that it is approaching 100 million users now.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Gamma adds AI image-generation tools in bid to take on Canva and Adobe",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/03/Imagine-1.jpeg?w=150"
       ],
       "datePublished": "2026-03-17T13:00:00.000Z",
       "dateModified": "2026-03-17T13:00:00.000Z",
@@ -175,56 +100,6 @@
     }
   },
   {
-    "title": "OpenAI expands government footprint with AWS deal, report says",
-    "url": "https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2264785627.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-03-17T15:37:03.000Z",
-    "description": "\n\t\n\t\tImage Credits:Getty Images\t\n\t\n\t\t\t\t\t\t8:37 AM PDT · March 17, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nOpenAI signed a deal to work with Amazon Web Services (AWS) to s",
-    "body": "\n\t\n\t\tImage Credits:Getty Images\t\n\t\n\t\t\t\t\t\t8:37 AM PDT · March 17, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nOpenAI signed a deal to work with Amazon Web Services (AWS) to sell its AI products to the U.S. government for classified and unclassified work.\nAWS has confirmed the deal to TechCrunch. The Information was the first to report.\nThe partnership comes after OpenAI signed a deal with the Pentagon to allow the military to use its AI models in its classified network — a win that came in the midst of conflict between Anthropic and the Department of Defense (DOD). Anthropic has since been named a supply-chain risk by the DOD after it refused to back down on allowing its tech to be used for mass surveillance of Americans and to power fully autonomous weapons. Anthropic has sued the Pentagon in response.\nOpenAI’s AWS deal sees the AI giant stepping onto Anthropic’s home turf. Amazon has invested at least $4 billion in Anthropic, and as such, Anthropic uses AWS as its main cloud provider. Claude models are integrated into Amazon Bedrock, AWS’s AI platform for enterprise and government customers, and Claude is one of the most deeply integrated frontier models in AWS GovCloud for public sector use.\nThe tie-up not only helps OpenAI support the Pentagon through its new contract, but it also expands the AI firm’s federal footprint by positioning it to serve multiple government agencies through AWS’s existing cloud infrastructure. AWS, a major cloud provider to U.S. agencies, has agreed to distribute OpenAI products across its public-sector customer base, an AWS spokesperson told TechCrunch. That includes Amazon Bedrock in government cloud environments like AWS GovCloud and AWS Classified Regions for Secret and Top Secret workloads, per an OpenAI spokesperson. \nThe OpenAI spokesperson told TechCrunch that while its models will be available through AWS, it will retain control over its technology by deciding which models are made available. AWS must also provide notice before enabling especially sensitive government agencies, including intelligence customers. OpenAI will coordinate directly with customers on deployment terms, security requirements, and operating conditions, and it can require additional safeguards for particular deployments.\nThe deal could unlock more enterprise contracts, since companies often see government contracts as a stamp of trust and reliability.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThis article has been updated to include comment and more information from OpenAI and AWS.\n\n\t\t\t\n\tTopics\n\n\n\n\t\tRebecca Bellan is a senior reporter at TechCrunch where she covers the business, policy, and emerging trends shaping artificial intelligence. Her work has also appeared in Forbes, Bloomberg, The Atlantic, The Daily Beast, and other publications. \r\nYou can contact or verify outreach from Rebecca by emailing rebecca.bellan@techcrunch.com or via encrypted message at rebeccabellan.491 on Signal.\t\n\t\n\t\tView Bio \n\t\n\n\t\t",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "OpenAI expands government footprint with AWS deal, report says",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2264785627.jpg?w=150"
-      ],
-      "datePublished": "2026-03-17T15:37:03.000Z",
-      "dateModified": "2026-03-17T15:37:03.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Kalshi’s legal troubles pile up, as Arizona files first ever criminal charges over ‘illegal gambling business’",
-    "url": "https://techcrunch.com/2026/03/17/kalshis-legal-troubles-pile-up-as-arizona-files-first-ever-criminal-charges-over-illegal-gambling-business/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2237779170.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-03-17T21:39:17.000Z",
-    "description": "\nArizona attorney general Kris Mayes has filed criminal charges against prediction market platform Kalshi for allegedly operating an illegal gambling ",
-    "body": "\nArizona attorney general Kris Mayes has filed criminal charges against prediction market platform Kalshi for allegedly operating an illegal gambling business in the state without a license and for election wagering.\nThe 20-count complaint, filed in Maricopa County court on Tuesday, accuses the company of engaging in unlicensed gambling activities, claiming that the site “accepted bets from Arizona residents on a wide range of events,” including state elections, a practice that is illegal in Arizona. The complaint charged Kalshi with four counts of election wagering for accepting bets from Arizona residents on the 2028 presidential race, the 2026 Arizona gubernatorial race, the 2026 Arizona Republican gubernatorial primary, and the 2026 Arizona secretary of state race.\nThis is the first time a state has pursued such charges against the company, according to the AZ Mirror, and marks a significant escalation in the battle between states and the prediction market industry.\n“Kalshi may brand itself as a ‘prediction market,’ but what it’s actually doing is running an illegal gambling operation and taking bets on Arizona elections, both of which violate Arizona law,” Attorney General Mayes said in a statement. “No company gets to decide for itself which laws to follow.”\nIt’s worth noting that the charges are technically misdemeanors. They follow a small surge of cease-and-desist letters, lawsuits, and other official actions from states over Kalshi’s activities, in which numerous officials have complained that the company is skirting state gambling laws.\nConversely, prediction sites like Kalshi have argued that they are not in violation of state law because they are subject to federal regulation via the Commodity Futures Trading Commission.\nKalshi may be getting attacked left, right, and center, but the company has also taken its own, often preemptive, legal action.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nKalshi sued Arizona’s Department of Gaming in federal court on March 12. The company’s lawsuit argued that Arizona’s regulatory attempts were intruding “into the federal government’s exclusive authority to regulate derivatives trading on exchanges.” Kalshi also recently sued Iowa and Utah on similar grounds.\nMayes’ office argues the company is merely trying to avoid accountability. \n“Kalshi is making a habit of suing states rather than following their laws. In the last three weeks alone, the company has filed lawsuits against Iowa and Utah, and now Arizona,” Mayes said in a statement. “Rather than work within the legal frameworks that states like Arizona have established, Kalshi is running to federal court to try to avoid accountability.”\nElisabeth Diana, Kalshi’s head of communications, called the Arizona criminal charges “seriously flawed” and a matter of “gamesmanship” related to the company’s own litigation against the state.\n“Four days after Kalshi filed suit in federal court, these charges were filed to circumvent federal court and short-circuit the normal judicial process,” Diana said. “They attempt to prevent federal courts from evaluating the case based on the merits — whether Kalshi is subject to exclusive federal jurisdiction. These charges are meritless, and we look forward to fighting them in court.”\nFederal officials have signaled that they’re on the prediction industry’s side, setting up a potential regulatory showdown between states and the federal bureaucracy. Michael Selig, chair of the Commodity Futures Trading Commission, recently published an op-ed in the Wall Street Journal in which he accused state governments of having “waged legal attacks on the CFTC’s authority to regulate” such sites. Selig also claimed that his agency would no longer “sit idly by while overzealous state governments” undermined the agency’s “exclusive jurisdiction” over the industry.\n\n\n\t\n\t\tLucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. \nYou can contact Lucas by emailing lucas.ropek@techcrunch.com.\t\n\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Kalshi’s legal troubles pile up, as Arizona files first ever criminal charges over ‘illegal gambling business’",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2237779170.jpg?w=150"
-      ],
-      "datePublished": "2026-03-17T21:39:17.000Z",
-      "dateModified": "2026-03-17T21:39:17.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "AI’s ‘boys’ club’ could widen the wealth gap for women, says Rana el Kaliouby",
     "url": "https://techcrunch.com/2026/03/17/ais-boys-club-could-widen-the-wealth-gap-for-women-says-rana-el-kaliouby/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/sxsw-2026-el-Kaliouby-.jpg?w=150",
@@ -250,22 +125,47 @@
     }
   },
   {
-    "title": "Meet Vurt, the mobile-first streaming platform for indie filmmakers embracing vertical video",
-    "url": "https://techcrunch.com/2026/03/17/vurt-mobile-first-vertical-video-streaming-platform-indie-filmmakers/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Vurt-header.jpeg?w=150",
+    "title": "Stryker says it’s restoring systems after pro-Iran hackers wiped thousands of employee devices",
+    "url": "https://techcrunch.com/2026/03/17/stryker-says-its-restoring-systems-after-pro-iran-hackers-wiped-thousands-of-employee-devices/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/stryker-2265823884.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-03-17T16:00:00.000Z",
-    "description": "\nShort video platforms like TikTok have changed the streaming landscape, prompting traditional streaming services like Disney+, Peacock, and Netflix t",
-    "body": "\nShort video platforms like TikTok have changed the streaming landscape, prompting traditional streaming services like Disney+, Peacock, and Netflix to explore short-form video features. This shift raises the question of how indie filmmakers can capitalize on this vertical video trend. \nEnter Vurt, a mobile-first vertical streaming platform designed specifically for independent filmmakers to upload their micro series or feature films in a vertical mobile-first format. \nThe platform announced its launch on Tuesday, with more than 100 episodes of original micro-series, full-length films, and TV shows spanning various genres currently on the platform. There are even films featuring Kevin Hart and Vivica A. Fox. The company says a new original title is released on the platform each week. \nImage Credits:VURT\nAs audiences increasingly gravitate toward content tailored for mobile devices, the adaptation of traditional storytelling methods to fit vertical formats feels like a natural progression. Vurt sees its platform as a solution that aligns with this future. \nThe success of “micro-drama” platforms like ReelShort and DramaBox has proven that there is a sizable market eager for engaging, bite-sized content. This segment has exploded from niche status to a multibillion-dollar industry.\nAs reported by Appfigures, ReelShort was projected to achieve about $1.2 billion in gross consumer spending in 2025, whereas DramaBox generated $276 million in consumer spending last year. Even TikTok launched its own micro-drama app in January. Vurt also finds itself in direct competition with emerging apps like Watch Club, which features micro-drama stories created by SAG-AFTRA and WGA (Writers Guild of America) actors and writers. \nWhat truly distinguishes Vurt is its approach to content distribution. Unlike traditional streaming services that often involve lengthy distribution processes through aggregators or major companies, Vurt allows creators to submit their content directly. Once approved, filmmakers can upload their projects, making them available to audiences within a 48- to 72-hour timeframe.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nFor creators looking to monetize their work, Vurt operates on an AVOD (advertising-based video on demand) model, enabling them to generate revenue through ad placements on their titles. Plus, Vurt offers a non-exclusive licensing agreement with a 50/50 revenue split, providing filmmakers with a fair opportunity to profit from their creations.\nImage Credits:Vurt\nThe brainchild behind Vurt, Ted Lucas, is the founder of Slip-N-Slide Records, which has sold millions of records for artists like Trick Daddy, Trina, Rick Ross, and Plies. The idea for Vurt emerged from Lucas’ experiences while distributing his documentary “Miami Kingpins.” He recognized the distribution challenges facing many filmmakers and wanted to find a solution.\n“Not every content creator and filmmaker has the resources and access to overcome these hurdles. I realized that it’s a problem that I could potentially fix,” Lucas told TechCrunch.\nVurt’s founding team brings years of industry experience: Eric Tomosunas, who founded Swirl Films; director and producer Mark A. Samuels; and angel investor Hilmon Sorey. Additionally, Tarik Brooks, a former executive at BET and REVOLT, serves as an advisory figure.\nWith young viewers primarily consuming content on their mobile devices, it’ll be interesting to see how the vertical format resonates with independent creators and major streaming services alike. Could we one day see full-length vertical shows on Netflix, or original films on TikTok? It’s too soon to predict the future, but the movement toward vertical storytelling is undeniable.\n“The way people consume content has already changed, and we’re building something that fits that future,” Lucas said.\nVurt is now available for free on the App Store and Google Play. There’s also a web version that mirrors streaming services but remains dedicated solely to vertical content.\n\n\n\t\tLauren covers media, streaming, apps and platforms at TechCrunch.\nYou can contact or verify outreach from Lauren by emailing laurenf.techcrunch@gmail.com or via encrypted message at laurenforris22.25 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-03-17T15:52:50.000Z",
+    "description": "\nMedical tech giant Stryker said it’s in the process of restoring its computers and internal network following a cyberattack that reportedly allowed p",
+    "body": "\nMedical tech giant Stryker said it’s in the process of restoring its computers and internal network following a cyberattack that reportedly allowed pro-Iranian hackers to remotely wipe tens of thousands of employee devices.\nThe hack, which brought ongoing widespread disruption to the company’s operations, is thought to be the first major cyberattack in the United States in response to the Trump administration’s war in Iran.\nStryker said in an update over the weekend that the March 11 cyberattack was contained to the company’s internal Microsoft environment, and that its internet-connected medical products are “safe to use.”\nWhile the cause of the breach is still under investigation, the medical device tech maker said it has seen no indication of ransomware or malware. Stryker said its ability to process orders, manufacture, or ship devices continues to be disrupted.\nA pro-Iran hacking group called Handala took credit for the destructive breach, claiming its hack was in response to a U.S. air strike on an Iranian school that killed at least 175 people, mostly children. The hackers also defaced the company’s login pages with its own logo.\nAccording to Bleeping Computer, the Handala hackers may have broken in using an internal Stryker administrator account that granted them near-unlimited access to the company’s Windows network. The hackers allegedly accessed the company’s Microsoft Intune dashboards, which allows the remote management of employee laptops and mobile devices, such as deleting data in case an employee’s device is lost or stolen.\nA successful compromise of the company’s Intune dashboards would have allowed the hackers to remotely wipe employee phones and laptops, including personal devices, without using malware.\nThe Wall Street Journal also reported that the hackers targeted Intune.\nA spokesperson for Stryker did not respond to a request for comment or questions about the breach, including whether the allegedly compromised account was protected with multi-factor authentication.\nIt’s unclear how the hackers obtained their access to Stryker’s network to begin with. Security researchers with Palo Alto Networks said the Handala hackers may have relied on phishing to compromise Stryker’s network. IBM said the Iran-aligned hacking group is known for using phishing techniques and destructive attacks, including targeting the healthcare and energy sectors. Infostealer malware, which can steal a person’s passwords and credentials, may also be to blame.\nStryker has 56,000 staff around the world and operates in more than 60 countries, according to Reuters.\n\n\n\t\tZack Whittaker is the security editor at TechCrunch. He also authors the weekly cybersecurity newsletter, this week in security. \nHe can be reached via encrypted message at zackwhittaker.1337 on Signal. You can also contact him by email, or to verify outreach, at zack.whittaker@techcrunch.com. \t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Meet Vurt, the mobile-first streaming platform for indie filmmakers embracing vertical video",
+      "headline": "Stryker says it’s restoring systems after pro-Iran hackers wiped thousands of employee devices",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/03/Vurt-header.jpeg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/03/stryker-2265823884.jpg?w=150"
       ],
-      "datePublished": "2026-03-17T16:00:00.000Z",
-      "dateModified": "2026-03-17T16:00:00.000Z",
+      "datePublished": "2026-03-17T15:52:50.000Z",
+      "dateModified": "2026-03-17T15:52:50.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "OpenAI expands government footprint with AWS deal, report says",
+    "url": "https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2264785627.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-03-17T15:37:03.000Z",
+    "description": "\n\t\n\t\tImage Credits:Getty Images\t\n\t\n\t\t\t\t\t\t8:37 AM PDT · March 17, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nOpenAI signed a deal to work with Amazon Web Services (AWS) to s",
+    "body": "\n\t\n\t\tImage Credits:Getty Images\t\n\t\n\t\t\t\t\t\t8:37 AM PDT · March 17, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nOpenAI signed a deal to work with Amazon Web Services (AWS) to sell its AI products to the U.S. government for classified and unclassified work.\nAWS has confirmed the deal to TechCrunch. The Information was the first to report.\nThe partnership comes after OpenAI signed a deal with the Pentagon to allow the military to use its AI models in its classified network — a win that came in the midst of conflict between Anthropic and the Department of Defense (DOD). Anthropic has since been named a supply-chain risk by the DOD after it refused to back down on allowing its tech to be used for mass surveillance of Americans and to power fully autonomous weapons. Anthropic has sued the Pentagon in response.\nOpenAI’s AWS deal sees the AI giant stepping onto Anthropic’s home turf. Amazon has invested at least $4 billion in Anthropic, and as such, Anthropic uses AWS as its main cloud provider. Claude models are integrated into Amazon Bedrock, AWS’s AI platform for enterprise and government customers, and Claude is one of the most deeply integrated frontier models in AWS GovCloud for public sector use.\nThe tie-up not only helps OpenAI support the Pentagon through its new contract, but it also expands the AI firm’s federal footprint by positioning it to serve multiple government agencies through AWS’s existing cloud infrastructure. AWS, a major cloud provider to U.S. agencies, has agreed to distribute OpenAI products across its public-sector customer base, an AWS spokesperson told TechCrunch. That includes Amazon Bedrock in government cloud environments like AWS GovCloud and AWS Classified Regions for Secret and Top Secret workloads, per an OpenAI spokesperson. \nThe OpenAI spokesperson told TechCrunch that while its models will be available through AWS, it will retain control over its technology by deciding which models are made available. AWS must also provide notice before enabling especially sensitive government agencies, including intelligence customers. OpenAI will coordinate directly with customers on deployment terms, security requirements, and operating conditions, and it can require additional safeguards for particular deployments.\nThe deal could unlock more enterprise contracts, since companies often see government contracts as a stamp of trust and reliability.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThis article has been updated to include comment and more information from OpenAI and AWS.\n\n\t\t\t\n\tTopics\n\n\n\n\t\tRebecca Bellan is a senior reporter at TechCrunch where she covers the business, policy, and emerging trends shaping artificial intelligence. Her work has also appeared in Forbes, Bloomberg, The Atlantic, The Daily Beast, and other publications. \r\nYou can contact or verify outreach from Rebecca by emailing rebecca.bellan@techcrunch.com or via encrypted message at rebeccabellan.491 on Signal.\t\n\t\n\t\tView Bio \n\t\n\n\t\t",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "OpenAI expands government footprint with AWS deal, report says",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2264785627.jpg?w=150"
+      ],
+      "datePublished": "2026-03-17T15:37:03.000Z",
+      "dateModified": "2026-03-17T15:37:03.000Z",
       "author": [
         {
           "@type": "Person",
@@ -300,22 +200,72 @@
     }
   },
   {
-    "title": "World launches tool to verify humans behind AI shopping agents",
-    "url": "https://techcrunch.com/2026/03/17/world-launches-tool-to-verify-humans-behind-ai-shopping-agents/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-2139240522.jpg?w=150",
+    "title": "Google’s data center power playbook comes into focus",
+    "url": "https://techcrunch.com/2026/03/17/googles-data-center-power-playbook-comes-into-focus/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-03-17T15:00:00.000Z",
-    "description": "\nWorld, co-founded by Sam Altman, is dedicated to creating what it calls “proof of human” tech — ID verification tools for an internet increasingly ov",
-    "body": "\nWorld, co-founded by Sam Altman, is dedicated to creating what it calls “proof of human” tech — ID verification tools for an internet increasingly overrun by AI-generated content of dubious quality. The connection isn’t lost that Altman’s other company, OpenAI, has been widely blamed for creating a whole lot of that slop (though one could argue he saw the problem coming when he founded World).\nThis week, Tools for Humanity (TFH), the startup behind World, released the beta of a new verification tool — this one designed to support the build-out of agentic commerce, the fast-growing practice of using AI programs to browse the web and make purchases on a user’s behalf.\nMore and more consumers are using AI agents to surf websites and buy stuff for them. The trend promises a certain amount of automated convenience, but it has also raised the specter of new forms of fraud, spam, and other forms of large-scale internet abuse.\nOn Tuesday, World announced its purported solution: AgentKit, a software development tool geared toward commercial websites that allows for the inclusion of a new verification system that let’s those sites verify a real human is behind an agent’s purchasing decisions.\nAgentKit relies on World ID, which is the linchpin of TFH’s verification system. The most secure version of the ID is derived from a scan of a user’s eyes via World’s Orb device. The Orb converts an iris into a unique and encrypted digital code — the verified World ID — which can then be used to access TFH’s ecosystem of services via the company’s World app.\nAgentKit allows a user’s World ID to be integrated into a recently launched payment system known as the x402 protocol. Developed by Coinbase and Cloudflare, x402 is a blockchain-based open standard to allow automated computer programs to transact with each other directly online — without human intervention at each step. To use AgentKit, users merely register their AI agents with their World ID, which then communicates to websites — via the x402 system — that a distinct and verified human approves of the agent’s purchasing decisions.\n“AgentKit is built as a complementary extension to the x402 v2 protocol, in coordination with Coinbase,” Tools for Humanity said in a statement. “The integration is designed so that any website already using x402 can enable proof of unique human verification alongside (or instead of) micropayments.”\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nIn an interview with TechCrunch, TFH Chief Product Officer Tiago Sada compared the new function to delegating “power of attorney” to an agent. By verifying that the AI program is acting on behalf of a particular user, a website can decide whether to trust the transactions initiated by those agents or not, Sada said. “What the World ID badge tells you is that someone is a real and a unique human,” he said, noting that websites can still choose to block particular users they think are operating in bad faith.\nAgentKit is currently being offered in beta to developers, with the hope that feedback will refine it over time. Sada also noted that consumers will need to have a verified World ID, derived from an Orb scan, to qualify for this kind of verification.\nIt’s a timely move. Major e-commerce sites and financial services have already begun embracing agentic commerce. Last year, companies like Amazon and Mastercard introduced automated buying capabilities to their platforms, and Google recently launched its own protocol designed to support the trend. As the field grows, the industry is obviously going to want safeguards that ensure it remains reliable and stable. World is clearly attempting to position itself as the de facto provider of that stability.\n\n\n\t\n\t\tLucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. \nYou can contact Lucas by emailing lucas.ropek@techcrunch.com.\t\n\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-03-17T16:46:02.000Z",
+    "description": "\nGoogle may have signed on to President Trump’s toothless power pledge, but it’s clear the company started working months ago on a framework to power ",
+    "body": "\nGoogle may have signed on to President Trump’s toothless power pledge, but it’s clear the company started working months ago on a framework to power its data centers.\nOn Thursday, Google said it will work with Michigan utility DTE to add 2.7 gigawatts of “new resources” in suburban Detroit to power a new data center in the region. Some specifics are still fuzzy at this point, but the deal mimics one signed last month with Xcel Energy to build a data center in Minnesota. This is how Google will develop new capacity for its future data centers.\nThe new plan includes 1.6 gigawatts of solar power, 400 megawatts of four-hour energy storage, 50 megawatts of long-duration energy storage, and 300 megawatts of “additional clean resources,” which is a squishy way of saying anything from wind and hydro to nuclear and geothermal. \nTechCrunch sent Google’s PR people a number of questions, and while they responded with some details, it’s clear there’s a lot to the proposal that either isn’t fleshed out or isn’t fully public yet. To wit: Does “clean resources” include natural gas? We haven’t received a reply on that one yet.\nThe remaining 350 megawatts of the 2.7 GW deal will be covered by demand response, which is when large electricity users curtail their use for brief periods of time. What shape that takes remains to be seen. Google may be looking for companies that are willing to dial back their electricity needs at certain times, or it will turn off its own data centers when the grid is strained.\nThe DTE deal will also use Google’s Clean Transition Tariff, which it has been refining over the past year or so. The tariff was previously used in Google’s deal with Xcel Energy. It’s intended to allow Google to pay a premium to specify the types of power it wants deployed while also encouraging utilities to incorporate such technologies into their long-range planning. Previous instruments like power purchase agreements were often treated by utilities as one-offs.\nGoogle also said it is introducing a $10 million Energy Impact Fund intended to reduce utility bills, including by insulating homes. It sounds a lot like energy efficiency programs run by utilities, just with Google’s name on it. Whether $10 million is enough to assuage regular people’s concerns about rising electricity prices remains to be seen.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThis is the second “bring your own power” package that Google has touted, though it’s unlikely to be its last. In many ways, it’s not that different from the way the company has operated in the past. Sure, the tariff is relatively new, but Google has been investing in or developing new generating capacity ever since it vowed seven years ago to use 100% carbon free power.\nThe difference is that those projects tended to be announced on their own timelines. Now, we’re seeing the inverse — power projects that are in the works get announced along with the new data center. Smart marketing or something more? We’ll know in a few years.\n\n\n\t\tTim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor. \r\nDe Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.\r\nYou can contact or verify outreach from Tim by emailing tim.dechant@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "World launches tool to verify humans behind AI shopping agents",
+      "headline": "Google’s data center power playbook comes into focus",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-2139240522.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?w=150"
       ],
-      "datePublished": "2026-03-17T15:00:00.000Z",
-      "dateModified": "2026-03-17T15:00:00.000Z",
+      "datePublished": "2026-03-17T16:46:02.000Z",
+      "dateModified": "2026-03-17T16:46:02.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Meet Vurt, the mobile-first streaming platform for indie filmmakers embracing vertical video",
+    "url": "https://techcrunch.com/2026/03/17/vurt-mobile-first-vertical-video-streaming-platform-indie-filmmakers/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Vurt-header.jpeg?w=150",
+    "tag": "Tech",
+    "date": "2026-03-17T16:00:00.000Z",
+    "description": "\nShort video platforms like TikTok have changed the streaming landscape, prompting traditional streaming services like Disney+, Peacock, and Netflix t",
+    "body": "\nShort video platforms like TikTok have changed the streaming landscape, prompting traditional streaming services like Disney+, Peacock, and Netflix to explore short-form video features. This shift raises the question of how indie filmmakers can capitalize on this vertical video trend. \nEnter Vurt, a mobile-first vertical streaming platform designed specifically for independent filmmakers to upload their micro series or feature films in a vertical mobile-first format. \nThe platform announced its launch on Tuesday, with more than 100 episodes of original micro-series, full-length films, and TV shows spanning various genres currently on the platform. There are even films featuring Kevin Hart and Vivica A. Fox. The company says a new original title is released on the platform each week. \nImage Credits:VURT\nAs audiences increasingly gravitate toward content tailored for mobile devices, the adaptation of traditional storytelling methods to fit vertical formats feels like a natural progression. Vurt sees its platform as a solution that aligns with this future. \nThe success of “micro-drama” platforms like ReelShort and DramaBox has proven that there is a sizable market eager for engaging, bite-sized content. This segment has exploded from niche status to a multibillion-dollar industry.\nAs reported by Appfigures, ReelShort was projected to achieve about $1.2 billion in gross consumer spending in 2025, whereas DramaBox generated $276 million in consumer spending last year. Even TikTok launched its own micro-drama app in January. Vurt also finds itself in direct competition with emerging apps like Watch Club, which features micro-drama stories created by SAG-AFTRA and WGA (Writers Guild of America) actors and writers. \nWhat truly distinguishes Vurt is its approach to content distribution. Unlike traditional streaming services that often involve lengthy distribution processes through aggregators or major companies, Vurt allows creators to submit their content directly. Once approved, filmmakers can upload their projects, making them available to audiences within a 48- to 72-hour timeframe.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nFor creators looking to monetize their work, Vurt operates on an AVOD (advertising-based video on demand) model, enabling them to generate revenue through ad placements on their titles. Plus, Vurt offers a non-exclusive licensing agreement with a 50/50 revenue split, providing filmmakers with a fair opportunity to profit from their creations.\nImage Credits:Vurt\nThe brainchild behind Vurt, Ted Lucas, is the founder of Slip-N-Slide Records, which has sold millions of records for artists like Trick Daddy, Trina, Rick Ross, and Plies. The idea for Vurt emerged from Lucas’ experiences while distributing his documentary “Miami Kingpins.” He recognized the distribution challenges facing many filmmakers and wanted to find a solution.\n“Not every content creator and filmmaker has the resources and access to overcome these hurdles. I realized that it’s a problem that I could potentially fix,” Lucas told TechCrunch.\nVurt’s founding team brings years of industry experience: Eric Tomosunas, who founded Swirl Films; director and producer Mark A. Samuels; and angel investor Hilmon Sorey. Additionally, Tarik Brooks, a former executive at BET and REVOLT, serves as an advisory figure.\nWith young viewers primarily consuming content on their mobile devices, it’ll be interesting to see how the vertical format resonates with independent creators and major streaming services alike. Could we one day see full-length vertical shows on Netflix, or original films on TikTok? It’s too soon to predict the future, but the movement toward vertical storytelling is undeniable.\n“The way people consume content has already changed, and we’re building something that fits that future,” Lucas said.\nVurt is now available for free on the App Store and Google Play. There’s also a web version that mirrors streaming services but remains dedicated solely to vertical content.\n\n\n\t\tLauren covers media, streaming, apps and platforms at TechCrunch.\nYou can contact or verify outreach from Lauren by emailing laurenf.techcrunch@gmail.com or via encrypted message at laurenforris22.25 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Meet Vurt, the mobile-first streaming platform for indie filmmakers embracing vertical video",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/03/Vurt-header.jpeg?w=150"
+      ],
+      "datePublished": "2026-03-17T16:00:00.000Z",
+      "dateModified": "2026-03-17T16:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Gamma adds AI image-generation tools in bid to take on Canva and Adobe",
+    "url": "https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Imagine-1.jpeg?w=150",
+    "tag": "Tech",
+    "date": "2026-03-17T13:00:00.000Z",
+    "description": "\nGamma, a platform that lets you use AI to create presentations and websites, is launching a new image-generation product for making marketing assets ",
+    "body": "\nGamma, a platform that lets you use AI to create presentations and websites, is launching a new image-generation product for making marketing assets as it seeks to better compete with the likes of Canva and Adobe.\nThe company says its new product, called Gamma Imagine, will let users employ text prompts to create brand-specific assets like interactive charts and visualizations, marketing collateral, social graphics, and infographics. Gamma currently provides more than 100 templates, which you can use alongside its AI tools to build the kind of assets that you need. \n\n\n\nTo power its data-driven asset-generation features, the company is integrating with tools like ChatGPT, Claude, Make, Zapier, Atlassian, n8n, and Superhuman Go.\n“As we started working with a lot of our early users, we realized that in the presentations they want to create, there was a variety of graphical design use cases that they all also had,” Grant Lee, Gamma’s CEO and co-founder, told TechCrunch. “So we worked alongside them to develop basically a new set of tools that allows them to go far beyond just the traditional presentation format,” he said.\nLee believes Gamma sits well between tools for professionals like Adobe or Figma, and legacy tools like Microsoft PowerPoint.\n“We think we can serve the very long tail of knowledge workers and business professionals whose demand for their job is to communicate visually, but they just don’t have the tools. They need to pull in a design resource to be able to help with this stuff, and we want to make an-AI native approach that serves their needs in the sort of middle that we feel is really underserved,” he said.\nLast November, Gamma raised $68 million in a Series B round led by a16z, at a $2.1 billion valuation. At that time, the company said it had ARR of $100 million and 70 million users. The company told TechCrunch that it is approaching 100 million users now.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Gamma adds AI image-generation tools in bid to take on Canva and Adobe",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/03/Imagine-1.jpeg?w=150"
+      ],
+      "datePublished": "2026-03-17T13:00:00.000Z",
+      "dateModified": "2026-03-17T13:00:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -350,22 +300,72 @@
     }
   },
   {
-    "title": "Google’s data center power playbook comes into focus",
-    "url": "https://techcrunch.com/2026/03/17/googles-data-center-power-playbook-comes-into-focus/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?w=150",
+    "title": "World launches tool to verify humans behind AI shopping agents",
+    "url": "https://techcrunch.com/2026/03/17/world-launches-tool-to-verify-humans-behind-ai-shopping-agents/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-2139240522.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-03-17T16:46:02.000Z",
-    "description": "\nGoogle may have signed on to President Trump’s toothless power pledge, but it’s clear the company started working months ago on a framework to power ",
-    "body": "\nGoogle may have signed on to President Trump’s toothless power pledge, but it’s clear the company started working months ago on a framework to power its data centers.\nOn Thursday, Google said it will work with Michigan utility DTE to add 2.7 gigawatts of “new resources” in suburban Detroit to power a new data center in the region. Some specifics are still fuzzy at this point, but the deal mimics one signed last month with Xcel Energy to build a data center in Minnesota. This is how Google will develop new capacity for its future data centers.\nThe new plan includes 1.6 gigawatts of solar power, 400 megawatts of four-hour energy storage, 50 megawatts of long-duration energy storage, and 300 megawatts of “additional clean resources,” which is a squishy way of saying anything from wind and hydro to nuclear and geothermal. \nTechCrunch sent Google’s PR people a number of questions, and while they responded with some details, it’s clear there’s a lot to the proposal that either isn’t fleshed out or isn’t fully public yet. To wit: Does “clean resources” include natural gas? We haven’t received a reply on that one yet.\nThe remaining 350 megawatts of the 2.7 GW deal will be covered by demand response, which is when large electricity users curtail their use for brief periods of time. What shape that takes remains to be seen. Google may be looking for companies that are willing to dial back their electricity needs at certain times, or it will turn off its own data centers when the grid is strained.\nThe DTE deal will also use Google’s Clean Transition Tariff, which it has been refining over the past year or so. The tariff was previously used in Google’s deal with Xcel Energy. It’s intended to allow Google to pay a premium to specify the types of power it wants deployed while also encouraging utilities to incorporate such technologies into their long-range planning. Previous instruments like power purchase agreements were often treated by utilities as one-offs.\nGoogle also said it is introducing a $10 million Energy Impact Fund intended to reduce utility bills, including by insulating homes. It sounds a lot like energy efficiency programs run by utilities, just with Google’s name on it. Whether $10 million is enough to assuage regular people’s concerns about rising electricity prices remains to be seen.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThis is the second “bring your own power” package that Google has touted, though it’s unlikely to be its last. In many ways, it’s not that different from the way the company has operated in the past. Sure, the tariff is relatively new, but Google has been investing in or developing new generating capacity ever since it vowed seven years ago to use 100% carbon free power.\nThe difference is that those projects tended to be announced on their own timelines. Now, we’re seeing the inverse — power projects that are in the works get announced along with the new data center. Smart marketing or something more? We’ll know in a few years.\n\n\n\t\tTim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor. \r\nDe Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.\r\nYou can contact or verify outreach from Tim by emailing tim.dechant@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-03-17T15:00:00.000Z",
+    "description": "\nWorld, co-founded by Sam Altman, is dedicated to creating what it calls “proof of human” tech — ID verification tools for an internet increasingly ov",
+    "body": "\nWorld, co-founded by Sam Altman, is dedicated to creating what it calls “proof of human” tech — ID verification tools for an internet increasingly overrun by AI-generated content of dubious quality. The connection isn’t lost that Altman’s other company, OpenAI, has been widely blamed for creating a whole lot of that slop (though one could argue he saw the problem coming when he founded World).\nThis week, Tools for Humanity (TFH), the startup behind World, released the beta of a new verification tool — this one designed to support the build-out of agentic commerce, the fast-growing practice of using AI programs to browse the web and make purchases on a user’s behalf.\nMore and more consumers are using AI agents to surf websites and buy stuff for them. The trend promises a certain amount of automated convenience, but it has also raised the specter of new forms of fraud, spam, and other forms of large-scale internet abuse.\nOn Tuesday, World announced its purported solution: AgentKit, a software development tool geared toward commercial websites that allows for the inclusion of a new verification system that let’s those sites verify a real human is behind an agent’s purchasing decisions.\nAgentKit relies on World ID, which is the linchpin of TFH’s verification system. The most secure version of the ID is derived from a scan of a user’s eyes via World’s Orb device. The Orb converts an iris into a unique and encrypted digital code — the verified World ID — which can then be used to access TFH’s ecosystem of services via the company’s World app.\nAgentKit allows a user’s World ID to be integrated into a recently launched payment system known as the x402 protocol. Developed by Coinbase and Cloudflare, x402 is a blockchain-based open standard to allow automated computer programs to transact with each other directly online — without human intervention at each step. To use AgentKit, users merely register their AI agents with their World ID, which then communicates to websites — via the x402 system — that a distinct and verified human approves of the agent’s purchasing decisions.\n“AgentKit is built as a complementary extension to the x402 v2 protocol, in coordination with Coinbase,” Tools for Humanity said in a statement. “The integration is designed so that any website already using x402 can enable proof of unique human verification alongside (or instead of) micropayments.”\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nIn an interview with TechCrunch, TFH Chief Product Officer Tiago Sada compared the new function to delegating “power of attorney” to an agent. By verifying that the AI program is acting on behalf of a particular user, a website can decide whether to trust the transactions initiated by those agents or not, Sada said. “What the World ID badge tells you is that someone is a real and a unique human,” he said, noting that websites can still choose to block particular users they think are operating in bad faith.\nAgentKit is currently being offered in beta to developers, with the hope that feedback will refine it over time. Sada also noted that consumers will need to have a verified World ID, derived from an Orb scan, to qualify for this kind of verification.\nIt’s a timely move. Major e-commerce sites and financial services have already begun embracing agentic commerce. Last year, companies like Amazon and Mastercard introduced automated buying capabilities to their platforms, and Google recently launched its own protocol designed to support the trend. As the field grows, the industry is obviously going to want safeguards that ensure it remains reliable and stable. World is clearly attempting to position itself as the de facto provider of that stability.\n\n\n\t\n\t\tLucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. \nYou can contact Lucas by emailing lucas.ropek@techcrunch.com.\t\n\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Google’s data center power playbook comes into focus",
+      "headline": "World launches tool to verify humans behind AI shopping agents",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-2139240522.jpg?w=150"
       ],
-      "datePublished": "2026-03-17T16:46:02.000Z",
-      "dateModified": "2026-03-17T16:46:02.000Z",
+      "datePublished": "2026-03-17T15:00:00.000Z",
+      "dateModified": "2026-03-17T15:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Google’s Personal Intelligence feature is expanding to all US users",
+    "url": "https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2198713751.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-03-17T16:00:00.000Z",
+    "description": "\nGoogle announced on Tuesday that it’s expanding Personal Intelligence, its feature that allows its AI assistant to tailor its responses by connecting",
+    "body": "\nGoogle announced on Tuesday that it’s expanding Personal Intelligence, its feature that allows its AI assistant to tailor its responses by connecting across your Google ecosystem, such as Gmail and Google Photos, to all users in the U.S. Previously only available to paid users, Personal Intelligence is available in AI Mode in Search, the Gemini app, and Gemini in Chrome. \n“Whether you’re looking for a specific brand of sneakers you previously purchased, or planning a family getaway based on your hotel confirmations and past travel memories, Personal Intelligence helps you find exactly what you need without having to give all the context,” Google explained in a blog post.\nPersonal Intelligence is off by default, as users have the option to choose if and when they want to connect their Google apps to these services. \nIf you’re at a tire shop and don’t remember your car’s tire size, any AI chatbot can help determine it. But with Personal Intelligence, Gemini can go further by suggesting all-weather tires after recognizing family road-trip photos in your Google Photos.\nOr, say you’re planning a vacation and searching for things to do and places to eat that everyone in your family will enjoy. With Personal Intelligence, AI Mode can draw on your hotel booking in Gmail and past travel memories in Google Photos to suggest a tailored itinerary with something for everyone. For example, you might see recommendations like an old-timey ice cream parlor based on the many ice cream selfies stored in Google Photos.\nImage Credits:Google\nIn another example, you could be looking for a new bag to match the new shoes you just bought. With Personal Intelligence in Chrome, you’ll see a range of options tailored to your recent purchases and preferred brands and styles. The recommendations will include subtle details, like purses with hardware that go with your new gold shoes.\nGemini doesn’t train directly on your Gmail inbox or Google Photos library. Instead, it trains on specific prompts in Gemini or AI Mode and the model’s responses, Google says. \n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nPersonal Intelligence is available today in the U.S. for AI Mode in Search, and is starting to roll out in the Gemini app and Gemini in Chrome for free-tier users in the U.S.\nGoogle notes that these experiences are only available for personal Google accounts, and not for Workspace business, enterprise, or education users.\n\n\n\t\tAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing aisha@techcrunch.com or via encrypted message at aisha_malik.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Google’s Personal Intelligence feature is expanding to all US users",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2198713751.jpg?w=150"
+      ],
+      "datePublished": "2026-03-17T16:00:00.000Z",
+      "dateModified": "2026-03-17T16:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Kalshi’s legal troubles pile up, as Arizona files first ever criminal charges over ‘illegal gambling business’",
+    "url": "https://techcrunch.com/2026/03/17/kalshis-legal-troubles-pile-up-as-arizona-files-first-ever-criminal-charges-over-illegal-gambling-business/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2237779170.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-03-17T21:39:17.000Z",
+    "description": "\nArizona attorney general Kris Mayes has filed criminal charges against prediction market platform Kalshi for allegedly operating an illegal gambling ",
+    "body": "\nArizona attorney general Kris Mayes has filed criminal charges against prediction market platform Kalshi for allegedly operating an illegal gambling business in the state without a license and for election wagering.\nThe 20-count complaint, filed in Maricopa County court on Tuesday, accuses the company of engaging in unlicensed gambling activities, claiming that the site “accepted bets from Arizona residents on a wide range of events,” including state elections, a practice that is illegal in Arizona. The complaint charged Kalshi with four counts of election wagering for accepting bets from Arizona residents on the 2028 presidential race, the 2026 Arizona gubernatorial race, the 2026 Arizona Republican gubernatorial primary, and the 2026 Arizona secretary of state race.\nThis is the first time a state has pursued such charges against the company, according to the AZ Mirror, and marks a significant escalation in the battle between states and the prediction market industry.\n“Kalshi may brand itself as a ‘prediction market,’ but what it’s actually doing is running an illegal gambling operation and taking bets on Arizona elections, both of which violate Arizona law,” Attorney General Mayes said in a statement. “No company gets to decide for itself which laws to follow.”\nIt’s worth noting that the charges are technically misdemeanors. They follow a small surge of cease-and-desist letters, lawsuits, and other official actions from states over Kalshi’s activities, in which numerous officials have complained that the company is skirting state gambling laws.\nConversely, prediction sites like Kalshi have argued that they are not in violation of state law because they are subject to federal regulation via the Commodity Futures Trading Commission.\nKalshi may be getting attacked left, right, and center, but the company has also taken its own, often preemptive, legal action.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nKalshi sued Arizona’s Department of Gaming in federal court on March 12. The company’s lawsuit argued that Arizona’s regulatory attempts were intruding “into the federal government’s exclusive authority to regulate derivatives trading on exchanges.” Kalshi also recently sued Iowa and Utah on similar grounds.\nMayes’ office argues the company is merely trying to avoid accountability. \n“Kalshi is making a habit of suing states rather than following their laws. In the last three weeks alone, the company has filed lawsuits against Iowa and Utah, and now Arizona,” Mayes said in a statement. “Rather than work within the legal frameworks that states like Arizona have established, Kalshi is running to federal court to try to avoid accountability.”\nElisabeth Diana, Kalshi’s head of communications, called the Arizona criminal charges “seriously flawed” and a matter of “gamesmanship” related to the company’s own litigation against the state.\n“Four days after Kalshi filed suit in federal court, these charges were filed to circumvent federal court and short-circuit the normal judicial process,” Diana said. “They attempt to prevent federal courts from evaluating the case based on the merits — whether Kalshi is subject to exclusive federal jurisdiction. These charges are meritless, and we look forward to fighting them in court.”\nFederal officials have signaled that they’re on the prediction industry’s side, setting up a potential regulatory showdown between states and the federal bureaucracy. Michael Selig, chair of the Commodity Futures Trading Commission, recently published an op-ed in the Wall Street Journal in which he accused state governments of having “waged legal attacks on the CFTC’s authority to regulate” such sites. Selig also claimed that his agency would no longer “sit idly by while overzealous state governments” undermined the agency’s “exclusive jurisdiction” over the industry.\n\n\n\t\n\t\tLucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. \nYou can contact Lucas by emailing lucas.ropek@techcrunch.com.\t\n\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Kalshi’s legal troubles pile up, as Arizona files first ever criminal charges over ‘illegal gambling business’",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2237779170.jpg?w=150"
+      ],
+      "datePublished": "2026-03-17T21:39:17.000Z",
+      "dateModified": "2026-03-17T21:39:17.000Z",
       "author": [
         {
           "@type": "Person",
