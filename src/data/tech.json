@@ -1,21 +1,21 @@
 [
   {
-    "title": "Pardoned Nikola founder Trevor Milton is trying to raise $1B for AI-powered planes",
-    "url": "https://techcrunch.com/2026/03/18/pardoned-nikola-founder-trevor-milton-is-trying-to-raise-1b-for-ai-powered-planes/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1243178307.jpg?w=150",
+    "title": "Meta is having trouble with rogue AI agents",
+    "url": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-03-18T17:58:28.000Z",
-    "description": "\nIt’s been almost exactly one year since Trevor Milton, the founder of now-bankrupt electric truck startup Nikola, was pardoned by President Trump. No",
-    "body": "\nIt’s been almost exactly one year since Trevor Milton, the founder of now-bankrupt electric truck startup Nikola, was pardoned by President Trump. Now the Wall Street Journal has published one of the first deep dives into Milton’s new effort: trying to build autonomous planes.\nMilton and an “investment group” purchased a downtrodden aviation company called SyberJet Aircraft late last year and he has spent the time since trying to turn the company around. That involves bringing in “dozens” of former Nikola staff, soliciting possible investors from Saudi Arabia, and spending a few hundred thousand dollars on lobbying, according to the report.\nHe reportedly wants to design an entirely new avionics system from the ground up that will help the company create the “first light jet to focus on artificial-intelligence flight,” which could open the door for defense contracts. But Milton, who was convicted of fraud in 2022, told the newspaper that he thinks planes will be “10 times harder than Nikola ever was.”\n",
+    "date": "2026-03-18T23:42:46.000Z",
+    "description": "\nIn Brief\nPosted:\n4:42 PM PDT · March 18, 2026\n\nImage Credits:Carol Yepes / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nAn AI agent went r",
+    "body": "\nIn Brief\nPosted:\n4:42 PM PDT · March 18, 2026\n\nImage Credits:Carol Yepes / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nAn AI agent went rogue at Meta, exposing sensitive company and user data to employees who did not have permission to access it.\nPer an incident report, which was viewed and reported on by The Information, a Meta employee posted on an internal forum asking for help with a technical question — which is a standard action. However, another engineer asked an AI agent to help analyze the question, and the agent ended up posting a response without asking the engineer for permission to share it. Meta confirmed the incident to The Information.\nAs it turns out, the AI agent did not give good advice. The employee who asked the question ended up taking actions based on the agent’s guidance, which inadvertently made massive amounts of company and user-related data available to engineers, who were not authorized to access it, for two hours.\nMeta deemed the incident a “Sev 1,” which is the second-highest level of severity in the company’s internal system for measuring security issues.\nRogue AI agents have already posed a problem at Meta. Summer Yue, a safety and alignment director at Meta Superintelligence, posted on X last month describing how her OpenClaw agent ended up deleting her entire inbox, even though she told it to confirm with her before taking any action.\nStill, Meta seems bullish on the potential for agentic AI. Just last week, Meta bought Moltbook, a Reddit-like social media site for OpenClaw agents to communicate with one another. \n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in AI\n\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Pardoned Nikola founder Trevor Milton is trying to raise $1B for AI-powered planes",
+      "headline": "Meta is having trouble with rogue AI agents",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1243178307.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?w=150"
       ],
-      "datePublished": "2026-03-18T17:58:28.000Z",
-      "dateModified": "2026-03-18T17:58:28.000Z",
+      "datePublished": "2026-03-18T23:42:46.000Z",
+      "dateModified": "2026-03-18T23:42:46.000Z",
       "author": [
         {
           "@type": "Person",
@@ -50,22 +50,22 @@
     }
   },
   {
-    "title": "Apple rolls out first ‘background security’ update for iPhones, iPads, and Macs to fix Safari bug",
-    "url": "https://techcrunch.com/2026/03/17/apple-rolls-out-first-background-security-update-for-iphones-ipads-and-macs-to-fix-safari-bug/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/12/apple-ios-lockdown-mode-2024.jpg?w=150",
+    "title": "Pardoned Nikola founder Trevor Milton is trying to raise $1B for AI-powered planes",
+    "url": "https://techcrunch.com/2026/03/18/pardoned-nikola-founder-trevor-milton-is-trying-to-raise-1b-for-ai-powered-planes/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1243178307.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-03-17T20:10:45.000Z",
-    "description": "\nIn Brief\nPosted:\n1:10 PM PDT · March 17, 2026\n\nImage Credits:Bryce Durbin / TechCrunch\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nApple has published",
-    "body": "\nIn Brief\nPosted:\n1:10 PM PDT · March 17, 2026\n\nImage Credits:Bryce Durbin / TechCrunch\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nApple has published its first “background security improvement” update to patch a security bug in its Safari web browser on iPhones, iPads, and Macs.\nAccording to a new security advisory posted Tuesday, Apple said a security researcher discovered a bug in WebKit, the browser engine that powers Safari and other apps. The bug, if exploited, could allow a malicious website to potentially access data from another website in the same browser session.\nApple explains that background security improvements are “lightweight” software updates that contain important fixes for security vulnerabilities, which the company pushes to customers’ devices in between larger software updates.\nThese updates, which debuted with iPhones, iPads, and Macs running the latest version of iOS, iPadOS, and macOS (ver. 26.1 and higher), can contain fixes for certain software components, such as Safari, its WebKit engine, and other system libraries that benefit from occasional ongoing security updates.\nApple did not give a reason for why it patched this specific bug, and a spokesperson for Apple did not immediately comment when contacted by TechCrunch.\nWhen we downloaded the new background security update, it only required a quick device restart, rather than the longer reboot typically reserved for software updates containing more substantial fixes.\nPrior to Tuesday’s first background security improvement, Apple published several security fixes to software testers to trial the new update feature before it launched.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Security\n\n",
+    "date": "2026-03-18T17:58:28.000Z",
+    "description": "\nIt’s been almost exactly one year since Trevor Milton, the founder of now-bankrupt electric truck startup Nikola, was pardoned by President Trump. No",
+    "body": "\nIt’s been almost exactly one year since Trevor Milton, the founder of now-bankrupt electric truck startup Nikola, was pardoned by President Trump. Now the Wall Street Journal has published one of the first deep dives into Milton’s new effort: trying to build autonomous planes.\nMilton and an “investment group” purchased a downtrodden aviation company called SyberJet Aircraft late last year and he has spent the time since trying to turn the company around. That involves bringing in “dozens” of former Nikola staff, soliciting possible investors from Saudi Arabia, and spending a few hundred thousand dollars on lobbying, according to the report.\nHe reportedly wants to design an entirely new avionics system from the ground up that will help the company create the “first light jet to focus on artificial-intelligence flight,” which could open the door for defense contracts. But Milton, who was convicted of fraud in 2022, told the newspaper that he thinks planes will be “10 times harder than Nikola ever was.”\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Apple rolls out first ‘background security’ update for iPhones, iPads, and Macs to fix Safari bug",
+      "headline": "Pardoned Nikola founder Trevor Milton is trying to raise $1B for AI-powered planes",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/12/apple-ios-lockdown-mode-2024.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1243178307.jpg?w=150"
       ],
-      "datePublished": "2026-03-17T20:10:45.000Z",
-      "dateModified": "2026-03-17T20:10:45.000Z",
+      "datePublished": "2026-03-18T17:58:28.000Z",
+      "dateModified": "2026-03-18T17:58:28.000Z",
       "author": [
         {
           "@type": "Person",
@@ -81,7 +81,7 @@
     "tag": "Tech",
     "date": "2026-03-18T18:32:32.000Z",
     "description": "\nThe FBI has resumed purchasing reams of Americans’ data and location histories to aid federal investigations, the agency’s director, Kash Patel, test",
-    "body": "\nThe FBI has resumed purchasing reams of Americans’ data and location histories to aid federal investigations, the agency’s director, Kash Patel, testified to lawmakers on Wednesday.\nThis is the first time since 2023 that the FBI has confirmed it was buying access to people’s data collected from data brokers, who source much of their information — including location data — from ordinary consumer phone apps and games, per Politico. At the time, then-FBI director Christopher Wray told senators that the agency had bought access to people’s location data in the past but that it was not actively purchasing it.\nWhen asked by U.S. Senator Ron Wyden, Democrat of Oregon, if the FBI would commit to not buying Americans’ location data, Patel said that the agency “uses all tools … to do our mission.”\n“We do purchase commercially available information that is consistent with the Constitution and the laws under the Electronic Communications Privacy Act — and it has led to some valuable intelligence for us,” Patel testified Wednesday.\nWyden said buying information on Americans without obtaining a warrant was an “outrageous end-run around the Fourth Amendment,” referring to the constitutional law that protects people in America from device searches and data seizures.\nA spokesperson for the FBI did not respond to questions about the agency’s purchase of commercial data, including how often the FBI obtained location data and from which brokers.\nGovernment agencies typically have to convince a judge to authorize a search warrant based on some evidence of a crime before they can demand private information about a person from a tech or phone company. But in recent years, U.S. agencies have skirted this legal step by purchasing commercially available data from companies that amass large amounts of people’s location data originally derived from phone apps or other commercial tracking technology.\nFor example, U.S. Customs and Border Protection purchased a tranche of data sourced from real-time bidding, or RTB, services, according to a document obtained by 404 Media. These technologies are central to the mobile and web advertising industry, and they collect information such as location and other identifiable data used to target people viewing ads. Surveillance firms can observe this process and gather information about a user’s location, and then potentially sell that data to brokers or federal agencies looking to circumvent the warrant process.\nThe FBI claims it does not need a warrant to use this information for federal investigations; though this legal theory has not yet been tested in court.\nLast week, Wyden and several other lawmakers introduced a bipartisan, bicameral bill called the Government Surveillance Reform Act, which among other things would require a court-authorized warrant before federal agencies can buy Americans’ information from data brokers.\n\n\n\t\tZack Whittaker is the security editor at TechCrunch. He also authors the weekly cybersecurity newsletter, this week in security. \nHe can be reached via encrypted message at zackwhittaker.1337 on Signal. You can also contact him by email, or to verify outreach, at zack.whittaker@techcrunch.com. \t\n\t\n\t\tView Bio \n\t\n",
+    "body": "\nThe FBI has resumed purchasing reams of Americans’ data and location histories to aid federal investigations, the agency’s director, Kash Patel, testified to lawmakers on Wednesday.\nThis is the first time since 2023 that the FBI has confirmed it was buying access to people’s data collected from data brokers, who source much of their information — including location data — from ordinary consumer phone apps and games, per Politico. At the time, then-FBI director Christopher Wray told senators that the agency had bought access to people’s location data in the past but that it was not actively purchasing it.\nWhen asked by U.S. Senator Ron Wyden, Democrat of Oregon, if the FBI would commit to not buying Americans’ location data, Patel said that the agency “uses all tools … to do our mission.”\n“We do purchase commercially available information that is consistent with the Constitution and the laws under the Electronic Communications Privacy Act — and it has led to some valuable intelligence for us,” Patel testified Wednesday.\nWyden said buying information on Americans without obtaining a warrant was an “outrageous end-run around the Fourth Amendment,” referring to the constitutional law that protects people in America from device searches and data seizures.\nWhen reached by TechCrunch, a spokesperson for the FBI declined to comment beyond Patel’s remarks, and did not provide answers to questions about the agency’s purchase of commercial data, including how often the FBI obtained location data and from which brokers.\nGovernment agencies typically have to convince a judge to authorize a search warrant based on some evidence of a crime before they can demand private information about a person from a tech or phone company. But in recent years, U.S. agencies have skirted this legal step by purchasing commercially available data from companies that amass large amounts of people’s location data originally derived from phone apps or other commercial tracking technology.\nFor example, U.S. Customs and Border Protection purchased a tranche of data sourced from real-time bidding, or RTB, services, according to a document obtained by 404 Media. These technologies are central to the mobile and web advertising industry, and they collect information such as location and other identifiable data used to target people viewing ads. Surveillance firms can observe this process and gather information about a user’s location, and then potentially sell that data to brokers or federal agencies looking to circumvent the warrant process.\nThe FBI claims it does not need a warrant to use this information for federal investigations; though this legal theory has not yet been tested in court.\nLast week, Wyden and several other lawmakers introduced a bipartisan, bicameral bill called the Government Surveillance Reform Act, which among other things would require a court-authorized warrant before federal agencies can buy Americans’ information from data brokers.\nUpdated with response from the FBI.\n\n\n\t\tZack Whittaker is the security editor at TechCrunch. He also authors the weekly cybersecurity newsletter, this week in security. \nHe can be reached via encrypted message at zackwhittaker.1337 on Signal. You can also contact him by email, or to verify outreach, at zack.whittaker@techcrunch.com. \t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
@@ -91,6 +91,81 @@
       ],
       "datePublished": "2026-03-18T18:32:32.000Z",
       "dateModified": "2026-03-18T18:32:32.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Sam Altman’s thank-you to coders draws the memes",
+    "url": "https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-03-18T23:12:58.000Z",
+    "description": "\n\t\n\t\tImage Credits:Alex Wong / Getty Images\t\n\t\n\t\t\t\t\t\t4:12 PM PDT · March 18, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nIf you need a cathartic release from the news that A",
+    "body": "\n\t\n\t\tImage Credits:Alex Wong / Getty Images\t\n\t\n\t\t\t\t\t\t4:12 PM PDT · March 18, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nIf you need a cathartic release from the news that Amazon laid off 16,000 workers, Block chopped nearly half its workforce, Atlassian pared back 10% of staffers, and Meta is reportedly considering another massive round of layoffs, all in the name of AI, then we invite you to browse the responses to a recent Sam Altman post on X.\nAltman, the CEO of OpenAI, shared this on Tuesday:\n“I have so much gratitude to people who wrote extremely complex software character-by-character. It already feels difficult to remember how much effort it really took. Thank you for getting us to this point.”\n\nI have so much gratitude to people who wrote extremely complex software character-by-character. It already feels difficult to remember how much effort it really took.Thank you for getting us to this point.— Sam Altman (@sama) March 17, 2026\n\nThe problem with that sweet sentiment is that Altman’s company ushered in the AI now being used as an excuse for developer layoffs and fewer junior developer jobs. And it did so by training on massive volumes of code written the old-fashioned way — by the very people he’s now thanking.\nHis post implies that developers’ genuinely difficult-to-master craft is now like a rotary telephone: outdated and unnecessary.\nNaturally, Altman’s comments attracted memes and responses richer than his post. While some were straight-up angry, (“You’re welcome. Nice to know that our reward is our jobs being taken away”), much of the internet did what it always does: cracked jokes.\nThere are thousands of comments. Some of our favorites:\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n“Dear devs You will lose your jobs forever and be forced to work in the coal mines But you can rest easy knowing sam Altman is grateful. ❤️ 🙏”\n“Billion dollar app idea: AI that reads billionaire tweets before they post them and says ‘this is going to make you sound incredibly out of touch, are you sure?’”\n“I have gratitude to OpenAI for doing all the AI work so I can have free Chinese open source AI models to use 🙏”\n“This reads like something the Mayans would say right before the ceremony starts.”\nAnd finally, another reason to trot out this meme:\n\n\n\t\t\t\n\tTopics\n\n\t\t",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Sam Altman’s thank-you to coders draws the memes",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?w=150"
+      ],
+      "datePublished": "2026-03-18T23:12:58.000Z",
+      "dateModified": "2026-03-18T23:12:58.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place",
+    "url": "https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/09/Carl-Pei-Nothing.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-03-18T20:30:52.000Z",
+    "description": "\nCarl Pei, co-founder and CEO of Nothing, is imagining a future beyond the iPhone — and it’s a device powered by AI agents, not running apps.\n“In term",
+    "body": "\nCarl Pei, co-founder and CEO of Nothing, is imagining a future beyond the iPhone — and it’s a device powered by AI agents, not running apps.\n“In terms of AI in software, I think people should understand that apps are going to disappear,” said Pei, whose consumer electronics brand makes unique smartphones and other accessories. “So, if you’re a founder or a startup and your app is like where the core value lies, that will be disrupted whether you like it or not.” \nPei made these comments during an interview at the SXSW conference in Austin on Wednesday.\nThe founder has talked about an AI-first device before, as this vision helped the company close its $200 million Series C funding round last year. At the time, Nothing was pitching the idea of a new kind of smartphone using AI and personalization technology that’s accurate enough for its users to not feel they had to go behind the AI and double-check its output.\nAt SXSW, Pei expanded on his vision for the AI-first device and the steps needed to get there.\nThe initial step, which is being tested by some companies today, is an AI feature that can execute a command on the users’ behalf, like booking flights or hotels. Pei, however, dismissed this step as being “super boring.”\nThe next step is where things could get more interesting, as the AI begins to learn a user’s intentions long-term. For instance, if you wanted to be healthier, the device could give you nudges to help you accomplish your goals.\n“I think it gets even more powerful when it starts surfacing suggestions for you; you don’t have to manually come up with an idea…when the system knows us so well, it will come up with things that we don’t even [know] we wanted,” Pei explained, comparing this concept to something like ChatGPT’s memory feature. \nIn describing how he pictured an AI-first smartphone, Pei said it would be a device that would do things for you without needing to be commanded to.\n“The current way we use phones is very old-school. It’s pre-iPhone…there used to be Palm Pilots and PDAs back in the day. And if you think about the user experience, it’s still very similar,” Pei said. “You have lock screens, home screens, apps. You browse different apps. Each app is like a full-screen thing. There’s some kind of app store that allows you to download more apps. So it hasn’t really changed for like, 20 years.”\nThis frustrated him because the technology consumers are using has evolved quite a bit, but the products we use have not. Even simple tasks have us jumping through multiple steps, he explained. \n“It’s very hard to get things done on a phone,” Pei said. “Let’s say we want to grab coffee. That’s an intention. But to execute that intention, we have to go through so many different steps and so many different apps. It’s probably like four apps to grab coffee with somebody — some messaging app, some kind of maps, Uber, calendar.”\nHe continued: “I think the future of smartphones or operating systems should just be: ‘I know you very well, and if I know your intention, I just do it for you,’ instead of having to go through all the apps manually.” \n“It should just do it through AI,” he said.\nThis also means devices would have an interface that’s not focused on apps for humans to navigate, but would instead feature an interface designed for the AI agent to use. \nThat doesn’t mean apps are going away in the near-term, Pei cautioned. Nothing’s own operating system even allows users to vibe code their own mini apps today. But eventually, the AI will need to be able to use the “app” in a frictionless way, not trying to mimic human touch on the smartphones by moving through menus and tapping options.\n“That’s not the future. The future is not the agent using a human interface. You need to create an interface for the agent to use. I think that’s the more future-proof way of doing it,” Pei said. \n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/09/Carl-Pei-Nothing.jpg?w=150"
+      ],
+      "datePublished": "2026-03-18T20:30:52.000Z",
+      "dateModified": "2026-03-18T20:30:52.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Nvidia is quietly building a multibillion-dollar behemoth to rival its chips business",
+    "url": "https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2183848584.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-03-18T20:01:19.000Z",
+    "description": "\nNvidia CEO Jensen Huang was years ahead of the market when he pushed the company to start tinkering with building AI-specific chips back in 2010, mor",
+    "body": "\nNvidia CEO Jensen Huang was years ahead of the market when he pushed the company to start tinkering with building AI-specific chips back in 2010, more than a decade before the current buzz around AI. A similar move in 2020 — doubling down on data center networking with a strategic acquisition — has led to one of the company’s most lucrative and quickly growing divisions, but with little fanfare.\nIn just a few years, Nvidia’s networking business, designed to connect data centers, has grown into the company’s second-largest revenue driver behind compute. Last quarter, it reported $11 billion in revenue, a year-over-year increase of 267%, and brought in more than $31 billion for the full year, according to Nvidia’s most recent earnings.\nDriven by growth in AI processing, the division includes tech like NVLink, which powers communication between GPUs on a data center rack; Nvidia InfiniBand Switches, an in-network computing platform; Spectrum-X, the ethernet platform for AI networking; and co-packaged optics switches, among others.\nTogether, Nvidia’s networking business includes all the tech needed for building an “AI factory,” a data center designed for training AI models. \nKevin Cook, a senior equity strategist at Zacks Investment research, told TechCrunch that Nvidia’s networking business is one of the most impressive new segments from the company. “[Nvidia’s networking business] reports $11 billion for the quarter; that number is greater than Cisco’s networking business, almost as big as the full-year estimates,” Cook said, adding it does in one quarter what Cisco’s business does in a year.\nAnd yet — the business segment doesn’t draw the same attention as the company’s chip business, which is significantly larger. It also doesn’t get as much fanfare as the company’s gaming business, it’s original bread-and-butter business, which is nearly three times smaller.\nThe origin of Nvidia’s networking business comes from Mellanox, a networking company founded in Israel in 1999 that Nvidia acquired in 2020 for $7 billion.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nKevin Deierling is a senior vice president of networking at Nvidia. He joined the company through the acquisition of Mellanox. Deierling told TechCrunch that people not knowing about Nvidia’s networking business could be his fault for doing a bad job of marketing it — but he doesn’t like that answer.\n“People think of networking as just, ‘I got a printer, and I need to connect to it,’” Deierling said. “Jensen said this the first day when he acquired us, he said the data center is the new unit of computing. Networking is a lot more than just moving the smaller amounts of data between a compute node; it’s actually a foundation.”\nWhile Deierling said he didn’t really understand why Huang bought the company when he did — he gets it now. Having a networking business alongside its GPU business allows the company to sell its chips with the tech that they work best with.\n“When Jensen bought Mellanox in 2020, he saw that was the missing piece to make GPUs a complete package,” Cook, the Zack’s analyst, said.\nDeierling added that he thinks another aspect of Nvidia’s networking success is that it only sells the tech as a full-stack solution, as opposed to individual components, and it doesn’t actually sell the tech itself, but rather through its partners.\n“I can’t think of other companies that have [the] full-stack capabilities that we have,” Deierling said. “We are really different. We build the full compute stack, fully integrated stack, and then we go to market through all of our partners.”\nNvidia just announced a whole new slew of updates to its networking system during Huang’s keynote address on March 16 at the company’s annual Nvidia GTC technology conference. The company launched the Nvidia Rubin platform, which includes six new chips to power an “AI supercomputer.” Nvidia also announced a new Nvidia Inference Context Memory Storage platform and more efficient Nvidia Spectrum-X Ethernet Photonics switches, among other products.\n“It’s no longer a peripheral to connect the printer, some other slow I/O device,” Deierling said about networking. “It’s fundamental to the computer. In the old days, we had what was called the back lining inside the computer. Today, the network is the back lining of the AI factory, and it’s super important.”\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Nvidia is quietly building a multibillion-dollar behemoth to rival its chips business",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2183848584.jpg?w=150"
+      ],
+      "datePublished": "2026-03-18T20:01:19.000Z",
+      "dateModified": "2026-03-18T20:01:19.000Z",
       "author": [
         {
           "@type": "Person",
@@ -125,31 +200,6 @@
     }
   },
   {
-    "title": "Microsoft hires the team of Sequoia-backed AI collaboration platform, Cove",
-    "url": "https://techcrunch.com/2026/03/18/microsoft-hires-the-team-of-sequioa-backed-ai-collaboration-platform-cove/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/cove-team-joins-microsoft.webp?w=150",
-    "tag": "Tech",
-    "date": "2026-03-18T15:33:49.000Z",
-    "description": "\nThe team behind Cove, a Sequoia-backed startup that was working on an AI-powered collaboration board, has joined Microsoft, according to an email sen",
-    "body": "\nThe team behind Cove, a Sequoia-backed startup that was working on an AI-powered collaboration board, has joined Microsoft, according to an email sent to customers informing them that Cove’s service is shutting down.\nCove was founded in late 2023 by Stephen Chau, Andy Szybalski, and Mike Chu, all of whom worked on Google Maps features like Street View. The startup raised $6 million in a seed round from Sequoia Capital, Elad Gil, Homebrew, Adverb, Scott Belsky, and Lenny Rachitsky in 2024.\nIts tool was an infinite whiteboard where AI can generate different blocks for tasks like trip planning. The founders felt that the chat interface for AI was not editable, and a canvas provided more flexibility when going in different directions with prompts.\nCove also allowed users to access a built-in browser, PDFs, and images to give more context to its AI, which could create new cards, tables, and lists.\nThe startup competed with the likes of Miro, TLDraw, and Kosmik.\nImage Credits:Cove\nThe company said in an email to customers that the entire Cove team is joining Microsoft and the product will shut down on April 1, and all user data will be deleted. Cove mentioned that it has refunded all subscriptions for March and is offering a data export process.\n“When we started Cove, we set out to reimagine how people collaborate with AI. As model capabilities have accelerated, our conviction in that mission has only grown stronger. We’re thrilled to continue this work at Microsoft AI, where we’ll have the opportunity to pursue an even bigger vision,” the company said in a blog post on its site.\nIn addition, the company said that “the ideas behind it [Cove] will live on” within Microsoft. Notably, Microsoft added Copilot to its own collaboration product, Whiteboard, in 2023.\nTechCrunch reached out to Microsoft to understand how it plans to integrate Cove’s technology within its ecosystem, but did not immediately hear back. \n\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Microsoft hires the team of Sequoia-backed AI collaboration platform, Cove",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/03/cove-team-joins-microsoft.webp?w=150"
-      ],
-      "datePublished": "2026-03-18T15:33:49.000Z",
-      "dateModified": "2026-03-18T15:33:49.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Sequen snags $16M to bring TikTok-style personalization tech to any consumer company",
     "url": "https://techcrunch.com/2026/03/18/sequen-snags-16m-to-bring-tiktok-style-personalization-tech-to-any-consumer-company/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/sequen-logo.jpg?w=150",
@@ -166,31 +216,6 @@
       ],
       "datePublished": "2026-03-18T15:58:50.000Z",
       "dateModified": "2026-03-18T15:58:50.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The leaderboard “you can’t game,” funded by the companies it ranks",
-    "url": "https://techcrunch.com/video/the-leaderboard-you-cant-game-funded-by-the-companies-it-ranks/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2154525596.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-03-18T16:30:00.000Z",
-    "description": "\n\t\t\n\nLoading the player…\n\nArtificial intelligence models are multiplying fast, and competition is stiff. With so many players crowding the space, whic",
-    "body": "\n\t\t\n\nLoading the player…\n\nArtificial intelligence models are multiplying fast, and competition is stiff. With so many players crowding the space, which one will be the best — and who decides that? Arena, formerly LM Arena, has emerged as the de facto public leaderboard for frontier LLMs, influencing funding, launches, and PR cycles. In just seven months, the startup went from a UC Berkeley PhD research project to being valued at $1.7 billion. \nWatch as Equity host Rebecca Bellan catches up with Arena co-founders Anastasios Angelopoulos and Wei-Lin Chiang about how their platform became the go-to leaderboard for frontier AI models, and how they’re trying to build a neutral benchmark even as companies like OpenAI, Google, and Anthropic back the project. \nThey break down how Arena works and why it’s harder to game than static benchmarks, what “structural neutrality” actually means, why Claude is currently topping expert leaderboards in legal and medical use cases, and how the company is expanding beyond chat to benchmark agents, coding, and real-world tasks with a new enterprise product.\nSubscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. You also can follow Equity on X and Threads, at @EquityPod. \n\n\t\t\n\tTopics\n\n\n\n\t\tTheresa Loconsolo is an audio producer at TechCrunch focusing on Equity, the network’s flagship podcast. Before joining TechCrunch in 2022, she was one of 2 producers at a four-station conglomerate where she wrote, recorded, voiced and edited content, and engineered live performances and interviews from guests like lovelytheband. Theresa is based in New Jersey and holds a bachelors degree in Communication from Monmouth University. You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n\n\t\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "The leaderboard “you can’t game,” funded by the companies it ranks",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2154525596.jpg?w=150"
-      ],
-      "datePublished": "2026-03-18T16:30:00.000Z",
-      "dateModified": "2026-03-18T16:30:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -225,22 +250,22 @@
     }
   },
   {
-    "title": "Facebook launches a new monetization program to attract popular creators from TikTok, YouTube",
-    "url": "https://techcrunch.com/2026/03/18/facebook-launches-a-new-monetization-program-to-attract-popular-creators-from-tiktok-youtube/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/03/facebook-logo-on-phone.jpg?w=150",
+    "title": "Microsoft hires the team of Sequoia-backed AI collaboration platform, Cove",
+    "url": "https://techcrunch.com/2026/03/18/microsoft-hires-the-team-of-sequioa-backed-ai-collaboration-platform-cove/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/cove-team-joins-microsoft.webp?w=150",
     "tag": "Tech",
-    "date": "2026-03-18T16:00:00.000Z",
-    "description": "\nFacebook announced on Wednesday that it’s launching “Creator Fast Track,” a new program designed to help creators grow on Facebook with guaranteed pa",
-    "body": "\nFacebook announced on Wednesday that it’s launching “Creator Fast Track,” a new program designed to help creators grow on Facebook with guaranteed pay and increased content reach. The social network also shared that it paid creators nearly $3 billion through its monetization programs in 2025, a 35% increase from the previous year and its highest annual total to date. \nThe idea behind the new monetization program is to entice creators who have built followings on other platforms to start posting on Facebook. Instead of starting from scratch on a new platform, creators can use the program to attain increased reach on eligible Reels to help speed up their follower growth, plus three months of guaranteed pay for sharing eligible Reels on Facebook.\nCreators in the program can earn $1,000 per month if they have at least 100,000 followers on Instagram, TikTok, or YouTube, and $3,000 per month if they have over one million followers on any one of those platforms.\nImage Credits:Facebook\nThe program also gives eligible creators immediate access to Facebook’s content monetization tools without requiring them to meet the platform’s usual criteria, such as a minimum follower count, allowing them to continue earning from posts even after the Creator Fast Track program ends.\n“We wanted to be able to address creators’ concerns that it would be a hard road to onboard onto Facebook and build a community from scratch and build a following,” said Yair Livne, VP of Creator Product at Facebook, in a briefing with reporters. “So we set up this program to address that.”\nLivne noted that if it takes creators longer than three months to build their audience on Facebook, the company will continue to support them. While the monetary bonus only lasts three months, Facebook will continue to boost their reach until the point where the company believes the creator has found their audience on Facebook.\n“You don’t need to create exclusive, brand-new content for this program to meet our initial posting conditions,” Livne said. “Obviously, we would love for you to bring your latest and greatest, but if you have a great back catalog of best hits, we would love to get that as well, and that qualifies for the terms of the program. So super excited about this. This is something that is addressing a lot of feedback that we’ve heard from established creators who we’ve tried to entice, or have been interested in coming on board.”\nAs part of the announcement, the social network shared that the number of creators earning more than $10,000 annually on Facebook has grown by over 30% year-over-year. Additionally, 60% of Facebook’s total payout to creators last year went to reels, while the rest went to Stories, photos, and text posts.\nImage Credits:Facebook\nFacebook also announced that it’s going to introduce new metrics to help creators better understand their earnings. \nThe new “qualified views” metric tells creators the number of views on their content that may be eligible to earn money. Livne explained that there are several reasons a view may not qualify. For example, when someone watches just one second of a creator’s video before swiping away.\nA new “earnings rate” metric will show approximate earnings per 1,000 qualified views, while the “non-qualified views” metric will break down why certain views don’t qualify and what creators can do to improve earnings from future content.\n\n\n\t\tAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing aisha@techcrunch.com or via encrypted message at aisha_malik.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-03-18T15:33:49.000Z",
+    "description": "\nThe team behind Cove, a Sequoia-backed startup that was working on an AI-powered collaboration board, has joined Microsoft, according to an email sen",
+    "body": "\nThe team behind Cove, a Sequoia-backed startup that was working on an AI-powered collaboration board, has joined Microsoft, according to an email sent to customers informing them that Cove’s service is shutting down.\nCove was founded in late 2023 by Stephen Chau, Andy Szybalski, and Mike Chu, all of whom worked on Google Maps features like Street View. The startup raised $6 million in a seed round from Sequoia Capital, Elad Gil, Homebrew, Adverb, Scott Belsky, and Lenny Rachitsky in 2024.\nIts tool was an infinite whiteboard where AI can generate different blocks for tasks like trip planning. The founders felt that the chat interface for AI was not editable, and a canvas provided more flexibility when going in different directions with prompts.\nCove also allowed users to access a built-in browser, PDFs, and images to give more context to its AI, which could create new cards, tables, and lists.\nThe startup competed with the likes of Miro, TLDraw, and Kosmik.\nImage Credits:Cove\nThe company said in an email to customers that the entire Cove team is joining Microsoft and the product will shut down on April 1, and all user data will be deleted. Cove mentioned that it has refunded all subscriptions for March and is offering a data export process.\n“When we started Cove, we set out to reimagine how people collaborate with AI. As model capabilities have accelerated, our conviction in that mission has only grown stronger. We’re thrilled to continue this work at Microsoft AI, where we’ll have the opportunity to pursue an even bigger vision,” the company said in a blog post on its site.\nIn addition, the company said that “the ideas behind it [Cove] will live on” within Microsoft. Notably, Microsoft added Copilot to its own collaboration product, Whiteboard, in 2023.\nTechCrunch reached out to Microsoft to understand how it plans to integrate Cove’s technology within its ecosystem, but did not immediately hear back. \n\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Facebook launches a new monetization program to attract popular creators from TikTok, YouTube",
+      "headline": "Microsoft hires the team of Sequoia-backed AI collaboration platform, Cove",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/03/facebook-logo-on-phone.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/03/cove-team-joins-microsoft.webp?w=150"
       ],
-      "datePublished": "2026-03-18T16:00:00.000Z",
-      "dateModified": "2026-03-18T16:00:00.000Z",
+      "datePublished": "2026-03-18T15:33:49.000Z",
+      "dateModified": "2026-03-18T15:33:49.000Z",
       "author": [
         {
           "@type": "Person",
@@ -275,6 +300,56 @@
     }
   },
   {
+    "title": "The leaderboard “you can’t game,” funded by the companies it ranks",
+    "url": "https://techcrunch.com/video/the-leaderboard-you-cant-game-funded-by-the-companies-it-ranks/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2154525596.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-03-18T16:30:00.000Z",
+    "description": "\n\t\t\n\nLoading the player…\n\nArtificial intelligence models are multiplying fast, and competition is stiff. With so many players crowding the space, whic",
+    "body": "\n\t\t\n\nLoading the player…\n\nArtificial intelligence models are multiplying fast, and competition is stiff. With so many players crowding the space, which one will be the best — and who decides that? Arena, formerly LM Arena, has emerged as the de facto public leaderboard for frontier LLMs, influencing funding, launches, and PR cycles. In just seven months, the startup went from a UC Berkeley PhD research project to being valued at $1.7 billion. \nWatch as Equity host Rebecca Bellan catches up with Arena co-founders Anastasios Angelopoulos and Wei-Lin Chiang about how their platform became the go-to leaderboard for frontier AI models, and how they’re trying to build a neutral benchmark even as companies like OpenAI, Google, and Anthropic back the project. \nThey break down how Arena works and why it’s harder to game than static benchmarks, what “structural neutrality” actually means, why Claude is currently topping expert leaderboards in legal and medical use cases, and how the company is expanding beyond chat to benchmark agents, coding, and real-world tasks with a new enterprise product.\nSubscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. You also can follow Equity on X and Threads, at @EquityPod. \n\n\t\t\n\tTopics\n\n\n\n\t\tTheresa Loconsolo is an audio producer at TechCrunch focusing on Equity, the network’s flagship podcast. Before joining TechCrunch in 2022, she was one of 2 producers at a four-station conglomerate where she wrote, recorded, voiced and edited content, and engineered live performances and interviews from guests like lovelytheband. Theresa is based in New Jersey and holds a bachelors degree in Communication from Monmouth University. You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n\n\t\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "The leaderboard “you can’t game,” funded by the companies it ranks",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2154525596.jpg?w=150"
+      ],
+      "datePublished": "2026-03-18T16:30:00.000Z",
+      "dateModified": "2026-03-18T16:30:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Facebook launches a new monetization program to attract popular creators from TikTok, YouTube",
+    "url": "https://techcrunch.com/2026/03/18/facebook-launches-a-new-monetization-program-to-attract-popular-creators-from-tiktok-youtube/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/03/facebook-logo-on-phone.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-03-18T16:00:00.000Z",
+    "description": "\nFacebook announced on Wednesday that it’s launching “Creator Fast Track,” a new program designed to help creators grow on Facebook with guaranteed pa",
+    "body": "\nFacebook announced on Wednesday that it’s launching “Creator Fast Track,” a new program designed to help creators grow on Facebook with guaranteed pay and increased content reach. The social network also shared that it paid creators nearly $3 billion through its monetization programs in 2025, a 35% increase from the previous year and its highest annual total to date. \nThe idea behind the new monetization program is to entice creators who have built followings on other platforms to start posting on Facebook. Instead of starting from scratch on a new platform, creators can use the program to attain increased reach on eligible Reels to help speed up their follower growth, plus three months of guaranteed pay for sharing eligible Reels on Facebook.\nCreators in the program can earn $1,000 per month if they have at least 100,000 followers on Instagram, TikTok, or YouTube, and $3,000 per month if they have over one million followers on any one of those platforms.\nImage Credits:Facebook\nThe program also gives eligible creators immediate access to Facebook’s content monetization tools without requiring them to meet the platform’s usual criteria, such as a minimum follower count, allowing them to continue earning from posts even after the Creator Fast Track program ends.\n“We wanted to be able to address creators’ concerns that it would be a hard road to onboard onto Facebook and build a community from scratch and build a following,” said Yair Livne, VP of Creator Product at Facebook, in a briefing with reporters. “So we set up this program to address that.”\nLivne noted that if it takes creators longer than three months to build their audience on Facebook, the company will continue to support them. While the monetary bonus only lasts three months, Facebook will continue to boost their reach until the point where the company believes the creator has found their audience on Facebook.\n“You don’t need to create exclusive, brand-new content for this program to meet our initial posting conditions,” Livne said. “Obviously, we would love for you to bring your latest and greatest, but if you have a great back catalog of best hits, we would love to get that as well, and that qualifies for the terms of the program. So super excited about this. This is something that is addressing a lot of feedback that we’ve heard from established creators who we’ve tried to entice, or have been interested in coming on board.”\nAs part of the announcement, the social network shared that the number of creators earning more than $10,000 annually on Facebook has grown by over 30% year-over-year. Additionally, 60% of Facebook’s total payout to creators last year went to reels, while the rest went to Stories, photos, and text posts.\nImage Credits:Facebook\nFacebook also announced that it’s going to introduce new metrics to help creators better understand their earnings. \nThe new “qualified views” metric tells creators the number of views on their content that may be eligible to earn money. Livne explained that there are several reasons a view may not qualify. For example, when someone watches just one second of a creator’s video before swiping away.\nA new “earnings rate” metric will show approximate earnings per 1,000 qualified views, while the “non-qualified views” metric will break down why certain views don’t qualify and what creators can do to improve earnings from future content.\n\n\n\t\tAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing aisha@techcrunch.com or via encrypted message at aisha_malik.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Facebook launches a new monetization program to attract popular creators from TikTok, YouTube",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/03/facebook-logo-on-phone.jpg?w=150"
+      ],
+      "datePublished": "2026-03-18T16:00:00.000Z",
+      "dateModified": "2026-03-18T16:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Kalshi’s legal troubles pile up, as Arizona files first ever criminal charges over ‘illegal gambling business’",
     "url": "https://techcrunch.com/2026/03/17/kalshis-legal-troubles-pile-up-as-arizona-files-first-ever-criminal-charges-over-illegal-gambling-business/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2237779170.jpg?w=150",
@@ -291,81 +366,6 @@
       ],
       "datePublished": "2026-03-17T21:39:17.000Z",
       "dateModified": "2026-03-17T21:39:17.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "DOD says Anthropic’s ‘red lines’ make it an ‘unacceptable risk to national security’",
-    "url": "https://techcrunch.com/2026/03/18/dod-says-anthropics-red-lines-make-it-an-unacceptable-risk-to-national-security/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2264385089.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-03-18T13:40:43.000Z",
-    "description": "\nThe U.S. Department of Defense said on Tuesday evening that Anthropic poses an “unacceptable risk to national security,” marking the agency’s first r",
-    "body": "\nThe U.S. Department of Defense said on Tuesday evening that Anthropic poses an “unacceptable risk to national security,” marking the agency’s first rebuttal to the AI lab’s lawsuits challenging Defense Secretary Pete Hegseth’s decision last month to label the company a supply-chain risk. As part of its complaints, Anthropic had requested the court temporarily block the DOD from enforcing its label.\nThe crux of the DOD’s argument, made in a 40-page filing in a California federal court, is the concern that Anthropic might “attempt to disable its technology or preemptively alter the behavior of its model” before or during “warfighting operations” if the company “feels that its corporate ‘red lines’ are being crossed.”\nAnthropic last summer signed a $200 million contract with the Pentagon to deploy its technology within classified systems. In later negotiations over the terms of the contract, Anthropic said it did not want its AI systems to be used for mass surveillance of Americans, and that the technology wasn’t ready for use in targeting or firing decisions of lethal weapons. The Pentagon contested that a private company shouldn’t dictate how the military uses technology.\nIn response, an Anthropic spokesperson pointed to CEO Dario Amodei’s late February statement: “Anthropic understands that the Department of War, not private companies, makes military decisions. We have never raised objections to particular military operations nor attempted to limit use of our technology in an ad hoc manner.”\nChris Mattei, a lawyer specializing in First Amendment issues and a former Justice Department attorney, told TechCrunch there has been no investigation to support the DOD’s concerns of Anthropic potentially disabling or altering its AI models during warfighting operations. Without that evidence, the department’s argument fails to adequately explain how Anthropic’s negotiating position rendered it an “adversary,” Mattei argued.\n“The government is relying completely on conjectural, speculative imaginings to justify a very, very serious legal step they’ve taken against Anthropic,” Mattei said. He added the department failed to “articulate a credible or even comprehensible rationale for why Anthropic’s refusal to agree to an ‘all lawful use’ provision rendered it a supply chain risk as opposed to a vendor that DOD simply didn’t want to do business with.”\nMany organizations have spoken out against the DOD’s treatment of Anthropic, arguing that the department could have just ended its contract. Several tech companies and employees — including from OpenAI, Google, and Microsoft — as well as legal rights groups have filed amicus briefs in support of Anthropic. \n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nIn its lawsuits, Anthropic accused the DOD of infringing on its First Amendment rights and punishing the company based on ideological grounds.  \n“In many ways, the government’s nonsensical arguments are themselves the best evidence that the administration’s conduct was plainly a retaliatory punishment for Anthropic’s refusal to agree to the government’s terms, which, contrary to the government’s brief, is a form of protected expression,” Mattei told TechCrunch.\nA hearing on Anthropic’s request for a preliminary injunction is set for next Tuesday.\nAn Anthropic spokesperson told TechCrunch that its decision to seek judicial review does not change its “longstanding commitment to harnessing AI to protect our national security,” but that it’s a “necessary step” to protect its business, customers, and partners.\nThis article has been updated to include information from Chris Mattei, a constitutional rights lawyer, and comments from Anthropic.\n\n\n\t\tRebecca Bellan is a senior reporter at TechCrunch where she covers the business, policy, and emerging trends shaping artificial intelligence. Her work has also appeared in Forbes, Bloomberg, The Atlantic, The Daily Beast, and other publications. \r\nYou can contact or verify outreach from Rebecca by emailing rebecca.bellan@techcrunch.com or via encrypted message at rebeccabellan.491 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "DOD says Anthropic’s ‘red lines’ make it an ‘unacceptable risk to national security’",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2264385089.jpg?w=150"
-      ],
-      "datePublished": "2026-03-18T13:40:43.000Z",
-      "dateModified": "2026-03-18T13:40:43.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Nvidia is quietly building a multibillion-dollar behemoth to rival its chips business",
-    "url": "https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2183848584.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-03-18T20:01:19.000Z",
-    "description": "\nNvidia CEO Jensen Huang was years ahead of the market when he pushed the company to start tinkering with building AI-specific chips back in 2010, mor",
-    "body": "\nNvidia CEO Jensen Huang was years ahead of the market when he pushed the company to start tinkering with building AI-specific chips back in 2010, more than a decade before the current buzz around AI. A similar move in 2020 — doubling down on data center networking with a strategic acquisition — has led to one of the company’s most lucrative and quickly growing divisions, but with little fanfare.\nIn just a few years, Nvidia’s networking business, designed to connect data centers, has grown into the company’s second-largest revenue driver behind compute. Last quarter, it reported $11 billion in revenue, a year-over-year increase of 267%, and brought in more than $31 billion for the full year, according to Nvidia’s most recent earnings.\nDriven by growth in AI processing, the division includes tech like NVLink, which powers communication between GPUs on a data center rack; Nvidia InfiniBand Switches, an in-network computing platform; Spectrum-X, the ethernet platform for AI networking; and co-packaged optics switches, among others.\nTogether, Nvidia’s networking business includes all the tech needed for building an “AI factory,” a data center designed for training AI models. \nKevin Cook, a senior equity strategist at Zacks Investment research, told TechCrunch that Nvidia’s networking business is one of the most impressive new segments from the company. “[Nvidia’s networking business] reports $11 billion for the quarter; that number is greater than Cisco’s networking business, almost as big as the full-year estimates,” Cook said, adding it does in one quarter what Cisco’s business does in a year.\nAnd yet — the business segment doesn’t draw the same attention as the company’s chip business, which is significantly larger. It also doesn’t get as much fanfare as the company’s gaming business, it’s original bread-and-butter business, which is nearly three times smaller.\nThe origin of Nvidia’s networking business comes from Mellanox, a networking company founded in Israel in 1999 that Nvidia acquired in 2020 for $7 billion. \n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nKevin Deierling is a senior vice president of networking at Nvidia and joined the company through the acquisition of Mellanox. Deierling told TechCrunch that people not knowing about Nvidia’s networking business could be his fault for doing a bad job of marketing it — but he doesn’t like that answer.\n“People think of networking as just, ‘I got a printer, and I need to connect to it,’” Deierling said. “Jensen said this the first day when he acquired us, he said the data center is the new unit of computing. Networking is a lot more than just moving the smaller amounts of data between a compute node, it’s actually a foundation.”\nWhile Deierling said he didn’t really understand why Huang bought the company when he did — he gets it now. Having a networking business alongside its GPU business allows the company to sell its chips with the tech that they work best with.\n“When Jensen bought Mellanox in 2020, he saw that was the missing piece to make GPUs a complete package,” Cook, the Zack’s analyst, said.\nDeierling added that he thinks another aspect of Nvidia networking’s success is that they only sell the tech as a full-stack solution, as opposed to individual components, and they don’t actually sell the tech themselves, but rather through their partners.\n“I can’t think of other companies that have [the] full-stack capabilities that we have,” Deierling said. “We are really different. We build the full compute stack, fully integrated stack, and then we go to market through all of our partners.”\nNvidia just announced a whole new slew of updates to its networking system during Huang’s keynote address on March 16 at the company’s annual Nvidia GTC technology conference. The company launched the Nvidia Rubin platform, which includes six new chips to power an “AI supercomputer.” Nvidia also announced a new Nvidia Inference Context Memory Storage platform and more efficient Nvidia Spectrum-X Ethernet Photonics switches, among other products.\n“It’s no longer a peripheral to connect the printer, some other slow I/O device,” Deierling said about networking. “It’s fundamental to the computer. In the old days, we had what was called the back lining inside the computer. Today, the network is the back lining of the AI factory, and it’s super important.”\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Nvidia is quietly building a multibillion-dollar behemoth to rival its chips business",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2183848584.jpg?w=150"
-      ],
-      "datePublished": "2026-03-18T20:01:19.000Z",
-      "dateModified": "2026-03-18T20:01:19.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Rebel Audio is a new AI podcasting tool aimed at first-time creators ",
-    "url": "https://techcrunch.com/2026/03/18/rebel-audio-is-a-new-ai-podcasting-tool-aimed-at-first-time-creators/",
-    "image": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-1297183927.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-03-18T17:15:00.000Z",
-    "description": "\nYou’ve more than likely had that moment where you’re sitting with a friend, the conversation is flowing, you’re making each other laugh, maybe even s",
-    "body": "\nYou’ve more than likely had that moment where you’re sitting with a friend, the conversation is flowing, you’re making each other laugh, maybe even saying something surprisingly insightful. Then someone says it: “We should start a podcast.”\nMost of the time, that idea fades as quickly as it came. Not because it’s necessarily a bad idea, but because actually making a podcast has always been kind of a pain. Between recording setups, editing software, and promotion, many argue that the barrier to entry is higher than expected. \nThat’s the gap a new platform, Rebel Audio, is trying to close.\nRebel Audio positions itself as an all-in-one podcasting platform designed for first-time and early-stage creators. The idea is simple: Instead of juggling multiple tools, subscriptions, and workflows, podcasters can create their show, record it, edit it, upload cover artwork, create transcripts, clip content for social, and publish, all without ever leaving the platform. \nRebel Audio launched a private beta with a waitlist earlier this month, and it recently secured $3.8 million in an oversubscribed seed round, suggesting that investors see real opportunity in simplifying the podcasting process. An official rollout to the public begins on May 30.  \nImage Credits:Rebel Audio\nThe timing of the launch makes sense. Podcasting is exploding, with the industry projected to reach $114.5 billion by 2030. According to Riverside, more than 584 million people listened to podcasts in 2025, with predictions that this number will rise to 619 million by 2026.\nCompetitors like Spotify for Creators (formerly Spotify for Podcasters) have already adopted a similar all-in-one approach, offering tools like unlimited hosting, video podcast uploads, audience tools, analytics, and monetization through ads and subscriptions. However, Rebel Audio argues that none of these solutions deliver a truly “360-degree” creation suite in the way its platform aims to. Other popular rivals include Riverside, Adobe Audition, and Descript.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nMonetization is another core part of the pitch. Rather than treating revenue as something that comes later, Rebel Audio integrates it from the beginning. Creators can tap into advertising, brand partnerships, dynamic ad insertion, and listener subscriptions integrated within the platform. \nImage Credits:Rebel Audio\nUnsurprisingly, Rebel Audio’s experience is also heavily powered by AI. \nThe platform includes an AI assistant that helps with everything from generating show names and descriptions to suggesting ideas and producing cover art based on a concept. There are also AI-powered transcription, dubbing, and translation capabilities, as well as voice cloning for ad reads. \nHowever, building a podcasting platform centered around AI could introduce criticism. \nThe use of AI-generated images and voice cloning remains a sensitive topic across the creative industry. Concerns around training data, originality, and ownership continue to surface, and some creators remain wary of tools that blur those lines. Streaming platforms like Spotify and Deezer have already had to address issues related to low-quality, mass-produced AI content, sometimes referred to as “AI slop.” \nRebel Audio told TechCrunch that it has implemented guardrails to address these concerns. Voice cloning is opt-in and requires users to confirm they have the rights to use a given voice, and the platform includes safeguards aimed at preventing deepfake content. Similarly, the company says its AI-generated cover art tools are designed with moderation systems to block inappropriate or non-compliant imagery, particularly anything that could violate distribution platform guidelines.\nRebel Audio was developed in partnership with AI consulting firm Lattice Partners.\nImage Credits:Rebel Audio\nBehind the scenes, the company’s leadership brings a lot of industry experience. Founder Jared Gutstadt previously launched production company Audio Up in 2020. Rebel Audio plans to migrate Audio Up’s catalog onto the platform, including shows involving big names like Machine Gun Kelly, Anthony Anderson, Dennis Quaid, Jason Alexander, and Luke Wilson.\nThe broader team includes veterans from companies like MGM and DreamWorks, and even Mark Burnett has joined as an advisor. Burnett is the producer behind shows “Survivor,” “The Voice,” and “Shark Tank.”\nPricing-wise, the platform is structured in tiers, starting with a basic plan ($15/month) that offers AI-assisted production, hosting, and distribution to all major platforms, a Plus plan ($35/month), which includes video hosting, and voice cloning for ad reads, scaling up to a full Pro package ($70/month) that includes dynamic ad insertion, listener subscriptions, translation, and dubbing.\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Rebel Audio is a new AI podcasting tool aimed at first-time creators ",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-1297183927.jpg?w=150"
-      ],
-      "datePublished": "2026-03-18T17:15:00.000Z",
-      "dateModified": "2026-03-18T17:15:00.000Z",
       "author": [
         {
           "@type": "Person",
