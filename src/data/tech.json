@@ -1,30 +1,5 @@
 [
   {
-    "title": "WordPress.com now lets AI agents write and publish posts, and more",
-    "url": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/09/wordpress-v1.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-03-20T16:43:09.000Z",
-    "description": "\nWeb hosting platform WordPress.com is embracing AI agents, a decision that could change the look and feel of the web. The company announced Friday th",
-    "body": "\nWeb hosting platform WordPress.com is embracing AI agents, a decision that could change the look and feel of the web. The company announced Friday that it will now allow AI agents to draft, edit, and publish content on customers’ websites, as well as manage comments, update and fix metadata, organize content with tags and categories.\nAll of this is controlled through an interface where the website’s owner explains what they want to do using natural language commands.\nWith these new capabilities, websites could be almost entirely created and run via AI agents controlled by humans. This lowers the barrier to setting up and maintaining websites; it may also help fill the web with content no longer written by people, but by machines.\nAs a publishing platform, WordPress powers over 43% of all websites on the internet. The hosted version at WordPress.com represents only a small fraction of that total. Still, its network of websites has a sizable footprint, seeing 20 billion page views and 409 million unique visitors every month.\nImage Credits:WordPress.com\nThe new AI capabilities follows the introduction of MCP support on WordPress.com last fall. MCP, or Model Context Protocol, is a newer standard that allows applications to provide context to large language models (LLMs). With WordPress.com’s MCP support, AI assistants have been able to connect to the platform to give customers visibility into their site’s content, settings, and analytics from their preferred AI app, like Claude Desktop, Cursor, VS Code, or others.\nNow, WordPress.com will allow AI agents to not only read the site’s content but also create posts, landing pages, and About pages, as well as make structural changes.\nImage Credits:WordPress.com\nAt launch, the AI agents will also be able to approve, reply to, and clean up comments; create, rename, and restructure categories and tags across the site; and fix alt text, captions, and titles to improve the site’s SEO. These changes and others are all tracked through the site’s Activity Log, the company notes.\nCustomers can author drafts for their AI agent to publish, tag, and categorize, along with a meta description. But they can opt to allow their AI agent to create a post or page by describing what they want to publish. The company says all changes require the user’s approval, and posts written by AI are saved as drafts by default. \nEven with these limitations, the expanded capabilities could greatly speed up the creation of websites where humans aren’t doing much of the content creation.\nImage Credits:WordPress.com\nThe company also notes that the AI agent can search the site’s theme and design before it begins creating content, so it understands how to use the same colors, fonts, spacing, and block patterns. \nTo enable the new functionality on their account, WordPress.com customers will go to wordpress.com/mcp, then toggle on the capabilities they want to use. They can then connect their preferred AI client, such as Claude, Cursor, ChatGPT, or any other MCP-enabled tool, and begin creating.\nWhile there are likely going to be concerns about what this means for the state of the web’s content, it’s worth noting that AI-authored posts can give human readers insight into how these models write and engage. Meta recently snapped up a social network called Moltbook, where AI agents were allowed to post, reply, and connect with one another. Anthropic has also experimented with letting an AI write a blog, with human oversight.\n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "WordPress.com now lets AI agents write and publish posts, and more",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/09/wordpress-v1.jpg?w=150"
-      ],
-      "datePublished": "2026-03-20T16:43:09.000Z",
-      "dateModified": "2026-03-20T16:43:09.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Pinterest CEO calls on governments to ban social media for users under 16",
     "url": "https://techcrunch.com/2026/03/20/pinterest-ceo-calls-on-governments-to-ban-social-media-for-users-under-16/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/08/bill-ready-pinterest-GettyImages-2213037081.jpg?w=150",
@@ -41,56 +16,6 @@
       ],
       "datePublished": "2026-03-20T19:01:54.000Z",
       "dateModified": "2026-03-20T19:01:54.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Why scientists can’t get a laugh",
-    "url": "https://techcrunch.com/2026/03/20/why-scientists-cant-get-a-laugh/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1073823296-e1694076650636.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-03-20T17:39:06.000Z",
-    "description": "\nIn Brief\nPosted:\n10:39 AM PDT · March 20, 2026\n\nImage Credits:Andrew Brookes / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nA newly publis",
-    "body": "\nIn Brief\nPosted:\n10:39 AM PDT · March 20, 2026\n\nImage Credits:Andrew Brookes / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nA newly published survey of more than 500 science conference presentations across a two-year period set out to determine whether scientists are funny, which is itself funny, if not the most productive use of time. The results were about what you’d expect: two-thirds of attempts at humor garnered either polite chuckles or straight-up dead silence, and only 9% landed well enough to get most of the room laughing. The biggest laughs, also unsurprisingly, came from technical snafus, like slides malfunctioning and mics cutting out. (Nothing brings an audience together faster than watching something go wrong for someone else.)\nAnyone who has sat through a conference on any topic, anywhere, knows scientists don’t have a monopoly on bombing. Humor is hard to pull off in front of any audience that hasn’t been warmed up. Even SNL calls its opening segment a “cold open” — the audience hasn’t laughed at anything yet, which makes that first laugh the hardest one to get.\nRoughly 40% of the talks just avoided humor entirely, which is safe but probably makes for an even longer afternoon. More interesting — per science — it makes talks less memorable. “Despite the incredible wealth of interesting content at conferences, it can be hard to stay engaged. And by engaged, I mean awake,” one physician-scientist told Nature, which also spoke with one of the study’s eight(!) co-authors.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Biotech & Health\n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Why scientists can’t get a laugh",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1073823296-e1694076650636.jpg?w=150"
-      ],
-      "datePublished": "2026-03-20T17:39:06.000Z",
-      "dateModified": "2026-03-20T17:39:06.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
-    "url": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-184123956.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-03-19T22:09:24.000Z",
-    "description": "\nIn Brief\nPosted:\n3:09 PM PDT · March 19, 2026\n\nImage Credits:David Ryder (opens in a new window) / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t",
-    "body": "\nIn Brief\nPosted:\n3:09 PM PDT · March 19, 2026\n\nImage Credits:David Ryder (opens in a new window) / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nJeff Bezos is reportedly seeking $100 billion for a new fund, the likes of which will be used to buy up companies in major industrial sectors and, ultimately, modernize and automate them with AI, according to sources cited by The Wall Street Journal.\nThe effort is related to Bezos’ AI startup, Project Prometheus. Bezos, whose involvement with the company was originally reported in November, is serving as co-founder and co-CEO, alongside former Google executive Vik Bajaj.\nPrometheus, which launched with $6.2 billion in funding, is focused on creating high-level AI models to improve manufacturing and engineering in aerospace, automotive, and other sectors. The new manufacturing fund will support that mission by buying up companies that will ultimately use Prometheus’ models.\nAccording to the WSJ, Bezos recently traveled to Singapore and the Middle East in his mission to raise funds for the effort. The plan is to acquire companies in areas like aerospace, chipmaking, and defense.\nTechCrunch reached out to Bezos via Amazon for more information. \n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in AI\n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-184123956.jpg?w=150"
-      ],
-      "datePublished": "2026-03-19T22:09:24.000Z",
-      "dateModified": "2026-03-19T22:09:24.000Z",
       "author": [
         {
           "@type": "Person",
@@ -150,6 +75,56 @@
     }
   },
   {
+    "title": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
+    "url": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-184123956.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-03-19T22:09:24.000Z",
+    "description": "\nIn Brief\nPosted:\n3:09 PM PDT · March 19, 2026\n\nImage Credits:David Ryder (opens in a new window) / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t",
+    "body": "\nIn Brief\nPosted:\n3:09 PM PDT · March 19, 2026\n\nImage Credits:David Ryder (opens in a new window) / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nJeff Bezos is reportedly seeking $100 billion for a new fund, the likes of which will be used to buy up companies in major industrial sectors and, ultimately, modernize and automate them with AI, according to sources cited by The Wall Street Journal.\nThe effort is related to Bezos’ AI startup, Project Prometheus. Bezos, whose involvement with the company was originally reported in November, is serving as co-founder and co-CEO, alongside former Google executive Vik Bajaj.\nPrometheus, which launched with $6.2 billion in funding, is focused on creating high-level AI models to improve manufacturing and engineering in aerospace, automotive, and other sectors. The new manufacturing fund will support that mission by buying up companies that will ultimately use Prometheus’ models.\nAccording to the WSJ, Bezos recently traveled to Singapore and the Middle East in his mission to raise funds for the effort. The plan is to acquire companies in areas like aerospace, chipmaking, and defense.\nTechCrunch reached out to Bezos via Amazon for more information. \n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in AI\n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-184123956.jpg?w=150"
+      ],
+      "datePublished": "2026-03-19T22:09:24.000Z",
+      "dateModified": "2026-03-19T22:09:24.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Why scientists can’t get a laugh",
+    "url": "https://techcrunch.com/2026/03/20/why-scientists-cant-get-a-laugh/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1073823296-e1694076650636.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-03-20T17:39:06.000Z",
+    "description": "\nIn Brief\nPosted:\n10:39 AM PDT · March 20, 2026\n\nImage Credits:Andrew Brookes / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nA newly publis",
+    "body": "\nIn Brief\nPosted:\n10:39 AM PDT · March 20, 2026\n\nImage Credits:Andrew Brookes / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nA newly published survey of more than 500 science conference presentations across a two-year period set out to determine whether scientists are funny, which is itself funny, if not the most productive use of time. The results were about what you’d expect: two-thirds of attempts at humor garnered either polite chuckles or straight-up dead silence, and only 9% landed well enough to get most of the room laughing. The biggest laughs, also unsurprisingly, came from technical snafus, like slides malfunctioning and mics cutting out. (Nothing brings an audience together faster than watching something go wrong for someone else.)\nAnyone who has sat through a conference on any topic, anywhere, knows scientists don’t have a monopoly on bombing. Humor is hard to pull off in front of any audience that hasn’t been warmed up. Even SNL calls its opening segment a “cold open” — the audience hasn’t laughed at anything yet, which makes that first laugh the hardest one to get.\nRoughly 40% of the talks just avoided humor entirely, which is safe but probably makes for an even longer afternoon. More interesting — per science — it makes talks less memorable. “Despite the incredible wealth of interesting content at conferences, it can be hard to stay engaged. And by engaged, I mean awake,” one physician-scientist told Nature, which also spoke with one of the study’s eight(!) co-authors.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Biotech & Health\n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Why scientists can’t get a laugh",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1073823296-e1694076650636.jpg?w=150"
+      ],
+      "datePublished": "2026-03-20T17:39:06.000Z",
+      "dateModified": "2026-03-20T17:39:06.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
     "url": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
     "image": "https://techcrunch.com/wp-content/uploads/2022/06/moshed-windows-11.jpg?w=150",
@@ -166,131 +141,6 @@
       ],
       "datePublished": "2026-03-20T20:53:09.000Z",
       "dateModified": "2026-03-20T20:53:09.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Amid legal turmoil, Kalshi is temporarily banned in Nevada",
-    "url": "https://techcrunch.com/2026/03/20/amidst-legal-turmoil-kalshi-is-temporarily-banned-in-nevada/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/04/54430828088_f8b05f4647_4k.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-03-20T19:15:55.000Z",
-    "description": "\nKalshi isn’t having a very good week. On Tuesday, the attorney general of Arizona filed a 20-count criminal complaint against the online prediction m",
-    "body": "\nKalshi isn’t having a very good week. On Tuesday, the attorney general of Arizona filed a 20-count criminal complaint against the online prediction market, accusing it of running an illegal gambling business. Now, another southwestern state has taken a big swing at the company: A judge in Nevada has temporarily banned the service from operating there as part of an ongoing court case brought by state regulators.\nNevada, on behalf of its Gaming Control Board, sued Kalshi in February in an effort to block the prediction site from operating. Officials maintain that Kalshi has failed to acquire the appropriate gaming licenses that would cover the kind of betting activity its users are engaged in and that, by allowing users under the age of 21 to use its services, it violates state law.\nEarlier this month, the state requested a temporary restraining order against Kalshi as part of its ongoing case. In a state court on Friday, Judge Jason D. Woodbury granted the state’s request and scheduled a hearing on the restraining order for early next month, court documents show.\nIn his order, Woodbury wrote that Kalshi was not licensed under the Nevada Gaming Control Act and that, given Kalshi’s policy of taking a commission from contracts purchased through its system, it was clearly operating a “percentage game” (which the state defines as gambling).\nKalshi has argued that, due to its registration with the Commodity Futures Trading Commission, it is under that federal agency’s exclusive regulatory domain, which should exempt it from state laws, court documents show. However, Woodbury noted that the issue of whether federal law overrides state law is still unsettled for now, but the courts have not been leaning in that direction.\nKalshi declined to comment on the development when reached by TechCrunch. Wired first reported on the judge’s decision. Reuters reports that Nevada had previously convinced judges to ban Kalshi competitors like Coinbase and Polymarket.\nThe Nevada case in which the prediction market finds itself is but one in a growing number of state cases across the country that seek to argue that sites like Kalshi and Polymarket are illegal operations that skirt state gambling laws. \n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nConversely, current federal officials have positioned themselves as protectors of the prediction industry. Case in point: Following Arizona’s decision to file criminal charges against Kalshi earlier this week, the CFTC’s chairman, Mike Selig, came out swinging against the decision, posting online: “The Arizona Attorney General today filed criminal charges against one of our registered exchanges related to prediction markets. This is a jurisdictional dispute and entirely inappropriate as a criminal prosecution. The @CFTC is watching this closely and evaluating its options.”\nThe increasingly hostile posture of state officials and the lenience of the CFTC have all but guaranteed a regulatory battle between states and the federal government over prediction markets and their future.\n\n\n\t\n\t\tLucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. \nYou can contact Lucas by emailing lucas.ropek@techcrunch.com.\t\n\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Amid legal turmoil, Kalshi is temporarily banned in Nevada",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/04/54430828088_f8b05f4647_4k.jpg?w=150"
-      ],
-      "datePublished": "2026-03-20T19:15:55.000Z",
-      "dateModified": "2026-03-20T19:15:55.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Elon Musk misled Twitter investors while trying to get out of acquisition, jury says",
-    "url": "https://techcrunch.com/2026/03/20/elon-musk-misled-twitter-investors-while-trying-to-get-out-of-acquisition-jury-says/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/04/twitter-bird-with-elon-musk-head-tear.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-03-20T23:29:17.000Z",
-    "description": "\nA civil jury in California on Friday ruled that Elon Musk intentionally misled Twitter investors when he tried to back out of his $44 billion acquisi",
-    "body": "\nA civil jury in California on Friday ruled that Elon Musk intentionally misled Twitter investors when he tried to back out of his $44 billion acquisition of the platform in 2022.\nAt the time, Musk had tweeted that Twitter had too many bots, which is why he later tried to renege on the acquisition. (Twitter ended up suing Musk to force him to seal the deal.)\n“Twitter deal temporarily on hold pending details supporting calculation that spam/fake accounts do indeed represent less than 5% of users,” Musk wrote on the platform that he has since renamed X.\n\nTwitter deal temporarily on hold pending details supporting calculation that spam/fake accounts do indeed represent less than 5% of usershttps://t.co/Y2t0QMuuyn— Elon Musk (@elonmusk) May 13, 2022\n\nIn the days after Musk posted this, Twitter shares declined 8%. Investor Giuseppe Pampena filed suit against Musk on behalf of other former Twitter investors who had sold Twitter shares between May 13 (the day of the tweet) and October 4, the day the deal was finalized.\nPampena’s lawsuit argued that Musk intentionally posted about his concerns with Twitter to create uncertainty about the platform’s stability to artificially drive down its stock price, causing those who sold shares during that window to suffer losses. Musk’s attorneys argued that he was expressing legitimate concerns about the number of bots on the app. But the jury was more convinced by the plaintiff’s argument.\nIt is not yet clear how much money Musk will have to pay to those former Twitter shareholders, but Pampena’s attorney said that damages could reach up to $2.6 billion, according to CNBC. It’s not a huge blow for Musk, as Bloomberg estimates his net worth at over $660 billion.\nThis isn’t Musk’s first experience going to court over tweets. In 2018, he tweeted that he had secured funding to take Tesla private at $420 per share, meaning he planned to buy out public shareholders and delist the company from stock exchanges. The SEC alleged that these posts were misleading, charging Musk with securities fraud. Musk later had to testify in court that he was not making a marijuana joke (420 being a widely recognized reference to cannabis) and maintained that he earnestly believed that he would take Tesla private at $420 per share, which was a substantial premium on Tesla’s stock price at that time.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nMusk emerged victorious in a similar lawsuit that shareholders filed about the “funding secured” tweet, but this time, he’ll have to pay up. \nAfter acquiring Twitter, Musk rebranded the company as X, then merged it with his newer AI company, xAI. The combined company was valued at $113 billion, according to Musk. Then, last month, SpaceX merged with xAI. Musk has said that the merger was motivated by his desire to build data centers in space.\n\n\n\t\tAmanda Silberling is a senior writer at TechCrunch covering the intersection of technology and culture. She has also written for publications like Polygon, MTV, the Kenyon Review, NPR, and Business Insider. She is the co-host of Wow If True, a podcast about internet culture, with science fiction author Isabel J. Kim. Prior to joining TechCrunch, she worked as a grassroots organizer, museum educator, and film festival coordinator. She holds a B.A. in English from the University of Pennsylvania and served as a Princeton in Asia Fellow in Laos.\nYou can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Elon Musk misled Twitter investors while trying to get out of acquisition, jury says",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2023/04/twitter-bird-with-elon-musk-head-tear.jpg?w=150"
-      ],
-      "datePublished": "2026-03-20T23:29:17.000Z",
-      "dateModified": "2026-03-20T23:29:17.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet",
-    "url": "https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2266464474.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-03-20T20:02:35.000Z",
-    "description": "\n\t\t\n\nLoading the player…\n\nCEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-",
-    "body": "\n\t\t\n\nLoading the player…\n\nCEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting $1 trillion in AI chip sales through 2027, declaring that every company needs an “OpenClaw strategy,” and closing with a rambling Olaf robot that had to get its mic cut. The message was hard to miss: Nvidia wants to be foundational to everything, from AI training to autonomous vehicles to Disney parks. \nOn this episode of TechCrunch’s Equity podcast, Kirsten Korosec, Anthony Ha, and Sean O’Kane break down what Nvidia’s growing web of AI infrastructure partnerships actually means for startups, and discuss more of the week’s headlines. \nSubscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. You also can follow Equity on X and Threads, at @EquityPod. \n\n\t\t\n\tTopics\n\n\n\n\t\tTheresa Loconsolo is an audio producer at TechCrunch focusing on Equity, the network’s flagship podcast. Before joining TechCrunch in 2022, she was one of 2 producers at a four-station conglomerate where she wrote, recorded, voiced and edited content, and engineered live performances and interviews from guests like lovelytheband. Theresa is based in New Jersey and holds a bachelors degree in Communication from Monmouth University. You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n\n\t\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2266464474.jpg?w=150"
-      ],
-      "datePublished": "2026-03-20T20:02:35.000Z",
-      "dateModified": "2026-03-20T20:02:35.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Jeff Bezos’ Blue Origin enters the space data center game",
-    "url": "https://techcrunch.com/2026/03/20/jeff-bezos-blue-origin-enters-the-space-data-center-game/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/blue-origin-new-glenn.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-03-20T16:27:43.000Z",
-    "description": "\nBlue Origin, the space conglomerate founded by Amazon chair Jeff Bezos, has asked the U.S. government for permission to launch a network of more than",
-    "body": "\nBlue Origin, the space conglomerate founded by Amazon chair Jeff Bezos, has asked the U.S. government for permission to launch a network of more than 50,000 satellites that will act as a data center in orbit.\nIn a March 19 document filed with the Federal Communications Commission (FCC), Blue Origin’s attorneys described “Project Sunrise” as a network of spacecraft that will perform advanced computation in orbit to “ease mounting pressure on U.S. communities and natural resources by shifting energy — and water-intensive compute away from terrestrial data centers.”\nBlue Origin’s filing did not describe its plans for the satellites in detail, so it’s hard to know how much computing power the company is aiming to generate in space. It does note that Blue Origin plans to use another satellite constellation it is seeking to build, called TeraWave, as a high-throughput communications backbone for the data satellites.\nShifting massive compute to space is attractive because solar energy is free to harvest and, once in orbit, there are fewer regulations restricting corporate activities. Entrepreneurs behind these projects envision a future where AI tools are widespread and imagine that much of the inference work behind them will be outsourced to orbit. \nSeveral companies are already pursuing the idea. SpaceX has filed for permission to launch a million satellites to be used as a distributed data center, while the startup Starcloud has proposed a network of 60,000 spacecraft to the FCC. Google is also developing a concept for a space data center called Project Suncatcher, which will see its partner Planet Labs launch two demo spacecraft next year.\nWhile excitement about space data centers is high in the tech world, the economics of these projects remain challenging. Technology for cooling processors and communicating between spacecraft with powerful lasers will need to be developed and manufactured as cheaply as possible, while scientists are still determining how well advanced chips work on different tasks while exposed to the high radiation environment of space.\nA critical area is the cost to launch these computers into orbit, and most are betting that the price of reaching orbit will fall due to SpaceX’s Starship rocket, which is still under development and may see its first 2026 launch next month.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThis is an area where Blue Origin, long an also-ran in the rocket business, may have an advantage. Its New Glenn rocket, which first flew last year, is one of the most powerful operational launch vehicles on Earth. If the company can start flying and reusing them at a regular pace, Blue Origin could see the same kind of benefits from vertical integration that allowed SpaceX to dominate space telecommunications with its Starlink network.\nBeyond economic and technological challenges, the space environment itself may prove an obstacle. Space in key orbits close to Earth is getting ever more congested, and adding tens or hundreds of thousands of new satellites will increase concerns about orbital collisions. Meanwhile, burning up thousands of satellites in orbit after they become obsolete, as is standard practice in the industry today, is likely to affect the chemistry of the upper atmosphere, with researchers concerned about harms to the ozone layer.\nThe filing also lacked details about timing, but experts tell TechCrunch that such projects are unlikely to come to fruition until the 2030s.\n\n\n\t\n\t\tTim Fernholz is a journalist who writes about technology, finance and public policy. He has closely covered the rise of the private space industry and is the author of  Rocket Billionaires: Elon Musk, Jeff Bezos and the New Space Race. Formerly, he was a senior reporter at Quartz, the global business news site, for more than a decade, and began his career as a political reporter in Washington, D.C. \nYou can contact or verify outreach from Tim by emailing tim.fernholz@techcrunch.com or via an encrypted message to tim_fernholz.21 on Signal.\r\n\t\n\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Jeff Bezos’ Blue Origin enters the space data center game",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/01/blue-origin-new-glenn.jpg?w=150"
-      ],
-      "datePublished": "2026-03-20T16:27:43.000Z",
-      "dateModified": "2026-03-20T16:27:43.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Amazon working on new smartphone with Alexa at its core, report says",
-    "url": "https://techcrunch.com/2026/03/20/amazon-working-on-new-smartphone-with-alexa-at-its-core-report-says/",
-    "image": "https://techcrunch.com/wp-content/uploads/2014/07/sequence-02-still002.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-03-20T14:51:30.000Z",
-    "description": "\nLooks like Amazon’s getting back into the smartphone game. More than 11 years after the e-commerce giant pulled the plug on its failed first effort, ",
-    "body": "\nLooks like Amazon’s getting back into the smartphone game. More than 11 years after the e-commerce giant pulled the plug on its failed first effort, the Fire Phone, the company is now developing a new smartphone codenamed “Transformer,” Reuters reported, citing anonymous sources.\nThe device is being developed by the company’s Devices and Services division, and it would feature personalized features that would make it easier to use Amazon’s suite of apps, including Amazon Shopping, Prime Video, and Prime Music, the report said.\nThe smartphone would also support Alexa, the smart home assistant that Amazon has been investing heavily in, adding AI chops and expanding support to work with most of the company’s devices. AI features are said to be a big focus for the smartphone, which is being seen internally as a way to encourage Amazon customers to use its AI products, Reuters reported.\nThe smartphone is said to be developed by a relatively new unit within the Devices division called ZeroOne, which is led by J Allard, a former Microsoft executive who helped create the Xbox.\nThe news comes as Amazon has been going all-in on AI, investing $50 billion into OpenAI recently, and projecting $200 billion in capital expenditures toward its AI, chips, and robotics efforts in 2026.\nThe company spent more than a year revamping its Alexa assistant with generative AI features, finally launching it this February as Alexa+. The assistant keeps its smart home chops, and can now do most things that other AI chatbots can — like planning an itinerary for a trip, updating a shared calendar, finding and saving recipes to a library, making movie recommendations, helping with homework, exploring a topic, and more. \nAmazon declined to comment.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n\n\n\t\tRam is a financial and tech reporter and editor. He covered North American and European M&A, equity, regulatory news and debt markets at Reuters and Acuris Global, and has also written about travel, tourism, entertainment and books.\nYou can contact or verify outreach from Ram by emailing ram.iyer@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Amazon working on new smartphone with Alexa at its core, report says",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2014/07/sequence-02-still002.jpg?w=150"
-      ],
-      "datePublished": "2026-03-20T14:51:30.000Z",
-      "dateModified": "2026-03-20T14:51:30.000Z",
       "author": [
         {
           "@type": "Person",
@@ -325,22 +175,122 @@
     }
   },
   {
-    "title": "US accuses Iran’s government of operating hacktivist group that hacked Stryker",
-    "url": "https://techcrunch.com/2026/03/20/u-s-accuses-irans-government-of-operating-hacktivist-group-that-hacked-stryker/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/iran-flags.jpg?w=150",
+    "title": "Amazon working on new smartphone with Alexa at its core, report says",
+    "url": "https://techcrunch.com/2026/03/20/amazon-working-on-new-smartphone-with-alexa-at-its-core-report-says/",
+    "image": "https://techcrunch.com/wp-content/uploads/2014/07/sequence-02-still002.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-03-20T16:18:57.000Z",
-    "description": "\nThe U.S. Justice Department accused Iran’s government of being behind the hacktivist group Handala, which last week claimed responsibility for the de",
-    "body": "\nThe U.S. Justice Department accused Iran’s government of being behind the hacktivist group Handala, which last week claimed responsibility for the destructive cyberattack against the U.S. medical tech giant Stryker. \nIn a press release published on Thursday, the Justice Department said Iran’s Ministry of Intelligence and Security (MOIS) is operating Handala. \nThe Justice Department called the group a fake activist persona that the Iranian ministry used to carry out “psychological operations” against the regime’s enemies, to claim responsibility for cyberattacks, and to publish stolen information obtained during those hacks. The group also called for the killing of journalists, regime dissidents, and Israeli persons, per the DOJ. \nThe announcement came hours after the FBI seized two websites linked to Handala, as first reported by TechCrunch. The group used the websites to publicize its alleged cyberattacks, as well as to publish the personal information of dozens of people who allegedly worked for the Israeli military and defense contractors. \nHandala took credit on its website for the March 11 cyberattack on Stryker, during which the hackers remotely wiped tens of thousands of employee devices. The hackers said the breach was in retaliation for a U.S. air strike on an Iranian school, which killed 168 children, according to Iranian officials.\nFBI director Kash Patel was quoted in the DOJ’s press release as saying that the FBI “took down four of their operation’s pillars and we’re not done.”\nApart from the two websites used by Handala, the DOJ also seized two other domains allegedly used by Iran’s MOIS via another hacktivist persona calling themselves “Justice Homeland” or “Homeland Justice.” The DOJ accused Iranian government hackers of using those two domains to claim responsibility for hacking the Albanian government in 2022, in a cyberattack that resulted in government servers being taken offline and the theft of sensitive data. Microsoft also linked the attack against the Albanian government to the MOIS.\nIn an affidavit submitted in court to support the seizure of Handala’s websites, the FBI said that Handala, Justice Homeland, and another hacktivist persona called Karma Below, “are part of the same conspiracy because they are operated by the same individuals.”\n\n\t\t\tContact Us\n\t\t\tDo you have more information about Handala, or other Iran-linked hacking operations? From a non-work device, you can contact Lorenzo Franceschi-Bicchierai securely on Signal at +1 917 257 1382, or via Telegram, Keybase and Wire @lorenzofb, or by email. \t\t\nHandala responded to the DOJ’s announcement in a statement posted on its official Telegram channel, where the hackers called the U.S. government actions “nothing more than the latest desperate attempts by the United States and its allies to silence the voice of Handala.”\nDomainTools’ cybersecurity researcher Keith O’Neill told TechCrunch that Handala has already set up new domains that have not yet been seized.\nThe hacking group did not respond to a request for comment sent to a chat account publicized by the hackers, as well as an email address identified by the Justice Department in its affidavit. \nA spokesperson for Iran’s Permanent Mission to the United Nations did not respond to TechCrunch’s request for comment. Stryker also did not respond to a request for comment.\nAlex Orleans, the head of threat intelligence at Sublime Security who has tracked Iranian hackers for years, told TechCrunch that it is possible that the people behind the Handala persona are not the same individuals doing the actual hacking. \n“Handala does not necessarily equate, one-to-one, with the actors conducting the activities it’s taking credit for,” said Orleans. “There could be multiple teams conducting actual intrusions while a distinct team is responsible for maintaining the persona — with all of these distinct elements coexisting within a larger unified MOIS element.”\n“There’s a level of opacity there that can be difficult to penetrate,” he said.\n\n\n\t\tLorenzo Franceschi-Bicchierai is a Senior Writer at TechCrunch, where he covers hacking, cybersecurity, surveillance, and privacy. \nYou can contact or verify outreach from Lorenzo by emailing lorenzo@techcrunch.com, via encrypted message at +1 917 257 1382 on Signal, and @lorenzofb on Keybase/Telegram.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-03-20T14:51:30.000Z",
+    "description": "\nLooks like Amazon’s getting back into the smartphone game. More than 11 years after the e-commerce giant pulled the plug on its failed first effort, ",
+    "body": "\nLooks like Amazon’s getting back into the smartphone game. More than 11 years after the e-commerce giant pulled the plug on its failed first effort, the Fire Phone, the company is now developing a new smartphone codenamed “Transformer,” Reuters reported, citing anonymous sources.\nThe device is being developed by the company’s Devices and Services division, and it would feature personalized features that would make it easier to use Amazon’s suite of apps, including Amazon Shopping, Prime Video, and Prime Music, the report said.\nThe smartphone would also support Alexa, the smart home assistant that Amazon has been investing heavily in, adding AI chops and expanding support to work with most of the company’s devices. AI features are said to be a big focus for the smartphone, which is being seen internally as a way to encourage Amazon customers to use its AI products, Reuters reported.\nThe smartphone is said to be developed by a relatively new unit within the Devices division called ZeroOne, which is led by J Allard, a former Microsoft executive who helped create the Xbox.\nThe news comes as Amazon has been going all-in on AI, investing $50 billion into OpenAI recently, and projecting $200 billion in capital expenditures toward its AI, chips, and robotics efforts in 2026.\nThe company spent more than a year revamping its Alexa assistant with generative AI features, finally launching it this February as Alexa+. The assistant keeps its smart home chops, and can now do most things that other AI chatbots can — like planning an itinerary for a trip, updating a shared calendar, finding and saving recipes to a library, making movie recommendations, helping with homework, exploring a topic, and more. \nAmazon declined to comment.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n\n\n\t\tRam is a financial and tech reporter and editor. He covered North American and European M&A, equity, regulatory news and debt markets at Reuters and Acuris Global, and has also written about travel, tourism, entertainment and books.\nYou can contact or verify outreach from Ram by emailing ram.iyer@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "US accuses Iran’s government of operating hacktivist group that hacked Stryker",
+      "headline": "Amazon working on new smartphone with Alexa at its core, report says",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/03/iran-flags.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2014/07/sequence-02-still002.jpg?w=150"
       ],
-      "datePublished": "2026-03-20T16:18:57.000Z",
-      "dateModified": "2026-03-20T16:18:57.000Z",
+      "datePublished": "2026-03-20T14:51:30.000Z",
+      "dateModified": "2026-03-20T14:51:30.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Amid legal turmoil, Kalshi is temporarily banned in Nevada",
+    "url": "https://techcrunch.com/2026/03/20/amidst-legal-turmoil-kalshi-is-temporarily-banned-in-nevada/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/54430828088_f8b05f4647_4k.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-03-20T19:15:55.000Z",
+    "description": "\nKalshi isn’t having a very good week. On Tuesday, the attorney general of Arizona filed a 20-count criminal complaint against the online prediction m",
+    "body": "\nKalshi isn’t having a very good week. On Tuesday, the attorney general of Arizona filed a 20-count criminal complaint against the online prediction market, accusing it of running an illegal gambling business. Now, another southwestern state has taken a big swing at the company: A judge in Nevada has temporarily banned the service from operating there as part of an ongoing court case brought by state regulators.\nNevada, on behalf of its Gaming Control Board, sued Kalshi in February in an effort to block the prediction site from operating. Officials maintain that Kalshi has failed to acquire the appropriate gaming licenses that would cover the kind of betting activity its users are engaged in and that, by allowing users under the age of 21 to use its services, it violates state law.\nEarlier this month, the state requested a temporary restraining order against Kalshi as part of its ongoing case. In a state court on Friday, Judge Jason D. Woodbury granted the state’s request and scheduled a hearing on the restraining order for early next month, court documents show.\nIn his order, Woodbury wrote that Kalshi was not licensed under the Nevada Gaming Control Act and that, given Kalshi’s policy of taking a commission from contracts purchased through its system, it was clearly operating a “percentage game” (which the state defines as gambling).\nKalshi has argued that, due to its registration with the Commodity Futures Trading Commission, it is under that federal agency’s exclusive regulatory domain, which should exempt it from state laws, court documents show. However, Woodbury noted that the issue of whether federal law overrides state law is still unsettled for now, but the courts have not been leaning in that direction.\nKalshi declined to comment on the development when reached by TechCrunch. Wired first reported on the judge’s decision. Reuters reports that Nevada had previously convinced judges to ban Kalshi competitors like Coinbase and Polymarket.\nThe Nevada case in which the prediction market finds itself is but one in a growing number of state cases across the country that seek to argue that sites like Kalshi and Polymarket are illegal operations that skirt state gambling laws. \n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nConversely, current federal officials have positioned themselves as protectors of the prediction industry. Case in point: Following Arizona’s decision to file criminal charges against Kalshi earlier this week, the CFTC’s chairman, Mike Selig, came out swinging against the decision, posting online: “The Arizona Attorney General today filed criminal charges against one of our registered exchanges related to prediction markets. This is a jurisdictional dispute and entirely inappropriate as a criminal prosecution. The @CFTC is watching this closely and evaluating its options.”\nThe increasingly hostile posture of state officials and the lenience of the CFTC have all but guaranteed a regulatory battle between states and the federal government over prediction markets and their future.\n\n\n\t\n\t\tLucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. \nYou can contact Lucas by emailing lucas.ropek@techcrunch.com.\t\n\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Amid legal turmoil, Kalshi is temporarily banned in Nevada",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/04/54430828088_f8b05f4647_4k.jpg?w=150"
+      ],
+      "datePublished": "2026-03-20T19:15:55.000Z",
+      "dateModified": "2026-03-20T19:15:55.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Jeff Bezos’ Blue Origin enters the space data center game",
+    "url": "https://techcrunch.com/2026/03/20/jeff-bezos-blue-origin-enters-the-space-data-center-game/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/blue-origin-new-glenn.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-03-20T16:27:43.000Z",
+    "description": "\nBlue Origin, the space conglomerate founded by Amazon chair Jeff Bezos, has asked the U.S. government for permission to launch a network of more than",
+    "body": "\nBlue Origin, the space conglomerate founded by Amazon chair Jeff Bezos, has asked the U.S. government for permission to launch a network of more than 50,000 satellites that will act as a data center in orbit.\nIn a March 19 document filed with the Federal Communications Commission (FCC), Blue Origin’s attorneys described “Project Sunrise” as a network of spacecraft that will perform advanced computation in orbit to “ease mounting pressure on U.S. communities and natural resources by shifting energy — and water-intensive compute away from terrestrial data centers.”\nBlue Origin’s filing did not describe its plans for the satellites in detail, so it’s hard to know how much computing power the company is aiming to generate in space. It does note that Blue Origin plans to use another satellite constellation it is seeking to build, called TeraWave, as a high-throughput communications backbone for the data satellites.\nShifting massive compute to space is attractive because solar energy is free to harvest and, once in orbit, there are fewer regulations restricting corporate activities. Entrepreneurs behind these projects envision a future where AI tools are widespread and imagine that much of the inference work behind them will be outsourced to orbit. \nSeveral companies are already pursuing the idea. SpaceX has filed for permission to launch a million satellites to be used as a distributed data center, while the startup Starcloud has proposed a network of 60,000 spacecraft to the FCC. Google is also developing a concept for a space data center called Project Suncatcher, which will see its partner Planet Labs launch two demo spacecraft next year.\nWhile excitement about space data centers is high in the tech world, the economics of these projects remain challenging. Technology for cooling processors and communicating between spacecraft with powerful lasers will need to be developed and manufactured as cheaply as possible, while scientists are still determining how well advanced chips work on different tasks while exposed to the high radiation environment of space.\nA critical area is the cost to launch these computers into orbit, and most are betting that the price of reaching orbit will fall due to SpaceX’s Starship rocket, which is still under development and may see its first 2026 launch next month.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThis is an area where Blue Origin, long an also-ran in the rocket business, may have an advantage. Its New Glenn rocket, which first flew last year, is one of the most powerful operational launch vehicles on Earth. If the company can start flying and reusing them at a regular pace, Blue Origin could see the same kind of benefits from vertical integration that allowed SpaceX to dominate space telecommunications with its Starlink network.\nBeyond economic and technological challenges, the space environment itself may prove an obstacle. Space in key orbits close to Earth is getting ever more congested, and adding tens or hundreds of thousands of new satellites will increase concerns about orbital collisions. Meanwhile, burning up thousands of satellites in orbit after they become obsolete, as is standard practice in the industry today, is likely to affect the chemistry of the upper atmosphere, with researchers concerned about harms to the ozone layer.\nThe filing also lacked details about timing, but experts tell TechCrunch that such projects are unlikely to come to fruition until the 2030s.\n\n\n\t\n\t\tTim Fernholz is a journalist who writes about technology, finance and public policy. He has closely covered the rise of the private space industry and is the author of  Rocket Billionaires: Elon Musk, Jeff Bezos and the New Space Race. Formerly, he was a senior reporter at Quartz, the global business news site, for more than a decade, and began his career as a political reporter in Washington, D.C. \nYou can contact or verify outreach from Tim by emailing tim.fernholz@techcrunch.com or via an encrypted message to tim_fernholz.21 on Signal.\r\n\t\n\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Jeff Bezos’ Blue Origin enters the space data center game",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/01/blue-origin-new-glenn.jpg?w=150"
+      ],
+      "datePublished": "2026-03-20T16:27:43.000Z",
+      "dateModified": "2026-03-20T16:27:43.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "WordPress.com now lets AI agents write and publish posts, and more",
+    "url": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/09/wordpress-v1.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-03-20T16:43:09.000Z",
+    "description": "\nWeb hosting platform WordPress.com is embracing AI agents, a decision that could change the look and feel of the web. The company announced Friday th",
+    "body": "\nWeb hosting platform WordPress.com is embracing AI agents, a decision that could change the look and feel of the web. The company announced Friday that it will now allow AI agents to draft, edit, and publish content on customers’ websites, as well as manage comments, update and fix metadata, organize content with tags and categories.\nAll of this is controlled through an interface where the website’s owner explains what they want to do using natural language commands.\nWith these new capabilities, websites could be almost entirely created and run via AI agents controlled by humans. This lowers the barrier to setting up and maintaining websites; it may also help fill the web with content no longer written by people, but by machines.\nAs a publishing platform, WordPress powers over 43% of all websites on the internet. The hosted version at WordPress.com represents only a small fraction of that total. Still, its network of websites has a sizable footprint, seeing 20 billion page views and 409 million unique visitors every month.\nImage Credits:WordPress.com\nThe new AI capabilities follows the introduction of MCP support on WordPress.com last fall. MCP, or Model Context Protocol, is a newer standard that allows applications to provide context to large language models (LLMs). With WordPress.com’s MCP support, AI assistants have been able to connect to the platform to give customers visibility into their site’s content, settings, and analytics from their preferred AI app, like Claude Desktop, Cursor, VS Code, or others.\nNow, WordPress.com will allow AI agents to not only read the site’s content but also create posts, landing pages, and About pages, as well as make structural changes.\nImage Credits:WordPress.com\nAt launch, the AI agents will also be able to approve, reply to, and clean up comments; create, rename, and restructure categories and tags across the site; and fix alt text, captions, and titles to improve the site’s SEO. These changes and others are all tracked through the site’s Activity Log, the company notes.\nCustomers can author drafts for their AI agent to publish, tag, and categorize, along with a meta description. But they can opt to allow their AI agent to create a post or page by describing what they want to publish. The company says all changes require the user’s approval, and posts written by AI are saved as drafts by default. \nEven with these limitations, the expanded capabilities could greatly speed up the creation of websites where humans aren’t doing much of the content creation.\nImage Credits:WordPress.com\nThe company also notes that the AI agent can search the site’s theme and design before it begins creating content, so it understands how to use the same colors, fonts, spacing, and block patterns. \nTo enable the new functionality on their account, WordPress.com customers will go to wordpress.com/mcp, then toggle on the capabilities they want to use. They can then connect their preferred AI client, such as Claude, Cursor, ChatGPT, or any other MCP-enabled tool, and begin creating.\nWhile there are likely going to be concerns about what this means for the state of the web’s content, it’s worth noting that AI-authored posts can give human readers insight into how these models write and engage. Meta recently snapped up a social network called Moltbook, where AI agents were allowed to post, reply, and connect with one another. Anthropic has also experimented with letting an AI write a blog, with human oversight.\n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "WordPress.com now lets AI agents write and publish posts, and more",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2024/09/wordpress-v1.jpg?w=150"
+      ],
+      "datePublished": "2026-03-20T16:43:09.000Z",
+      "dateModified": "2026-03-20T16:43:09.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet",
+    "url": "https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2266464474.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-03-20T20:02:35.000Z",
+    "description": "\n\t\t\n\nLoading the player…\n\nCEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-",
+    "body": "\n\t\t\n\nLoading the player…\n\nCEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting $1 trillion in AI chip sales through 2027, declaring that every company needs an “OpenClaw strategy,” and closing with a rambling Olaf robot that had to get its mic cut. The message was hard to miss: Nvidia wants to be foundational to everything, from AI training to autonomous vehicles to Disney parks. \nOn this episode of TechCrunch’s Equity podcast, Kirsten Korosec, Anthony Ha, and Sean O’Kane break down what Nvidia’s growing web of AI infrastructure partnerships actually means for startups, and discuss more of the week’s headlines. \nSubscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. You also can follow Equity on X and Threads, at @EquityPod. \n\n\t\t\n\tTopics\n\n\n\n\t\tTheresa Loconsolo is an audio producer at TechCrunch focusing on Equity, the network’s flagship podcast. Before joining TechCrunch in 2022, she was one of 2 producers at a four-station conglomerate where she wrote, recorded, voiced and edited content, and engineered live performances and interviews from guests like lovelytheband. Theresa is based in New Jersey and holds a bachelors degree in Communication from Monmouth University. You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n\n\t\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2266464474.jpg?w=150"
+      ],
+      "datePublished": "2026-03-20T20:02:35.000Z",
+      "dateModified": "2026-03-20T20:02:35.000Z",
       "author": [
         {
           "@type": "Person",
@@ -366,6 +316,56 @@
       ],
       "datePublished": "2026-03-20T15:41:21.000Z",
       "dateModified": "2026-03-20T15:41:21.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Elon Musk misled Twitter investors while trying to get out of acquisition, jury says",
+    "url": "https://techcrunch.com/2026/03/20/elon-musk-misled-twitter-investors-while-trying-to-get-out-of-acquisition-jury-says/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/04/twitter-bird-with-elon-musk-head-tear.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-03-20T23:29:17.000Z",
+    "description": "\nA civil jury in California on Friday ruled that Elon Musk intentionally misled Twitter investors when he tried to back out of his $44 billion acquisi",
+    "body": "\nA civil jury in California on Friday ruled that Elon Musk intentionally misled Twitter investors when he tried to back out of his $44 billion acquisition of the platform in 2022.\nAt the time, Musk had tweeted that Twitter had too many bots, which is why he later tried to renege on the acquisition. (Twitter ended up suing Musk to force him to seal the deal.)\n“Twitter deal temporarily on hold pending details supporting calculation that spam/fake accounts do indeed represent less than 5% of users,” Musk wrote on the platform that he has since renamed X.\n\nTwitter deal temporarily on hold pending details supporting calculation that spam/fake accounts do indeed represent less than 5% of usershttps://t.co/Y2t0QMuuyn— Elon Musk (@elonmusk) May 13, 2022\n\nIn the days after Musk posted this, Twitter shares declined 8%. Investor Giuseppe Pampena filed suit against Musk on behalf of other former Twitter investors who had sold Twitter shares between May 13 (the day of the tweet) and October 4, the day the deal was finalized.\nPampena’s lawsuit argued that Musk intentionally posted about his concerns with Twitter to create uncertainty about the platform’s stability to artificially drive down its stock price, causing those who sold shares during that window to suffer losses. Musk’s attorneys argued that he was expressing legitimate concerns about the number of bots on the app. But the jury was more convinced by the plaintiff’s argument.\nIt is not yet clear how much money Musk will have to pay to those former Twitter shareholders, but Pampena’s attorney said that damages could reach up to $2.6 billion, according to CNBC. It’s not a huge blow for Musk, as Bloomberg estimates his net worth at over $660 billion.\nThis isn’t Musk’s first experience going to court over tweets. In 2018, he tweeted that he had secured funding to take Tesla private at $420 per share, meaning he planned to buy out public shareholders and delist the company from stock exchanges. The SEC alleged that these posts were misleading, charging Musk with securities fraud. Musk later had to testify in court that he was not making a marijuana joke (420 being a widely recognized reference to cannabis) and maintained that he earnestly believed that he would take Tesla private at $420 per share, which was a substantial premium on Tesla’s stock price at that time.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nMusk emerged victorious in a similar lawsuit that shareholders filed about the “funding secured” tweet, but this time, he’ll have to pay up. \nAfter acquiring Twitter, Musk rebranded the company as X, then merged it with his newer AI company, xAI. The combined company was valued at $113 billion, according to Musk. Then, last month, SpaceX merged with xAI. Musk has said that the merger was motivated by his desire to build data centers in space.\n\n\n\t\tAmanda Silberling is a senior writer at TechCrunch covering the intersection of technology and culture. She has also written for publications like Polygon, MTV, the Kenyon Review, NPR, and Business Insider. She is the co-host of Wow If True, a podcast about internet culture, with science fiction author Isabel J. Kim. Prior to joining TechCrunch, she worked as a grassroots organizer, museum educator, and film festival coordinator. She holds a B.A. in English from the University of Pennsylvania and served as a Princeton in Asia Fellow in Laos.\nYou can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Elon Musk misled Twitter investors while trying to get out of acquisition, jury says",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2023/04/twitter-bird-with-elon-musk-head-tear.jpg?w=150"
+      ],
+      "datePublished": "2026-03-20T23:29:17.000Z",
+      "dateModified": "2026-03-20T23:29:17.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The best AI investment might be in energy tech",
+    "url": "https://techcrunch.com/2026/03/20/the-best-ai-investment-might-be-in-energy-tech/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-1316185179.jpeg?w=150",
+    "tag": "Tech",
+    "date": "2026-03-20T12:00:00.000Z",
+    "description": "\nVenture capitalists have placed increasingly bigger bets on AI startups, investing over half a trillion dollars into the sector over the last five ye",
+    "body": "\nVenture capitalists have placed increasingly bigger bets on AI startups, investing over half a trillion dollars into the sector over the last five years.\nBut these days, the smartest AI investment might be in energy, according to a report by Sightline Climate. Researchers found that up to 50% of data center projects that have been announced might be delayed. One of the biggest culprits is access to power. \nOf the 190 gigawatts’ worth of data centers the company is tracking, only 5 gigawatts are under construction. About 6 gigawatts of data center projects in Sightline’s database came online last year. A far larger percentage — about 36% — saw their timelines slip in 2025. The delays may eventually trickle down and affect large enterprises and other companies that use AI for their businesses. \nThat supply-demand squeeze is an opportunity for investors. Here’s why. \nBig tech companies like Google and Meta have devoted large parts of their balance sheets to develop solar, wind, and nuclear projects. These companies are also supporting emerging technologies like Form Energy’s 100-hour battery through direct investments and working with utilities to accelerate their adoption.\nDozens of startups are pursuing technologies that tackle the power problem. For instance, Amperesand, DG Matrix, and Heron Power are developing new power conversion technologies, while companies like Camus, GridBeyond, and Texture are building software that can manage the flow of electrons.\nPower remains one of the most significant constraints for data centers, a shortfall that isn’t likely to change anytime soon. AI is expected to drive data center power consumption up 175% by 2030, according to Goldman Sachs. \n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThese shortages on the grid are unprecedented in modern times, and they’ve been driving up electricity prices around the country. That has pushed many tech companies to explore alternative ways of powering their data centers. (The Trump administration, sensing a looming political crisis, is urging tech companies to build their own power source, pay higher rates, or both. Most had already made plans to do so, of course.)\nGrid alternatives\nAmazon, Google, Oracle, and other large tech companies have been working to minimize their dependence on the grid. Several data centers are being planned using on-site power or a hybrid approach that blends on-site power with a grid connection. \nThe biggest data centers are leading the charge. Less than a quarter of projects that have identified a power source will use on-site or hybrid; together they represent 44% of total capacity.\nThe shift has been driven in part by shortages of power generation equipment — namely gas turbines — and an antiquated grid. That’s opened a path for alternative energy sources.\nGoogle’s latest deal to power a new data center in Minnesota shows one approach to tackling the problem. The company will blend wind and solar with a massive 30 gigawatt-hour battery from Form Energy. Google also worked with Xcel Energy to devise a new rate structure that it says will help encourage the adoption of new technologies in the utility’s planning process.\nForm Energy’s battery isn’t the only example. Grid-scale batteries are poised to take a big bite out of the power market. By the end of this year, the U.S. should have nearly 65 gigawatts of battery storage capacity, according to the U.S. Energy Information Administration. Like many of its peers, Form Energy is looking to capitalize on the momentum by raising a $500 million round in advance of an eventual IPO. \nUnderrated tech\nEnergy supplies are only part of the story. Once the power hits the grid or the data center, it needs to be managed, a task that mostly falls on the humble transformer. \nMost of today’s transformers use massive blocks of iron wrapped in copper wire, a technology that is about 140 years old. It’s reliable, but it’s becoming far too bulky as data center power demands ramp up. By the time server racks hit 1 megawatt in power density, the power equipment needed to run them will occupy twice as much space as the rack itself, one expert told TechCrunch. \nIt’s why investors have been flocking to back solid-state transformer startups recently, which are hoping silicon-based power electronics can supplant the ancient iron-and-copper tech. They’re more expensive than existing transformers, but they are also flexible enough to replace several pieces of equipment in a data center, which should make them cost competitive. \nAltogether, the scale of investments in battery and transformer companies has been much smaller than some of the blockbuster rounds we’ve seen in the AI industry. \nThat’s not a bad thing — those rounds are more tractable for investors. Plus, as the world electrifies everything from transportation to heavy industry, the need for power is only going to grow, giving investors a hedge against an AI bust. Maybe the best AI investment isn’t in AI at all.\n\n\n\t\tTim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor. \r\nDe Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.\r\nYou can contact or verify outreach from Tim by emailing tim.dechant@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "The best AI investment might be in energy tech",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-1316185179.jpeg?w=150"
+      ],
+      "datePublished": "2026-03-20T12:00:00.000Z",
+      "dateModified": "2026-03-20T12:00:00.000Z",
       "author": [
         {
           "@type": "Person",
