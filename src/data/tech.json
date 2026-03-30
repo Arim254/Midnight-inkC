@@ -1,5 +1,30 @@
 [
   {
+    "title": "Uber is buying Berlin startup Blacklane to bolster its ‘Elite’ offering",
+    "url": "https://techcrunch.com/2026/03/30/uber-is-buying-berlin-startup-blacklane-to-bolster-its-elite-offering/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Uber-Blacklane.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-03-30T14:46:41.000Z",
+    "description": "\nIn Brief\nPosted:\n7:46 AM PDT · March 30, 2026\n\nImage Credits:Uber\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nUber is buying Berlin-based startup Blac",
+    "body": "\nIn Brief\nPosted:\n7:46 AM PDT · March 30, 2026\n\nImage Credits:Uber\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nUber is buying Berlin-based startup Blacklane, which provides on-demand, black-car chauffeur services, as the ride-hail giant expands deeper into luxury and executive travel services.\nIt’s a notable exit for Blacklane, which was founded in 2011 and has raised more than $100 million to date from rental car company Sixt, Mercedes-Benz, and ALFAHIM, a conglomerate in the UAE. \nUber said the acquisition still needs regulatory approvals, but expects it to close by the end of this year. The two companies didn’t disclose financial terms of the deal.\nThe acquisition comes just a few weeks after Uber announced the launch of Uber Elite, which combines a chauffeur service with a number of luxury offerings like in-vehicle amenities, airport meet-and-greets, and 24/7 phone support. Uber Elite is starting small, in just Los Angeles and San Francisco, with New York City on the horizon. Blacklane operates in major cities across Europe, the Middle East, Asia, South America, and North America.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Transportation\n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Uber is buying Berlin startup Blacklane to bolster its ‘Elite’ offering",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/03/Uber-Blacklane.jpg?w=150"
+      ],
+      "datePublished": "2026-03-30T14:46:41.000Z",
+      "dateModified": "2026-03-30T14:46:41.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "YouTube CEO says the best YouTubers will ‘never leave their home’",
     "url": "https://techcrunch.com/2026/03/29/youtube-ceo-says-the-best-youtubers-will-never-leave-their-home/",
     "image": "https://techcrunch.com/wp-content/uploads/2019/10/disrupt-neal-mohan-youtube-0142.jpg?w=150",
@@ -16,31 +41,6 @@
       ],
       "datePublished": "2026-03-29T21:17:52.000Z",
       "dateModified": "2026-03-29T21:17:52.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Why OpenAI really shut down Sora",
-    "url": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages-2240278671.jpeg?w=150",
-    "tag": "Tech",
-    "date": "2026-03-30T03:09:38.000Z",
-    "description": "\nIn Brief\nPosted:\n8:09 PM PDT · March 29, 2026\n\nImage Credits:Robert Way (opens in a new window) / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t",
-    "body": "\nIn Brief\nPosted:\n8:09 PM PDT · March 29, 2026\n\nImage Credits:Robert Way (opens in a new window) / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nOpenAI’s decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public raised immediate suspicions. The app had invited users to upload their own faces — so was this some kind of elaborate data grab? According to a new WSJ investigation, the real explanation is considerably more boring: Sora was a money pit that nobody was using, and keeping it alive was costing OpenAI the AI race.\nSo what happened? After a splashy launch, Sora’s worldwide user count peaked at around a million and then collapsed to fewer than 500,000. Meanwhile, the app was burning through roughly $1 million every day — not because people loved it but because video generation is so costly to run. Every user who dropped themselves into a fantastical scene was drawing down a finite supply of AI chips.\nWhile a whole team inside OpenAI was focused on making Sora work, Anthropic was quietly winning over the software engineers and enterprises that drive revenue. Claude Code, in particular, was eating OpenAI’s lunch.\nSo CEO Sam Altman made the call: kill Sora, free up compute, and refocus. If you want to understand just how sudden this was, consider what happened to Disney, per the WSJ: the entertainment giant had committed $1 billion to the partnership, yet found out Sora was being shut down less than an hour before the public. The deal died with it.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in AI\n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Why OpenAI really shut down Sora",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages-2240278671.jpeg?w=150"
-      ],
-      "datePublished": "2026-03-30T03:09:38.000Z",
-      "dateModified": "2026-03-30T03:09:38.000Z",
       "author": [
         {
           "@type": "Person",
@@ -81,7 +81,7 @@
     "tag": "Tech",
     "date": "2026-03-30T12:49:51.000Z",
     "description": "\nIn Brief\nPosted:\n5:49 AM PDT · March 30, 2026\n\nImage Credits:Chesnot / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nFrench lab Mistral AI ",
-    "body": "\nIn Brief\nPosted:\n5:49 AM PDT · March 30, 2026\n\nImage Credits:Chesnot / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nFrench lab Mistral AI has raised $830 million in debt to build a new data center near Paris that will be powered by Nvidia chips, according to reports from Reuters and CNBC.\nMistral first announced plans to build a data center last year, when its CEO Arthur Mensch said it would explore different financing options in February 2025. It plans to complete building the data center in Bruyeres-le-Chatel and make it operational in the second quarter of 2026, Reuters reported on Monday.\nMistral did not immediately return a request seeking confirmation.\nLast month, the company said it would invest $1.4 billion in Sweden to build out AI infrastructure, including data centers. Mistral said it aims to deploy 200 megawatts of compute capacity across Europe by 2027.\n“Scaling our infrastructure in Europe is critical to empower our customers and to ensure AI innovation and autonomy remain at the heart of Europe. We will continue to invest in this area, given the surging and sustained demand from governments, enterprises, and research institutions seeking to build their own customized AI environment, rather than depend on third-party cloud providers,” Mensch said in a statement to CNBC.\nMistral has raised over €2.8 billion ($3.1 billion) in funding to date from investors including General Catalyst, ASML, a16z, Lightspeed, and DST Global, according to data from Crunchbase.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in AI\n\n",
+    "body": "\nIn Brief\nPosted:\n5:49 AM PDT · March 30, 2026\n\nImage Credits:Chesnot / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nFrench lab Mistral AI has raised $830 million in debt to build a new data center near Paris that will be powered by Nvidia chips, according to reports from Reuters and CNBC.\nMistral first announced plans to build a data center last year, when its CEO Arthur Mensch said it would explore different financing options in February 2025. It plans to complete building the data center in Bruyères-le-Châtel and make it operational in the second quarter of 2026, Reuters reported on Monday.\nMistral did not immediately return a request seeking confirmation.\nLast month, the company said it would invest $1.4 billion in Sweden to build out AI infrastructure, including data centers. Mistral said it aims to deploy 200 megawatts of compute capacity across Europe by 2027.\n“Scaling our infrastructure in Europe is critical to empower our customers and to ensure AI innovation and autonomy remain at the heart of Europe. We will continue to invest in this area, given the surging and sustained demand from governments, enterprises, and research institutions seeking to build their own customized AI environment, rather than depend on third-party cloud providers,” Mensch said in a statement to CNBC.\nMistral has raised over €2.8 billion ($3.1 billion) in funding to date from investors including General Catalyst, ASML, a16z, Lightspeed, and DST Global, according to data from Crunchbase.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in AI\n\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
@@ -91,6 +91,31 @@
       ],
       "datePublished": "2026-03-30T12:49:51.000Z",
       "dateModified": "2026-03-30T12:49:51.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Why OpenAI really shut down Sora",
+    "url": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages-2240278671.jpeg?w=150",
+    "tag": "Tech",
+    "date": "2026-03-30T03:09:38.000Z",
+    "description": "\nIn Brief\nPosted:\n8:09 PM PDT · March 29, 2026\n\nImage Credits:Robert Way (opens in a new window) / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t",
+    "body": "\nIn Brief\nPosted:\n8:09 PM PDT · March 29, 2026\n\nImage Credits:Robert Way (opens in a new window) / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nOpenAI’s decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public raised immediate suspicions. The app had invited users to upload their own faces — so was this some kind of elaborate data grab? According to a new WSJ investigation, the real explanation is considerably more boring: Sora was a money pit that nobody was using, and keeping it alive was costing OpenAI the AI race.\nSo what happened? After a splashy launch, Sora’s worldwide user count peaked at around a million and then collapsed to fewer than 500,000. Meanwhile, the app was burning through roughly $1 million every day — not because people loved it but because video generation is so costly to run. Every user who dropped themselves into a fantastical scene was drawing down a finite supply of AI chips.\nWhile a whole team inside OpenAI was focused on making Sora work, Anthropic was quietly winning over the software engineers and enterprises that drive revenue. Claude Code, in particular, was eating OpenAI’s lunch.\nSo CEO Sam Altman made the call: kill Sora, free up compute, and refocus. If you want to understand just how sudden this was, consider what happened to Disney, per the WSJ: the entertainment giant had committed $1 billion to the partnership, yet found out Sora was being shut down less than an hour before the public. The deal died with it.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in AI\n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Why OpenAI really shut down Sora",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages-2240278671.jpeg?w=150"
+      ],
+      "datePublished": "2026-03-30T03:09:38.000Z",
+      "dateModified": "2026-03-30T03:09:38.000Z",
       "author": [
         {
           "@type": "Person",
@@ -150,13 +175,63 @@
     }
   },
   {
+    "title": "Mantis Biotech is making ‘digital twins’ of humans to help solve medicine’s data availability problem",
+    "url": "https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/",
+    "image": "https://techcrunch.com/wp-content/uploads/2019/09/brain_pills.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-03-30T14:30:00.000Z",
+    "description": "\nLarge language models trained on vast datasets could speed genomics research, streamline clinical documentation, improve real-time diagnostics, suppo",
+    "body": "\nLarge language models trained on vast datasets could speed genomics research, streamline clinical documentation, improve real-time diagnostics, support clinical decision-making, accelerate drug discovery, and even generate synthetic data to advance experiments.\nBut their promise to transform biomedical research often runs into a bottleneck: beyond the structured data healthcare relies on, these models struggle in edge cases like rare diseases and unusual conditions, where reliable, representative data is scarce.\nNew York-based Mantis Biotech claims it’s developing the solution to fill this data availability gap. The company’s platform integrates disparate sources of data to make synthetic datasets that can be used to build so-called “digital twins” of the human body: physics-based, predictive models of anatomy, physiology, and behavior.\nThe company is pitching these digital twins for use in data aggregation and analysis. These digital twins could be used for studying and testing new medical procedures, training surgical robots, and simulating and predicting medical issues or even patterns of behavior. For example, a sports team could predict the likelihood of a specific NFL player developing an Achilles heel injury based on their recent performance, training load, diet, and how long they’ve been active, Mantis’ founder and CEO Georgia Witchel explained to TechCrunch in a recent interview.\nTo build these twins, Mantis’ platform first takes data from a variety of sources such as textbooks, motion capture cameras, biometric sensors, training logs and medical imaging. Then, it uses an LLM-based system to route, validate, and synthesize the various data streams, and runs all that information through a physics engine to create high-fidelity renders of that dataset, which can then be used to train predictive models.\n“We’re able to take all these disparate data sources and then turn them into predictive models for how people are going to perform. So anytime you want to predict how a human being is going to be performing, that is a really good use case for our technology,” Witchel said.\nThe physics engine layer is key here, Witchel told TechCrunch, because it helps the platform enhance the available information by grounding the generated synthetic data and realistically modeling the physics of anatomy. \n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n“If I asked you to do hand-pose estimation for someone who is missing a finger, it would be really, really hard, because there are no publicly available datasets of labeled hand positions of someone who is missing a finger. We could generate that dataset really, really easily, because we just take our physics model and we say, remove finger X, regenerate model,” she said.\nSince Mantis’ platform fills gaps in data sources, Witchel thinks there’s potential for it to be used widely across the biomedical industry, where information on procedures or patients can be difficult to access, is unstructured or siloed into various sources. She stressed edge cases or rare diseases, where data is hard to obtain since there are often ethical and regulatory constraints around including patients’ data in public datasets, or using it for training AI models.\n“You know how when you see a three-year-old running around, and they have a Barbie, and they’re holding it by one leg and smashing it against a table? I want people to have that mindset with our digital twins,” she said. “I think that’s going to open up people to this idea that humans can be tested on when you’re using virtual humans. I feel currently, people operate with the exact opposite mindset, which totally makes sense, because people’s privacy should be respected. In fact, I don’t really think people’s data should be exploited at all, especially when you have these digital twins.”\nFor now, Mantis has seen success in professional sports, presumably because there is a need to model high-performing athletes. Witchel said one of the startup’s main clients is an NBA team. \n“We create these digital representations of the athletes, where it basically shows here’s how this athlete has jumped, not just today, but for every single day in the past year, and here’s how their jumps are changing over time compared to the amount that they’re sleeping, or compared to how many times they lift their arms above their head,” she explained.\nThe startup recently raised $7.4 million in seed funding led by Decibel VC, with participation from Y Combinator, a few angel investors, and Liquid 2. The funding will be used for hiring, advertising, marketing and go-to-market functions.\nThe next step for Mantis, Witchel said, is to continue building out the tech, and eventually release the platform to the general public, targeting preventative healthcare. The company is also working to cater to pharmaceutical labs and researchers working on FDA trials, aiming to deliver insights into how patients are responding to treatments.\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Mantis Biotech is making ‘digital twins’ of humans to help solve medicine’s data availability problem",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2019/09/brain_pills.jpg?w=150"
+      ],
+      "datePublished": "2026-03-30T14:30:00.000Z",
+      "dateModified": "2026-03-30T14:30:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round",
+    "url": "https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Screenshot-2026-02-08-at-12.27.26-PM.png?w=150",
+    "tag": "Tech",
+    "date": "2026-03-30T13:00:00.000Z",
+    "description": "\nFresh off a successful Series C funding round in November, the South Korean fabless AI chip startup Rebellions has raised an additional $400 million.",
+    "body": "\nFresh off a successful Series C funding round in November, the South Korean fabless AI chip startup Rebellions has raised an additional $400 million.\nThe latest funding infusion, which comes before a planned IPO later this year, was led by Mirae Asset Financial Group and the Korea National Growth Fund. It also comes at the same time that the company is engaging in an aggressive expansion effort — with recently announced plans to grow its presence not only in Asia but also in the Middle East and the U.S.\nFounded in 2020, Rebellions develops and designs AI chips while outsourcing their fabrication. The startup’s chips are designed for inference — the compute necessary for AI models to respond to user queries. Inference has grown in importance as LLMs have matured and begun to see widespread commercial deployment.\nThe company closed $124 million in a Series B in 2024. Then, in November, Rebellions raised an additional $250 million during its Series C. As of today, the company’s total fundraising haul now stands at $850 million — $650 million of which was raised in the last six months. Meanwhile, the startup’s valuation sits at approximately $2.34 billion, the company said Monday.\nIn addition to the funding round, Rebellions also announced the release of two new products: RebelRack and RebelPOD, which are described as AI infrastructure platforms. POD represents a production-ready unit of inference compute, while Rack “integrates multiple racks into a scalable cluster designed for large-scale AI deployment,” the company said.\nIn a conversation with TechCrunch, Rebellions’ Chief Business Officer Marshall Choy — who is leading the company’s global expansion efforts — said it had recently established entities in the U.S., Japan, Saudi Arabia, and Taiwan. Choy said the company was building out its ecosystem of technology partners in the U.S., where it plans to court cloud providers, government agencies, telecom operators, and neoclouds. He declined to comment on IPO timing.\n“AI is now measured by its ability to operate in the real world at scale, under power constraints, and with clear economic return,” said Sunghyun Park, co-founder and CEO of Rebellions. “That shifts the center of gravity toward inference infrastructure and software that makes that infrastructure usable.”\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nRebellions is one of a new generation of chip startups that have sought to challenge Nvidia’s once iron-clad dominance within the chip industry. As that dominance has begun to wane, other major tech companies like AWS, Meta, and Google — along with the new generation of startups — have also sought to produce their own chips.\n\n\n\t\n\t\tLucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. \nYou can contact Lucas by emailing lucas.ropek@techcrunch.com.\t\n\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/02/Screenshot-2026-02-08-at-12.27.26-PM.png?w=150"
+      ],
+      "datePublished": "2026-03-30T13:00:00.000Z",
+      "dateModified": "2026-03-30T13:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Qodo raises $70M for code verification as AI coding scales",
     "url": "https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2080252145.jpg?w=150",
     "tag": "Tech",
     "date": "2026-03-30T12:30:00.000Z",
     "description": "\nAs AI coding tools generate billions of lines of code each month, a new bottleneck is emerging: ensuring that software works as intended. Qodo, a sta",
-    "body": "\nAs AI coding tools generate billions of lines of code each month, a new bottleneck is emerging: ensuring that software works as intended. Qodo, a startup building AI agents for code review, testing and governance, is betting that verification will define the next phase of software development.\nThe New York-headquartered startup has raised a $70 million Series B round led by Qumra Capital, bringing its total funding to $120 million. Maor Ventures, Phoenix Venture Partners, S Ventures, Square Peg, Susa Ventures, TLV Partners, Vine Ventures, Peter Welender (OpenAI), and Clara Shih (Meta) also joined in the round.\nQodo is aiming to serve as a layer focused on improving trust in AI-generated code as enterprises accelerate adoption of tools like OpenClaw and Claude Code. Many are discovering that faster code output doesn’t necessarily translate into reliable or secure software.\nWhile most AI review tools focus on what changed, Qodo focuses on how code changes affect entire systems, factoring in organizational standards, historical context, and risk tolerance to help companies better manage AI-generated code more confidently.\nItamar Friedman, who previously co-founded Visualead and led the machine vision business at Alibaba (which acquired Visualead), founded Qodo in 2022. He told TechCrunch that two key moments in his career — his time at Mellanox, which was later acquired by Nvidia, and building Visualead — inspired him to start Qodo, just months before the launch of ChatGPT.\nAt Mellanox, where he worked on automating hardware verification using machine learning, he realized that “generating systems and verifying systems require very different approaches (different tools, different thinking).” Later, at Alibaba’s Damo Academy, he saw AI evolve toward systems capable of reasoning over human language. By 2021–2022, just ahead of GPT-3.5, it became clear to him that AI would generate a large share of the world’s content—especially code—reinforcing his view that code generation and verification would require fundamentally different systems.\nA recent survey shows that while 95% of developers don’t fully trust AI-generated code, only 48% consistently review it before committing, highlighting a gap between awareness and practice.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n“Code generation companies are largely built around LLMs. But for code quality and governance, LLMs alone aren’t enough,” Friedman said. “Quality is subjective. It depends on organizational standards, past decisions, and tribal knowledge. An LLM can’t fully understand that context. It’s like taking a great engineer from one company and asking them to review code at another — they lack the internal context.”\nCompanies such as OpenAI and Anthropic are helping shape the broader AI narrative, including in adjacent areas like code review, but they are largely focused on building features rather than end-to-end solutions, Friedman explained. Although there are other startups in the space, many remain early stage and have yet to see widespread enterprise adoption, the CEO noted. \nQodo is leaning into performance to stand out in a crowded market. The startup recently ranked No. 1 on Martian’s Code Review Bench, scoring 64.3% — more than 10 points ahead of the next competitor and 25 points ahead of Claude Code Review. The benchmark highlights its ability to catch tricky logic bugs and cross-file issues without overwhelming developers with noise.\nIn the past month, it has launched Qodo 2.0, a multi-agent code review system now leading current benchmarks, and introduced tools that learn each organization’s definition of code quality.\nThe company is already working with major enterprises such as NVIDIA, Walmart, Red Hat, Intuit and Texas Instruments, as well as high-growth firms like Monday.com and JFrog.\n“Every year has had a defining moment — from Copilot to ChatGPT to full task automation,” Friedman said. “Now we’re entering a new phase: moving from stateless AI to stateful systems — from intelligence to ‘artificial wisdom.’ That’s what Qodo is built for.”\n\n\n\tKate Park is a reporter at TechCrunch, with a focus on technology, startups and venture capital in Asia. She previously was a financial journalist at Mergermarket covering M&A, private equity and venture capital.\n\n\t\n\t\tView Bio \n\t\n",
+    "body": "\nAs AI coding tools generate billions of lines of code each month, a new bottleneck is emerging: ensuring that software works as intended. Qodo, a startup building AI agents for code review, testing, and governance, is betting that verification will define the next phase of software development.\nThe New York-headquartered startup has raised a $70 million Series B round led by Qumra Capital, bringing its total funding to $120 million. Maor Ventures, Phoenix Venture Partners, S Ventures, Square Peg, Susa Ventures, TLV Partners, Vine Ventures, Peter Welinder (OpenAI), and Clara Shih (Meta) also joined in the round.\nQodo is aiming to serve as a layer focused on improving trust in AI-generated code as enterprises accelerate adoption of tools like OpenClaw and Claude Code. Many are discovering that faster code output doesn’t necessarily translate into reliable or secure software.\nWhile most AI review tools focus on what changed, Qodo focuses on how code changes affect entire systems, factoring in organizational standards, historical context, and risk tolerance to help companies better manage AI-generated code more confidently.\nItamar Friedman, who previously co-founded Visualead and led the machine vision business at Alibaba (which acquired Visualead), founded Qodo in 2022. He told TechCrunch that two key moments in his career — his time at Mellanox, which was later acquired by Nvidia, and building Visualead — inspired him to start Qodo, just months before the launch of ChatGPT.\nAt Mellanox, where he worked on automating hardware verification using machine learning, he realized that “generating systems and verifying systems require very different approaches (different tools, different thinking).” Later, at Alibaba’s Damo Academy, he saw AI evolve toward systems capable of reasoning over human language. By 2021-2022, just ahead of GPT-3.5, it became clear to him that AI would generate a large share of the world’s content — especially code — reinforcing his view that code generation and verification would require fundamentally different systems.\nA recent survey shows that while 95% of developers don’t fully trust AI-generated code, only 48% consistently review it before committing, highlighting a gap between awareness and practice.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n“Code generation companies are largely built around LLMs. But for code quality and governance, LLMs alone aren’t enough,” Friedman said. “Quality is subjective. It depends on organizational standards, past decisions, and tribal knowledge. An LLM can’t fully understand that context. It’s like taking a great engineer from one company and asking them to review code at another — they lack the internal context.”\nCompanies such as OpenAI and Anthropic are helping shape the broader AI narrative, including in adjacent areas like code review, but they are largely focused on building features rather than end-to-end solutions, Friedman explained. Although there are other startups in the space, many remain early-stage and have yet to see widespread enterprise adoption, the CEO noted.\nQodo is leaning into performance to stand out in a crowded market. The startup recently ranked No. 1 on Martian’s Code Review Bench, scoring 64.3% — more than 10 points ahead of the next competitor and 25 points ahead of Claude Code Review. The benchmark highlights its ability to catch tricky logic bugs and cross-file issues without overwhelming developers with noise.\nIn the past month, it has launched Qodo 2.0, a multi-agent code review system now leading current benchmarks, and introduced tools that learn each organization’s definition of code quality.\nThe company is already working with major enterprises such as Nvidia, Walmart, Red Hat, Intuit, and Texas Instruments, as well as high-growth firms like Monday.com and JFrog.\n“Every year has had a defining moment — from Copilot to ChatGPT to full task automation,” Friedman said. “Now we’re entering a new phase: moving from stateless AI to stateful systems — from intelligence to ‘artificial wisdom.’ That’s what Qodo is built for.”\n\n\n\tKate Park is a reporter at TechCrunch, with a focus on technology, startups and venture capital in Asia. She previously was a financial journalist at Mergermarket covering M&A, private equity and venture capital.\n\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
@@ -175,7 +250,7 @@
     }
   },
   {
-    "title": "Starcloud raises $170 million Series Ato build data centers in space",
+    "title": "Starcloud raises $170 million Series A to build data centers in space",
     "url": "https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/Starcloud-1-deployment-virtical-e1774655359557.png?w=150",
     "tag": "Tech",
@@ -185,37 +260,12 @@
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Starcloud raises $170 million Series Ato build data centers in space",
+      "headline": "Starcloud raises $170 million Series A to build data centers in space",
       "image": [
         "https://techcrunch.com/wp-content/uploads/2026/03/Starcloud-1-deployment-virtical-e1774655359557.png?w=150"
       ],
       "datePublished": "2026-03-30T11:00:00.000Z",
       "dateModified": "2026-03-30T11:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round",
-    "url": "https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Screenshot-2026-02-08-at-12.27.26-PM.png?w=150",
-    "tag": "Tech",
-    "date": "2026-03-30T13:00:00.000Z",
-    "description": "\nFresh off a successful Series C funding round in November, the South Korean fabless AI chip startup Rebellions has raised an additional $400 million.",
-    "body": "\nFresh off a successful Series C funding round in November, the South Korean fabless AI chip startup Rebellions has raised an additional $400 million.\nThe latest funding infusion, which comes before a planned IPO later this year, was led by the Mirae Asset Financial Group and the Korea National Growth Fund. It also comes at the same time that the company is engaging in an aggressive expansion effort — with recently announced plans to grow its presence not only in Asia but also in the Middle East and the U.S.\nFounded in 2020, Rebellions develops and designs AI chips while outsourcing their fabrication. The startup’s chips are designed for inference — the compute necessary for AI models to respond to user queries. Inference has grown in importance as LLMs have matured and begun to see widespread commercial deployment.\nThe company closed $124 million in a Series B in 2024. Then, in November, Rebellions raised an additional $250 million during its Series C. As of today, the company’s total fundraising haul now stands at $850 million — $650 million of which was raised in the last six months. Meanwhile, the startup’s valuation sits at approximately $2.34 billion, the company said Monday.\nIn addition to the funding round, Rebellions also announced the release of two new products: RebelRack and RebelPOD, which are described as AI infrastructure platforms. POD represents a production-ready unit of inference compute, while Rack “integrates multiple racks into a scalable cluster designed for large-scale AI deployment,” the company said.\nIn a conversation with TechCrunch, Rebellions’ Chief Business Officer Marshall Choy — who is leading the company’s global expansion efforts — said it had recently established entities in the U.S., Japan, Saudi Arabia, and Taiwan. Choy said the company was building out its ecosystem of technology partners in the U.S., where it plans to court cloud providers, government agencies, telecom operators, and Neoclouds. He declined to comment on IPO timing.\n“AI is now measured by its ability to operate in the real world at scale, under power constraints, and with clear economic return,” said Sunghyun Park, co-founder and CEO of Rebellions. “That shifts the center of gravity toward inference infrastructure and software that makes that infrastructure usable.”\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nRebellions is one of a new generation of chip startups that have sought to challenge NVIDIA’s once iron-clad dominance within the chip industry. As that dominance has begun to wane, other major tech companies like AWS,  Meta and Google — along with the new generation of startups — have also sought to produce their own chips.\n\n\n\t\n\t\tLucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. \nYou can contact Lucas by emailing lucas.ropek@techcrunch.com.\t\n\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/02/Screenshot-2026-02-08-at-12.27.26-PM.png?w=150"
-      ],
-      "datePublished": "2026-03-30T13:00:00.000Z",
-      "dateModified": "2026-03-30T13:00:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -250,6 +300,31 @@
     }
   },
   {
+    "title": "ScaleOps raises $130M to improve computing efficiency amid AI demand",
+    "url": "https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/",
+    "image": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1136663877.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-03-30T13:52:02.000Z",
+    "description": "\nAI may be booming, but behind the scenes, companies are wasting vast amounts of expensive compute. GPUs sit idle, workloads are over-provisioned, and",
+    "body": "\nAI may be booming, but behind the scenes, companies are wasting vast amounts of expensive compute. GPUs sit idle, workloads are over-provisioned, and cloud costs continue to climb. ScaleOps believes the problem isn’t a shortage — it’s mismanagement.\nThe startup, which builds software that automatically manages and reallocates computing resources in real time, has raised $130 million at an $800 million valuation, ScaleOps said Monday. The Series C funding round was led by Insight Partners, with participation from existing investors, including Lightspeed Venture Partners, NFX, Glilot Capital Partners, and Picture Capital. The company says its software reduces cloud and AI infrastructure costs by as much as 80%.\nScaleOps was co-founded in 2022 by Yodar Shafrir, a former engineer at Run:ai, a GPU orchestration startup acquired by Nvidia, after seeing firsthand how difficult it was for companies to manage increasingly complex AI workloads. While tools like Kubernetes help run applications across large clusters of machines, they often rely on static configurations that struggle to keep up with fast-changing demand, leading to underused GPUs, performance issues, and costly inefficiencies.\n“As part of my role [at Run:ai], I met many customers, especially DevOps teams,” Shafrir, who is the company’s CEO, told TechCrunch. “While they really liked what Run:ai provided, they still struggled to manage their production workloads, especially as inference workloads became more common in the AI era. When I zoomed out, I realized the problem wasn’t just GPUs. It extended to compute, memory, storage, and networking. The same patterns kept repeating; teams were failing to manage resources efficiently.”\nDevOps teams often found themselves chasing down multiple stakeholders to resolve issues, and too often, those efforts fell short. Most existing tools offered visibility into problems, but stopped short of delivering actual solutions. That gap revealed a significant market opportunity.\nScaleOps connects application needs with infrastructure decisions in real time and provides a fully autonomous solution that manages infrastructure end-to-end, Shafrir said.\n“Kubernetes is a great system. It’s flexible and highly configurable. But that’s also the problem,” Shafrir said. “Kubernetes relies heavily on static configurations. Applications today are highly dynamic, which requires constant manual work across teams. You need something that understands the context of each application — what it needs, how it behaves, and how the environment is changing.”\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nImage Credits:ScaleOps\nThere are several players in this space, including Cast AI, Kubecost and Spot. While many companies have introduced automation tools, they often operate without full context, which can lead to performance issues and even downtime, limiting trust among teams running production environments, according to the CEO.\nThe startup says its platform was built specifically for production from the ground up. It is fully autonomous, context-aware, and works out of the box without requiring manual configuration — capabilities the company believes differentiate ScaleOps from competitors.\nThe New York-headquartered company serves enterprise customers globally, particularly those operating Kubernetes-based infrastructure, with a footprint that spans large organizations as well as companies across Europe and India. ScaleOps says its platform is used by a range of enterprise clients, including Adobe, Wiz, DocuSign, Salesforce, and Coupa.\nThe Series C funding comes roughly a year and a half after ScaleOps raised $58 million in its Series B round in November 2024. Since then, the team has seen strong demand for autonomous solutions to manage cloud infrastructure, Shafrir said, adding that it is still in the early stages of its growth. The company’s total funding is about $210 million, according to a spokesperson.\nScaleOps said it has seen more than 450% year-over-year growth and that it has tripled its headcount over the past 12 months, with plans to more than triple it again by year-end.\nWith the new capital, ScaleOps plans to roll out new products and expand its platform. As AI drives demand for compute, managing that infrastructure is becoming increasingly critical. The startup said it will continue building toward fully autonomous infrastructure.\n\n\n\tKate Park is a reporter at TechCrunch, with a focus on technology, startups and venture capital in Asia. She previously was a financial journalist at Mergermarket covering M&A, private equity and venture capital.\n\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "ScaleOps raises $130M to improve computing efficiency amid AI demand",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1136663877.jpg?w=150"
+      ],
+      "datePublished": "2026-03-30T13:52:02.000Z",
+      "dateModified": "2026-03-30T13:52:02.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "SXSW rebounds as a top networking, ideas festival for founders and VCs",
     "url": "https://techcrunch.com/2026/03/29/sxsw-rebounds-as-a-top-networking-ideas-festival-for-founders-and-vcs/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/SXSW-e1774368673971.jpg?w=150",
@@ -275,56 +350,6 @@
     }
   },
   {
-    "title": "Anthropic’s Claude popularity with paying consumers is skyrocketing",
-    "url": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/11/Claude-Opus-4.5-illustration.png?w=150",
-    "tag": "Tech",
-    "date": "2026-03-28T14:15:00.000Z",
-    "description": "\nWhatever the final outcome for Anthropic from its feud with the Department of Defense, the attention it has generated — coupled with the company’s fu",
-    "body": "\nWhatever the final outcome for Anthropic from its feud with the Department of Defense, the attention it has generated — coupled with the company’s funny Super Bowl ads taking aim at OpenAI and the surging popularity of Claude Code — has made Anthropic more popular with consumers than ever.\nAn examination of billions of anonymized credit card transactions from about 28 million U.S. consumers, conducted for TechCrunch by Indagari, a consumer transaction analysis company, shows Claude gaining paid subscribers in record numbers.\nNow, as with all big-data analysis, caveats exist. While this data is substantive, it doesn’t include every consumer. That means that Indagari can’t calculate Anthropic’s total current or new user numbers. It also doesn’t include Claude’s enterprise business (which is its bread and butter) or its free-tier users (those not paying Anthropic at all). Estimates for total Claude consumer users are all over the map (we’ve seen figures ranging from 18 million to 30 million) but Anthropic has not disclosed this data. A spokesperson did tell TechCrunch, however, that Claude paid subscriptions have more than doubled this year.\nWhat’s notable is that consumers pulled out their wallets in record numbers for Claude between January and February. Also interesting, previous users returned to Claude in record numbers in February as well, Indagari told TechCrunch.\nClaude total users six months Sept-Feb.Image Credits:TechCrunch\nIndagari tells us that the majority of new subscribers are at its lowest tier, “Pro” users ($20 per month, compared with $100 or $200 per month).\nData through early March confirm that subscriber growth is continuing. (Data is available with a two-week delay.)\nClaude weekly new consumer subscribers vs  ChatGPT Image Credits:TechCrunch\nTo recap why consumers may have become so much more aware of Claude since January: Anthropic released several Super Bowl commercials that mocked ChatGPT’s  decision to show ads to its users — and promised Claude would never do the same. The spots were funny and effective (and also got under the skin of OpenAI CEO Sam Altman).\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nBut the bigger hullabaloo began in late January when multiple media sites, including the Wall Street Journal and Axios, began reporting on a deepening feud between Anthropic and the DoD. At its core, the dispute was about what the military could and couldn’t do with Anthropic’s AI.\nAnthropic refused to allow the DoD to use its AI models for lethal autonomous operations (AI potentially killing people) or mass surveillance of American citizens. That beef grew increasingly public, with Anthropic’s CEO Dario Amodei issuing a making firm public statement on February 26 amid the DoD’s threats to hurt Anthropic’s business by labeling the company a supply risk. Which the DoD did. Lawsuits are now flying, although a federal judge this week temporarily blocked the department’s designation.\nNew user growth climbed sharply during this period. The increase is especially pronounced between those late January media reports and Amodei’s statement on February 26.\nClaude new consumer users, six months, 09-02Image Credits:TechCrunch\nBeyond the drama, Claude Code and Claude Cowork — developer and productivity tools released in January — have been drivers of subscriptions. The Computer Use feature, released this week, has also sparked a surge, Anthropic tells TechCrunch. That feature allows Claude to navigate a computer independently — clicking, scrolling, and taking actions on its own. It works with Dispatch, which lets users assign tasks from their phones. These features are not available to free-tier users.\nStill, for all of Anthropic’s growth among U.S. consumers willing to pay for AI, Claude remains a long way behind ChatGPT.\nWhile OpenAI’s uninstalls spiked immediately after it announced a deal with the DoD — a move that stood in contrast to Anthropic’s safety stand —  Indagari’s data shows that OpenAI is still gaining new paid subscribers at a rapid rate and remains the biggest consumer AI platform of them all.\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Anthropic’s Claude popularity with paying consumers is skyrocketing",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/11/Claude-Opus-4.5-illustration.png?w=150"
-      ],
-      "datePublished": "2026-03-28T14:15:00.000Z",
-      "dateModified": "2026-03-28T14:15:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "From Moon hotels to cattle herding: 8 startups investors chased at YC Demo Day",
-    "url": "https://techcrunch.com/2026/03/28/from-moon-hotels-to-cattle-herding-8-startups-investors-chased-at-yc-demo-day/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/04/yc-sf.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-03-28T12:00:00.000Z",
-    "description": "\nInvestors have flocked to Y Combinator’s Demo Days for years to get their hands on promising startups building cool tech. After all, the accelerator ",
-    "body": "\nInvestors have flocked to Y Combinator’s Demo Days for years to get their hands on promising startups building cool tech. After all, the accelerator has produced some of the biggest tech companies in the world, from Airbnb and Reddit to Dropbox, Zapier and Stripe.\nThat’s why we make it a point to keep an eye on the event to spot the most interesting companies from each batch. As I’ve been doing nearly every quarter now that the accelerator has moved to four cohorts a year, I asked nearly a dozen investors which startups were most in demand at Y Combinator’s Winter 2026 Demo Day earlier this week.\nTo ensure our list included truly sought-after standouts, a company had to be flagged as a ‘fave’ by at least two different venture capital investors to make the cut. \nAs for valuations, I’m hearing that at least a couple startups have raised funds at a $100 million price tag, though notably, those startups are already bringing in run-rate revenue of $1 million or more. Even for the less buzzy startups not on this list, the “default” valuation this quarter seems to be around $30 million, which investors told me is roughly two-fold the current seed market average.\nWithout further ado, here’s the list:\nBeyond Reach Labs\nWhat it’s building: Deployable solar arrays for satellites.\nWhy it’s a fave: The startup claims it has developed solar arrays that are the size of a dining table at launch, but unfold to the size of a football field when they reach orbit. The founders say their system can increase available power ten-fold while slashing costs by 88%. Beyond Reach already has a flight planned for 2027, and says it has secured $325 million in letters of intent from leading space companies.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nByteport\nWhat it’s building: A ridiculously fast file transfer protocol.\nWhy it’s a fave: According to Byteport’s founder Jayram Palamadai, existing file transfer protocols like TCP are too slow for the AI age. That’s why he built DART, short for Dynamic Accelerated Record Transfer, which can apparently transfer large files at an average of 10 times faster than TCP, and even up to 1,500 times faster on “reliable connections.” \nHex Security\nWhat it’s building: Continuous AI-powered security testing tools.\nWhy it’s a fave: To fight hackers using AI to launch non-stop cyberattacks, Hex is building AI agents that can act as penetration testers, constantly probing for vulnerabilities and security gaps in companies’ infrastructure. By automating what was once a manual process performed infrequently, Hex claims it can prevent attacks at a fraction of the cost. The startup claims it has crossed run-rate revenue of more than $1 million in just eight weeks, which may be why VC investors, as one person told me, “were fighting” to invest in the company.\nGrazemate\nWhat it’s building: Autonomous drones to herd and monitor cattle.\n Why it’s a fave: Moving cattle on massive ranches is an expensive and dangerous undertaking, often involving helicopters and motorbikes. GrazeMate’s founder, who grew up on a 6,000-head cattle station in Australia, saw a way to make life easier for ranchers, so he dropped out of college where he was pursuing a robotics degree.\nGrazeMate’s drones can automatically guide cattle to different areas of a ranch, estimate animals’ weight, grass availability and growth, and can follow pre-specified route plans. \nGRU Space\nWhat it’s building: Permanent lunar infrastructure, starting with a hotel on the Moon.\nWhy it’s a fave: “Humanity will become interplanetary. It’s a matter of not if, but when, and the time is now,” says GRU Space founder Skyler Chan, a recent Berkeley grad who previously built software at Tesla and worked on NASA-funded space tech. \nChan claims his startup has developed a “moon factory” that can turn lunar soil into structural bricks, which he plans to use to build a luxury hotel on the moon as a “wedge” for broader lunar infrastructure. GRU’s astronomical aspirations, including its goal to open the first lunar hotel by 2032, have made it one of the most talked-about startups of this YC batch. The company has already secured $500 million in letters of intent, an invitation to the White House, and even a reservation from the Trump family.\nLuel\nWhat it’s building: A marketplace for human-captured data to train multimodal AI.\nWhy it’s a fave: Founded by two UC Berkeley dropouts, Luel is building a data marketplace that connects AI model makers with contributors who can submit “daily-life” activities, such as ironing or patient-doctor conversations, to provide audio, video and image data. The company claims it’s generating ARR of nearly $2 million within six weeks, fueled by high demand from robotics and voice AI labs.\nPax Historia\nWhat it’s building: An alternative-history strategy game powered by AI.\nWhy it’s a fave: Pax Historia allows users to rewrite history in a way traditional strategy games can’t. Using generative AI, the game responds to infinite, complex geopolitical scenarios, from “What if Rome never fell?” to “What if the USA took over Greenland?” The founders claim the game currently attracts 35,000 daily users who have played nearly 20 million rounds.\nStilta\nWhat it’s building: Agentic AI for intellectual property and patent lawyers.\nWhy it’s a fave: Stilta’s founders claim that patent disputes can cost up to $4 million per case, largely due to manual document review costs. The startup says its AI agent can search and analyze patents across databases and scientific literature, saving both time and legal fees. \nThe company’s agents are already being used by IP lawyers at pharmaceutical giant Roche. For investors, another attractive aspect is that the founders hail from Sweden — recent Swedish successes like Lovable and Legora have created something of a “halo effect” around companies from the region, one VC investor said.\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "From Moon hotels to cattle herding: 8 startups investors chased at YC Demo Day",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2023/04/yc-sf.jpg?w=150"
-      ],
-      "datePublished": "2026-03-28T12:00:00.000Z",
-      "dateModified": "2026-03-28T12:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Sora’s shutdown could be a reality check moment for AI video",
     "url": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2239565319.jpg?w=150",
@@ -341,31 +366,6 @@
       ],
       "datePublished": "2026-03-29T16:30:00.000Z",
       "dateModified": "2026-03-29T16:30:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
-    "url": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/01/bluesky-GettyImages-2185142051.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-03-28T23:00:00.000Z",
-    "description": "\nThe team from Bluesky has built another app — and this time, it’s not a social network, but an AI assistant that allows you to design your own algori",
-    "body": "\nThe team from Bluesky has built another app — and this time, it’s not a social network, but an AI assistant that allows you to design your own algorithm, create custom feeds, and, one day, vibe-code your own app. \nAt the Atmosphere conference over the weekend, Bluesky’s former CEO, Jay Graber, now chief innovation officer, and Bluesky CTO Paul Frazee, presented the AI app, called Attie, for the first time. Conference attendees will become the initial beta testers for the new experience, which leverages Anthropic’s Claude under the hood to create an agentic social app built on Bluesky’s underlying protocol, the AT Protocol (or atproto for short). \n“It’s a new product — it’s not a part of the Bluesky app,” explains interim CEO Toni Schneider in an interview. (In addition to his CEO role, Schneider is a partner at Bluesky backer True Ventures.) “We’ve launched a lot of things inside Bluesky — Starter Packs and custom feeds, and all those kinds of things. This is a standalone product, and it’s the first one that’s built by Jay’s new team.”\nScreenshotImage Credits:Attie from Bluesky\nWith Attie, anyone will be able to build their own custom feed just by typing in commands in natural language, the same as if they’re chatting with any other AI chatbot. To use the app, people will sign in with their Atmosphere login (meaning their login for any app that runs on atproto, which includes Bluesky). Attie will immediately understand what you’ve been talking about, what sort of things you like, and more, because Bluesky and the wider ecosystem are open systems that share data across apps. \nYou can ask Attie questions, like what posts you might like to see or repost, and you can use the app to curate your own custom feed, personalized to you. \n“You control it, you shape it, without having to write code or know how to set up these feeds,” Schneider says. “It’s the beginning of just having a lot more people be able to build on top of the Atmosphere.”\nPlus, he adds, “It is an AI product, but it’s an AI product that’s very people-focused … We think AI is a very powerful technology, but we want to make sure that we use it to build things that really benefit people.”\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nAt launch, Attie can be used to build and view these feeds, which will later become available to you within Bluesky or any other atproto app. Over time, the plan is to allow Attie’s users to vibe-code their own social apps as well as build tools for other people. \nScreenshotImage Credits:Attie from Bluesky\nSchneider says that Graber and her team began working on the app a few months ago, which was around the same time she decided to return to building, instead of running the company. \n“I think she realized that there was so much more that she wanted to build, and just doing the CEO job kept her busy, and she felt like she wanted more time,” Schneider tells TechCrunch. “As she spent more time, [and] got freed up, I think it became clear that this is her happy place. She’s an amazing leader and visionary, and we want her building more things and not worrying about operating the company,” he says. \nGraber says today, AI is being used by the major platforms to serve themselves, not their users, by trying to increase people’s time spent in their apps, harvesting data, and controlling their algorithms. \n“We think AI should serve people, not platforms,” Graber said in her announcement of Attie. “An open protocol puts this power directly in users’ hands. You can use it to build your own feeds, create software that works the way you want it to, and find signal in the noise.”\nGraber’s decision to once again focus on protocol and product was followed by the company’s announcement that it now has $100 million in additional funding from a round that closed last year. The team hopes that news serves as a signal to the wider community that Bluesky will continue to be around. \n“It means we have three-plus years of runway, which is great. That means stability and security for the rest of the ecosystem,” Schneider tells TechCrunch. It also means that Bluesky’s team has time to tackle the bigger challenges ahead, which include adding privacy controls to the protocol and finding a way to monetize the social network of 43.4 million users. \nOne thing that Schneider assures us is not in the works, however, is any crypto integration — despite the financial backing from multiple crypto investors. That’s something that had worried some Bluesky users, who feared the app would be filled with crypto scams or become a payment tool. \n“It’s the kind of investors who were attracted to crypto because of its decentralization, and they were investing in things built on the blockchain that were super decentralized,” Schneider says of Bluesky’s backers in the crypto space. “This is decentralized social, so it fits those who are invested to believe in the platform and the ecosystem opportunity.”\nInstead, the company may experiment with other means of monetization. The team hasn’t yet decided if Attie will ultimately require a fee, as it’s only a private beta for the time being. Other ideas being batted around include subscriptions and hosting services for those who want to host their own communities on the protocol. \nSchneider, the former CEO of Automattic, the home of publishing platform WordPress.com, sees the potential for the Atmosphere as being similar to WordPress in this way.\n“At the center of [the Atmosphere] is a completely open system, so anybody can participate,” he says. “You can have all of these independent, decentralized pieces that work together. With WordPress, that turned into a huge ecosystem with billions of dollars — over $10 billion a year, now — flowing through it.”\nSchneider continues, “So it’s gotten very big, even though it’s completely decentralized. And this is what we’re hoping for, for the Atmosphere to have that similar ability for lots of these apps and services to coexist and work together and build an ecosystem.”\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Bluesky leans into AI with Attie, an app for building custom feeds",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/01/bluesky-GettyImages-2185142051.jpg?w=150"
-      ],
-      "datePublished": "2026-03-28T23:00:00.000Z",
-      "dateModified": "2026-03-28T23:00:00.000Z",
       "author": [
         {
           "@type": "Person",
