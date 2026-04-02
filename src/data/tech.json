@@ -1,30 +1,5 @@
 [
   {
-    "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
-    "url": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-04-01T22:12:13.000Z",
-    "description": "\nIn Brief\nPosted:\n3:12 PM PDT · April 1, 2026\n\nImage Credits:Samyukta Lakshmi/Bloomberg / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nAnth",
-    "body": "\nIn Brief\nPosted:\n3:12 PM PDT · April 1, 2026\n\nImage Credits:Samyukta Lakshmi/Bloomberg / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nAnthropic accidentally caused thousands of code repositories on GitHub to be taken down while trying to pull copies of its most popular product’s source code off the internet.\nOn Tuesday, a software engineer discovered that Anthropic had, seemingly by accident, included access to the source code for the category-leading Claude Code command line application in a recent release. AI enthusiasts pored over the leaked code for clues about how Anthropic harnesses the LLM that underlies the application, sharing it on GitHub.\nAnthropic issued a takedown notice under U.S. digital copyright law asking GitHub to take down repositories containing the offending code. According to GitHub’s records, the notice was executed against some 8,100 repositories — including legitimate forks of Anthropic’s own publicly released Claude Code repository, according to irate social media users whose code got blocked.\nAnthropic’s head of Claude Code, Boris Cherny, said the move was accidental and retracted the bulk of the takedown notices, limiting it to one repository and 96 forks with the accidentally released source code.\n“The repo named in the notice was part of a fork network connected to our own public Claude Code repo, so the takedown reached more repositories than intended,” an Anthropic spokesperson told TechCrunch. “We retracted the notice for everything except the one repo we named, and GitHub has restored access to the affected forks.”\nThe botched clean-up here is another black eye for the company as it reportedly plans an IPO, a task which typically demands attention to execution and compliance. Leaking your source code as a public company? You better believe there’s a shareholder lawsuit coming.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in AI\n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=150"
-      ],
-      "datePublished": "2026-04-01T22:12:13.000Z",
-      "dateModified": "2026-04-01T22:12:13.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "‘System failure’ paralyzes Baidu robotaxis in China",
     "url": "https://techcrunch.com/2026/04/01/system-failure-paralyzes-baidu-robotaxis-in-china/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/baidu-robotaxi-getty.jpg?w=150",
@@ -41,81 +16,6 @@
       ],
       "datePublished": "2026-04-01T21:12:14.000Z",
       "dateModified": "2026-04-01T21:12:14.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "De-fi platform Drift suspends deposits and withdrawals after millions in crypto stolen in hack",
-    "url": "https://techcrunch.com/2026/04/01/de-fi-platform-drift-suspends-deposits-and-withdrawals-after-millions-in-crypto-stolen-in-hack/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/12/ransomware-crypto-gold-Samuil_Levich-getty.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-04-01T22:58:39.000Z",
-    "description": "\nIn Brief\nPosted:\n3:58 PM PDT · April 1, 2026\n\nImage Credits:Samuil Levich / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nDecentralized fin",
-    "body": "\nIn Brief\nPosted:\n3:58 PM PDT · April 1, 2026\n\nImage Credits:Samuil Levich / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nDecentralized finance company Drift says it has suspended withdrawals and deposits after confirming a security incident. \nThe crypto platform said in a post on X that it was “experiencing an active attack,” and that it was working to “contain the incident.”\nSecurity researchers and public blockchain data suggest the losses could be significant. Blockchain security firm CertiK said on X that hackers may have stolen around $136 million, while crypto analytics firm Arkham put the figure at around $285 million stolen.\nIf confirmed, this would make the Drift hack the largest crypto theft of the year, according to the Rekt leaderboard, a site that tracks crypto thefts by size.\nIt’s not clear who is behind the attack, and a spokesperson for Drift did not immediately respond to a request for comment.\nSecurity firms say North Korea was behind the most crypto thefts last year, netting at least $2 billion in stolen cryptocurrency, funds the regime is believed to use to finance its nuclear weapons program and skirt international sanctions that restrict its access to the global financial system.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Security\n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "De-fi platform Drift suspends deposits and withdrawals after millions in crypto stolen in hack",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2023/12/ransomware-crypto-gold-Samuil_Levich-getty.jpg?w=150"
-      ],
-      "datePublished": "2026-04-01T22:58:39.000Z",
-      "dateModified": "2026-04-01T22:58:39.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Lucid Motors recalls over 4,000 Gravity SUVs citing improperly welded seat belts",
-    "url": "https://techcrunch.com/2026/04/01/lucid-motors-recalls-over-4000-gravity-suvs-citing-improperly-welded-seat-belts/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/09/lucid-gravity-suv.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-04-01T13:40:23.000Z",
-    "description": "\nLucid Motors seemed to have largely resolved its initial quality struggles with the Gravity SUV’s hardware and software, but the company is not out o",
-    "body": "\nLucid Motors seemed to have largely resolved its initial quality struggles with the Gravity SUV’s hardware and software, but the company is not out of the woods yet: It just issued a recall for more than 4,000 Gravity SUVs after discovering a problem with the seat belts.\nThe company told the National Highway Traffic Safety Administration that, during unrelated safety testing in January, it discovered some of the anchors for the SUV’s second-row seat belts were not properly welded. This increases the risk that the seat belts would not hold passengers during a collision.\nLucid Motors said the problem is the result of its seat supplier changing its manufacturing process “without notice to or approval by Lucid.” The supplier has reverted to Lucid Motors’ original design specification, and only Gravity SUVs made before February 14, 2026 are affected. \nThe automaker says it will have to inspect all Gravity SUVs affected by the recall, and either install a bracket or a whole new seat, depending on the quality of the weld.\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Lucid Motors recalls over 4,000 Gravity SUVs citing improperly welded seat belts",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/09/lucid-gravity-suv.jpg?w=150"
-      ],
-      "datePublished": "2026-04-01T13:40:23.000Z",
-      "dateModified": "2026-04-01T13:40:23.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Nothing’s AI devices plan reportedly contains smart glasses and earbuds",
-    "url": "https://techcrunch.com/2026/04/01/nothings-ai-devices-plan-reportedly-contains-smart-glasses-and-earbuds/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/09/Carl-Pei-Nothing.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-04-01T12:33:24.000Z",
-    "description": "\nIn Brief\nPosted:\n5:33 AM PDT · April 1, 2026\n\nImage Credits:Nothing\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nLondon-based hardware company Nothing ",
-    "body": "\nIn Brief\nPosted:\n5:33 AM PDT · April 1, 2026\n\nImage Credits:Nothing\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nLondon-based hardware company Nothing is on track to release a pair of smart glasses next year, Bloomberg reported, citing anonymous sources.\nThe glasses will likely feature cameras, microphones, and speakers, and will connect to a smartphone and the cloud to process AI queries, the report said.\nCEO and co-founder Carl Pei was initially resistant to the idea of smart glasses, but he has since told employees that he wants to focus on a multi-device strategy, expanding the company’s remit beyond its existing smartphone lines and audio gear, Bloomberg said.\nThe company is also planning to release a pair of earbuds with AI features this year. Last year, Pei told TechCrunch that it planned to release its first AI device in 2026, though he didn’t specify what kind of device it might be.\nIf the report is true, Nothing would be going up against the likes of Meta, Even Realities, and Rokid, all of which make smart glasses. Meta has so far launched multiple versions of its smart glasses, and earlier this week showed off two models that support prescription lenses. Apple is rumored to release a pair of smart glasses next year, and Google’s smart glasses with Samsung are rumored to land this year.\nNothing became a unicorn last year after it raised a $200 million Series C round at a $1.3 billion valuation. The company has been popular among tech enthusiasts thanks to its unique design, which often features transparent and see-through elements. However, it still only accounts for a tiny share of the smartphone market, which has long been dominated by incumbents Apple, Samsung, a few Chinese companies, and Google itself.\nPei has said multiple times that Nothing would need to innovate on the hardware and software front, and use AI, to stand out in the market. The company last year launched a tool that lets people create mini apps using AI prompts. \n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Gadgets\n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Nothing’s AI devices plan reportedly contains smart glasses and earbuds",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/09/Carl-Pei-Nothing.jpg?w=150"
-      ],
-      "datePublished": "2026-04-01T12:33:24.000Z",
-      "dateModified": "2026-04-01T12:33:24.000Z",
       "author": [
         {
           "@type": "Person",
@@ -150,22 +50,22 @@
     }
   },
   {
-    "title": "Cash App launches ‘pay later’ feature for P2P pay transfers",
-    "url": "https://techcrunch.com/2026/04/02/cash-app-launches-buy-now-pay-later-feature-for-p2p-pay-transfers/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Retro-P2P-Press-Release-444-x-324.png?w=150",
+    "title": "De-fi platform Drift suspends deposits and withdrawals after millions in crypto stolen in hack",
+    "url": "https://techcrunch.com/2026/04/01/de-fi-platform-drift-suspends-deposits-and-withdrawals-after-millions-in-crypto-stolen-in-hack/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/12/ransomware-crypto-gold-Samuil_Levich-getty.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-04-02T12:00:00.000Z",
-    "description": "\nCash App, the peer-to-peer fintech app owned by Jack Dorsey’s Block, has launched a new “pay-over-time” deferred payment feature that allows eligible",
-    "body": "\nCash App, the peer-to-peer fintech app owned by Jack Dorsey’s Block, has launched a new “pay-over-time” deferred payment feature that allows eligible users to pay for their everyday transfers over an extended period of time.\nCompanies have increasingly offered deferred payments for relatively mundane and everyday purchases. About a year ago, DoorDash partnered with Klarna—allowing users to “micro-finance” their food orders (the partnership notably inspired a flurry of online jokes about “burrito debt” and late capitalism). Cash App’s new feature clearly builds on this trend—expanding flexible financing into the P2P payment realm.\nTo take advantage of the new feature, users pay a 7.5% fee—meaning that, if you borrow $100 from Cash App, you’re going to end up paying the company back $107.50. Transfers of $25 or more are eligible, the company says, and repayments can be made in weekly increments over a period of up to six weeks or as a single payment at the due date.\nThere are also loan limits to the new system, but they are dynamic—meaning that they will be different for different users. “The specific amount available for conversion depends on the original transaction amount and individual customer assessment,” a spokesperson said. “We evaluate each transaction for eligibility based on our responsible lending criteria rather than setting traditional credit limits,” they added. \nIn an interview, Block’s Global Head of Business, Owen Jennings, framed the new feature as a way to add value to Cash App’s customers via “cash flow management.” Jennings noted that many Americans have different kinds of jobs today—many of which pay with less consistency than those offered in prior decades. Cash App’s new feature is designed to add financial flexibility to that situation, Jennings said. \n“We’re seeing more folks—particularly younger folks—who are solo-preneurs, entrepreneurs…[and] gig workers. They have side hustles, they’re working multiple jobs, [and] so they have variable income streams,” Jennings said. “It’s very different than if you go back like 40 or 50 years ago—I think the average income earner in the U.S. [back then] was basically getting, like a steady W2 income every two weeks.” \n“Buy now, pay later” services have skyrocketed in popularity over the past several years while also spurring significant criticism and concern. Some critics maintain that such services are designed to trap consumers in cycles of debt, while others have suggested that the fact that more and more Americans need financing for basic household items is a sign of broader economic crisis. Companies that provide these services have also found themselves in legal hot water. Just this week, Klarna was sued in a class-action lawsuit alleging it had engaged in “predatory” practices, Bloomberg reports.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nJennings said Cash App’s new feature has strong built-in protections that are designed to steer users away from financial trouble, like getting stuck in what he called “debt spirals.” “The way all of our lending products are created is non-revolving,” he added. “If you don’t pay back a loan, then you can’t take out another loan.”\nThe service also builds off of other financial flexibility services that Cash App already offers, Jennings said. In prior years, the app debuted Borrow, which, somewhat like a traditional bank, allows users to take out a small loan from the app and then pay it back over a period of 4-6 weeks. \nAnother offering is Afterpay for Cash App Card (its debit program), which allows users to defer payments for transactions made with the card.\n\n\n\t\n\t\tLucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. \nYou can contact Lucas by emailing lucas.ropek@techcrunch.com.\t\n\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-04-01T22:58:39.000Z",
+    "description": "\nIn Brief\nPosted:\n3:58 PM PDT · April 1, 2026\n\nImage Credits:Samuil Levich / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nDecentralized fin",
+    "body": "\nIn Brief\nPosted:\n3:58 PM PDT · April 1, 2026\n\nImage Credits:Samuil Levich / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nDecentralized finance company Drift says it has suspended withdrawals and deposits after confirming a security incident. \nThe crypto platform said in a post on X that it was “experiencing an active attack,” and that it was working to “contain the incident.”\nSecurity researchers and public blockchain data suggest the losses could be significant. Blockchain security firm CertiK said on X that hackers may have stolen around $136 million, while crypto analytics firm Arkham put the figure at around $285 million stolen.\nIf confirmed, this would make the Drift hack the largest crypto theft of the year, according to the Rekt leaderboard, a site that tracks crypto thefts by size.\nIt’s not clear who is behind the attack, and a spokesperson for Drift did not immediately respond to a request for comment.\nSecurity firms say North Korea was behind the most crypto thefts last year, netting at least $2 billion in stolen cryptocurrency, funds the regime is believed to use to finance its nuclear weapons program and skirt international sanctions that restrict its access to the global financial system.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Security\n\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Cash App launches ‘pay later’ feature for P2P pay transfers",
+      "headline": "De-fi platform Drift suspends deposits and withdrawals after millions in crypto stolen in hack",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/04/Retro-P2P-Press-Release-444-x-324.png?w=150"
+        "https://techcrunch.com/wp-content/uploads/2023/12/ransomware-crypto-gold-Samuil_Levich-getty.jpg?w=150"
       ],
-      "datePublished": "2026-04-02T12:00:00.000Z",
-      "dateModified": "2026-04-02T12:00:00.000Z",
+      "datePublished": "2026-04-01T22:58:39.000Z",
+      "dateModified": "2026-04-01T22:58:39.000Z",
       "author": [
         {
           "@type": "Person",
@@ -175,22 +75,22 @@
     }
   },
   {
-    "title": "The reputation of troubled YC startup Delve has gotten even worse",
-    "url": "https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/IMG_1542.jpeg?w=150",
+    "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
+    "url": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-04-01T21:23:47.000Z",
-    "description": "\nThe controversy surrounding compliance startup Delve has gone from bad to worse this week. Among the fresh allegations from the anonymous whistleblow",
-    "body": "\nThe controversy surrounding compliance startup Delve has gone from bad to worse this week. Among the fresh allegations from the anonymous whistleblower known as DeepDelver is the claim that Delve allegedly took an open source tool and passed it off as its own work without proper license attribution to or monetary agreement with the original developer.\nThe story goes that the Delve team pitched a no-code tool it called Pathways to a prospect. That prospect would later become the whistleblower DeepDelver. DeepDelver recognized that Pathways looked a lot like Sim.ai’s open source agent-building product called SimStudio and asked Delve if it was based on SimStudio. The Delve folks said they built it themselves, the whistleblower contends.\nDeepDelver then presented alleged evidence that this tool was actually a fork — a modified copy — of SimStudio, changed just enough to be passed off as Delve’s own. If that proves true, it would be a violation of the Apache software license, which requires the original developer be credited.\nDeepDelver calls this “stealing intellectual property,” which is a bit of a stretch, since open source tools are freely available to be used, if they are properly credited. But the irony is hard to miss: Delve, a startup that purports to sell a compliance solution, may have violated a software license.\nSim.ai’s founder and CEO, Emir Karabeg, confirmed to TechCrunch that he answered DeepDelver’s questions about the allegations. He told the whistleblower that Delve had no license agreement with Sim.ai whatsoever.\n“We knew they planned to use Sim for something and later tried unsuccessfully to sell them an agreement,” Karabeg told DeepDelver. “I didn’t realize they were going to sell it out of the box as a stand-alone solution.”\nAdding to the awkwardness: Sim.ai was actually a Delve customer, Karabeg told TechCrunch. Both startups were grads of the startup accelerator Y Combinator, and Y Combinator alumni frequently buy each other’s products. So while Sim.ai paid Delve, Delve did not do the same for Sim.ai.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nKarabeg had even expressed sympathy for Delve after the whistleblower dropped the first bombshell last week. DeepDelver originally alleged that Delve was faking customer data and using rubber-stamping auditors, allegations that Delve has denied.\nSince learning of the Sim.ai allegations, Karabeg has not heard from Delve’s founders. “I was consoling my friends at Delve after the first post was released last week, but since I found out about this news we haven’t been in contact,” he told TechCrunch.\nDelve’s alleged methods preceded its Series A funding round led by Insight Partners, the whistleblower also alleges. We’ve reached out to Insight Partners to ask about this, and about the venerable VC firm’s due-diligence process.\nWe know that Insight Partners’ 2025 blog post about why it led a $32 million investment into Delve was, for a short time, unavailable on the VC firm’s website. The firm’s LinkedIn post about the investment has not been restored, at least at this time.\nMentions of the Pathways tool on Delve’s site, along with many other pages, also appear to have been scrubbed. Delve did not respond to a request for comment, and the media inquiries address on its website no longer works.\nThe allegations that Delve may have violated an open source license of a customer and, apparently, a friend generated so much outcry on X that it has become a trending topic, complete with a scathing community note.\n",
+    "date": "2026-04-01T22:12:13.000Z",
+    "description": "\nIn Brief\nPosted:\n3:12 PM PDT · April 1, 2026\n\nImage Credits:Samyukta Lakshmi/Bloomberg / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nAnth",
+    "body": "\nIn Brief\nPosted:\n3:12 PM PDT · April 1, 2026\n\nImage Credits:Samyukta Lakshmi/Bloomberg / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nAnthropic accidentally caused thousands of code repositories on GitHub to be taken down while trying to pull copies of its most popular product’s source code off the internet.\nOn Tuesday, a software engineer discovered that Anthropic had, seemingly by accident, included access to the source code for the category-leading Claude Code command line application in a recent release. AI enthusiasts pored over the leaked code for clues about how Anthropic harnesses the LLM that underlies the application, sharing it on GitHub.\nAnthropic issued a takedown notice under U.S. digital copyright law asking GitHub to take down repositories containing the offending code. According to GitHub’s records, the notice was executed against some 8,100 repositories — including legitimate forks of Anthropic’s own publicly released Claude Code repository, according to irate social media users whose code got blocked.\nAnthropic’s head of Claude Code, Boris Cherny, said the move was accidental and retracted the bulk of the takedown notices, limiting it to one repository and 96 forks with the accidentally released source code.\n“The repo named in the notice was part of a fork network connected to our own public Claude Code repo, so the takedown reached more repositories than intended,” an Anthropic spokesperson told TechCrunch. “We retracted the notice for everything except the one repo we named, and GitHub has restored access to the affected forks.”\nThe botched clean-up here is another black eye for the company as it reportedly plans an IPO, a task which typically demands attention to execution and compliance. Leaking your source code as a public company? You better believe there’s a shareholder lawsuit coming.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in AI\n\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "The reputation of troubled YC startup Delve has gotten even worse",
+      "headline": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/07/IMG_1542.jpeg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=150"
       ],
-      "datePublished": "2026-04-01T21:23:47.000Z",
-      "dateModified": "2026-04-01T21:23:47.000Z",
+      "datePublished": "2026-04-01T22:12:13.000Z",
+      "dateModified": "2026-04-01T22:12:13.000Z",
       "author": [
         {
           "@type": "Person",
@@ -225,22 +125,22 @@
     }
   },
   {
-    "title": "SpaceX files confidentially for IPO in mega listing potentially valued at $1.75 trillion, report says",
-    "url": "https://techcrunch.com/2026/04/01/spacex-files-confidentially-for-ipo-in-mega-listing-potentially-valued-at-1-75-trillion-report-says/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/08/starship-tenth-flight-1.jpeg?w=150",
+    "title": "The reputation of troubled YC startup Delve has gotten even worse",
+    "url": "https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/IMG_1542.jpeg?w=150",
     "tag": "Tech",
-    "date": "2026-04-01T15:46:43.000Z",
-    "description": "\n\t\t\t\t\t\t8:46 AM PDT · April 1, 2026\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\nSpaceX, the technology conglomerate founded by Elon Musk, reportedly filed disclosures confidentiall",
-    "body": "\n\t\t\t\t\t\t8:46 AM PDT · April 1, 2026\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\nSpaceX, the technology conglomerate founded by Elon Musk, reportedly filed disclosures confidentially with the U.S. Securities and Exchange Commission ahead of an initial public offering. SpaceX could seek a valuation of $1.75 trillion, according to Bloomberg, which cited anonymous sources.\nUnder SEC rules, a private company can file its IPO registration statement confidentially 15 days before it begins marketing its shares to public investors, allowing it to receive feedback from the agency in private. The company has also lined up an unusually large number of 21 banks to manage the mega IPO, internally codenamed “Project Apex,” Reuters reported Tuesday.\nThe company expects to raise $75 billion, which would make it the largest IPO in history, far beyond oil giant Saudi Aramco’s $29 billion listing in 2019. SpaceX has raised an estimated $10 billion as a private company.\nFounded in 2002, SpaceX is the world’s leading space company, flying a fleet of reusable rockets and spacecraft, and operating a 10,000-satellite communications network, Starlink. Musk brought Silicon Valley culture to the staid world of space contracting and disrupted the sector, creating a new industry for private technology and a boom in space startups.\nIn February, SpaceX acquired Musk’s xAI in a deal that valued the entity at $1.25 trillion. The conglomerate now includes xAI, Musk’s frontier generative AI lab, and X, the social network formerly known as Twitter.\nMusk said for years that SpaceX would not go public until its spacecraft had reached Mars, but a voracious demand for capital has changed that equation, even as the company has reset its ambitions to aim for the moon. In recent months, Musk has said the company will build a network of as many as a million data center satellites in space, built and launched from Earth’s nearest neighbor.\nSpaceX needs billions to build Starship, the fully reusable heavy-lift rocket that is central to its future business plans and NASA’s hope of beating China to the moon; to purchase spectrum and replenish its Starlink satellites as they become obsolete; and to pay for the compute required to build and operate xAI’s deep learning models.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n\n\t\t\t\n\tTopics\n\n\n\n\t\n\t\tTim Fernholz is a journalist who writes about technology, finance and public policy. He has closely covered the rise of the private space industry and is the author of  Rocket Billionaires: Elon Musk, Jeff Bezos and the New Space Race. Formerly, he was a senior reporter at Quartz, the global business news site, for more than a decade, and began his career as a political reporter in Washington, D.C. \nYou can contact or verify outreach from Tim by emailing tim.fernholz@techcrunch.com or via an encrypted message to tim_fernholz.21 on Signal.\r\n\t\n\n\t\n\t\tView Bio \n\t\n\n\t\t",
+    "date": "2026-04-01T21:23:47.000Z",
+    "description": "\nThe controversy surrounding compliance startup Delve has gone from bad to worse this week. Among the fresh allegations from the anonymous whistleblow",
+    "body": "\nThe controversy surrounding compliance startup Delve has gone from bad to worse this week. Among the fresh allegations from the anonymous whistleblower known as DeepDelver is the claim that Delve allegedly took an open source tool and passed it off as its own work without proper license attribution to or monetary agreement with the original developer.\nThe story goes that the Delve team pitched a no-code tool it called Pathways to a prospect. That prospect would later become the whistleblower DeepDelver. DeepDelver recognized that Pathways looked a lot like Sim.ai’s open source agent-building product called SimStudio and asked Delve if it was based on SimStudio. The Delve folks said they built it themselves, the whistleblower contends.\nDeepDelver then presented alleged evidence that this tool was actually a fork — a modified copy — of SimStudio, changed just enough to be passed off as Delve’s own. If that proves true, it would be a violation of the Apache software license, which requires the original developer be credited.\nDeepDelver calls this “stealing intellectual property,” which is a bit of a stretch, since open source tools are freely available to be used, if they are properly credited. But the irony is hard to miss: Delve, a startup that purports to sell a compliance solution, may have violated a software license.\nSim.ai’s founder and CEO, Emir Karabeg, confirmed to TechCrunch that he answered DeepDelver’s questions about the allegations. He told the whistleblower that Delve had no license agreement with Sim.ai whatsoever.\n“We knew they planned to use Sim for something and later tried unsuccessfully to sell them an agreement,” Karabeg told DeepDelver. “I didn’t realize they were going to sell it out of the box as a stand-alone solution.”\nAdding to the awkwardness: Sim.ai was actually a Delve customer, Karabeg told TechCrunch. Both startups were grads of the startup accelerator Y Combinator, and Y Combinator alumni frequently buy each other’s products. So while Sim.ai paid Delve, Delve did not do the same for Sim.ai.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nKarabeg had even expressed sympathy for Delve after the whistleblower dropped the first bombshell last week. DeepDelver originally alleged that Delve was faking customer data and using rubber-stamping auditors, allegations that Delve has denied.\nSince learning of the Sim.ai allegations, Karabeg has not heard from Delve’s founders. “I was consoling my friends at Delve after the first post was released last week, but since I found out about this news we haven’t been in contact,” he told TechCrunch.\nDelve’s alleged methods preceded its Series A funding round led by Insight Partners, the whistleblower also alleges. We’ve reached out to Insight Partners to ask about this, and about the venerable VC firm’s due-diligence process.\nWe know that Insight Partners’ 2025 blog post about why it led a $32 million investment into Delve was, for a short time, unavailable on the VC firm’s website. The firm’s LinkedIn post about the investment has not been restored, at least at this time.\nMentions of the Pathways tool on Delve’s site, along with many other pages, also appear to have been scrubbed. Delve did not respond to a request for comment, and the media inquiries address on its website no longer works.\nThe allegations that Delve may have violated an open source license of a customer and, apparently, a friend generated so much outcry on X that it has become a trending topic, complete with a scathing community note.\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "SpaceX files confidentially for IPO in mega listing potentially valued at $1.75 trillion, report says",
+      "headline": "The reputation of troubled YC startup Delve has gotten even worse",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/08/starship-tenth-flight-1.jpeg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2025/07/IMG_1542.jpeg?w=150"
       ],
-      "datePublished": "2026-04-01T15:46:43.000Z",
-      "dateModified": "2026-04-01T15:46:43.000Z",
+      "datePublished": "2026-04-01T21:23:47.000Z",
+      "dateModified": "2026-04-01T21:23:47.000Z",
       "author": [
         {
           "@type": "Person",
@@ -275,22 +175,22 @@
     }
   },
   {
-    "title": "Hasbro says it was hacked, and may take ‘several weeks’ to recover",
-    "url": "https://techcrunch.com/2026/04/01/hasbro-hacked-may-take-several-weeks-to-recover/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/hasbro-logo-2226484802.jpg?w=150",
+    "title": "Money transfer app Duc exposed thousands of driver’s licenses and passports to the open web",
+    "url": "https://techcrunch.com/2026/04/02/canadian-money-transfer-app-duc-expose-drivers-licenses-passports-amazon-server/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/07/money-firehose.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-04-01T14:50:32.000Z",
-    "description": "\nAmerican toy-making giant Hasbro has confirmed a cyberattack, and the company says it may take “several weeks” before the incident is resolved.\nThe o",
-    "body": "\nAmerican toy-making giant Hasbro has confirmed a cyberattack, and the company says it may take “several weeks” before the incident is resolved.\nThe owner of properties including Transformers, Peppa Pig, and Dungeons & Dragons said in a legally required disclosure with the U.S. Securities and Exchange Commission on Wednesday that it detected an intrusion on March 28, which prompted the company to take down some of its systems.\nHasbro said it has implemented and continues to roll out business continuity plans to allow it to “take orders, ship product and conduct other key operations while it resolves this situation.”\nParts of Hasbro’s website appeared down as of Wednesday, when checked by TechCrunch. One error message said the site was “currently undergoing maintenance.”\nThe company said it has called cybersecurity professionals to help, but noted that it was continuing to “implement measures to secure its business operations,” suggesting that the hackers may still be in the company’s systems. \nIt’s not known what specific kind of cyberattack, such as ransomware, was detected.\nWhen reached by TechCrunch, Hasbro spokesperson Andrea Snyder reiterated much of the SEC filing and said the company had “taken swift action to protect our systems and data,” but would not answer questions about the nature of the cyberattack, or if the company has had any communication from the hackers, such as a demand for money.\nHackers increasingly target large companies to steal data and extort corporate victims for ransom, but also cause disruption to operations that can have lasting financial damage. A cyberattack at Jaguar Land Rover in 2025 stalled car-making production lines for months, prompting the U.K. government to step in with a $1.5 billion bailout guarantee to prevent the company and its supply chain from going under.\nIn its public notice to investors, Hasbro warned of delays, citing the need to run these interim measures for “several weeks before the situation is fully resolved.”\nThe company said it was not immediately known if any data was stolen, and that its investigation is ongoing to determine the full scope of the breach. \nHasbro is one of America’s longest-running makers of toys and entertainment products, and has more than 5,000 employees. The company also holds the intellectual property rights of major toy, game, and consumer brands, including Monopoly, My Little Pony, and Magic: The Gathering.\nUpdated to include Hasbro spokesperson comment.\nDo you work at Hasbro and know more about its data breach? Contact this reporter via encrypted message at zackwhittaker.1337 on Signal.\n\n\n\t\tZack Whittaker is the security editor at TechCrunch. He also authors the weekly cybersecurity newsletter, this week in security. \nHe can be reached via encrypted message at zackwhittaker.1337 on Signal. You can also contact him by email, or to verify outreach, at zack.whittaker@techcrunch.com. \t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-04-02T16:29:35.000Z",
+    "description": "\nA publicly accessible Amazon-hosted storage server allowed anyone with a web browser to access potentially hundreds of thousands of people’s personal",
+    "body": "\nA publicly accessible Amazon-hosted storage server allowed anyone with a web browser to access potentially hundreds of thousands of people’s personal data without needing a password. This included driver’s licenses, passports, and other personal information collected by the Duc App, a money-transfer service owned by Toronto-based Duales.\nThe Canadian fintech company said it resolved the data exposure on Tuesday after TechCrunch alerted its chief executive that one of the company’s cloud storage servers was publicly listing its contents, without a password.\nThe data was also stored unencrypted, meaning anyone with a link to the data was able to view it in full.\nAnurag Sen, a security researcher at CyPeace who discovered the security lapse earlier in the week, contacted TechCrunch in an effort to notify the data’s owner. Sen said that anyone could view and download the data using their browser just by knowing the easy-to-guess web address of the storage server.\nAccording to Sen, the Amazon-hosted storage server listed over 360,000 files containing government-issued documents and other information used by customers to verify their identity through “know your customer” checks. These files included user-uploaded selfies to prove their real-world likeness.\nTechCrunch could not ascertain the precise number of exposed driver’s licenses and passports; however, several folders in the exposed bucket each contained tens of thousands of user-uploaded files, a sampling of which listed driver’s licenses, passports, and selfies.\nDuales touts its app as a way for users to send money to other users, including overseas in Cuba and elsewhere. Its Android app listing on the Google Play app store shows more than 100,000 user downloads to date.\nThe files, which dated back to September 2020 and were being uploaded daily, also contained spreadsheets listing customer names, home addresses, and the dates, times, and details of their transactions.\nWhen reached by email, Duales chief executive Henry Martinez González told TechCrunch that the data was stored on a “staging site,” referring to a website used primarily for testing, but did not explain why customers’ personal information was publicly accessible in the same database.\n“All protections are in place,” Martinez said. “We are notifying the appropriate parties. We have not contracted any services from you.”\nAfter TechCrunch emailed the company, the files on the storage server were made inaccessible, though a list of the server’s contents is still visible.\nMartinez would not say if the company had the technical means, such as logs, to determine who or how many people accessed the data. \nDuc App’s website appeared briefly down on Thursday, and displayed a “bad gateway” error.\nIt’s not clear how or for what reason Duales left its Amazon-hosted storage server publicly open to the internet. In recent years, Amazon has added security checks to prevent users from inadvertently exposing their data to the internet after a series of high-profile incidents where several corporate giants, including a U.S. spy agency, published sensitive data to the web due to misconfigurations.\nWhen reached by TechCrunch as part of our outreach to contact the app’s owner, Canada’s privacy regulator said it was seeking more information from the company.\n“The Office of the Privacy Commissioner of Canada has reached out to the company to obtain more information and determine next steps,” a spokesperson for the regulator told TechCrunch by email, declining to comment further.\nDuc App is the latest app in a list of recent security lapses involving the exposure of other people’s sensitive identity data. This data exposure comes as apps and websites are increasingly requiring their users to upload their government-issued documents to verify who they say they are but without taking enough steps to secure the data that they collect. \nLast year, popular app TeaOnHer exposed thousands of its users’ passports and driver’s licenses, which the app required users to upload before allowing them into the app’s gated community. Discord last year also confirmed a data breach affecting around 70,000 government-issued documents uploaded by users who sought to verify their age, amid a worldwide effort to enact online age checking laws.\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Hasbro says it was hacked, and may take ‘several weeks’ to recover",
+      "headline": "Money transfer app Duc exposed thousands of driver’s licenses and passports to the open web",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/04/hasbro-logo-2226484802.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2024/07/money-firehose.jpg?w=150"
       ],
-      "datePublished": "2026-04-01T14:50:32.000Z",
-      "dateModified": "2026-04-01T14:50:32.000Z",
+      "datePublished": "2026-04-02T16:29:35.000Z",
+      "dateModified": "2026-04-02T16:29:35.000Z",
       "author": [
         {
           "@type": "Person",
@@ -300,22 +200,122 @@
     }
   },
   {
-    "title": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
-    "url": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/09/chip-manufacturing-getty.jpg?w=150",
+    "title": "Microsoft takes on AI rivals with three new foundational models",
+    "url": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2207890426.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-04-01T16:00:00.000Z",
-    "description": "\nThe most advanced silicon chips have accelerated the development of artificial intelligence. Now can AI return the favor?\nCognichip is building a dee",
-    "body": "\nThe most advanced silicon chips have accelerated the development of artificial intelligence. Now can AI return the favor?\nCognichip is building a deep learning model to work alongside engineers as they design new computer chips. The problem it is trying to solve is one the industry has lived with for decades: Chip design is enormously complex, ruinously expensive, and slow. Advanced chips take three to five years to go from conception to mass production; the design phase alone can take as long as two years before physical layout begins. Consider that the latest line of Nvidia GPUs, Blackwell, contains 104 billion transistors — that’s a lot to line up.\nIn the time it takes to create a new chip, Cognichip CEO and founder Faraj Aalaei says the market can change and make all that investment a waste. Aalaei’s goal is to bring the kind of AI tools that software engineers have used to speed their work into the semiconductor design space. \n“These systems have now become intelligent enough that by just guiding them and telling them what the result is that you want, it can actually produce beautiful code,” Aalaei told TechCrunch.\nHe says the firm’s technology can reduce the cost of chip development by more than 75% and cut the timeline by more than half. \nThe company emerged from stealth last year and said Wednesday that it had raised $60 million in new funding led by Seligman Ventures, with notable participation from Intel CEO Lip-Bu Tan, who will be joining Cognichip’s board. Umesh Padval, a managing partner at Seligman, will also join the board. Cognichip has now raised $93 million altogether since its founding in 2024.\nStill, Cognichip can’t yet point to a new chip designed with its system and did not disclose any of the customers it says it has been collaborating with since September. \n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThe company says its advantage is in using its own model trained on chip design data, rather than starting with a general-purpose LLM. That required getting access to domain-specific training data, which is no small feat. Unlike software developers, who share vast amounts of code openly, chip designers guard their IP closely, making the kind of open source trove that typically trains AI coding assistants largely unavailable.\nCognichip has had to develop its own datasets, including synthetic data, and license data from partners. The firm has also developed procedures to allow chipmakers to securely train Cognichip’s models on their own proprietary data without exposing it.\nWhere proprietary data isn’t available, Cognichip has leaned on open source alternatives. In one demo last year, Cognichip invited electrical engineering students at San Jose State University to try the model in a hackathon. The teams were able to use the model to design CPUs based on the RISC-V open source chip architecture — a freely available design that anyone can build on.\nCognichip is competing against incumbent players like Synopsys and Cadence Design Systems, as well as well-funded startups like ChipAgents, which closed a $74 million extended Series A in February, and Ricursive, which raised a $300 million Series A round in January.\nPadval said that the current flood of capital into AI infrastructure is the largest he’s seen in 40 years of investing.\n“If it’s a super cycle for semiconductors and hardware, it’s a super cycle for companies like [Cognichip],” he said. \n\n\n\t\n\t\tTim Fernholz is a journalist who writes about technology, finance and public policy. He has closely covered the rise of the private space industry and is the author of  Rocket Billionaires: Elon Musk, Jeff Bezos and the New Space Race. Formerly, he was a senior reporter at Quartz, the global business news site, for more than a decade, and began his career as a political reporter in Washington, D.C. \nYou can contact or verify outreach from Tim by emailing tim.fernholz@techcrunch.com or via an encrypted message to tim_fernholz.21 on Signal.\r\n\t\n\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-04-02T16:48:16.000Z",
+    "description": "\n\t\n\t\tImage Credits:David Ryder/Bloomberg / Getty Images\t\n\t\n\t\t\t\t\t\t9:48 AM PDT · April 2, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nMicrosoft AI, the tech giant’s research l",
+    "body": "\n\t\n\t\tImage Credits:David Ryder/Bloomberg / Getty Images\t\n\t\n\t\t\t\t\t\t9:48 AM PDT · April 2, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nMicrosoft AI, the tech giant’s research lab, announced the release of three foundational AI models on Thursday that can generate text, voice, and images.\nThe release signals Microsoft’s continued push to build out its own stack of multimodal AI models — and compete with rival AI labs — even though it remains tied to OpenAI. \nMAI-Transcribe-1 transcribes speech across 25 different languages into text and is 2.5 times faster than Microsoft’s Azure Fast offering, according to a company press release. MAI-Voice-1 is an audio-generating model. This voice model allows users to generate 60 seconds of audio in one second and allows users to create a custom voice. MAI-Image-2 is a video-generating model.\nMAI-Image-2 was originally released on MAI Playground, a new large language model testing software on March 19. Now, all three models are being released on Microsoft Foundry and the transcription and voice models are available in MAI Playground as well.\nThe models were developed by Microsoft’s MAI Superintelligence team, an AI research team led by Mustafa Suleyman, the CEO of Microsoft AI, that was formed and announced in November 2025. \n“At Microsoft AI, we’re building Humanist AI. We have a distinct view when creating our AI models — putting humans at the center, optimizing for how people actually communicate, training for practical use,” Suleyman wrote in a blog post. “You’ll see more models from us soon in Foundry and directly in Microsoft products and experiences.”\nIn an increasingly crowded LLM market, MAI hopes a selling point for these models is that they are cheaper than those from Google and OpenAI, the company wrote in the blog post. \n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nMAI-Transcribe-1 starts at $0.36 per hour. MAI-Voice-1 starts at $22 per 1 million characters, and MAI-Image-2 starts at $5 for 1 million tokens for text input and $33 for 1 million tokens for image output.\nDespite releasing its own models, Suleyman reaffirmed Microsoft’s commitment to its partnership with OpenAI in an interview with VentureBeat — although a recent renegotiation of that partnership allowed Microsoft to truly pursue this superintelligence research, Suleyman told The Verge.\nMicrosoft has invested more than $13 billion into the AI research lab and hosts its models in its various products through a multi-year partnership. Microsoft takes the same stance with chips; it both produces its own and buys from outside players as well.\n\n\t\t\t\n\tTopics\n\n\n\n\t\tBecca is a senior writer at TechCrunch that covers venture capital trends and startups. She previously covered the same beat for Forbes and the Venture Capital Journal.\r\nYou can contact or verify outreach from Becca by emailing rebecca.szkutak@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n\n\t\t",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
+      "headline": "Microsoft takes on AI rivals with three new foundational models",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/09/chip-manufacturing-getty.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2207890426.jpg?w=150"
       ],
-      "datePublished": "2026-04-01T16:00:00.000Z",
-      "dateModified": "2026-04-01T16:00:00.000Z",
+      "datePublished": "2026-04-02T16:48:16.000Z",
+      "dateModified": "2026-04-02T16:48:16.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Tesla’s cheaper vehicles aren’t helping its declining sales",
+    "url": "https://techcrunch.com/2026/04/02/tesla-deliveries-cheaper-vehicles-model-y-3-sales/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/tesla-model-y-juniper-north-america.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-04-02T14:18:42.000Z",
+    "description": "\nTesla spent more than a year touting that “more affordable” cars were on the way, and they finally arrived last October, with stripped-down versions ",
+    "body": "\nTesla spent more than a year touting that “more affordable” cars were on the way, and they finally arrived last October, with stripped-down versions of the Model Y and Model 3 starting at $39,990 and $36,990, respectively. But the new vehicles are not moving the needle much for Tesla’s overall sales, first-quarter figures show.\nTesla said Thursday that it delivered 358,023 EVs globally in the first three months of the year, below analysts’ expectations of around 368,000. The company also produced far more than it sold, with the final tally built coming in at 408,386.\nThis means Tesla only delivered about 6% more cars in the first quarter of this year than it did in Q1 2025, which was the company’s worst quarter in years. The Q1 2025 figures were also affected by the company shutting down production lines for a few weeks to switch some equipment, meaning Q1 2026 figures likely aren’t much of a real improvement.\nThe sales figures are striking for a company that once promised to grow EV sales 50% every year. And the poor first quarter means Tesla now risks seeing its overall sales decline for a third year in a row — at a time when its profits are also tanking.\nTesla is not the only company struggling to grow EV sales, especially in the United States. Legacy automakers have backed away from — and in some cases, outright canceled — once-grand plans and ambitions for new EVs. Newcomers have struggled, too. Rivian announced Thursday morning that it shipped just over 10,000 vehicles in the first quarter, more or less the same figure it seems to report every quarter.\nRivian does have a new model waiting in the wings, as it is about to start shipping its cheaper R2 SUV, which should boost sales. The company is banking on the R2 being hugely successful out of the gate, despite the fact that the cheapest version of it won’t arrive until late 2027.\nTesla doesn’t have a new, mass-market vehicle ready to go. The company had been working on a much lower-cost EV that was expected to be priced around $25,000. But CEO Elon Musk killed the project in favor of going all-in on the “CyberCab.” In place of that $25,000 car, Musk instead had Tesla develop the stripped-down Model Y and Model 3. \n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThe only truly new model Tesla has released over the last few years is the Cybertruck. While that outsells most other all-electric trucks, it’s been a complete flop in the face of Tesla’s — and Musk’s — expectations for the steel-clad EV. In the first quarter of this year, Tesla only sold 16,130 “other models,” which includes the Cybertruck and the now-retired Model S and Model X.\n\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Tesla’s cheaper vehicles aren’t helping its declining sales",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/01/tesla-model-y-juniper-north-america.jpg?w=150"
+      ],
+      "datePublished": "2026-04-02T14:18:42.000Z",
+      "dateModified": "2026-04-02T14:18:42.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Google now lets you direct avatars through prompts in its Vids app",
+    "url": "https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-04-02T16:00:00.000Z",
+    "description": "\nGoogle on Thursday added new features to its video editor app Vids, including directing and customizing avatars through text prompts, Veo 3.1 support",
+    "body": "\nGoogle on Thursday added new features to its video editor app Vids, including directing and customizing avatars through text prompts, Veo 3.1 support, the ability to export videos to YouTube, and recording with a Chrome extension.\nUsers will be able to use natural language prompts to direct avatars to “act” in a scene. This can include the avatar interacting with a product, a prop, or a piece of equipment. The company said that despite the dynamic nature of the output, Vids maintains character consistency. \nGoogle said that based on the theme of the video, users can customize characters by tweaking appearance, changing apparel, and creating new backgrounds through prompts.\nLast month, Google added its Lyria 3 and Lyria 3 Pro music creation models to Vids to let users add sound effects or music to their clips. With this rollout, Google is bringing the Veo 3.1 video-generation model, which can create eight-second clips within the video editing tool. The company is giving out 10 free generations per month to all users. The company said Google AI Ultra and Workspace AI Ultra accounts can generate up to 1,000 Veo videos per month.\nWhat’s more, Google is adding the ability to export finished videos directly to YouTube, saving the hassle of downloading and uploading them to the channel. All the exported videos are by default private, so you can review the video before making it public.\nImage Credits:Google\nThe company is also adding a new screen-recording Chrome extension to the video suite, allowing users to capture the screen with audio or video.\nGoogle has constantly added features to Vids after first unveiling the product in 2024 to cater to enterprise content creation. Last year, the company brought AI avatars to Vids and expanded access to consumers. In February, the company added 2D and 3D cartoon-style avatars and added language support for seven new voice-over languages, including French, German, Italian, Korean, Portuguese, Spanish, and Japanese.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nGoogle Vids faces competition from the likes of Synthesia, HeyGen, D-ID, and Lemon Slice.\n\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Google now lets you direct avatars through prompts in its Vids app",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?w=150"
+      ],
+      "datePublished": "2026-04-02T16:00:00.000Z",
+      "dateModified": "2026-04-02T16:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Cash App launches ‘pay later’ feature for P2P pay transfers",
+    "url": "https://techcrunch.com/2026/04/02/cash-app-launches-buy-now-pay-later-feature-for-p2p-pay-transfers/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Retro-P2P-Press-Release-444-x-324.png?w=150",
+    "tag": "Tech",
+    "date": "2026-04-02T12:00:00.000Z",
+    "description": "\nCash App, the peer-to-peer fintech app owned by Jack Dorsey’s Block, has launched a new “pay-over-time” deferred payment feature that allows eligible",
+    "body": "\nCash App, the peer-to-peer fintech app owned by Jack Dorsey’s Block, has launched a new “pay-over-time” deferred payment feature that allows eligible users to pay for their everyday transfers over an extended period of time.\nCompanies have increasingly offered deferred payments for relatively mundane and everyday purchases. About a year ago, DoorDash partnered with Klarna — allowing users to “micro-finance” their food orders (the partnership notably inspired a flurry of online jokes about “burrito debt” and late capitalism). Cash App’s new feature clearly builds on this trend — expanding flexible financing into the P2P payment realm.\nTo take advantage of the new feature, users pay a 7.5% fee — meaning that, if you borrow $100 from Cash App, you’re going to end up paying the company back $107.50. Transfers of $25 or more are eligible, the company says, and repayments can be made in weekly increments over a period of up to six weeks or as a single payment at the due date.\nThere are also loan limits to the new system, but they are dynamic — meaning that they will be different for different users. “The specific amount available for conversion depends on the original transaction amount and individual customer assessment,” a spokesperson said. “We evaluate each transaction for eligibility based on our responsible lending criteria rather than setting traditional credit limits,” they added.\nIn an interview, Block’s Global Head of Business, Owen Jennings, framed the new feature as a way to add value to Cash App’s customers via “cash flow management.” Jennings noted that many Americans have different kinds of jobs today — many of which pay with less consistency than those offered in prior decades. Cash App’s new feature is designed to add financial flexibility to that situation, Jennings said.\n“We’re seeing more folks — particularly younger folks — who are solo-preneurs, entrepreneurs … [and] gig workers. They have side hustles, they’re working multiple jobs, [and] so they have variable income streams,” Jennings said. “It’s very different than if you go back like 40 or 50 years ago — I think the average income earner in the U.S. [back then] was basically getting, like a steady W2 income every two weeks.”\n“Buy now, pay later” services have skyrocketed in popularity over the past several years while also spurring significant criticism and concern. Some critics maintain that such services are designed to trap consumers in cycles of debt, while others have suggested that Americans needing to finance basic household items is a sign of broader economic crisis. Companies that provide these services have also found themselves in legal hot water. Just this week, Klarna was sued in a class-action lawsuit alleging it had engaged in “predatory” practices, Bloomberg reports.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nJennings said Cash App’s new feature has strong built-in protections that are designed to steer users away from financial trouble, like getting stuck in what he called “debt spirals.” “The way all of our lending products are created is non-revolving,” he added. “If you don’t pay back a loan, then you can’t take out another loan.”\nThe service also builds off of other financial flexibility services that Cash App already offers, Jennings said. In prior years, the app debuted Borrow, which, somewhat like a traditional bank, allows users to take out a small loan from the app and then pay it back over a period of four to six weeks.\nAnother offering is Afterpay for Cash App Card (its debit program), which allows users to defer payments for transactions made with the card.\n\n\n\t\n\t\tLucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. \nYou can contact Lucas by emailing lucas.ropek@techcrunch.com.\t\n\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Cash App launches ‘pay later’ feature for P2P pay transfers",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/04/Retro-P2P-Press-Release-444-x-324.png?w=150"
+      ],
+      "datePublished": "2026-04-02T12:00:00.000Z",
+      "dateModified": "2026-04-02T12:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "WhatsApp notifies hundreds of users who installed a fake app made by government spyware maker",
+    "url": "https://techcrunch.com/2026/04/01/whatsapp-notifies-hundreds-of-users-who-installed-a-fake-app-that-was-actually-government-spyware/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/whatsapp-logo-notification-badge.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-04-01T16:34:10.000Z",
+    "description": "\nWhatsApp says it has notified around 200 users who were tricked into installing a malicious fake version of the chat app that contained spyware. \nWha",
+    "body": "\nWhatsApp says it has notified around 200 users who were tricked into installing a malicious fake version of the chat app that contained spyware. \nWhatsApp accused Italian spyware maker SIO of creating a fake version of its messaging app for iPhones, according to an announcement the company shared with TechCrunch.  \n“Our security team proactively identified around 200 users primarily in Italy who we believe may have downloaded this malicious unofficial client,” WhatsApp said in its statement. “We have logged them out, alerted [them] to the risks to their privacy and security that come with downloading fake unofficial clients, and encouraged them to remove it and download the official WhatsApp app.”\nWhatsApp spokesperson Margarita Franklin told TechCrunch that, at this point, the company cannot share more information about the users it notified, such as whether they were journalists or members of civil society. \n“Our priority has been protecting the users who may have been tricked into downloading this fake iOS app,” said Franklin. \nIn its announcement, WhatsApp also said it plans to “send a formal legal demand to stop any such malicious activity to this spyware firm.”\nA screenshot of the notification Whatsapp sent to users warning them to download the official appImage Credits:WhatsApp\nItalian newspaper La Repubblica and news agency ANSA first reported the news.\nLast year, TechCrunch revealed that SIO was behind a series of malicious Android apps that contained its spyware, including fake versions of WhatsApp, as well as fake customer support tools for cellphone providers. SIO’s spyware was identified with the name Spyrtacus, a word that appeared in the spyware’s code.\n\n\t\t\tContact Us\n\t\t\tDo you have more information about SIO, or other government spyware makers? From a non-work device, you can contact Lorenzo Franceschi-Bicchierai securely on Signal at +1 917 257 1382, or via Telegram, Keybase and Wire @lorenzofb, or by email. \t\t\nUsing fake apps against targets of surveillance is a well-established tactic used by authorities in Italy, who often get collaboration from cellphone providers, who send phishing links to their customers on behalf of law enforcement.\nSIO develops government spyware through its subsidiary ASIGINT. \nApple and SIO did not respond to a request for comment. \nWhatsApp’s latest announcement comes a year after the company alerted around 90 users that they had been targeted with spyware made by the U.S.-Israeli surveillance tech maker Paragon Solutions. WhatsApp sent those notifications to journalists and pro-immigration activists, among others, sparking a wide-ranging scandal across Italy. \nIn response, Paragon cut ties with Italy’s spy agencies, which were its customers.\n\n\n\t\tLorenzo Franceschi-Bicchierai is a Senior Writer at TechCrunch, where he covers hacking, cybersecurity, surveillance, and privacy. \nYou can contact or verify outreach from Lorenzo by emailing lorenzo@techcrunch.com, via encrypted message at +1 917 257 1382 on Signal, and @lorenzofb on Keybase/Telegram.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "WhatsApp notifies hundreds of users who installed a fake app made by government spyware maker",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/04/whatsapp-logo-notification-badge.jpg?w=150"
+      ],
+      "datePublished": "2026-04-01T16:34:10.000Z",
+      "dateModified": "2026-04-01T16:34:10.000Z",
       "author": [
         {
           "@type": "Person",
@@ -350,22 +350,22 @@
     }
   },
   {
-    "title": "WhatsApp notifies hundreds of users who installed a fake app made by government spyware maker",
-    "url": "https://techcrunch.com/2026/04/01/whatsapp-notifies-hundreds-of-users-who-installed-a-fake-app-that-was-actually-government-spyware/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/whatsapp-logo-notification-badge.jpg?w=150",
+    "title": "Beehiiv expands into podcasting, taking aim at Patreon",
+    "url": "https://techcrunch.com/2026/04/02/beehiiv-expands-into-podcasts-taking-aim-at-patreon-substack-newsletters/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/beehiiv.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-04-01T16:34:10.000Z",
-    "description": "\nWhatsApp says it has notified around 200 users who were tricked into installing a malicious fake version of the chat app that contained spyware. \nWha",
-    "body": "\nWhatsApp says it has notified around 200 users who were tricked into installing a malicious fake version of the chat app that contained spyware. \nWhatsApp accused Italian spyware maker SIO of creating a fake version of its messaging app for iPhones, according to an announcement the company shared with TechCrunch.  \n“Our security team proactively identified around 200 users primarily in Italy who we believe may have downloaded this malicious unofficial client,” WhatsApp said in its statement. “We have logged them out, alerted [them] to the risks to their privacy and security that come with downloading fake unofficial clients, and encouraged them to remove it and download the official WhatsApp app.”\nWhatsApp spokesperson Margarita Franklin told TechCrunch that, at this point, the company cannot share more information about the users it notified, such as whether they were journalists or members of civil society. \n“Our priority has been protecting the users who may have been tricked into downloading this fake iOS app,” said Franklin. \nIn its announcement, WhatsApp also said it plans to “send a formal legal demand to stop any such malicious activity to this spyware firm.”\nA screenshot of the notification Whatsapp sent to users warning them to download the official appImage Credits:WhatsApp\nItalian newspaper La Repubblica and news agency ANSA first reported the news.\nLast year, TechCrunch revealed that SIO was behind a series of malicious Android apps that contained its spyware, including fake versions of WhatsApp, as well as fake customer support tools for cellphone providers. SIO’s spyware was identified with the name Spyrtacus, a word that appeared in the spyware’s code.\n\n\t\t\tContact Us\n\t\t\tDo you have more information about SIO, or other government spyware makers? From a non-work device, you can contact Lorenzo Franceschi-Bicchierai securely on Signal at +1 917 257 1382, or via Telegram, Keybase and Wire @lorenzofb, or by email. \t\t\nUsing fake apps against targets of surveillance is a well-established tactic used by authorities in Italy, who often get collaboration from cellphone providers, who send phishing links to their customers on behalf of law enforcement.\nSIO develops government spyware through its subsidiary ASIGINT. \nApple and SIO did not respond to a request for comment. \nWhatsApp’s latest announcement comes a year after the company alerted around 90 users that they had been targeted with spyware made by the U.S.-Israeli surveillance tech maker Paragon Solutions. WhatsApp sent those notifications to journalists and pro-immigration activists, among others, sparking a wide-ranging scandal across Italy. \nIn response, Paragon cut ties with Italy’s spy agencies, which were its customers.\n\n\n\t\tLorenzo Franceschi-Bicchierai is a Senior Writer at TechCrunch, where he covers hacking, cybersecurity, surveillance, and privacy. \nYou can contact or verify outreach from Lorenzo by emailing lorenzo@techcrunch.com, via encrypted message at +1 917 257 1382 on Signal, and @lorenzofb on Keybase/Telegram.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-04-02T12:50:00.000Z",
+    "description": "\nNewsletter platform Beehiiv is introducing native podcast hosting, the company told TechCrunch. With this move, creators can now host, distribute, an",
+    "body": "\nNewsletter platform Beehiiv is introducing native podcast hosting, the company told TechCrunch. With this move, creators can now host, distribute, and monetize their podcast directly on Beehiiv. Users will be able to publish an episode, share it with subscribers, and track their analytics all on the platform.\n“Podcasting was an obvious move,” Beehiiv co-founder and CEO Tyler Denk told TechCrunch in an email. “Fundamentally, newsletters and podcasts have massive overlap. Both are typically episodic, long-form content, distributed to an owned audience, monetized via sponsorship. Our roadmap is heavily driven by our customers. They’ve told us that they really want to consolidate all of their tools into Beehiiv, and podcasting specifically has been requested consistently across customers of all sizes.”\nDenk says Beehiiv already has thousands of users with podcasts hosted elsewhere, which is why it makes sense to bring the format in-house. Of course, the move signals Beehiiv’s continued efforts to turn its platform into an all-in-one platform for creators, challenging Patreon and Substack, both of which have long supported podcasts. The push into podcasting builds on the company’s recent launch of a suite of creator-focused tools covering website creation, analytics, and more.\nBy moving into podcasting, Beehiiv aims to attract creators to its platform as its rivals pursue similar strategies. Substack has been heavily courting video and podcast creators, while Patreon has worked to entice newsletter writers with long-awaited feature upgrades. \nSemafor earlier reported on Beehiiv’s push into podcasting.\nOne way Beehiiv is convincing creators to switch from rivals like Substack and Patreon is by not taking a cut of their revenue. Denk says creators keep 100% of what they earn, and the company does not take a share. By comparison, Substack takes a 10% cut of revenue from paid podcast subscriptions, while Patreon takes 8%. \nCreators can bundle a podcast with their existing subscription and offer a private feed to paying subscribers. They can offer a premium experience with exclusive episodes, early access, and other perks. Denk notes that many Beehiiv users already charge for a paid newsletter, and that they can now include a podcast as part of that subscription. Creators also have the option to offer a free podcast.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nBeehiiv plans to expand its advertising network beyond newsletters to dynamically serve ads in podcasts as well. The company is hiring a head of Podcasts to oversee these plans, Denk told TechCrunch.\nSome of the podcasts joining Beehiiv at launch include Genshe with Avni Barman, 505 podcast with Brayden Figueroa and Kostas Garcia, The Rebooting Show with Brian Morrissey, Sweat Equity by Alex Garcia and Brian Blum, The Most Important Question from Dr. Katelyn Jetelina, Lunch with Jamie by Jamie Patricof, and more. \nDenk says Beehiiv anticipates heavy adoption from existing users over the next several weeks and months, noting that there are several other notable podcasts that have committed to launching on the platform in the next few weeks.\nIn addition to serving people on Beehiiv who already have newsletters and podcasts, Denk says the new launch could also appeal to podcasters who want to start a newsletter.\n“We believe a newsletter should be a core piece of infrastructure for any podcast,” Denk said. “It’s how you own your audience, expand distribution, and create more real estate for advertisers. Podcasters who want to launch a newsletter will find a natural home here. Growth is one of the biggest challenges in podcasting. Newsletters drive podcast downloads. Podcasts drive newsletter signups. The two reinforce each other, and right now creators are managing that across fragmented tools. We’re fixing that.”\nCreators can upload podcasts directly to Beehiiv, and the platform will then distribute them to major podcast platforms like Apple Podcasts, Spotify, Overcast, Castro, and more. The platform supports MP3, M4A, and WAV files, with automatic audio normalization for consistent sound. Each episode also includes a full transcript, improving discoverability in search and LLMs. \nEach podcast episode gets its own SEO-optimized web page, Denk said. Instead of sending listeners to Apple, Spotify, or YouTube, Beehiiv can keep them on the platform, where they can choose to listen directly or select their preferred player. \nBeehiiv’s podcast analytics are built to IAB standards and provide detailed breakdowns by country, listening app, device, and operating system. Creators also get insights into episode-level downloads and real-time data. \nFounded in 2021, Beehiiv last raised a $33 million Series B in April 2024 with Lightspeed Venture Partners and NEA as investors. Denk recently shared that Q1 2026 was Beehiiv’s best quarter in history, as the company added $4.5 million ARR, sent more than 10 billion emails, and crossed 50,000 active users.\nUpdated to include earlier reporting on Beehiiv’s podcasting efforts. \n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "WhatsApp notifies hundreds of users who installed a fake app made by government spyware maker",
+      "headline": "Beehiiv expands into podcasting, taking aim at Patreon",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/04/whatsapp-logo-notification-badge.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/04/beehiiv.jpg?w=150"
       ],
-      "datePublished": "2026-04-01T16:34:10.000Z",
-      "dateModified": "2026-04-01T16:34:10.000Z",
+      "datePublished": "2026-04-02T12:50:00.000Z",
+      "dateModified": "2026-04-02T12:50:00.000Z",
       "author": [
         {
           "@type": "Person",
