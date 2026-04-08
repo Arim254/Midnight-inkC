@@ -1,30 +1,5 @@
 [
   {
-    "title": "Firmus, the ‘Southgate’ AI data center builder backed by Nvidia, hits $5.5B valuation",
-    "url": "https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1955086330.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-04-07T18:46:55.000Z",
-    "description": "\nAsia AI data center provider Firmus on Monday announced a fresh $505 million raise led by Coatue at a $5.5 billion post-money valuation. With this ro",
-    "body": "\nAsia AI data center provider Firmus on Monday announced a fresh $505 million raise led by Coatue at a $5.5 billion post-money valuation. With this round, Firmus has raised $1.35 billion in six months, it says.\nThe Singapore-based data center company previously raised AU$330 million (approximately $215 million) at an AU$1.85 billion ($1.2 billion) valuation from investors, including Nvidia. \nFirmus is developing an energy-efficient “AI factory” network of data centers in Australia and Tasmania, a project it dubs Project Southgate. It is using Nvidia’s reference designs for building these efficient data centers. These new data centers will use Nvidia’s Vera Rubin platform — the chip giant’s next-gen AI computing system succeeding its Blackwell architecture, expected to ship in the second half of 2026.\nFirmus originally provided cooling technologies for Bitcoin mining and has become yet another crypto-roots-turned-AI provider company that investors love.\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Firmus, the ‘Southgate’ AI data center builder backed by Nvidia, hits $5.5B valuation",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1955086330.jpg?w=150"
-      ],
-      "datePublished": "2026-04-07T18:46:55.000Z",
-      "dateModified": "2026-04-07T18:46:55.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Apple’s foldable iPhone is on track to launch in September, report says",
     "url": "https://techcrunch.com/2026/04/07/apples-foldable-iphone-is-on-track-to-launch-in-september-report-says/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/06/apple-on-phone.jpg?w=150",
@@ -41,6 +16,31 @@
       ],
       "datePublished": "2026-04-07T17:47:43.000Z",
       "dateModified": "2026-04-07T17:47:43.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Firmus, the ‘Southgate’ AI data center builder backed by Nvidia, hits $5.5B valuation",
+    "url": "https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1955086330.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-04-07T18:46:55.000Z",
+    "description": "\nAsia AI data center provider Firmus on Monday announced a fresh $505 million raise led by Coatue at a $5.5 billion post-money valuation. With this ro",
+    "body": "\nAsia AI data center provider Firmus on Monday announced a fresh $505 million raise led by Coatue at a $5.5 billion post-money valuation. With this round, Firmus has raised $1.35 billion in six months, it says.\nThe Singapore-based data center company previously raised AU$330 million (approximately $215 million) at an AU$1.85 billion ($1.2 billion) valuation from investors, including Nvidia. \nFirmus is developing an energy-efficient “AI factory” network of data centers in Australia and Tasmania, a project it dubs Project Southgate. It is using Nvidia’s reference designs for building these efficient data centers. These new data centers will use Nvidia’s Vera Rubin platform — the chip giant’s next-gen AI computing system succeeding its Blackwell architecture, expected to ship in the second half of 2026.\nFirmus originally provided cooling technologies for Bitcoin mining and has become yet another crypto-roots-turned-AI provider company that investors love.\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Firmus, the ‘Southgate’ AI data center builder backed by Nvidia, hits $5.5B valuation",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1955086330.jpg?w=150"
+      ],
+      "datePublished": "2026-04-07T18:46:55.000Z",
+      "dateModified": "2026-04-07T18:46:55.000Z",
       "author": [
         {
           "@type": "Person",
@@ -91,106 +91,6 @@
       ],
       "datePublished": "2026-04-07T19:59:06.000Z",
       "dateModified": "2026-04-07T19:59:06.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Google quietly launched an AI dictation app that works offline",
-    "url": "https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-04-08T05:40:19.000Z",
-    "description": "\nUpdate (April 7, 10:30 PM PT): The company has updated the app store listing and removed references to the Android app. But it also added that the iO",
-    "body": "\nUpdate (April 7, 10:30 PM PT): The company has updated the app store listing and removed references to the Android app. But it also added that the iOS keyboard is coming soon.\nGoogle on Monday quietly released an offline-first dictation app called “Google AI Edge Eloquent” on iOS to take on the likes of Wispr Flow, SuperWhisper, Willow, and others.\nThe app is free to download, and once its Gemma-based automatic speech recognition (ASR) models are downloaded, you can start dictating on your phone. In the app, you can see the live transcription, and when you hit pause, the app automatically filters out filler words like “um” and “ah” and polishes the text. \nBelow the transcript are options like “Key points,” “Formal,” “Short,” and “Long” to transform the text.\nImage Credits:Screenshot by TechCrunch\nYou can also turn off the cloud mode to use local-only processing. (When cloud mode is on, the app uses cloud-based Gemini models for text cleanup.) The Google AI Edge Eloquent can import certain keywords, names, and jargon from your Gmail account, if desired. Plus, you can add your own custom words to the list.\nThe app displays the history of the transcription session and lets you search through all of them as well. It can show you words dictated in the last session, your words-per-minute speed, and the total number of words spoken.\n“Google AI Edge Eloquent is an advanced dictation app engineered to bridge the gap between natural speech and professional, ready-to-use text. Unlike standard dictation software that transcribes stumbles and filler words verbatim, Eloquent utilizes AI to capture your intended meaning. It automatically edits out ‘ums,’ ‘uhs,’ and mid-sentence self-corrections, outputting clean, accurate prose,” the company’s App Store description reads.\nI was saying “Transcription.” Still early days for this app.Image Credits:Screenshot by TechCrunch\nWhile the app is currently only available on iOS, the App Store description references an Android version. (We have reached out to Google for more information and will update the story if we hear back.)\nAccording to the description, Eloquent offers “seamless Android integration,” where it can be set as users’ default keyboard for system-wide access across any text field. Plus, the app will be able to use the floating button feature, similar to the one Wispr Flow uses on Android, for easy access to transcription from anywhere.\nAI-powered transcription apps are gaining popularity among users as speech-to-text models get better. With this experimental app, Google is joining the trend. If this test is successful, we could see improved transcription features across Android, too.\n\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Google quietly launched an AI dictation app that works offline",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?w=150"
-      ],
-      "datePublished": "2026-04-08T05:40:19.000Z",
-      "dateModified": "2026-04-08T05:40:19.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "VC Eclipse has a new $1.3B fund to back — and build — ‘physical AI’ startups",
-    "url": "https://techcrunch.com/2026/04/07/vc-eclipse-has-a-new-1-3b-to-back-and-build-physical-ai-startups/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/robotic-arm-GettyImages.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-04-07T21:24:54.000Z",
-    "description": "\nIt takes just a skim of Eclipse’s recent investments to see where this venture firm’s interests lie — and where it is headed.\nThe Palo Alto-based VC,",
-    "body": "\nIt takes just a skim of Eclipse’s recent investments to see where this venture firm’s interests lie — and where it is headed.\nThe Palo Alto-based VC, which saw its median deal size explode over the past several years, has poured an increasing amount of money into the “physical world.” Its deals include electric boat developer Arc, buzzy battery recycling and material firm Redwood Materials, self-driving construction vehicle startup Bedrock Robotics, autonomous vehicle tech company Wayve, and industrial robotics lab Mind Robotics.\nWith $1.3 billion in fresh capital — which is split between a $591 million early-stage incubation fund and one more oriented toward growth startups — Eclipse is zeroing in on what partner Jiten Behl describes as the next big technological era.\n“Over the last two decades, we’ve seen multiple waves of innovation,” Behl said, listing the internet, mobile cloud, and social media eras. “This is the first time where stuff is going to move from our screens into the physical world; we’re going to see advanced levels of intelligence, along with actual actions, in terms of solving problems in the real, physical world.”\nAI and the physical world have collided; the ubiquity of the term “physical AI” is just one signal. Behl said this era is being propelled by a confluence of talent, technological advancements, demand, and policy. And, of course, capital.\n“We have a nice war chest to go and make a serious dent in the market and support the companies in the right way across the life cycle,” he said. \nEclipse isn’t breaking new ground by investing in physical AI. It is, after all, the next shiny new thing to invest in. How Eclipse picks startups is worth noting. The VC is looking to invest across all physical sectors, including transportation, energy, infrastructure, compute, and defense. The interesting part, as Behl described it, is a strategy to build a web, or ecosystem of startups in overlapping fields that will likely become partners as they scale.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n“Scale is so important, and if you can put it together in a way where companies partner early on to build scale, to build proof points, it just then enables them to go after the next set of demand,” Behl said, explaining that portfolio companies will partner with each other directly, but hopefully, also work with each other’s partners.\nIn some cases, those startups will be incubated within the confines of Eclipse. Behl said Eclipse plans to build companies from this new fund. And while he wouldn’t give too many hints, he did confirm that process has already started.\n“We’re definitely working on a couple of really cool ideas,” he said, noting that Eclipse is particularly interested in startups that work across enterprises.\n“The next insight is like, how do you connect these sectors? How do you build scale across sectors? And how do you use the data across sectors to build that moat?” he posed, adding data would be used to train smarter AI models to benefit a broader group. “That’s sort of the general thesis that we’ve been working on.”\n\n\n\t\tKirsten Korosec is a reporter and editor who has covered the future of transportation from EVs and autonomous vehicles to urban air mobility and in-car tech for more than a decade. She is currently the transportation editor at TechCrunch and co-host of TechCrunch’s Equity podcast. She is also co-founder and co-host of the podcast, “The Autonocast.” She previously wrote for Fortune, The Verge, Bloomberg, MIT Technology Review and CBS Interactive.\nYou can contact or verify outreach from Kirsten by emailing kirsten.korosec@techcrunch.com or via encrypted message at kkorosec.07 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "VC Eclipse has a new $1.3B fund to back — and build — ‘physical AI’ startups",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/04/robotic-arm-GettyImages.jpg?w=150"
-      ],
-      "datePublished": "2026-04-07T21:24:54.000Z",
-      "dateModified": "2026-04-07T21:24:54.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "I can’t help rooting for tiny open source AI model maker Arcee",
-    "url": "https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Arcee-founders.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-04-07T21:35:02.000Z",
-    "description": "\nArcee, a tiny 26-person U.S. startup that built a massive, 400B-parameter open source LLM on a $20 million shoestring budget, has released its new re",
-    "body": "\nArcee, a tiny 26-person U.S. startup that built a massive, 400B-parameter open source LLM on a $20 million shoestring budget, has released its new reasoning model. Arcee calls the model Trinity Large Thinking — and it’s the most capable open-weight model “ever released by a non-Chinese company,” claims CEO Mark McQuade to TechCrunch.\nAs that comment implies, Arcee has a goal that I can’t help but root for: It wants to give U.S. and Western companies a model that gives them no reason to use a Chinese-based one.\nWhile Chinese models are extremely capable, they are perceived as risky, putting power, and perhaps data, into the hands of a government that doesn’t share all of the Western world’s ideals.\nWith Arcee, companies can download the model, train it to their own needs, and use it on premises. Companies can also use Arcee’s cloud-hosted version, accessible via API.\nWhile Arcee’s models are not outperforming the closed source models from the big labs like Anthropic or OpenAI, they’re not being held hostage by the whims of those giants, either. \nFor instance, Claude, with its exceptional abilities to code, has been a popular choice for users of open source AI agent tool OpenClaw. But Anthropic pulled the rug out from them last week when it told users that their Anthropic subscriptions will no longer cover OpenClaw usage — they will have to pay additionally for that. (In February, OpenClaw creator Peter Steinberger said he was joining Anthropic’s biggest rival, OpenAI.)\nIn contrast, McQuade proudly points to data from OpenRouter that says it has become one of the top models used with OpenClaw.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nSo, how good is Trinity Large Thinking? It is comparable to some of the other top open source models, according to the benchmark results it shared with TechCrunch.\nArcee Trinity large thinking BenchmarksImage Credits:Arcee / Arcee\nAs we previously reported, it is not a head-to-head threat to the big cheese among U.S.-built open models: Meta’s Llama 4. But it also doesn’t have the odd, not-really open source license issues of Meta’s model. All of Arcee’s Trinity models are released under the gold standard for OS licenses, Apache 2.0.\nJust to be clear, there are also countless other U.S. startups offering open source models and, as a fan of the ingenuity of startups, I’m rooting for them, too.\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "I can’t help rooting for tiny open source AI model maker Arcee",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/01/Arcee-founders.jpg?w=150"
-      ],
-      "datePublished": "2026-04-07T21:35:02.000Z",
-      "dateModified": "2026-04-07T21:35:02.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Google Maps can now write captions for your photos using AI",
-    "url": "https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2202707012.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-04-07T15:30:00.000Z",
-    "description": "\nGoogle is rolling out new features to make it easier for users to contribute local knowledge to Maps, the company announced on Tuesday. Most notably,",
-    "body": "\nGoogle is rolling out new features to make it easier for users to contribute local knowledge to Maps, the company announced on Tuesday. Most notably, Gemini can now create captions when users are looking to share a photo or video about a place. \nOnce users select photos that they want to share, Gemini will analyze the images to create captions. Users can then choose to edit or remove the caption. The company says the new tool is designed to give users a head start on captions when sharing content. Caption suggestions are available now in English on iOS in the U.S. and will expand globally and to Android in the coming months, Google says.\nThe company is also making it easier to find the right image for sharing with the community. If users turn on media access for Google Maps in their phone’s settings, they will see photos and videos from their recent experiences directly in the “Contribute” tab. From there, they can tap on a photo and post it. \nImage Credits:Google\n“Photos and videos you post help people better understand a place, like the overall vibe or the newest menu,” Google explained in a blog post. “Now, we’re making it easier to find the right image for sharing.”\nPhoto and video recommendations are now available globally on iOS and Android.\nIn addition, Google is making it easier for users to track the impact of their contributions, as they will now see total points earned displayed in the “Contribute” tab. Additionally, “Local Guide” levels will be highlighted on profile pages. For context, Local Guides earn points by adding photos, writing reviews, answering questions, and checking facts to improve Google Maps.\nThe company says it has updated its achievement badges so it’s easier to see if someone is an “expert fact-finder,” “a master photographer,” or “a rising novice.” Plus, Google is making it easier to spot high-level contributors with new gold-colored profiles.\nGoogle says these new features are designed to support its community of over 500 million contributors, who share photos, reviews, and videos to help others decide what to do and where to go. Given that Maps largely relies on contributors to keep information fresh and updated, it makes sense for the company to streamline the process of these contributions.\n\n\n\t\tAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing aisha@techcrunch.com or via encrypted message at aisha_malik.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Google Maps can now write captions for your photos using AI",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2202707012.jpg?w=150"
-      ],
-      "datePublished": "2026-04-07T15:30:00.000Z",
-      "dateModified": "2026-04-07T15:30:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -275,6 +175,131 @@
     }
   },
   {
+    "title": "I can’t help rooting for tiny open source AI model maker Arcee",
+    "url": "https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Arcee-founders.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-04-07T21:35:02.000Z",
+    "description": "\nArcee, a tiny 26-person U.S. startup that built a massive, 400B-parameter open source LLM on a $20 million shoestring budget, has released its new re",
+    "body": "\nArcee, a tiny 26-person U.S. startup that built a massive, 400B-parameter open source LLM on a $20 million shoestring budget, has released its new reasoning model. Arcee calls the model Trinity Large Thinking — and it’s the most capable open-weight model “ever released by a non-Chinese company,” claims CEO Mark McQuade to TechCrunch.\nAs that comment implies, Arcee has a goal that I can’t help but root for: It wants to give U.S. and Western companies a model that gives them no reason to use a Chinese-based one.\nWhile Chinese models are extremely capable, they are perceived as risky, putting power, and perhaps data, into the hands of a government that doesn’t share all of the Western world’s ideals.\nWith Arcee, companies can download the model, train it to their own needs, and use it on premises. Companies can also use Arcee’s cloud-hosted version, accessible via API.\nWhile Arcee’s models are not outperforming the closed source models from the big labs like Anthropic or OpenAI, they’re not being held hostage by the whims of those giants, either. \nFor instance, Claude, with its exceptional abilities to code, has been a popular choice for users of open source AI agent tool OpenClaw. But Anthropic pulled the rug out from them last week when it told users that their Anthropic subscriptions will no longer cover OpenClaw usage — they will have to pay additionally for that. (In February, OpenClaw creator Peter Steinberger said he was joining Anthropic’s biggest rival, OpenAI.)\nIn contrast, McQuade proudly points to data from OpenRouter that says it has become one of the top models used with OpenClaw.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nSo, how good is Trinity Large Thinking? It is comparable to some of the other top open source models, according to the benchmark results it shared with TechCrunch.\nArcee Trinity large thinking BenchmarksImage Credits:Arcee / Arcee\nAs we previously reported, it is not a head-to-head threat to the big cheese among U.S.-built open models: Meta’s Llama 4. But it also doesn’t have the odd, not-really open source license issues of Meta’s model. All of Arcee’s Trinity models are released under the gold standard for OS licenses, Apache 2.0.\nJust to be clear, there are also countless other U.S. startups offering open source models and, as a fan of the ingenuity of startups, I’m rooting for them, too.\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "I can’t help rooting for tiny open source AI model maker Arcee",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/01/Arcee-founders.jpg?w=150"
+      ],
+      "datePublished": "2026-04-07T21:35:02.000Z",
+      "dateModified": "2026-04-07T21:35:02.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Google quietly launched an AI dictation app that works offline",
+    "url": "https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-04-08T05:40:19.000Z",
+    "description": "\nUpdate (April 7, 10:30 PM PT): The company has updated the app store listing and removed references to the Android app. But it also added that the iO",
+    "body": "\nUpdate (April 7, 10:30 PM PT): The company has updated the app store listing and removed references to the Android app. But it also added that the iOS keyboard is coming soon.\nGoogle on Monday quietly released an offline-first dictation app called “Google AI Edge Eloquent” on iOS to take on the likes of Wispr Flow, SuperWhisper, Willow, and others.\nThe app is free to download, and once its Gemma-based automatic speech recognition (ASR) models are downloaded, you can start dictating on your phone. In the app, you can see the live transcription, and when you hit pause, the app automatically filters out filler words like “um” and “ah” and polishes the text. \nBelow the transcript are options like “Key points,” “Formal,” “Short,” and “Long” to transform the text.\nImage Credits:Screenshot by TechCrunch\nYou can also turn off the cloud mode to use local-only processing. (When cloud mode is on, the app uses cloud-based Gemini models for text cleanup.) The Google AI Edge Eloquent can import certain keywords, names, and jargon from your Gmail account, if desired. Plus, you can add your own custom words to the list.\nThe app displays the history of the transcription session and lets you search through all of them as well. It can show you words dictated in the last session, your words-per-minute speed, and the total number of words spoken.\n“Google AI Edge Eloquent is an advanced dictation app engineered to bridge the gap between natural speech and professional, ready-to-use text. Unlike standard dictation software that transcribes stumbles and filler words verbatim, Eloquent utilizes AI to capture your intended meaning. It automatically edits out ‘ums,’ ‘uhs,’ and mid-sentence self-corrections, outputting clean, accurate prose,” the company’s App Store description reads.\nI was saying “Transcription.” Still early days for this app.Image Credits:Screenshot by TechCrunch\nWhile the app is currently only available on iOS, the App Store description references an Android version. (We have reached out to Google for more information and will update the story if we hear back.)\nAccording to the description, Eloquent offers “seamless Android integration,” where it can be set as users’ default keyboard for system-wide access across any text field. Plus, the app will be able to use the floating button feature, similar to the one Wispr Flow uses on Android, for easy access to transcription from anywhere.\nAI-powered transcription apps are gaining popularity among users as speech-to-text models get better. With this experimental app, Google is joining the trend. If this test is successful, we could see improved transcription features across Android, too.\n\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Google quietly launched an AI dictation app that works offline",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?w=150"
+      ],
+      "datePublished": "2026-04-08T05:40:19.000Z",
+      "dateModified": "2026-04-08T05:40:19.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "VC Eclipse has a new $1.3B fund to back — and build — ‘physical AI’ startups",
+    "url": "https://techcrunch.com/2026/04/07/vc-eclipse-has-a-new-1-3b-to-back-and-build-physical-ai-startups/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/robotic-arm-GettyImages.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-04-07T21:24:54.000Z",
+    "description": "\nIt takes just a skim of Eclipse’s recent investments to see where this venture firm’s interests lie — and where it is headed.\nThe Palo Alto-based VC,",
+    "body": "\nIt takes just a skim of Eclipse’s recent investments to see where this venture firm’s interests lie — and where it is headed.\nThe Palo Alto-based VC, which saw its median deal size explode over the past several years, has poured an increasing amount of money into the “physical world.” Its deals include electric boat developer Arc, buzzy battery recycling and material firm Redwood Materials, self-driving construction vehicle startup Bedrock Robotics, autonomous vehicle tech company Wayve, and industrial robotics lab Mind Robotics.\nWith $1.3 billion in fresh capital — which is split between a $591 million early-stage incubation fund and one more oriented toward growth startups — Eclipse is zeroing in on what partner Jiten Behl describes as the next big technological era.\n“Over the last two decades, we’ve seen multiple waves of innovation,” Behl said, listing the internet, mobile cloud, and social media eras. “This is the first time where stuff is going to move from our screens into the physical world; we’re going to see advanced levels of intelligence, along with actual actions, in terms of solving problems in the real, physical world.”\nAI and the physical world have collided; the ubiquity of the term “physical AI” is just one signal. Behl said this era is being propelled by a confluence of talent, technological advancements, demand, and policy. And, of course, capital.\n“We have a nice war chest to go and make a serious dent in the market and support the companies in the right way across the life cycle,” he said. \nEclipse isn’t breaking new ground by investing in physical AI. It is, after all, the next shiny new thing to invest in. How Eclipse picks startups is worth noting. The VC is looking to invest across all physical sectors, including transportation, energy, infrastructure, compute, and defense. The interesting part, as Behl described it, is a strategy to build a web, or ecosystem of startups in overlapping fields that will likely become partners as they scale.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n“Scale is so important, and if you can put it together in a way where companies partner early on to build scale, to build proof points, it just then enables them to go after the next set of demand,” Behl said, explaining that portfolio companies will partner with each other directly, but hopefully, also work with each other’s partners.\nIn some cases, those startups will be incubated within the confines of Eclipse. Behl said Eclipse plans to build companies from this new fund. And while he wouldn’t give too many hints, he did confirm that process has already started.\n“We’re definitely working on a couple of really cool ideas,” he said, noting that Eclipse is particularly interested in startups that work across enterprises.\n“The next insight is like, how do you connect these sectors? How do you build scale across sectors? And how do you use the data across sectors to build that moat?” he posed, adding data would be used to train smarter AI models to benefit a broader group. “That’s sort of the general thesis that we’ve been working on.”\n\n\n\t\tKirsten Korosec is a reporter and editor who has covered the future of transportation from EVs and autonomous vehicles to urban air mobility and in-car tech for more than a decade. She is currently the transportation editor at TechCrunch and co-host of TechCrunch’s Equity podcast. She is also co-founder and co-host of the podcast, “The Autonocast.” She previously wrote for Fortune, The Verge, Bloomberg, MIT Technology Review and CBS Interactive.\nYou can contact or verify outreach from Kirsten by emailing kirsten.korosec@techcrunch.com or via encrypted message at kkorosec.07 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "VC Eclipse has a new $1.3B fund to back — and build — ‘physical AI’ startups",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/04/robotic-arm-GettyImages.jpg?w=150"
+      ],
+      "datePublished": "2026-04-07T21:24:54.000Z",
+      "dateModified": "2026-04-07T21:24:54.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Chrome finally adds a better way to deal with too many open tabs",
+    "url": "https://techcrunch.com/2026/04/07/chrome-is-finally-getting-vertical-tabs/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/chrome_rollercoaster-1.jpeg?w=150",
+    "tag": "Tech",
+    "date": "2026-04-07T17:00:00.000Z",
+    "description": "\nAfter years of resisting, Google Chrome is finally adopting vertical tabs — a feature more recently popularized by the Arc browser, a predecessor to ",
+    "body": "\nAfter years of resisting, Google Chrome is finally adopting vertical tabs — a feature more recently popularized by the Arc browser, a predecessor to the AI browser Dia. Google announced on Tuesday that Chrome users will have the option to enable vertical tabs, which will move the tabs to the side of the browser window, making it easier to read full page titles and manage tab groups.\nOnce enabled, vertical tabs will remain the default setting until the user changes it back.\nImage Credits:Google\nThe company is adding support for vertical tabs alongside a refreshed version of Reading Mode, its distraction-free, text-focused reading experience.\nThe changes indicate how growing competition from modern-day browsers has influenced Chrome’s development, while also potentially limiting the pull of rivals aiming to differentiate their browsers with features Chrome doesn’t have. \nThe company notes that the new vertical tabs can be enabled at any time by right-clicking on a Chrome window and selecting “Show Tabs Vertically.” The company says there’s no hard limit on the number of tabs that can be opened (beyond what would be limited already by the user’s hardware). The vertical tabs work just as the horizontal tabs do, meaning you can have different Chrome windows with their own set of tabs or tab groups. \nPeople who prefer vertical tabs tend to be power users or researchers who regularly keep many open tabs in their browser and often have trouble finding the right tabs when things become crowded. This is especially true if you tend to open multiple tabs from the same site, with the same favicon. \nThis isn’t the first time Google has experimented with putting tabs on the side of the browser. The company tested the feature in a prior decade, but it never made it out of beta. This time around, however, development has progressed, and savvy users have already been able to turn on the option by enabling a flag in recent Chrome builds. Likely, Google’s decision to push forward was influenced by interest in alternative web browsers, like Arc and others from AI makers, which are hoping to convince Chrome users to make a switch.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nIn recent months, Chrome has been busy rolling out updates, including those that introduced Gemini AI integration, autofill improvements, and a Split View mode, as well as announcing a faster release schedule.\nThe company says the vertical tabs are rolling out gradually to users in all markets.\nAlongside the launch of vertical tabs, Chrome is also rolling out a new Reading Mode experience, which will offer a full-page interface to make it even easier to reduce on-screen clutter to focus on the text. \nImage Credits:Google\nThis will be the new default experience for Chrome users, and arrives at a time when web pages, particularly those on news sites, have become cluttered with ads and prompts to subscribe to newsletters.\nIronically, the problems facing the media industry that necessitated the ad overload are impacted by the fact that Google itself is driving less traffic to publishers as AI takes root.\n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Chrome finally adds a better way to deal with too many open tabs",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/01/chrome_rollercoaster-1.jpeg?w=150"
+      ],
+      "datePublished": "2026-04-07T17:00:00.000Z",
+      "dateModified": "2026-04-07T17:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Google Maps can now write captions for your photos using AI",
+    "url": "https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2202707012.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-04-07T15:30:00.000Z",
+    "description": "\nGoogle is rolling out new features to make it easier for users to contribute local knowledge to Maps, the company announced on Tuesday. Most notably,",
+    "body": "\nGoogle is rolling out new features to make it easier for users to contribute local knowledge to Maps, the company announced on Tuesday. Most notably, Gemini can now create captions when users are looking to share a photo or video about a place. \nOnce users select photos that they want to share, Gemini will analyze the images to create captions. Users can then choose to edit or remove the caption. The company says the new tool is designed to give users a head start on captions when sharing content. Caption suggestions are available now in English on iOS in the U.S. and will expand globally and to Android in the coming months, Google says.\nThe company is also making it easier to find the right image for sharing with the community. If users turn on media access for Google Maps in their phone’s settings, they will see photos and videos from their recent experiences directly in the “Contribute” tab. From there, they can tap on a photo and post it. \nImage Credits:Google\n“Photos and videos you post help people better understand a place, like the overall vibe or the newest menu,” Google explained in a blog post. “Now, we’re making it easier to find the right image for sharing.”\nPhoto and video recommendations are now available globally on iOS and Android.\nIn addition, Google is making it easier for users to track the impact of their contributions, as they will now see total points earned displayed in the “Contribute” tab. Additionally, “Local Guide” levels will be highlighted on profile pages. For context, Local Guides earn points by adding photos, writing reviews, answering questions, and checking facts to improve Google Maps.\nThe company says it has updated its achievement badges so it’s easier to see if someone is an “expert fact-finder,” “a master photographer,” or “a rising novice.” Plus, Google is making it easier to spot high-level contributors with new gold-colored profiles.\nGoogle says these new features are designed to support its community of over 500 million contributors, who share photos, reviews, and videos to help others decide what to do and where to go. Given that Maps largely relies on contributors to keep information fresh and updated, it makes sense for the company to streamline the process of these contributions.\n\n\n\t\tAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing aisha@techcrunch.com or via encrypted message at aisha_malik.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Google Maps can now write captions for your photos using AI",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2202707012.jpg?w=150"
+      ],
+      "datePublished": "2026-04-07T15:30:00.000Z",
+      "dateModified": "2026-04-07T15:30:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative",
     "url": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256664479.jpg?w=150",
@@ -316,31 +341,6 @@
       ],
       "datePublished": "2026-04-07T16:46:59.000Z",
       "dateModified": "2026-04-07T16:46:59.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Chrome finally adds a better way to deal with too many open tabs",
-    "url": "https://techcrunch.com/2026/04/07/chrome-is-finally-getting-vertical-tabs/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/chrome_rollercoaster-1.jpeg?w=150",
-    "tag": "Tech",
-    "date": "2026-04-07T17:00:00.000Z",
-    "description": "\nAfter years of resisting, Google Chrome is finally adopting vertical tabs — a feature more recently popularized by the Arc browser, a predecessor to ",
-    "body": "\nAfter years of resisting, Google Chrome is finally adopting vertical tabs — a feature more recently popularized by the Arc browser, a predecessor to the AI browser Dia. Google announced on Tuesday that Chrome users will have the option to enable vertical tabs, which will move the tabs to the side of the browser window, making it easier to read full page titles and manage tab groups.\nOnce enabled, vertical tabs will remain the default setting until the user changes it back.\nImage Credits:Google\nThe company is adding support for vertical tabs alongside a refreshed version of Reading Mode, its distraction-free, text-focused reading experience.\nThe changes indicate how growing competition from modern-day browsers has influenced Chrome’s development, while also potentially limiting the pull of rivals aiming to differentiate their browsers with features Chrome doesn’t have. \nThe company notes that the new vertical tabs can be enabled at any time by right-clicking on a Chrome window and selecting “Show Tabs Vertically.” The company says there’s no hard limit on the number of tabs that can be opened (beyond what would be limited already by the user’s hardware). The vertical tabs work just as the horizontal tabs do, meaning you can have different Chrome windows with their own set of tabs or tab groups. \nPeople who prefer vertical tabs tend to be power users or researchers who regularly keep many open tabs in their browser and often have trouble finding the right tabs when things become crowded. This is especially true if you tend to open multiple tabs from the same site, with the same favicon. \nThis isn’t the first time Google has experimented with putting tabs on the side of the browser. The company tested the feature in a prior decade, but it never made it out of beta. This time around, however, development has progressed, and savvy users have already been able to turn on the option by enabling a flag in recent Chrome builds. Likely, Google’s decision to push forward was influenced by interest in alternative web browsers, like Arc and others from AI makers, which are hoping to convince Chrome users to make a switch.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nIn recent months, Chrome has been busy rolling out updates, including those that introduced Gemini AI integration, autofill improvements, and a Split View mode, as well as announcing a faster release schedule.\nThe company says the vertical tabs are rolling out gradually to users in all markets.\nAlongside the launch of vertical tabs, Chrome is also rolling out a new Reading Mode experience, which will offer a full-page interface to make it even easier to reduce on-screen clutter to focus on the text. \nImage Credits:Google\nThis will be the new default experience for Chrome users, and arrives at a time when web pages, particularly those on news sites, have become cluttered with ads and prompts to subscribe to newsletters.\nIronically, the problems facing the media industry that necessitated the ad overload are impacted by the fact that Google itself is driving less traffic to publishers as AI takes root.\n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Chrome finally adds a better way to deal with too many open tabs",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/01/chrome_rollercoaster-1.jpeg?w=150"
-      ],
-      "datePublished": "2026-04-07T17:00:00.000Z",
-      "dateModified": "2026-04-07T17:00:00.000Z",
       "author": [
         {
           "@type": "Person",
