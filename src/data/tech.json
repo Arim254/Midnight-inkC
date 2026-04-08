@@ -75,31 +75,6 @@
     }
   },
   {
-    "title": "I can’t help rooting for tiny open source AI model maker Arcee",
-    "url": "https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Arcee-founders.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-04-07T21:35:02.000Z",
-    "description": "\nArcee, a tiny 26-person U.S. startup that built a massive, 400B-parameter open source LLM on a $20 million shoestring budget, has released its new re",
-    "body": "\nArcee, a tiny 26-person U.S. startup that built a massive, 400B-parameter open source LLM on a $20 million shoestring budget, has released its new reasoning model. Arcee calls the model Trinity Large Thinking — and it’s the most capable open-weight model “ever released by a non-Chinese company,” claims CEO Mark McQuade to TechCrunch.\nAs that comment implies, Arcee has a goal that I can’t help but root for: It wants to give U.S. and Western companies a model that gives them no reason to use a Chinese-based one.\nWhile Chinese models are extremely capable, they are perceived as risky, putting power, and perhaps data, into the hands of a government that doesn’t share all of the Western world’s ideals.\nWith Arcee, companies can download the model, train it to their own needs, and use it on premises. Companies can also use Arcee’s cloud-hosted version, accessible via API.\nWhile Arcee’s models are not outperforming the closed source models from the big labs like Anthropic or OpenAI, they’re not being held hostage by the whims of those giants, either. \nFor instance, Claude, with its exceptional abilities to code, has been a popular choice for users of open source AI agent tool OpenClaw. But Anthropic pulled the rug out from them last week when it told users that their Anthropic subscriptions will no longer cover OpenClaw usage — they will have to pay additionally for that. (In February, OpenClaw creator Peter Steinberger said he was joining Anthropic’s biggest rival, OpenAI.)\nIn contrast, McQuade proudly points to data from OpenRouter that says it has become one of the top models used with OpenClaw.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nSo, how good is Trinity Large Thinking? It is comparable to some of the other top open source models, according to the benchmark results it shared with TechCrunch.\nArcee Trinity large thinking BenchmarksImage Credits:Arcee / Arcee\nAs we previously reported, it is not a head-to-head threat to the big cheese among U.S.-built open models: Meta’s Llama 4. But it also doesn’t have the odd, not-really open source license issues of Meta’s model. All of Arcee’s Trinity models are released under the gold standard for OS licenses, Apache 2.0.\nJust to be clear, there are also countless other U.S. startups offering open source models and, as a fan of the ingenuity of startups, I’m rooting for them, too.\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "I can’t help rooting for tiny open source AI model maker Arcee",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/01/Arcee-founders.jpg?w=150"
-      ],
-      "datePublished": "2026-04-07T21:35:02.000Z",
-      "dateModified": "2026-04-07T21:35:02.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Iranian hackers are targeting American critical infrastructure, US agencies warn",
     "url": "https://techcrunch.com/2026/04/07/iranian-hackers-are-targeting-american-critical-infrastructure-u-s-agencies-warn/",
     "image": "https://techcrunch.com/wp-content/uploads/2019/07/iran.jpeg?w=150",
@@ -116,6 +91,81 @@
       ],
       "datePublished": "2026-04-07T19:59:06.000Z",
       "dateModified": "2026-04-07T19:59:06.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Google quietly launched an AI dictation app that works offline",
+    "url": "https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-04-08T05:40:19.000Z",
+    "description": "\nUpdate (April 7, 10:30 PM PT): The company has updated the app store listing and removed references to the Android app. But it also added that the iO",
+    "body": "\nUpdate (April 7, 10:30 PM PT): The company has updated the app store listing and removed references to the Android app. But it also added that the iOS keyboard is coming soon.\nGoogle on Monday quietly released an offline-first dictation app called “Google AI Edge Eloquent” on iOS to take on the likes of Wispr Flow, SuperWhisper, Willow, and others.\nThe app is free to download, and once its Gemma-based automatic speech recognition (ASR) models are downloaded, you can start dictating on your phone. In the app, you can see the live transcription, and when you hit pause, the app automatically filters out filler words like “um” and “ah” and polishes the text. \nBelow the transcript are options like “Key points,” “Formal,” “Short,” and “Long” to transform the text.\nImage Credits:Screenshot by TechCrunch\nYou can also turn off the cloud mode to use local-only processing. (When cloud mode is on, the app uses cloud-based Gemini models for text cleanup.) The Google AI Edge Eloquent can import certain keywords, names, and jargon from your Gmail account, if desired. Plus, you can add your own custom words to the list.\nThe app displays the history of the transcription session and lets you search through all of them as well. It can show you words dictated in the last session, your words-per-minute speed, and the total number of words spoken.\n“Google AI Edge Eloquent is an advanced dictation app engineered to bridge the gap between natural speech and professional, ready-to-use text. Unlike standard dictation software that transcribes stumbles and filler words verbatim, Eloquent utilizes AI to capture your intended meaning. It automatically edits out ‘ums,’ ‘uhs,’ and mid-sentence self-corrections, outputting clean, accurate prose,” the company’s App Store description reads.\nI was saying “Transcription.” Still early days for this app.Image Credits:Screenshot by TechCrunch\nWhile the app is currently only available on iOS, the App Store description references an Android version. (We have reached out to Google for more information and will update the story if we hear back.)\nAccording to the description, Eloquent offers “seamless Android integration,” where it can be set as users’ default keyboard for system-wide access across any text field. Plus, the app will be able to use the floating button feature, similar to the one Wispr Flow uses on Android, for easy access to transcription from anywhere.\nAI-powered transcription apps are gaining popularity among users as speech-to-text models get better. With this experimental app, Google is joining the trend. If this test is successful, we could see improved transcription features across Android, too.\n\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Google quietly launched an AI dictation app that works offline",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?w=150"
+      ],
+      "datePublished": "2026-04-08T05:40:19.000Z",
+      "dateModified": "2026-04-08T05:40:19.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "VC Eclipse has a new $1.3B fund to back — and build — ‘physical AI’ startups",
+    "url": "https://techcrunch.com/2026/04/07/vc-eclipse-has-a-new-1-3b-to-back-and-build-physical-ai-startups/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/robotic-arm-GettyImages.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-04-07T21:24:54.000Z",
+    "description": "\nIt takes just a skim of Eclipse’s recent investments to see where this venture firm’s interests lie — and where it is headed.\nThe Palo Alto-based VC,",
+    "body": "\nIt takes just a skim of Eclipse’s recent investments to see where this venture firm’s interests lie — and where it is headed.\nThe Palo Alto-based VC, which saw its median deal size explode over the past several years, has poured an increasing amount of money into the “physical world.” Its deals include electric boat developer Arc, buzzy battery recycling and material firm Redwood Materials, self-driving construction vehicle startup Bedrock Robotics, autonomous vehicle tech company Wayve, and industrial robotics lab Mind Robotics.\nWith $1.3 billion in fresh capital — which is split between a $591 million early-stage incubation fund and one more oriented toward growth startups — Eclipse is zeroing in on what partner Jiten Behl describes as the next big technological era.\n“Over the last two decades, we’ve seen multiple waves of innovation,” Behl said, listing the internet, mobile cloud, and social media eras. “This is the first time where stuff is going to move from our screens into the physical world; we’re going to see advanced levels of intelligence, along with actual actions, in terms of solving problems in the real, physical world.”\nAI and the physical world have collided; the ubiquity of the term “physical AI” is just one signal. Behl said this era is being propelled by a confluence of talent, technological advancements, demand, and policy. And, of course, capital.\n“We have a nice war chest to go and make a serious dent in the market and support the companies in the right way across the life cycle,” he said. \nEclipse isn’t breaking new ground by investing in physical AI. It is, after all, the next shiny new thing to invest in. How Eclipse picks startups is worth noting. The VC is looking to invest across all physical sectors, including transportation, energy, infrastructure, compute, and defense. The interesting part, as Behl described it, is a strategy to build a web, or ecosystem of startups in overlapping fields that will likely become partners as they scale.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n“Scale is so important, and if you can put it together in a way where companies partner early on to build scale, to build proof points, it just then enables them to go after the next set of demand,” Behl said, explaining that portfolio companies will partner with each other directly, but hopefully, also work with each other’s partners.\nIn some cases, those startups will be incubated within the confines of Eclipse. Behl said Eclipse plans to build companies from this new fund. And while he wouldn’t give too many hints, he did confirm that process has already started.\n“We’re definitely working on a couple of really cool ideas,” he said, noting that Eclipse is particularly interested in startups that work across enterprises.\n“The next insight is like, how do you connect these sectors? How do you build scale across sectors? And how do you use the data across sectors to build that moat?” he posed, adding data would be used to train smarter AI models to benefit a broader group. “That’s sort of the general thesis that we’ve been working on.”\n\n\n\t\tKirsten Korosec is a reporter and editor who has covered the future of transportation from EVs and autonomous vehicles to urban air mobility and in-car tech for more than a decade. She is currently the transportation editor at TechCrunch and co-host of TechCrunch’s Equity podcast. She is also co-founder and co-host of the podcast, “The Autonocast.” She previously wrote for Fortune, The Verge, Bloomberg, MIT Technology Review and CBS Interactive.\nYou can contact or verify outreach from Kirsten by emailing kirsten.korosec@techcrunch.com or via encrypted message at kkorosec.07 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "VC Eclipse has a new $1.3B fund to back — and build — ‘physical AI’ startups",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/04/robotic-arm-GettyImages.jpg?w=150"
+      ],
+      "datePublished": "2026-04-07T21:24:54.000Z",
+      "dateModified": "2026-04-07T21:24:54.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "I can’t help rooting for tiny open source AI model maker Arcee",
+    "url": "https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Arcee-founders.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-04-07T21:35:02.000Z",
+    "description": "\nArcee, a tiny 26-person U.S. startup that built a massive, 400B-parameter open source LLM on a $20 million shoestring budget, has released its new re",
+    "body": "\nArcee, a tiny 26-person U.S. startup that built a massive, 400B-parameter open source LLM on a $20 million shoestring budget, has released its new reasoning model. Arcee calls the model Trinity Large Thinking — and it’s the most capable open-weight model “ever released by a non-Chinese company,” claims CEO Mark McQuade to TechCrunch.\nAs that comment implies, Arcee has a goal that I can’t help but root for: It wants to give U.S. and Western companies a model that gives them no reason to use a Chinese-based one.\nWhile Chinese models are extremely capable, they are perceived as risky, putting power, and perhaps data, into the hands of a government that doesn’t share all of the Western world’s ideals.\nWith Arcee, companies can download the model, train it to their own needs, and use it on premises. Companies can also use Arcee’s cloud-hosted version, accessible via API.\nWhile Arcee’s models are not outperforming the closed source models from the big labs like Anthropic or OpenAI, they’re not being held hostage by the whims of those giants, either. \nFor instance, Claude, with its exceptional abilities to code, has been a popular choice for users of open source AI agent tool OpenClaw. But Anthropic pulled the rug out from them last week when it told users that their Anthropic subscriptions will no longer cover OpenClaw usage — they will have to pay additionally for that. (In February, OpenClaw creator Peter Steinberger said he was joining Anthropic’s biggest rival, OpenAI.)\nIn contrast, McQuade proudly points to data from OpenRouter that says it has become one of the top models used with OpenClaw.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nSo, how good is Trinity Large Thinking? It is comparable to some of the other top open source models, according to the benchmark results it shared with TechCrunch.\nArcee Trinity large thinking BenchmarksImage Credits:Arcee / Arcee\nAs we previously reported, it is not a head-to-head threat to the big cheese among U.S.-built open models: Meta’s Llama 4. But it also doesn’t have the odd, not-really open source license issues of Meta’s model. All of Arcee’s Trinity models are released under the gold standard for OS licenses, Apache 2.0.\nJust to be clear, there are also countless other U.S. startups offering open source models and, as a fan of the ingenuity of startups, I’m rooting for them, too.\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "I can’t help rooting for tiny open source AI model maker Arcee",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/01/Arcee-founders.jpg?w=150"
+      ],
+      "datePublished": "2026-04-07T21:35:02.000Z",
+      "dateModified": "2026-04-07T21:35:02.000Z",
       "author": [
         {
           "@type": "Person",
@@ -175,6 +225,31 @@
     }
   },
   {
+    "title": "Trump administration plans to cut cybersecurity agency’s budget by $700 million",
+    "url": "https://techcrunch.com/2026/04/07/cisa-budget-cuts-700-million-cybersecurity-agency-trump/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2225249178.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-04-07T13:50:51.000Z",
+    "description": "\nThe Trump administration is planning to cut the budget of the U.S. Cybersecurity and Infrastructure Security Agency (CISA) by at least $707 million f",
+    "body": "\nThe Trump administration is planning to cut the budget of the U.S. Cybersecurity and Infrastructure Security Agency (CISA) by at least $707 million for 2027.\nThe proposed budget cut [pdf] was released late last week as part of an omnibus budget proposal that includes the privatization of airport security.\nThe Trump administration claims the reduction to the U.S. top cybersecurity agency will refocus its “core mission” of securing the federal civilian network and protecting critical infrastructure from cyberattacks, and not “weaponization and waste,” as the administration claimed. \nThe proposal also alleged that CISA was “focused on censorship,” likely referring to the agency’s efforts to counter misinformation during the 2020 presidential election, which Trump lost.\nThe budget cuts would also remove duplicative programs, such as school safety programs, that already exist at the state and federal level, the document reads. \nSince taking office for a second term in 2025, President Trump and his administration have repeated false and repeatedly debunked claims that CISA engaged in censorship, and attacked the president’s perceived critics, including CISA’s inaugural director Chris Krebs, whom Trump appointed.\nThe Trump administration last year made similar false claims about CISA’s election security program when it proposed to cut the agency’s budget by close to $500 million, or around 17% of its federal budget. Lawmakers pushed back on last year’s cuts, reducing the proposed budget cut to about $135 million after negotiations.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThe budget proposal, if passed, would bring CISA’s operating budget down to about $2 billion. Lawmakers and security experts alike have warned that CISA is already in dire shape, after a year of cuts, staff reductions, and layoffs, losing hundreds of employees.\nCISA has not had a Senate-confirmed permanent director since Trump took office again in 2025.\nThe U.S. government has experienced several major hacks in the past year, including the suspected Russian breach of the U.S. Courts filing system, Chinese attacks targeting federal government departments, and Iranian hackers who leaked the personal email of FBI director Kash Patel.\n\n\n\t\tZack Whittaker is the security editor at TechCrunch. He also authors the weekly cybersecurity newsletter, this week in security. \nHe can be reached via encrypted message at zackwhittaker.1337 on Signal. You can also contact him by email, or to verify outreach, at zack.whittaker@techcrunch.com. \t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Trump administration plans to cut cybersecurity agency’s budget by $700 million",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2225249178.jpg?w=150"
+      ],
+      "datePublished": "2026-04-07T13:50:51.000Z",
+      "dateModified": "2026-04-07T13:50:51.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Adobe launches Acrobat-based Student Spaces, a free AI-powered study tool for students",
     "url": "https://techcrunch.com/2026/04/07/adobe-launches-acrobat-spaces-a-free-ai-powered-study-tool-for-students/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2162453288.jpg?w=150",
@@ -188,31 +263,6 @@
       "headline": "Adobe launches Acrobat-based Student Spaces, a free AI-powered study tool for students",
       "image": [
         "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2162453288.jpg?w=150"
-      ],
-      "datePublished": "2026-04-07T13:00:00.000Z",
-      "dateModified": "2026-04-07T13:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Waymo opens robotaxi service in Nashville, partners with Lyft",
-    "url": "https://techcrunch.com/2026/04/07/waymo-opens-robotaxi-service-in-nashville-partners-with-lyft/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/waymo-fleet-getty.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-04-07T13:00:00.000Z",
-    "description": "\nWaymo has been in Nashville for months, first manually driving, then testing its self-driving software with a human safety operator behind the wheel ",
-    "body": "\nWaymo has been in Nashville for months, first manually driving, then testing its self-driving software with a human safety operator behind the wheel — all in preparation of launching a robotaxi service in the city. That day has arrived, making Nashville the 11th city where the public can hail a Waymo robotaxi. \nWaymo said Tuesday it has opened its robotaxi service to the public. However, Waymo is still taking the slow-roll approach. Waymo spokesperson Chris Pappas told TechCrunch the company will begin inviting riders on a rolling basis to allow it to “thoughtfully scale while delivering a consistent, high-quality experience.”\nWaymo will initially operate in a 60-square-mile area of Nashville. Pappas didn’t share exactly how many robotaxis will serve that area, only noting the company has “dozens of vehicles” available in Nashville. \nThe Nashville launch also comes with a partner. But this time, it’s not Uber, the ride-hailing company that has partnered with Waymo in Austin, Atlanta, and Phoenix. Lyft is Waymo’s partner in Nashville, and there is a notable difference in how the service will work in the city. \nIn Nashville, riders will initially hail rides directly through the Waymo app. Once the service expands, Waymo will also make its self-driving vehicles available through the Lyft app. Lyft has said it will handle fleet services, such as vehicle readiness and maintenance, charging infrastructure, and depot operations, through its wholly owned subsidiary Flexdrive.\nThat’s unlike Waymo’s partnership with Uber in Atlanta and Austin. In those cities, customers have to use the Uber app in hopes of being matched with a robot, not a human driver. In Nashville, potential customers will have two ways to land a robotaxi ride.\nWaymo has taken a mixed approach to operations, pairing up with companies to help manage fleets and the ride-hailing networks in most cities, while going it mostly alone in others, like San Francisco. For instance, Avis is handling general depot operations, including charging and maintaining the Waymo vehicles, in Dallas. Moove, an African fintech and mobility startup, manages its autonomous vehicles in Phoenix, and is expected to do the same when Waymo launches in London.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThe partnerships signal Waymo’s desire to be a technology supplier, not an operator. At least in the long term. For now, Waymo continues to expand, and at a faster pace than the prior year. The Alphabet-owned company now has robotaxi services — meaning driverless vehicles that shuttle people around for a fee — in Atlanta, Austin, Dallas, Houston, Los Angeles, Miami, Nashville, Orlando, Phoenix, San Antonio, and the San Francisco Bay Area. And with $16 billion in new capital, it’s not likely to slow down. \n\n\n\t\tKirsten Korosec is a reporter and editor who has covered the future of transportation from EVs and autonomous vehicles to urban air mobility and in-car tech for more than a decade. She is currently the transportation editor at TechCrunch and co-host of TechCrunch’s Equity podcast. She is also co-founder and co-host of the podcast, “The Autonocast.” She previously wrote for Fortune, The Verge, Bloomberg, MIT Technology Review and CBS Interactive.\nYou can contact or verify outreach from Kirsten by emailing kirsten.korosec@techcrunch.com or via encrypted message at kkorosec.07 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Waymo opens robotaxi service in Nashville, partners with Lyft",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/03/waymo-fleet-getty.jpg?w=150"
       ],
       "datePublished": "2026-04-07T13:00:00.000Z",
       "dateModified": "2026-04-07T13:00:00.000Z",
@@ -250,31 +300,6 @@
     }
   },
   {
-    "title": "Chrome finally adds a better way to deal with too many open tabs",
-    "url": "https://techcrunch.com/2026/04/07/chrome-is-finally-getting-vertical-tabs/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/chrome_rollercoaster-1.jpeg?w=150",
-    "tag": "Tech",
-    "date": "2026-04-07T17:00:00.000Z",
-    "description": "\nAfter years of resisting, Google Chrome is finally adopting vertical tabs — a feature more recently popularized by the Arc browser, a predecessor to ",
-    "body": "\nAfter years of resisting, Google Chrome is finally adopting vertical tabs — a feature more recently popularized by the Arc browser, a predecessor to the AI browser Dia. Google announced on Tuesday that Chrome users will have the option to enable vertical tabs, which will move the tabs to the side of the browser window, making it easier to read full page titles and manage tab groups.\nOnce enabled, vertical tabs will remain the default setting until the user changes it back.\nImage Credits:Google\nThe company is adding support for vertical tabs alongside a refreshed version of Reading Mode, its distraction-free, text-focused reading experience.\nThe changes indicate how growing competition from modern-day browsers has influenced Chrome’s development, while also potentially limiting the pull of rivals aiming to differentiate their browsers with features Chrome doesn’t have. \nThe company notes that the new vertical tabs can be enabled at any time by right-clicking on a Chrome window and selecting “Show Tabs Vertically.” The company says there’s no hard limit on the number of tabs that can be opened (beyond what would be limited already by the user’s hardware). The vertical tabs work just as the horizontal tabs do, meaning you can have different Chrome windows with their own set of tabs or tab groups. \nPeople who prefer vertical tabs tend to be power users or researchers who regularly keep many open tabs in their browser and often have trouble finding the right tabs when things become crowded. This is especially true if you tend to open multiple tabs from the same site, with the same favicon. \nThis isn’t the first time Google has experimented with putting tabs on the side of the browser. The company tested the feature in a prior decade, but it never made it out of beta. This time around, however, development has progressed, and savvy users have already been able to turn on the option by enabling a flag in recent Chrome builds. Likely, Google’s decision to push forward was influenced by interest in alternative web browsers, like Arc and others from AI makers, which are hoping to convince Chrome users to make a switch.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nIn recent months, Chrome has been busy rolling out updates, including those that introduced Gemini AI integration, autofill improvements, and a Split View mode, as well as announcing a faster release schedule.\nThe company says the vertical tabs are rolling out gradually to users in all markets.\nAlongside the launch of vertical tabs, Chrome is also rolling out a new Reading Mode experience, which will offer a full-page interface to make it even easier to reduce on-screen clutter to focus on the text. \nImage Credits:Google\nThis will be the new default experience for Chrome users, and arrives at a time when web pages, particularly those on news sites, have become cluttered with ads and prompts to subscribe to newsletters.\nIronically, the problems facing the media industry that necessitated the ad overload are impacted by the fact that Google itself is driving less traffic to publishers as AI takes root.\n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Chrome finally adds a better way to deal with too many open tabs",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/01/chrome_rollercoaster-1.jpeg?w=150"
-      ],
-      "datePublished": "2026-04-07T17:00:00.000Z",
-      "dateModified": "2026-04-07T17:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Uber is the latest to be won over by Amazon’s AI chips",
     "url": "https://techcrunch.com/2026/04/07/uber-is-the-latest-to-be-won-over-by-amazons-ai-chips/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/12/AWS-Trainium2-chip-11-29-24-embargo-till-12-3-24-1.jpg?w=150",
@@ -300,6 +325,31 @@
     }
   },
   {
+    "title": "Chrome finally adds a better way to deal with too many open tabs",
+    "url": "https://techcrunch.com/2026/04/07/chrome-is-finally-getting-vertical-tabs/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/chrome_rollercoaster-1.jpeg?w=150",
+    "tag": "Tech",
+    "date": "2026-04-07T17:00:00.000Z",
+    "description": "\nAfter years of resisting, Google Chrome is finally adopting vertical tabs — a feature more recently popularized by the Arc browser, a predecessor to ",
+    "body": "\nAfter years of resisting, Google Chrome is finally adopting vertical tabs — a feature more recently popularized by the Arc browser, a predecessor to the AI browser Dia. Google announced on Tuesday that Chrome users will have the option to enable vertical tabs, which will move the tabs to the side of the browser window, making it easier to read full page titles and manage tab groups.\nOnce enabled, vertical tabs will remain the default setting until the user changes it back.\nImage Credits:Google\nThe company is adding support for vertical tabs alongside a refreshed version of Reading Mode, its distraction-free, text-focused reading experience.\nThe changes indicate how growing competition from modern-day browsers has influenced Chrome’s development, while also potentially limiting the pull of rivals aiming to differentiate their browsers with features Chrome doesn’t have. \nThe company notes that the new vertical tabs can be enabled at any time by right-clicking on a Chrome window and selecting “Show Tabs Vertically.” The company says there’s no hard limit on the number of tabs that can be opened (beyond what would be limited already by the user’s hardware). The vertical tabs work just as the horizontal tabs do, meaning you can have different Chrome windows with their own set of tabs or tab groups. \nPeople who prefer vertical tabs tend to be power users or researchers who regularly keep many open tabs in their browser and often have trouble finding the right tabs when things become crowded. This is especially true if you tend to open multiple tabs from the same site, with the same favicon. \nThis isn’t the first time Google has experimented with putting tabs on the side of the browser. The company tested the feature in a prior decade, but it never made it out of beta. This time around, however, development has progressed, and savvy users have already been able to turn on the option by enabling a flag in recent Chrome builds. Likely, Google’s decision to push forward was influenced by interest in alternative web browsers, like Arc and others from AI makers, which are hoping to convince Chrome users to make a switch.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nIn recent months, Chrome has been busy rolling out updates, including those that introduced Gemini AI integration, autofill improvements, and a Split View mode, as well as announcing a faster release schedule.\nThe company says the vertical tabs are rolling out gradually to users in all markets.\nAlongside the launch of vertical tabs, Chrome is also rolling out a new Reading Mode experience, which will offer a full-page interface to make it even easier to reduce on-screen clutter to focus on the text. \nImage Credits:Google\nThis will be the new default experience for Chrome users, and arrives at a time when web pages, particularly those on news sites, have become cluttered with ads and prompts to subscribe to newsletters.\nIronically, the problems facing the media industry that necessitated the ad overload are impacted by the fact that Google itself is driving less traffic to publishers as AI takes root.\n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Chrome finally adds a better way to deal with too many open tabs",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/01/chrome_rollercoaster-1.jpeg?w=150"
+      ],
+      "datePublished": "2026-04-07T17:00:00.000Z",
+      "dateModified": "2026-04-07T17:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Why a former AirPods engineer is now building heat pumps",
     "url": "https://techcrunch.com/2026/04/07/why-a-former-airpods-engineer-is-now-building-heat-pumps/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/merino-mono-installation.jpeg?w=150",
@@ -316,56 +366,6 @@
       ],
       "datePublished": "2026-04-07T13:00:27.000Z",
       "dateModified": "2026-04-07T13:00:27.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Trump administration plans to cut cybersecurity agency’s budget by $700 million",
-    "url": "https://techcrunch.com/2026/04/07/cisa-budget-cuts-700-million-cybersecurity-agency-trump/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2225249178.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-04-07T13:50:51.000Z",
-    "description": "\nThe Trump administration is planning to cut the budget of the U.S. Cybersecurity and Infrastructure Security Agency (CISA) by at least $707 million f",
-    "body": "\nThe Trump administration is planning to cut the budget of the U.S. Cybersecurity and Infrastructure Security Agency (CISA) by at least $707 million for 2027.\nThe proposed budget cut [pdf] was released late last week as part of an omnibus budget proposal that includes the privatization of airport security.\nThe Trump administration claims the reduction to the U.S. top cybersecurity agency will refocus its “core mission” of securing the federal civilian network and protecting critical infrastructure from cyberattacks, and not “weaponization and waste,” as the administration claimed. \nThe proposal also alleged that CISA was “focused on censorship,” likely referring to the agency’s efforts to counter misinformation during the 2020 presidential election, which Trump lost.\nThe budget cuts would also remove duplicative programs, such as school safety programs, that already exist at the state and federal level, the document reads. \nSince taking office for a second term in 2025, President Trump and his administration have repeated false and repeatedly debunked claims that CISA engaged in censorship, and attacked the president’s perceived critics, including CISA’s inaugural director Chris Krebs, whom Trump appointed.\nThe Trump administration last year made similar false claims about CISA’s election security program when it proposed to cut the agency’s budget by close to $500 million, or around 17% of its federal budget. Lawmakers pushed back on last year’s cuts, reducing the proposed budget cut to about $135 million after negotiations.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThe budget proposal, if passed, would bring CISA’s operating budget down to about $2 billion. Lawmakers and security experts alike have warned that CISA is already in dire shape, after a year of cuts, staff reductions, and layoffs, losing hundreds of employees.\nCISA has not had a Senate-confirmed permanent director since Trump took office again in 2025.\nThe U.S. government has experienced several major hacks in the past year, including the suspected Russian breach of the U.S. Courts filing system, Chinese attacks targeting federal government departments, and Iranian hackers who leaked the personal email of FBI director Kash Patel.\n\n\n\t\tZack Whittaker is the security editor at TechCrunch. He also authors the weekly cybersecurity newsletter, this week in security. \nHe can be reached via encrypted message at zackwhittaker.1337 on Signal. You can also contact him by email, or to verify outreach, at zack.whittaker@techcrunch.com. \t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Trump administration plans to cut cybersecurity agency’s budget by $700 million",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2225249178.jpg?w=150"
-      ],
-      "datePublished": "2026-04-07T13:50:51.000Z",
-      "dateModified": "2026-04-07T13:50:51.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "VC Eclipse has a new $1.3B fund to back — and build — ‘physical AI’ startups",
-    "url": "https://techcrunch.com/2026/04/07/vc-eclipse-has-a-new-1-3b-to-back-and-build-physical-ai-startups/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/robotic-arm-GettyImages.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-04-07T21:24:54.000Z",
-    "description": "\nIt takes just a skim of Eclipse’s recent investments to see where this venture firm’s interests lie — and where it is headed.\nThe Palo Alto-based VC,",
-    "body": "\nIt takes just a skim of Eclipse’s recent investments to see where this venture firm’s interests lie — and where it is headed.\nThe Palo Alto-based VC, which saw its median deal size explode over the past several years, has poured an increasing amount of money into the “physical world.” Its deals include electric boat developer Arc, buzzy battery recycling and material firm Redwood Materials, self-driving construction vehicle startup Bedrock Robotics, autonomous vehicle tech company Wayve, and industrial robotics lab Mind Robotics.\nWith $1.3 billion in fresh capital — which is split between a $591 million early-stage incubation fund and one more oriented toward growth startups — Eclipse is zeroing in on what partner Jiten Behl describes as the next big technological era.\n“Over the last two decades, we’ve seen multiple waves of innovation,” Behl said, listing the internet, mobile cloud, and social media eras. “This is the first time where stuff is going to move from our screens into the physical world; we’re going to see advanced levels of intelligence, along with actual actions, in terms of solving problems in the real, physical world.”\nAI and the physical world have collided; the ubiquity of the term “physical AI” is just one signal. Behl said this era is being propelled by a confluence of talent, technological advancements, demand, and policy. And, of course, capital.\n“We have a nice war chest to go and make a serious dent in the market and support the companies in the right way across the life cycle,” he said. \nEclipse isn’t breaking new ground by investing in physical AI. It is, after all, the next shiny new thing to invest in. How Eclipse picks startups is worth noting. The VC is looking to invest across all physical sectors, including transportation, energy, infrastructure, compute, and defense. The interesting part, as Behl described it, is a strategy to build a web, or ecosystem of startups in overlapping fields that will likely become partners as they scale.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n“Scale is so important, and if you can put it together in a way where companies partner early on to build scale, to build proof points, it just then enables them to go after the next set of demand,” Behl said, explaining that portfolio companies will partner with each other directly, but hopefully, also work with each other’s partners.\nIn some cases, those startups will be incubated within the confines of Eclipse. Behl said Eclipse plans to build companies from this new fund. And while he wouldn’t give too many hints, he did confirm that process has already started.\n“We’re definitely working on a couple of really cool ideas,” he said, noting that Eclipse is particularly interested in startups that work across enterprises.\n“The next insight is like, how do you connect these sectors? How do you build scale across sectors? And how do you use the data across sectors to build that moat?” he posed, adding data would be used to train smarter AI models to benefit a broader group. “That’s sort of the general thesis that we’ve been working on.”\n\n\n\t\tKirsten Korosec is a reporter and editor who has covered the future of transportation from EVs and autonomous vehicles to urban air mobility and in-car tech for more than a decade. She is currently the transportation editor at TechCrunch and co-host of TechCrunch’s Equity podcast. She is also co-founder and co-host of the podcast, “The Autonocast.” She previously wrote for Fortune, The Verge, Bloomberg, MIT Technology Review and CBS Interactive.\nYou can contact or verify outreach from Kirsten by emailing kirsten.korosec@techcrunch.com or via encrypted message at kkorosec.07 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "VC Eclipse has a new $1.3B fund to back — and build — ‘physical AI’ startups",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/04/robotic-arm-GettyImages.jpg?w=150"
-      ],
-      "datePublished": "2026-04-07T21:24:54.000Z",
-      "dateModified": "2026-04-07T21:24:54.000Z",
       "author": [
         {
           "@type": "Person",
