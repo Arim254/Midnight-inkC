@@ -25,6 +25,31 @@
     }
   },
   {
+    "title": "Tubi is the first streamer to launch a native app within ChatGPT",
+    "url": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Chat-GPT-Tubi.png?w=150",
+    "tag": "Tech",
+    "date": "2026-04-08T18:23:06.000Z",
+    "description": "\nTubi, the Fox-owned streaming service, announced Tuesday the launch of its native app within ChatGPT, giving viewers an easier way to discover its la",
+    "body": "\nTubi, the Fox-owned streaming service, announced Tuesday the launch of its native app within ChatGPT, giving viewers an easier way to discover its large library of more than 300,000 movies and TV episodes.\nWhile competitors like Netflix and Amazon Prime Video have experimented with AI-powered recommendations within their own platforms, Tubi is the first major streaming service to build a dedicated experience directly inside ChatGPT. \nTo access the integration, users can install the Tubi app from the ChatGPT app store and begin by typing “@Tubi” in a prompt. From there, they can make natural-language requests like “a thriller for girls’ night” or “something funny,” and instantly receive curated recommendations tailored to their preferences, all linked back to titles available on Tubi.\nThe launch comes as competition across the streaming industry intensifies. With endless entertainment options, discovery has become a challenge for all platforms vying for limited viewer attention. Many streamers have even begun incorporating features inspired by social media platforms to keep users engaged, reflecting broader shifts in how audiences consume content.\nTubi’s move builds on earlier experiments with AI. In 2023, the company introduced “Rabbit AI,” a feature within its mobile app powered by ChatGPT that allowed users to ask specific questions and receive personalized recommendations. However, the tool was discontinued the following year. \nThe new ChatGPT integration suggests a strategic pivot: Instead of trying to replicate AI experiences in-house, Tubi is now meeting users where they’re already turning for answers. ChatGPT reached 900 million weekly active users in February. Tubi reports more than 100 million monthly active users.\nIn separate news, Tubi recently launched the “Creatorverse Incubator,” a new initiative aimed at supporting emerging content creators. The program offers promotional backing and potential funding opportunities for original shows that will debut exclusively on the platform.\nOpenAI first introduced a way for developers to build apps inside of ChatGPT back in October. Now, dozens of companies have launched integrations, such as Booking.com, Canva, DoorDash, Expedia, Spotify, Figma, and Zillow. SeatGeek was the most recent to launch a native app.\n\n\n\t\tLauren covers media, streaming, apps and platforms at TechCrunch.\nYou can contact or verify outreach from Lauren by emailing laurenf.techcrunch@gmail.com or via encrypted message at laurenforris22.25 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Tubi is the first streamer to launch a native app within ChatGPT",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/04/Chat-GPT-Tubi.png?w=150"
+      ],
+      "datePublished": "2026-04-08T18:23:06.000Z",
+      "dateModified": "2026-04-08T18:23:06.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "WireGuard VPN developer can’t ship software updates after Microsoft locks account",
     "url": "https://techcrunch.com/2026/04/08/wireguard-vpn-developer-cant-ship-software-updates-after-microsoft-locks-account/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/09/tunnel-vpn-v1.jpg?w=150",
@@ -41,6 +66,31 @@
       ],
       "datePublished": "2026-04-08T21:50:41.000Z",
       "dateModified": "2026-04-08T21:50:41.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "A self-driving car in Texas hit and killed a mother duck, sparking neighborhood outrage",
+    "url": "https://techcrunch.com/2026/04/08/avride-self-driving-car-austin-kills-duck-mueller/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/avride-uber.jpeg?w=150",
+    "tag": "Tech",
+    "date": "2026-04-08T21:19:07.000Z",
+    "description": "\n\t\n\t\tImage Credits:Avride\t\n\t\n\t\t\t\t\t\t2:19 PM PDT · April 8, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nThe death of a duck in the Austin, Texas enclave of Mueller Lake has ne",
+    "body": "\n\t\n\t\tImage Credits:Avride\t\n\t\n\t\t\t\t\t\t2:19 PM PDT · April 8, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nThe death of a duck in the Austin, Texas enclave of Mueller Lake has neighbors raising concerns about autonomous vehicles and whether they belong there. \nWhile humans are responsible for killing animals with their cars all the time, this incident has brought negative attention to the new technology. Local media picked up on the duck incident after a resident posted in a Mueller neighborhood Facebook group that an Avride autonomous vehicle (with a human safety operator behind the wheel) ran over and killed a duck, and did not stop afterwards. “It didn’t slow down or hesitate at all, just steamrolled through,” the post, which KXAN reported on, reads.\nResidents’ familiarity with this particular duck, which was nesting in a pot located outside of a local Italian eatery, has added to the outrage and mistrust of the autonomous vehicle technology. For those concerned about the future of the duck’s eggs, local residents have them in an incubator, Axios’ Austin reports.\nAn Avride spokesperson confirmed with TechCrunch that the vehicle was in autonomous mode at the time. Avride hasn’t paused testing on public roads altogether. However, the company has adjusted its area of operations by excluding certain streets around the lake in the neighborhood where the incident with the duck occurred, according to spokesperson Yulia Shveyko.\nThe resident also claimed in their post that the vehicle failed to stop at a stop sign. Avride told TechCrunch it did not find evidence to support that claim. The vehicle came to complete and appropriate stops at all relevant stop signs.\nShveyko said the team has reviewed vehicle data and behavior, including replaying the scene multiple times in simulation. Avride is now evaluating potential improvements to the technology to help avoid similar situations in the future, she said. Notably, this includes running a series of controlled experiments in simulation to ensure that any changes do not negatively impact the vehicle’s safety performance in other scenarios. \nAvride isn’t the only company testing or commercially deploying autonomous vehicles in the city. Zoox has been testing in the city. Tesla and Waymo, in partnership with Uber, also operate a commercial robotaxi service in parts of Austin.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n\n\t\t\t\n\tTopics\n\n\n\n\t\tKirsten Korosec is a reporter and editor who has covered the future of transportation from EVs and autonomous vehicles to urban air mobility and in-car tech for more than a decade. She is currently the transportation editor at TechCrunch and co-host of TechCrunch’s Equity podcast. She is also co-founder and co-host of the podcast, “The Autonocast.” She previously wrote for Fortune, The Verge, Bloomberg, MIT Technology Review and CBS Interactive.\nYou can contact or verify outreach from Kirsten by emailing kirsten.korosec@techcrunch.com or via encrypted message at kkorosec.07 on Signal.\t\n\t\n\t\tView Bio \n\t\n\n\t\t",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "A self-driving car in Texas hit and killed a mother duck, sparking neighborhood outrage",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/04/avride-uber.jpeg?w=150"
+      ],
+      "datePublished": "2026-04-08T21:19:07.000Z",
+      "dateModified": "2026-04-08T21:19:07.000Z",
       "author": [
         {
           "@type": "Person",
@@ -75,72 +125,22 @@
     }
   },
   {
-    "title": "Databricks co-founder wins prestigious ACM award, says ‘AGI is here already’",
-    "url": "https://techcrunch.com/2026/04/08/databricks-matei-zaharia-wins-acm-computing-prize-agi/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Databricks_Matei_Zaharia_for-ACM.jpg?w=150",
+    "title": "As YouTube grows on TV, it eyes more interactive video across formats",
+    "url": "https://techcrunch.com/2026/04/08/as-youtube-grows-on-tv-it-eyes-more-interactive-video-across-formats/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/07/YouTube-Thumb-Text-4-1.png?w=150",
     "tag": "Tech",
-    "date": "2026-04-08T15:00:00.000Z",
-    "description": "\nDatabricks co-founder and CTO Matei Zaharia almost missed the email telling him that he was the 2026 recipient of the ACM Prize in Computing. “Yeah, ",
-    "body": "\nDatabricks co-founder and CTO Matei Zaharia almost missed the email telling him that he was the 2026 recipient of the ACM Prize in Computing. “Yeah, it was a surprise,” he told TechCrunch.\nBack in 2009, the tech Zaharia developed for his PhD at UC Berkeley, under the tutelage of famed professor Ion Stoica, was launched into Databricks.\nZaharia had created a way to dramatically speed the results of slow, clunky, big data projects and released it as an open source project called Spark. Big data was in those days what AI is today and Spark turned the tech industry on its ear. The 28-year-old Zaharia became a tech celeb.\nSince then, he has helmed the engineering at Databricks, growing it into a cloud storage giant and now a data foundation for AI and agents. Along the way the company has raised over $20 billion — valuing it at $134 billion — and hit $5.4 billion in revenue run rate. The Silicon Valley dream.\nOn Wednesday, the Association for Computing Machinery issued him the award for his collective contributions. The award comes with a $250,000 cash prize that he is donating to an as-yet-to-be-determined charity.\nZaharia, who in addition to his CTO duties is also an associate professor at UC Berkeley, is looking forward, not back. Like everyone else in the Valley, the future he sees is filled with AI.\n“AGI is here already. It’s just not in a form that we appreciate,” he told TechCrunch. “I think the bigger point of it is: We should stop trying to apply human standards to these AI models.”\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nA person, for instance, can only pass the bar exam to be a lawyer if they’ve integrated vast amounts of knowledge. But an AI can ingest vast amounts of facts easily. If it answers knowledge questions correctly, that doesn’t equate to general knowledge.\nThis tendency to treat AI like a human can have some profoundly negative impacts. He offers the example of the popular AI agent OpenClaw.\n“On the one hand, it’s awesome. You can do so many things with it. It just does them automatically,” he said. But it’s also “a security nightmare” because it’s designed to mimic a human assistant that you trust with things like passwords. That leads to the risk of being hacked, or the agent spending unauthorized money from your bank because your browser is logged in.\n“Yeah, it’s not a little human there,” he says.\nAs a professor and product engineer, Zaharia is most excited about how AI can help automate research on everything from biology experiments to data compilation.\nJust like how vibe coding made prototyping and programming accessible to anyone, he thinks that accurate, no-hallucinations AI-powered research will someday become universal.\n“Not that many people need to build applications, but lots of people need to understand information,” he said. Eventually we’ll make AI work better for us by having it lean into its strengths: telling us what every rattle in our car means, or scanning beyond text and images to include radio and microwaves, or, what he’s seeing students do now, simulate molecular-level changes and predict their effectiveness.\n“The thing that I’m most excited about is what I’d call AI for search, but specifically for research or engineering,” he said.\n",
+    "date": "2026-04-08T14:03:04.000Z",
+    "description": "\nThe living room has become a central battleground for YouTube, as more people turn to television screens. Now the Google-owned platform is trying to ",
+    "body": "\nThe living room has become a central battleground for YouTube, as more people turn to television screens. Now the Google-owned platform is trying to make watching videos on TV more interactive, across formats like live and Shorts, new job listings show.\nThe shift is reflected in a wave of recent job postings at YouTube focused on “living room” experiences across product, design, and engineering, spanning live streaming, Shorts on TV, and subscription features. These point to a broader push to deepen engagement on the biggest screen. The move comes as connected TVs accounted for over 44% of YouTube watch time in the U.S. in 2026, up from about 41% in 2022, according to data from eMarketer shared with TechCrunch.\nJob listings reference features such as chatting, gifting, and multi-device controls for live viewing, alongside efforts to make Shorts more interactive and community-driven on TV. Some roles emphasize shared live experiences that connect creators and audiences in real time, while others highlight work with connected TV and streaming device partners to expand distribution. Other listings also point to work with media partners and products such as YouTube Primetime Channels as part of efforts to build out YouTube’s TV offerings.\nHiring spans the U.S. and India. Moreover, multiple listings show plans to expand a YouTube Live engineering hub in Bengaluru focused on modernizing live streaming for living room surfaces.\nThe push comes as YouTube rolls out new features aimed at the living room, including AI-powered voice search on TVs. It is also working on a second-screen “TV Companion” feature that lets viewers interact with videos from their phones, and has introduced “Stations,” 24/7 linear streams, as reported by The Verge. Last month, YouTube struck a partnership with FIFA around the FIFA World Cup 2026 to offer what it described as an “immersive” viewing experience across devices. The efforts come as the platform’s presence on TV continues to grow, with YouTube now accounting for 12.5% of all TV viewing.\nNonetheless, making TV more interactive remains a challenge. Even as YouTube pushes to expand its presence on TV, engagement on the biggest screen has historically lagged behind mobile and desktop. “Viewers don’t interact with TV screens the same way they do with phones. It’s clunky,” said Ross Benes, senior analyst for TV and streaming at eMarketer.\nHe added that interactive features on TV have so far remained niche, limiting their impact on viewer behavior.\nDespite the challenges, YouTube’s position in the market could give it an advantage as it experiments with new formats on TV. “YouTube straddles the line between social and typical streaming, and it continues to outdistance each. YouTube doesn’t just lead a category, it is its own category.” Benes told TechCrunch.\nWhether YouTube can translate its dominance on TV into more interactive viewing remains to be seen, particularly as user behavior on the biggest screen continues to differ from mobile.\nYouTube did not respond to a request for comment.\n\n\n\t\tJagmeet covers startups, tech policy-related updates, and all other major tech-centric developments from India for TechCrunch. He previously worked as a principal correspondent at NDTV. \r\nYou can contact or verify outreach from Jagmeet by emailing mail@journalistjagmeet.com.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Databricks co-founder wins prestigious ACM award, says ‘AGI is here already’",
+      "headline": "As YouTube grows on TV, it eyes more interactive video across formats",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/04/Databricks_Matei_Zaharia_for-ACM.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2024/07/YouTube-Thumb-Text-4-1.png?w=150"
       ],
-      "datePublished": "2026-04-08T15:00:00.000Z",
-      "dateModified": "2026-04-08T15:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Amazon to end support for older Kindle devices",
-    "url": "https://techcrunch.com/2026/04/08/amazon-to-end-support-for-older-kindle-devices-2012/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-865878412.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-04-08T19:56:16.000Z",
-    "description": "\nAmazon is preparing to end support for Kindle devices released before 2012 — cutting them off from the Kindle Store and making them virtually unable ",
-    "body": "\nAmazon is preparing to end support for Kindle devices released before 2012 — cutting them off from the Kindle Store and making them virtually unable to load any new content. The company set a cutoff date for May 20, 2026.\nAmazon sent an email to customers this week announcing it would end support for the devices, according to screenshots of the message posted to social media and Reddit from customers, and confirmed by Amazon. According to the message, Kindle e-readers and tablets released in 2012 or earlier will lose access to Kindle Store functions after the deadline. That means affected devices will no longer be able to buy, borrow, or download new books directly.\nAfter May 20, users will only be able to use their devices to read content that’s already downloaded. Once an older device is deregistered or reset to factory settings, it cannot be re-registered after May 20.\nAmazon’s list of impacted models includes the original Kindle (1st and 2nd generation), Kindle DX and DX Graphite, Kindle Keyboard, Kindle 4 and 5, Kindle Touch, and the first-generation Kindle Paperwhite.\n“These models have been supported for at least 14 years — some as long as 18 years — but technology has come a long way in that time, and these devices will no longer be supported moving forward,” Jesse Carr, an Amazon spokesperson, said in a statement to TechCrunch. “We are notifying those still actively using them and offering promotions to help with the transition to newer devices.”\nUsers can continue to access their libraries through newer devices, the Kindle mobile app, or Kindle for Web, the Amazon spokesperson said. \nSeveral longtime users voiced frustrations about the move to end support for older Kindles, many of which are in excellent condition and have not seen any operational degradation. On Reddit, multiple users said they still rely on these older devices and see no reason to replace them. For some, it felt like another example of tech companies discontinuing support for perfectly functional products, pushing customers toward upgrades while contributing to growing electronic waste. One example of this is Google, which ended support for its older Nest thermostats in 2025. According to the United Nations Institute for Training and Research (UNITAR), global e-waste is estimated to reach 82 million tonnes by 2030, a 32% jump from 2022.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nOne Reddit user wrote, “I’ve had my Kindle for years, but it still works perfectly and continues to serve me well. How wasteful is it to make a product practically unusable in order to force people to buy a newer model.”\nFor some, the change meant it might be time to get an alternative e-ink reader, like the Boox Palma or Vivlio e-reader. \nThe decision to essentially kill older Kindle devices isn’t entirely unexpected, as Amazon has gradually reduced support for its legacy devices. In 2016, the company required Kindle e-reader models from 2012 and earlier to install updates just to maintain access to the Kindle Store, an early sign that long-term support for these devices would eventually come to an end.\n\n\n\t\tLauren covers media, streaming, apps and platforms at TechCrunch.\nYou can contact or verify outreach from Lauren by emailing laurenf.techcrunch@gmail.com or via encrypted message at laurenforris22.25 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Amazon to end support for older Kindle devices",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-865878412.jpg?w=150"
-      ],
-      "datePublished": "2026-04-08T19:56:16.000Z",
-      "dateModified": "2026-04-08T19:56:16.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Atlassian launches visual AI tools and third-party agents in Confluence",
-    "url": "https://techcrunch.com/2026/04/08/atlassian-confluence-visual-ai-tools-agents/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/10/atlassian-confluence-bug-getty.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-04-08T13:00:00.000Z",
-    "description": "\nSoftware giant Atlassian announced new AI tools and agents on Wednesday, with a focus on turning data into visual assets and applications.\nThis inclu",
-    "body": "\nSoftware giant Atlassian announced new AI tools and agents on Wednesday, with a focus on turning data into visual assets and applications.\nThis includes the rollout of the visual tool Remix in open beta. Remix allows enterprises to turn the data and information stored in Atlassian’s content collaboration software Confluence into assets including charts and graphics.\nRemix will recommend which visual format makes the most sense for the data or information at hand and create these visual assets without requiring the users to open another application or software.\nThe company also announced three new third-party agents that run within Confluence using model context protocols (MCPs).\nOne agent connects Confluence users to the vibe-coding darling Lovable to turn product ideas and data into working prototypes. Another agent connects to app builder software Replit and allows users to convert technical documents into starter apps. The third agent works with AI presentation builder Gamma to build slides and other presentation materials.\n“With Remix and agents in Confluence, a single page becomes the starting point for whatever comes next: a clear story for leaders, a prototype for builders, or a walkthrough for customers, all from the same source of truth,” Sanchan Saxena, senior vice president of teamwork collaboration at Atlassian, wrote in a blog post announcing the features. “When you remove that friction, teams do more than manage documents; they create the next generation of products and experiences.”\nThe new tools are the latest in Atlassian’s push to incorporate AI agents and tools directly into the apps workers are already using, as opposed to launching new software platforms. In February, the company added AI agents to its product management software Jira.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThis follows a trend across the industry of companies looking to embed AI tools and agents directly into existing workflows as opposed to launching separate AI-powered software. While Salesforce was one of the first enterprises to launch a separate AI agent management platform, Agentforce, in 2024, it has since released many of its AI innovations through existing software like its recent upgrade that turned messaging service Slack’s chatbot into an AI agent.\nOpenAI is also leaning into this movement through its recent Frontier Alliances initiative. OpenAI partnered with four major consultant firms to task consultants with embedding OpenAI’s tech into their clients’ existing tech stacks and workflows as opposed to just selling them ChatGPT Enterprise subscriptions.   \n“Technology should fade into the background and let people focus on their best work,” Saxena wrote in the company’s blog post.\n\n\n\t\tBecca is a senior writer at TechCrunch that covers venture capital trends and startups. She previously covered the same beat for Forbes and the Venture Capital Journal.\r\nYou can contact or verify outreach from Becca by emailing rebecca.szkutak@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Atlassian launches visual AI tools and third-party agents in Confluence",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2023/10/atlassian-confluence-bug-getty.jpg?w=150"
-      ],
-      "datePublished": "2026-04-08T13:00:00.000Z",
-      "dateModified": "2026-04-08T13:00:00.000Z",
+      "datePublished": "2026-04-08T14:03:04.000Z",
+      "dateModified": "2026-04-08T14:03:04.000Z",
       "author": [
         {
           "@type": "Person",
@@ -200,22 +200,22 @@
     }
   },
   {
-    "title": "As YouTube grows on TV, it eyes more interactive video across formats",
-    "url": "https://techcrunch.com/2026/04/08/as-youtube-grows-on-tv-it-eyes-more-interactive-video-across-formats/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/07/YouTube-Thumb-Text-4-1.png?w=150",
+    "title": "Databricks co-founder wins prestigious ACM award, says ‘AGI is here already’",
+    "url": "https://techcrunch.com/2026/04/08/databricks-matei-zaharia-wins-acm-computing-prize-agi/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Databricks_Matei_Zaharia_for-ACM.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-04-08T14:03:04.000Z",
-    "description": "\nThe living room has become a central battleground for YouTube, as more people turn to television screens. Now the Google-owned platform is trying to ",
-    "body": "\nThe living room has become a central battleground for YouTube, as more people turn to television screens. Now the Google-owned platform is trying to make watching videos on TV more interactive, across formats like live and Shorts, new job listings show.\nThe shift is reflected in a wave of recent job postings at YouTube focused on “living room” experiences across product, design, and engineering, spanning live streaming, Shorts on TV, and subscription features. These point to a broader push to deepen engagement on the biggest screen. The move comes as connected TVs accounted for over 44% of YouTube watch time in the U.S. in 2026, up from about 41% in 2022, according to data from eMarketer shared with TechCrunch.\nJob listings reference features such as chatting, gifting, and multi-device controls for live viewing, alongside efforts to make Shorts more interactive and community-driven on TV. Some roles emphasize shared live experiences that connect creators and audiences in real time, while others highlight work with connected TV and streaming device partners to expand distribution. Other listings also point to work with media partners and products such as YouTube Primetime Channels as part of efforts to build out YouTube’s TV offerings.\nHiring spans the U.S. and India. Moreover, multiple listings show plans to expand a YouTube Live engineering hub in Bengaluru focused on modernizing live streaming for living room surfaces.\nThe push comes as YouTube rolls out new features aimed at the living room, including AI-powered voice search on TVs. It is also working on a second-screen “TV Companion” feature that lets viewers interact with videos from their phones, and has introduced “Stations,” 24/7 linear streams, as reported by The Verge. Last month, YouTube struck a partnership with FIFA around the FIFA World Cup 2026 to offer what it described as an “immersive” viewing experience across devices. The efforts come as the platform’s presence on TV continues to grow, with YouTube now accounting for 12.5% of all TV viewing.\nNonetheless, making TV more interactive remains a challenge. Even as YouTube pushes to expand its presence on TV, engagement on the biggest screen has historically lagged behind mobile and desktop. “Viewers don’t interact with TV screens the same way they do with phones. It’s clunky,” said Ross Benes, senior analyst for TV and streaming at eMarketer.\nHe added that interactive features on TV have so far remained niche, limiting their impact on viewer behavior.\nDespite the challenges, YouTube’s position in the market could give it an advantage as it experiments with new formats on TV. “YouTube straddles the line between social and typical streaming, and it continues to outdistance each. YouTube doesn’t just lead a category, it is its own category.” Benes told TechCrunch.\nWhether YouTube can translate its dominance on TV into more interactive viewing remains to be seen, particularly as user behavior on the biggest screen continues to differ from mobile.\nYouTube did not respond to a request for comment.\n\n\n\t\tJagmeet covers startups, tech policy-related updates, and all other major tech-centric developments from India for TechCrunch. He previously worked as a principal correspondent at NDTV. \r\nYou can contact or verify outreach from Jagmeet by emailing mail@journalistjagmeet.com.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-04-08T15:00:00.000Z",
+    "description": "\nDatabricks co-founder and CTO Matei Zaharia almost missed the email telling him that he was the 2026 recipient of the ACM Prize in Computing. “Yeah, ",
+    "body": "\nDatabricks co-founder and CTO Matei Zaharia almost missed the email telling him that he was the 2026 recipient of the ACM Prize in Computing. “Yeah, it was a surprise,” he told TechCrunch.\nBack in 2009, the tech Zaharia developed for his PhD at UC Berkeley, under the tutelage of famed professor Ion Stoica, was launched into Databricks.\nZaharia had created a way to dramatically speed the results of slow, clunky, big data projects and released it as an open source project called Spark. Big data was in those days what AI is today and Spark turned the tech industry on its ear. The 28-year-old Zaharia became a tech celeb.\nSince then, he has helmed the engineering at Databricks, growing it into a cloud storage giant and now a data foundation for AI and agents. Along the way the company has raised over $20 billion — valuing it at $134 billion — and hit $5.4 billion in revenue run rate. The Silicon Valley dream.\nOn Wednesday, the Association for Computing Machinery issued him the award for his collective contributions. The award comes with a $250,000 cash prize that he is donating to an as-yet-to-be-determined charity.\nZaharia, who in addition to his CTO duties is also an associate professor at UC Berkeley, is looking forward, not back. Like everyone else in the Valley, the future he sees is filled with AI.\n“AGI is here already. It’s just not in a form that we appreciate,” he told TechCrunch. “I think the bigger point of it is: We should stop trying to apply human standards to these AI models.”\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nA person, for instance, can only pass the bar exam to be a lawyer if they’ve integrated vast amounts of knowledge. But an AI can ingest vast amounts of facts easily. If it answers knowledge questions correctly, that doesn’t equate to general knowledge.\nThis tendency to treat AI like a human can have some profoundly negative impacts. He offers the example of the popular AI agent OpenClaw.\n“On the one hand, it’s awesome. You can do so many things with it. It just does them automatically,” he said. But it’s also “a security nightmare” because it’s designed to mimic a human assistant that you trust with things like passwords. That leads to the risk of being hacked, or the agent spending unauthorized money from your bank because your browser is logged in.\n“Yeah, it’s not a little human there,” he says.\nAs a professor and product engineer, Zaharia is most excited about how AI can help automate research on everything from biology experiments to data compilation.\nJust like how vibe coding made prototyping and programming accessible to anyone, he thinks that accurate, no-hallucinations AI-powered research will someday become universal.\n“Not that many people need to build applications, but lots of people need to understand information,” he said. Eventually we’ll make AI work better for us by having it lean into its strengths: telling us what every rattle in our car means, or scanning beyond text and images to include radio and microwaves, or, what he’s seeing students do now, simulate molecular-level changes and predict their effectiveness.\n“The thing that I’m most excited about is what I’d call AI for search, but specifically for research or engineering,” he said.\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "As YouTube grows on TV, it eyes more interactive video across formats",
+      "headline": "Databricks co-founder wins prestigious ACM award, says ‘AGI is here already’",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/07/YouTube-Thumb-Text-4-1.png?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/04/Databricks_Matei_Zaharia_for-ACM.jpg?w=150"
       ],
-      "datePublished": "2026-04-08T14:03:04.000Z",
-      "dateModified": "2026-04-08T14:03:04.000Z",
+      "datePublished": "2026-04-08T15:00:00.000Z",
+      "dateModified": "2026-04-08T15:00:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -225,47 +225,22 @@
     }
   },
   {
-    "title": "A self-driving car in Texas hit and killed a mother duck, sparking neighborhood outrage",
-    "url": "https://techcrunch.com/2026/04/08/avride-self-driving-car-austin-kills-duck-mueller/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/avride-uber.jpeg?w=150",
+    "title": "Atlassian launches visual AI tools and third-party agents in Confluence",
+    "url": "https://techcrunch.com/2026/04/08/atlassian-confluence-visual-ai-tools-agents/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/10/atlassian-confluence-bug-getty.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-04-08T21:19:07.000Z",
-    "description": "\n\t\n\t\tImage Credits:Avride\t\n\t\n\t\t\t\t\t\t2:19 PM PDT · April 8, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nThe death of a duck in the Austin, Texas enclave of Mueller Lake has ne",
-    "body": "\n\t\n\t\tImage Credits:Avride\t\n\t\n\t\t\t\t\t\t2:19 PM PDT · April 8, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nThe death of a duck in the Austin, Texas enclave of Mueller Lake has neighbors raising concerns about autonomous vehicles and whether they belong there. \nWhile humans are responsible for killing animals with their cars all the time, this incident has brought negative attention to the new technology. Local media picked up on the duck incident after a resident posted in a Mueller neighborhood Facebook group that an Avride autonomous vehicle (with a human safety operator behind the wheel) ran over and killed a duck, and did not stop afterwards. “It didn’t slow down or hesitate at all, just steamrolled through,” the post, which KXAN reported on, reads.\nResidents’ familiarity with this particular duck, which was nesting in a pot located outside of a local Italian eatery, has added to the outrage and mistrust of the autonomous vehicle technology. For those concerned about the future of the duck’s eggs, local residents have them in an incubator, Axios’ Austin reports.\nAn Avride spokesperson confirmed with TechCrunch that the vehicle was in autonomous mode at the time. Avride hasn’t paused testing on public roads altogether. However, the company has adjusted its area of operations by excluding certain streets around the lake in the neighborhood where the incident with the duck occurred, according to spokesperson Yulia Shveyko.\nThe resident also claimed in their post that the vehicle failed to stop at a stop sign. Avride told TechCrunch it did not find evidence to support that claim. The vehicle came to complete and appropriate stops at all relevant stop signs.\nShveyko said the team has reviewed vehicle data and behavior, including replaying the scene multiple times in simulation. Avride is now evaluating potential improvements to the technology to help avoid similar situations in the future, she said. Notably, this includes running a series of controlled experiments in simulation to ensure that any changes do not negatively impact the vehicle’s safety performance in other scenarios. \nAvride isn’t the only company testing or commercially deploying autonomous vehicles in the city. Zoox has been testing in the city. Tesla and Waymo, in partnership with Uber, also operate a commercial robotaxi service in parts of Austin.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n\n\t\t\t\n\tTopics\n\n\n\n\t\tKirsten Korosec is a reporter and editor who has covered the future of transportation from EVs and autonomous vehicles to urban air mobility and in-car tech for more than a decade. She is currently the transportation editor at TechCrunch and co-host of TechCrunch’s Equity podcast. She is also co-founder and co-host of the podcast, “The Autonocast.” She previously wrote for Fortune, The Verge, Bloomberg, MIT Technology Review and CBS Interactive.\nYou can contact or verify outreach from Kirsten by emailing kirsten.korosec@techcrunch.com or via encrypted message at kkorosec.07 on Signal.\t\n\t\n\t\tView Bio \n\t\n\n\t\t",
+    "date": "2026-04-08T13:00:00.000Z",
+    "description": "\nSoftware giant Atlassian announced new AI tools and agents on Wednesday, with a focus on turning data into visual assets and applications.\nThis inclu",
+    "body": "\nSoftware giant Atlassian announced new AI tools and agents on Wednesday, with a focus on turning data into visual assets and applications.\nThis includes the rollout of the visual tool Remix in open beta. Remix allows enterprises to turn the data and information stored in Atlassian’s content collaboration software Confluence into assets including charts and graphics.\nRemix will recommend which visual format makes the most sense for the data or information at hand and create these visual assets without requiring the users to open another application or software.\nThe company also announced three new third-party agents that run within Confluence using model context protocols (MCPs).\nOne agent connects Confluence users to the vibe-coding darling Lovable to turn product ideas and data into working prototypes. Another agent connects to app builder software Replit and allows users to convert technical documents into starter apps. The third agent works with AI presentation builder Gamma to build slides and other presentation materials.\n“With Remix and agents in Confluence, a single page becomes the starting point for whatever comes next: a clear story for leaders, a prototype for builders, or a walkthrough for customers, all from the same source of truth,” Sanchan Saxena, senior vice president of teamwork collaboration at Atlassian, wrote in a blog post announcing the features. “When you remove that friction, teams do more than manage documents; they create the next generation of products and experiences.”\nThe new tools are the latest in Atlassian’s push to incorporate AI agents and tools directly into the apps workers are already using, as opposed to launching new software platforms. In February, the company added AI agents to its product management software Jira.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThis follows a trend across the industry of companies looking to embed AI tools and agents directly into existing workflows as opposed to launching separate AI-powered software. While Salesforce was one of the first enterprises to launch a separate AI agent management platform, Agentforce, in 2024, it has since released many of its AI innovations through existing software like its recent upgrade that turned messaging service Slack’s chatbot into an AI agent.\nOpenAI is also leaning into this movement through its recent Frontier Alliances initiative. OpenAI partnered with four major consultant firms to task consultants with embedding OpenAI’s tech into their clients’ existing tech stacks and workflows as opposed to just selling them ChatGPT Enterprise subscriptions.   \n“Technology should fade into the background and let people focus on their best work,” Saxena wrote in the company’s blog post.\n\n\n\t\tBecca is a senior writer at TechCrunch that covers venture capital trends and startups. She previously covered the same beat for Forbes and the Venture Capital Journal.\r\nYou can contact or verify outreach from Becca by emailing rebecca.szkutak@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "A self-driving car in Texas hit and killed a mother duck, sparking neighborhood outrage",
+      "headline": "Atlassian launches visual AI tools and third-party agents in Confluence",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/04/avride-uber.jpeg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2023/10/atlassian-confluence-bug-getty.jpg?w=150"
       ],
-      "datePublished": "2026-04-08T21:19:07.000Z",
-      "dateModified": "2026-04-08T21:19:07.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Tubi is the first streamer to launch a native app within ChatGPT",
-    "url": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Chat-GPT-Tubi.png?w=150",
-    "tag": "Tech",
-    "date": "2026-04-08T18:23:06.000Z",
-    "description": "\nTubi, the Fox-owned streaming service, announced Tuesday the launch of its native app within ChatGPT, giving viewers an easier way to discover its la",
-    "body": "\nTubi, the Fox-owned streaming service, announced Tuesday the launch of its native app within ChatGPT, giving viewers an easier way to discover its large library of more than 300,000 movies and TV episodes.\nWhile competitors like Netflix and Amazon Prime Video have experimented with AI-powered recommendations within their own platforms, Tubi is the first major streaming service to build a dedicated experience directly inside ChatGPT. \nTo access the integration, users can install the Tubi app from the ChatGPT app store and begin by typing “@Tubi” in a prompt. From there, they can make natural-language requests like “a thriller for girls’ night” or “something funny,” and instantly receive curated recommendations tailored to their preferences, all linked back to titles available on Tubi.\nThe launch comes as competition across the streaming industry intensifies. With endless entertainment options, discovery has become a challenge for all platforms vying for limited viewer attention. Many streamers have even begun incorporating features inspired by social media platforms to keep users engaged, reflecting broader shifts in how audiences consume content.\nTubi’s move builds on earlier experiments with AI. In 2023, the company introduced “Rabbit AI,” a feature within its mobile app powered by ChatGPT that allowed users to ask specific questions and receive personalized recommendations. However, the tool was discontinued the following year. \nThe new ChatGPT integration suggests a strategic pivot: Instead of trying to replicate AI experiences in-house, Tubi is now meeting users where they’re already turning for answers. ChatGPT reached 900 million weekly active users in February. Tubi reports more than 100 million monthly active users.\nIn separate news, Tubi recently launched the “Creatorverse Incubator,” a new initiative aimed at supporting emerging content creators. The program offers promotional backing and potential funding opportunities for original shows that will debut exclusively on the platform.\nOpenAI first introduced a way for developers to build apps inside of ChatGPT back in October. Now, dozens of companies have launched integrations, such as Booking.com, Canva, DoorDash, Expedia, Spotify, Figma, and Zillow. SeatGeek was the most recent to launch a native app.\n\n\n\t\tLauren covers media, streaming, apps and platforms at TechCrunch.\nYou can contact or verify outreach from Lauren by emailing laurenf.techcrunch@gmail.com or via encrypted message at laurenforris22.25 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Tubi is the first streamer to launch a native app within ChatGPT",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/04/Chat-GPT-Tubi.png?w=150"
-      ],
-      "datePublished": "2026-04-08T18:23:06.000Z",
-      "dateModified": "2026-04-08T18:23:06.000Z",
+      "datePublished": "2026-04-08T13:00:00.000Z",
+      "dateModified": "2026-04-08T13:00:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -291,6 +266,56 @@
       ],
       "datePublished": "2026-04-08T20:09:14.000Z",
       "dateModified": "2026-04-08T20:09:14.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Amazon to end support for older Kindle devices",
+    "url": "https://techcrunch.com/2026/04/08/amazon-to-end-support-for-older-kindle-devices-2012/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-865878412.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-04-08T19:56:16.000Z",
+    "description": "\nAmazon is preparing to end support for Kindle devices released before 2012 — cutting them off from the Kindle Store and making them virtually unable ",
+    "body": "\nAmazon is preparing to end support for Kindle devices released before 2012 — cutting them off from the Kindle Store and making them virtually unable to load any new content. The company set a cutoff date for May 20, 2026.\nAmazon sent an email to customers this week announcing it would end support for the devices, according to screenshots of the message posted to social media and Reddit from customers, and confirmed by Amazon. According to the message, Kindle e-readers and tablets released in 2012 or earlier will lose access to Kindle Store functions after the deadline. That means affected devices will no longer be able to buy, borrow, or download new books directly.\nAfter May 20, users will only be able to use their devices to read content that’s already downloaded. Once an older device is deregistered or reset to factory settings, it cannot be re-registered after May 20.\nAmazon’s list of impacted models includes the original Kindle (1st and 2nd generation), Kindle DX and DX Graphite, Kindle Keyboard, Kindle 4 and 5, Kindle Touch, and the first-generation Kindle Paperwhite.\n“These models have been supported for at least 14 years — some as long as 18 years — but technology has come a long way in that time, and these devices will no longer be supported moving forward,” Jesse Carr, an Amazon spokesperson, said in a statement to TechCrunch. “We are notifying those still actively using them and offering promotions to help with the transition to newer devices.”\nUsers can continue to access their libraries through newer devices, the Kindle mobile app, or Kindle for Web, the Amazon spokesperson said. \nSeveral longtime users voiced frustrations about the move to end support for older Kindles, many of which are in excellent condition and have not seen any operational degradation. On Reddit, multiple users said they still rely on these older devices and see no reason to replace them. For some, it felt like another example of tech companies discontinuing support for perfectly functional products, pushing customers toward upgrades while contributing to growing electronic waste. One example of this is Google, which ended support for its older Nest thermostats in 2025. According to the United Nations Institute for Training and Research (UNITAR), global e-waste is estimated to reach 82 million tonnes by 2030, a 32% jump from 2022.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nOne Reddit user wrote, “I’ve had my Kindle for years, but it still works perfectly and continues to serve me well. How wasteful is it to make a product practically unusable in order to force people to buy a newer model.”\nFor some, the change meant it might be time to get an alternative e-ink reader, like the Boox Palma or Vivlio e-reader. \nThe decision to essentially kill older Kindle devices isn’t entirely unexpected, as Amazon has gradually reduced support for its legacy devices. In 2016, the company required Kindle e-reader models from 2012 and earlier to install updates just to maintain access to the Kindle Store, an early sign that long-term support for these devices would eventually come to an end.\n\n\n\t\tLauren covers media, streaming, apps and platforms at TechCrunch.\nYou can contact or verify outreach from Lauren by emailing laurenf.techcrunch@gmail.com or via encrypted message at laurenforris22.25 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Amazon to end support for older Kindle devices",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-865878412.jpg?w=150"
+      ],
+      "datePublished": "2026-04-08T19:56:16.000Z",
+      "dateModified": "2026-04-08T19:56:16.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Volkswagen begins testing its self-driving microbuses in Los Angeles ahead of launch with Uber",
+    "url": "https://techcrunch.com/2026/04/08/volkswagen-moia-uber-los-angeles-testing-self-driving-microbuses-id-buzz/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/MOIA_Uber-Testing-Vehicle.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-04-08T17:19:16.000Z",
+    "description": "\nVolkswagen subsidiary MOIA America and Uber have started testing autonomous microbuses in Los Angeles, the companies announced Wednesday, the latest ",
+    "body": "\nVolkswagen subsidiary MOIA America and Uber have started testing autonomous microbuses in Los Angeles, the companies announced Wednesday, the latest step as they prepare to launch a robotaxi service by late 2026.\nA year ago, MOIA America and Uber unveiled an ambitious plan to launch a commercial robotaxi service — using autonomous versions of Volkswagen’s electric ID. Buzz minivan — in multiple U.S. cities over the next decade. Los Angeles is the first city on that list.\nTesting will start in the next few weeks with about 10 autonomous ID. Buzz vehicles in Los Angeles, according to the company. The production version of the driverless vehicle seats four people.\nPaul DeLong, president of commercialization at MOIA America, called Los Angeles a natural market to introduce the company’s autonomous vehicles for ride experiences, “given its long history of shaping car culture and embracing new mobility technologies.” \nSince last year’s announcement, MOIA America and Uber set up a joint facility in Los Angeles for day-to-day fleet operations. The test fleet is small for now, but Volkswagen says it will eventually scale to more than 100 autonomous ID. Buzz vehicles. The vehicles will initially launch with a human safety operator on board. Driverless operations are expected to begin in 2027, the company said.\nSascha Meyer, the chief commercial officer for Volkswagen Autonomous Mobility, said this next step reflects the “strong momentum behind the strategy to bring autonomous mobility into real-world operation.”\nThe MOIA America name is relatively new branding for Volkswagen’s autonomous vehicle projects in the U.S., known as Volkswagen ADMT until early 2026. But the MOIA brand has been around for a while, since it was first launched by Volkswagen in 2018 at TechCrunch Disrupt London, and is best known in Europe, where it operates a ride-pooling service and tests autonomous vehicle tech in Hamburg, Berlin, Munich, and Oslo. The name change is supposed to reflect the connection between the U.S. and Europe entities.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nMOIA America still must navigate a long regulatory process before it can deploy a commercial robotaxi service — meaning driverless vehicles that charge humans for rides — in California. The company will need permits from the California Department of Motor Vehicles, which regulates autonomous vehicle testing and deployment in the state. It will also need a ride-hailing permit from the California Public Utilities Commission.\nUber, meanwhile, has spread out its bets on autonomous vehicles. The company has partnerships with 25 companies that are applying autonomous vehicle technology to delivery, drones, ride-hailing, and trucking. In the U.S., its most visible partnership is with Waymo. But the company has taken its AV ambitions to other markets, locking in agreements with Chinese companies to launch robotaxis in Europe and the Middle East, as well as startups like U.K.-based Wayve. \nUber recently made a deal with Rivian to buy 10,000 fully autonomous R2 robotaxis ahead of a planned rollout in San Francisco and Miami in 2028. Under the agreement, Uber is making an initial $300 million investment in Rivian.\n\n\n\t\tKirsten Korosec is a reporter and editor who has covered the future of transportation from EVs and autonomous vehicles to urban air mobility and in-car tech for more than a decade. She is currently the transportation editor at TechCrunch and co-host of TechCrunch’s Equity podcast. She is also co-founder and co-host of the podcast, “The Autonocast.” She previously wrote for Fortune, The Verge, Bloomberg, MIT Technology Review and CBS Interactive.\nYou can contact or verify outreach from Kirsten by emailing kirsten.korosec@techcrunch.com or via encrypted message at kkorosec.07 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Volkswagen begins testing its self-driving microbuses in Los Angeles ahead of launch with Uber",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/04/MOIA_Uber-Testing-Vehicle.jpg?w=150"
+      ],
+      "datePublished": "2026-04-08T17:19:16.000Z",
+      "dateModified": "2026-04-08T17:19:16.000Z",
       "author": [
         {
           "@type": "Person",
@@ -341,31 +366,6 @@
       ],
       "datePublished": "2026-04-08T21:00:00.000Z",
       "dateModified": "2026-04-08T21:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Volkswagen begins testing its self-driving microbuses in Los Angeles ahead of launch with Uber",
-    "url": "https://techcrunch.com/2026/04/08/volkswagen-moia-uber-los-angeles-testing-self-driving-microbuses-id-buzz/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/MOIA_Uber-Testing-Vehicle.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-04-08T17:19:16.000Z",
-    "description": "\nVolkswagen subsidiary MOIA America and Uber have started testing autonomous microbuses in Los Angeles, the companies announced Wednesday, the latest ",
-    "body": "\nVolkswagen subsidiary MOIA America and Uber have started testing autonomous microbuses in Los Angeles, the companies announced Wednesday, the latest step as they prepare to launch a robotaxi service by late 2026.\nA year ago, MOIA America and Uber unveiled an ambitious plan to launch a commercial robotaxi service — using autonomous versions of Volkswagen’s electric ID. Buzz minivan — in multiple U.S. cities over the next decade. Los Angeles is the first city on that list.\nTesting will start in the next few weeks with about 10 autonomous ID. Buzz vehicles in Los Angeles, according to the company. The production version of the driverless vehicle seats four people.\nPaul DeLong, president of commercialization at MOIA America, called Los Angeles a natural market to introduce the company’s autonomous vehicles for ride experiences, “given its long history of shaping car culture and embracing new mobility technologies.” \nSince last year’s announcement, MOIA America and Uber set up a joint facility in Los Angeles for day-to-day fleet operations. The test fleet is small for now, but Volkswagen says it will eventually scale to more than 100 autonomous ID. Buzz vehicles. The vehicles will initially launch with a human safety operator on board. Driverless operations are expected to begin in 2027, the company said.\nSascha Meyer, the chief commercial officer for Volkswagen Autonomous Mobility, said this next step reflects the “strong momentum behind the strategy to bring autonomous mobility into real-world operation.”\nThe MOIA America name is relatively new branding for Volkswagen’s autonomous vehicle projects in the U.S., known as Volkswagen ADMT until early 2026. But the MOIA brand has been around for a while, since it was first launched by Volkswagen in 2018 at TechCrunch Disrupt London, and is best known in Europe, where it operates a ride-pooling service and tests autonomous vehicle tech in Hamburg, Berlin, Munich, and Oslo. The name change is supposed to reflect the connection between the U.S. and Europe entities.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nMOIA America still must navigate a long regulatory process before it can deploy a commercial robotaxi service — meaning driverless vehicles that charge humans for rides — in California. The company will need permits from the California Department of Motor Vehicles, which regulates autonomous vehicle testing and deployment in the state. It will also need a ride-hailing permit from the California Public Utilities Commission.\nUber, meanwhile, has spread out its bets on autonomous vehicles. The company has partnerships with 25 companies that are applying autonomous vehicle technology to delivery, drones, ride-hailing, and trucking. In the U.S., its most visible partnership is with Waymo. But the company has taken its AV ambitions to other markets, locking in agreements with Chinese companies to launch robotaxis in Europe and the Middle East, as well as startups like U.K.-based Wayve. \nUber recently made a deal with Rivian to buy 10,000 fully autonomous R2 robotaxis ahead of a planned rollout in San Francisco and Miami in 2028. Under the agreement, Uber is making an initial $300 million investment in Rivian.\n\n\n\t\tKirsten Korosec is a reporter and editor who has covered the future of transportation from EVs and autonomous vehicles to urban air mobility and in-car tech for more than a decade. She is currently the transportation editor at TechCrunch and co-host of TechCrunch’s Equity podcast. She is also co-founder and co-host of the podcast, “The Autonocast.” She previously wrote for Fortune, The Verge, Bloomberg, MIT Technology Review and CBS Interactive.\nYou can contact or verify outreach from Kirsten by emailing kirsten.korosec@techcrunch.com or via encrypted message at kkorosec.07 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Volkswagen begins testing its self-driving microbuses in Los Angeles ahead of launch with Uber",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/04/MOIA_Uber-Testing-Vehicle.jpg?w=150"
-      ],
-      "datePublished": "2026-04-08T17:19:16.000Z",
-      "dateModified": "2026-04-08T17:19:16.000Z",
       "author": [
         {
           "@type": "Person",
