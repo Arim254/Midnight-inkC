@@ -25,81 +25,6 @@
     }
   },
   {
-    "title": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
-    "url": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/ChatGPT-OpenClaw-Claude.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-04-10T20:27:52.000Z",
-    "description": "\n“Yeah folks, it’s gonna be harder in the future to ensure OpenClaw still works with Anthropic models,” OpenClaw creator Peter Steinberger posted on X",
-    "body": "\n“Yeah folks, it’s gonna be harder in the future to ensure OpenClaw still works with Anthropic models,” OpenClaw creator Peter Steinberger posted on X early Friday morning, along with a photo of a message from Anthropic saying his account had been suspended over “suspicious” activity.\nThe ban didn’t last long. A few hours later, after the post went viral, Steinberger said his account had been reinstated. Among hundreds of comments — many of them in conspiracy theory land, given that Steinberger is now employed by Anthropic rival OpenAI — was one by an Anthropic engineer. The engineer told the famed developer that Anthropic has never banned anyone for using OpenClaw and offered to help.\n\nIt’s not clear if that was the key that restored the account. (We’ve asked Anthropic about it.) But the whole message string was enlightening on many levels.\nTo recap the recent history: This ban followed news last week that subscriptions to Anthropic’s Claude would no longer cover “third-party harnesses including OpenClaw,” the AI model company said.\nOpenClaw users now have to pay for that usage separately, based on consumption, through Claude’s API. In essence, Anthropic, which offers its own agent, Cowork, is now charging a “claw tax.” Steinberger said he was following this new rule and using his API but was banned anyway.\nAnthropic said it instituted the pricing change because subscriptions weren’t built to handle the “usage patterns” of claws. Claws can be more compute-intensive than prompts or simple scripts because they may run continuous reasoning loops, automatically repeat or retry tasks, and tie into a lot of other third-party tools.\nSteinberger, however, wasn’t buying that excuse. After Anthropic changed the pricing, he posted, “Funny how timings match up, first they copy some popular features into their closed harness, then they lock out open source.” Though he didn’t specify, he may have been referring to features added to Claude’s Cowork agent, such as Claude Dispatch, which lets users remotely control agents and assign tasks. Dispatch rolled out a couple of weeks before Anthropic changed its OpenClaw pricing policy.\nSteinberger’s frustration with Anthropic was again on display Friday. \nOne person implied that some of this is on him for taking a job at OpenAI instead of Anthropic, posting, “You had the choice, but you went to the wrong one.” To which Steinberger replied: “One welcomed me, one sent legal threats.”\nOuch.\nWhen multiple people asked him why he’s using Claude instead of his employer’s models at all, he explained that he only uses it for testing, to ensure updates to OpenClaw won’t break things for Claude users.\nHe explained: “You need to separate two things. My work at the OpenClaw Foundation where we wanna make OpenClaw work great for *any* model provider, and my job at OpenAI to help them with future product strategy.”\nMultiple people also pointed out that the need to test Claude is because that model remains a popular choice for OpenClaw users over ChatGPT. He also heard that when Anthropic changed its pricing, to which he replied: “Working on that.” (So, that’s a clue about what his job at OpenAI entails.)\nSteinberger did not respond to a request for comment.\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/04/ChatGPT-OpenClaw-Claude.jpg?w=150"
-      ],
-      "datePublished": "2026-04-10T20:27:52.000Z",
-      "dateModified": "2026-04-10T20:27:52.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "ChatGPT finally offers $100/month Pro plan",
-    "url": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1574154948-e1695647511123.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-04-09T21:29:11.000Z",
-    "description": "\nOpenAI announced on Thursday something that power users have been asking for forever: a $100/month plan. Until now, plans were priced at: free (which",
-    "body": "\nOpenAI announced on Thursday something that power users have been asking for forever: a $100/month plan. Until now, plans were priced at: free (which now includes ads), an $8/month Go plan (that also includes ads), a $20/month Plus plan (ad free), and then all the way up to a $200 Pro plan (also ad free).\nOpenAI’s pricing plan page currently does not list a $200/month plan at all. However, that highest tier is still available, OpenAI confirmed to TechCrunch.\nThe model maker says Plus (which remains at $20/month) and the new $100 Pro tier are geared to support daily usage of ChatGPT’s coding tool Codex. The $100 Pro plan will offer 5x more Codex than the Plus plan.\nOpenAI makes no bones that this new pricing tier is to challenge Anthropic, which has long had a $100/month option for Claude.\n“The new $100 Pro Tier is designed to give developers more practical coding capacity for the money, especially during high-intensity work sessions where limits matter most. Compared with Claude Code, Codex delivers more coding capacity per dollar across paid tiers, with the difference showing up most clearly during active coding use,” an OpenAI spokesperson tells TechCrunch. \nOne thing to know: OpenAI is offering even higher limits of Codex on the $100 plan through May 31. So anyone who tries the new tier, goes relatively mad with coding and never gets a rate warning: Be advised that such a situation likely won’t last.\nNone of the plans offer unlimited usage. The $200 plan, however, offers 20× higher limits than Plus. The model maker promises on its FAQ that this is enough to support “your most demanding workflows continuously, even across parallel projects.” Both Pro plans offer the same core features. The main difference is the rate limits, the company says.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThe spokesperson also says that more than 3 million people globally are using Codex every week, “up 5x in the past three months, with usage growing more than 70% month over month.”\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "ChatGPT finally offers $100/month Pro plan",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1574154948-e1695647511123.jpg?w=150"
-      ],
-      "datePublished": "2026-04-09T21:29:11.000Z",
-      "dateModified": "2026-04-09T21:29:11.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Nvidia-backed SiFive hits $3.65 billion valuation for open AI chips",
-    "url": "https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-3-65-billion-valuation-for-open-ai-chips/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/jensen-ces-2026-getty.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-04-11T14:03:00.000Z",
-    "description": "\nSiFive, a company founded in 2015 by the UC Berkeley engineers who created an open source chip design, has landed a $400 million oversubscribed round",
-    "body": "\nSiFive, a company founded in 2015 by the UC Berkeley engineers who created an open source chip design, has landed a $400 million oversubscribed round that values the company at $3.65 billion.\nThis deal is interesting for a bunch of reasons. For one, SiFive’s RISC-V open chip design is based on the RISC processor, not Intel’s x86 or ARM, the two major types of CPUs that currently feed Nvidia’s GPU computer system AI empire.\nAlso, Nvidia was investor in this round, alongside a long list of VCs, private equity, and hedge funds. The round was led by Atreides Management, founded by former Fidelity investor bigwig Gavin Baker. (Atreides was also an investor in Cerebras Systems $1 billion round). Other investors in the round include Apollo Global Management, D1 Capital Partners, Point72 Turion, T. Rowe Price Sutter Hill Ventures, and others.\nSiFive’s business model is like Arm’s was in years gone by — it licenses its chip designs to those who modify them for their own needs and does not sell the chips themselves. (In March, Arm changed its model when it launched the first-ever chip it manufactured, an AI chip, developed with Meta with customers including OpenAI, Cerebras, and Cloudflare.)\nSiFive stands in rarified air with chip designs that are open, not proprietary, as well as neutral, not reliant on specific customers. In fact, SiFive hasn’t raised since March 2022, Pitchbook estimates, when it brought in $175 million led by Coatue Management at a pre-money valuation of $2.33 billion. Intel Capital, Qualcomm Ventures, Aramco Ventures, were part of that round.\nRISC-V has been, until recently, better known as a chip for smaller uses, like embedded systems. But with this cash and Nvidia’s attention, SiFive is moving into CPUs for AI data centers. SiFive’s designs will work with Nvidia’s CUDA software and its NVLink Fusion, a rack server system that lets different CPUs plug into Nvidia’s “AI factory.”\nIn other words, as rivals Intel and AMD seek to compete with Nvidia’s GPU, Nvidia is backing an 11-year-old startup that can design CPUs on an open and completely alternate technology.  \n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Nvidia-backed SiFive hits $3.65 billion valuation for open AI chips",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/01/jensen-ces-2026-getty.jpg?w=150"
-      ],
-      "datePublished": "2026-04-11T14:03:00.000Z",
-      "dateModified": "2026-04-11T14:03:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "NASA Artemis II splashes down in Pacific Ocean in ‘perfect’ landing for Moon mission",
     "url": "https://techcrunch.com/2026/04/10/nasa-artemis-ii-landing-pacific-ocean-splash-down/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/artemis-II-Getty.jpg?w=150",
@@ -150,6 +75,31 @@
     }
   },
   {
+    "title": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
+    "url": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/ChatGPT-OpenClaw-Claude.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-04-10T20:27:52.000Z",
+    "description": "\n“Yeah folks, it’s gonna be harder in the future to ensure OpenClaw still works with Anthropic models,” OpenClaw creator Peter Steinberger posted on X",
+    "body": "\n“Yeah folks, it’s gonna be harder in the future to ensure OpenClaw still works with Anthropic models,” OpenClaw creator Peter Steinberger posted on X early Friday morning, along with a photo of a message from Anthropic saying his account had been suspended over “suspicious” activity.\nThe ban didn’t last long. A few hours later, after the post went viral, Steinberger said his account had been reinstated. Among hundreds of comments — many of them in conspiracy theory land, given that Steinberger is now employed by Anthropic rival OpenAI — was one by an Anthropic engineer. The engineer told the famed developer that Anthropic has never banned anyone for using OpenClaw and offered to help.\n\nIt’s not clear if that was the key that restored the account. (We’ve asked Anthropic about it.) But the whole message string was enlightening on many levels.\nTo recap the recent history: This ban followed news last week that subscriptions to Anthropic’s Claude would no longer cover “third-party harnesses including OpenClaw,” the AI model company said.\nOpenClaw users now have to pay for that usage separately, based on consumption, through Claude’s API. In essence, Anthropic, which offers its own agent, Cowork, is now charging a “claw tax.” Steinberger said he was following this new rule and using his API but was banned anyway.\nAnthropic said it instituted the pricing change because subscriptions weren’t built to handle the “usage patterns” of claws. Claws can be more compute-intensive than prompts or simple scripts because they may run continuous reasoning loops, automatically repeat or retry tasks, and tie into a lot of other third-party tools.\nSteinberger, however, wasn’t buying that excuse. After Anthropic changed the pricing, he posted, “Funny how timings match up, first they copy some popular features into their closed harness, then they lock out open source.” Though he didn’t specify, he may have been referring to features added to Claude’s Cowork agent, such as Claude Dispatch, which lets users remotely control agents and assign tasks. Dispatch rolled out a couple of weeks before Anthropic changed its OpenClaw pricing policy.\nSteinberger’s frustration with Anthropic was again on display Friday. \nOne person implied that some of this is on him for taking a job at OpenAI instead of Anthropic, posting, “You had the choice, but you went to the wrong one.” To which Steinberger replied: “One welcomed me, one sent legal threats.”\nOuch.\nWhen multiple people asked him why he’s using Claude instead of his employer’s models at all, he explained that he only uses it for testing, to ensure updates to OpenClaw won’t break things for Claude users.\nHe explained: “You need to separate two things. My work at the OpenClaw Foundation where we wanna make OpenClaw work great for *any* model provider, and my job at OpenAI to help them with future product strategy.”\nMultiple people also pointed out that the need to test Claude is because that model remains a popular choice for OpenClaw users over ChatGPT. He also heard that when Anthropic changed its pricing, to which he replied: “Working on that.” (So, that’s a clue about what his job at OpenAI entails.)\nSteinberger did not respond to a request for comment.\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/04/ChatGPT-OpenClaw-Claude.jpg?w=150"
+      ],
+      "datePublished": "2026-04-10T20:27:52.000Z",
+      "dateModified": "2026-04-10T20:27:52.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "YouTube Premium and YouTube Music are getting more expensive",
     "url": "https://techcrunch.com/2026/04/10/youtube-premium-youtube-music-subscription-price-increase/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2242441443.jpg?w=150",
@@ -175,22 +125,72 @@
     }
   },
   {
-    "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
-    "url": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/EU-ai-1258475609.jpg?w=150",
+    "title": "Nvidia-backed SiFive hits $3.65 billion valuation for open AI chips",
+    "url": "https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-3-65-billion-valuation-for-open-ai-chips/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/jensen-ces-2026-getty.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-04-09T20:11:55.000Z",
-    "description": "\nFlorida’s attorney general, James Uthmeier, announced Thursday that his office planned to investigate OpenAI over the alleged role of ChatGPT in a de",
-    "body": "\nFlorida’s attorney general, James Uthmeier, announced Thursday that his office planned to investigate OpenAI over the alleged role of ChatGPT in a deadly shooting last year.\nIn April 2025, a gunman opened fire on Florida State University’s campus, killing two and injuring five. Last week, attorneys for one of the victims of the shooting claimed that ChatGPT had been used to plan the attack. The family of the victim has said that they plan to sue OpenAI over the incident.\n“AI should advance mankind, not destroy it,” Uthmeier said in a statement posted to X. “We’re demanding answers on OpenAI’s activities that have hurt kids, endangered Americans, and facilitated the recent FSU mass shooting. Wrongdoers must be held accountable.” Uthmeier added in a video that subpoenas were “forthcoming” as part of the probe.\nChatGPT has been linked to a growing number of deaths and violent incidents — including murders, suicides, and shootings — and has added to worries over the advent of what psychologists call “AI psychosis,” delusions that are reinforced, encouraged, or deepened by communications with chatbots.\nFor example, Stein-Erik Soelberg, a man with a history of mental health issues, had regularly communicated with ChatGPT before he killed his mother and then himself last year, according to a Wall Street Journal investigation. The chatbot frequently seemed to reinforce the paranoid thoughts that consumed him in the lead-up to the murder-suicide.\nWhen reached for comment by TechCrunch, an OpenAI spokesperson provided the following statement: “Each week, more than 900 million people use ChatGPT to improve their daily lives through uses such as learning new skills or navigating complex healthcare systems. Our ongoing safety work continues to play an important role in delivering these benefits to everyday people, as well as supporting scientific research and discovery. We build ChatGPT to understand people’s intent and respond in a safe and appropriate way, and we continue improving our technology. We will cooperate with the Attorney General’s investigation.”\nFlorida’s probe continues a string of bad luck for OpenAI. A New Yorker profile on Sam Altman published earlier this week showed criticism and discontent within the company and among its investors, even quoting a Microsoft executive as saying: “I think there’s a small but real chance he’s eventually remembered as a Bernie Madoff- or Sam Bankman-Fried-level scammer.” Meanwhile, a Stargate-related project in the United Kingdom had to be paused, reportedly due to high energy costs and regulation.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n\n\n\t\n\t\tLucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. \nYou can contact Lucas by emailing lucas.ropek@techcrunch.com.\t\n\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-04-11T14:03:00.000Z",
+    "description": "\nSiFive, a company founded in 2015 by the UC Berkeley engineers who created an open source chip design, has landed a $400 million oversubscribed round",
+    "body": "\nSiFive, a company founded in 2015 by the UC Berkeley engineers who created an open source chip design, has landed a $400 million oversubscribed round that values the company at $3.65 billion.\nThis deal is interesting for a bunch of reasons. For one, SiFive’s RISC-V open chip design is based on the RISC processor, not Intel’s x86 or ARM, the two major types of CPUs that currently feed Nvidia’s GPU computer system AI empire.\nAlso, Nvidia was investor in this round, alongside a long list of VCs, private equity, and hedge funds. The round was led by Atreides Management, founded by former Fidelity investor bigwig Gavin Baker. (Atreides was also an investor in Cerebras Systems $1 billion round). Other investors in the round include Apollo Global Management, D1 Capital Partners, Point72 Turion, T. Rowe Price Sutter Hill Ventures, and others.\nSiFive’s business model is like Arm’s was in years gone by — it licenses its chip designs to those who modify them for their own needs and does not sell the chips themselves. (In March, Arm changed its model when it launched the first-ever chip it manufactured, an AI chip, developed with Meta with customers including OpenAI, Cerebras, and Cloudflare.)\nSiFive stands in rarified air with chip designs that are open, not proprietary, as well as neutral, not reliant on specific customers. In fact, SiFive hasn’t raised since March 2022, Pitchbook estimates, when it brought in $175 million led by Coatue Management at a pre-money valuation of $2.33 billion. Intel Capital, Qualcomm Ventures, Aramco Ventures, were part of that round.\nRISC-V has been, until recently, better known as a chip for smaller uses, like embedded systems. But with this cash and Nvidia’s attention, SiFive is moving into CPUs for AI data centers. SiFive’s designs will work with Nvidia’s CUDA software and its NVLink Fusion, a rack server system that lets different CPUs plug into Nvidia’s “AI factory.”\nIn other words, as rivals Intel and AMD seek to compete with Nvidia’s GPU, Nvidia is backing an 11-year-old startup that can design CPUs on an open and completely alternate technology.  \n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
+      "headline": "Nvidia-backed SiFive hits $3.65 billion valuation for open AI chips",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/02/EU-ai-1258475609.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/01/jensen-ces-2026-getty.jpg?w=150"
       ],
-      "datePublished": "2026-04-09T20:11:55.000Z",
-      "dateModified": "2026-04-09T20:11:55.000Z",
+      "datePublished": "2026-04-11T14:03:00.000Z",
+      "dateModified": "2026-04-11T14:03:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
+    "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-04-11T17:18:22.000Z",
+    "description": "\nOpenAI CEO Sam Altman published a blog post on Friday evening responding to both an apparent attack on his home and an in-depth New Yorker profile ra",
+    "body": "\nOpenAI CEO Sam Altman published a blog post on Friday evening responding to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.\nEarly Friday morning, someone allegedly threw a Molotov cocktail at Altman’s San Francisco home. No one was hurt in the incident, and a suspect was later arrested at OpenAI headquarters, where he was threatening to burn down the building, according to the SF Police Department.\nWhile the police have not identified the suspect publicly, Altman noted that the incident came a few days after “an incendiary article” was published about him. He said someone had suggested that the article’s publication “at a time of great anxiety about AI” could make things “more dangerous” for him.\n“I brushed it aside,” Altman said. “Now I am awake in the middle of the night and pissed, and thinking that I have underestimated the power of words and narratives.”\nThe article in question was a lengthy investigative piece written by Ronan Farrow (who won a Pulitzer for reporting that revealed many of the sexual abuse allegations around Harvey Weinstein) and Andrew Marantz (who’s written extensively about technology and politics).\nFarrow and Marantz said that during interviews with more than 100 people who have knowledge of Altman’s business conduct, most described Altman as someone with “a relentless will to power that, even among industrialists who put their names on spaceships, sets him apart.” \nEchoing other journalists who have profiled Altman, Farrow and Marantz suggested that many sources raised questions about his trustworthiness, with one anonymous board member saying he combines “a strong desire to please people, to be liked in any given interaction” with “a sociopathic lack of concern for the consequences that may come from deceiving someone.”\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nIn his response, Altman said that looking back, he can identify “a lot of things I’m proud of and a bunch of mistakes.”\nAmong the mistakes, he said, is a tendency towards “being conflict-averse,” which he said has “caused great pain for me and OpenAI.”\n“I am not proud of handling myself badly in a conflict with our previous board that led to a huge mess for the company,” Altman said, presumably referring to his removal and rapid reinstatement as OpenAI CEO back in 2023. “I have made many other mistakes throughout the insane trajectory of OpenAI; I am a flawed person in the center of an exceptionally complex situation, trying to get a little better each year, always working for the mission.”\nHe added, “I am sorry to people I’ve hurt and wish I had learned more faster.”\nAltman also acknowledged that there seems to be “so much Shakespearean drama between the companies in our field,” which he attributed to a “‘ring of power’ dynamic” that “makes people do crazy things.”\nOf course, the correct way to deal with the ring of power is to destroy it, so Altman added, “I don’t mean that [artificial general intelligence] is the ring itself, but instead the totalizing philosophy of ‘being the one to control AGI.’” His proposed solution is “to orient towards sharing the technology with people broadly, and for no one to have the ring.”\nAltman concluded by saying that he welcomes “good-faith criticism and debate,” while reiterating his belief that “technological progress can make the future unbelievably good, for your family and mine.”\n“While we have that debate, we should de-escalate the rhetoric and tactics and try to have fewer explosions in fewer homes, figuratively and literally,” he said.\n\n\n\t\tAnthony Ha is TechCrunch’s weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local government reporter at the Hollister Free Lance, and vice president of content at a VC firm. He lives in New York City.\nYou can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?w=150"
+      ],
+      "datePublished": "2026-04-11T17:18:22.000Z",
+      "dateModified": "2026-04-11T17:18:22.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "ChatGPT finally offers $100/month Pro plan",
+    "url": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1574154948-e1695647511123.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-04-09T21:29:11.000Z",
+    "description": "\nOpenAI announced on Thursday something that power users have been asking for forever: a $100/month plan. Until now, plans were priced at: free (which",
+    "body": "\nOpenAI announced on Thursday something that power users have been asking for forever: a $100/month plan. Until now, plans were priced at: free (which now includes ads), an $8/month Go plan (that also includes ads), a $20/month Plus plan (ad free), and then all the way up to a $200 Pro plan (also ad free).\nOpenAI’s pricing plan page currently does not list a $200/month plan at all. However, that highest tier is still available, OpenAI confirmed to TechCrunch.\nThe model maker says Plus (which remains at $20/month) and the new $100 Pro tier are geared to support daily usage of ChatGPT’s coding tool Codex. The $100 Pro plan will offer 5x more Codex than the Plus plan.\nOpenAI makes no bones that this new pricing tier is to challenge Anthropic, which has long had a $100/month option for Claude.\n“The new $100 Pro Tier is designed to give developers more practical coding capacity for the money, especially during high-intensity work sessions where limits matter most. Compared with Claude Code, Codex delivers more coding capacity per dollar across paid tiers, with the difference showing up most clearly during active coding use,” an OpenAI spokesperson tells TechCrunch. \nOne thing to know: OpenAI is offering even higher limits of Codex on the $100 plan through May 31. So anyone who tries the new tier, goes relatively mad with coding and never gets a rate warning: Be advised that such a situation likely won’t last.\nNone of the plans offer unlimited usage. The $200 plan, however, offers 20× higher limits than Plus. The model maker promises on its FAQ that this is enough to support “your most demanding workflows continuously, even across parallel projects.” Both Pro plans offer the same core features. The main difference is the rate limits, the company says.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThe spokesperson also says that more than 3 million people globally are using Codex every week, “up 5x in the past three months, with usage growing more than 70% month over month.”\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "ChatGPT finally offers $100/month Pro plan",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1574154948-e1695647511123.jpg?w=150"
+      ],
+      "datePublished": "2026-04-09T21:29:11.000Z",
+      "dateModified": "2026-04-09T21:29:11.000Z",
       "author": [
         {
           "@type": "Person",
@@ -225,6 +225,31 @@
     }
   },
   {
+    "title": "How to watch NASA’s Artemis II splash back down to Earth",
+    "url": "https://techcrunch.com/2026/04/10/how-to-watch-nasa-artemis-ii-landing/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/art002e008487large.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-04-10T21:18:09.000Z",
+    "description": "\nNASA’s Artemis II crew of four astronauts from the United States and Canada are set to return to Earth on Friday after their historic trip to the far",
+    "body": "\nNASA’s Artemis II crew of four astronauts from the United States and Canada are set to return to Earth on Friday after their historic trip to the far side of the moon.\nReid Wiseman, Victor Glover, Christina Koch, and Jeremy Hansen have spent 10 days aboard the Orion spacecraft. They are expected to begin re-entry at 7:33 p.m. ET with a splashdown of 8:07 p.m.\nNASA has a live feed for when the crew lands in the Pacific Ocean later today. The Orion spacecraft is expected to splash down off the coast of San Diego, California.\n\n\n\nThe Artemis II mission marks the first time humans have ventured to the moon’s orbit in more than 50 years. The crew traveled farther from Earth than any humans have before, reaching an estimated 252,760 miles from our planet. That’s the same distance as traveling between New York City and Los Angeles around 100 times, only the astronauts are inside a capsule with 330 cubic feet of habitable space, which is about the size of two minivans.\nThe objective of the Artemis II mission is to collect data and insights that will help NASA prepare for future lunar missions and landings — the astronauts put the Orion spacecraft through planned tests to evaluate how it performs with a crew in deep space. This involves testing communication systems with colleagues on Earth, making trajectory adjustments, and making a safe re-entry and splashdown.\nThe splashdown could be one of the most dangerous moments of the whole mission. On the Artemis I mission in 2022, which did not have a crew, Orion’s protective heat shield was unexpectedly damaged upon its return to Earth. The heat shield is made of AVCOAT — a material designed to slowly dissipate and protect the crew from temperatures approaching 5,000 degrees as it penetrates Earth’s atmosphere — but the shield was charred and cracking in places, which was not supposed to happen.\nIf humans had been aboard Artemis I, they would’ve still returned safely, NASA said. The agency has also conducted extensive research on how the heat shield was damaged in the first place. Still, the heat shield remains top of mind as people around the world hope to see these four astronauts return safely.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThe crew left Earth on April 1, and the astronauts quickly encountered some mundane mishaps, including issues with Microsoft Office and their toilet. But these early moments were easily overshadowed by the wonder of the images and information that the crew sent back from the moon. You can already see new photos from the lunar flyby on the dark side of the moon.\nThe astronauts also named new craters, including one that was named after mission commander Wiseman’s late wife Carroll, who died of cancer in 2020 at age 46.\nThe crew was also able to witness a total solar eclipse from just a few thousand miles away from the moon, a unique vantage point that no astronaut had experienced before.\n“It wasn’t just an eclipse with the Sun hidden behind the Moon,” Koch, the crew’s mission specialist, explained. “We could also see earthshine, the Sun’s light reflecting off Earth, wrapping the Moon in a soft, borrowed glow.”\nThe rest of the live broadcast is streaming here. \n\n\n\n\n\n\n\t\tAmanda Silberling is a senior writer at TechCrunch covering the intersection of technology and culture. She has also written for publications like Polygon, MTV, the Kenyon Review, NPR, and Business Insider. She is the co-host of Wow If True, a podcast about internet culture, with science fiction author Isabel J. Kim. Prior to joining TechCrunch, she worked as a grassroots organizer, museum educator, and film festival coordinator. She holds a B.A. in English from the University of Pennsylvania and served as a Princeton in Asia Fellow in Laos.\nYou can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal. \t\n\t\n\t\tView Bio \n\t\n\n\n\n\t\n\t\tGraham Starr is the deputy editor of TechCrunch. He has led teams of reporters to break news on some of the biggest stories in tech, media, and health care for ADWEEK, Bloomberg News, Business Insider, and The New York Times.\t\n\n\t\n\t\tView Bio \n\t\n\n\t",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "How to watch NASA’s Artemis II splash back down to Earth",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/04/art002e008487large.jpg?w=150"
+      ],
+      "datePublished": "2026-04-10T21:18:09.000Z",
+      "dateModified": "2026-04-10T21:18:09.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Volkswagen drops all-electric ID.4 in the US in pivot back to gas SUVs",
     "url": "https://techcrunch.com/2026/04/09/volkswagen-drops-all-electric-id-4-in-the-us-in-pivot-back-to-gas-suvs/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/vw-id4-ev.jpg?w=150",
@@ -241,31 +266,6 @@
       ],
       "datePublished": "2026-04-09T21:01:36.000Z",
       "dateModified": "2026-04-09T21:01:36.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "StubHub to pay $10M to settle FTC allegations over ‘deceptive’ ticket pricing",
-    "url": "https://techcrunch.com/2026/04/09/stubhub-to-pay-10m-to-settle-ftc-allegations-over-deceptive-ticket-pricing/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2174603749.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-04-09T20:04:12.000Z",
-    "description": "\nStubHub has agreed to pay $10 million to settle Federal Trade Commission (FTC) allegations that the ticket marketplace failed to clearly disclose the",
-    "body": "\nStubHub has agreed to pay $10 million to settle Federal Trade Commission (FTC) allegations that the ticket marketplace failed to clearly disclose the full price of tickets.\nThe federal agency said in a proposed settlement filed on Thursday that StubHub violated the FTC Act and its Rule on Unfair or Deceptive Fees by “deceptively” advertising ticket prices on its website without clearly disclosing upfront what the total cost would be, including all mandatory fees.\nIn May 2025, the FTC began requiring ticket marketplaces ensure price transparency at all stages of the ticket-purchase process. The agency’s complaint alleges that after the rule went into effect, StubHub advertised its ticket prices without disclosing the full price.\n“Given StubHub’s experience and public support for the rule, I was disappointed to learn that it was allegedly one of the rule’s first major violators,” FTC Chair Andrew Ferguson said in his statement. “[…] StubHub chose to slow-walk compliance with the rule in part because the NFL was about to release its regular-season schedule. The complaint notes that the NFL schedule release is ‘a 99th percentile traffic event’ for StubHub and alleges that executives decided that the competitive advantage from misleading consumers outweighed the risk of being caught.”\nThe FTC sent a warning letter to StubHub on May 14, 2025, and the company fixed the issue the next day.\nThe $10 million secured by the FTC will cover StubHub’s three days of noncompliance with the rule and will be used to return “ill-gotten” profits to consumers through refunds of the fees paid to StubHub, Ferguson wrote.\n“We have long supported all-in pricing because it provides clarity for fans,” a StubHub spokesperson said in a statement to TechCrunch. “This settlement covers a limited number of transactions, spanning just three days in May 2025, where some listings on our site may have displayed ticket prices exclusive of fees. While we strongly disagree with the FTC’s view of the case, we are addressing their concerns by refunding a portion of those buyers’ fees.”\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThe case against StubHub marks the FTC’s latest crackdown on ticket marketplaces. Last September, the agency sued Ticketmaster and its parent company, Live Nation, for engaging in illegal ticket resale tactics and deceiving consumers about price and ticket limits. The companies have asked a federal judge to throw out the case.\nLast August, the FTC sued a Maryland-based ticket broker for allegedly using unlawful tactics to bypass ticket purchasing limits for popular events, such as Taylor Swift’s Eras Tour, and then reselling those tickets at significantly higher prices.\n\n\n\t\tAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing aisha@techcrunch.com or via encrypted message at aisha_malik.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "StubHub to pay $10M to settle FTC allegations over ‘deceptive’ ticket pricing",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2174603749.jpg?w=150"
-      ],
-      "datePublished": "2026-04-09T20:04:12.000Z",
-      "dateModified": "2026-04-09T20:04:12.000Z",
       "author": [
         {
           "@type": "Person",
@@ -300,6 +300,31 @@
     }
   },
   {
+    "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
+    "url": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/EU-ai-1258475609.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-04-09T20:11:55.000Z",
+    "description": "\nFlorida’s attorney general, James Uthmeier, announced Thursday that his office planned to investigate OpenAI over the alleged role of ChatGPT in a de",
+    "body": "\nFlorida’s attorney general, James Uthmeier, announced Thursday that his office planned to investigate OpenAI over the alleged role of ChatGPT in a deadly shooting last year.\nIn April 2025, a gunman opened fire on Florida State University’s campus, killing two and injuring five. Last week, attorneys for one of the victims of the shooting claimed that ChatGPT had been used to plan the attack. The family of the victim has said that they plan to sue OpenAI over the incident.\n“AI should advance mankind, not destroy it,” Uthmeier said in a statement posted to X. “We’re demanding answers on OpenAI’s activities that have hurt kids, endangered Americans, and facilitated the recent FSU mass shooting. Wrongdoers must be held accountable.” Uthmeier added in a video that subpoenas were “forthcoming” as part of the probe.\nChatGPT has been linked to a growing number of deaths and violent incidents — including murders, suicides, and shootings — and has added to worries over the advent of what psychologists call “AI psychosis,” delusions that are reinforced, encouraged, or deepened by communications with chatbots.\nFor example, Stein-Erik Soelberg, a man with a history of mental health issues, had regularly communicated with ChatGPT before he killed his mother and then himself last year, according to a Wall Street Journal investigation. The chatbot frequently seemed to reinforce the paranoid thoughts that consumed him in the lead-up to the murder-suicide.\nWhen reached for comment by TechCrunch, an OpenAI spokesperson provided the following statement: “Each week, more than 900 million people use ChatGPT to improve their daily lives through uses such as learning new skills or navigating complex healthcare systems. Our ongoing safety work continues to play an important role in delivering these benefits to everyday people, as well as supporting scientific research and discovery. We build ChatGPT to understand people’s intent and respond in a safe and appropriate way, and we continue improving our technology. We will cooperate with the Attorney General’s investigation.”\nFlorida’s probe continues a string of bad luck for OpenAI. A New Yorker profile on Sam Altman published earlier this week showed criticism and discontent within the company and among its investors, even quoting a Microsoft executive as saying: “I think there’s a small but real chance he’s eventually remembered as a Bernie Madoff- or Sam Bankman-Fried-level scammer.” Meanwhile, a Stargate-related project in the United Kingdom had to be paused, reportedly due to high energy costs and regulation.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n\n\n\t\n\t\tLucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. \nYou can contact Lucas by emailing lucas.ropek@techcrunch.com.\t\n\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/02/EU-ai-1258475609.jpg?w=150"
+      ],
+      "datePublished": "2026-04-09T20:11:55.000Z",
+      "dateModified": "2026-04-09T20:11:55.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "PSA: If you use the Meta AI app, your friends will find out and it will be embarrassing",
     "url": "https://techcrunch.com/2026/04/10/psa-if-you-use-the-meta-ai-app-your-friends-will-find-out-and-it-will-be-embarrassing/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-183765661.jpg?w=150",
@@ -325,47 +350,22 @@
     }
   },
   {
-    "title": "Last 24 hours: Save up to $500 on your TechCrunch Disrupt 2026 pass",
-    "url": "https://techcrunch.com/2026/04/10/final-24-hours-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/",
-    "image": "https://techcrunch.com/wp-content/uploads/2018/10/27055664959_5fbe947d9b_o.jpg?w=150",
+    "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
+    "url": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1733837014-e.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-04-10T14:00:00.000Z",
-    "description": "\nThis is it. The clock is running out. Tonight is your last chance to lock in savings of up to $500 for your TechCrunch Disrupt 2026 pass. These disco",
-    "body": "\nThis is it. The clock is running out. Tonight is your last chance to lock in savings of up to $500 for your TechCrunch Disrupt 2026 pass. These discounts end at 11:59 p.m. PT.\nRegister here to secure yours with the limited-time offer.\n\nWhat Disrupt delivers year after year\nThis year, Disrupt takes over San Francisco’s Moscone West from October 13–15, bringing together 10,000 founders, VCs, operators, and tech leaders for a tightly curated, three-day experience focused on real outcomes.\nAttendees return for:\n\nHigh-signal access to people actively building and investing.\n\n\nConversations that turn into deals, partnerships, and hires.\n\n\nTactical insights you can use immediately.\n\n\nA front-row view into the future of tech before it breaks mainstream.\n\nWith 300+ startups expected to showcase their innovations across the venue, the intensity of the live pitch competition Startup Battlefield 200, and curated networking designed to drive results, Disrupt isn’t just another conference. It’s where momentum is built.\nImage Credits:Eric Slomonson, The Photo Group\nA more curated way to experience a tech event\nDisrupt isn’t about wandering between sessions. It’s about intentional connections and curated experiences designed for how people actually grow in tech. If you’re hands-on in tech, Disrupt was built for you.\nFounders meet investors actively backing breakthrough ideas. VCs cut through the noise to discover startups aligned with their investment focus. Operators exchange real-world lessons on building, scaling, and shipping what’s next. Aspiring innovators get a front-row seat to tomorrow’s tech.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nImage Credits:TechCrunch\nInsights delivered straight to you from tech’s top voices\nEach Disrupt brings together 250+ of the most influential names in tech, leaders who have shaped the industry and continue to define what’s next. Keep an eye on the Disrupt 2026 event page as the agenda goes live to see who will take the stage this year. Past speakers include:\n\nChris Barman, CEO, Slate Auto.\n\n\nMary Barra, CEO, General Motors.\n\n\nRoelof Botha, managing partner, Sequoia Capital.\n\n\nPhoebe Gates and Sophia Kianni, co-founders, Phia.\n\n\nVinod Khosla, founder, Khosla Ventures.\n\n\nRoy Lee, co-founder and CEO, Cluely.\n\n\nTekedra Mawakana, co-CEO, Waymo.\n\n\nMatt Mullenweg, co-founder, WordPress, and CEO, Automattic\n\n\nKevin Scott, CTO, Microsoft.\n\n\nElizabeth Stone, CTO, Netflix.\n\n\nTristan Thompson, NBA champion and fintech entrepreneur.\n\n\nAstro Teller, captain of moonshots, X.\n\n\nAnatoly Yakovenko, co-founder, Solana, and CEO, Solana Labs\n\nImage Credits:Kimberly White / Getty Images\nFinal warning: Only hours remain for this discount\nAt 11:59 p.m. PT tonight, prices go up and this opportunity will be gone. Disrupt will still be filled with the same founders, investors, and operators you’ll meet. The only difference is what you paid to be there.\nIf Disrupt is part of your 2026 strategy, make the move now. Secure your pass, lock in the savings, and step into the conversations that move your business forward. Register before today ends.\nImage Credits:Slava Blazer Photography\n",
+    "date": "2026-04-10T16:41:34.000Z",
+    "description": "\nAfter months of conversations with ChatGPT,  a 53-year-old Silicon Valley entrepreneur became convinced he’d discovered a cure for sleep apnea and th",
+    "body": "\nAfter months of conversations with ChatGPT,  a 53-year-old Silicon Valley entrepreneur became convinced he’d discovered a cure for sleep apnea and that powerful people were coming after him, according to a new lawsuit filed in California Superior Court in San Francisco County. He then allegedly used the tool to stalk and harass his ex-girlfriend.\nNow the ex-girlfriend is suing OpenAI, alleging the company’s technology enabled the acceleration of her harassment, TechCrunch has exclusively learned. She claims OpenAI ignored three separate warnings that the user posed a threat to others, including an internal flag classifying his account activity as involving mass-casualty weapons. \nThe plaintiff, referred to as Jane Doe to protect her identity, is suing for punitive damages. She also filed a temporary restraining order Friday asking the court to force OpenAI to block the user’s account, prevent him from creating new ones, notify her if he attempts to access ChatGPT, and preserve his complete chat logs for discovery.\nOpenAI has agreed to suspend the user’s account but has refused the rest, according to Doe’s lawyers. They say the company is withholding information about specific plans for harming Doe and other potential victims the user may have discussed with ChatGPT.\nThe lawsuit lands amid growing concern over the real-world risks of sycophantic AI systems. GPT-4o, the model cited in this and many other cases, was retired from ChatGPT in February. \nThe case is brought by Edelson PC, the firm behind the wrongful death suits involving teenager Adam Raine, who died by suicide after months of conversations with ChatGPT, and Jonathan Gavalas, whose family alleges Google’s Gemini fueled his delusions and potential mass-casualty event before his death. Lead attorney Jay Edelson has warned that AI-induced psychosis is escalating from individual harm toward mass-casualty events.\nThat legal pressure is now colliding directly with OpenAI’s legislative strategy: The company is backing an Illinois bill that would shield AI labs from liability even in cases involving mass deaths or catastrophic financial harm. \n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nOpenAI did not respond in time to comment. TechCrunch will update the article if the company responds.\nThe Jane Doe lawsuit lays out in detail how that liability played out for one woman over several months.\nLast year, the ChatGPT user in the lawsuit (whose name is not included in the lawsuit to protect his identity) became convinced that he had invented a cure for sleep apnea after months of “high volume, sustained use of GPT-4o.” When no one took his work seriously, ChatGPT told him that “powerful forces” were watching him, including using helicopters to surveil his activities, according to the complaint. \nIn July 2025, Jane Doe urged him to stop using ChatGPT and to seek help from a mental health professional. He instead turned back to ChatGPT, which assured him he was “a level 10 in sanity” and helped him double down on his delusions, per the lawsuit. \nDoe had broken up with the user in 2024, and he used ChatGPT to process the split, according to emails and communications cited in the lawsuit. Rather than push back on his one-sided account, it repeatedly cast him as rational and wronged, and her as manipulative and unstable. He then took these AI-generated conclusions off the screen and into the real world, using them to stalk and harass her. This manifested in several AI-generated, clinical-looking psychological reports that he distributed to her family, friends, and employer. \nMeanwhile, the user continued to spiral. In August 2025, OpenAI’s automated safety system flagged him for “Mass Casualty Weapons” activity and deactivated his account. \nA human safety team member reviewed the account the next day and restored it, even though his account may have contained evidence that he was targeting and stalking individuals, including Doe, in real life. For example, a September screenshot the user sent to Doe showed a list of conversation titles including “violence list expansion” and “fetal suffocation calculation.”\nThe decision to reinstate is notable following two recent school shootings in Tumbler Ridge, Canada, and at Florida State University (FSU). OpenAI’s safety team had flagged the Tumbler Ridge shooter as a potential threat, but higher-ups reportedly decided not to alert authorities. Florida’s attorney general this week opened an investigation into OpenAI’s possible link with the FSU shooter.\nAccording to the Jane Doe lawsuit, when OpenAI restored her stalker’s account, his Pro subscription wasn’t reinstated alongside it. He emailed the trust and safety team to sort it out, copying Doe on the message. \nIn his emails, he wrote things like: “I NEED HELP VERY FAST, PLEASE. PLEASE CALL ME!” and “this is a matter of life or death.” He claimed he was “in the process of writing 215 scientific papers,” which he was writing so fast he didn’t “even have time to read.” Included in those emails was a list of tens of AI-generated “scientific papers” with titles like: “Deconstructing Race as a Biological Category_ Legal, Scientific, and Horn of Africa Perspectives.pdf.txt.”\n“The user’s communications provided unmistakable notice that he was mentally unstable and that ChatGPT was the engine of his delusional thinking and escalating conduct,” the lawsuit states. “The user’s stream of urgent, disorganized, and grandiose claims, along with a concrete ChatGPT-generated report targeting Plaintiff by name and a sprawling body of purported ‘scientific’ materials, was unmistakable evidence of that reality. OpenAI did not intervene, restrict his access, or implement any safeguards. Instead, it enabled him to continue using the account and restored his full Pro access.”\nDoe, who claims in the lawsuit that she was living in fear and could not sleep in her own home, submitted a Notice of Abuse to OpenAI in November.\n“For the last seven months, he has weaponized this technology to create public destruction and humiliation against me that would have been impossible otherwise,” Doe wrote in her letter to OpenAI requesting the company permanently ban the user’s account.\nOpenAI responded, acknowledging the report was “extremely serious and troubling” and that it was carefully reviewing the information. Doe never heard back.\nOver the next couple of months, the user continued to harass Doe, sending her a series of threatening voicemails. In January, he was arrested and charged with four felony counts of communicating bomb threats and assault with a deadly weapon. Doe’s lawyers allege this validates warnings both she and OpenAI’s own safety systems had raised months earlier, warnings the company allegedly chose to ignore.\nThe user was found incompetent to stand trial and committed to a mental health facility, but a “procedural failure by the State” means he will soon be released to the public, according to Doe’s lawyers. \nEdelson called on OpenAI to cooperate. “In every case, OpenAI has chosen to hide critical safety information — from the public, from victims, from people its product is actively putting in danger,” he said. “We’re calling on them, for once, to do the right thing. Human lives must mean more than OpenAI’s race to an IPO.”\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Last 24 hours: Save up to $500 on your TechCrunch Disrupt 2026 pass",
+      "headline": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2018/10/27055664959_5fbe947d9b_o.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1733837014-e.jpg?w=150"
       ],
-      "datePublished": "2026-04-10T14:00:00.000Z",
-      "dateModified": "2026-04-10T14:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "How to watch NASA’s Artemis II splash back down to Earth",
-    "url": "https://techcrunch.com/2026/04/10/how-to-watch-nasa-artemis-ii-landing/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/art002e008487large.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-04-10T21:18:09.000Z",
-    "description": "\nNASA’s Artemis II crew of four astronauts from the United States and Canada are set to return to Earth on Friday after their historic trip to the far",
-    "body": "\nNASA’s Artemis II crew of four astronauts from the United States and Canada are set to return to Earth on Friday after their historic trip to the far side of the moon.\nReid Wiseman, Victor Glover, Christina Koch, and Jeremy Hansen have spent 10 days aboard the Orion spacecraft. They are expected to begin re-entry at 7:33 p.m. ET with a splashdown of 8:07 p.m.\nNASA has a live feed for when the crew lands in the Pacific Ocean later today. The Orion spacecraft is expected to splash down off the coast of San Diego, California.\n\n\n\nThe Artemis II mission marks the first time humans have ventured to the moon’s orbit in more than 50 years. The crew traveled farther from Earth than any humans have before, reaching an estimated 252,760 miles from our planet. That’s the same distance as traveling between New York City and Los Angeles around 100 times, only the astronauts are inside a capsule with 330 cubic feet of habitable space, which is about the size of two minivans.\nThe objective of the Artemis II mission is to collect data and insights that will help NASA prepare for future lunar missions and landings — the astronauts put the Orion spacecraft through planned tests to evaluate how it performs with a crew in deep space. This involves testing communication systems with colleagues on Earth, making trajectory adjustments, and making a safe re-entry and splashdown.\nThe splashdown could be one of the most dangerous moments of the whole mission. On the Artemis I mission in 2022, which did not have a crew, Orion’s protective heat shield was unexpectedly damaged upon its return to Earth. The heat shield is made of AVCOAT — a material designed to slowly dissipate and protect the crew from temperatures approaching 5,000 degrees as it penetrates Earth’s atmosphere — but the shield was charred and cracking in places, which was not supposed to happen.\nIf humans had been aboard Artemis I, they would’ve still returned safely, NASA said. The agency has also conducted extensive research on how the heat shield was damaged in the first place. Still, the heat shield remains top of mind as people around the world hope to see these four astronauts return safely.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThe crew left Earth on April 1, and the astronauts quickly encountered some mundane mishaps, including issues with Microsoft Office and their toilet. But these early moments were easily overshadowed by the wonder of the images and information that the crew sent back from the moon. You can already see new photos from the lunar flyby on the dark side of the moon.\nThe astronauts also named new craters, including one that was named after mission commander Wiseman’s late wife Carroll, who died of cancer in 2020 at age 46.\nThe crew was also able to witness a total solar eclipse from just a few thousand miles away from the moon, a unique vantage point that no astronaut had experienced before.\n“It wasn’t just an eclipse with the Sun hidden behind the Moon,” Koch, the crew’s mission specialist, explained. “We could also see earthshine, the Sun’s light reflecting off Earth, wrapping the Moon in a soft, borrowed glow.”\nThe rest of the live broadcast is streaming here. \n\n\n\n\n\n\n\t\tAmanda Silberling is a senior writer at TechCrunch covering the intersection of technology and culture. She has also written for publications like Polygon, MTV, the Kenyon Review, NPR, and Business Insider. She is the co-host of Wow If True, a podcast about internet culture, with science fiction author Isabel J. Kim. Prior to joining TechCrunch, she worked as a grassroots organizer, museum educator, and film festival coordinator. She holds a B.A. in English from the University of Pennsylvania and served as a Princeton in Asia Fellow in Laos.\nYou can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal. \t\n\t\n\t\tView Bio \n\t\n\n\n\n\t\n\t\tGraham Starr is the deputy editor of TechCrunch. He has led teams of reporters to break news on some of the biggest stories in tech, media, and health care for ADWEEK, Bloomberg News, Business Insider, and The New York Times.\t\n\n\t\n\t\tView Bio \n\t\n\n\t",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "How to watch NASA’s Artemis II splash back down to Earth",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/04/art002e008487large.jpg?w=150"
-      ],
-      "datePublished": "2026-04-10T21:18:09.000Z",
-      "dateModified": "2026-04-10T21:18:09.000Z",
+      "datePublished": "2026-04-10T16:41:34.000Z",
+      "dateModified": "2026-04-10T16:41:34.000Z",
       "author": [
         {
           "@type": "Person",
