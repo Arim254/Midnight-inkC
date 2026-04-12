@@ -75,6 +75,31 @@
     }
   },
   {
+    "title": "Nvidia-backed SiFive hits $3.65 billion valuation for open AI chips",
+    "url": "https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-3-65-billion-valuation-for-open-ai-chips/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/jensen-ces-2026-getty.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-04-11T14:03:00.000Z",
+    "description": "\nSiFive, a company founded in 2015 by the UC Berkeley engineers who created an open source chip design, has landed a $400 million oversubscribed round",
+    "body": "\nSiFive, a company founded in 2015 by the UC Berkeley engineers who created an open source chip design, has landed a $400 million oversubscribed round that values the company at $3.65 billion.\nThis deal is interesting for a bunch of reasons. For one, SiFive’s RISC-V open chip design is based on the RISC processor, not Intel’s x86 or ARM, the two major types of CPUs that currently feed Nvidia’s GPU computer system AI empire.\nAlso, Nvidia was investor in this round, alongside a long list of VCs, private equity, and hedge funds. The round was led by Atreides Management, founded by former Fidelity investor bigwig Gavin Baker. (Atreides was also an investor in Cerebras Systems $1 billion round). Other investors in the round include Apollo Global Management, D1 Capital Partners, Point72 Turion, T. Rowe Price Sutter Hill Ventures, and others.\nSiFive’s business model is like Arm’s was in years gone by — it licenses its chip designs to those who modify them for their own needs and does not sell the chips themselves. (In March, Arm changed its model when it launched the first-ever chip it manufactured, an AI chip, developed with Meta with customers including OpenAI, Cerebras, and Cloudflare.)\nSiFive stands in rarified air with chip designs that are open, not proprietary, as well as neutral, not reliant on specific customers. In fact, SiFive hasn’t raised since March 2022, Pitchbook estimates, when it brought in $175 million led by Coatue Management at a pre-money valuation of $2.33 billion. Intel Capital, Qualcomm Ventures, Aramco Ventures, were part of that round.\nRISC-V has been, until recently, better known as a chip for smaller uses, like embedded systems. But with this cash and Nvidia’s attention, SiFive is moving into CPUs for AI data centers. SiFive’s designs will work with Nvidia’s CUDA software and its NVLink Fusion, a rack server system that lets different CPUs plug into Nvidia’s “AI factory.”\nIn other words, as rivals Intel and AMD seek to compete with Nvidia’s GPU, Nvidia is backing an 11-year-old startup that can design CPUs on an open and completely alternate technology.  \n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Nvidia-backed SiFive hits $3.65 billion valuation for open AI chips",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/01/jensen-ces-2026-getty.jpg?w=150"
+      ],
+      "datePublished": "2026-04-11T14:03:00.000Z",
+      "dateModified": "2026-04-11T14:03:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
     "url": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/ChatGPT-OpenClaw-Claude.jpg?w=150",
@@ -150,22 +175,22 @@
     }
   },
   {
-    "title": "ChatGPT finally offers $100/month Pro plan",
-    "url": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1574154948-e1695647511123.jpg?w=150",
+    "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
+    "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-04-09T21:29:11.000Z",
-    "description": "\nOpenAI announced on Thursday something that power users have been asking for forever: a $100/month plan. Until now, plans were priced at: free (which",
-    "body": "\nOpenAI announced on Thursday something that power users have been asking for forever: a $100/month plan. Until now, plans were priced at: free (which now includes ads), an $8/month Go plan (that also includes ads), a $20/month Plus plan (ad free), and then all the way up to a $200 Pro plan (also ad free).\nOpenAI’s pricing plan page currently does not list a $200/month plan at all. However, that highest tier is still available, OpenAI confirmed to TechCrunch.\nThe model maker says Plus (which remains at $20/month) and the new $100 Pro tier are geared to support daily usage of ChatGPT’s coding tool Codex. The $100 Pro plan will offer 5x more Codex than the Plus plan.\nOpenAI makes no bones that this new pricing tier is to challenge Anthropic, which has long had a $100/month option for Claude.\n“The new $100 Pro Tier is designed to give developers more practical coding capacity for the money, especially during high-intensity work sessions where limits matter most. Compared with Claude Code, Codex delivers more coding capacity per dollar across paid tiers, with the difference showing up most clearly during active coding use,” an OpenAI spokesperson tells TechCrunch. \nOne thing to know: OpenAI is offering even higher limits of Codex on the $100 plan through May 31. So anyone who tries the new tier, goes relatively mad with coding and never gets a rate warning: Be advised that such a situation likely won’t last.\nNone of the plans offer unlimited usage. The $200 plan, however, offers 20× higher limits than Plus. The model maker promises on its FAQ that this is enough to support “your most demanding workflows continuously, even across parallel projects.” Both Pro plans offer the same core features. The main difference is the rate limits, the company says.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThe spokesperson also says that more than 3 million people globally are using Codex every week, “up 5x in the past three months, with usage growing more than 70% month over month.”\n",
+    "date": "2026-04-11T17:18:22.000Z",
+    "description": "\nOpenAI CEO Sam Altman published a blog post on Friday evening responding to both an apparent attack on his home and an in-depth New Yorker profile ra",
+    "body": "\nOpenAI CEO Sam Altman published a blog post on Friday evening responding to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.\nEarly Friday morning, someone allegedly threw a Molotov cocktail at Altman’s San Francisco home. No one was hurt in the incident, and a suspect was later arrested at OpenAI headquarters, where he was threatening to burn down the building, according to the SF Police Department.\nWhile the police have not identified the suspect publicly, Altman noted that the incident came a few days after “an incendiary article” was published about him. He said someone had suggested that the article’s publication “at a time of great anxiety about AI” could make things “more dangerous” for him.\n“I brushed it aside,” Altman said. “Now I am awake in the middle of the night and pissed, and thinking that I have underestimated the power of words and narratives.”\nThe article in question was a lengthy investigative piece written by Ronan Farrow (who won a Pulitzer for reporting that revealed many of the sexual abuse allegations around Harvey Weinstein) and Andrew Marantz (who’s written extensively about technology and politics).\nFarrow and Marantz said that during interviews with more than 100 people who have knowledge of Altman’s business conduct, most described Altman as someone with “a relentless will to power that, even among industrialists who put their names on spaceships, sets him apart.” \nEchoing other journalists who have profiled Altman, Farrow and Marantz suggested that many sources raised questions about his trustworthiness, with one anonymous board member saying he combines “a strong desire to please people, to be liked in any given interaction” with “a sociopathic lack of concern for the consequences that may come from deceiving someone.”\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nIn his response, Altman said that looking back, he can identify “a lot of things I’m proud of and a bunch of mistakes.”\nAmong the mistakes, he said, is a tendency towards “being conflict-averse,” which he said has “caused great pain for me and OpenAI.”\n“I am not proud of handling myself badly in a conflict with our previous board that led to a huge mess for the company,” Altman said, presumably referring to his removal and rapid reinstatement as OpenAI CEO back in 2023. “I have made many other mistakes throughout the insane trajectory of OpenAI; I am a flawed person in the center of an exceptionally complex situation, trying to get a little better each year, always working for the mission.”\nHe added, “I am sorry to people I’ve hurt and wish I had learned more faster.”\nAltman also acknowledged that there seems to be “so much Shakespearean drama between the companies in our field,” which he attributed to a “‘ring of power’ dynamic” that “makes people do crazy things.”\nOf course, the correct way to deal with the ring of power is to destroy it, so Altman added, “I don’t mean that [artificial general intelligence] is the ring itself, but instead the totalizing philosophy of ‘being the one to control AGI.’” His proposed solution is “to orient towards sharing the technology with people broadly, and for no one to have the ring.”\nAltman concluded by saying that he welcomes “good-faith criticism and debate,” while reiterating his belief that “technological progress can make the future unbelievably good, for your family and mine.”\n“While we have that debate, we should de-escalate the rhetoric and tactics and try to have fewer explosions in fewer homes, figuratively and literally,” he said.\n\n\n\t\tAnthony Ha is TechCrunch’s weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local government reporter at the Hollister Free Lance, and vice president of content at a VC firm. He lives in New York City.\nYou can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "ChatGPT finally offers $100/month Pro plan",
+      "headline": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1574154948-e1695647511123.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?w=150"
       ],
-      "datePublished": "2026-04-09T21:29:11.000Z",
-      "dateModified": "2026-04-09T21:29:11.000Z",
+      "datePublished": "2026-04-11T17:18:22.000Z",
+      "dateModified": "2026-04-11T17:18:22.000Z",
       "author": [
         {
           "@type": "Person",
@@ -175,22 +200,22 @@
     }
   },
   {
-    "title": "Nvidia-backed SiFive hits $3.65 billion valuation for open AI chips",
-    "url": "https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-3-65-billion-valuation-for-open-ai-chips/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/jensen-ces-2026-getty.jpg?w=150",
+    "title": "France to ditch Windows for Linux to reduce reliance on US tech",
+    "url": "https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/france-flag-2233577438.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-04-11T14:03:00.000Z",
-    "description": "\nSiFive, a company founded in 2015 by the UC Berkeley engineers who created an open source chip design, has landed a $400 million oversubscribed round",
-    "body": "\nSiFive, a company founded in 2015 by the UC Berkeley engineers who created an open source chip design, has landed a $400 million oversubscribed round that values the company at $3.65 billion.\nThis deal is interesting for a bunch of reasons. For one, SiFive’s RISC-V open chip design is based on the RISC processor, not Intel’s x86 or ARM, the two major types of CPUs that currently feed Nvidia’s GPU computer system AI empire.\nAlso, Nvidia was investor in this round, alongside a long list of VCs, private equity, and hedge funds. The round was led by Atreides Management, founded by former Fidelity investor bigwig Gavin Baker. (Atreides was also an investor in Cerebras Systems $1 billion round). Other investors in the round include Apollo Global Management, D1 Capital Partners, Point72 Turion, T. Rowe Price Sutter Hill Ventures, and others.\nSiFive’s business model is like Arm’s was in years gone by — it licenses its chip designs to those who modify them for their own needs and does not sell the chips themselves. (In March, Arm changed its model when it launched the first-ever chip it manufactured, an AI chip, developed with Meta with customers including OpenAI, Cerebras, and Cloudflare.)\nSiFive stands in rarified air with chip designs that are open, not proprietary, as well as neutral, not reliant on specific customers. In fact, SiFive hasn’t raised since March 2022, Pitchbook estimates, when it brought in $175 million led by Coatue Management at a pre-money valuation of $2.33 billion. Intel Capital, Qualcomm Ventures, Aramco Ventures, were part of that round.\nRISC-V has been, until recently, better known as a chip for smaller uses, like embedded systems. But with this cash and Nvidia’s attention, SiFive is moving into CPUs for AI data centers. SiFive’s designs will work with Nvidia’s CUDA software and its NVLink Fusion, a rack server system that lets different CPUs plug into Nvidia’s “AI factory.”\nIn other words, as rivals Intel and AMD seek to compete with Nvidia’s GPU, Nvidia is backing an 11-year-old startup that can design CPUs on an open and completely alternate technology.  \n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n",
+    "date": "2026-04-10T14:39:32.000Z",
+    "description": "\n\t\n\t\tImage Credits:AMAURY CORNU/Hans Lucas/AFP / Getty Images\t\n\t\n\t\t\t\t\t\t7:39 AM PDT · April 10, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nFrance is trying to move on from M",
+    "body": "\n\t\n\t\tImage Credits:AMAURY CORNU/Hans Lucas/AFP / Getty Images\t\n\t\n\t\t\t\t\t\t7:39 AM PDT · April 10, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nFrance is trying to move on from Microsoft Windows. The country said it plans to move some of its government computers currently running Windows to the open source operating system Linux to further reduce its reliance on U.S. technology.\nLinux is an open source operating system that is free to download and use, with various customized distributions that are tailored and designed for specific use cases or operations.\nIn a statement, French minister David Amiel said (translated) that the effort was to “regain control of our digital destiny” by relying less on U.S. tech companies. Amiel said that the French government can no longer accept that it doesn’t have control over its data and digital infrastructure. \nThe French government did not provide a specific timeline for the switchover, or which distributions it was considering. The switchover will begin with computers at the French government’s digital agency, DINUM. When reached by TechCrunch, a spokesperson for Microsoft did not comment on the news.\nThis is the latest effort by France to reduce its dependence on U.S. tech giants and use technology and cloud services originated within its borders, known as digital sovereignty, following growing instability and unpredictability on the part of the Trump administration. \nLawmakers and government leaders across Europe are growing more aware of the looming threat facing them at home, and their over-reliance on U.S. technology. In January, the European Parliament voted to adopt a report directing the European Commission to identify areas where the EU can reduce its reliance on foreign providers.\nSince taking office in January 2025, Trump has upped his attacks on world leaders — straight-out capturing one and aiding in the killing of another. He has also weaponized sanctions against his critics, who include judges on the International Criminal Court, effectively cutting them off from transacting with U.S. companies. Those who have been sanctioned have reported having their bank accounts closed and access to U.S. tech services terminated, as well as being blocked from any other U.S. service.\nFrance’s decision to ditch Windows comes months after the government announced it would stop using Microsoft Teams for video conferencing in favor of French-made Visio, a tool based on the open source end-to-end encrypted video meeting tool Jitsi.\nThe French government said it also plans to migrate its health data platform to a new trusted platform by the end of the year.\n\n\t\t\t\n\tTopics\n\n\n\n\t\tZack Whittaker is the security editor at TechCrunch. He also authors the weekly cybersecurity newsletter, this week in security. \nHe can be reached via encrypted message at zackwhittaker.1337 on Signal. You can also contact him by email, or to verify outreach, at zack.whittaker@techcrunch.com. \t\n\t\n\t\tView Bio \n\t\n\n\t\t",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Nvidia-backed SiFive hits $3.65 billion valuation for open AI chips",
+      "headline": "France to ditch Windows for Linux to reduce reliance on US tech",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/01/jensen-ces-2026-getty.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/04/france-flag-2233577438.jpg?w=150"
       ],
-      "datePublished": "2026-04-11T14:03:00.000Z",
-      "dateModified": "2026-04-11T14:03:00.000Z",
+      "datePublished": "2026-04-10T14:39:32.000Z",
+      "dateModified": "2026-04-10T14:39:32.000Z",
       "author": [
         {
           "@type": "Person",
@@ -225,22 +250,22 @@
     }
   },
   {
-    "title": "France to ditch Windows for Linux to reduce reliance on US tech",
-    "url": "https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/france-flag-2233577438.jpg?w=150",
+    "title": "ChatGPT finally offers $100/month Pro plan",
+    "url": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1574154948-e1695647511123.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-04-10T14:39:32.000Z",
-    "description": "\n\t\n\t\tImage Credits:AMAURY CORNU/Hans Lucas/AFP / Getty Images\t\n\t\n\t\t\t\t\t\t7:39 AM PDT · April 10, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nFrance is trying to move on from M",
-    "body": "\n\t\n\t\tImage Credits:AMAURY CORNU/Hans Lucas/AFP / Getty Images\t\n\t\n\t\t\t\t\t\t7:39 AM PDT · April 10, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nFrance is trying to move on from Microsoft Windows. The country said it plans to move some of its government computers currently running Windows to the open source operating system Linux to further reduce its reliance on U.S. technology.\nLinux is an open source operating system that is free to download and use, with various customized distributions that are tailored and designed for specific use cases or operations.\nIn a statement, French minister David Amiel said (translated) that the effort was to “regain control of our digital destiny” by relying less on U.S. tech companies. Amiel said that the French government can no longer accept that it doesn’t have control over its data and digital infrastructure. \nThe French government did not provide a specific timeline for the switchover, or which distributions it was considering. The switchover will begin with computers at the French government’s digital agency, DINUM. When reached by TechCrunch, a spokesperson for Microsoft did not comment on the news.\nThis is the latest effort by France to reduce its dependence on U.S. tech giants and use technology and cloud services originated within its borders, known as digital sovereignty, following growing instability and unpredictability on the part of the Trump administration. \nLawmakers and government leaders across Europe are growing more aware of the looming threat facing them at home, and their over-reliance on U.S. technology. In January, the European Parliament voted to adopt a report directing the European Commission to identify areas where the EU can reduce its reliance on foreign providers.\nSince taking office in January 2025, Trump has upped his attacks on world leaders — straight-out capturing one and aiding in the killing of another. He has also weaponized sanctions against his critics, who include judges on the International Criminal Court, effectively cutting them off from transacting with U.S. companies. Those who have been sanctioned have reported having their bank accounts closed and access to U.S. tech services terminated, as well as being blocked from any other U.S. service.\nFrance’s decision to ditch Windows comes months after the government announced it would stop using Microsoft Teams for video conferencing in favor of French-made Visio, a tool based on the open source end-to-end encrypted video meeting tool Jitsi.\nThe French government said it also plans to migrate its health data platform to a new trusted platform by the end of the year.\n\n\t\t\t\n\tTopics\n\n\n\n\t\tZack Whittaker is the security editor at TechCrunch. He also authors the weekly cybersecurity newsletter, this week in security. \nHe can be reached via encrypted message at zackwhittaker.1337 on Signal. You can also contact him by email, or to verify outreach, at zack.whittaker@techcrunch.com. \t\n\t\n\t\tView Bio \n\t\n\n\t\t",
+    "date": "2026-04-09T21:29:11.000Z",
+    "description": "\nOpenAI announced on Thursday something that power users have been asking for forever: a $100/month plan. Until now, plans were priced at: free (which",
+    "body": "\nOpenAI announced on Thursday something that power users have been asking for forever: a $100/month plan. Until now, plans were priced at: free (which now includes ads), an $8/month Go plan (that also includes ads), a $20/month Plus plan (ad free), and then all the way up to a $200 Pro plan (also ad free).\nOpenAI’s pricing plan page currently does not list a $200/month plan at all. However, that highest tier is still available, OpenAI confirmed to TechCrunch.\nThe model maker says Plus (which remains at $20/month) and the new $100 Pro tier are geared to support daily usage of ChatGPT’s coding tool Codex. The $100 Pro plan will offer 5x more Codex than the Plus plan.\nOpenAI makes no bones that this new pricing tier is to challenge Anthropic, which has long had a $100/month option for Claude.\n“The new $100 Pro Tier is designed to give developers more practical coding capacity for the money, especially during high-intensity work sessions where limits matter most. Compared with Claude Code, Codex delivers more coding capacity per dollar across paid tiers, with the difference showing up most clearly during active coding use,” an OpenAI spokesperson tells TechCrunch. \nOne thing to know: OpenAI is offering even higher limits of Codex on the $100 plan through May 31. So anyone who tries the new tier, goes relatively mad with coding and never gets a rate warning: Be advised that such a situation likely won’t last.\nNone of the plans offer unlimited usage. The $200 plan, however, offers 20× higher limits than Plus. The model maker promises on its FAQ that this is enough to support “your most demanding workflows continuously, even across parallel projects.” Both Pro plans offer the same core features. The main difference is the rate limits, the company says.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThe spokesperson also says that more than 3 million people globally are using Codex every week, “up 5x in the past three months, with usage growing more than 70% month over month.”\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "France to ditch Windows for Linux to reduce reliance on US tech",
+      "headline": "ChatGPT finally offers $100/month Pro plan",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/04/france-flag-2233577438.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1574154948-e1695647511123.jpg?w=150"
       ],
-      "datePublished": "2026-04-10T14:39:32.000Z",
-      "dateModified": "2026-04-10T14:39:32.000Z",
+      "datePublished": "2026-04-09T21:29:11.000Z",
+      "dateModified": "2026-04-09T21:29:11.000Z",
       "author": [
         {
           "@type": "Person",
@@ -316,31 +341,6 @@
       ],
       "datePublished": "2026-04-10T21:18:09.000Z",
       "dateModified": "2026-04-10T21:18:09.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
-    "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-04-11T17:18:22.000Z",
-    "description": "\nOpenAI CEO Sam Altman published a blog post on Friday evening responding to both an apparent attack on his home and an in-depth New Yorker profile ra",
-    "body": "\nOpenAI CEO Sam Altman published a blog post on Friday evening responding to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.\nEarly Friday morning, someone allegedly threw a Molotov cocktail at Altman’s San Francisco home. No one was hurt in the incident, and a suspect was later arrested at OpenAI headquarters, where he was threatening to burn down the building, according to the SF Police Department.\nWhile the police have not identified the suspect publicly, Altman noted that the incident came a few days after “an incendiary article” was published about him. He said someone had suggested that the article’s publication “at a time of great anxiety about AI” could make things “more dangerous” for him.\n“I brushed it aside,” Altman said. “Now I am awake in the middle of the night and pissed, and thinking that I have underestimated the power of words and narratives.”\nThe article in question was a lengthy investigative piece written by Ronan Farrow (who won a Pulitzer for reporting that revealed many of the sexual abuse allegations around Harvey Weinstein) and Andrew Marantz (who’s written extensively about technology and politics).\nFarrow and Marantz said that during interviews with more than 100 people who have knowledge of Altman’s business conduct, most described Altman as someone with “a relentless will to power that, even among industrialists who put their names on spaceships, sets him apart.” \nEchoing other journalists who have profiled Altman, Farrow and Marantz suggested that many sources raised questions about his trustworthiness, with one anonymous board member saying he combines “a strong desire to please people, to be liked in any given interaction” with “a sociopathic lack of concern for the consequences that may come from deceiving someone.”\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nIn his response, Altman said that looking back, he can identify “a lot of things I’m proud of and a bunch of mistakes.”\nAmong the mistakes, he said, is a tendency towards “being conflict-averse,” which he said has “caused great pain for me and OpenAI.”\n“I am not proud of handling myself badly in a conflict with our previous board that led to a huge mess for the company,” Altman said, presumably referring to his removal and rapid reinstatement as OpenAI CEO back in 2023. “I have made many other mistakes throughout the insane trajectory of OpenAI; I am a flawed person in the center of an exceptionally complex situation, trying to get a little better each year, always working for the mission.”\nHe added, “I am sorry to people I’ve hurt and wish I had learned more faster.”\nAltman also acknowledged that there seems to be “so much Shakespearean drama between the companies in our field,” which he attributed to a “‘ring of power’ dynamic” that “makes people do crazy things.”\nOf course, the correct way to deal with the ring of power is to destroy it, so Altman added, “I don’t mean that [artificial general intelligence] is the ring itself, but instead the totalizing philosophy of ‘being the one to control AGI.’” His proposed solution is “to orient towards sharing the technology with people broadly, and for no one to have the ring.”\nAltman concluded by saying that he welcomes “good-faith criticism and debate,” while reiterating his belief that “technological progress can make the future unbelievably good, for your family and mine.”\n“While we have that debate, we should de-escalate the rhetoric and tactics and try to have fewer explosions in fewer homes, figuratively and literally,” he said.\n\n\n\t\tAnthony Ha is TechCrunch’s weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local government reporter at the Hollister Free Lance, and vice president of content at a VC firm. He lives in New York City.\nYou can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?w=150"
-      ],
-      "datePublished": "2026-04-11T17:18:22.000Z",
-      "dateModified": "2026-04-11T17:18:22.000Z",
       "author": [
         {
           "@type": "Person",
