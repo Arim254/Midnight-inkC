@@ -1,30 +1,5 @@
 [
   {
-    "title": "Sam Altman throws shade at Anthropic’s cyber model, Mythos: ‘fear-based marketing’",
-    "url": "https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2208831528.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-04-21T18:51:52.000Z",
-    "description": "\nIn Brief\nPosted:\n11:51 AM PDT · April 21, 2026\n\nImage Credits:Taylor Hill / FilmMagic\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nOpenAI and Anthropic",
-    "body": "\nIn Brief\nPosted:\n11:51 AM PDT · April 21, 2026\n\nImage Credits:Taylor Hill / FilmMagic\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nOpenAI and Anthropic continue to take swipes at each other. This week, during a podcast appearance, OpenAI CEO Sam Altman called out his competitor’s new cybersecurity model, noting that the company was using fear to make its product sound more impressive than it actually is.\nAnthropic announced Mythos earlier this month, releasing the model to a small cohort of enterprise customers. The company has claimed that Mythos is too powerful to be released to the public out of concern that cybercriminals will weaponize it. Critics have said this rhetoric is overblown.\nDuring an appearance on the podcast Core Memory, Altman implied that Anthropic’s “fear-based marketing” was a good way to keep AI in the hands of a small and exclusive elite. “There are people in the world who, for a long time, have wanted to keep AI in the hands of a smaller group of people,” he said. “You can justify that in a lot of different ways.”\n“It is clearly incredible marketing to say, ‘We have built a bomb, we are about to drop it on your head. We will sell you a bomb shelter for $100 million,’” he added.  \nFear-based marketing was not invented by Anthropic. Arguably, much of the AI industry has leveraged scare tactics and hyperbole to make its tools sound powerful. Ongoing rhetoric about how AI may lead to the end of the world hasn’t just come from Luddite doomer activists; it has also come from the people selling this technology to the public — Altman included.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in AI\n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Sam Altman throws shade at Anthropic’s cyber model, Mythos: ‘fear-based marketing’",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2208831528.jpg?w=150"
-      ],
-      "datePublished": "2026-04-21T18:51:52.000Z",
-      "dateModified": "2026-04-21T18:51:52.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Meta will record employees’ keystrokes and use it to train its AI models",
     "url": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/zuckerberg-LA-trial-2026-GettyImages-2261841364.jpg?w=150",
@@ -50,47 +25,22 @@
     }
   },
   {
-    "title": "Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims",
-    "url": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2153561878.jpg?w=150",
+    "title": "Sam Altman throws shade at Anthropic’s cyber model, Mythos: ‘fear-based marketing’",
+    "url": "https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2208831528.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-04-21T23:26:45.000Z",
-    "description": "\nA group of unauthorized users has reportedly gained access to Mythos, the cybersecurity tool recently announced by Anthropic.\nMuch has been made of M",
-    "body": "\nA group of unauthorized users has reportedly gained access to Mythos, the cybersecurity tool recently announced by Anthropic.\nMuch has been made of Mythos and its purported power — an AI product designed for enterprise security that, in the wrong hands, could become a potent hacking tool, according to the company. Now Bloomberg has reported that a “private online forum,” the members of which have not been publicly identified, has managed to gain access to the tool through a third-party vendor.\n“We’re investigating a report claiming unauthorized access to Claude Mythos Preview through one of our third-party vendor environments,” an Anthropic spokesperson told TechCrunch. The company said that, so far, it has found no evidence that the supposedly unauthorized activity has impacted Anthropic’s systems in any way.\nThe unauthorized group tried a number of different strategies to gain access to the model, including using “access” enjoyed by the person who was interviewed by Bloomberg. That person is currently employed at a third-party contractor that works for Anthropic, the outlet reported.\nMembers of the group are part of a Discord channel that seeks out information about unreleased AI models, the outlet reported. The group has been using Mythos regularly since gaining access to it, and provided evidence to Bloomberg in the form of screenshots and a live demonstration of the software.\nBloomberg reports that the group, which supposedly gained access to the tool on the same day it was publicly announced, “made an educated guess about the model’s online location based on knowledge about the format Anthropic has used for other models.” The group in question is “interested in playing around with new models, not wreaking havoc with them,” the source told the outlet.\nMythos was released to a select number of vendors, including big names like Apple, as part of an initiative called Project Glasswing. The limited release of the model was designed to prevent its use by bad actors. The tool could be weaponized against corporate security instead of bolstering it, Anthropic said.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nIf true, unauthorized use of Mythos could spell trouble for Anthropic, which provided the exclusive release to allay the company’s concern for enterprise security.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tLucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. \nYou can contact Lucas by emailing lucas.ropek@techcrunch.com.\t\n\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-04-21T18:51:52.000Z",
+    "description": "\nIn Brief\nPosted:\n11:51 AM PDT · April 21, 2026\n\nImage Credits:Taylor Hill / FilmMagic\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nOpenAI and Anthropic",
+    "body": "\nIn Brief\nPosted:\n11:51 AM PDT · April 21, 2026\n\nImage Credits:Taylor Hill / FilmMagic\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nOpenAI and Anthropic continue to take swipes at each other. This week, during a podcast appearance, OpenAI CEO Sam Altman called out his competitor’s new cybersecurity model, noting that the company was using fear to make its product sound more impressive than it actually is.\nAnthropic announced Mythos earlier this month, releasing the model to a small cohort of enterprise customers. The company has claimed that Mythos is too powerful to be released to the public out of concern that cybercriminals will weaponize it. Critics have said this rhetoric is overblown.\nDuring an appearance on the podcast Core Memory, Altman implied that Anthropic’s “fear-based marketing” was a good way to keep AI in the hands of a small and exclusive elite. “There are people in the world who, for a long time, have wanted to keep AI in the hands of a smaller group of people,” he said. “You can justify that in a lot of different ways.”\n“It is clearly incredible marketing to say, ‘We have built a bomb, we are about to drop it on your head. We will sell you a bomb shelter for $100 million,’” he added.  \nFear-based marketing was not invented by Anthropic. Arguably, much of the AI industry has leveraged scare tactics and hyperbole to make its tools sound powerful. Ongoing rhetoric about how AI may lead to the end of the world hasn’t just come from Luddite doomer activists; it has also come from the people selling this technology to the public — Altman included.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in AI\n\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims",
+      "headline": "Sam Altman throws shade at Anthropic’s cyber model, Mythos: ‘fear-based marketing’",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2153561878.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2208831528.jpg?w=150"
       ],
-      "datePublished": "2026-04-21T23:26:45.000Z",
-      "dateModified": "2026-04-21T23:26:45.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "YouTube expands its AI likeness detection technology to celebrities",
-    "url": "https://techcrunch.com/2026/04/21/youtube-expands-its-ai-likeness-detection-technology-to-celebrities/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/celebrity-paparazzi-GettyImages-523409170.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-04-21T15:02:06.000Z",
-    "description": "\nYouTube is expanding its new “likeness detection” technology, which identifies AI-generated content, such as deepfakes, to people within the entertai",
-    "body": "\nYouTube is expanding its new “likeness detection” technology, which identifies AI-generated content, such as deepfakes, to people within the entertainment industry, the company announced on Tuesday.\nThe technology works similarly to YouTube’s existing Content ID system, which detects copyright-protected material in users’ uploaded videos, allowing rights owners to request removal or share in the video’s revenue. \nLikeness detection does the same, but for simulated faces. The feature is meant to help protect creators and other public figures from having their identities used without their permission — a common problem for celebrities who find their likenesses have been used in scam advertisements.\nThe technology was first made available to a subset of YouTube creators in a pilot program last year before expanding more broadly to include politicians, government officials, and journalists this spring.\nImage Credits:YouTube\nNow YouTube says the technology is being made available to those in the entertainment industry, including talent agencies, management companies, and the celebrities they represent. The company has support from major agencies like CAA, UTA, WME, and Untitled Management, which offered feedback on the new tool.\nUse of the likeness detection tool does not require entertainers to have their own YouTube channels.\nInstead, the feature scans for AI-generated content to detect visual matches of an enrolled participant’s face. Users can then choose to request removal of the video for privacy policy violations, submit a copyright removal request, or do nothing. YouTube notes that it won’t remove all content, as it permits parody and satire content under its rules.\nIn the future, the technology will support audio as well, the company says.\nRelated to this, YouTube has also been advocating for similar protections at a federal level, with its support for the NO FAKES Act in Washington, D.C. This would regulate the use of AI to create unauthorized re-creations of an individual’s voice and visual likeness.\nThe company hasn’t yet said how many removals of AI deepfakes have been managed by the tool so far, but noted in March that the amount of removals was still “very small.” \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "YouTube expands its AI likeness detection technology to celebrities",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/04/celebrity-paparazzi-GettyImages-523409170.jpg?w=150"
-      ],
-      "datePublished": "2026-04-21T15:02:06.000Z",
-      "dateModified": "2026-04-21T15:02:06.000Z",
+      "datePublished": "2026-04-21T18:51:52.000Z",
+      "dateModified": "2026-04-21T18:51:52.000Z",
       "author": [
         {
           "@type": "Person",
@@ -125,6 +75,31 @@
     }
   },
   {
+    "title": "YouTube expands its AI likeness detection technology to celebrities",
+    "url": "https://techcrunch.com/2026/04/21/youtube-expands-its-ai-likeness-detection-technology-to-celebrities/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/celebrity-paparazzi-GettyImages-523409170.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-04-21T15:02:06.000Z",
+    "description": "\nYouTube is expanding its new “likeness detection” technology, which identifies AI-generated content, such as deepfakes, to people within the entertai",
+    "body": "\nYouTube is expanding its new “likeness detection” technology, which identifies AI-generated content, such as deepfakes, to people within the entertainment industry, the company announced on Tuesday.\nThe technology works similarly to YouTube’s existing Content ID system, which detects copyright-protected material in users’ uploaded videos, allowing rights owners to request removal or share in the video’s revenue. \nLikeness detection does the same, but for simulated faces. The feature is meant to help protect creators and other public figures from having their identities used without their permission — a common problem for celebrities who find their likenesses have been used in scam advertisements.\nThe technology was first made available to a subset of YouTube creators in a pilot program last year before expanding more broadly to include politicians, government officials, and journalists this spring.\nImage Credits:YouTube\nNow YouTube says the technology is being made available to those in the entertainment industry, including talent agencies, management companies, and the celebrities they represent. The company has support from major agencies like CAA, UTA, WME, and Untitled Management, which offered feedback on the new tool.\nUse of the likeness detection tool does not require entertainers to have their own YouTube channels.\nInstead, the feature scans for AI-generated content to detect visual matches of an enrolled participant’s face. Users can then choose to request removal of the video for privacy policy violations, submit a copyright removal request, or do nothing. YouTube notes that it won’t remove all content, as it permits parody and satire content under its rules.\nIn the future, the technology will support audio as well, the company says.\nRelated to this, YouTube has also been advocating for similar protections at a federal level, with its support for the NO FAKES Act in Washington, D.C. This would regulate the use of AI to create unauthorized re-creations of an individual’s voice and visual likeness.\nThe company hasn’t yet said how many removals of AI deepfakes have been managed by the tool so far, but noted in March that the amount of removals was still “very small.” \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "YouTube expands its AI likeness detection technology to celebrities",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/04/celebrity-paparazzi-GettyImages-523409170.jpg?w=150"
+      ],
+      "datePublished": "2026-04-21T15:02:06.000Z",
+      "dateModified": "2026-04-21T15:02:06.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Revolut eyes valuation of up to $200B in eventual IPO",
     "url": "https://techcrunch.com/2026/04/21/revolut-eyes-valuation-of-up-to-200b-in-eventual-ipo/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/10/PR-lib-office-exterior-4.png?w=150",
@@ -141,6 +116,56 @@
       ],
       "datePublished": "2026-04-21T13:41:44.000Z",
       "dateModified": "2026-04-21T13:41:44.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "SpaceX is working with Cursor and has an option to buy the startup for $60B",
+    "url": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2256968212.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-04-21T22:58:22.000Z",
+    "description": "\nSpaceX said it has struck a deal with Cursor to develop a next-generation “coding and knowledge work AI,” which includes a surprising provision — an ",
+    "body": "\nSpaceX said it has struck a deal with Cursor to develop a next-generation “coding and knowledge work AI,” which includes a surprising provision — an option to buy the popular software development platform for $60 billion later this year.\nPartnering with and potentially purchasing a leader in the hottest AI product category can only be seen in the context of SpaceX’s much-anticipated public offering. Investors seeking more value in the IPO might see its engagement with Cursor as another way to extract value from Elon Musk’s increasingly sprawling tech conglomerate.\nThe deal won’t shock those who follow the industry closely. Last week, it was reported that xAI would begin renting computing power from its data centers to Cursor, with the coding startup using tens of thousands of xAI chips to train its latest AI model. And last month, two of Cursor’s most senior engineering leaders, Andrew Milich and Jason Ginsberg, left the company to join xAI, where both report directly to Musk.\nSpaceX described the partnership as a project combining Cursor’s “product and distribution to expert software engineers” with SpaceX’s Colossus supercomputer, which the company claims has the equivalent compute power of a million Nvidia H100 chips.\nSpaceX also said that at some undisclosed point later this year, it will either pay Cursor $10 billion for its work or acquire the company for $60 billion. Last week, TechCrunch reported that Cursor was eyeing a $50 billion valuation in an upcoming private fundraising round. That figure itself reflects an astonishing series of leaps. Cursor was valued at just $2.5 billion in January of last year, climbed to $9 billion by last May, and was assigned a $29.3 billion post-money valuation when it closed on $2.3 billion in Series D funding in November.\nEither figure would represent a significant expense for SpaceX, which is widely seen to be losing money following the acquisition of xAI and the social media network X and is planning extensive capital investment. The brief statement did not say if either deal could be paid in SpaceX stock.\nIn the meantime, the move could shore up weaknesses at each company, but it also reveals them. Neither Cursor nor xAI has proprietary models that can match the leading offerings from Anthropic and OpenAI — the same companies now competing directly with Cursor for the developer market.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nCursor still uses and sells access to Claude and GPT models even as both firms roll out their own coding tools, an awkward arrangement that this new SpaceX partnership may be designed to eventually escape.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tTim Fernholz is a journalist who writes about technology, finance and public policy. He has closely covered the rise of the private space industry and is the author of  Rocket Billionaires: Elon Musk, Jeff Bezos and the New Space Race. Formerly, he was a senior reporter at Quartz, the global business news site, for more than a decade, and began his career as a political reporter in Washington, D.C. \nYou can contact or verify outreach from Tim by emailing tim.fernholz@techcrunch.com or via an encrypted message to tim_fernholz.21 on Signal.\r\n\t\n\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "SpaceX is working with Cursor and has an option to buy the startup for $60B",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2256968212.jpg?w=150"
+      ],
+      "datePublished": "2026-04-21T22:58:22.000Z",
+      "dateModified": "2026-04-21T22:58:22.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims",
+    "url": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2153561878.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-04-21T23:26:45.000Z",
+    "description": "\nA group of unauthorized users has reportedly gained access to Mythos, the cybersecurity tool recently announced by Anthropic.\nMuch has been made of M",
+    "body": "\nA group of unauthorized users has reportedly gained access to Mythos, the cybersecurity tool recently announced by Anthropic.\nMuch has been made of Mythos and its purported power — an AI product designed for enterprise security that, in the wrong hands, could become a potent hacking tool, according to the company. Now Bloomberg has reported that a “private online forum,” the members of which have not been publicly identified, has managed to gain access to the tool through a third-party vendor.\n“We’re investigating a report claiming unauthorized access to Claude Mythos Preview through one of our third-party vendor environments,” an Anthropic spokesperson told TechCrunch. The company said that, so far, it has found no evidence that the supposedly unauthorized activity has impacted Anthropic’s systems in any way.\nThe unauthorized group tried a number of different strategies to gain access to the model, including using “access” enjoyed by the person who was interviewed by Bloomberg. That person is currently employed at a third-party contractor that works for Anthropic, the outlet reported.\nMembers of the group are part of a Discord channel that seeks out information about unreleased AI models, the outlet reported. The group has been using Mythos regularly since gaining access to it, and provided evidence to Bloomberg in the form of screenshots and a live demonstration of the software.\nBloomberg reports that the group, which supposedly gained access to the tool on the same day it was publicly announced, “made an educated guess about the model’s online location based on knowledge about the format Anthropic has used for other models.” The group in question is “interested in playing around with new models, not wreaking havoc with them,” the source told the outlet.\nMythos was released to a select number of vendors, including big names like Apple, as part of an initiative called Project Glasswing. The limited release of the model was designed to prevent its use by bad actors. The tool could be weaponized against corporate security instead of bolstering it, Anthropic said.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nIf true, unauthorized use of Mythos could spell trouble for Anthropic, which provided the exclusive release to allay the company’s concern for enterprise security.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tLucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. \nYou can contact Lucas by emailing lucas.ropek@techcrunch.com.\t\n\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2153561878.jpg?w=150"
+      ],
+      "datePublished": "2026-04-21T23:26:45.000Z",
+      "dateModified": "2026-04-21T23:26:45.000Z",
       "author": [
         {
           "@type": "Person",
@@ -200,31 +225,6 @@
     }
   },
   {
-    "title": "SpaceX is working with Cursor and has an option to buy the startup for $60B",
-    "url": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2256968212.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-04-21T22:58:22.000Z",
-    "description": "\nSpaceX said it has struck a deal with Cursor to develop a next-generation “coding and knowledge work AI,” which includes a surprising provision — an ",
-    "body": "\nSpaceX said it has struck a deal with Cursor to develop a next-generation “coding and knowledge work AI,” which includes a surprising provision — an option to buy the popular software development platform for $60 billion later this year.\nPartnering with and potentially purchasing a leader in the hottest AI product category can only be seen in the context of SpaceX’s much-anticipated public offering. Investors seeking more value in the IPO might see its engagement with Cursor as another way to extract value from Elon Musk’s increasingly sprawling tech conglomerate.\nThe deal won’t shock those who follow the industry closely. Last week, it was reported that xAI would begin renting computing power from its data centers to Cursor, with the coding startup using tens of thousands of xAI chips to train its latest AI model. And last month, two of Cursor’s most senior engineering leaders, Andrew Milich and Jason Ginsberg, left the company to join xAI, where both report directly to Musk.\nSpaceX described the partnership as a project combining Cursor’s “product and distribution to expert software engineers” with SpaceX’s Colossus supercomputer, which the company claims has the equivalent compute power of a million Nvidia H100 chips.\nSpaceX also said that at some undisclosed point later this year, it will either pay Cursor $10 billion for its work or acquire the company for $60 billion. Last week, TechCrunch reported that Cursor was eyeing a $50 billion valuation in an upcoming private fundraising round. That figure itself reflects an astonishing series of leaps. Cursor was valued at just $2.5 billion in January of last year, climbed to $9 billion by last May, and was assigned a $29.3 billion post-money valuation when it closed on $2.3 billion in Series D funding in November.\nEither figure would represent a significant expense for SpaceX, which is widely seen to be losing money following the acquisition of xAI and the social media network X and is planning extensive capital investment. The brief statement did not say if either deal could be paid in SpaceX stock.\nIn the meantime, the move could shore up weaknesses at each company, but it also reveals them. Neither Cursor nor xAI has proprietary models that can match the leading offerings from Anthropic and OpenAI — the same companies now competing directly with Cursor for the developer market.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nCursor still uses and sells access to Claude and GPT models even as both firms roll out their own coding tools, an awkward arrangement that this new SpaceX partnership may be designed to eventually escape.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tTim Fernholz is a journalist who writes about technology, finance and public policy. He has closely covered the rise of the private space industry and is the author of  Rocket Billionaires: Elon Musk, Jeff Bezos and the New Space Race. Formerly, he was a senior reporter at Quartz, the global business news site, for more than a decade, and began his career as a political reporter in Washington, D.C. \nYou can contact or verify outreach from Tim by emailing tim.fernholz@techcrunch.com or via an encrypted message to tim_fernholz.21 on Signal.\r\n\t\n\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "SpaceX is working with Cursor and has an option to buy the startup for $60B",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2256968212.jpg?w=150"
-      ],
-      "datePublished": "2026-04-21T22:58:22.000Z",
-      "dateModified": "2026-04-21T22:58:22.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Redwood Materials lays off 10% in restructuring to chase energy storage business",
     "url": "https://techcrunch.com/2026/04/21/redwood-materials-lays-off-10-in-restructuring-to-chase-energy-storage-business/",
     "image": "https://techcrunch.com/wp-content/uploads/2023/09/53200897797_87d290a75e_o.jpg?w=150",
@@ -241,81 +241,6 @@
       ],
       "datePublished": "2026-04-22T00:37:33.000Z",
       "dateModified": "2026-04-22T00:37:33.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "ChatGPT’s new Images 2.0 model is surprisingly good at generating text",
-    "url": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/05/openAI-spiral-color-v2.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-04-21T19:00:00.000Z",
-    "description": "\nIt used to be easy enough to distinguish between human-made and AI-generated imagery — just two years ago, you couldn’t use image models to create a ",
-    "body": "\nIt used to be easy enough to distinguish between human-made and AI-generated imagery — just two years ago, you couldn’t use image models to create a menu for a Mexican restaurant without inventing new culinary delights like “enchuita,” “churiros,” “burrto,” and “margartas.” \nNow, when I ask the brand new ChatGPT Images 2.0 model for a menu of Mexican food, it creates something that could immediately be used in a restaurant without customers noticing that something’s off. (However, ceviche priced at $13.50 might make me question the quality of the fish.)\nImage Credits:ChatGPT Images 2.0\nFor comparison, here’s the result I got from DALL-E 3 two years ago (at the time, ChatGPT did not generate images):\nImage Credits:Microsoft Designer (DALL-E 3)\nAI image generators have historically struggled to spell because they generally used diffusion models, which work by reconstructing images from noise.\n“The diffusion models […] are reconstructing a given input,” Asmelash Teka Hadgu, founder and CEO of Lesan AI, told TechCrunch in 2024. “We can assume writings on an image are a very, very tiny part, so the image generator learns the patterns that cover more of these pixels.”\nResearchers have since explored other mechanisms for image generation, like autoregressive models, which make predictions about what an image should look like and function more like an LLM.\nUnfortunately, OpenAI declined to answer a question in a press briefing this week about what kind of model is powering ChatGPT Images 2.0.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThe company did, however, explain that the new model has “thinking capabilities,” which give it the ability to search the web, make multiple images from one prompt, and double-check its creations — this allows Images 2.0 to create marketing assets in various sizes, as well as multi-paneled comic strips. \nOpenAI also says that Images has a stronger understanding of non-Latin text rendering in languages like Japanese, Korean, Hindi, and Bengali. The model’s knowledge cuts off in December 2025, which could impact how accurately it can generate certain prompts involving recent news.\n“Images 2.0 brings an unprecedented level of specificity and fidelity to image creation. It can not only conceptualize more sophisticated images, but it actually brings that vision to life eﬀectively, able to follow instructions, preserve requested details, and render the fine-grained elements that often break image models: small text, iconography, UI elements, dense compositions, and subtle stylistic constraints, all at up to 2K resolution,” OpenAI said in a press release.\nThese capabilities mean that image generation isn’t as rapid as typing a question to ChatGPT, but generating something complex like a multi-paneled comic still takes just a few minutes. \nAll ChatGPT and Codex users will be able to access Images 2.0 starting Tuesday; paid users will be able to generate more advanced outputs. The company will also make the gpt-image-2 API available, with pricing dependent on the quality and resolution of outputs.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tAmanda Silberling is a senior writer at TechCrunch covering the intersection of technology and culture. She has also written for publications like Polygon, MTV, the Kenyon Review, NPR, and Business Insider. She is the co-host of Wow If True, a podcast about internet culture, with science fiction author Isabel J. Kim. Prior to joining TechCrunch, she worked as a grassroots organizer, museum educator, and film festival coordinator. She holds a B.A. in English from the University of Pennsylvania and served as a Princeton in Asia Fellow in Laos.\nYou can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "ChatGPT’s new Images 2.0 model is surprisingly good at generating text",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/05/openAI-spiral-color-v2.jpg?w=150"
-      ],
-      "datePublished": "2026-04-21T19:00:00.000Z",
-      "dateModified": "2026-04-21T19:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "AI Dungeon maker Latitude unveils Voyage, a platform for creating AI-powered RPGs",
-    "url": "https://techcrunch.com/2026/04/21/voyage-is-an-ai-rpg-platform-for-creating-custom-gaming-worlds-with-ai-generated-npc-interactions/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Voyage-Promo-Art-3.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-04-21T16:00:00.000Z",
-    "description": "\nIf you’ve ever played a role-playing game (RPG), you know how fun it is to create your character in any way you choose and embark on epic adventures.",
-    "body": "\nIf you’ve ever played a role-playing game (RPG), you know how fun it is to create your character in any way you choose and embark on epic adventures. Now, picture an AI-powered, text-based RPG where every interaction with a non-player character (NPC) is completely unscripted. \nLatitude, the startup known for its open-ended text adventure games featuring “infinite storylines” generated by AI, recently unveiled its new platform that allows users to step into the role of game designers. \nThis AI-driven RPG platform, called Voyage, enables players to design their own gaming worlds with the help of AI. Players can describe their settings, including details such as regions, cities, landmarks, main quests, and villains. They can also establish game mechanics like abilities, leveling systems, and combat challenges.\nFor example, if you want to create a fishing village haunted by a sea monster, the AI will generate the necessary code to bring that idea to life. You can customize your world further before sharing it with others to play.\nImage Credits:Latitude\nFor players, Voyage’s platform offers a range of experiences across different genres, from cozy adventures to more hardcore quests. Because it’s text-based, players read along with the story (with audio narration available) and type how they want their character to act.\nUnlike traditional RPGs, if a character is facing a goblin attack, instead of the typical options to run, fight, or hide, players can choose unique scenarios like becoming a goblin therapist, helping the creatures with their issues instead of resorting to violence. \nWhen players enter their desired actions, the AI narrates the outcome, including how the NPCs respond. Because there’s no fixed script, interactions can veer in unexpected directions, often leading to surprising and sometimes weird conversations. For instance, during our testing, a troll who had tied up our character started to unload about his marriage troubles.\nCharacter progression, meanwhile, depends on the character’s skills and a little luck, much like rolling dice in tabletop games. Each character can also unlock special abilities as they defeat bosses or finish quests, such as using “Counterspell” to stop an enemy from using magic. (Several abilities in Voyage draw inspiration from classic Dungeons & Dragons spells, which is fun!)\nAnd, if players ever find themselves stuck, there’s a chatbot available to suggest actions or even skip to different parts of the story.\nAt the core of Voyage is Latitude’s World Engine, a system that took the company five years to develop. This engine leverages multiple AI systems that can narrate actions, manage gameplay, track characters and objects, and remember backstories and relationships, ensuring continuity throughout the game. So, instead of generic NPCs with repetitive lines, players encounter characters who remember previous interactions. For instance, if you betray a character’s trust, they may choose to avoid you or become a rival in future encounters.\n“Characters aren’t just reactions to you, but have their own personality backstory, that react to you in ways that feel like real, and that’s really part of the magic of the engine,” Latitude CEO and co-founder Nick Walton told TechCrunch.\nImage Credits:Latitude\nLatitude first made waves in AI-native gaming with the launch of AI Dungeon in 2019, which attracted millions of players.\n“It exploded on the internet as one of the first times people interacted with generative AI,” Walton said. “It sort of established that initial promise of what would happen if we could have games and worlds that aren’t all predefined in advance, that aren’t all scripted… Voyage takes that core concept and blows it up 10x farther from a single AI model to a full-blown world that you have deterministic systems, challenges, progression, and persistence, and solves all the problems that I think AI Dungeon alone couldn’t fully get to.” \nVoyage is currently in expanded beta testing, with an open beta scheduled for later this year. The platform has seen early testers interact with over 160,000 unique AI-generated characters, each with distinct personalities. The average player has made nearly 3,000 gameplay choices.\nImage Credits:Latitude\nAlongside the launch announcement, Latitude announced a partnership with Google’s AI Futures Fund. The platform combines its proprietary models with third-party models like Google’s Gemini Flash for image generation and Gemma for text, audio, and video.\nAdditionally, former Roblox Chief Business Officer Craig Donato has joined as an investor and board member. Other notable investors include Album VC, Griffin Gaming Partners, Midjourney, and NFX.\nVoyage is free to play but will soon offer subscription plans priced at $15, $30, and $50. These plans will provide advanced AI features and remove limitations on the number of actions players can take.\nIt’s also important to note that, while the platform is suitable for all ages, some experiences include mature content, which Walton says is similar to what you might find on Steam. He adds that Voyage implements safety measures and parental controls to help users filter out inappropriate material.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "AI Dungeon maker Latitude unveils Voyage, a platform for creating AI-powered RPGs",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/04/Voyage-Promo-Art-3.jpg?w=150"
-      ],
-      "datePublished": "2026-04-21T16:00:00.000Z",
-      "dateModified": "2026-04-21T16:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "SusHi Tech Tokyo isn’t a conference — it’s a deal room with 60,000 people",
-    "url": "https://techcrunch.com/2026/04/21/sushi-tech-tokyo-isnt-a-conference-its-a-deal-room-with-60000-people/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/article-2-hero.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-04-21T19:02:35.000Z",
-    "description": "\nThere’s a version of a tech conference where you fly somewhere expensive, sit through panels, collect business cards you’ll never follow up on, and f",
-    "body": "\nThere’s a version of a tech conference where you fly somewhere expensive, sit through panels, collect business cards you’ll never follow up on, and fly home. SusHi Tech Tokyo 2026 was deliberately designed to be the opposite of that.\nWhen 60,000 attendees descend on Tokyo Big Sight April 27–29, the headline numbers are hard to ignore: 750 startup exhibitors, 151 sessions, city leaders from 49 countries. But the stat that tells you what kind of event this actually is? It’s 10,000 facilitated business meetings — brokered, booked, and tracked before most attendees even land.\nThe infrastructure of deal-making\nSusHi Tech’s official app is less event guide and more matchmaking engine. Before the conference opens, attendees register their profile and describe what they’re looking for. The app’s AI surfaces recommendations, opens a direct message channel, and lets you pre-book one of the venue’s expanded meeting spaces. On the floor, QR code business card exchange replaces the fumbling-for-a-card moment. It’s a small thing that signals a larger philosophy: Remove the friction between the people who should be talking.\nThat deal-making ethos extends to the startup pitch competition. TechCrunch’s Startup Battlefield program manager, Isabelle Johannessen, will select one standout startup well-suited to the North American market from the semifinalists to advance to the TechCrunch Disrupt Startup Battlefield 200, a launchpad to one of the industry’s most prestigious stages. \nImage Credits:Kimberly White / Getty Images\nCorporates are pitching to startups — not the other way around\nOne of SusHi Tech’s more interesting structural choices is the reverse pitch format. Rather than startups lining up to impress big companies, corporates and city governments take the stage to present their unsolved challenges and invite startups to propose solutions.\nThis year, Moreton Bay and Rome are both running reverse pitch sessions — essentially issuing public RFPs to a global startup audience. On the corporate side, 62 partner companies — including Sony, Google, Microsoft, and Mizuho — are hosting dedicated Open Innovation exhibits and sessions, actively hunting for collaborators. Twelve domain-specific clusters spanning logistics, life sciences, railways, and climate tech are also exhibiting for the first time, each looking to co-create with startups rather than simply observe them.\n750 startups, 400 of them international\nOf the 750 exhibitors, 400 come from outside Japan — a genuine cross-section of the global startup ecosystem. City partners from 25 countries and regions bring their own cohorts with an explicit mandate to connect startups to Japanese partners and capital. A new group of 45 “SusHi Tech Global Startups” — growth-stage Japanese companies backed by Tokyo Metropolitan Government — are making their global debut in a dedicated pavilion.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nFor international founders and investors who’ve been watching Japan from the outside, SusHi Tech is the most efficient entry point the market has ever offered. The business card you exchange on April 27 doesn’t have to end up in a drawer.\nCan’t make it to Tokyo? You can still be there\nMissing SusHi Tech Tokyo doesn’t have to mean missing out. Remote participants get more than a livestream — on-site staff will walk the floor on your behalf, carrying a device that displays your face so you can interact with attendees and exhibitors in real time, face-to-face. It’s the closest thing to actually being there.\nApply for remote participation with on-site staff support here.\nCan’t swing that either? Ticket holders can stream sessions online and tap into the programming from wherever they are. Browse the full session list here.\nNote: Some sessions may not be available for online streaming.\nSusHi Tech Tokyo 2026 runs April 27–29 at Tokyo Big Sight. Business days are April 27–28; Public Day (free admission) is April 29. Register here.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "SusHi Tech Tokyo isn’t a conference — it’s a deal room with 60,000 people",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/04/article-2-hero.jpg?w=150"
-      ],
-      "datePublished": "2026-04-21T19:02:35.000Z",
-      "dateModified": "2026-04-21T19:02:35.000Z",
       "author": [
         {
           "@type": "Person",
@@ -350,6 +275,56 @@
     }
   },
   {
+    "title": "AI Dungeon maker Latitude unveils Voyage, a platform for creating AI-powered RPGs",
+    "url": "https://techcrunch.com/2026/04/21/voyage-is-an-ai-rpg-platform-for-creating-custom-gaming-worlds-with-ai-generated-npc-interactions/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Voyage-Promo-Art-3.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-04-21T16:00:00.000Z",
+    "description": "\nIf you’ve ever played a role-playing game (RPG), you know how fun it is to create your character in any way you choose and embark on epic adventures.",
+    "body": "\nIf you’ve ever played a role-playing game (RPG), you know how fun it is to create your character in any way you choose and embark on epic adventures. Now, picture an AI-powered, text-based RPG where every interaction with a non-player character (NPC) is completely unscripted. \nLatitude, the startup known for its open-ended text adventure games featuring “infinite storylines” generated by AI, recently unveiled its new platform that allows users to step into the role of game designers. \nThis AI-driven RPG platform, called Voyage, enables players to design their own gaming worlds with the help of AI. Players can describe their settings, including details such as regions, cities, landmarks, main quests, and villains. They can also establish game mechanics like abilities, leveling systems, and combat challenges.\nFor example, if you want to create a fishing village haunted by a sea monster, the AI will generate the necessary code to bring that idea to life. You can customize your world further before sharing it with others to play.\nImage Credits:Latitude\nFor players, Voyage’s platform offers a range of experiences across different genres, from cozy adventures to more hardcore quests. Because it’s text-based, players read along with the story (with audio narration available) and type how they want their character to act.\nUnlike traditional RPGs, if a character is facing a goblin attack, instead of the typical options to run, fight, or hide, players can choose unique scenarios like becoming a goblin therapist, helping the creatures with their issues instead of resorting to violence. \nWhen players enter their desired actions, the AI narrates the outcome, including how the NPCs respond. Because there’s no fixed script, interactions can veer in unexpected directions, often leading to surprising and sometimes weird conversations. For instance, during our testing, a troll who had tied up our character started to unload about his marriage troubles.\nCharacter progression, meanwhile, depends on the character’s skills and a little luck, much like rolling dice in tabletop games. Each character can also unlock special abilities as they defeat bosses or finish quests, such as using “Counterspell” to stop an enemy from using magic. (Several abilities in Voyage draw inspiration from classic Dungeons & Dragons spells, which is fun!)\nAnd, if players ever find themselves stuck, there’s a chatbot available to suggest actions or even skip to different parts of the story.\nAt the core of Voyage is Latitude’s World Engine, a system that took the company five years to develop. This engine leverages multiple AI systems that can narrate actions, manage gameplay, track characters and objects, and remember backstories and relationships, ensuring continuity throughout the game. So, instead of generic NPCs with repetitive lines, players encounter characters who remember previous interactions. For instance, if you betray a character’s trust, they may choose to avoid you or become a rival in future encounters.\n“Characters aren’t just reactions to you, but have their own personality backstory, that react to you in ways that feel like real, and that’s really part of the magic of the engine,” Latitude CEO and co-founder Nick Walton told TechCrunch.\nImage Credits:Latitude\nLatitude first made waves in AI-native gaming with the launch of AI Dungeon in 2019, which attracted millions of players.\n“It exploded on the internet as one of the first times people interacted with generative AI,” Walton said. “It sort of established that initial promise of what would happen if we could have games and worlds that aren’t all predefined in advance, that aren’t all scripted… Voyage takes that core concept and blows it up 10x farther from a single AI model to a full-blown world that you have deterministic systems, challenges, progression, and persistence, and solves all the problems that I think AI Dungeon alone couldn’t fully get to.” \nVoyage is currently in expanded beta testing, with an open beta scheduled for later this year. The platform has seen early testers interact with over 160,000 unique AI-generated characters, each with distinct personalities. The average player has made nearly 3,000 gameplay choices.\nImage Credits:Latitude\nAlongside the launch announcement, Latitude announced a partnership with Google’s AI Futures Fund. The platform combines its proprietary models with third-party models like Google’s Gemini Flash for image generation and Gemma for text, audio, and video.\nAdditionally, former Roblox Chief Business Officer Craig Donato has joined as an investor and board member. Other notable investors include Album VC, Griffin Gaming Partners, Midjourney, and NFX.\nVoyage is free to play but will soon offer subscription plans priced at $15, $30, and $50. These plans will provide advanced AI features and remove limitations on the number of actions players can take.\nIt’s also important to note that, while the platform is suitable for all ages, some experiences include mature content, which Walton says is similar to what you might find on Steam. He adds that Voyage implements safety measures and parental controls to help users filter out inappropriate material.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "AI Dungeon maker Latitude unveils Voyage, a platform for creating AI-powered RPGs",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/04/Voyage-Promo-Art-3.jpg?w=150"
+      ],
+      "datePublished": "2026-04-21T16:00:00.000Z",
+      "dateModified": "2026-04-21T16:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "ChatGPT’s new Images 2.0 model is surprisingly good at generating text",
+    "url": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/05/openAI-spiral-color-v2.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-04-21T19:00:00.000Z",
+    "description": "\nIt used to be easy enough to distinguish between human-made and AI-generated imagery — just two years ago, you couldn’t use image models to create a ",
+    "body": "\nIt used to be easy enough to distinguish between human-made and AI-generated imagery — just two years ago, you couldn’t use image models to create a menu for a Mexican restaurant without inventing new culinary delights like “enchuita,” “churiros,” “burrto,” and “margartas.” \nNow, when I ask the brand new ChatGPT Images 2.0 model for a menu of Mexican food, it creates something that could immediately be used in a restaurant without customers noticing that something’s off. (However, ceviche priced at $13.50 might make me question the quality of the fish.)\nImage Credits:ChatGPT Images 2.0\nFor comparison, here’s the result I got from DALL-E 3 two years ago (at the time, ChatGPT did not generate images):\nImage Credits:Microsoft Designer (DALL-E 3)\nAI image generators have historically struggled to spell because they generally used diffusion models, which work by reconstructing images from noise.\n“The diffusion models […] are reconstructing a given input,” Asmelash Teka Hadgu, founder and CEO of Lesan AI, told TechCrunch in 2024. “We can assume writings on an image are a very, very tiny part, so the image generator learns the patterns that cover more of these pixels.”\nResearchers have since explored other mechanisms for image generation, like autoregressive models, which make predictions about what an image should look like and function more like an LLM.\nUnfortunately, OpenAI declined to answer a question in a press briefing this week about what kind of model is powering ChatGPT Images 2.0.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThe company did, however, explain that the new model has “thinking capabilities,” which give it the ability to search the web, make multiple images from one prompt, and double-check its creations — this allows Images 2.0 to create marketing assets in various sizes, as well as multi-paneled comic strips. \nOpenAI also says that Images has a stronger understanding of non-Latin text rendering in languages like Japanese, Korean, Hindi, and Bengali. The model’s knowledge cuts off in December 2025, which could impact how accurately it can generate certain prompts involving recent news.\n“Images 2.0 brings an unprecedented level of specificity and fidelity to image creation. It can not only conceptualize more sophisticated images, but it actually brings that vision to life eﬀectively, able to follow instructions, preserve requested details, and render the fine-grained elements that often break image models: small text, iconography, UI elements, dense compositions, and subtle stylistic constraints, all at up to 2K resolution,” OpenAI said in a press release.\nThese capabilities mean that image generation isn’t as rapid as typing a question to ChatGPT, but generating something complex like a multi-paneled comic still takes just a few minutes. \nAll ChatGPT and Codex users will be able to access Images 2.0 starting Tuesday; paid users will be able to generate more advanced outputs. The company will also make the gpt-image-2 API available, with pricing dependent on the quality and resolution of outputs.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tAmanda Silberling is a senior writer at TechCrunch covering the intersection of technology and culture. She has also written for publications like Polygon, MTV, the Kenyon Review, NPR, and Business Insider. She is the co-host of Wow If True, a podcast about internet culture, with science fiction author Isabel J. Kim. Prior to joining TechCrunch, she worked as a grassroots organizer, museum educator, and film festival coordinator. She holds a B.A. in English from the University of Pennsylvania and served as a Princeton in Asia Fellow in Laos.\nYou can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "ChatGPT’s new Images 2.0 model is surprisingly good at generating text",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2024/05/openAI-spiral-color-v2.jpg?w=150"
+      ],
+      "datePublished": "2026-04-21T19:00:00.000Z",
+      "dateModified": "2026-04-21T19:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Ransomware negotiator pleads guilty to helping ransomware gang",
     "url": "https://techcrunch.com/2026/04/21/ransomware-negotiator-pleads-guilty-to-helping-ransomware-gang/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/03/cash-ransomware-ransom-payments-hackers-getty.jpg?w=150",
@@ -366,6 +341,31 @@
       ],
       "datePublished": "2026-04-21T15:56:53.000Z",
       "dateModified": "2026-04-21T15:56:53.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "With US spy laws set to expire, lawmakers are split over protecting Americans from warrantless surveillance",
+    "url": "https://techcrunch.com/2026/04/21/with-us-spy-laws-set-to-expire-lawmakers-are-split-over-protecting-americans-from-warrantless-surveillance/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/nsa-surveillance-525618310.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-04-21T13:00:00.000Z",
+    "description": "\nA long-running law that has allowed U.S. intelligence agencies to collect and analyze huge amounts of overseas communications without needing search ",
+    "body": "\nA long-running law that has allowed U.S. intelligence agencies to collect and analyze huge amounts of overseas communications without needing search warrants is set to expire April 30, and lawmakers are in a deadlock over whether to allow the Trump administration to extend it without any changes.\nKnown as Section 702 of the Foreign Intelligence Surveillance Act (FISA), the law allows the National Security Agency, the CIA, the FBI and other federal intelligence agencies to record overseas communications that flow through the United States without needing individualized search warrants.\nIn sweeping up much of the world’s communications, the agencies also collect unfathomable amounts of information, including phone logs and emails, on Americans who interact with people subject to surveillance overseas. This data is collected despite constitutional protections that should shield Americans and people in the United States from government surveillance.\nBut ahead of the law’s expiry on April 30 following a brief extension passed last week, a bipartisan, pro-privacy group of House lawmakers and Senators are calling for sweeping changes to FISA, arguing that the changes are “essential” for protecting the privacy rights of Americans.\nSome lawmakers are calling for widespread reforms following years of scandals and surveillance abuses across successive U.S. administrations, while others are holding their vote to further their own political goals by attaching the provisions to other legislation. \nA social media post from President Trump suggests that — at least for now — the White House is keen on the idea of passing a simple re-authorization without any changes to the law.\nThe bipartisan group’s legislative fix is the Government Surveillance Reform Act, introduced into Congress in March by Sens. Ron Wyden (D-OR), Mike Lee (R-UT) and others, which aims to curtail some of the government’s warrantless surveillance programs. Among other things, the lawmakers seek provisions to prevent government agencies from using a “backdoor search” loophole that allows them to trawl the communications of Americans without first obtaining a search warrant.\nAnother key provision would prevent federal agencies from buying commercially available data about Americans from data brokers — a practice the U.S. government has long asserted that it does not need a court’s permission for.\nApp developers collect reams of location data from people who use smartphone apps, and then sell that information to brokers, who in turn sell that data to governments and militaries. FBI director Kash Patel confirmed in a congressional hearing in March that the FBI buys Americans’ location data without seeking court authorization.\nBoth Republicans and Democrats are reportedly keen on closing this loophole, which allows spy agencies to buy commercial data and use AI models to analyze billions of location points. This is currently also a sticking point in the U.S. government’s negotiations with Anthropic and OpenAI over the unrestricted use of their tools.\nThe American Civil Liberties Union, Electronic Privacy Information Center, and the Project on Government Oversight are among some of the privacy groups supporting the bipartisan bill.\nIt’s currently unclear if the bill will pass, but lawmakers say legislative reforms are necessary, especially as technological advancements make it easier for tech companies and governments to surveil people than ever before.\nWyden, the longest-serving lawmaker to sit on any congressional intelligence committee and a known privacy hawk, has warned that many lawmakers are not fully aware that multiple U.S. administrations have long relied on a secret, legal interpretation of Section 702 that “directly affects the privacy rights of Americans.” Wyden said the matter remains secret, but urged the government to declassify the information so lawmakers can discuss it. \nIn a post on X, Rep. Thomas Massie (R-KY, 4th) said he would vote against the reauthorization of Section 702, after he echoed Wyden by raising concerns about how the FBI was interpreting the law.\n\nI just viewed 2 Top Secret FISA docs.1) FISA Court opinion that raises serious concerns about FBI implementation of FISA 702.2) letter by Senator Wyden describing a secret government interpretation of FISA law.The Constitution requires I vote No on FISA 702 reauthorization.— Thomas Massie (@RepThomasMassie) April 16, 2026\n\nEven if Section 702 expires on April 30, it doesn’t mark the immediate end of the U.S. government’s surveillance powers.\nWhile lawmakers in the U.S. House of Representatives are yet to reach consensus on renewing or altering Section 702, a legal quirk would allow U.S. surveillance to continue until March 2027 unless Congress actively intervenes — even if the law expires.\nThis is because the secretive Washington, D.C. court that oversees the government’s compliance with FISA, known as the Foreign Intelligence Surveillance Court (FISC), asks the government each year to certify that its practices are lawful. That rubber-stamp allows the government to collect phone calls and emails for a duration of 12 months, effectively guaranteeing that the surveillance programs that rely on FISA’s legal powers will continue for at least a year.\nThe U.S. government also has other surveillance powers that aren’t overseen by Congress, such as Executive Order 12333, an entirely secret presidential directive that dictates most of the U.S. government’s surveillance outside of the United States. It also ensnares an unknown quantity of Americans’ private communications.\nFirst published on April 17 and updated following the passing of a 10-day extension.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "With US spy laws set to expire, lawmakers are split over protecting Americans from warrantless surveillance",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/04/nsa-surveillance-525618310.jpg?w=150"
+      ],
+      "datePublished": "2026-04-21T13:00:00.000Z",
+      "dateModified": "2026-04-21T13:00:00.000Z",
       "author": [
         {
           "@type": "Person",
