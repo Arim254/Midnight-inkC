@@ -50,22 +50,47 @@
     }
   },
   {
-    "title": "Nuclear startup X-energy raises $1B in data center-driven IPO",
-    "url": "https://techcrunch.com/2026/04/24/nuclear-startup-x-energy-raises-1b-in-data-center-driven-ipo/",
-    "image": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-129268875.jpg?w=150",
+    "title": "Anthropic created a test marketplace for agent-on-agent commerce",
+    "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-88622588.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-04-24T15:06:00.000Z",
-    "description": "\nNuclear startup X-energy raised $1 billion in its initial public offering yesterday, selling 44.3 million shares for $23 each, a hefty premium above ",
-    "body": "\nNuclear startup X-energy raised $1 billion in its initial public offering yesterday, selling 44.3 million shares for $23 each, a hefty premium above the $16 to $19 per share it was seeking. Initially, the company had hoped to raise around $800 million.\nThe stock is expected to begin trading on Friday on the Nasdaq Exchange under the ticker XE.\nX-energy is building small modular reactors capable of generating electricity or delivering heat to industrial processes. The company has a deal with Dow to provide heat and power to a chemical plant in Texas and another with Amazon to sell as much as 5 gigawatts of nuclear power by 2039. Amazon’s Climate Pledge Fund led X-energy’s Series C-1 round.\nNuclear startups like X-energy have been buoyed by surging demand for electricity from data centers and other parts of the economy that have been electrifying.\nThe company says its reactors will generate 80 megawatts of electricity. Each Xe-100 reactor is cooled by helium gas, which flows over billiard ball-sized “pebbles” that are packed with BB-sized TRISO fuel pellets. TRISO fuel, which contains a kernel of uranium wrapped in carbon and silicon, was developed years ago to be safer than existing fuel designs, though it hasn’t been widely used. X-energy says its fuel can withstand higher temperatures, helping to keep the fuel contained and reduce the potential of a meltdown.\n",
+    "date": "2026-04-25T21:43:37.000Z",
+    "description": "\nIn Brief\nPosted:\n2:43 PM PDT · April 25, 2026\n\nImage Credits:Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nIn a recent experiment, Anthropi",
+    "body": "\nIn Brief\nPosted:\n2:43 PM PDT · April 25, 2026\n\nImage Credits:Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nIn a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.\nThe company admitted this test — which it called Project Deal — was only “a pilot experiment with a self-selected participant pool” of 69 Anthropic employees who were given a budget of $100 (paid out via gift cards) to buy stuff from their coworkers.\nNonetheless, Anthropic said it was “struck by how well Project Deal worked,” with 186 deals made, totaling more than $4,000 in value.\nThe company said it actually ran four separate marketplaces with different models — one that was “real” (where everyone was represented by the company’s most-advanced model, and with deals actually honored after the experiment) and another three for study. \nApparently, when users are represented by more advanced models, they get “objectively better outcomes,” Anthropic said. But users didn’t seem to notice the disparity, raising the possibility of “‘agent quality’ gaps” where “people on the losing end might not realize they’re worse off.”\nAlso, the initial instructions given to the agents didn’t appear to affect sale likelihood or the negotiated prices.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in AI\n\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Nuclear startup X-energy raises $1B in data center-driven IPO",
+      "headline": "Anthropic created a test marketplace for agent-on-agent commerce",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-129268875.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-88622588.jpg?w=150"
       ],
-      "datePublished": "2026-04-24T15:06:00.000Z",
-      "dateModified": "2026-04-24T15:06:00.000Z",
+      "datePublished": "2026-04-25T21:43:37.000Z",
+      "dateModified": "2026-04-25T21:43:37.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Maine’s governor vetoes data center moratorium",
+    "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?w=150",
+    "tag": "Tech",
+    "date": "2026-04-25T20:57:08.000Z",
+    "description": "\nIn Brief\nPosted:\n1:57 PM PDT · April 25, 2026\n\nImage Credits:Brandon Dill for The Washington Post / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t",
+    "body": "\nIn Brief\nPosted:\n1:57 PM PDT · April 25, 2026\n\nImage Credits:Brandon Dill for The Washington Post / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nMaine Governor Janet Mills has vetoed a bill that would have temporarily brought permits for new data centers to a halt.\nIf it had become law, L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027. The bill also called for the creation of a 13-person council to study and make recommendations on data center construction.\nWith public opposition to data centers rising, other states including New York have considered similar moratoriums.\nIn a letter to the state legislature, Mills — a Democrat currently running for the U.S. Senate — said that pausing new data centers would be “appropriate given the impacts of massive data centers in other states on the environment and on electricity rates” and that she “would have signed this bill” if it had included an exemption for a data center project in the Town of Jay.\nThat project, Mills said, “enjoys strong local support from its host community and region.”\nMelanie Sachs, a Democratic state representative who sponsored the bill, said Mills’ veto “poses significant potential consequences for all ratepayers, our electric grid, our environment, and our shared energy future.”\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Government & Policy\n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Maine’s governor vetoes data center moratorium",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?w=150"
+      ],
+      "datePublished": "2026-04-25T20:57:08.000Z",
+      "dateModified": "2026-04-25T20:57:08.000Z",
       "author": [
         {
           "@type": "Person",
@@ -100,6 +125,31 @@
     }
   },
   {
+    "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
+    "url": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/ComfyUI-Co-founders-1.png?w=150",
+    "tag": "Tech",
+    "date": "2026-04-24T19:49:35.000Z",
+    "description": "\nComfyUI, a startup that helps creators control image, video, and audio outputs from diffusion models with a node-based workflow, has raised a $30 mil",
+    "body": "\nComfyUI, a startup that helps creators control image, video, and audio outputs from diffusion models with a node-based workflow, has raised a $30 million funding round at a $500 million valuation.\nThe round was led by Craft Ventures, with participation from other investors including Pace Capital, Chemistry, and TruArrow.\nComfyUI was started as an open-source project in 2023, shortly after the introduction of diffusion models. At that time, models like Midjourney and OpenAI’s DALL-E were barely functional, frequently making major mistakes, such as adding extra fingers to hands.\nTo address these limitations, the project founders developed a modular framework that gives creators granular control over every step of the generation process.\nTheir tool gained such significant traction among creative professionals that it eventually evolved into a formal startup. In late 2024, ComfyUI raised $19 million in Series A financing from investors including Chemistry Ventures, Cursor Capital, and Guillermo Rauch, founder of Vercel.\nAlthough the latest diffusion models have come a long way from adding a sixth digit to hands, the need for the granular precision that ComfyUI offers has only grown.\n“If you think about your typical prompt-based solution, like Midjourney or ChatGPT, you ask for something, it [gets only] 60% – 80% there,” Yoland Yan, ComfyUI’s co-founder and CEO, told TechCrunch. “But to change that remaining 20%, you have to try this slot machine.”\nYan (pictured left) compared the process to playing in a casino because prompting the model to make a small change can result in a completely different output, including overwriting the parts that were already perfect.\nComfyUI’s node-based interface allows creators to link specific components of the generation process, giving them full control over the quality of their final output.\n“You cannot easily convey that message in the prompt box [of a foundational model],” Yan said.\nCreators seem to agree, as ComfyUI claims to have over 4 million users.\nThe tool is being used by creative professionals for visual effects, animation, advertising, and even industrial design.\nThe startup says its offering has become such a necessary tool of the trade for technical artists and other creatives that it is not uncommon to see “ComfyUI artist or engineer” listed as a job title on studio job boards.\nAlthough video and image foundational models continue to improve, Yan claims that they are far from perfect, and a tool like ComfyUI will continue to be in high demand.\n“In the world where AI slop is going to be everywhere, the Comfy version of human-in-the -loop approach is going to win out most of the eyeballs in the end,” he said.\nComfyUI’s competitors include Weavy, a startup that was acquired by Figma last year.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tMarina Temkin is a venture capital and startups reporter at TechCrunch. Prior to joining TechCrunch, she wrote about VC for PitchBook and Venture Capital Journal. Earlier in her career, Marina was a financial analyst and earned a CFA charterholder designation.\r\nYou can contact or verify outreach from Marina by emailing marina.temkin@techcrunch.com or via encrypted message at +1 347-683-3909 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/04/ComfyUI-Co-founders-1.png?w=150"
+      ],
+      "datePublished": "2026-04-24T19:49:35.000Z",
+      "dateModified": "2026-04-24T19:49:35.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "India’s Snabbit seeks fresh funding at a $400M valuation, sources say",
     "url": "https://techcrunch.com/2026/04/25/indias-snabbit-seeks-fresh-funding-at-a-400m-valuation-sources-say/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/05/snabbit.jpg?w=150",
@@ -116,81 +166,6 @@
       ],
       "datePublished": "2026-04-25T14:57:26.000Z",
       "dateModified": "2026-04-25T14:57:26.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "OpenAI CEO apologizes to Tumbler Ridge community",
-    "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2194585161.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-04-25T17:17:56.000Z",
-    "description": "\nIn a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforceme",
-    "body": "\nIn a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.\nAfter police identified 18-year-old Jesse Van Rootselaar as a suspected shooter who allegedly killed eight people, the Wall Street Journal reported that OpenAI had flagged and banned Van Rootselaar’s ChatGPT account in June 2025 for describing scenarios involving gun violence. The company’s staff debated alerting police but ultimately decided against it, eventually reaching out to Canadian authorities after the shooting.\nOpenAI has since said that it is improving safety protocols, for example by putting more flexible criteria in place to determine when accounts get referred to authorities, and by establishing direct points of contact with Canadian law enforcement.\nIn Altman’s letter, which was first published in the local newspaper Tumbler RidgeLines, the CEO said he’d discussed the shooting with Tumbler Ridge Mayor Darryl Krakowka and British Columbia Premier David Eby, and they’d all agreed “a public apology was necessary,” but “time was also needed to respect the community as you grieved.”\n“I am deeply sorry that we did not alert law enforcement to the account that was banned in June,” Altman said. “While I know words can never be enough, I believe an apology is necessary to recognize the harm and irreversible loss your community has suffered.”\nAltman also said that OpenAI’s focus will “continue to be on working with all levels of government to help ensure nothing happens like this again.”\nIn a post on X, Eby said Altman’s apology is “necessary, and yet grossly insufficient for the devastation done to the families of Tumbler Ridge.”\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nCanadian officials have said they are considering new regulations on artificial intelligence but have not made any final decisions.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tAnthony Ha is TechCrunch’s weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local government reporter at the Hollister Free Lance, and vice president of content at a VC firm. He lives in New York City.\nYou can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "OpenAI CEO apologizes to Tumbler Ridge community",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2194585161.jpg?w=150"
-      ],
-      "datePublished": "2026-04-25T17:17:56.000Z",
-      "dateModified": "2026-04-25T17:17:56.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Meta’s loss is Thinking Machines’ gain",
-    "url": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-1730510668.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-04-24T20:52:07.000Z",
-    "description": "\nWeiyao Wang spent eight years at Meta — his first job out of college — helping build multimodal perception systems and contributing to open-world seg",
-    "body": "\nWeiyao Wang spent eight years at Meta — his first job out of college — helping build multimodal perception systems and contributing to open-world segmentation projects, including SAM3D. His final day at Meta was last week, and he has since joined Thinking Machines Lab (TML).\nHis move to TML comes as the AI startup expands on multiple fronts. It just signed a multibillion-dollar cloud deal with Google, giving it access to Nvidia’s latest GB300 chips and making it one of the first startups to run on the hardware.\nThe agreement, announced this past Tuesday at Google Cloud Next, follows an earlier partnership with Nvidia, and puts TML in the same infrastructure tier as Anthropic and Meta. (Meta reportedly held talks to acquire Thinking Machines around this time last year and has more recently been picking off TML’s founders one by one.)\nThe talent picture remains fluid. Wang and Kenneth Li — a Harvard PhD who spent 10 months at Meta before joining TML this month — are the latest examples of a talent grab that runs in both directions. Business Insider reported last week that Meta has now poached seven of TML’s founding members. A review of recent hires shows Thinking Machines is raiding Meta right back. At least, it appears based on a review of LinkedIn profiles, that TML has been hiring more researchers from Meta than from any other single employer.\nThe most prominent is Soumith Chintala, TML’s CTO, who spent 11 years at Meta and co-founded PyTorch, the open source deep learning framework that now underpins most of the world’s AI research. He left Meta in late 2025 and was appointed CTO earlier this year. Piotr Dollár, another 11-year Meta veteran who served as research director and co-authored the influential Segment Anything model, is now on TML’s technical staff. Andrea Madotto, a research scientist in Meta’s FAIR division focused on multimodal language models, joined TML in December. James Sun, a software engineer with nearly nine years at Meta working on LLM pre- and post-training, also made the jump.\nTML has drawn talent from beyond Meta, too. Neal Wu — a three-time gold medalist at the International Olympiad in Informatics and a founding member of the buzzy coding startup Cognition — joined early this year. Jeffrey Tao came via Waymo, Windsurf, and OpenAI. Muhammad Maaz previously held a research fellowship at Anthropic. Erik Wijmans arrived from Apple. Liliang Ren spent two and a half years on Microsoft’s AI Superintelligence team pre-training OpenAI models for code before joining in March.\nThe startup’s headcount now stands at around 140.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nMeta’s pay packages — seven figures, no strings attached — are well known by now. For researchers weighing their other options, the calculus may be as simple as this: Thinking Machines Lab is right now valued at $12 billion. Though that figure would’ve been unimaginable for a company at this stage in any previous tech cycle (it has released just one product so far), compared with the record-breaking valuations of OpenAI and Anthropic, there’s still a lot of financial upside.\nReached Friday morning, a spokesperson for TML declined to comment for this story.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tLoizos has been reporting on Silicon Valley since the late ’90s, when she joined the original Red Herring magazine. Previously the Silicon Valley Editor of TechCrunch, she was named Editor in Chief and General Manager of TechCrunch in September 2023. She’s also the founder of StrictlyVC, a daily e-newsletter and lecture series acquired by Yahoo in August 2023 and now operated as a sub brand of TechCrunch.\nYou can contact or verify outreach from Connie by emailing connie@strictlyvc.com or connie@techcrunch.com, or via encrypted message at ConnieLoizos.53 on Signal.\r\n\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Meta’s loss is Thinking Machines’ gain",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-1730510668.jpg?w=150"
-      ],
-      "datePublished": "2026-04-24T20:52:07.000Z",
-      "dateModified": "2026-04-24T20:52:07.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "X launches stand-alone XChat app on iOS",
-    "url": "https://techcrunch.com/2026/04/24/x-launches-xchat-app-ios-messaging-iphone/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-musk-graffiti.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-04-24T19:46:58.000Z",
-    "description": "\nXChat, X’s stand-alone messaging app, launched to the public on Friday. Initially available on iOS devices, the new app allows users to connect with ",
-    "body": "\nXChat, X’s stand-alone messaging app, launched to the public on Friday. Initially available on iOS devices, the new app allows users to connect with their X contacts for messaging, file sharing, audio and video calls, as well as group chats.\nThe company first began publicly testing XChat with a small group of beta users earlier this year to get their feedback about the new experience.\nThe XChat app is a key piece to the strategic vision for the company, which sees the social network as a jumping-off point for other services, like messaging or payments. (The latter is also being tested as a dedicated app, though it is not yet available publicly.)\nHowever, X’s decision to break out of a piece of its platform to become its own dedicated app is a shift away from owner Elon Musk’s earlier plan to make X an “everything app,” which would provide a single place to access messaging, payments, creator content, shopping, AI, and more.\nInstead, xAI (Musk’s AI company that owns X and is itself owned by Musk’s other company SpaceX) is now offering a suite of apps to provide more consumer touchpoints with its services.\n\nAt launch, the XChat app offers support for messaging and calling, as well as other features that it says are privacy protected, including the ability to edit and delete messages for everyone in the chat; support for disappearing messages; and the ability to block screenshots. X claims there are no ads or tracking mechanisms in the app.\nThe company also claims that all messages are end-to-end encrypted and PIN protected — though security experts have previously disputed the company’s encryption claims.\nSecurity experts had earlier warned potential users that the XChat service appears to be less secure than other encrypted messaging apps, like Signal, when the app was first introduced. They will need to evaluate the dedicated XChat app again, now that it’s broadly available, to see if the necessary improvements have been made.\n\nIn addition to offering a place to have private chats or group chats, XChat is also stepping in to serve as the new destination for X’s Communities, which the company has decided to shut down due to lack of use and high amounts of spam. The timing of that news could give XChat an early boost in new installs, as community members make the shift.\nMore updates to XChat are seemingly still planned, according to X lead designer Benji Taylor, who teased that the app is “just the beginning of what we’re building for messaging.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "X launches stand-alone XChat app on iOS",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-musk-graffiti.jpg?w=150"
-      ],
-      "datePublished": "2026-04-24T19:46:58.000Z",
-      "dateModified": "2026-04-24T19:46:58.000Z",
       "author": [
         {
           "@type": "Person",
@@ -250,22 +225,97 @@
     }
   },
   {
-    "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
-    "url": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/ComfyUI-Co-founders-1.png?w=150",
+    "title": "X launches stand-alone XChat app on iOS",
+    "url": "https://techcrunch.com/2026/04/24/x-launches-xchat-app-ios-messaging-iphone/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-musk-graffiti.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-04-24T19:49:35.000Z",
-    "description": "\nComfyUI, a startup that helps creators control image, video, and audio outputs from diffusion models with a node-based workflow, has raised a $30 mil",
-    "body": "\nComfyUI, a startup that helps creators control image, video, and audio outputs from diffusion models with a node-based workflow, has raised a $30 million funding round at a $500 million valuation.\nThe round was led by Craft Ventures, with participation from other investors including Pace Capital, Chemistry, and TruArrow.\nComfyUI was started as an open-source project in 2023, shortly after the introduction of diffusion models. At that time, models like Midjourney and OpenAI’s DALL-E were barely functional, frequently making major mistakes, such as adding extra fingers to hands.\nTo address these limitations, the project founders developed a modular framework that gives creators granular control over every step of the generation process.\nTheir tool gained such significant traction among creative professionals that it eventually evolved into a formal startup. In late 2024, ComfyUI raised $19 million in Series A financing from investors including Chemistry Ventures, Cursor Capital, and Guillermo Rauch, founder of Vercel.\nAlthough the latest diffusion models have come a long way from adding a sixth digit to hands, the need for the granular precision that ComfyUI offers has only grown.\n“If you think about your typical prompt-based solution, like Midjourney or ChatGPT, you ask for something, it [gets only] 60% – 80% there,” Yoland Yan, ComfyUI’s co-founder and CEO, told TechCrunch. “But to change that remaining 20%, you have to try this slot machine.”\nYan (pictured left) compared the process to playing in a casino because prompting the model to make a small change can result in a completely different output, including overwriting the parts that were already perfect.\nComfyUI’s node-based interface allows creators to link specific components of the generation process, giving them full control over the quality of their final output.\n“You cannot easily convey that message in the prompt box [of a foundational model],” Yan said.\nCreators seem to agree, as ComfyUI claims to have over 4 million users.\nThe tool is being used by creative professionals for visual effects, animation, advertising, and even industrial design.\nThe startup says its offering has become such a necessary tool of the trade for technical artists and other creatives that it is not uncommon to see “ComfyUI artist or engineer” listed as a job title on studio job boards.\nAlthough video and image foundational models continue to improve, Yan claims that they are far from perfect, and a tool like ComfyUI will continue to be in high demand.\n“In the world where AI slop is going to be everywhere, the Comfy version of human-in-the -loop approach is going to win out most of the eyeballs in the end,” he said.\nComfyUI’s competitors include Weavy, a startup that was acquired by Figma last year.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tMarina Temkin is a venture capital and startups reporter at TechCrunch. Prior to joining TechCrunch, she wrote about VC for PitchBook and Venture Capital Journal. Earlier in her career, Marina was a financial analyst and earned a CFA charterholder designation.\r\nYou can contact or verify outreach from Marina by emailing marina.temkin@techcrunch.com or via encrypted message at +1 347-683-3909 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-04-24T19:46:58.000Z",
+    "description": "\nXChat, X’s stand-alone messaging app, launched to the public on Friday. Initially available on iOS devices, the new app allows users to connect with ",
+    "body": "\nXChat, X’s stand-alone messaging app, launched to the public on Friday. Initially available on iOS devices, the new app allows users to connect with their X contacts for messaging, file sharing, audio and video calls, as well as group chats.\nThe company first began publicly testing XChat with a small group of beta users earlier this year to get their feedback about the new experience.\nThe XChat app is a key piece to the strategic vision for the company, which sees the social network as a jumping-off point for other services, like messaging or payments. (The latter is also being tested as a dedicated app, though it is not yet available publicly.)\nHowever, X’s decision to break out of a piece of its platform to become its own dedicated app is a shift away from owner Elon Musk’s earlier plan to make X an “everything app,” which would provide a single place to access messaging, payments, creator content, shopping, AI, and more.\nInstead, xAI (Musk’s AI company that owns X and is itself owned by Musk’s other company SpaceX) is now offering a suite of apps to provide more consumer touchpoints with its services.\n\nAt launch, the XChat app offers support for messaging and calling, as well as other features that it says are privacy protected, including the ability to edit and delete messages for everyone in the chat; support for disappearing messages; and the ability to block screenshots. X claims there are no ads or tracking mechanisms in the app.\nThe company also claims that all messages are end-to-end encrypted and PIN protected — though security experts have previously disputed the company’s encryption claims.\nSecurity experts had earlier warned potential users that the XChat service appears to be less secure than other encrypted messaging apps, like Signal, when the app was first introduced. They will need to evaluate the dedicated XChat app again, now that it’s broadly available, to see if the necessary improvements have been made.\n\nIn addition to offering a place to have private chats or group chats, XChat is also stepping in to serve as the new destination for X’s Communities, which the company has decided to shut down due to lack of use and high amounts of spam. The timing of that news could give XChat an early boost in new installs, as community members make the shift.\nMore updates to XChat are seemingly still planned, according to X lead designer Benji Taylor, who teased that the app is “just the beginning of what we’re building for messaging.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
+      "headline": "X launches stand-alone XChat app on iOS",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/04/ComfyUI-Co-founders-1.png?w=150"
+        "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-musk-graffiti.jpg?w=150"
       ],
-      "datePublished": "2026-04-24T19:49:35.000Z",
-      "dateModified": "2026-04-24T19:49:35.000Z",
+      "datePublished": "2026-04-24T19:46:58.000Z",
+      "dateModified": "2026-04-24T19:46:58.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Apple under Ternus: what comes next for the tech giant’s hardware strategy",
+    "url": "https://techcrunch.com/2026/04/25/apple-under-ternus-what-comes-next-for-the-tech-giants-hardware-strategy/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2264522469.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-04-25T15:00:00.000Z",
+    "description": "\nAs Apple races to stay competitive in AI while navigating tariffs and supply chain uncertainty, the company’s future is about to shift under new lead",
+    "body": "\nAs Apple races to stay competitive in AI while navigating tariffs and supply chain uncertainty, the company’s future is about to shift under new leadership.\nOn Monday, Apple announced that John Ternus will take over as CEO later this year, succeeding Tim Cook.\nCook transformed Apple into a $4 trillion global powerhouse, expanded its services business, and oversaw some of the most profitable years in tech history. Ternus brings a different kind of skillset. A longtime hardware executive, he has spent his career building Apple’s devices rather than managing the broader business.\nTernus joined Apple in 2001 and rose through the ranks of hardware engineering. Along the way, he has contributed to some of the company’s biggest products, including AirPods, the Apple Watch, and Vision Pro.\nHis appointment signals a renewed focus on hardware at a moment when Apple is under pressure to define its next era. Ternus will now help determine what that looks like.\nHardware with AI at the center\nRather than trying to compete head-on with companies building the biggest AI models, Ternus may push Apple to focus on the AI-powered devices themselves, whether that be the one in your hand, something you wear, or something that lives in your home.\nThere’s already a lot of speculation about what Apple could launch next. Ideas floating around include smart glasses, a wearable pendant with a built-in camera, and even AirPods with AI features. According to Bloomberg, the idea is that all of these products would connect to the iPhone, with Siri playing a major role.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nImage Credits:Apple\nTernus is also expected to push forward on products that have been stuck in limbo. Foldable iPhones are the obvious example. They’ve been rumored for years, and while competitors have already moved ahead, Apple has taken a slower approach, waiting until the technology meets its standards. Reports say it will arrive in September, which means Ternus will be overseeing the launch. \nApple has also reportedly been exploring robotics, particularly for the home. One concept includes a tabletop device with a robotic arm attached to a display, essentially a smart assistant that can move and turn toward you. Notably, this lines up with Ternus’s long-standing interest in robotics. In college, he built a device that allowed quadriplegics to control a mechanical feeding arm using head movements, as reported by the New York Times.\nThere are also ideas for mobile robots that could follow you around, handle simple tasks, or act like a moving FaceTime screen. Some reports even mention experiments with humanoid robots, though those are likely years away.\nWhile none of these are guaranteed to happen, they do give a pretty clear sense of where Apple’s thinking might be going.\nHowever, ongoing memory chip shortages, President Trump’s frequently shifting tariff policies, and the company’s reliance on Chinese manufacturing could create a challenging period ahead. Roughly 80% of iPhones were produced in China before the tariffs. The company recently pivoted to India, making about 25% of its iPhones in the country last year, according to Bloomberg.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tLauren covers media, streaming, apps and platforms at TechCrunch.\nYou can contact or verify outreach from Lauren by emailing laurenf.techcrunch@gmail.com or via encrypted message at laurenforris22.25 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Apple under Ternus: what comes next for the tech giant’s hardware strategy",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2264522469.jpg?w=150"
+      ],
+      "datePublished": "2026-04-25T15:00:00.000Z",
+      "dateModified": "2026-04-25T15:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "OpenAI CEO apologizes to Tumbler Ridge community",
+    "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2194585161.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-04-25T17:17:56.000Z",
+    "description": "\nIn a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforceme",
+    "body": "\nIn a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.\nAfter police identified 18-year-old Jesse Van Rootselaar as a suspected shooter who allegedly killed eight people, the Wall Street Journal reported that OpenAI had flagged and banned Van Rootselaar’s ChatGPT account in June 2025 for after she described scenarios involving gun violence. The company’s staff debated alerting police but ultimately decided against it, eventually reaching out to Canadian authorities after the shooting.\nOpenAI has since said that it is improving safety protocols, for example by putting more flexible criteria in place to determine when accounts get referred to authorities, and by establishing direct points of contact with Canadian law enforcement.\nIn Altman’s letter, which was first published in the local newspaper Tumbler RidgeLines, the CEO said he’d discussed the shooting with Tumbler Ridge Mayor Darryl Krakowka and British Columbia Premier David Eby, and they’d all agreed “a public apology was necessary,” but “time was also needed to respect the community as you grieved.”\n“I am deeply sorry that we did not alert law enforcement to the account that was banned in June,” Altman said. “While I know words can never be enough, I believe an apology is necessary to recognize the harm and irreversible loss your community has suffered.”\nAltman also said that OpenAI’s focus will “continue to be on working with all levels of government to help ensure nothing happens like this again.”\nIn a post on X, Eby said Altman’s apology is “necessary, and yet grossly insufficient for the devastation done to the families of Tumbler Ridge.”\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nCanadian officials have said they are considering new regulations on artificial intelligence but have not made any final decisions.\nIf you are in a crisis or having thoughts of suicide, call or text 988 to reach the 988 Suicide and Crisis Lifeline.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tAnthony Ha is TechCrunch’s weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local government reporter at the Hollister Free Lance, and vice president of content at a VC firm. He lives in New York City.\nYou can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "OpenAI CEO apologizes to Tumbler Ridge community",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2194585161.jpg?w=150"
+      ],
+      "datePublished": "2026-04-25T17:17:56.000Z",
+      "dateModified": "2026-04-25T17:17:56.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Meta’s loss is Thinking Machines’ gain",
+    "url": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-1730510668.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-04-24T20:52:07.000Z",
+    "description": "\nWeiyao Wang spent eight years at Meta — his first job out of college — helping build multimodal perception systems and contributing to open-world seg",
+    "body": "\nWeiyao Wang spent eight years at Meta — his first job out of college — helping build multimodal perception systems and contributing to open-world segmentation projects, including SAM3D. His final day at Meta was last week, and he has since joined Thinking Machines Lab (TML).\nHis move to TML comes as the AI startup expands on multiple fronts. It just signed a multibillion-dollar cloud deal with Google, giving it access to Nvidia’s latest GB300 chips and making it one of the first startups to run on the hardware.\nThe agreement, announced this past Tuesday at Google Cloud Next, follows an earlier partnership with Nvidia, and puts TML in the same infrastructure tier as Anthropic and Meta. (Meta reportedly held talks to acquire Thinking Machines around this time last year and has more recently been picking off TML’s founders one by one.)\nThe talent picture remains fluid. Wang and Kenneth Li — a Harvard PhD who spent 10 months at Meta before joining TML this month — are the latest examples of a talent grab that runs in both directions. Business Insider reported last week that Meta has now poached seven of TML’s founding members. A review of recent hires shows Thinking Machines is raiding Meta right back. At least, it appears based on a review of LinkedIn profiles, that TML has been hiring more researchers from Meta than from any other single employer.\nThe most prominent is Soumith Chintala, TML’s CTO, who spent 11 years at Meta and co-founded PyTorch, the open source deep learning framework that now underpins most of the world’s AI research. He left Meta in late 2025 and was appointed CTO earlier this year. Piotr Dollár, another 11-year Meta veteran who served as research director and co-authored the influential Segment Anything model, is now on TML’s technical staff. Andrea Madotto, a research scientist in Meta’s FAIR division focused on multimodal language models, joined TML in December. James Sun, a software engineer with nearly nine years at Meta working on LLM pre- and post-training, also made the jump.\nTML has drawn talent from beyond Meta, too. Neal Wu — a three-time gold medalist at the International Olympiad in Informatics and a founding member of the buzzy coding startup Cognition — joined early this year. Jeffrey Tao came via Waymo, Windsurf, and OpenAI. Muhammad Maaz previously held a research fellowship at Anthropic. Erik Wijmans arrived from Apple. Liliang Ren spent two and a half years on Microsoft’s AI Superintelligence team pre-training OpenAI models for code before joining in March.\nThe startup’s headcount now stands at around 140.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nMeta’s pay packages — seven figures, no strings attached — are well known by now. For researchers weighing their other options, the calculus may be as simple as this: Thinking Machines Lab is right now valued at $12 billion. Though that figure would’ve been unimaginable for a company at this stage in any previous tech cycle (it has released just one product so far), compared with the record-breaking valuations of OpenAI and Anthropic, there’s still a lot of financial upside.\nReached Friday morning, a spokesperson for TML declined to comment for this story.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tLoizos has been reporting on Silicon Valley since the late ’90s, when she joined the original Red Herring magazine. Previously the Silicon Valley Editor of TechCrunch, she was named Editor in Chief and General Manager of TechCrunch in September 2023. She’s also the founder of StrictlyVC, a daily e-newsletter and lecture series acquired by Yahoo in August 2023 and now operated as a sub brand of TechCrunch.\nYou can contact or verify outreach from Connie by emailing connie@strictlyvc.com or connie@techcrunch.com, or via encrypted message at ConnieLoizos.53 on Signal.\r\n\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Meta’s loss is Thinking Machines’ gain",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-1730510668.jpg?w=150"
+      ],
+      "datePublished": "2026-04-24T20:52:07.000Z",
+      "dateModified": "2026-04-24T20:52:07.000Z",
       "author": [
         {
           "@type": "Person",
@@ -316,56 +366,6 @@
       ],
       "datePublished": "2026-04-25T16:33:00.000Z",
       "dateModified": "2026-04-25T16:33:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Apple under Ternus: what comes next for the tech giant’s hardware strategy",
-    "url": "https://techcrunch.com/2026/04/25/apple-under-ternus-what-comes-next-for-the-tech-giants-hardware-strategy/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2264522469.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-04-25T15:00:00.000Z",
-    "description": "\nAs Apple races to stay competitive in AI while navigating tariffs and supply chain uncertainty, the company’s future is about to shift under new lead",
-    "body": "\nAs Apple races to stay competitive in AI while navigating tariffs and supply chain uncertainty, the company’s future is about to shift under new leadership.\nOn Monday, Apple announced that John Ternus will take over as CEO later this year, succeeding Tim Cook.\nCook transformed Apple into a $4 trillion global powerhouse, expanded its services business, and oversaw some of the most profitable years in tech history. Ternus brings a different kind of skillset. A longtime hardware executive, he has spent his career building Apple’s devices rather than managing the broader business.\nTernus joined Apple in 2001 and rose through the ranks of hardware engineering. Along the way, he has contributed to some of the company’s biggest products, including AirPods, the Apple Watch, and Vision Pro.\nHis appointment signals a renewed focus on hardware at a moment when Apple is under pressure to define its next era. Ternus will now help determine what that looks like.\nHardware with AI at the center\nRather than trying to compete head-on with companies building the biggest AI models, Ternus may push Apple to focus on the AI-powered devices themselves, whether that be the one in your hand, something you wear, or something that lives in your home.\nThere’s already a lot of speculation about what Apple could launch next. Ideas floating around include smart glasses, a wearable pendant with a built-in camera, and even AirPods with AI features. According to Bloomberg, the idea is that all of these products would connect to the iPhone, with Siri playing a major role.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nImage Credits:Apple\nTernus is also expected to push forward on products that have been stuck in limbo. Foldable iPhones are the obvious example. They’ve been rumored for years, and while competitors have already moved ahead, Apple has taken a slower approach, waiting until the technology meets its standards. Reports say it will arrive in September, which means Ternus will be overseeing the launch. \nApple has also reportedly been exploring robotics, particularly for the home. One concept includes a tabletop device with a robotic arm attached to a display, essentially a smart assistant that can move and turn toward you. Notably, this lines up with Ternus’s long-standing interest in robotics. In college, he built a device that allowed quadriplegics to control a mechanical feeding arm using head movements, as reported by the New York Times.\nThere are also ideas for mobile robots that could follow you around, handle simple tasks, or act like a moving FaceTime screen. Some reports even mention experiments with humanoid robots, though those are likely years away.\nWhile none of these are guaranteed to happen, they do give a pretty clear sense of where Apple’s thinking might be going.\nHowever, ongoing memory chip shortages, President Trump’s frequently shifting tariff policies, and the company’s reliance on Chinese manufacturing could create a challenging period ahead. Roughly 80% of iPhones were produced in China before the tariffs. The company recently pivoted to India, making about 25% of its iPhones in the country last year, according to Bloomberg.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tLauren covers media, streaming, apps and platforms at TechCrunch.\nYou can contact or verify outreach from Lauren by emailing laurenf.techcrunch@gmail.com or via encrypted message at laurenforris22.25 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Apple under Ternus: what comes next for the tech giant’s hardware strategy",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2264522469.jpg?w=150"
-      ],
-      "datePublished": "2026-04-25T15:00:00.000Z",
-      "dateModified": "2026-04-25T15:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Why Cohere is merging with Aleph Alpha",
-    "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-1757707025.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-04-25T16:00:00.000Z",
-    "description": "\nCanadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Schwarz Group (parent company of grocery chain Lidl). With the ",
-    "body": "\nCanadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Schwarz Group (parent company of grocery chain Lidl). With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players.\nAs companies that develop large language models, Aleph Alpha and Cohere have been hometown stars, while still lagging far behind OpenAI and the likes globally. But similarities aside, this isn’t an alliance between equals. Last valued at $6.8 billion, Cohere will lead the new entity that will incorporate Aleph Alpha, subject to approval by authorities and shareholders.\nSchwarz Group, one of Aleph Alpha’s main shareholders, is already fully onboard with the deal. The retail giant will now become a strategic backer of the new entity with €500 million in structured financing (approximately $600 million) — and with expectations that it will make use of STACKIT, the sovereign cloud service of its IT division Schwarz Digits.\nAs part of its investment, Schwarz Group is also acting as Cohere’s lead investor in the Series E round of funding — and it already set the price tag. According to German business media outlet Handelsblatt, the term sheet anchors the valuation at around $20 billion.\nThis would be a significant leap that combined revenue alone can’t justify. While Cohere reported $240 million in annual recurring revenue in 2025, Aleph Alpha had previously generated little revenue and significant losses. But investors are betting that teaming up will improve their odds.\nThey may not be alone in their thinking. Elon Musk’s AI startup xAI has reportedly discussed a three-way partnership with France’s Mistral AI and Cursor, which SpaceX recently secured the option to buy. But it remains unclear whether the French company would be interested in risking undermining the very positioning as an alternative to U.S. tech that boosted its revenues.\nCohere, too, is hoping to get tailwinds from enterprises looking for alternatives to AI providers that may not meet their requirements when it comes to privacy and independence. The new entity plans to target highly-regulated industries — including defense, energy, finance, healthcare, manufacturing and telecommunications— as well as the public sector.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nAleph Alpha also developed specialized language models targeting enterprises and public institutions in Europe, such as the PhariaAI suite. A subsequent pivot and the departure of its cofounder and CEO Jonas Andrulis made its strategy and leadership less clear, but its team of 250 people and their expertise could still complement Cohere.\n“Their focus on small language models, European languages and tokenizers is a really complementary one to our own, which is more of a general focus on large language models,” Cohere CEO Aidan Gomez said in a press conference announcing the plans on Friday.\nThe press conference’s lineup was also telling. Rather than Aleph Alpha’s co-CEOs, it was co-founder Samuel Weinbach who joined Gomez on stage alongside Schwarz Group’s chief digital officer Rolf Schumann. The event also featured German digital minister Karsten Wildberger and his Canadian counterpart Evan Solomon.\nAmid growing tensions with the United States Canada has been increasingly keen to sign bilateral initiatives with a variety of partners, including Germany. With a shared concern for privacy and security, the two countries recently launched a Sovereign Technology Alliance to “strengthen sovereign AI capacity and reduce strategic technology dependencies.”\nThe question remains whether European organizations will view an initiative involving Canada as sufficiently sovereign, or whether they will trust that the alliance will remain transatlantic in the long run. According to Gomez, “Cohere will become a Canadian-German company.” But ownership could soon become less clear if an IPO is still in the cards.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tAnna Heim is a writer and editorial consultant. \nYou can contact or verify outreach from Anna by emailing annatechcrunch [at] gmail.com.\nAs a freelance reporter at TechCrunch since 2021, she has covered a large range of startup-related topics including AI, fintech & insurtech, SaaS & pricing, and global venture capital trends.\nAs of May 2025, her reporting for TechCrunch focuses on Europe’s most interesting startup stories.\nAnna has moderated panels and conducted onstage interviews at industry events of all sizes, including major tech conferences such as TechCrunch Disrupt, 4YFN, South Summit, TNW Conference, VivaTech, and many more.\nA former LATAM & Media Editor at The Next Web, startup founder and Sciences Po Paris alum, she’s fluent in multiple languages, including French, English, Spanish and Brazilian Portuguese.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Why Cohere is merging with Aleph Alpha",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-1757707025.jpg?w=150"
-      ],
-      "datePublished": "2026-04-25T16:00:00.000Z",
-      "dateModified": "2026-04-25T16:00:00.000Z",
       "author": [
         {
           "@type": "Person",
