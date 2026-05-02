@@ -25,56 +25,6 @@
     }
   },
   {
-    "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
-    "url": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-14-at-7.00.44-PM.png?w=150",
-    "tag": "Tech",
-    "date": "2026-04-30T19:27:41.000Z",
-    "description": "\nIn Brief\nPosted:\n12:27 PM PDT · April 30, 2026\n\nImage Credits:ChatGPT\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nAfter Sam Altman trash-talked Anthro",
-    "body": "\nIn Brief\nPosted:\n12:27 PM PDT · April 30, 2026\n\nImage Credits:ChatGPT\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nAfter Sam Altman trash-talked Anthropic for gatekeeping its cybersecurity tool Mythos by only releasing it to select users, he confirmed that OpenAI would be doing the same with its competing tool, Cyber.\nAltman said in a post on X on Thursday that OpenAI will begin rolling out GPT-5.5 Cyber “to critical cyber defenders” in the next few days. OpenAI has an application on its website where people submit information about their credentials and planned use in order to gain access.\nThis version of Cyber can perform such tasks as penetration testing, vulnerability identification (and exploitation), and malware reverse engineering, the application implies. It’s intended to be a toolkit to help a company find security holes and test defenses. The fear is that the kit could be misused by the bad guys.\nWhen Anthropic similarly restricted access to Mythos, Altman called the tactic fear-based marketing. Some critics also thought so, saying Anthropic’s rhetoric was overblown. Ironically, an unauthorized group reportedly managed to gain access to Mythos anyway.\nOpenAI says it’s working to make Cyber more widely available by consulting with the U.S. government and identifying more users with legit cybersecurity credentials.\nA spokesperson tells TechCrunch that the company’s system for verifying those with legit cybersecurity credentials, which it calls Trusted Access for Cyber (TAC) has scaled “to thousands of verified defenders and hundreds of teams responsible for protecting critical software.” Those folks can use the latest model, GPT 5.5 for “cybersecurity tasks”  with less “friction” from safeguards. \nThe TAC permissions program is tiered, the spokesperson said: “Critical defenders with legitimate defensive use cases can apply to access dedicated more cyber-permissive models like GPT 5.4-Cyber, and the forthcoming GPT 5.5-Cyber, through the program.”\nNote: This story was updated to include a statement from OpenAI.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in AI\n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-14-at-7.00.44-PM.png?w=150"
-      ],
-      "datePublished": "2026-04-30T19:27:41.000Z",
-      "dateModified": "2026-04-30T19:27:41.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "People are finally using Reddit’s search",
-    "url": "https://techcrunch.com/2026/05/01/people-are-finally-using-reddits-search/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/05/reddit-ipo-v2.webp?w=150",
-    "tag": "Tech",
-    "date": "2026-05-01T12:00:11.000Z",
-    "description": "\nAfter being harried by complaints that its search function needed improving, Reddit has in the last few years invested in its search engine, and has ",
-    "body": "\nAfter being harried by complaints that its search function needed improving, Reddit has in the last few years invested in its search engine, and has even added AI features to help its users find what they’re looking for. It appears that investment is finally paying off: The company has seen a 30% year-on-year jump in the number of people using search every week, CEO Steve Huffman said on Thursday.\nHuffman noted that search has been one of the major drivers of user acquisition and retention for the platform.\n“On search, we have seen great performance. Search DAUs, WAUs, and queries are up meaningfully year-over-year. It’s a great driver of retention and DAUs. The search team is, quite frankly, I think doing a great job. If you use Reddit Answers, you can see it is better integrated into the product,” he said on the company’s first-quarter post-results conference call.\nEarlier in February, the platform started testing product placement through AI search results in the U.S.\nHuffman said that around 40% of conversations on Reddit are commercial in nature, and 84% shoppers feel more confident in their buying decisions after researching on Reddit. \nThe social platform ended the quarter with more than 493 million weekly active unique users (WAUq), up 23% from the same period last year, and about 126 million daily active unique users (DAUq), a 17% improvement from a year earlier. \nReddit reported a 7% improvement in U.S. visitors, reaching 53.5 million DAUqs, and 73.3 million DAUqs internationally, a 26% increase. The company said it plans to reach a billion daily users worldwide and 100 million daily users in the U.S.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nBesides search, the company said its machine translation feature, which now supports over 30 languages, has driven significant user growth in the past few quarters.\nReddit reported revenue of $663 million in Q1 2026, beating Wall Street’s expectations of $609.8 million. The company also said it only spent $1 million in capital expenditures in the quarter. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "People are finally using Reddit’s search",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/05/reddit-ipo-v2.webp?w=150"
-      ],
-      "datePublished": "2026-05-01T12:00:11.000Z",
-      "dateModified": "2026-05-01T12:00:11.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
     "url": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-.jpg?w=150",
@@ -91,31 +41,6 @@
       ],
       "datePublished": "2026-04-30T23:07:56.000Z",
       "dateModified": "2026-04-30T23:07:56.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
-    "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
-    "image": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1292192586.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-05-01T16:02:36.000Z",
-    "description": "\nAfter landing agreements with Google, SpaceX, and OpenAI, the U.S. Defense Department said on Friday that it has signed deals with Nvidia, Microsoft,",
-    "body": "\nAfter landing agreements with Google, SpaceX, and OpenAI, the U.S. Defense Department said on Friday that it has signed deals with Nvidia, Microsoft, Amazon Web Services, and Reflection AI that allow it to deploy their AI tech and models on its classified networks for “lawful operational use.”\n“These agreements accelerate the transformation toward establishing the United States military as an AI-first fighting force and will strengthen our warfighters’ ability to maintain decision superiority across all domains of warfare,” the statement reads.\nThe deals come as the U.S. Department of Defense has accelerated its diversification of AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models. The Pentagon wanted unrestricted use of Anthropic’s AI tools, but the AI lab insisted on guardrails to prevent Anthropic’s tech from being used for domestic mass surveillance and autonomous weapons.\nThe two are fighting it out in court at the moment, though Anthropic in March won an injunction against the Pentagon’s move to brand the company a “supply-chain risk.”\n“The Department will continue to build an architecture that prevents AI vendor lock-in and ensures long-term flexibility for the Joint Force,” the statement reads. “Access to a diverse suite of AI capabilities from across the resilient American technology stack will give warfighters the tools they need to act with confidence and safeguard the nation against any threat.”\nThe DOD said the companies’ AI hardware and models will be deployed on Impact Level 6 (IL6) and Impact Level 7 (IL7) environments to “streamline data synthesis, elevate situational understanding, and augment warfighter decision-making.” IL6 and IL7 are high-level security classifications for data and information systems that are deemed critical to national security and require that these systems be protected physically, through strict access controls and audits.\nThe Pentagon said more than 1.3 million DOD personnel have so far used its secure enterprise platform for generative AI, GenAI.mil, which provides access to large language models (LLMs) and other AI tools within government-approved cloud environments. It is designed to help primarily with non-classified tasks like research, document drafting, and data analysis. \n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tRam is a financial and tech reporter and editor. He covered North American and European M&A, equity, regulatory news and debt markets at Reuters and Acuris Global, and has also written about travel, tourism, entertainment and books.\nYou can contact or verify outreach from Ram by emailing ram.iyer@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1292192586.jpg?w=150"
-      ],
-      "datePublished": "2026-05-01T16:02:36.000Z",
-      "dateModified": "2026-05-01T16:02:36.000Z",
       "author": [
         {
           "@type": "Person",
@@ -150,47 +75,22 @@
     }
   },
   {
-    "title": "Ubuntu services hit by outages after DDoS attack",
-    "url": "https://techcrunch.com/2026/05/01/ubuntu-services-hit-by-outages-after-ddos-attack/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/ubuntu-failed-update-ddos-attack.png?w=150",
+    "title": "Netflix delays Greta Gerwig’s ‘Narnia’ movie for big theatrical push in 2027",
+    "url": "https://techcrunch.com/2026/05/02/netflix-delays-greta-gerwigs-narnia-movie-for-big-theatrical-push-in-2027/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2239723841.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-05-01T15:00:14.000Z",
-    "description": "\nHacktivists have claimed responsibility for taking down the public-facing infrastructure of popular Linux operating system distribution Ubuntu, as we",
-    "body": "\nHacktivists have claimed responsibility for taking down the public-facing infrastructure of popular Linux operating system distribution Ubuntu, as well as Canonical, the company that develops and maintains the software. The attack began on Thursday, and affected services that Ubuntu users rely on.\n“Canonical’s web infrastructure is under a sustained, cross-border attack and we are working to address it. We will provide more information in our official channels as soon as we are able to,” the company said on its website. \nThe hacktivists are believed to have launched a distributed denial-of-service, or DDoS, a crude but often effective attack that consists of flooding a target with junk traffic until it overloads or crashes. \nUbuntu developers have been discussing the attack on an unofficial Ubuntu community forum, claiming that the attack affects Ubuntu’s security API, and several Ubuntu and Canonical websites. According to a post on a threat intelligence forum, the DDoS attack has also made it impossible for users to update and install Ubuntu. TechCrunch verified that updates failed to install on a test device running Ubuntu. \nAs of this writing, the outage has been ongoing for around 20 hours. \nWhen contacted, Canonical spokesperson Lelanie de Roubaix reiterated what the company said on is website.\nHacktivists calling themselves The Islamic Cyber Resistance in Iraq 313 Team claimed on its Telegram channel that it was to blame for the DDoS attack.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThe hackers claimed to be using Beamed, a DDoS-for-hire service. These types of services, also called booters or stressers, allow anyone to pay to launch DDoS attacks, even if they have no technical skills nor the necessary  infrastructure to flood targets with bogus traffic. The DDoS-for-hire service in this case claims to power attacks in excess of 3.5 Tbps, which is about half of the bandwidth of a cyberattack that Cloudflare last year called the “largest DDoS attack ever recorded.”\nFor years, authorities such as the FBI and Europol have played a game of whack-a-mole against these services, taking down and seizing domains, and sometimes arresting the people behind them.\nThis story was updated to include Canonical’s response.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tLorenzo Franceschi-Bicchierai is a Senior Writer at TechCrunch, where he covers hacking, cybersecurity, surveillance, and privacy. \nYou can contact or verify outreach from Lorenzo by emailing lorenzo@techcrunch.com, via encrypted message at +1 917 257 1382 on Signal, and @lorenzofb on Keybase/Telegram.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-05-02T17:05:41.000Z",
+    "description": "\nAudiences will have to wait a few months longer to see “Narnia: The Magician’s Nephew,” with the release date pushed back from Thanksgiving to Februa",
+    "body": "\nAudiences will have to wait a few months longer to see “Narnia: The Magician’s Nephew,” with the release date pushed back from Thanksgiving to February 12, 2027.\nIn addition to relaunching “Narnia” on big screens and serving as writer-director Greta Gerwig’s first film since “Barbie,” “The Magician’s Nephew” also looks like the next step in Netflix’s relationship with movie theaters — and it’s becoming an even bigger step with the delay.\nThe company had previously said “The Magician’s Nephew” would play exclusively on Imax screens for at least two weeks before a streaming release for Christmas. That would be an ambitious theatrical release by Netflix’s standards, but relatively limited compared to many other Hollywood blockbusters.\nNow, Netflix says “The Magician’s Nephew” will begin exclusive Imax previews on February 10, 2027, followed by a wide global release in theaters on February 12. (In Netflix’s words, it will be a “global eventized release.”) The movie won’t start streaming until April 2.\nThe company’s announcement doesn’t get more specific about which theaters will be showing “The Magician’s Nephew,” but Imax released a statement noting that the delay will allow the film to have “a full theatrical window,” so the major theater chains are unlikely to complain\nIn fact, AMC Theatres recently highlighted the success of  its“Stranger Things” finale screenings and said it has plans for more collaborations with Netflix. At the same time, the streamer’s limited support for theatrical releases and its resistance to exclusive theatrical windows was reportedly a “dealbreaker” in negotiations with the creators of “Stranger Things,” who ultimately signed an exclusive deal with Paramount.\nWith a cast that includes Daniel Craig and Meryl Streep, “The Magician’s Nephew” adapts one of the later books in C.S. Lewis’ classic fantasy series —  a prequel that lays out the origins of Narnia.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nIn Netflix’s announcement, Gerwig said she first read the book as a child, when she “fell in love with the gorgeously improbable but completely brilliant concept of a cosmic lion singing the world of Narnia to life.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tAnthony Ha is TechCrunch’s weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local government reporter at the Hollister Free Lance, and vice president of content at a VC firm. He lives in New York City.\nYou can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Ubuntu services hit by outages after DDoS attack",
+      "headline": "Netflix delays Greta Gerwig’s ‘Narnia’ movie for big theatrical push in 2027",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/05/ubuntu-failed-update-ddos-attack.png?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2239723841.jpg?w=150"
       ],
-      "datePublished": "2026-05-01T15:00:14.000Z",
-      "dateModified": "2026-05-01T15:00:14.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
-    "url": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/04/chatgpt-india.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-05-01T02:00:00.000Z",
-    "description": "\nIndia has emerged as the largest user base for ChatGPT Images 2.0 since its launch last week, OpenAI said on Thursday. However, third-party data revi",
-    "body": "\nIndia has emerged as the largest user base for ChatGPT Images 2.0 since its launch last week, OpenAI said on Thursday. However, third-party data reviewed by TechCrunch points to a more measured global response, with limited overall growth alongside sharp spikes in select emerging markets.\nChatGPT Images 2.0, OpenAI’s latest image-generation upgrade, is designed to handle more complex prompts and produce detailed visuals, including accurate text across multiple languages. Early patterns from the company suggest users — especially in India, its largest market — are using it to create personal visuals such as avatars, stylized portraits, and fantasy-themed images.\nData shared by Sensor Tower and Similarweb with TechCrunch suggests the rollout has led to a more mixed global response. ChatGPT’s app downloads rose 11% week-over-week following the launch, per Sensor Tower, but overall engagement gains were modest, with daily active users and sessions up only around 1%. Similarweb data also shows a limited increase in ChatGPT’s global web traffic, rising about 1.6% week-over-week during the same period.\nHowever, Sensor Tower data indicates some emerging markets — including Pakistan, Vietnam, and Indonesia — saw sharper spikes in ChatGPT’s app downloads, with increases of up to 79% week-over-week during the rollout period.\nIndia, meanwhile, remained a major source of activity during the rollout. Sensor Tower estimates show ChatGPT was downloaded about 5 million times in India during the launch week, compared with roughly 2 million in the U.S., though growth remained modest on a week-over-week basis. Similarweb data also points to a limited uptick in engagement, with daily active users in India rising about 3.4% week-over-week during the same period.\nIn India, the early trends suggest ChatGPT Images 2.0 is largely being used as a form of self-expression. Rather than purely functional outputs, users are creating studio-style portraits from everyday photos, social media-ready images, and imaginative visuals that place themselves at the center, OpenAI said.\nThe early patterns also highlight how AI image tools are being adopted differently across markets. While India’s large user base is driving overall scale, sharper spikes in countries like Pakistan and Indonesia point to stronger new-user demand in emerging markets following the launch.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nOpenAI’s Images 2.0 launch comes amid intensifying competition in AI image generation. Google’s earlier image-focused model, the original Nano Banana, also saw strong early traction in India, indicating how the nation has become an important market for image generation.\nWith the new ChatGPT Images release, OpenAI is pushing further with improvements such as better rendering of non-Latin text, including Hindi and Bengali, and new “thinking” capabilities that allow it to refine outputs and generate multiple variations from a single prompt.\nBeyond stylized portraits and avatars, OpenAI said early Images 2.0 users in India are experimenting with a wider range of formats — from fantasy newspaper covers to tarot-style visuals and fashion moodboards. Users are also using the AI tool to restore older photos and create cinematic portrait collages, the company said, suggesting early patterns of more personal use.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tJagmeet covers startups, tech policy-related updates, and all other major tech-centric developments from India for TechCrunch. He previously worked as a principal correspondent at NDTV. \r\nYou can contact or verify outreach from Jagmeet by emailing mail@journalistjagmeet.com.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/04/chatgpt-india.jpg?w=150"
-      ],
-      "datePublished": "2026-05-01T02:00:00.000Z",
-      "dateModified": "2026-05-01T02:00:00.000Z",
+      "datePublished": "2026-05-02T17:05:41.000Z",
+      "dateModified": "2026-05-02T17:05:41.000Z",
       "author": [
         {
           "@type": "Person",
@@ -216,6 +116,56 @@
       ],
       "datePublished": "2026-04-30T23:58:52.000Z",
       "dateModified": "2026-04-30T23:58:52.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Musk v. Altman is just getting started",
+    "url": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2213399157.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-05-01T14:00:00.000Z",
+    "description": "\n\t\t\n\nLoading the player…\n\nElon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it’s already",
+    "body": "\n\t\t\n\nLoading the player…\n\nElon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it’s already getting messy. Emails, texts, and his own tweets are surfacing in court, and there are plenty more witnesses to come. Musk’s argument against OpenAI? By converting the company to a for-profit model, Sam Altman betrayed the “nonprofit for the benefit of humanity” mission Musk signed up to fund. As Musk keeps reminding the courtroom: “You can’t steal a charity.”  \nWatch as this episode of TechCrunch’s Equity podcast discusses what’s actually at stake in the courtroom and what to watch for as Altman and others take the stand, plus deals, defense tech, and what Big Tech’s earnings week revealed about the limits of the AI spending era. \nSubscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. You also can follow Equity on X and Threads, at @EquityPod. \n\n\t\t\n\tTopics\n\t\n\t\tAcquisitions, AI, ai infrastructure, Amazon, big tech earnings, Elon Musk, Google, Meta, Microsoft, military AI, OpenAI, sallie mae, sam altman, Scout AI, Startups\t\n\n\n\n\t\tTheresa Loconsolo is an audio producer at TechCrunch focusing on Equity, the network’s flagship podcast. Before joining TechCrunch in 2022, she was one of 2 producers at a four-station conglomerate where she wrote, recorded, voiced and edited content, and engineered live performances and interviews from guests like lovelytheband. Theresa is based in New Jersey and holds a bachelors degree in Communication from Monmouth University. You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n\n\t\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Musk v. Altman is just getting started",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2213399157.jpg?w=150"
+      ],
+      "datePublished": "2026-05-01T14:00:00.000Z",
+      "dateModified": "2026-05-01T14:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Ubuntu services hit by outages after DDoS attack",
+    "url": "https://techcrunch.com/2026/05/01/ubuntu-services-hit-by-outages-after-ddos-attack/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/ubuntu-failed-update-ddos-attack.png?w=150",
+    "tag": "Tech",
+    "date": "2026-05-01T15:00:14.000Z",
+    "description": "\nHacktivists have claimed responsibility for taking down the public-facing infrastructure of popular Linux operating system distribution Ubuntu, as we",
+    "body": "\nHacktivists have claimed responsibility for taking down the public-facing infrastructure of popular Linux operating system distribution Ubuntu, as well as Canonical, the company that develops and maintains the software. The attack began on Thursday, and affected services that Ubuntu users rely on.\n“Canonical’s web infrastructure is under a sustained, cross-border attack and we are working to address it. We will provide more information in our official channels as soon as we are able to,” the company said on its website. \nThe hacktivists are believed to have launched a distributed denial-of-service, or DDoS, a crude but often effective attack that consists of flooding a target with junk traffic until it overloads or crashes. \nUbuntu developers have been discussing the attack on an unofficial Ubuntu community forum, claiming that the attack affects Ubuntu’s security API, and several Ubuntu and Canonical websites. According to a post on a threat intelligence forum, the DDoS attack has also made it impossible for users to update and install Ubuntu. TechCrunch verified that updates failed to install on a test device running Ubuntu. \nAs of this writing, the outage has been ongoing for around 20 hours. \nWhen contacted, Canonical spokesperson Lelanie de Roubaix reiterated what the company said on is website.\nHacktivists calling themselves The Islamic Cyber Resistance in Iraq 313 Team claimed on its Telegram channel that it was to blame for the DDoS attack.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nThe hackers claimed to be using Beamed, a DDoS-for-hire service. These types of services, also called booters or stressers, allow anyone to pay to launch DDoS attacks, even if they have no technical skills nor the necessary  infrastructure to flood targets with bogus traffic. The DDoS-for-hire service in this case claims to power attacks in excess of 3.5 Tbps, which is about half of the bandwidth of a cyberattack that Cloudflare last year called the “largest DDoS attack ever recorded.”\nFor years, authorities such as the FBI and Europol have played a game of whack-a-mole against these services, taking down and seizing domains, and sometimes arresting the people behind them.\nThis story was updated to include Canonical’s response.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tLorenzo Franceschi-Bicchierai is a Senior Writer at TechCrunch, where he covers hacking, cybersecurity, surveillance, and privacy. \nYou can contact or verify outreach from Lorenzo by emailing lorenzo@techcrunch.com, via encrypted message at +1 917 257 1382 on Signal, and @lorenzofb on Keybase/Telegram.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Ubuntu services hit by outages after DDoS attack",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/05/ubuntu-failed-update-ddos-attack.png?w=150"
+      ],
+      "datePublished": "2026-05-01T15:00:14.000Z",
+      "dateModified": "2026-05-01T15:00:14.000Z",
       "author": [
         {
           "@type": "Person",
@@ -275,22 +225,22 @@
     }
   },
   {
-    "title": "Musk v. Altman is just getting started",
-    "url": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2213399157.jpg?w=150",
+    "title": "People are finally using Reddit’s search",
+    "url": "https://techcrunch.com/2026/05/01/people-are-finally-using-reddits-search/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/05/reddit-ipo-v2.webp?w=150",
     "tag": "Tech",
-    "date": "2026-05-01T14:00:00.000Z",
-    "description": "\n\t\t\n\nLoading the player…\n\nElon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it’s already",
-    "body": "\n\t\t\n\nLoading the player…\n\nElon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it’s already getting messy. Emails, texts, and his own tweets are surfacing in court, and there are plenty more witnesses to come. Musk’s argument against OpenAI? By converting the company to a for-profit model, Sam Altman betrayed the “nonprofit for the benefit of humanity” mission Musk signed up to fund. As Musk keeps reminding the courtroom: “You can’t steal a charity.”  \nWatch as this episode of TechCrunch’s Equity podcast discusses what’s actually at stake in the courtroom and what to watch for as Altman and others take the stand, plus deals, defense tech, and what Big Tech’s earnings week revealed about the limits of the AI spending era. \nSubscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. You also can follow Equity on X and Threads, at @EquityPod. \n\n\t\t\n\tTopics\n\t\n\t\tAcquisitions, AI, ai infrastructure, Amazon, big tech earnings, Elon Musk, Google, Meta, Microsoft, military AI, OpenAI, sallie mae, sam altman, Scout AI, Startups\t\n\n\n\n\t\tTheresa Loconsolo is an audio producer at TechCrunch focusing on Equity, the network’s flagship podcast. Before joining TechCrunch in 2022, she was one of 2 producers at a four-station conglomerate where she wrote, recorded, voiced and edited content, and engineered live performances and interviews from guests like lovelytheband. Theresa is based in New Jersey and holds a bachelors degree in Communication from Monmouth University. You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n\n\t\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n",
+    "date": "2026-05-01T12:00:11.000Z",
+    "description": "\nAfter being harried by complaints that its search function needed improving, Reddit has in the last few years invested in its search engine, and has ",
+    "body": "\nAfter being harried by complaints that its search function needed improving, Reddit has in the last few years invested in its search engine, and has even added AI features to help its users find what they’re looking for. It appears that investment is finally paying off: The company has seen a 30% year-on-year jump in the number of people using search every week, CEO Steve Huffman said on Thursday.\nHuffman noted that search has been one of the major drivers of user acquisition and retention for the platform.\n“On search, we have seen great performance. Search DAUs, WAUs, and queries are up meaningfully year-over-year. It’s a great driver of retention and DAUs. The search team is, quite frankly, I think doing a great job. If you use Reddit Answers, you can see it is better integrated into the product,” he said on the company’s first-quarter post-results conference call.\nEarlier in February, the platform started testing product placement through AI search results in the U.S.\nHuffman said that around 40% of conversations on Reddit are commercial in nature, and 84% shoppers feel more confident in their buying decisions after researching on Reddit. \nThe social platform ended the quarter with more than 493 million weekly active unique users (WAUq), up 23% from the same period last year, and about 126 million daily active unique users (DAUq), a 17% improvement from a year earlier. \nReddit reported a 7% improvement in U.S. visitors, reaching 53.5 million DAUqs, and 73.3 million DAUqs internationally, a 26% increase. The company said it plans to reach a billion daily users worldwide and 100 million daily users in the U.S.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nBesides search, the company said its machine translation feature, which now supports over 30 languages, has driven significant user growth in the past few quarters.\nReddit reported revenue of $663 million in Q1 2026, beating Wall Street’s expectations of $609.8 million. The company also said it only spent $1 million in capital expenditures in the quarter. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Musk v. Altman is just getting started",
+      "headline": "People are finally using Reddit’s search",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2213399157.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2024/05/reddit-ipo-v2.webp?w=150"
       ],
-      "datePublished": "2026-05-01T14:00:00.000Z",
-      "dateModified": "2026-05-01T14:00:00.000Z",
+      "datePublished": "2026-05-01T12:00:11.000Z",
+      "dateModified": "2026-05-01T12:00:11.000Z",
       "author": [
         {
           "@type": "Person",
@@ -325,22 +275,47 @@
     }
   },
   {
-    "title": "Uber wants to turn its millions of drivers into a sensor grid for self-driving companies",
-    "url": "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259104536.jpg?w=150",
+    "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
+    "url": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/chatgpt-india.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-05-02T06:36:28.000Z",
-    "description": "\nUber has a long-term ambition that goes well beyond shuttling passengers: the company eventually wants to outfit its human drivers’ cars with sensors",
-    "body": "\nUber has a long-term ambition that goes well beyond shuttling passengers: the company eventually wants to outfit its human drivers’ cars with sensors to soak up real-world data for autonomous vehicle (AV) companies — and potentially other companies training AI models on physical-world scenarios.\nPraveen Neppalli Naga, Uber’s chief technology officer, revealed the plan in an interview at TechCrunch’s StrictlyVC event in San Francisco on Thursday night, describing it as a natural extension of a nascent program the company announced in late January called AV Labs.\n“That is the direction we want to go eventually,” Naga said of equipping human drivers’ vehicles. “But first we need to get the understanding of the sensor kits and how they all work. There are some regulations — we have to make sure every state has [clarity on] what sensors mean, and what sharing it means.”\nFor now, AV Labs relies on a small, dedicated fleet of sensor-equipped cars that Uber operates itself, separate from its driver network. But the ambition is clearly much larger. Uber has millions of drivers globally, and if even a fraction of those cars could be transformed into rolling data-collection platforms, the scale of what Uber could offer the AV industry would dwarf what any individual AV company could assemble on its own.\nThe insight driving the program, Naga said, is that the limiting factor for AV development is no longer the underlying technology. “The bottleneck is data,” he said. “[Companies like Waymo] need to go around and collect the data, collect different scenarios. You may be able to say: in San Francisco, ‘At this school intersection, I want some data at this time of day so I can train my models.’ The problem for all these companies is access to that data, because they don’t have the capital to deploy the cars and go collect all this information.”\nBecoming the data layer for the entire AV ecosystem is a pretty smart play, particularly considering Uber years ago abandoned its own ambitions to build self-driving cars (a move that co-founder Travis Kalanick has publicly lamented as a big mistake). Indeed, many industry observers have wondered if, without its own self-driving cars, Uber might one day be rendered irrelevant as AVs increasingly spring up around the globe. \nThe company currently has partnerships with 25 AV companies — including Wayve, which operates in London — and is building what Naga described as an “AV cloud”: a library of labeled sensor data that partner companies can query and use to train their models. Partners, which Uber plans to more aggressively invest in directly, can also use the system to run their trained models in “shadow mode” against real Uber trips, simulating how an AV would have performed without actually putting one on the road.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n“Our goal is not to make money out of this data,” Naga said. “We want to democratize it.”\nGiven the obvious commercial value of what Uber is building, that positioning may not last long. The company has already made equity investments in numerous AV players, and its ability to offer proprietary training data at scale could give it significant leverage over a sector that right now depends on Uber’s ride marketplace to reach customers.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tLoizos has been reporting on Silicon Valley since the late ’90s, when she joined the original Red Herring magazine. Previously the Silicon Valley Editor of TechCrunch, she was named Editor in Chief and General Manager of TechCrunch in September 2023. She’s also the founder of StrictlyVC, a daily e-newsletter and lecture series acquired by Yahoo in August 2023 and now operated as a sub brand of TechCrunch.\nYou can contact or verify outreach from Connie by emailing connie@strictlyvc.com or connie@techcrunch.com, or via encrypted message at ConnieLoizos.53 on Signal.\r\n\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-05-01T02:00:00.000Z",
+    "description": "\nIndia has emerged as the largest user base for ChatGPT Images 2.0 since its launch last week, OpenAI said on Thursday. However, third-party data revi",
+    "body": "\nIndia has emerged as the largest user base for ChatGPT Images 2.0 since its launch last week, OpenAI said on Thursday. However, third-party data reviewed by TechCrunch points to a more measured global response, with limited overall growth alongside sharp spikes in select emerging markets.\nChatGPT Images 2.0, OpenAI’s latest image-generation upgrade, is designed to handle more complex prompts and produce detailed visuals, including accurate text across multiple languages. Early patterns from the company suggest users — especially in India, its largest market — are using it to create personal visuals such as avatars, stylized portraits, and fantasy-themed images.\nData shared by Sensor Tower and Similarweb with TechCrunch suggests the rollout has led to a more mixed global response. ChatGPT’s app downloads rose 11% week-over-week following the launch, per Sensor Tower, but overall engagement gains were modest, with daily active users and sessions up only around 1%. Similarweb data also shows a limited increase in ChatGPT’s global web traffic, rising about 1.6% week-over-week during the same period.\nHowever, Sensor Tower data indicates some emerging markets — including Pakistan, Vietnam, and Indonesia — saw sharper spikes in ChatGPT’s app downloads, with increases of up to 79% week-over-week during the rollout period.\nIndia, meanwhile, remained a major source of activity during the rollout. Sensor Tower estimates show ChatGPT was downloaded about 5 million times in India during the launch week, compared with roughly 2 million in the U.S., though growth remained modest on a week-over-week basis. Similarweb data also points to a limited uptick in engagement, with daily active users in India rising about 3.4% week-over-week during the same period.\nIn India, the early trends suggest ChatGPT Images 2.0 is largely being used as a form of self-expression. Rather than purely functional outputs, users are creating studio-style portraits from everyday photos, social media-ready images, and imaginative visuals that place themselves at the center, OpenAI said.\nThe early patterns also highlight how AI image tools are being adopted differently across markets. While India’s large user base is driving overall scale, sharper spikes in countries like Pakistan and Indonesia point to stronger new-user demand in emerging markets following the launch.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nOpenAI’s Images 2.0 launch comes amid intensifying competition in AI image generation. Google’s earlier image-focused model, the original Nano Banana, also saw strong early traction in India, indicating how the nation has become an important market for image generation.\nWith the new ChatGPT Images release, OpenAI is pushing further with improvements such as better rendering of non-Latin text, including Hindi and Bengali, and new “thinking” capabilities that allow it to refine outputs and generate multiple variations from a single prompt.\nBeyond stylized portraits and avatars, OpenAI said early Images 2.0 users in India are experimenting with a wider range of formats — from fantasy newspaper covers to tarot-style visuals and fashion moodboards. Users are also using the AI tool to restore older photos and create cinematic portrait collages, the company said, suggesting early patterns of more personal use.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tJagmeet covers startups, tech policy-related updates, and all other major tech-centric developments from India for TechCrunch. He previously worked as a principal correspondent at NDTV. \r\nYou can contact or verify outreach from Jagmeet by emailing mail@journalistjagmeet.com.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Uber wants to turn its millions of drivers into a sensor grid for self-driving companies",
+      "headline": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259104536.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2025/04/chatgpt-india.jpg?w=150"
       ],
-      "datePublished": "2026-05-02T06:36:28.000Z",
-      "dateModified": "2026-05-02T06:36:28.000Z",
+      "datePublished": "2026-05-01T02:00:00.000Z",
+      "dateModified": "2026-05-01T02:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+    "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+    "image": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1292192586.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-05-01T16:02:36.000Z",
+    "description": "\nAfter landing agreements with Google, SpaceX, and OpenAI, the U.S. Defense Department said on Friday that it has signed deals with Nvidia, Microsoft,",
+    "body": "\nAfter landing agreements with Google, SpaceX, and OpenAI, the U.S. Defense Department said on Friday that it has signed deals with Nvidia, Microsoft, Amazon Web Services, and Reflection AI that allow it to deploy their AI tech and models on its classified networks for “lawful operational use.”\n“These agreements accelerate the transformation toward establishing the United States military as an AI-first fighting force and will strengthen our warfighters’ ability to maintain decision superiority across all domains of warfare,” the statement reads.\nThe deals come as the U.S. Department of Defense has accelerated its diversification of AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models. The Pentagon wanted unrestricted use of Anthropic’s AI tools, but the AI lab insisted on guardrails to prevent Anthropic’s tech from being used for domestic mass surveillance and autonomous weapons.\nThe two are fighting it out in court at the moment, though Anthropic in March won an injunction against the Pentagon’s move to brand the company a “supply-chain risk.”\n“The Department will continue to build an architecture that prevents AI vendor lock-in and ensures long-term flexibility for the Joint Force,” the statement reads. “Access to a diverse suite of AI capabilities from across the resilient American technology stack will give warfighters the tools they need to act with confidence and safeguard the nation against any threat.”\nThe DOD said the companies’ AI hardware and models will be deployed on Impact Level 6 (IL6) and Impact Level 7 (IL7) environments to “streamline data synthesis, elevate situational understanding, and augment warfighter decision-making.” IL6 and IL7 are high-level security classifications for data and information systems that are deemed critical to national security and require that these systems be protected physically, through strict access controls and audits.\nThe Pentagon said more than 1.3 million DOD personnel have so far used its secure enterprise platform for generative AI, GenAI.mil, which provides access to large language models (LLMs) and other AI tools within government-approved cloud environments. It is designed to help primarily with non-classified tasks like research, document drafting, and data analysis. \n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tRam is a financial and tech reporter and editor. He covered North American and European M&A, equity, regulatory news and debt markets at Reuters and Acuris Global, and has also written about travel, tourism, entertainment and books.\nYou can contact or verify outreach from Ram by emailing ram.iyer@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1292192586.jpg?w=150"
+      ],
+      "datePublished": "2026-05-01T16:02:36.000Z",
+      "dateModified": "2026-05-01T16:02:36.000Z",
       "author": [
         {
           "@type": "Person",
@@ -366,6 +341,31 @@
       ],
       "datePublished": "2026-04-30T23:59:15.000Z",
       "dateModified": "2026-04-30T23:59:15.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Uber wants to turn its millions of drivers into a sensor grid for self-driving companies",
+    "url": "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259104536.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-05-02T06:36:28.000Z",
+    "description": "\nUber has a long-term ambition that goes well beyond shuttling passengers: the company eventually wants to outfit its human drivers’ cars with sensors",
+    "body": "\nUber has a long-term ambition that goes well beyond shuttling passengers: the company eventually wants to outfit its human drivers’ cars with sensors to soak up real-world data for autonomous vehicle (AV) companies — and potentially other companies training AI models on physical-world scenarios.\nPraveen Neppalli Naga, Uber’s chief technology officer, revealed the plan in an interview at TechCrunch’s StrictlyVC event in San Francisco on Thursday night, describing it as a natural extension of a nascent program the company announced in late January called AV Labs.\n“That is the direction we want to go eventually,” Naga said of equipping human drivers’ vehicles. “But first we need to get the understanding of the sensor kits and how they all work. There are some regulations — we have to make sure every state has [clarity on] what sensors mean, and what sharing it means.”\nFor now, AV Labs relies on a small, dedicated fleet of sensor-equipped cars that Uber operates itself, separate from its driver network. But the ambition is clearly much larger. Uber has millions of drivers globally, and if even a fraction of those cars could be transformed into rolling data-collection platforms, the scale of what Uber could offer the AV industry would dwarf what any individual AV company could assemble on its own.\nThe insight driving the program, Naga said, is that the limiting factor for AV development is no longer the underlying technology. “The bottleneck is data,” he said. “[Companies like Waymo] need to go around and collect the data, collect different scenarios. You may be able to say: in San Francisco, ‘At this school intersection, I want some data at this time of day so I can train my models.’ The problem for all these companies is access to that data, because they don’t have the capital to deploy the cars and go collect all this information.”\nBecoming the data layer for the entire AV ecosystem is a pretty smart play, particularly considering Uber years ago abandoned its own ambitions to build self-driving cars (a move that co-founder Travis Kalanick has publicly lamented as a big mistake). Indeed, many industry observers have wondered if, without its own self-driving cars, Uber might one day be rendered irrelevant as AVs increasingly spring up around the globe. \nThe company currently has partnerships with 25 AV companies — including Wayve, which operates in London — and is building what Naga described as an “AV cloud”: a library of labeled sensor data that partner companies can query and use to train their models. Partners, which Uber plans to more aggressively invest in directly, can also use the system to run their trained models in “shadow mode” against real Uber trips, simulating how an AV would have performed without actually putting one on the road.\n\n\t\tTechcrunch event\n\t\t\n\t\t\tSan Francisco, CA\n\t\t\t\t\t\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\t\t\t\t\t\tOctober 13-15, 2026\n\t\t\t\t\t\t\t\n\t\t\n\t\n“Our goal is not to make money out of this data,” Naga said. “We want to democratize it.”\nGiven the obvious commercial value of what Uber is building, that positioning may not last long. The company has already made equity investments in numerous AV players, and its ability to offer proprietary training data at scale could give it significant leverage over a sector that right now depends on Uber’s ride marketplace to reach customers.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tLoizos has been reporting on Silicon Valley since the late ’90s, when she joined the original Red Herring magazine. Previously the Silicon Valley Editor of TechCrunch, she was named Editor in Chief and General Manager of TechCrunch in September 2023. She’s also the founder of StrictlyVC, a daily e-newsletter and lecture series acquired by Yahoo in August 2023 and now operated as a sub brand of TechCrunch.\nYou can contact or verify outreach from Connie by emailing connie@strictlyvc.com or connie@techcrunch.com, or via encrypted message at ConnieLoizos.53 on Signal.\r\n\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Uber wants to turn its millions of drivers into a sensor grid for self-driving companies",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259104536.jpg?w=150"
+      ],
+      "datePublished": "2026-05-02T06:36:28.000Z",
+      "dateModified": "2026-05-02T06:36:28.000Z",
       "author": [
         {
           "@type": "Person",
