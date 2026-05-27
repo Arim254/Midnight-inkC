@@ -50,6 +50,31 @@
     }
   },
   {
+    "title": "7-Eleven data breach affects over 185,000 people’s personal data",
+    "url": "https://techcrunch.com/2026/05/26/7-eleven-data-breach-affects-over-185000-peoples-personal-data/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/7-eleven-2242125991.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-05-26T13:04:56.000Z",
+    "description": "\nData breach notification service Have I Been Pwned says a data breach at convenience store chain 7-Eleven affects over 185,000 people, including thei",
+    "body": "\nData breach notification service Have I Been Pwned says a data breach at convenience store chain 7-Eleven affects over 185,000 people, including their names, dates of birth, and physical addresses.\nThe data breach, reported in April, also included phone numbers and email addresses.\nHave I Been Pwned, which collects caches of data breaches and alerts affected individuals that their data was compromised, said in a new listing that 7-Eleven was the victim of a hack-and-extortion attack. The ShinyHunters group took credit for the breach, saying they would publish the data if they weren’t paid.\nPer a listing with Maine’s attorney general’s office, 7-Eleven chief information security officer Jim Kastle said the hackers gained access to an internal server containing franchisee documents. A separate listing with Massachusetts’ attorney general said the breach also included Social Security numbers and driver’s license numbers.\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "7-Eleven data breach affects over 185,000 people’s personal data",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/05/7-eleven-2242125991.jpg?w=150"
+      ],
+      "datePublished": "2026-05-26T13:04:56.000Z",
+      "dateModified": "2026-05-26T13:04:56.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Iranian hackers blamed for breach of Los Angeles transit system that took weeks to recover",
     "url": "https://techcrunch.com/2026/05/26/iranian-hackers-blamed-for-breach-of-los-angeles-transit-system-that-took-weeks-to-recover/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/los-angeles-metro.jpg?w=150",
@@ -100,31 +125,6 @@
     }
   },
   {
-    "title": "7-Eleven data breach affects over 185,000 people’s personal data",
-    "url": "https://techcrunch.com/2026/05/26/7-eleven-data-breach-affects-over-185000-peoples-personal-data/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/7-eleven-2242125991.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-05-26T13:04:56.000Z",
-    "description": "\nData breach notification service Have I Been Pwned says a data breach at convenience store chain 7-Eleven affects over 185,000 people, including thei",
-    "body": "\nData breach notification service Have I Been Pwned says a data breach at convenience store chain 7-Eleven affects over 185,000 people, including their names, dates of birth, and physical addresses.\nThe data breach, reported in April, also included phone numbers and email addresses.\nHave I Been Pwned, which collects caches of data breaches and alerts affected individuals that their data was compromised, said in a new listing that 7-Eleven was the victim of a hack-and-extortion attack. The ShinyHunters group took credit for the breach, saying they would publish the data if they weren’t paid.\nPer a listing with Maine’s attorney general’s office, 7-Eleven chief information security officer Jim Kastle said the hackers gained access to an internal server containing franchisee documents. A separate listing with Massachusetts’ attorney general said the breach also included Social Security numbers and driver’s license numbers.\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "7-Eleven data breach affects over 185,000 people’s personal data",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/05/7-eleven-2242125991.jpg?w=150"
-      ],
-      "datePublished": "2026-05-26T13:04:56.000Z",
-      "dateModified": "2026-05-26T13:04:56.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Amazon fulfillment competitor Stord raises $250M at $3B valuation",
     "url": "https://techcrunch.com/2026/05/26/amazon-fulfillment-competitor-stord-raises-250m-at-3b-valuation/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/Sean-Henry-CEO-Co-founder-of-Stord-.jpg?w=150",
@@ -141,56 +141,6 @@
       ],
       "datePublished": "2026-05-26T12:00:00.000Z",
       "dateModified": "2026-05-26T12:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Trump administration permits Volvo to keep selling connected cars in the US",
-    "url": "https://techcrunch.com/2026/05/26/trump-administration-permits-volvo-to-keep-selling-connected-cars-in-the-us/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/volvo-s90.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-05-26T22:55:01.000Z",
-    "description": "\nVolvo Cars reached an agreement with the Trump administration that exempts the automaker from a U.S. crackdown on Chinese-connected vehicle technolog",
-    "body": "\nVolvo Cars reached an agreement with the Trump administration that exempts the automaker from a U.S. crackdown on Chinese-connected vehicle technology. \nThe Swedish automaker, which is majority owned by China’s Geely Holding, said Tuesday that it received specific authorization from the U.S. Department of Commerce to continue importing and selling vehicles with Chinese connected car technology in the United States. Connected car tech involves the software that covers everything from syncing with phones to some automated driving features. Bloomberg was first to report the special authorization.\nVolvo was banned under rules finalized by the Biden administration in January 2025 that blocked vehicles equipped with software and hardware developed and maintained by Chinese companies over national security concerns. The rules kicked off with 2027 model-year vehicles equipped with software developed and maintained by Chinese companies. Another ban that prohibits the import of vehicle connected hardware begins with 2030 model-year vehicles.\nVolvo vehicles are primarily made in Sweden and imported to the United States, with the exception of the EX90, which is assembled at the company’s factory in South Carolina. But Volvo’s ties to China’s Geely — and its manufacturing operations in the country — meant it would be banned under the new rules. \nVolvo said the approval followed “constructive discussions” with the Commerce department and other U.S. officials regarding the company’s governance, technology, and data security. The automaker said it can now move forward with its expansion plans in the United States. \nThe automaker announced in September 2025 plans to bring two additional vehicles — the  XC60 midsize SUV and a new hybrid vehicle — into production at the South Carolina factory. In March, Volvo said it will also bring all production of the Polestar 3, an EV from its sister company Polestar, to the U.S. factory. The Polestar 3 is currently also produced in Chengdu, China.\nThe rule, known as “Securing the Information and Communications Technology and Services Supply Chain: Connected Vehicles,” spends considerable time on the threat of vehicles with automated driving systems developed by companies with Chinese ties.\nUnder the rules, Chinese companies would be prohibited from testing autonomous vehicles in the United States. Today, several of these companies, including Baidu’s Apollo Autonomous Driving LLC, Pony.ai, and WeRide, have permits to test their autonomous vehicle technology (with a human safety operator behind the wheel) in California. TechCrunch has reached out to the Department of Motor Vehicles, the agency that regulates AVs in the state, to learn if these permits will be revoked.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tKirsten Korosec is a reporter and editor who has covered the future of transportation from EVs and autonomous vehicles to urban air mobility and in-car tech for more than a decade. She is currently the transportation editor at TechCrunch and co-host of TechCrunch’s Equity podcast. She is also co-founder and co-host of the podcast, “The Autonocast.” She previously wrote for Fortune, The Verge, Bloomberg, MIT Technology Review and CBS Interactive.\nYou can contact or verify outreach from Kirsten by emailing kirsten.korosec@techcrunch.com or via encrypted message at kkorosec.07 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Trump administration permits Volvo to keep selling connected cars in the US",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/05/volvo-s90.jpg?w=150"
-      ],
-      "datePublished": "2026-05-26T22:55:01.000Z",
-      "dateModified": "2026-05-26T22:55:01.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
-    "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/DuckDuckGo_NoAI.png?w=150",
-    "tag": "Tech",
-    "date": "2026-05-26T22:32:56.000Z",
-    "description": "\nLast week, after Google announced its huge overhaul to Search, I overheard a woman on the phone saying she was switching to DuckDuckGo because you ca",
-    "body": "\nLast week, after Google announced its huge overhaul to Search, I overheard a woman on the phone saying she was switching to DuckDuckGo because you can “opt out of using AI.”\n“Google just isn’t Google anymore,” she said. It seems that others had the same idea. \nAt I/O, Google’s annual developer conference, the company said its traditional list of blue links is being replaced by an AI agent that answers queries, executes tasks, and runs background monitoring agents.\nThe backlash has been sharp. \nSome have argued it will kill the open web, while others shared concerns that AI overviews surface inaccurate responses and take away control from users who might not want to use AI. It also overcomplicates simple things. Just try to Google the word “disregard.”\nIn response to Google’s changes, many have begun defecting to DuckDuckGo, a privacy-focused alternative that has never been able to break past Google’s dominance, accounting for only around 2% of the U.S. search market.\nDuring Google’s search antitrust trial in 2023, DuckDuckGo CEO Gabriel Weinberg testified that Google’s exclusive default search contracts harmed its ability to pitch itself as the default on other browsers. \n“Google is force-feeding AI with no way to opt out,” Weinberg said Tuesday in a statement, referring to Google’s Search overhaul. “As a result, their results are getting worse, not better. We want to be the place that puts users in charge and allows them to decide how much or how little AI they want.”\nNow it seems that DuckDuckGo is beginning to benefit as consumers flee AI.\nDuckDuckGo said U.S. app installs went up 18.1% week-over-week on average during the May 20 to May 25 period, compared to May 13 to May 18. The company said that growth was sustained for six consecutive days and peaked at 30.5% on May 25. On iOS, the rate of install is even higher, with week-over-week growth hitting a 33% average, peaking at 69.9%.\nThe search engine also said visits to its AI-free search page, noai.duckduckgo.com, averaged 22.7% WoW growth, peaking at 27.7% on May 24. The page turns off every AI feature, like AI-assisted answers and AI-generated images, by default. \nThe company said the trend is stronger in the U.S., and that DuckDuckGo continued to gain users over the Memorial Day weekend, when it usually sees a dip in traffic. \nDuckDuckGo offers its own AI product called Duck.ai. It’s free and doesn’t require users to make an account but provides access to models, including Anthropic’s Claude 4.5 Haiku, Meta’s Llama 4 Scout, Mistral’s Small 3 24B, and OpenAI’s GPT-5 mini. All chats are private because DuckDuckGo strips the user’s IP address before requests reach model providers, deletes conversations within 30 days, and prevents chats from being used for training.\n“Not only do we respect user choice, but also user privacy,” Weinberg said. “Everything you do in DuckDuckGo is private; we don’t collect search histories or chats and nothing is used for AI training.”\nDuckDuckGo also offers Search Assist, which is similar to Google’s AI overviews, and an AI Image Filter that filters out AI-created images from search results. \nKamyl Bazbaz, DuckDuckGo’s chief communications and policy officer, said both of those AI features are among the company’s most popular, despite their differing ethos. \n“People just want a choice,” Bazbaz said. \nTechCrunch has reached out to Google for comment.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tRebecca Bellan is a senior reporter at TechCrunch where she covers the business, policy, and emerging trends shaping artificial intelligence. Her work has also appeared in Forbes, Bloomberg, The Atlantic, The Daily Beast, and other publications. \r\nYou can contact or verify outreach from Rebecca by emailing rebecca.bellan@techcrunch.com or via encrypted message at rebeccabellan.491 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/05/DuckDuckGo_NoAI.png?w=150"
-      ],
-      "datePublished": "2026-05-26T22:32:56.000Z",
-      "dateModified": "2026-05-26T22:32:56.000Z",
       "author": [
         {
           "@type": "Person",
@@ -225,106 +175,6 @@
     }
   },
   {
-    "title": "Ferrari’s first EV is not for you",
-    "url": "https://techcrunch.com/2026/05/26/ferraris-first-ev-is-not-for-you/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/ferrari-luce-1.jpeg?w=150",
-    "tag": "Tech",
-    "date": "2026-05-26T15:16:34.000Z",
-    "description": "\nEveryone seems to be mad about Ferrari’s first electric vehicle.\nThe vehicle is called Luce and was revealed on Monday. The design of the five-seater",
-    "body": "\nEveryone seems to be mad about Ferrari’s first electric vehicle.\nThe vehicle is called Luce and was revealed on Monday. The design of the five-seater (gasp!) was led in large part by Jony Ive and the design firm he runs with Marc Newson, LoveFrom. While it ticks a lot of spec sheet boxes — it boasts 1,000 horsepower and the ability to hit 60 miles per hour in just over two seconds — it’s tracking to be the most mocked new vehicle since the Cybertruck.\nThis widespread rejection of the wedge-shaped, Nissan-esque car covers seemingly the whole spectrum, too, from the typical flimsy knee-jerk reactions to the positively vitriolic. The company’s stock price is down, and even some of the most down-the-middle news outlets are admitting it in their own ways. (Bloomberg said the Luce is “quite a stretch.”)\nThe question underneath all of this immediate backlash is singular: Who is the Luce for?\nCertainly it’s not for me, or for almost anyone reading this. The Luce will cost around $650,000, and this is Ferrari we’re talking about, so even if you have that kind of money, you’re dealing with a company that is, shall we say, selective about its customers.\nIs it for existing Ferrari owners? Typically, that answer is yes — more than 80% of the 14,000 people who bought a Ferrari last year already own one of its vehicles. It’s hard to imagine that crowd being sufficiently excited about a car that is so devoid of the fierce Ferrari angles that have adorned bedroom walls for decades.\nIs it for other car designers? Possibly. Car companies borrow ideas all the time, and there’s definitely plenty on the interior — which features a lot of clicky buttons and knobs, a marked departure for Ive — that I’d personally like to see repeated elsewhere.\nIs it for regulators? Well, maybe. The European Union is placing severe limits on the sale of new cars with internal combustion engines in 2035. The Luce may be the first step Ferrari’s taking toward a lineup that complies with those looming rules. \nIn fact, during an interview with Cleo Abram, we learn that this external pressure seems to have weighed heavily on Ive. Abram was given access to one of four “secret” books Ive created when he started the project, which contains a mix of mood board-style imagery and text written by the iPhone designer himself.\nAbram quotes Ive as comparing the task of designing an electric Ferrari to how luxury Swiss watchmaker Patek Philippe adapted during the evolution from mechanical power to quartz crystals. Ive wrote that Patek Philippe survived “primarily because it survived and grew in the transition” by making a mix of traditional timepieces and watches with batteries and quartz movements.\nBut then he added: “If it had been legislated that Patek Philippe had to transition its entire product line to quartz, the resulting challenge would appear similar to the transition Ferrari is facing.” Telling!\nStill, I find it hard to believe this is purely a compliance car. The company has said it expects the Luce to be profitable from the jump. And Ferrari’s own chief marketing and commercial officer told the Financial Times that the company wanted the Luce to be “polarising.” \nHe also made another admission in that interview, saying that Ferrari’s main target with the Luce is someone who “already owns an electric car.”\nThat statement is nearly as radical as the Luce’s design. By definition, that likely means Ferrari isn’t looking at current owners to make up the bulk of Luce sales. \nWhich brings us to what may be the truest answer: China. While Chinese buyers have typically only made up around 10% of Ferrari’s overall sales, those numbers have declined in recent years, and the automaker’s executives haven’t been shy about wanting their first EV to turn things around in the largest market for battery-powered vehicles in the world.\nViewed through that lens, the Luce’s design makes a bit more sense, as — to my eyes — it certainly resembles some of the designs that have come out of China’s booming auto industry over the last few years.\nSo maybe the more apt question to ask is this: Will Chinese buyers, who are currently awash in high-performance, high-tech, affordable options, care to pay up for the prestige of a prancing horse on the hood?\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Ferrari’s first EV is not for you",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/05/ferrari-luce-1.jpeg?w=150"
-      ],
-      "datePublished": "2026-05-26T15:16:34.000Z",
-      "dateModified": "2026-05-26T15:16:34.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Ghost hackers: the cybersecurity mystery that nobody has solved",
-    "url": "https://techcrunch.com/2026/05/26/ghost-hackers-the-cybersecurity-mystery-that-nobody-has-solved/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/hacker-anonymous-mask-dark.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-05-26T15:27:12.000Z",
-    "description": "\nIn the long history of hacking, there have been numerous data breaches that, years or even decades later, remain unsolved. Countless hackers and hack",
-    "body": "\nIn the long history of hacking, there have been numerous data breaches that, years or even decades later, remain unsolved. Countless hackers and hacking groups behind them have never been unmasked.  \nBut prolific hacking groups do get caught. This is true whether they’re cybercriminals such as LAPSUS$, a notorious extortion gang that compromised companies such as Microsoft and Nvidia and that have had multiple members arrested, or sophisticated government hacking groups from Russia and China, whose members have been named, indicted, and placed on most-wanted lists. \nStill, some of the most fascinating cases in cybersecurity history remain wide open — no culprits, no answers, and in some cases, not even a clear motive. We decided to revisit several of them in a series of articles, starting with one of the strangest episodes in the history of intelligence leaks.\nThe first installment centers on the Shadow Brokers — an enigmatic group that surfaced online, dumped a trove of hacking tools believed to belong to the NSA, and then vanished. \nIn the summer of 2016, in the midst of the Russian hacks related to the U.S. presidential elections, the group appeared on Twitter. They linked to a Pastebin post and @-mentioned several news outlets — a strange, ineffective strategy that meant most of those outlets likely never saw the tweets. \nBut if anyone had clicked on the link, they would have seen a document titled “Equation Group Cyber Weapons Auction — Invitation” — a reference to the shadowy hacking operation widely believed to be run by the NSA. \n“!!! Attention government sponsors of cyber warfare and those who profit from it !!!! How much you pay for enemies’ cyber weapons?” the hackers wrote, claiming to have hacked the Equation Group. \nA screenshot of the shadow broker’s first tweets.Image Credits:TechCrunch\nThe document included links to download some hacking tools, as well as a link to download an encrypted file that interested buyers could decrypt by making a bid. “Auction files better than Stuxnet,” they wrote, referring to the famous malware used against Iranian nuclear facilities in a U.S.-Israeli cyberattack in 2007. They asked for at least 1 million Bitcoin. \nThe leak quickly attracted press coverage. Once security researchers analyzed the tools, they realized these were exceptionally sophisticated cyberweapons, very likely stolen from the NSA — a suspicion bolstered by the fact that some shared names with programs revealed by NSA whistleblower Edward Snowden. \nThe auction was likely a ruse, since the group eventually dumped many of the tools publicly months later. Much about the Shadow Brokers made little sense. Their broken English was almost comical, as if they were either trying too hard or deliberately signaling the artifice. Despite clearly seeking attention — and getting plenty of press coverage — the group only spoke to a journalist once, giving a brief interview to 404 Media’s Joseph Cox, then a reporter at VICE Motherboard. \nTen years later, we know literally nothing about who was behind the Shadow Brokers persona. Cox and I interviewed former NSA staffers at the time, who said an NSA insider or former insider could be involved. But nobody has ever been arrested and charged — extraordinary, given this was arguably one of the worst leaks of U.S. intelligence hacking tools ever. \nOne potential suspect was Harold T. Martin III, an NSA contractor arrested for stealing classified information from the agency. But the theory has a problem: While Martin was in custody, the Shadow Brokers remained active online. He has never been formally charged in connection with the leaks. The most widely credited theory is that the Shadow Brokers were created by a Russian government spy group as a propaganda tool. \nThe impact was massive. Among the tools released, the Shadow Brokers published EternalBlue — a family of zero-day vulnerabilities targeting Windows that allowed hackers to break into computers on a hacked network, rapidly expand their access, and deploy self-propagating worms. (Zero-day vulnerabilities are flaws unknown to the software maker, meaning no patch yet exists.) North Korean hackers used EternalBlue to unleash the WannaCry ransomware worm. Russian hackers later built it into NotPetya, which spiraled beyond its initial Ukrainian targets and caused an estimated $10 billion in damages globally. For businesses, the lesson was stark: Vulnerabilities hoarded by intelligence agencies don’t stay secret forever — and when they leak, the private sector pays the price. \nThe trove is still yielding discoveries. Among the leaked tools was one containing a list of project names — including one called Fast16, flagged only with the label “NOTHING TO SEE HERE — CARRY ON.” Last month, researchers announced they had located and examined it, finding malware dating to 2005, designed to tamper with software allegedly used by Iranian nuclear scientists. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tLorenzo Franceschi-Bicchierai is a Senior Writer at TechCrunch, where he covers hacking, cybersecurity, surveillance, and privacy. \nYou can contact or verify outreach from Lorenzo by emailing lorenzo@techcrunch.com, via encrypted message at +1 917 257 1382 on Signal, and @lorenzofb on Keybase/Telegram.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Ghost hackers: the cybersecurity mystery that nobody has solved",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/05/hacker-anonymous-mask-dark.jpg?w=150"
-      ],
-      "datePublished": "2026-05-26T15:27:12.000Z",
-      "dateModified": "2026-05-26T15:27:12.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Trump administration wants nuclear startups to use plutonium for their reactors",
-    "url": "https://techcrunch.com/2026/05/26/trump-administration-wants-nuclear-startups-to-use-plutonium-for-their-reactors/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-157741219.jpeg?w=150",
-    "tag": "Tech",
-    "date": "2026-05-26T22:37:46.000Z",
-    "description": "\nFor decades, the U.S. has had a plutonium problem. Around 100 tons of the stuff was made during the Cold War to go into powerful atomic bombs. But as",
-    "body": "\nFor decades, the U.S. has had a plutonium problem. Around 100 tons of the stuff was made during the Cold War to go into powerful atomic bombs. But as nuclear stockpiles were dismantled, the government had to store the radioactive material in high-security facilities.\nNow it wants startups to help get rid of some of it.\nThe Department of Energy said Tuesday it has selected five nuclear startups to enter into negotiations with the government to receive a portion of the plutonium, which could potentially be used to power a new generation of nuclear reactors. The Department of Energy previously identified 34 tons of plutonium for disposal.\nThe five startups include Oklo, Standard Nuclear, Shine Technologies, Flibe Energy, and Exodys Energy. \nEnergy Secretary Chris Wright was previously on Oklo’s board, but he resigned when he joined the administration and said he has divested his shares. Sam Altman was Oklo’s board chair following its merger with his acquisition company, AltC; Altman resigned the position last year.\nWhile plutonium does exist in nature, it is more typically a by-product of bombarding non-fissile uranium with neutrons. Once formed, that isotope of plutonium has a half-life of 24,000 years, meaning the government can’t just wait it out.\nOklo is developing a reactor that can run on traditional uranium fuel as well as plutonium. The plutonium would help the company fuel its first reactors. Exodys Energy is also developing a reactor that can operate using some plutonium as part of mixed oxide fuel, or MOX, which blends uranium with plutonium. Flibe Energy is working toward a reactor that would run on plutonium and other by-products of fission reactors.\nMOX is currently produced in France, and while the U.S. had plans to make it in South Carolina, the first Trump administration canceled the project after it blew through budgets and timelines. One of Oklo’s partners in the project, U.K.-based Newcleo, said it intends to build its own MOX fuel fabrication facility nearby.\nNot everyone is thrilled with the plan, though. Since the plutonium came from nuclear weapons, the security concerns are significant. “Countries have tried this before, and they concluded that, as nice as it would be to use that plutonium as fuel, it’s really just a liability and we need to dispose of it permanently,” Scott Roecker, a vice president at the Nuclear Threat Initiative, told the New York Times.\nFor the startups, the next step is to enter into advanced negotiations with the government over security and the transportation of the plutonium. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tTim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor. \r\nDe Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.\r\nYou can contact or verify outreach from Tim by emailing tim.dechant@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Trump administration wants nuclear startups to use plutonium for their reactors",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-157741219.jpeg?w=150"
-      ],
-      "datePublished": "2026-05-26T22:37:46.000Z",
-      "dateModified": "2026-05-26T22:37:46.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Starship’s path to reusability looks murky after SpaceX’s S-1",
-    "url": "https://techcrunch.com/2026/05/26/starships-path-to-reusability-looks-murky-after-spacexs-s-1/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Screenshot-2026-05-26-at-11.33.33-AM.png?w=150",
-    "tag": "Tech",
-    "date": "2026-05-26T21:03:56.000Z",
-    "description": "\nSpaceX’s recent IPO and Starship rocket test flight delivered two big data points that offer a realistic vision for the coming years — and one that m",
-    "body": "\nSpaceX’s recent IPO and Starship rocket test flight delivered two big data points that offer a realistic vision for the coming years — and one that may disappoint both the company’s boosters and its critics.\nHidden behind the fantastic expectations for AI enterprise profits and plans for a moon base is a more grounded reality: An expendable Starship could keep SpaceX in business, but doesn’t achieve the cost reductions — or frontier business models — Elon Musk is betting on.\nSpaceX is many businesses, but right now only one is producing significant revenue. Starlink, its satellite communications network, is the tent pole of the firm’s public offering. The top line is fairly incredible; SpaceX’s connectivity business generated $11.4 billion in revenue last year, the bulk of the company’s earnings.\nBut underneath, you can see the capital expenditure treadmill that scared previous entrepreneurs away from this model. SpaceX needs to replace about a fifth of its satellites every year just to maintain its current level of service. It has invested more in its satellite business ($11.4 billion) since the beginning of 2023 than it has building Starship and its launch infrastructure ($8.4 billion).\nSpaceX’s S-1 filing with the U.S. Securities and Exchange Commission predicts costs will continue growing, but expects that improvements to its technology will allow it to reduce them as a percentage of its revenue.\nMusk has said that Starship is the key to keeping Starlink’s costs under control, even saying that SpaceX could go bankrupt without the vehicle’s ability to replace those satellites cheaply. In that context, a note that stood out in SpaceX’s S-1 was the first acknowledgment that full reusability of Starship isn’t necessary to launch the new generation of Starlink satellites. But without full reusability, the cost will go up, making the business less attractive.\n“If this reusability is not achieved then the cost of launch on Starship may not be much lower than Falcon 9, even if the full 100 ton capability is realized (which is by no means a foregone conclusion),” satellite market analyst Tim Farrar wrote in a note to clients last week. “The cost per launch may be as much as $100M (i.e. $1000 per kg) while tempo remains constrained by the rate at which second stages can be manufactured and first stages can be refurbished.”\nLast week’s test flight of the third version of Starship and its booster bore those concerns out. The newest rocket’s maiden flight saw issues with a key capability for reusability — relighting the Raptor rocket engines on both the booster and Starship in order to make a controlled return to Earth. Starship did, however, deploy a set of dummy satellites and two test vehicles in space.\nThat helps square SpaceX’s prediction that it will begin launching a new generation of higher-throughput Starlink satellites 60 at a time, a twentyfold increase in capacity compared to a single Falcon 9 launch, later this year. At first glance a classic example of Musk’s timelines, it may actually be an expectation that initial launches will expend the Starship. If so, SpaceX might not be able to count on as much free satellite cash as expected, and its plans to launch space data centers will become untenable until the rocket is reusable.\nStarlink growth slows\nAt the same time, SpaceX’s S-1 shows that Starlink’s growth is slowing. \nSpaceX’s total addressable market calculation is based on its ability to offer service to every fixed-broadband subscriber or mobile handset in the world. That’s unlikely, though, because Starlink isn’t competing on price with terrestrial fiber. The rest of the document suggests SpaceX continues to see direct-to-device as a complement, rather than a replacement, for terrestrial mobile providers.\nStarlink has just over 10 million subscribers, more than any other satellite communications network. But Farrar notes the rate of user growth fell over the course of the first quarter of 2026. Quilty Space, a space consulting firm, projected earlier this year that SpaceX would end the year with 16.8 million subscribers. That would require the company’s quarterly growth rate to roughly double from where it is now, which may be difficult after recent price increases.\nGrowth matters for SpaceX because its new Starlink users are paying less than previous ones. Starlink’s average revenue per user has fallen from $99 in 2023 to $66 in the first quarter of 2026 — a change propelled by its expansion into new international markets where it can’t charge as much as it does in developed economies. Without a fast-growing user base, each new satellite launched is making less money.\nIncreased competition also threatens Starlink. Amazon’s Leo network is approaching the scale required to put pressure on SpaceX, although it is waiting for the Federal Communications Commission to extend a deadline that requires it to launch 1,600 internet satellites by July. \nData in the SpaceX filing presents a gloomy growth forecast for the company as well as rivals like Blue Origin. Farrar says that if SpaceX — much further ahead than any other company — is seeing slowing demand, that may signal the market for space broadband is smaller than the players anticipated.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tTim Fernholz is a journalist who writes about technology, finance and public policy. He has closely covered the rise of the private space industry and is the author of  Rocket Billionaires: Elon Musk, Jeff Bezos and the New Space Race. Formerly, he was a senior reporter at Quartz, the global business news site, for more than a decade, and began his career as a political reporter in Washington, D.C. \nYou can contact or verify outreach from Tim by emailing tim.fernholz@techcrunch.com or via an encrypted message to tim_fernholz.21 on Signal.\r\n\t\n\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Starship’s path to reusability looks murky after SpaceX’s S-1",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/05/Screenshot-2026-05-26-at-11.33.33-AM.png?w=150"
-      ],
-      "datePublished": "2026-05-26T21:03:56.000Z",
-      "dateModified": "2026-05-26T21:03:56.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Spotify now lets you stream narrated magazine articles, too",
     "url": "https://techcrunch.com/2026/05/26/spotify-now-lets-you-stream-narrated-magazine-articles-too/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/Articles-FTR-banner-1920x733-1.png?w=150",
@@ -350,22 +200,172 @@
     }
   },
   {
-    "title": "What we’re looking for in Startup Battlefield 2026, and how to apply in time for the May 27 deadline",
-    "url": "https://techcrunch.com/2026/05/26/what-were-looking-for-in-startup-battlefield-2026-and-how-to-apply-in-time-for-the-may-27-deadline/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/11/54889167026_7a80a409c4_o.jpg?w=150",
+    "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
+    "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/DuckDuckGo_NoAI.png?w=150",
     "tag": "Tech",
-    "date": "2026-05-26T22:55:01.000Z",
-    "description": "\nEvery year I read through thousands of Startup Battlefield applications. And every year, I see the same pattern: The founders who belong on this stag",
-    "body": "\nEvery year I read through thousands of Startup Battlefield applications. And every year, I see the same pattern: The founders who belong on this stage are often the ones who almost didn’t apply.\nThey think they’re too early. They think they need more traction. They think the program is for companies further along than they are.\nSo here’s what we’re actually looking for and how to make sure your application reflects it. The deadline to be considered is May 27, which is tomorrow — time is running out for you to apply right here!\nAnd if you’re not up to speed on this year’s Startup Battlefield details, it’s once again a premiere part of TechCrunch Disrupt, which will be in San Francisco from October 13-15 and concludes with the crowning of this year’s future champion. And that list of champions includes some incredible companies, from giants like Cloudflare and Discord, to the most recent crop of winners, who you can learn about in detail right here.\nWhat gets a company selected for Startup Battlefield\nStartup Battlefield is not a competition for the most polished companies. It never has been. It’s a competition for the most promising ones.\nWe’re looking for companies with ideas that feel meaningfully different and category-defining, with the potential to make a major impact in their industry or geography. For every application, the question we ask is simple: Does this change something? Not incrementally. Genuinely.\nProduct and disruption. What are you building, and does it represent a real shift in how something works? We’re not looking for a better version of what already exists. We’re looking for the thing that makes the existing version feel obsolete.\nThe founding team. Why you, why now, why this problem? Your origin story is part of the application. The founders who can articulate their conviction clearly, not just their market size, are the ones who stand out.\nIndustry and geographic diversity. The Startup Battlefield 200 is a global cohort. We actively look for companies from every corner of the world and every vertical in tech. If you’re building something important in a geography or sector that doesn’t often get a spotlight, that matters to us.\nWhat doesn’t disqualify you from Startup Battlefield\nHaving press coverage. Local coverage is fine. Industry coverage is fine. A few founder profiles are fine. We’re looking for companies whose core technology hasn’t had its moment yet. If you’ve had some coverage but the product hasn’t been showcased, that’s exactly what Disrupt is for. Apply and show us what you have.\nBeing pre-launch. You need a working MVP, but you don’t need customers. You don’t need revenue. Pre-launch companies are genuinely welcome.\nHaving applied before. Many Startup Battlefield 200 companies applied more than once before being selected. A previous rejection says nothing about your company’s future or your chances this time.\nRaising money. Bootstrapped, pre-seed, and seed companies are all welcome. Series A companies are reviewed on a case-by-case basis, particularly founders building in capital-intensive industries or raising in markets where funding dynamics differ from Silicon Valley norms.\nTips for a strong Startup Battlefield application\nShow your product working. This is the single most important thing. Not a mockup. Not a simulation. Not an animated explainer video with upbeat background music. Your MVP in action, in real time. Even if it’s rough, even if it’s a screen recording from your phone. We want to see it work.\nKnow your competitive landscape. “We have no competitors” is not a credible answer, and it raises questions about how well you understand your market. Name your competitors, acknowledge them honestly, and then explain clearly and specifically why you win. This is one of the most important parts of the application and one of the most commonly underdeveloped.\nTell your story. Why did you start this company? What did you see that others didn’t? What makes you the right person to build it? The founding narrative is a meaningful part of how we evaluate teams and it’s the part most founders underwrite. Don’t skip it.\nDon’t overpolish. Write clearly, show the product, tell the truth about where you are. We can see around rough edges. What we struggle to see around is an application that’s been so carefully managed that the actual company is invisible.\nResubmit if you need to. If you submit before you’re ready, don’t panic. You can resubmit until the May 27 deadline. You cannot edit an already submitted application, but you can submit a new one.\nLearn what it takes from the founders who’ve done it\nBuild Mode, TechCrunch’s podcast for early-stage founders, is the best place to start. Hear directly from past Battlefield companies like Forethought AI and Glīd, breakout founders like Artisan and TaskRabbit, and top-tier investors like General Catalyst on what it takes to build a company worth putting on a global stage.\nListen to Build Mode →\nThe deadline to apply for Startup Battlefield\nApplications close May 27, 2026, and you can still apply right here. Selected companies are notified approximately two months before TechCrunch Disrupt.\nIf you’re on the fence, apply. The worst outcome is you don’t get selected this cycle and you’ll have a stronger application next year for having gone through it.\nWe built this program to find you before the world does. The application is your first pitch.\nApply for Startup Battlefield 200 →\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tIsabelle leads Startup Battlefield, TechCrunch’s iconic launchpad and competition for the world’s most promising early-stage startups.\r\nYou can contact or verify outreach from Isabelle by emailing isabelle.johannessen@techcrunch.com.\r\n\r\nShe scouts top founders across 99+ countries and prepares them to pitch on the Disrupt stage in front of tier-one investors and global media. Before TechCrunch, she designed and led international startup acceleration programs across Japan, Korea, Italy, and Spain—connecting global founders with VCs and helping them successfully enter the U.S. market. With a Master’s in Entrepreneurship & Disruptive Innovation—and a past life as a professional singer—she brings a blend of strategic rigor and stage presence to help founders craft compelling stories and stand out in crowded markets.\n\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-05-26T22:32:56.000Z",
+    "description": "\nLast week, after Google announced its huge overhaul to Search, I overheard a woman on the phone saying she was switching to DuckDuckGo because you ca",
+    "body": "\nLast week, after Google announced its huge overhaul to Search, I overheard a woman on the phone saying she was switching to DuckDuckGo because you can “opt out of using AI.”\n“Google just isn’t Google anymore,” she said. It seems that others had the same idea. \nAt I/O, Google’s annual developer conference, the company said its traditional list of blue links is being replaced by an AI agent that answers queries, executes tasks, and runs background monitoring agents.\nThe backlash has been sharp. \nSome have argued it will kill the open web, while others shared concerns that AI overviews surface inaccurate responses and take away control from users who might not want to use AI. It also overcomplicates simple things. Just try to Google the word “disregard.”\nIn response to Google’s changes, many have begun defecting to DuckDuckGo, a privacy-focused alternative that has never been able to break past Google’s dominance, accounting for only around 2% of the U.S. search market.\nDuring Google’s search antitrust trial in 2023, DuckDuckGo CEO Gabriel Weinberg testified that Google’s exclusive default search contracts harmed its ability to pitch itself as the default on other browsers. \n“Google is force-feeding AI with no way to opt out,” Weinberg said Tuesday in a statement, referring to Google’s Search overhaul. “As a result, their results are getting worse, not better. We want to be the place that puts users in charge and allows them to decide how much or how little AI they want.”\nNow it seems that DuckDuckGo is beginning to benefit as consumers flee AI.\nDuckDuckGo said U.S. app installs went up 18.1% week-over-week on average during the May 20 to May 25 period, compared to May 13 to May 18. The company said that growth was sustained for six consecutive days and peaked at 30.5% on May 25. On iOS, the rate of install is even higher, with week-over-week growth hitting a 33% average, peaking at 69.9%.\nThe search engine also said visits to its AI-free search page, noai.duckduckgo.com, averaged 22.7% WoW growth, peaking at 27.7% on May 24. The page turns off every AI feature, like AI-assisted answers and AI-generated images, by default. \nThe company said the trend is stronger in the U.S., and that DuckDuckGo continued to gain users over the Memorial Day weekend, when it usually sees a dip in traffic. \nDuckDuckGo offers its own AI product called Duck.ai. It’s free and doesn’t require users to make an account but provides access to models, including Anthropic’s Claude 4.5 Haiku, Meta’s Llama 4 Scout, Mistral’s Small 3 24B, and OpenAI’s GPT-5 mini. All chats are private because DuckDuckGo strips the user’s IP address before requests reach model providers, deletes conversations within 30 days, and prevents chats from being used for training.\n“Not only do we respect user choice, but also user privacy,” Weinberg said. “Everything you do in DuckDuckGo is private; we don’t collect search histories or chats and nothing is used for AI training.”\nDuckDuckGo also offers Search Assist, which is similar to Google’s AI overviews, and an AI Image Filter that filters out AI-created images from search results. \nKamyl Bazbaz, DuckDuckGo’s chief communications and policy officer, said both of those AI features are among the company’s most popular, despite their differing ethos. \n“People just want a choice,” Bazbaz said. \nTechCrunch has reached out to Google for comment.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tRebecca Bellan is a senior reporter at TechCrunch where she covers the business, policy, and emerging trends shaping artificial intelligence. Her work has also appeared in Forbes, Bloomberg, The Atlantic, The Daily Beast, and other publications. \r\nYou can contact or verify outreach from Rebecca by emailing rebecca.bellan@techcrunch.com or via encrypted message at rebeccabellan.491 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "What we’re looking for in Startup Battlefield 2026, and how to apply in time for the May 27 deadline",
+      "headline": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/11/54889167026_7a80a409c4_o.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/05/DuckDuckGo_NoAI.png?w=150"
+      ],
+      "datePublished": "2026-05-26T22:32:56.000Z",
+      "dateModified": "2026-05-26T22:32:56.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Trump administration permits Volvo to keep selling connected cars in the US",
+    "url": "https://techcrunch.com/2026/05/26/trump-administration-permits-volvo-to-keep-selling-connected-cars-in-the-us/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/volvo-s90.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-05-26T22:55:01.000Z",
+    "description": "\nVolvo Cars reached an agreement with the Trump administration that exempts the automaker from a U.S. crackdown on Chinese-connected vehicle technolog",
+    "body": "\nVolvo Cars reached an agreement with the Trump administration that exempts the automaker from a U.S. crackdown on Chinese-connected vehicle technology. \nThe Swedish automaker, which is majority owned by China’s Geely Holding, said Tuesday that it received specific authorization from the U.S. Department of Commerce to continue importing and selling vehicles with Chinese connected car technology in the United States. Connected car tech involves the software that covers everything from syncing with phones to some automated driving features. Bloomberg was first to report the special authorization.\nVolvo was banned under rules finalized by the Biden administration in January 2025 that blocked vehicles equipped with software and hardware developed and maintained by Chinese companies over national security concerns. The rules kicked off with 2027 model-year vehicles equipped with software developed and maintained by Chinese companies. Another ban that prohibits the import of vehicle connected hardware begins with 2030 model-year vehicles.\nVolvo vehicles are primarily made in Sweden and imported to the United States, with the exception of the EX90, which is assembled at the company’s factory in South Carolina. But Volvo’s ties to China’s Geely — and its manufacturing operations in the country — meant it would be banned under the new rules. \nVolvo said the approval followed “constructive discussions” with the Commerce department and other U.S. officials regarding the company’s governance, technology, and data security. The automaker said it can now move forward with its expansion plans in the United States. \nThe automaker announced in September 2025 plans to bring two additional vehicles — the  XC60 midsize SUV and a new hybrid vehicle — into production at the South Carolina factory. In March, Volvo said it will also bring all production of the Polestar 3, an EV from its sister company Polestar, to the U.S. factory. The Polestar 3 is currently also produced in Chengdu, China.\nThe rule, known as “Securing the Information and Communications Technology and Services Supply Chain: Connected Vehicles,” spends considerable time on the threat of vehicles with automated driving systems developed by companies with Chinese ties.\nUnder the rules, Chinese companies would be prohibited from testing autonomous vehicles in the United States. Today, several of these companies, including Baidu’s Apollo Autonomous Driving LLC, Pony.ai, and WeRide, have permits to test their autonomous vehicle technology (with a human safety operator behind the wheel) in California. TechCrunch has reached out to the Department of Motor Vehicles, the agency that regulates AVs in the state, to learn if these permits will be revoked.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tKirsten Korosec is a reporter and editor who has covered the future of transportation from EVs and autonomous vehicles to urban air mobility and in-car tech for more than a decade. She is currently the transportation editor at TechCrunch and co-host of TechCrunch’s Equity podcast. She is also co-founder and co-host of the podcast, “The Autonocast.” She previously wrote for Fortune, The Verge, Bloomberg, MIT Technology Review and CBS Interactive.\nYou can contact or verify outreach from Kirsten by emailing kirsten.korosec@techcrunch.com or via encrypted message at kkorosec.07 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Trump administration permits Volvo to keep selling connected cars in the US",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/05/volvo-s90.jpg?w=150"
       ],
       "datePublished": "2026-05-26T22:55:01.000Z",
       "dateModified": "2026-05-26T22:55:01.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
+    "url": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/tiktok-header.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-05-26T14:55:05.000Z",
+    "description": "\n\t\n\t\tImage Credits:Jonathan Raa/NurPhoto / Getty Images\t\n\t\n\t\t\t\t\t\t7:55 AM PDT · May 26, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nUniversal Music Group (UMG) and TikTok rec",
+    "body": "\n\t\n\t\tImage Credits:Jonathan Raa/NurPhoto / Getty Images\t\n\t\n\t\t\t\t\t\t7:55 AM PDT · May 26, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nUniversal Music Group (UMG) and TikTok recently announced the renewal of their licensing agreement, which includes a commitment to get rid of unauthorized AI-generated music from the platform to improve how artists and songwriters are credited. \nIn their joint announcement, UMG stated the agreement “extends TikTok and UMG’s groundbreaking commitment to AI protections that promote human artistry and ensure platform economics effectively flow through to artists and songwriters. TikTok and UMG will work together to remove unauthorized AI-generated music from the platform, while further improving artist and songwriter attribution.”\nThis new agreement represents a notable shift in the relationship between UMG and TikTok. \nFor years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies. Tensions between UMG and TikTok escalated in 2024 when UMG accused TikTok of inadequately addressing issues related to AI-generated music and copyright. This public dispute led to UMG temporarily pulling its music catalog from TikTok — a decision that underscored the app’s growing reliance on major label licenses as popular tracks vanished from user videos overnight. \nThe timing of TikTok’s commitment to crack down on fake or unlicensed music is significant, especially as the music industry wrestles with an influx of AI-generated content. Over the past couple of years, the industry has been increasingly worried about AI tools that can mimic artists’ voices or create counterfeit songs that exploit streaming algorithms. Viral AI-generated tracks imitating big names like Drake and The Weeknd sparked widespread concern, especially when some racked up millions of streams before being taken down.\nThe deal may also serve as a template for how the broader tech industry navigates the collision of AI, intellectual property, and platform accountability. As the EU tightens its regulatory grip on AI-generated content (and U.S. states increasingly follow suit), the pressure on other platforms to formalize similar governance frameworks is growing.\nTikTok has been working to demonstrate to the music industry that it can deliver significant earnings for artists and rights holders. Last year, the platform launched “TikTok for Artists,” an insights platform designed to help artists strengthen their promotional efforts and provide music labels with access to data.\n\n\t\t\t\n\tTopics\n\n\t\t\tWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\n\t\tLauren covers media, streaming, apps and platforms at TechCrunch.\nYou can contact or verify outreach from Lauren by emailing laurenf.techcrunch@gmail.com or via encrypted message at laurenforris22.25 on Signal.\t\n\t\n\t\tView Bio \n\t\n\n\t\t",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/03/tiktok-header.jpg?w=150"
+      ],
+      "datePublished": "2026-05-26T14:55:05.000Z",
+      "dateModified": "2026-05-26T14:55:05.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "What ClickUp’s mass layoff tells us about the future of work",
+    "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1247853635.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-05-25T16:00:00.000Z",
+    "description": "\nAI’s biggest champions have argued for some time that the technology will usher in an era of unprecedented productivity gains, richly rewarding worke",
+    "body": "\nAI’s biggest champions have argued for some time that the technology will usher in an era of unprecedented productivity gains, richly rewarding workers who harness it while displacing those who don’t.\nZeb Evans, CEO of the collaboration software startup ClickUp, claims that this shift is imminent. Last Thursday, Evans announced on X that the company, which was last valued in 2021 at $4 billion, had laid off 22% of its workforce yet characterized that reduction as not a cost-cutting measure, but rather a radical embrace of AI that will propel the company to the next level.\n“Most savings from this change will flow directly back into the people who stay. We’ll be introducing million-dollar salary bands. If you create outsized impact using AI, you’ll be paid outside of traditional bands,” Evans wrote.\nClickUp recently introduced roughly 3,000 internal AI agents to handle a wide range of complex tasks on behalf of its employees, according to a Fortune article published several days ago. Instead of performing the work themselves, staff members are now expected to direct these agents and ultimately review the output to ensure it meets the company’s standards.\nEvans’ goal, according to his X post, is for AI to turbocharge ClickUp into a “100x org.”  \nClickUp is not alone in its hope that AI agents will provide massive productivity gains.\nIn fact, according to a recent Gartner survey, about 80% of companies using autonomous tech have cut jobs. However, the study found that workforce reductions aren’t necessarily translating into meaningful financial returns.\nWhile Gartner’s findings suggest some companies use unproven AI as an excuse to downsize, ClickUp maintains it is not one of them.\nEvans told TechCrunch via email that the startup is indeed seeing productivity gains from AI agents. Not only is ClickUp measuring those efficiencies internally, but it’s also apparently gearing up to include them in a forthcoming product for its customers.   \n“Instead of gamifying token cost, we gamify value created and time saved,” Evans wrote.\nIn recent months, a growing number of companies have started monitoring employee token consumption, using it as a metric to see who is actually adopting AI tools. But critics argue that “tokenmaxxing” — as this concept is known — is the wrong metric because it simply racks up AI expenses.\n“The people that automate their jobs with AI will always have a job,” Evans claimed in his post. But if AI keeps taking over more tasks, ClickUp will eventually need fewer and fewer people, eliminating those who fail to automate their functions well.\nTech circles have long theorized about this scenario.\nOne extreme example of a high-profile startup using AI automation to the max already exists. Polsia, a one-year-old startup that claims to handle all software operations for solopreneurs, is run by just one person: its founder and CEO, Ben Cera. That efficiency is apparently paying off: Polsia just raised $30 million at a $250 million valuation.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tMarina Temkin is a venture capital and startups reporter at TechCrunch. Prior to joining TechCrunch, she wrote about VC for PitchBook and Venture Capital Journal. Earlier in her career, Marina was a financial analyst and earned a CFA charterholder designation.\r\nYou can contact or verify outreach from Marina by emailing marina.temkin@techcrunch.com or via encrypted message at +1 347-683-3909 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "What ClickUp’s mass layoff tells us about the future of work",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1247853635.jpg?w=150"
+      ],
+      "datePublished": "2026-05-25T16:00:00.000Z",
+      "dateModified": "2026-05-25T16:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The pope’s AI encyclical isn’t really about AI",
+    "url": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2213411719.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-05-25T15:09:41.000Z",
+    "description": "\nPope Leo XIV published his first encyclical on Monday. Titled “Magnifica Humanitas,” it addresses “safeguarding the human person in the time of artif",
+    "body": "\nPope Leo XIV published his first encyclical on Monday. Titled “Magnifica Humanitas,” it addresses “safeguarding the human person in the time of artificial intelligence.” And while AI is the hook, the problems Leo focuses on are older and more pervasive: inequality, war, the erosion of democracy, and the concentration of power in the hands of those who don’t necessarily care whether humanity writ large remains magnificent.\nThroughout the 200-page document, which the pope presented alongside Chris Olah, co-founder of AI company Anthropic, Leo argues that technology built and governed by a small elite cannot, by definition, serve the common good. \n“When such power is concentrated in the hands of a few, it tends to become opaque and evade public oversight, increasing the risk of distorted forms of development that give rise to new dependencies, exclusions, manipulations and inequalities,” he writes. \n“In fact, as with every major technological shift, AI tends to amplify the power of those who already possess economic resources, expertise and access to data,” the encyclical continues, highlighting concerns that elites can use their power to “shape information and consumption patterns, influence democratic processes and steer economic dynamics to their own advantage.”\nThe encyclical comes a few days after President Donald Trump delayed signing his executive order on AI, which would have given the government oversight over new models before they are released, reportedly on the urging of VC investor and former White House AI czar David Sacks.\nPope Leo called for AI to be guided by “clear criteria and effective oversight” rooted in participation from communities that will be affected by it. More concretely, Leo called for an end to the AI arms race — the push to build “ever more powerful algorithms and larger datasets” that companies and countries believe will “secure geopolitical or commercial dominance.”\n“To disarm means discrediting the assumption that technical power automatically confers the right to govern,” he wrote.\nAgain, these dynamics predate AI. Pope Leo XIII’s 1891 “Rerum Novarum” addressed the same concentration of power during the Industrial Revolution, but we needn’t look back that far. Consider Elon Musk’s acquisition of Twitter and his deployment of the platform to help elect Trump, or the hundreds of millions flowing from tech elites into super PACs to block AI regulation — patterns that clearly inspired Leo XIV’s work.\nThe pope arrives at a conclusion many have already reached: The surreal power and capabilities of today’s AI raise the stakes enormously. \nNotre Dame Law School professor Paolo Carozza, a member of the Pontifical Academy of Social Sciences and chair of the Meta Oversight Board, told TechCrunch that AI-driven misinformation and deepfakes have “corroded our capacity to recognize what’s true and what’s not true, and that really has consequences for democratic politics.” The tech industry’s practice of “harvesting and manipulating” human data, he added, poses “fundamental challenges to cognitive freedom.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tRebecca Bellan is a senior reporter at TechCrunch where she covers the business, policy, and emerging trends shaping artificial intelligence. Her work has also appeared in Forbes, Bloomberg, The Atlantic, The Daily Beast, and other publications. \r\nYou can contact or verify outreach from Rebecca by emailing rebecca.bellan@techcrunch.com or via encrypted message at rebeccabellan.491 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "The pope’s AI encyclical isn’t really about AI",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2213411719.jpg?w=150"
+      ],
+      "datePublished": "2026-05-25T15:09:41.000Z",
+      "dateModified": "2026-05-25T15:09:41.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Ferrari’s first EV is not for you",
+    "url": "https://techcrunch.com/2026/05/26/ferraris-first-ev-is-not-for-you/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/ferrari-luce-1.jpeg?w=150",
+    "tag": "Tech",
+    "date": "2026-05-26T15:16:34.000Z",
+    "description": "\nEveryone seems to be mad about Ferrari’s first electric vehicle.\nThe vehicle is called Luce and was revealed on Monday. The design of the five-seater",
+    "body": "\nEveryone seems to be mad about Ferrari’s first electric vehicle.\nThe vehicle is called Luce and was revealed on Monday. The design of the five-seater (gasp!) was led in large part by Jony Ive and the design firm he runs with Marc Newson, LoveFrom. While it ticks a lot of spec sheet boxes — it boasts 1,000 horsepower and the ability to hit 60 miles per hour in just over two seconds — it’s tracking to be the most mocked new vehicle since the Cybertruck.\nThis widespread rejection of the wedge-shaped, Nissan-esque car covers seemingly the whole spectrum, too, from the typical flimsy knee-jerk reactions to the positively vitriolic. The company’s stock price is down, and even some of the most down-the-middle news outlets are admitting it in their own ways. (Bloomberg said the Luce is “quite a stretch.”)\nThe question underneath all of this immediate backlash is singular: Who is the Luce for?\nCertainly it’s not for me, or for almost anyone reading this. The Luce will cost around $650,000, and this is Ferrari we’re talking about, so even if you have that kind of money, you’re dealing with a company that is, shall we say, selective about its customers.\nIs it for existing Ferrari owners? Typically, that answer is yes — more than 80% of the 14,000 people who bought a Ferrari last year already own one of its vehicles. It’s hard to imagine that crowd being sufficiently excited about a car that is so devoid of the fierce Ferrari angles that have adorned bedroom walls for decades.\nIs it for other car designers? Possibly. Car companies borrow ideas all the time, and there’s definitely plenty on the interior — which features a lot of clicky buttons and knobs, a marked departure for Ive — that I’d personally like to see repeated elsewhere.\nIs it for regulators? Well, maybe. The European Union is placing severe limits on the sale of new cars with internal combustion engines in 2035. The Luce may be the first step Ferrari’s taking toward a lineup that complies with those looming rules. \nIn fact, during an interview with Cleo Abram, we learn that this external pressure seems to have weighed heavily on Ive. Abram was given access to one of four “secret” books Ive created when he started the project, which contains a mix of mood board-style imagery and text written by the iPhone designer himself.\nAbram quotes Ive as comparing the task of designing an electric Ferrari to how luxury Swiss watchmaker Patek Philippe adapted during the evolution from mechanical power to quartz crystals. Ive wrote that Patek Philippe survived “primarily because it survived and grew in the transition” by making a mix of traditional timepieces and watches with batteries and quartz movements.\nBut then he added: “If it had been legislated that Patek Philippe had to transition its entire product line to quartz, the resulting challenge would appear similar to the transition Ferrari is facing.” Telling!\nStill, I find it hard to believe this is purely a compliance car. The company has said it expects the Luce to be profitable from the jump. And Ferrari’s own chief marketing and commercial officer told the Financial Times that the company wanted the Luce to be “polarising.” \nHe also made another admission in that interview, saying that Ferrari’s main target with the Luce is someone who “already owns an electric car.”\nThat statement is nearly as radical as the Luce’s design. By definition, that likely means Ferrari isn’t looking at current owners to make up the bulk of Luce sales. \nWhich brings us to what may be the truest answer: China. While Chinese buyers have typically only made up around 10% of Ferrari’s overall sales, those numbers have declined in recent years, and the automaker’s executives haven’t been shy about wanting their first EV to turn things around in the largest market for battery-powered vehicles in the world.\nViewed through that lens, the Luce’s design makes a bit more sense, as — to my eyes — it certainly resembles some of the designs that have come out of China’s booming auto industry over the last few years.\nSo maybe the more apt question to ask is this: Will Chinese buyers, who are currently awash in high-performance, high-tech, affordable options, care to pay up for the prestige of a prancing horse on the hood?\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Ferrari’s first EV is not for you",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/05/ferrari-luce-1.jpeg?w=150"
+      ],
+      "datePublished": "2026-05-26T15:16:34.000Z",
+      "dateModified": "2026-05-26T15:16:34.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Trump administration wants nuclear startups to use plutonium for their reactors",
+    "url": "https://techcrunch.com/2026/05/26/trump-administration-wants-nuclear-startups-to-use-plutonium-for-their-reactors/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-157741219.jpeg?w=150",
+    "tag": "Tech",
+    "date": "2026-05-26T22:37:46.000Z",
+    "description": "\nFor decades, the U.S. has had a plutonium problem. Around 100 tons of the stuff was made during the Cold War to go into powerful atomic bombs. But as",
+    "body": "\nFor decades, the U.S. has had a plutonium problem. Around 100 tons of the stuff was made during the Cold War to go into powerful atomic bombs. But as nuclear stockpiles were dismantled, the government had to store the radioactive material in high-security facilities.\nNow it wants startups to help get rid of some of it.\nThe Department of Energy said Tuesday it has selected five nuclear startups to enter into negotiations with the government to receive a portion of the plutonium, which could potentially be used to power a new generation of nuclear reactors. The Department of Energy previously identified 34 tons of plutonium for disposal.\nThe five startups include Oklo, Standard Nuclear, Shine Technologies, Flibe Energy, and Exodys Energy. \nEnergy Secretary Chris Wright was previously on Oklo’s board, but he resigned when he joined the administration and said he has divested his shares. Sam Altman was Oklo’s board chair following its merger with his acquisition company, AltC; Altman resigned the position last year.\nWhile plutonium does exist in nature, it is more typically a by-product of bombarding non-fissile uranium with neutrons. Once formed, that isotope of plutonium has a half-life of 24,000 years, meaning the government can’t just wait it out.\nOklo is developing a reactor that can run on traditional uranium fuel as well as plutonium. The plutonium would help the company fuel its first reactors. Exodys Energy is also developing a reactor that can operate using some plutonium as part of mixed oxide fuel, or MOX, which blends uranium with plutonium. Flibe Energy is working toward a reactor that would run on plutonium and other by-products of fission reactors.\nMOX is currently produced in France, and while the U.S. had plans to make it in South Carolina, the first Trump administration canceled the project after it blew through budgets and timelines. One of Oklo’s partners in the project, U.K.-based Newcleo, said it intends to build its own MOX fuel fabrication facility nearby.\nNot everyone is thrilled with the plan, though. Since the plutonium came from nuclear weapons, the security concerns are significant. “Countries have tried this before, and they concluded that, as nice as it would be to use that plutonium as fuel, it’s really just a liability and we need to dispose of it permanently,” Scott Roecker, a vice president at the Nuclear Threat Initiative, told the New York Times.\nFor the startups, the next step is to enter into advanced negotiations with the government over security and the transportation of the plutonium. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tTim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor. \r\nDe Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.\r\nYou can contact or verify outreach from Tim by emailing tim.dechant@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Trump administration wants nuclear startups to use plutonium for their reactors",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-157741219.jpeg?w=150"
+      ],
+      "datePublished": "2026-05-26T22:37:46.000Z",
+      "dateModified": "2026-05-26T22:37:46.000Z",
       "author": [
         {
           "@type": "Person",
