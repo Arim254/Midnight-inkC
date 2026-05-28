@@ -1,21 +1,21 @@
 [
   {
-    "title": "Rivian will deliver the first R2 SUVs on June 9",
-    "url": "https://techcrunch.com/2026/05/27/rivian-will-deliver-the-first-r2-suvs-on-june-9/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/R2_CatalinaBlueExterior8.jpg?w=150",
+    "title": "U.S. says troops were targeted with location data, as senator warns ad industry is a ‘national security threat’",
+    "url": "https://techcrunch.com/2026/05/28/u-s-says-troops-were-targeted-with-location-data-as-senator-warns-ad-industry-is-a-national-security-threat/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/01/Location-data.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-05-27T21:15:04.000Z",
-    "description": "\nRivian has finally revealed that the first customers of the company’s new R2 SUV will get their vehicles on June 9.\nThe automaker has spent the last ",
-    "body": "\nRivian has finally revealed that the first customers of the company’s new R2 SUV will get their vehicles on June 9.\nThe automaker has spent the last few months ramping up its efforts to release the R2, which is more affordable and aimed at a larger market than its current R1 lineup. The new SUV will initially be available in a trim that starts just under $60,000, though Rivian has announced plans to release a “standard” version that starts at $48,490 in 2027. \nThe company has teased an even more affordable version “starting around $45,000” late next year — a price tag Rivian has promoted since the R2 reveal in 2024.\nRivian has high expectations for the R2. Founder and CEO RJ Scaringe has said it is “maybe the most important thing we’ve launched to date.” The company is betting on an extremely fast ramp-up, with as many as 25,000 vehicles delivered by the end of this year. Ultimately, Rivian hopes the R2 and its hatchback sibling, the R3, will help the company turn a profit for the first time since its founding in 2009.\n",
+    "date": "2026-05-28T16:21:23.000Z",
+    "description": "\nIn Brief\nPosted:\n9:21 AM PDT · May 28, 2026\n\nImage Credits:Vadym Ivanchenko / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nThe U.S. Depart",
+    "body": "\nIn Brief\nPosted:\n9:21 AM PDT · May 28, 2026\n\nImage Credits:Vadym Ivanchenko / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nThe U.S. Department of Defense has confirmed that adversaries have targeted and surveilled serving military personnel on the battlefield using commercial location data, the latest demonstration of how information collected from phones and computers can be abused to track and target individuals. \nIn a letter shared by Sen. Ron Wyden with TechCrunch, U.S. Central Command said it was aware of hostile actors using purchased location data to track U.S. servicemembers.\n“USCENTCOM has received multiple threat reports concerning adversary exploitation of commercial location data to target or surveil US personnel in theater,” the letter reads.\nThe letter did not provide examples or specifics, and a spokesperson for the Department of Defense did not return a request for comment.\nReuters first reported the news on Thursday.\nLocation data is often collected from phones and computers through online advertising, which then gets bought by data brokers, who then sell the data on the open market. Governments and militaries, including the United States, have purchased this data in the past without obtaining a warrant. In recent years, the FBI has warned consumers to use ad blockers as a way to minimize the amount of data that apps, websites, and other software can collect.\nWyden told Reuters that it was time to “start treating the adtech industry as a national security threat.”\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Security\n\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Rivian will deliver the first R2 SUVs on June 9",
+      "headline": "U.S. says troops were targeted with location data, as senator warns ad industry is a ‘national security threat’",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/03/R2_CatalinaBlueExterior8.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2024/01/Location-data.jpg?w=150"
       ],
-      "datePublished": "2026-05-27T21:15:04.000Z",
-      "dateModified": "2026-05-27T21:15:04.000Z",
+      "datePublished": "2026-05-28T16:21:23.000Z",
+      "dateModified": "2026-05-28T16:21:23.000Z",
       "author": [
         {
           "@type": "Person",
@@ -25,22 +25,272 @@
     }
   },
   {
-    "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
-    "url": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=150",
+    "title": "In just 3 weeks, StrictlyVC is coming to Los Angeles",
+    "url": "https://techcrunch.com/2026/05/28/in-just-3-weeks-strictlyvc-is-coming-to-los-angeles/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/06/54599380127_df4ede7c18_c.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-05-27T20:10:00.000Z",
-    "description": "\nCloud data storage giant Snowflake has signed a new $6 billion five-year agreement with Amazon Web Services, the companies announced on Wednesday.\nSn",
-    "body": "\nCloud data storage giant Snowflake has signed a new $6 billion five-year agreement with Amazon Web Services, the companies announced on Wednesday.\nSnowflake has always run on AWS, though obviously, these days, it is also available on Microsoft Azure and Google Cloud. For comparison on just how big this deal is for these companies, Snowflake has sold $7 billion worth of its services via AWS Marketplace total since it was founded in 2012, AWS says. So this new contract is close to all the money it has ever brought in from that cloud.\nIt can do that because Snowflake’s customers are accelerating their spending on AWS as of late, Snowflake says, doubling in 2025 to $2 billion for that calendar year alone.\nWhat’s driving the growth is, naturally, AI. Snowflake has been offering its AI building tool, Cortex AI, for a couple of years now. It’s a tool that makes sense: Snowflake is where much of an enterprise’s data lives. The AI tool can provide features like a text interface for database queries (just ask, in regular language), summary reports, and so on.\nOf particular note is that Snowflake is signing this contract for more access to AWS’s home-grown ARM-based CPU chip, Graviton.\nAs AI moves from training to daily usage to automation via agents, CPU usage skyrockets. While GPUs handle training and reasoning, CPUs handle most of the rest of the tasks associated with AI, particularly agents. \nAmazon CEO Andy Jassy last month boasted that Amazon’s own homegrown AI chips offer “better price-performance” than Nvidia’s offerings, though AWS still uses Nvidia’s chips in its cloud. Demand is so high for AI processing that cloud providers like AWS are deploying chips as fast as they can. On top of that, all of the major AI model makers (and many other AI offerings) have architected their apps specifically for Nvidia’s chips.\nStill, Amazon’s own chips are a more affordable option for the cloud giant to deploy. Amazon, ever the price-conscious company, says it passes those savings along to its customers.\nConsequently, these chips are luring in new multi-billion-dollar deals. Last month, for instance, AWS signed a deal to provide millions of Graviton chips to Meta for its growing AI compute needs. That was a big win for AWS because Meta had signed a $10 billion deal with Google Cloud a few months earlier. \nMore than that, these deals are serving as notice to Nvidia that competitive CPUs from the cloud giants are attempting to come for its lunch. Google has also been making its own AI chips for years. Microsoft just launched its Maia AI chip in January.\nNot surprisingly, Nvidia CEO Jensen Huang said last week that he’s more than ready to defend, and even grow, his turf. The new AI-specific CPU his company launched, called Vera, represents a ‘brand new” $200 billion market for Nvidia, he proclaimed after delivering another record-breaking quarter last week. And he’s already sold $20 billion worth, he said.\nWhile Nvidia may not be giving up market share to Amazon or any cloud provider that easily, AWS’s multi-billion-dollar cloud deals show how AI is lifting its boat. Whichever companies benefit most from the rise of AI in our work and home lives, the cloud providers are getting their share.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "date": "2026-05-28T17:30:00.000Z",
+    "description": "\nJoin us for StrictlyVC Los Angeles 2026, an intimate evening bringing together leading investors and entrepreneurs for high-signal conversations from",
+    "body": "\nJoin us for StrictlyVC Los Angeles 2026, an intimate evening bringing together leading investors and entrepreneurs for high-signal conversations from the front lines of venture capital and frontier technology. Taking place Thursday, June 18, at The Aerospace Corporation Campus in El Segundo, this edition continues StrictlyVC’s focus on direct access to the ideas and leaders shaping where technology and capital are headed next. Secure your spot here.\nFor executives, investors, and founders navigating an increasingly complex market, this is an opportunity to step inside conversations that rarely happen in public and hear directly from the people driving change across defense, AI, and advanced industry.\nWho’s taking the stage\nWe will begin the evening with Ethan Thornton, founder of Mach Industries. In his session called “Built for a New Era of Defense Technology,” Thornton will discuss what it means to build a hard tech company at speed and why defense innovation is undergoing a structural shift as autonomy, manufacturing, and national security become increasingly interconnected. His perspective reflects a new generation of founders choosing to operate in industries once considered slow-moving, now rapidly reshaped by technological acceleration.\nImage Credits:Slava Blazer Photography / Flickr (opens in a new window)\nNext, the conversation turns to backing the next frontier of physical AI, featuring Delian Asparouhov of Founders Fund and Saif Khawaja of Shinkei Systems. Together they will explore how advances in AI, robotics, and automation are beginning to reshape not just software systems but also the physical world and what it takes to move breakthrough technologies from concept to real-world deployment at scale.\nAdditional speakers and conversations will be announced in the weeks ahead as the StrictlyVC Los Angeles agenda continues to take shape. Stay updated on new speaker announcements and event developments.\nAn evening sparking meaningful connections\nAs the evening unfolds, the room becomes the real value of the event. Conversations continue beyond the stage in a setting defined by access, focus, and proximity to the people actively shaping the next generation of companies. It is an environment where introductions turn into insight, and insight often turns into opportunity. Secure your spot here.\nImage Credits:TechCrunch\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
+      "headline": "In just 3 weeks, StrictlyVC is coming to Los Angeles",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=150"
+        "https://techcrunch.com/wp-content/uploads/2025/06/54599380127_df4ede7c18_c.jpg?w=150"
       ],
-      "datePublished": "2026-05-27T20:10:00.000Z",
-      "dateModified": "2026-05-27T20:10:00.000Z",
+      "datePublished": "2026-05-28T17:30:00.000Z",
+      "dateModified": "2026-05-28T17:30:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool",
+    "url": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-05-28T17:00:09.000Z",
+    "description": "\nOn Thursday, Anthropic released Opus 4.8, the newest version of its most advanced publicly available model. The model is available everywhere, with s",
+    "body": "\nOn Thursday, Anthropic released Opus 4.8, the newest version of its most advanced publicly available model. The model is available everywhere, with standard pricing at the same level as the previous Opus release.\nThe new model comes just 41 days after Opus 4.7 was released, a much faster upgrade cycle than normal for Anthropic. (The most recent Sonnet and Haiku models are three and seven months old, respectively.) The fast turnaround may have something to do with the chilly reception to Opus 4.7, which some users found disappointing. \nThat interval has also seen significant new releases for OpenAI’s Codex and Google’s Gemini Flash model, increasing the pressure on Anthropic to keep pace.\nOpus 4.8 comes with the expected best-in-class benchmark results, but there’s also particular attention to how the model manages bad or uncertain data. In the launch post, Anthropic’s early testers found that the new model is “more likely to flag uncertainties about its work and less likely to make unsupported claims.”\nEchoing this point, a testimonial from Bridgewater associates said the biggest difference in the upgrade was “Opus 4.8’s tendency to proactively flag issues with the inputs and outputs of an analysis, something other models routinely missed and left to the users to catch.”\nTogether with the new model, Anthropic launched a feature called Dynamic Workflows, which will be available in research preview. The system is designed to help larger models like Opus manage complex tasks across hundreds of parallel subagents.\n“Claude Code alongside Opus 4.8 can now carry out codebase-scale migrations across hundreds of thousands of lines of code from kickoff to merge, with the existing test suite as its bar,” the post explains.\nAnthropic is still holding back its most advanced Mythos model after a tentative preview last month raised cybersecurity concerns. However, the company hinted in today’s Opus release that the Mythos preview period might soon end, once necessary safeguards are complete.\n“We’re making swift progress on developing these safeguards and expect to be able to bring Mythos-class models to all our customers in the coming weeks,” the company wrote.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tRussell Brandom has been covering the tech industry since 2012, with a focus on platform policy and emerging technologies. He previously worked at The Verge and Rest of World, and has written for Wired, The Awl and MIT’s Technology Review.\r\n He can be reached at russell.brandom@techcrunch.com or on Signal at 412-401-5489.\t\n\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=150"
+      ],
+      "datePublished": "2026-05-28T17:00:09.000Z",
+      "dateModified": "2026-05-28T17:00:09.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "A security lapse at prison pay phone service Pay Tel publicly exposed over 300K callers’ driver’s licenses",
+    "url": "https://techcrunch.com/2026/05/28/a-security-lapse-at-prison-payphone-service-pay-tel-publicly-exposed-over-300000-callers-drivers-licenses/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/12/prison-2023.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-05-28T18:00:00.000Z",
+    "description": "\nPrison calling service Pay Tel has secured a publicly exposed cloud server storing hundreds of thousands of driver’s licenses and other sensitive inf",
+    "body": "\nPrison calling service Pay Tel has secured a publicly exposed cloud server storing hundreds of thousands of driver’s licenses and other sensitive information about people who used its services, according to a cybersecurity firm that alerted the company to the security lapse. \nSecurity researchers with UpGuard said in a blog post that they identified a Microsoft Azure-hosted storage server storing at least 300,000 driver’s license scans and other government-issued identity documents belonging to Pay Tel. \nThe server was unprotected without a password, allowing the data inside to be accessible from the web.\nPay Tel provides tablets and other communication devices to prisons across much of the United States for inmates to receive calls. Customers signing up to Pay Tel have to provide a copy of their identification documents and a profile photo before they can use the service, which UpGuard said were exposed. The security researchers said inmate communications, including text messages, handwritten notes, and financial records, were also exposed as a result of the security lapse.\nUpGuard said it alerted Pay Tel on May 7 after determining that the company managed the server and followed up days later before it was secured. Pay Tel has not yet acknowledged the security incident.\nThe data exposure at Pay Tel is the latest example in recent months of tech companies leaving people’s highly sensitive documents on the open web for anyone to find. TechCrunch has reported on this recurring problem of companies often misconfiguring their systems or falling below cybersecurity best practices, and as a result, allowing anyone on the internet to view their customers’ personal information.\nUpGuard said many of the user-uploaded photos also contained the precise real-world location of where the images were taken; in some cases, granular enough to identify someone’s home address.\nThis is Pay Tel’s second known security lapse in as many years, following a ransomware attack in June 2025.\nPay Tel president Vincent Townsend did not respond to an email from TechCrunch with questions about the security lapse. It’s unclear if the company plans to notify the individuals whose data was exposed or if the company will alert attorneys general under U.S. state data breach notification laws.\nTechCrunch could not ascertain who, if anyone, is responsible for cybersecurity at Pay Tel.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tZack Whittaker is the security editor at TechCrunch. He also authors the weekly cybersecurity newsletter, this week in security. \nHe can be reached via encrypted message at zackwhittaker.1337 on Signal. You can also contact him by email, or to verify outreach, at zack.whittaker@techcrunch.com. \t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "A security lapse at prison pay phone service Pay Tel publicly exposed over 300K callers’ driver’s licenses",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2023/12/prison-2023.jpg?w=150"
+      ],
+      "datePublished": "2026-05-28T18:00:00.000Z",
+      "dateModified": "2026-05-28T18:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Corgi announces $106M raise at $2.6B valuation — double what it was worth 3 weeks ago",
+    "url": "https://techcrunch.com/2026/05/28/corgi-announces-106m-raise-at-2-6b-valuation-three-weeks-after-160m-series-b/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/684390721_3997395577063643_7223681298262866214_n.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-05-28T17:15:00.000Z",
+    "description": "\nInsurance tech Corgi on Thursday announced a $106 million Series B1 raise, valuing the company at $2.6 billion, just three weeks after announcing a $",
+    "body": "\nInsurance tech Corgi on Thursday announced a $106 million Series B1 raise, valuing the company at $2.6 billion, just three weeks after announcing a $160 million Series B at a $1.3 billion valuation and four months after its $108 million Series A. The company offers insurance, working specifically with startups in areas like tech, cyber, and general liability; it counts Deel and Artisan among its customers. \nEven in the current go-go dealmaking environment, that sequencing is remarkable. While startups raising back-to-back rounds at steep step-ups have become almost routine, a company whose valuation doubles in three weeks is unusual enough to raise questions, particularly given the investor set in both rounds is the same. \nAsked what material event justified that kind of jump in such a short window, investor Kanyi Maqubela of Kindred Ventures cited the company’s momentum. It’s an explanation may satisfy some, but the practice more generally is starting to attract scrutiny in LP circles. “There’s growing distrust of internal markups,” said one LP who backs numerous venture funds and asked not to be named. Said this person of exit mechanisms specifically, “[I]f a company [is] just getting re-priced upward with no real liquidity event, LPs notice.”\nThe specific concern is that a fund that invests at one valuation then marks it up three weeks later can make portfolio performance look stronger on paper than the underlying business may justify.\nIn this case, Maqubela suggested, that’s not an issue for Kindred’s limited partners, nor for Corgi’s other investors, which include Prime Capital, Leblon Capital, Alumni Ventures, and Y Combinator.\n“LPs really like exits above all,” Maqubela said in a message to TechCrunch. “They discount the value of markups since those aren’t always reflective of reality.” He added that in this case, revenue growth rationalized the new round.\nFounded in 2024 by Emily Yuan and Nico Laqua, Corgi says it’s building coverage for what it calls “newer categories” of risk while also addressing an often underserved market among legacy insurance carriers — startups and the unique liability problems they face, including those related to AI. \n“Corgi covers anything from when an AI system causes financial loss, misinformation, operational failures, or compliance issues,” Laqua told TechCrunch. “Many legacy policies either exclude these risks or handle them ambiguously. \nCorgi is not alone in the Insurtech market; Vouch, which is backed by Y Combinator, operates in a similar space. \nWhen asked about the back-to-back rounds, Laqua said that insurance is a “highly capital-intensive industry,” and that “demand has accelerated quickly across new product lines and partnerships.” Building an AI-native platform compounds those costs further.  \n“We’re best known for our business insurance products, but the additional capital will be used to expand into new insurance categories, scale the AI underwriting platform, grow embedded distribution partnerships, and continue growing our team,” Laqua said.\nCorgi has now raised $378 million in total funding from its investors. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tDominic-Madori Davis is a senior venture capital and startup reporter at TechCrunch. She is based in New York City.\r\nYou can contact or verify outreach from Dominic by emailing dominic.davis@techcrunch.com or via encrypted message at +1 646 831-7565 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Corgi announces $106M raise at $2.6B valuation — double what it was worth 3 weeks ago",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/05/684390721_3997395577063643_7223681298262866214_n.jpg?w=150"
+      ],
+      "datePublished": "2026-05-28T17:15:00.000Z",
+      "dateModified": "2026-05-28T17:15:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Startup Battlefield 200 application deadline extended to June 8 after overwhelming demand",
+    "url": "https://techcrunch.com/2026/05/28/startup-battlefield-200-application-deadline-extended-to-june-8-after-overwhelming-demand/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/11/54889167026_7a80a409c4_o.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-05-28T17:20:53.000Z",
+    "description": "\nFounders, the battlefield is still open, but not for much longer.\nAfter overwhelming demand from founders around the world, TechCrunch has extended t",
+    "body": "\nFounders, the battlefield is still open, but not for much longer.\nAfter overwhelming demand from founders around the world, TechCrunch has extended the Startup Battlefield 200 application deadline to June 8. If you thought you missed your opportunity to pitch live on the Disrupt Stage in October at San Francisco’s Moscone West, this is your final chance to step into one of tech’s most competitive startup arenas.\nNominate a standout startup or submit your application before the deadline.\nImage Credits:Kimberly White / Getty Images\nWhat is Startup Battlefield 200?\nStartup Battlefield 200 is where ambitious early-stage startups go from unknown to impossible to ignore. Selected founders will take the spotlight at TechCrunch Disrupt 2026, pitching live in front of elite investors, influential media, and the global startup ecosystem. One startup will walk away with $100,000 in equity-free funding, but every company selected gains visibility that can reshape its trajectory.\nMore than 1,700 startups have participated in Startup Battlefield over the years. Together, they’ve raised more than $32 billion and produced over 250 exits, including acquisitions by companies like Microsoft, Google, Salesforce, Uber, and Amazon.\nThis is the same competition that helped launch companies like Dropbox, Discord, Mint, Fitbit, and Trello. More than 1,500 startups have competed in Startup Battlefield, and many have gone on to become category-defining businesses.\nWhy founders are still racing to apply\nCompetition for Startup Battlefield 200 has intensified as founders look for ways to stand out in a crowded fundraising environment. The extension gives more startups the opportunity to enter, but expectations are higher than ever.\nSelected startups receive:\n\nA free exhibit table for all three days of Disrupt.\n\n\nFour complimentary Disrupt passes.\n\n\nBranding and visibility inside the Disrupt event app.\n\n\nPress exposure and lead-generation opportunities.\n\n\nAccess to founder-only masterclasses.\n\n\nThe opportunity to pitch live on the Disrupt Stage.\n\n\nDirect feedback from leading venture capitalists.\n\n\nA chance to win $100,000 in equity-free funding.\n\nImage Credits:Kimberly White / Getty Images\nWho should apply\nTechCrunch is looking for bold early-stage startups with a working MVP and a vision capable of disrupting an industry. Bootstrapped, pre-seed, and seed-stage startups are encouraged to apply. Select Series A startups in capital-intensive sectors may also qualify.\nIf you are building something category-changing, this is your chance to prove it on one of the biggest stages in tech.\nThe clock is still ticking\nThe deadline extension was driven by overwhelming demand, but the battlefield will not stay open forever. Thousands of startups are competing for a limited number of spots, and every application is reviewed closely by the TechCrunch team.\nThis is your opportunity to get in front of investors, customers, media, and future partners all in one place. Nominate or apply before June 8 and fight for your place among the next generation of breakout startups.\nImage Credits:TechCrunch\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Startup Battlefield 200 application deadline extended to June 8 after overwhelming demand",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/11/54889167026_7a80a409c4_o.jpg?w=150"
+      ],
+      "datePublished": "2026-05-28T17:20:53.000Z",
+      "dateModified": "2026-05-28T17:20:53.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Why Paris may be the most important AI city outside Silicon Valley",
+    "url": "https://techcrunch.com/2026/05/28/why-paris-may-be-the-most-important-ai-city-outside-silicon-valley/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/techcrunch7.jpeg?w=150",
+    "tag": "Tech",
+    "date": "2026-05-28T17:35:30.000Z",
+    "description": "\nFor decades, the geography of the tech industry has felt largely fixed, with Silicon Valley dominating the global startup economy. While cities like ",
+    "body": "\nFor decades, the geography of the tech industry has felt largely fixed, with Silicon Valley dominating the global startup economy. While cities like London, Beijing, and Tel Aviv have competed for secondary influence, one of the most important conversations in artificial intelligence is happening somewhere else entirely: Paris.\nFrance has aggressively invested in artificial intelligence research and infrastructure, with startups like Mistral AI helping Europe become a legitimate force in the global AI race. At the same time, Europe’s startup ecosystem has matured significantly; its founders are increasingly willing to scale companies domestically instead of immediately looking to relocate to the U.S.\nBut Paris’ growing influence extends beyond startups. The city is becoming a meeting point for policymakers, enterprise leaders, investors, and researchers all trying to answer the same question: What should the next era of AI look like?\nNeed proof? Look no further than VivaTech, the annual European tech gathering that has evolved from a regional startup expo into one of the world’s most influential AI and innovation events.\nVivaTech 2026: 10th anniversary edition\nVivaTech’s evolution mirrors the AI industry’s shift over the past few years. Just one year ago, much of the conversation centered on chatbots, copilots, and consumer-facing experimentation. Now the attention is moving toward infrastructure, cybersecurity, enterprise deployment, and the messy realities of integrating AI into large organizations. That focus will be on full display at VivaTech 2026, where founders, investors, policymakers, and enterprise leaders will converge around the future of AI in Europe and beyond.\nVivaTech Innovation of the Year 2026\nTechCrunch’s partnership with VivaTech reflects the event’s growing influence within the global startup ecosystem. As part of the collaboration, TechCrunch and VivaTech will spotlight emerging founders through the VivaTech Innovation of the Year competition, with the winner earning a chance to pitch live in Paris and secure a place in Startup Battlefield 200 ahead of TechCrunch Disrupt 2026 in San Francisco.\nThe partnership also underscores something larger happening across the AI industry: Paris is no longer being viewed simply as a rising European tech hub. It is becoming one of the central gathering points for the global AI conversation.\nThe implications extend far beyond startups. Investors, enterprise leaders, policymakers, and researchers are all converging around the same question: Who gets to shape the next phase of artificial intelligence?\nAt VivaTech 2026, Paris will make the case that the answer may not belong exclusively to Silicon Valley anymore.\nBook your pass now.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Why Paris may be the most important AI city outside Silicon Valley",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/05/techcrunch7.jpeg?w=150"
+      ],
+      "datePublished": "2026-05-28T17:35:30.000Z",
+      "dateModified": "2026-05-28T17:35:30.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Waymo’s newest robotaxi is Chinese-made, built to make money, and now accepting riders",
+    "url": "https://techcrunch.com/2026/05/28/waymos-newest-robotaxi-is-chinese-made-built-to-make-money-and-now-accepting-riders/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/waymo-zeekr-robotaxi.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-05-28T16:52:48.000Z",
+    "description": "\nWaymo has started giving select riders in Los Angeles, Phoenix, and San Francisco access to its newest robotaxi: an all-electric, minivan-like vehicl",
+    "body": "\nWaymo has started giving select riders in Los Angeles, Phoenix, and San Francisco access to its newest robotaxi: an all-electric, minivan-like vehicle that is designed to lower costs and handle the use and abuse of hundreds of thousands of riders.\nWaymo said Thursday it will eventually expand access to the vehicle, a modified Zeekr-made minivan called the Ojai (pronounced oh-hi), to more riders and cities. For now, the Alphabet-owned company is offering a limited number of customers free rides in the Ojai to gather feedback and further refine the robotaxi experience.\nThe launch of the Ojai comes after years of development and testing — all in the pursuit of creating a vehicle that is accessible, comfortable, easy-to-maintain, and that importantly costs less to build and operate. \nIts arrival also comes amid a challenging time for Waymo, which recently suspended robotaxi service on freeways in Los Angeles, Miami, Phoenix, and San Francisco to improve how its vehicles behave in construction zones. Waymo also paused services in Atlanta, Georgia and San Antonio, Texas to address problems with flooding in those cities. \nThe launch of the blue-hued minivan might not wipe the slate clean for Waymo, but it does give the company a real chance at scale and revenue generation.\nImage Credits:Waymo /\nWhile the vehicle is loaded with Waymo’s hardware and software, its foundation comes from Zeekr, the brand owned by China’s Geely Holdings.\nThe companies partnered in 2021 and showed off a concept of the purpose-built robotaxi in late 2022. Waymo has spent nearly two years testing the prototype, and later a production-intent version of the vehicle on public roads. \nThe minivan, which was designed in Sweden, is based on the SEA-M architecture, a refined version of Zeekr’s original Sustainable Experience Architecture (SEA) meant for “future mobility products” like robotaxis and logistics vehicles.\nThe Ojai is equipped with Waymo’s sixth-generation system — including 13 cameras, four lidar sensors, six radar units, and an array of external audio receivers. That sixth-generation system is the keystone to Waymo’s commercial strategy because it’s designed to be modular. This means it can be applied to multiple kinds of vehicles, including two that have already been announced, the Zeekr minivan and the Hyundai Ioniq 5.\nThe Ojai is supposed to reflect the technological progress and lessons the company has learned from giving more than 500,000 paid robotaxi rides every week. And it’s also meant to accelerate the growth of Waymo’s fleet, which today is about 3,700 Jaguar I-Pace vehicles. \nThe stripped down Zeekr vehicles are sent to Waymo’s Arizona factory, where they are outfitted with all of its robotaxi bells and whistles. The company said it is now scaling toward a capacity of tens of thousands of units annually starting with the Ojai, and followed by the Hyundai Ioniq 5.\nThe result is a vehicle with a flat floor, low step-in height, and gondola-like doors on both sides for easier entry and exit. There are other features aimed at pleasing riders, including charging ports, cup holders, increased leg and head rooms, grab bars, braille above various buttons, and three large adaptive screens, where customers can access the route, change music, climate, and rider tips. \nIt also has an easier-to-clean interior, faster charging, a modular design, and increased battery capacity — all details that can help reduce costs and make maintenance and repairs more efficient.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tKirsten Korosec is a reporter and editor who has covered the future of transportation from EVs and autonomous vehicles to urban air mobility and in-car tech for more than a decade. She is currently the transportation editor at TechCrunch and co-host of TechCrunch’s Equity podcast. She is also co-founder and co-host of the podcast, “The Autonocast.” She previously wrote for Fortune, The Verge, Bloomberg, MIT Technology Review and CBS Interactive.\nYou can contact or verify outreach from Kirsten by emailing kirsten.korosec@techcrunch.com or via encrypted message at kkorosec.07 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Waymo’s newest robotaxi is Chinese-made, built to make money, and now accepting riders",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/05/waymo-zeekr-robotaxi.jpg?w=150"
+      ],
+      "datePublished": "2026-05-28T16:52:48.000Z",
+      "dateModified": "2026-05-28T16:52:48.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "How long is Anthropic’s lease with SpaceX? Opinions vary.",
+    "url": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/musk-court-2273245544.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-05-28T15:36:00.000Z",
+    "description": "\nEarlier this month, xAI signed a major compute deal with Anthropic, pledging billions of dollars a month for exclusive use of the company’s Colossus ",
+    "body": "\nEarlier this month, xAI signed a major compute deal with Anthropic, pledging billions of dollars a month for exclusive use of the company’s Colossus cluster. It was a coup for both companies, giving xAI some much-needed revenue and helping Anthropic catch up in the never-ending race for compute.\nBut this morning on X, Elon Musk downplayed exactly how much SpaceX had committed to the deal.\n“SpaceX has not committed to leasing Colossus for years, although it’s possible that may be what happens,” he said, replying to a user. “This is a 180 day lease with 90 day notice mutual cancellation thereafter. The short term was our request, not Anthropic’s. We won’t leave them hanging and will provide a reasonable off-ramp, but if compute gets super tight I said we might need it back at some point.”\nMusk’s statement directly contradicts SpaceX’s recent S-1 filing, which confirms the standard 90-day cancellation but presents the deal as a three-year agreement. Page F-62 of the filing reads:\n\nOn May 3, 2026, the Company entered into a cloud services agreement with Anthropic PBC, an AI research and development public benefit corporation, with respect to access to compute capacity. Pursuant to this agreement, the customer has agreed to pay a monthly fee through May 2029, with capacity ramping in May 2026 at a reduced fee. The agreement may be terminated by either party upon 90 days’ notice. The customer will retain ownership and intellectual property rights in its content, AI models, and related data.\n\nThe key point here is that Anthropic “has agreed to pay a monthly fee through May 2029” — a pretty straightforward description of a three-year lease. The same language is repeated on F-96 and in slightly varied form (“the customer has agreed to pay us $1.25 billion per month through May 2029”) on pages 13 and 146, so it’s not as if there was a typo.\nxAI did not respond to a request for clarification. \nMaybe we can quibble about whether Anthropic agreeing to pay for a service means the same thing as SpaceX agreeing to provide that service, but that’s not usually what “lease” means. And why have a one-way lock-in if either party can terminate the deal with three months’ notice anyway?\nI don’t have the deal in front of me, so I don’t know what it says — and neither SpaceX nor Anthropic is saying anything about the duration of the deal in their announcements. Still, there should be a pretty straightforward fact of the matter here, and it’s not the sort of thing you want to make false statements about during a company’s quiet period.\nAs always, we should note that the SEC probably will not do anything — and even if they did, Elon probably wouldn’t care. But this sort of does seem like a material misrepresentation made while marketing a security, which is bad karma at the very least.\nSean O’Kane contributed reporting to this article.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tRussell Brandom has been covering the tech industry since 2012, with a focus on platform policy and emerging technologies. He previously worked at The Verge and Rest of World, and has written for Wired, The Awl and MIT’s Technology Review.\r\n He can be reached at russell.brandom@techcrunch.com or on Signal at 412-401-5489.\t\n\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "How long is Anthropic’s lease with SpaceX? Opinions vary.",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/04/musk-court-2273245544.jpg?w=150"
+      ],
+      "datePublished": "2026-05-28T15:36:00.000Z",
+      "dateModified": "2026-05-28T15:36:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Slate Auto will start taking orders for its low-cost EV on June 24",
+    "url": "https://techcrunch.com/2026/05/28/slate-auto-will-start-taking-orders-for-its-low-cost-ev-on-june-24/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/slate-auto-suv.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-05-28T15:34:10.000Z",
+    "description": "\nSlate Auto, the electric vehicle startup backed by Jeff Bezos and LA Dodgers owner Mark Walter, has announced that it will officially start taking or",
+    "body": "\nSlate Auto, the electric vehicle startup backed by Jeff Bezos and LA Dodgers owner Mark Walter, has announced that it will officially start taking orders for its low-cost electric vehicle on June 24, ahead of the first deliveries late this year.\nThe company sent out emails to prospective buyers on Thursday that encouraged them to make a reservation now ahead of “preorders” starting next month, in order to get a “delivery window before non-reservers.” \nSlate still has not announced the starting price for its EV, though. Previously, Slate said it would reveal final pricing in June. The company did not immediately respond to a request for comment.\nThe four-year-old company came out of stealth in April 2025 after TechCrunch revealed its secretive plans to build a low-cost, no-frills, customizable vehicle. Slate once touted that the base version of its EV — which can be converted from a two-seater truck to a five-seater SUV, for a price — would start at “under $20,000” with a $7,500 federal tax credit. But that credit was killed by the Trump administration and Congress late last year, and Slate has remained tight-lipped about pricing, only saying the vehicle will start in the mid-$20,000 range.\nThe idea of a simple EV with hand-crank windows and no paint has resonated with consumers. More than 160,000 potential customers have made refundable $50 reservations with the startup since it revealed the EV last year. As other EV startups have shown over the last decade, though, it is not easy to convert reservation holders to actual customers.\nTo help tackle this problem, Slate named a new CEO in March. The company is now led by former Amazon Marketplace vice president Peter Faricy. (Many of Slate’s leadership positions have been filled with ex-Amazon executives.) \nSlate has also lined up some serious financial firepower to tackle the difficult task of building and shipping an EV. In April, the company announced it closed a $650 million Series C funding round, meaning it has raised roughly $1.4 billion to date.\nIt appears that much of that funding has come from Walter’s financial firm, TWG Global. While Bezos was involved in Slate’s initial funding, his level of involvement in successive rounds has never been pinned down. In May, TechCrunch revealed that his family office manager had stepped down from her position on Slate’s board of directors.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Slate Auto will start taking orders for its low-cost EV on June 24",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/05/slate-auto-suv.jpg?w=150"
+      ],
+      "datePublished": "2026-05-28T15:34:10.000Z",
+      "dateModified": "2026-05-28T15:34:10.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Rivian under investigation over rear suspension failures on R1 models",
+    "url": "https://techcrunch.com/2026/05/28/rivian-under-investigation-over-rear-suspension-failures-on-r1-models/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/06/rivian-next-gen-lineup.jpeg?w=150",
+    "tag": "Tech",
+    "date": "2026-05-28T14:41:56.000Z",
+    "description": "\nThe National Highway Traffic Safety Administration is investigating how electric car maker Rivian services its vehicles’ rear suspension components, ",
+    "body": "\nThe National Highway Traffic Safety Administration is investigating how electric car maker Rivian services its vehicles’ rear suspension components, after receiving two reports from owners who lost control of their cars while driving.\nThe federal safety regulator’s Office of Defects Investigation (ODI) said on Thursday that both vehicles had been previously serviced, one of which had been in a collision before the work was done. According to the ODI, Rivian first realized in March 2025 that the rear toe link — a critical part of the suspension that helps keep the wheel straight — had a “sensitivity to service procedures,” causing the company to update how it handled the part during service and repairs.\nThe ODI’s investigation will look into how and why the rear toe link on Rivian’s R1 vehicles is sensitive to “foreseeable road and service conditions,” compare the two failures submitted by owners, evaluate Rivian’s current toe link repair procedure, and assess the condition of other 2023-2024 model year R1 vehicles. \nNearly 115,000 vehicles could be affected, the ODI said.\nRivian in January 2026 recalled almost 20,000 vehicles to include those that had received the toe link service “prior to the March 2025 improvement,” according to the ODI. \n“Vehicle safety is a top priority at Rivian. Rivian data indicates R1 toe link joints are operating as intended,” the company said in a statement to TechCrunch. Rivian also said that one of the vehicles in question was handled by a third party repair facility. \nBoth owners who submitted complaints reported a sudden loss of control after a bolt on the toe link “fractured,” according to the ODI. In one case, a Rivian R1 driver suddenly lost control at highway speeds, swerved into another vehicle, and then “collided head-on with the guardrail,” according to the complaint they submitted.\nIn the other case, the Rivian owner said their R1S “veered over adjacent lanes, over the bike path, onto the side walk and back onto the road and side walk” after the same left rear toe link broke. “I was left with a sore neck for several days, my apple watch kept trying to call 911 thinking I was in an accident,” the owner wrote in their complaint.\nThe probe comes as Rivian is less than two weeks away from starting deliveries of its much-anticipated R2 SUV, which the company expects to sell in much higher volumes than its other cars. Rivian also plans to add over 50 new service centers by the end of 2027, which would give it more than 150 total locations, and expand its mobile service van fleet as well.\nRivian has said that the R2’s simpler design should help reduce the level of service required. “Reducing mechanical complexity during assembly results in higher quality assurance when vehicles roll off the line, simultaneously improving the ease and expense of servicing your vehicle if the need arises,” the company wrote in February.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Rivian under investigation over rear suspension failures on R1 models",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2024/06/rivian-next-gen-lineup.jpeg?w=150"
+      ],
+      "datePublished": "2026-05-28T14:41:56.000Z",
+      "dateModified": "2026-05-28T14:41:56.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Visa invests in Replit to power agentic payments for developers",
+    "url": "https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/09/Replit-founder-CEO-Amjad-Masad.png?w=150",
+    "tag": "Tech",
+    "date": "2026-05-28T14:00:00.000Z",
+    "description": "\nVisa has announced an undisclosed investment in AI coding platform Replit. The two companies are also exploring how to integrate Visa’s payment produ",
+    "body": "\nVisa has announced an undisclosed investment in AI coding platform Replit. The two companies are also exploring how to integrate Visa’s payment products into Replit, so that developers — and the AI agents they build — can accept payments directly from customers without leaving the platform.\nVisa added that more than 1,000 of its employees have been using Replit for prototyping and development. As part of the partnership, the companies are exploring how developers on Replit can use Visa’s suite for AI-powered payments, called Visa Intelligent Commerce, as well as Visa’s Trusted Agent Protocol — a system that allows AI agents to securely identify themselves by sharing information like their intent and relevant customer details, so that payments made by agents can be verified and trusted. All of these projects are in an exploratory stage, and the companies haven’t formally announced any joint products.\nThe investment reflects a broader race to establish the infrastructure for so-called agentic payments — a world in which AI agents buy and sell things on users’ behalf. Besides Replit and Visa, other tech companies are also moving quickly in this space. Retail investing platform Robinhood now wants people to use agents to trade, while Google wants users to deploy agents for shopping.\n“Over the last few months, our enterprise traction has been growing, and Visa coming on board underscores our mission of making coding available to anyone in a secure and robust manner,” Amjad Masad, CEO and founder of Replit, said in a statement. \nReplit is also launching self-serve enterprise access, allowing companies to sign contracts worth up to $200,000 without talking to a salesperson. The tier offers enterprise-grade compliance and controls, including SSO (single sign-on, a system that lets employees access multiple tools with one set of credentials), audit logs, and advanced permissions.\n“Our continued customer and partner additions in the enterprise, coupled with our new self-serve program, bring us closer to a world where any team can go from idea to production-ready software quickly and securely,” Masad added. \nAs demand for so-called vibe-coding platforms has shot up, valuations of startups like Replit, Cursor, and Lovable have risen rapidly, along with investor interest. In September of last year, Replit hit the $3 billion valuation mark. Six months later, in March, the company raised $400 million in a Series D led by Georgian Partners at a $9 billion valuation — tripling its valuation in under six months.\nIn May, at TechCrunch’s StrictlyVC event in San Francisco, Masad said that Replit’s churn is very low, and customers are sticking around.\n“Churn is very, very low, and net retention is incredibly high — 300% in some cases. What we actually hear from customers is that when engineers get nervous and try to rebuild an app into their own stack, they often make it worse. Once enterprises get comfortable with the full Replit stack — especially when we set up a single-tenant environment for them — they keep the apps on Replit,” he said.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Visa invests in Replit to power agentic payments for developers",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/09/Replit-founder-CEO-Amjad-Masad.png?w=150"
+      ],
+      "datePublished": "2026-05-28T14:00:00.000Z",
+      "dateModified": "2026-05-28T14:00:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -100,138 +350,13 @@
     }
   },
   {
-    "title": "Rivian under investigation over rear suspension failures on R1 models",
-    "url": "https://techcrunch.com/2026/05/28/rivian-under-investigation-over-rear-suspension-failures-on-r1-models/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/06/rivian-next-gen-lineup.jpeg?w=150",
-    "tag": "Tech",
-    "date": "2026-05-28T14:41:56.000Z",
-    "description": "\nThe National Highway Traffic Safety Administration is investigating how electric car maker Rivian services its vehicles’ rear suspension components, ",
-    "body": "\nThe National Highway Traffic Safety Administration is investigating how electric car maker Rivian services its vehicles’ rear suspension components, after receiving two reports from owners who lost control of their cars while driving.\nThe federal safety regulator’s Office of Defects Investigation (ODI) said on Thursday that both vehicles had been previously serviced, one of which had been in a collision before the work was done. According to the ODI, Rivian first realized in March 2025 that the rear toe link — a critical part of the suspension that helps keep the wheel straight — had a “sensitivity to service procedures,” causing the company to update how it handled the part during service and repairs.\nThe ODI’s investigation will look into how and why the rear toe link on Rivian’s R1 vehicles is sensitive to “foreseeable road and service conditions,” compare the two failures submitted by owners, evaluate Rivian’s current toe link repair procedure, and assess the condition of other 2023-2024 model year R1 vehicles. \nNearly 115,000 vehicles could be affected, the ODI said.\nRivian in January 2026 recalled almost 20,000 vehicles to include those that had received the toe link service “prior to the March 2025 improvement,” according to the ODI. \n“Vehicle safety is a top priority at Rivian. Rivian data indicates R1 toe link joints are operating as intended,” the company said in a statement to TechCrunch. Rivian also said that one of the vehicles in question was handled by a third party repair facility. \nBoth owners who submitted complaints reported a sudden loss of control after a bolt on the toe link “fractured,” according to the ODI. In one case, a Rivian R1 driver suddenly lost control at highway speeds, swerved into another vehicle, and then “collided head-on with the guardrail,” according to the complaint they submitted.\nIn the other case, the Rivian owner said their R1S “veered over adjacent lanes, over the bike path, onto the side walk and back onto the road and side walk” after the same left rear toe link broke. “I was left with a sore neck for several days, my apple watch kept trying to call 911 thinking I was in an accident,” the owner wrote in their complaint.\nThe probe comes as Rivian is less than two weeks away from starting deliveries of its much-anticipated R2 SUV, which the company expects to sell in much higher volumes than its other cars. Rivian also plans to add over 50 new service centers by the end of 2027, which would give it more than 150 total locations, and expand its mobile service van fleet as well.\nRivian has said that the R2’s simpler design should help reduce the level of service required. “Reducing mechanical complexity during assembly results in higher quality assurance when vehicles roll off the line, simultaneously improving the ease and expense of servicing your vehicle if the need arises,” the company wrote in February.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Rivian under investigation over rear suspension failures on R1 models",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/06/rivian-next-gen-lineup.jpeg?w=150"
-      ],
-      "datePublished": "2026-05-28T14:41:56.000Z",
-      "dateModified": "2026-05-28T14:41:56.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Visa invests in Replit to power agentic payments for developers",
-    "url": "https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/09/Replit-founder-CEO-Amjad-Masad.png?w=150",
-    "tag": "Tech",
-    "date": "2026-05-28T14:00:00.000Z",
-    "description": "\nVisa has announced an undisclosed investment in AI coding platform Replit. The two companies are also exploring how to integrate Visa’s payment produ",
-    "body": "\nVisa has announced an undisclosed investment in AI coding platform Replit. The two companies are also exploring how to integrate Visa’s payment products into Replit, so that developers — and the AI agents they build — can accept payments directly from customers without leaving the platform.\nVisa added that more than 1,000 of its employees have been using Replit for prototyping and development. As part of the partnership, the companies are exploring how developers on Replit can use Visa’s suite for AI-powered payments, called Visa Intelligent Commerce, as well as Visa’s Trusted Agent Protocol — a system that allows AI agents to securely identify themselves by sharing information like their intent and relevant customer details, so that payments made by agents can be verified and trusted. All of these projects are in an exploratory stage, and the companies haven’t formally announced any joint products.\nThe investment reflects a broader race to establish the infrastructure for so-called agentic payments — a world in which AI agents buy and sell things on users’ behalf. Besides Replit and Visa, other tech companies are also moving quickly in this space. Retail investing platform Robinhood now wants people to use agents to trade, while Google wants users to deploy agents for shopping.\n“Over the last few months, our enterprise traction has been growing, and Visa coming on board underscores our mission of making coding available to anyone in a secure and robust manner,” Amjad Masad, CEO and founder of Replit, said in a statement. \nReplit is also launching self-serve enterprise access, allowing companies to sign contracts worth up to $200,000 without talking to a salesperson. The tier offers enterprise-grade compliance and controls, including SSO — single sign-on, a system that lets employees access multiple tools with one set of credentials — audit logs, and advanced permissions.\n“Our continued customer and partner additions in the enterprise, coupled with our new self-serve program, bring us closer to a world where any team can go from idea to production-ready software quickly and securely,” Masad added. \nAs demand for so-called vibe-coding platforms has shot up, valuations of startups like Replit, Cursor, and Lovable have risen rapidly, along with investor interest. In September of last year, Replit hit the $3 billion valuation mark. Six months later, in March, the company raised $400 million in a Series D led by Georgian Partners at a $9 billion valuation — tripling its valuation in under six months.\nIn May at TechCrunch’s StrictlyVC event in San Francisco, Masad said that Replit’s churn is very low, and customers are sticking around.\n“Churn is very, very low, and net retention is incredibly high — 300% in some cases. What we actually hear from customers is that when engineers get nervous and try to rebuild an app into their own stack, they often make it worse. Once enterprises get comfortable with the full Replit stack — especially when we set up a single-tenant environment for them — they keep the apps on Replit,” he said.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Visa invests in Replit to power agentic payments for developers",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/09/Replit-founder-CEO-Amjad-Masad.png?w=150"
-      ],
-      "datePublished": "2026-05-28T14:00:00.000Z",
-      "dateModified": "2026-05-28T14:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Google engineer charged with insider trading after making $1.2M on Polymarket",
-    "url": "https://techcrunch.com/2026/05/27/google-engineer-charged-with-insider-trading-after-making-1-2m-on-polymarket/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2277777336.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-05-28T00:45:37.000Z",
-    "description": "\nThe U.S. Justice Department charged Google software engineer Michele Spagnuolo with insider trading, alleging the employee made $1.2 million trading ",
-    "body": "\nThe U.S. Justice Department charged Google software engineer Michele Spagnuolo with insider trading, alleging the employee made $1.2 million trading on Polymarket based on confidential business information.\nSpagnuolo, who used the name “AlphaRaccoon” on Polymarket, has worked at Google for over 12 years, according to information on LinkedIn.\n“As alleged, Spagnuolo violated the duties he owed to his employer and used Google’s confidential business information to make more than $1.2 million in trading profits on Polymarket,” Jay Clayton, the United States Attorney for the Southern District of New York, said in a press release. “Insider trading compromises the integrity of our markets, and the American people want this greed-driven conduct investigated and prosecuted.”\nPrediction markets like Polymarket, Kalshi, and others allow users to bet on pretty much anything. Insider trading is not allowed on these platforms because it’s illegal, but some users still commit the offense. The Justice Department recently charged a U.S. Army soldier for allegedly using his insider knowledge of the U.S. military operation to capture Venezuelan president Nicolás Maduro to make $400,000 on Polymarket.\nAccording to the complaint, Spagnuolo risked over $2.7 million on wagers related to Google’s 2025 Year in Search, a marketing campaign in which Google reveals the world’s most popular searches of the year. Spagnuolo allegedly accessed confidential, internal Google Search data about the most-searched celebrities to inform his bets.\n“Polymarket worked closely with the U.S. Attorney’s Office for the Southern District of New York and the CFTC, and is the only prediction platform to date whose cooperation has led to insider trading charges in the United States,” a Polymarket spokesperson told TechCrunch. “Blockchain trading is transparent, traceable, and bad actors leave footprints. We are committed to maintaining accurate, fair, and transparent markets as well as enforcing our rules and working with our regulators and law enforcement.”\nA Google spokesperson told TechCrunch the company is working with law enforcement on its investigation. \n“The employee accessed our marketing material using a tool available to all employees, but using such confidential information to place bets is a serious breach of our policies,” Google said in an emailed statement, “We’ve placed the employee on leave and will take the appropriate action.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tAmanda Silberling is a senior writer at TechCrunch covering the intersection of technology and culture. She has also written for publications like Polygon, MTV, the Kenyon Review, NPR, and Business Insider. She is the co-host of Wow If True, a podcast about internet culture, with science fiction author Isabel J. Kim. Prior to joining TechCrunch, she worked as a grassroots organizer, museum educator, and film festival coordinator. She holds a B.A. in English from the University of Pennsylvania and served as a Princeton in Asia Fellow in Laos.\nYou can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Google engineer charged with insider trading after making $1.2M on Polymarket",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2277777336.jpg?w=150"
-      ],
-      "datePublished": "2026-05-28T00:45:37.000Z",
-      "dateModified": "2026-05-28T00:45:37.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Triomics nabs $22M to bring oncology-specific AI to cancer centers",
-    "url": "https://techcrunch.com/2026/05/27/triomics-nabs-22m-to-bring-oncology-specific-ai-to-cancer-centers/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/05/Triomics-co-founders-Sarim-Khan-and-Hrituraj-Singh-1.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-05-27T21:11:15.000Z",
-    "description": "\nTriomics, a startup building an AI-powered platform to help oncologists and administrative staff automate data-heavy tasks like clinical trial matchi",
-    "body": "\nTriomics, a startup building an AI-powered platform to help oncologists and administrative staff automate data-heavy tasks like clinical trial matching and appointment prep, has raised $22 million in Series B funding.\nThe round was led by Battery Ventures, with participation from returning backers Nexus Venture Partners, Lightspeed, Y Combinator, and others.\nThe good news is that oncology breakthroughs are keeping patients alive longer.  That welcome trend, however, is creating dense, multi-year medical records that take healthcare staff a long time to review and decipher.\nA typical medical chart includes physician progress notes, imaging and pathology reports, and even scans of faxes. “We have seen medical records [with] thousands of pages of information,” Triomics co-founder Sarim Khan told TechCrunch.\nFounded in 2021, the startup raised a $15 million in Series A in mid-2024. Initially focused on helping doctors identify the most suitable clinical trials for their patients, Triomics expanded its platform as LLM capabilities grew. Over the last couple of years, Triomics added verifiable patient summaries to its platform, surfacing key information directly inside the tools clinicians already use, without requiring them to switch applications.\nBy reducing appointment prep time, these summaries give oncologists more time with their patients. The efficiency gain matters beyond individual appointments: in oncology, where patient histories are unusually complex and staff burnout is a persistent problem, tools that reduce administrative load have an outsized impact.\nTriomics is also used to automate the tedious task of submitting tumor reports to government registries, a legal mandate for cancer centers.\nWhile generic AI agents excel at basic summaries, prominent institutions like Memorial Sloan Kettering (MSK) and Yale Cancer Center use Triomics because its models are trained specifically on oncology data, Khan explained.\nTriomics most direct competition comes from AI medical scribes like Abridge and Microsoft’s Nuance — tools that use AI to listen to and document patient-doctor conversations — when it comes to summarizing patient charts.\nDespite the fierce competition, Triomics is growing fast. According to Khan, the startup expanded its enterprise customer base fourfold over the past year, driving a 10-fold increase in annualized recurring revenue.\nPictured left to right: Sarim Khan, Triomics co-founder and CEO, and Hrituraj Singh, Triomics co-founder and CTO.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tMarina Temkin is a venture capital and startups reporter at TechCrunch. Prior to joining TechCrunch, she wrote about VC for PitchBook and Venture Capital Journal. Earlier in her career, Marina was a financial analyst and earned a CFA charterholder designation.\r\nYou can contact or verify outreach from Marina by emailing marina.temkin@techcrunch.com or via encrypted message at +1 347-683-3909 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Triomics nabs $22M to bring oncology-specific AI to cancer centers",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/05/Triomics-co-founders-Sarim-Khan-and-Hrituraj-Singh-1.jpg?w=150"
-      ],
-      "datePublished": "2026-05-27T21:11:15.000Z",
-      "dateModified": "2026-05-27T21:11:15.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Has the hunt for AI compute uncovered the next Cerebras?",
-    "url": "https://techcrunch.com/2026/05/28/has-the-hunt-for-ai-compute-uncovered-the-next-cerebras/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Data-Center-Visit.jpeg?w=113",
-    "tag": "Tech",
-    "date": "2026-05-28T13:00:00.000Z",
-    "description": "\nThe raging demand for computers to run AI models has only accelerated, but there are two major obstacles that anyone in the business needs to overcom",
-    "body": "\nThe raging demand for computers to run AI models has only accelerated, but there are two major obstacles that anyone in the business needs to overcome: getting the right chips, and getting them into data centers where they can start generating revenue.\nGeneral Compute, a new inference neocloud — a company that rents out AI processing power, specializing in the phase when models are running and responding to users rather than being trained — has answers to those questions that illuminate where the AI ecosystem is headed. Those answers helped it raise a $15 million seed round at a $60 million post-money valuation, led by FUSE VC with participation from Carya Venture Partners and Village Global Ventures.\nFirst, what is the right chip? The demand for GPUs has gone through the roof, but it’s becoming conventional wisdom that they aren’t the best-suited chips for running AI models once they have been trained. The phase of AI where a model is actively generating responses has different computational requirements than training, and a new class of chips is being designed specifically for it. Nvidia’s $20 billion Groq transaction in December and Cerebras’ $57 billion IPO last week point the way.\nWith capacity strained at both those companies, the co-founders of General Compute, CEO Finn Puklowski and CTO Jason Goodison, found another option. They’re turning to specialized chips built by SambaNova, an Intel-backed chipmaker focused on inference that has fallen a bit out of the Silicon Valley conversation.\nThat may change when SambaNova releases its new chips this year. The architecture is more flexible and uses more memory to store context during inference calculations, and SambaNova claims that it outperforms not just GPUs but also other specialized chips built by the likes of Groq or Cerebras. Puklowski says the new chips will generate 600 to 700 tokens per second, versus about 250 tokens per second for GPUs.\nGeneral Compute has $300 million of the company’s SN50 chips on order and says it will be the first neocloud deploying them.\nThese chips also help solve the second big problem — where to put them — for General Compute: They are air-cooled, not water-cooled, and consume less power, so they can be installed in existing data center facilities without new infrastructure investments.\nPuklowski is pursuing colocation deals — arrangements where General Compute installs its hardware in someone else’s facility — not just with data center providers, but also with crypto miners looking to repurpose their infrastructure as the cost of producing a bitcoin has often exceeded its price.\nGeneral Compute launched its cloud offering last week, claiming it is already the fastest at running MiniMax 2.7, a powerful opensource LLM.\nJoe Hasselmann is a venture investor who got in on the ground floor of the inference boom when he invested in Groq in 2021. This year, he launched a new fund, Evercrest Capital Partners, focused on the AI space, and made General Compute one of his first investments. Hasselmann sees in SambaNova’s partnership with General Compute parallels to CoreWeave’s relationship with Nvidia — and to the pairing of Groq’s chip-making with its former cloud offering.\n“They do need a healthy mix of customers that are going to put their chips in environments that are going to have high growth to them,” Hasselmann said. “As much as General Compute is making a bet on SambaNova, SambaNova is making a bet on General Compute.”\nThe question is what kind of computer architecture will capture the most value in the AI future. Inference clouds are implicit bets on a world of multiple models and agents, one where no single provider dominates and speed and cost of inference become the key competitive variables. Consider the $113 million Series B raised for OpenRouter this week, reflecting the company’s ability to offer customers access to multiple models in order to optimize their token spend.\nSpeed matters in that calculation, for price, and for capability. Puklowski wants to turn hour-long workloads for coding agents into five- or 10-minute tasks, and make audio agents for customer service, which require faster inference to converse effectively, more economical.“If you use ChatGPT and it gives you 50 tokens per second, that’s still a heck of a lot faster than we can read,” Puklowski told TechCrunch, “Now that things have moved to agent-to-agent, where agents are out there reading on our behalf or pinging databases, they need to go faster.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tTim Fernholz is a journalist who writes about technology, finance and public policy. He has closely covered the rise of the private space industry and is the author of  Rocket Billionaires: Elon Musk, Jeff Bezos and the New Space Race. Formerly, he was a senior reporter at Quartz, the global business news site, for more than a decade, and began his career as a political reporter in Washington, D.C. \nYou can contact or verify outreach from Tim by emailing tim.fernholz@techcrunch.com or via an encrypted message to tim_fernholz.21 on Signal.\r\n\t\n\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Has the hunt for AI compute uncovered the next Cerebras?",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/05/Data-Center-Visit.jpeg?w=113"
-      ],
-      "datePublished": "2026-05-28T13:00:00.000Z",
-      "dateModified": "2026-05-28T13:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "2 days left: Lock in ticket savings of up to $410 to TechCrunch Disrupt 2026",
     "url": "https://techcrunch.com/2026/05/28/2-days-left-lock-in-ticket-savings-of-up-to-410-to-techcrunch-disrupt-2026/",
     "image": "https://techcrunch.com/wp-content/uploads/2016/04/17205300128_99b3d607eb_o.jpg?w=150",
     "tag": "Tech",
     "date": "2026-05-28T14:00:00.000Z",
     "description": "\n\t\n\t\tImage Credits:Noam Galai / Getty Images\t\n\t\n\t\t\t\t\t\t7:00 AM PDT · May 28, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nEarly Bird pricing ends tomorrow, May 29, at 11:59 p.",
-    "body": "\n\t\n\t\tImage Credits:Noam Galai / Getty Images\t\n\t\n\t\t\t\t\t\t7:00 AM PDT · May 28, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nEarly Bird pricing ends tomorrow, May 29, at 11:59 p.m. PT. After that, prices for TechCrunch Disrupt 2026 go up. Miss this, and you’ll be paying more for the same access to one of the most anticipated tech epicenters of the year. Register now to secure discounts of up to $410 on your pass, or up to 30% on group passes.\n\nDisrupt: Your launchpad in the tech ecosystem\nIf you want to raise capital, hire top talent, launch your startup, or discover your next portfolio company, missing Disrupt from October 13–15 at San Francisco’s Moscone West is not an option.\nHere’s what you’ll gain by attending:\n\nActionable insights from builders, operators, and VCs actively shaping today’s market\n\n\nDirect access to the right investors for your next round, or founders aligned with your portfolio\n\n\nEarly visibility into breakthrough innovations before they hit the broader market\n\n\nConnections that drive real impact, from partnerships to funding to career opportunities\n\nHow Disrupt delivers value\n\nAccess to 10,000+ founders, operators, and VCs with targeted programming\n\n\nTactical, real-world on-stage discussions with 250+ of today’s industry leaders, from leaders in AWS, Databricks, Google, and Index Ventures, spanning across multiple industry stages, roundtables, and breakout sessions.\n\nImage Credits:Kimberly White/Getty Images for TechCrunch\n\nFront-row seat to Startup Battlefield 200 pitch competition with a $100,000 equity-free prize on the line\n\n\nExpo Hall access with 300+ showcasing innovative startups shaping the future of tech\n\n\n20,000+ curated 1:1 or small-group networking designed for real, actionable results\n\n\n80+ Side Events across the Bay Area for networking, workshops, and social connections\n\nExclusive programming for founders and investors\nFounder Pass: Accelerate growth with the right insights, tools, and connections. Meet investors aligned with your startup.\nInvestor Pass: Discover standout startups and expand your portfolio with curated access. Use matchmaking tools to make every conversation count.\nDon’t miss these Early Bird deals\nThis window to the lowest ticket rates of the year is closing after tomorrow ends. Register now to secure your ticket with up to a $410 discount. Or save up to 30% with community passes of 4+.\nImage Credits:Eric Slomonson, The Photo Group\n\n\t\t\t\n\tTopics\n\t\n\t\tAI, Biotech & Health, Climate, Crypto, Fintech, Fundraising, Robotics, Startups, TC, TechCrunch Disrupt 2026, Transportation, Venture\t\n\n\t\t\tWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\t\t",
+    "body": "\n\t\n\t\tImage Credits:Noam Galai / Getty Images\t\n\t\n\t\t\t\t\t\t7:00 AM PDT · May 28, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nEarly Bird pricing ends tomorrow, May 29, at 11:59 p.m. PT. After that, prices for TechCrunch Disrupt 2026 go up. Miss this, and you’ll be paying more for the same access to one of the most anticipated tech epicenters of the year. Register now to secure discounts of up to $410 on your pass, or up to 30% on group passes.\n\nDisrupt: Your launchpad in the tech ecosystem\nIf you want to raise capital, hire top talent, launch your startup, or discover your next portfolio company, missing Disrupt from October 13–15 at San Francisco’s Moscone West is not an option.\nHere’s what you’ll gain by attending:\n\nActionable insights from builders, operators, and VCs actively shaping today’s market\n\n\nDirect access to the right investors for your next round, or founders aligned with your portfolio\n\n\nEarly visibility into breakthrough innovations before they hit the broader market\n\n\nConnections that drive real impact, from partnerships to funding to career opportunities\n\nHow Disrupt delivers value\nImage Credits:Kimberly White/Getty Images for TechCrunch\n\nAccess to 10,000+ founders, operators, and VCs with targeted programming.\n\n\nTactical, real-world onstage discussions with 250+ of today’s industry leaders, including from AWS, Databricks, Google, and Index Ventures, spanning across multiple industry stages, roundtables, and breakout sessions.\n\n\nFront-row seat to Startup Battlefield 200 pitch competition with a $100,000 equity-free prize on the line.\n\n\nExpo Hall access with 300+ showcasing innovative startups shaping the future of tech.\n\n\n20,000+ curated 1:1 or small-group networking designed for real, actionable results.\n\n\n80+ Side Events across the Bay Area for networking, workshops, and social connections.\n\nExclusive programming for founders and investors\nFounder Pass: Accelerate growth with the right insights, tools, and connections. Meet investors aligned with your startup.\nInvestor Pass: Discover standout startups and expand your portfolio with curated access. Use matchmaking tools to make every conversation count.\nDon’t miss these Early Bird deals\nThis window to the lowest ticket rates of the year is closing at 11:59 p.m. PT tomorrow, May 29. Register now to secure your ticket with up to a $410 discount. Or save up to 30% with community passes of 4+.\nImage Credits:Eric Slomonson, The Photo Group\n\n\t\t\t\n\tTopics\n\t\n\t\tAI, Biotech & Health, Climate, Crypto, Fintech, Fundraising, Robotics, Startups, TechCrunch Disrupt 2026, Transportation, Venture\t\n\n\t\t\tWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\t\t",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
@@ -241,131 +366,6 @@
       ],
       "datePublished": "2026-05-28T14:00:00.000Z",
       "dateModified": "2026-05-28T14:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Startup Battlefield 200 application deadline extended to June 8 after overwhelming demand",
-    "url": "https://techcrunch.com/2026/05/28/startup-battlefield-200-application-deadline-extended-to-june-8-after-overwhelming-demand/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/11/54889167026_7a80a409c4_o.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-05-28T14:15:00.000Z",
-    "description": "\nFounders, the battlefield is still open, but not for much longer.\nAfter overwhelming demand from founders around the world, TechCrunch has extended t",
-    "body": "\nFounders, the battlefield is still open, but not for much longer.\nAfter overwhelming demand from founders around the world, TechCrunch has extended the Startup Battlefield 200 application deadline to June 8. If you thought you missed your opportunity to pitch live on the Disrupt Stage in October at San Francisco’s Moscone West, this is your final chance to step into one of tech’s most competitive startup arenas.\nNominate a standout startup or submit your application before the deadline.\n\nWhat is Startup Battlefield 200?\nStartup Battlefield 200 is where ambitious early-stage startups go from unknown to impossible to ignore. Selected founders will take the spotlight at TechCrunch Disrupt 2026, pitching live in front of elite investors, influential media, and the global startup ecosystem. One startup will walk away with $100,000 in equity-free funding, but every company selected gains visibility that can reshape its trajectory.\nMore than 1,700 startups have participated in Startup Battlefield over the years. Together, they’ve raised more than $32 billion and produced over 250 exits, including acquisitions by companies like Microsoft, Google, Salesforce, Uber, and Amazon.\nThis is the same competition that helped launch companies like Dropbox, Discord, Mint, Fitbit, and Trello. More than 1,500 startups have competed in Startup Battlefield, and many have gone on to become category-defining businesses.\nWhy founders are still racing to apply\nCompetition for Startup Battlefield 200 has intensified as founders look for ways to stand out in a crowded fundraising environment. The extension gives more startups the opportunity to enter, but expectations are higher than ever.\nSelected startups receive:\n\nA free exhibit table for all three days of Disrupt\n\n\nFour complimentary Disrupt passes\n\n\nBranding and visibility inside the Disrupt event app\n\n\nPress exposure and lead generation opportunities\n\n\nAccess to founder-only masterclasses\n\n\nThe opportunity to pitch live on the Disrupt Stage\n\n\nDirect feedback from leading venture capitalists\n\n\nA chance to win $100,000 in equity-free funding\n\nImage Credits:Kimberly White / Getty Images\nWho should apply\nTechCrunch is looking for bold early-stage startups with a working MVP and a vision capable of disrupting an industry. Bootstrapped, pre-seed, and seed-stage startups are encouraged to apply. Select Series A startups in capital-intensive sectors may also qualify.\nIf you are building something category-changing, this is your chance to prove it on one of the biggest stages in tech.\nThe clock is still ticking\nThe deadline extension was driven by overwhelming demand, but the battlefield will not stay open forever. Thousands of startups are competing for a limited number of spots, and every application is reviewed closely by the TechCrunch team.\nThis is your opportunity to get in front of investors, customers, media, and future partners all in one place. Nominate or apply before June 8 and fight for your place among the next generation of breakout startups.\nImage Credits:TechCrunch\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Startup Battlefield 200 application deadline extended to June 8 after overwhelming demand",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/11/54889167026_7a80a409c4_o.jpg?w=150"
-      ],
-      "datePublished": "2026-05-28T14:15:00.000Z",
-      "dateModified": "2026-05-28T14:15:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
-    "url": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/vertu-alphafold-foldable.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-05-28T07:00:00.000Z",
-    "description": "\nLuxury smartphone brand Vertu on Thursday unveiled a foldable phone powered by an AI agent that connects with enterprise software and coordinates wor",
-    "body": "\nLuxury smartphone brand Vertu on Thursday unveiled a foldable phone powered by an AI agent that connects with enterprise software and coordinates workflows. The company is targeting executives who manage business operations and communications on the move.\nCalled the Alphafold, the foldable smartphone starts at $6,880 for the calfskin version. Higher-end models feature bespoke finishes including alligator leather, 18K gold, and natural diamond accents, along with customized detailing. This continues Vertu’s long-standing strategy of positioning its phones as luxury status symbols aimed at affluent buyers. The company told TechCrunch that its highest-end standard model is currently priced at $46,800, with further customization options available.\nThe launch marks Vertu’s latest attempt to reinvent itself for the AI era after struggling to remain relevant in the modern smartphone market. The Hong Kong-headquartered company, once known for luxury handsets and concierge services popular among wealthy buyers before the rise of the iPhone, has changed ownership multiple times over the years as mainstream smartphone makers came to dominate the industry. Nonetheless, Vertu is betting the Alphafold can help reinvent the brand for the AI era by combining luxury hardware with enterprise-focused AI capabilities.\nVertu’s Alphafold comes with Hermes Agent, built on top of the open source Hermes project by Nous Research. The agent can connect to enterprise systems like ERP and CRM, and coordinate tasks such as approvals, scheduling, sales tracking, travel planning, and operational reporting through natural-language prompts. However, the company said that its Phone-to-ERP and VPS deployments would be customized for each customer depending on their existing enterprise systems, with pricing varying accordingly.\nImage Credits:Vertu\nThe Alphafold, Vertu said, can route requests across multiple AI models, including OpenAI’s GPT, Anthropic’s Claude, Google’s Gemini, and selected open source models, while also integrating with more than 80 apps and dozens of native phone functions for cross-platform workflows.\nExisting AI features on smartphones from major manufacturers remain focused largely on consumer tools such as image editing and voice assistance, Vertu CEO Molly Ma said. This leaves room for more advanced AI-agent workflows tied to enterprise systems. She also pointed to earlier AI-agent smartphone experiments in China that gained popularity before facing challenges over data privacy and cloud-based data collection.\nThe Alphafold, Ma said, aims to address those concerns through a privacy-focused architecture featuring a proprietary A5 security chip. This silicon is designed to isolate authentication keys, biometric credentials, and sensitive enterprise information from the main operating system, the company said. It added that commercially sensitive data can be processed locally on the device, while prompts sent to external AI models are redacted or tokenized before leaving the phone.\nWhile Vertu has emphasized the device’s privacy and security architecture, including on-device processing and data redaction features, the company said the system has not yet undergone third-party security audits or independent certification. However, Vertu told TechCrunch that independent audits and certification remain on its security roadmap “as an explicit next-stage commitment,” adding that it would “communicate the progress and the results publicly” once the product matures further.\nThe Alphafold is powered by Qualcomm’s Snapdragon 8 Gen 4 processor and features an 8.05-inch foldable display alongside a 6.53-inch outer screen, a 6,500 mAh battery, and satellite communication capabilities. The device also includes a triple rear camera setup with 50-megapixel primary and ultrawide cameras, as well as a 5-megapixel telephoto lens. Vertu said the phone’s hinge uses metal, titanium, and carbon-fiber components and is rated for up to 650,000 folds.\nThe Alphafold is not Vertu’s first attempt to combine AI with foldable devices. The company last year introduced Agent Q, a clamshell-style foldable smartphone focused on AI-driven automation and productivity features.\nHowever, Ma told TechCrunch that Alphafold represents a significant step forward from Agent Q, arguing that AI-agent technology has matured rapidly over the past year, with improvements in memory, automation, and app integration.\nFoldable smartphones remain a niche segment globally despite years of investment by major manufacturers, including Samsung and Huawei. As many as 20 million foldable smartphones were shipped globally in 2025, accounting for less than 2% of total smartphone shipments, according to IDC data shared with TechCrunch. The research firm said foldables sold at an average price of about $1,300 last year — roughly three times the price of non-foldable smartphones.\nKiranjeet Kaur, associate research director for mobile phones research at IDC, said foldables could eventually benefit from AI-agent workflows because their larger displays are better suited for multitasking and productivity-oriented experiences. She, however, added that enterprise AI adoption on smartphones still lags behind computers, and that most enterprise smartphone decisions continue to be driven by ecosystem integration and device management support rather than AI capabilities.\nThe first 115-unit batch of Vertu’s Alphafold begins shipping this week across major markets, including the U.S.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/05/vertu-alphafold-foldable.jpg?w=150"
-      ],
-      "datePublished": "2026-05-28T07:00:00.000Z",
-      "dateModified": "2026-05-28T07:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Why Google’s AI can’t spell Google (or anything else)",
-    "url": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/google-two-ps.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-05-28T00:17:41.000Z",
-    "description": "\nHow many Ps are in Google? According to Google, there are two.\nThere’s also “exactly 1 ‘r’ in the word ‘poop’,” Google’s AI Overview says, as well as",
-    "body": "\nHow many Ps are in Google? According to Google, there are two.\nThere’s also “exactly 1 ‘r’ in the word ‘poop’,” Google’s AI Overview says, as well as two ‘d’s in the word journalism, yet spelled it: j-o-u-r-n-a-d-i-s-m. Google did at least identify that there is one P in the last name of the U.S. president, but spelled it as t-r-p-u-m.\nYou didn’t need to be a prophet to predict that Google’s AI-forward Search overhaul was going to go over poorly. We’ve done this before. The first time Google added AI Overviews to Search, the feature ended up citing satirical posts from The Onion and Reddit, advising people to eat rocks and put glue on their pizza. \nThis time around, as Google doubles down on its commitment to make generative AI the centerpiece of its 29-year-old flagship product, it’s not surprising to see it stumble.\n\n“Counting within words has been a known challenge for LLMs, and we’re working to fix this particular issue,” Google told TechCrunch in an emailed statement. \nThese basic spelling errors may seem familiar. LLMs, the kind of artificial intelligence that powers chatbots and other text generators, are not built to understand spelling. It’s been a running joke for years that whenever a company unveils a new AI model, you should ask it how many ‘r’s are in the word strawberry. These AI models — which can code an app in seconds, or solve problems that have stumped mathematicians for decades — are about as good as a kindergartener at spelling.\nGoogle’s AI overview woes reach beyond silly spelling mistakes though. Google already patched an issue from last week in which searching the word “disregard” would yield what looked like a dictionary definition of the word, only the definition was shown as, “Understood. Let me know whenever you have a new prompt or question!” But these spelling errors have remained amusing because they’re so difficult to quash.\nAs researchers have previously explained when we’ve asked about these spelling conundrums, AI doesn’t perceive sentences as units of language made up of words and letters. Many LLMs are built on transformer models, which break down text into tokens, which can be full words, syllables, or letters, depending on the model. Instead of “reading” like a human would, the AI converts the text into numerical representations of itself, which are then contextualized to help the AI come up with a logical response.\nImage Credits:TechCrunch\n“LLMs are based on this transformer architecture, which notably is not actually reading text. What happens when you input a prompt is that it’s translated into an encoding,” Matthew Guzdial, an AI researcher and assistant professor at the University of Alberta, told TechCrunch. “When it sees the word ‘the,’ it has this one encoding of what ‘the’ means, but it does not know about ‘T,’ ‘H,’ ‘E.’”\nThe token-based architecture that powers LLMs like Google’s AI overview is inherently limiting, and researchers haven’t been optimistic that they can solve the spelling problem.\n“It’s kind of hard to get around the question of what exactly a ‘word’ should be for a language model, and even if we got human experts to agree on a perfect token vocabulary, models would probably still find it useful to ‘chunk’ things even further,” Sheridan Feucht, a PhD student studying large language model interpretability at Northeastern University, told TechCrunch. “My guess would be that there’s no such thing as a perfect tokenizer due to this kind of fuzziness.”\nThis isn’t necessarily an urgent problem on researchers’ minds, since the utility of LLMs doesn’t come in their capacity to spell. But these blatant failures help us remember that AI is not perfect, even if it may sometimes seem like an all-knowing power beyond our comprehension. We cannot blindly trust AI outputs without double-checking their accuracy.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tAmanda Silberling is a senior writer at TechCrunch covering the intersection of technology and culture. She has also written for publications like Polygon, MTV, the Kenyon Review, NPR, and Business Insider. She is the co-host of Wow If True, a podcast about internet culture, with science fiction author Isabel J. Kim. Prior to joining TechCrunch, she worked as a grassroots organizer, museum educator, and film festival coordinator. She holds a B.A. in English from the University of Pennsylvania and served as a Princeton in Asia Fellow in Laos.\nYou can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Why Google’s AI can’t spell Google (or anything else)",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/05/google-two-ps.jpg?w=150"
-      ],
-      "datePublished": "2026-05-28T00:17:41.000Z",
-      "dateModified": "2026-05-28T00:17:41.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "UK Visa Portal exposed thousands of applicants’ passports and selfies — then called the lawyers on us",
-    "url": "https://techcrunch.com/2026/05/27/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/uk-visa-2186517355.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-05-27T18:25:00.000Z",
-    "description": "\nA website called UK Visa Portal publicly exposed thousands of passports and selfie photos of applicants who paid the site to obtain a U.K. immigratio",
-    "body": "\nA website called UK Visa Portal publicly exposed thousands of passports and selfie photos of applicants who paid the site to obtain a U.K. immigration visa, TechCrunch has learned.\nAn anonymous person notified TechCrunch about the security lapse, saying that the website was exposing at least 100,000 documents from people who uploaded their passports and selfies to the website as part of the application process.\nThe website is not affiliated with the U.K. government, and some have complained that they mistakenly paid a fee to this company instead of using the official GOV.UK website.\nThe exposed data was secured overnight into Wednesday, hours after we published our initial story about the incident. Given the highly sensitive nature of the exposed data, TechCrunch revealed that there was an ongoing security issue, while withholding specific details to minimize any additional risk to individuals’ private information.\nTechCrunch has still not heard back from UK Visa Portal’s management. Rather than fixing the issue when we reached out, the company sent its attorneys and public relations firm our way instead.\nThe security lapse is the latest example of companies publicly exposing their customers’ sensitive government-issued identity documents in recent weeks, often caused by a misconfiguration rather than an outside cyberattack. The exposure of passports is especially problematic at a time when online identity checks are on the rise around the world, thanks to governments rolling out age-verification laws.\nThe company’s lack of response also leaves open questions about whether it will alert affected customers that their passports were publicly exposed, or notify regulators as required under U.S. state and European data breach notification laws.\nExposed passports, selfies, and location data\nThe data spill stemmed from a public Amazon-hosted storage server (also known as a bucket), which UK Visa Portal uses for hosting user-uploaded passports and selfies.\nWhile the bucket was not publicly listing its contents, the files within were still accessible and viewable to anyone who knew the web address of each file. The person who notified us about the exposure said a bug on the UK Visa Portal website’s back end allowed them to view the list of files contained in the bucket.\nTechCrunch confirmed that UK Visa Portal (also known as UK Visit and ETA-Pass) was the source of the data leak and verified the authenticity of the exposed data by contacting affected individuals to ask if their information was accurate.\nMany of the user-uploaded photos also contained the precise real-world location, revealing where the images were taken; in some cases, this location data was accurate enough to expose the image taker’s home address.\nUK Visa Portal does not provide a way to report security issues through its website, nor does its website provide names or contact information for the company’s management. TechCrunch sent an email to the email address listed on UK Visa Portal’s website, alerting them that the company had an ongoing security lapse and asking with whom in management we could share details to resolve the issue. TechCrunch explained that we could not share specifics with the company’s general customer support inbox because we could not guarantee that the exposed data would not be misused.\nThe customer support person provided TechCrunch with the name and email address of Michael Taylor, who we were told is a manager at UK Visa Portal. The person did not reply to our inquiry.\nSoon after, attorneys with U.S. law firm BakerHostetler and representatives with public relations firm FTI Consulting contacted TechCrunch seeking information about the issue at UK Visa Portal. When asked by TechCrunch, the attorneys would not provide evidence that they were authorized to speak on behalf of the company, such as by providing us a public record confirming the name and role of the individuals they claim to represent. We noted again that we could not share information about the security lapse outside of the company’s management. \nWe added that if Taylor, or another manager, is willing to accept information about the security lapse, they can reach out — or the attorneys can copy them on the email thread. We did not hear back.\nAfter our story was published and the bucket secured, TechCrunch presented the attorneys with a series of questions about the security lapse. The questions we asked BakerHostetler partner Ryan Christian included how long the Amazon-hosted bucket was exposed, the reason it was exposed, and if the company had any logs to determine if anyone accessed or downloaded the exposed data. We also asked who at UK Visa Portal is responsible for cybersecurity, if anyone. Christian did not respond. \nUK Visa Portal is allegedly run by a company called Active Leadgen LLC, which purports to be a company based in the United Arab Emirates. TechCrunch could not independently corroborate this.\nIt is not necessary to use a third-party service to apply for a U.K. electronic travel authorization, unless you are retaining an immigration attorney, and applicants should apply through the U.K. government’s website.\nFirst published on May 26 and updated with additional information about the security lapse.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "UK Visa Portal exposed thousands of applicants’ passports and selfies — then called the lawyers on us",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/05/uk-visa-2186517355.jpg?w=150"
-      ],
-      "datePublished": "2026-05-27T18:25:00.000Z",
-      "dateModified": "2026-05-27T18:25:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "With a new $100M raise, Princeton’s Thea Energy is now a top-funded fusion startup",
-    "url": "https://techcrunch.com/2026/05/27/with-a-new-100m-raise-princetons-thea-energy-is-now-a-top-funded-fusion-startup/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/02/Thea-Eos-With-Plasma.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-05-27T17:54:28.000Z",
-    "description": "\nThea Energy has raised an oversubscribed $100 million Series B led by U.S. Innovative Technology Fund, the fusion startup told TechCrunch. The sum pl",
-    "body": "\nThea Energy has raised an oversubscribed $100 million Series B led by U.S. Innovative Technology Fund, the fusion startup told TechCrunch. The sum places the company among the better-funded fusion startups, giving it an improved chance at achieving a commercial reactor.\nThe new funding will help Thea expand manufacturing for its uniquely designed smaller magnets and begin construction of Eos, its “power plant relevant” demonstration device, starting next year. Thea previously closed a $20 million Series A in early 2024. The new round brings total private investment to $130 million, the startup told TechCrunch.\nMagnets are at the core of many fusion power plant designs — they are what keeps the superheated matter called plasma compressed and burning hot enough to fuse atoms, which then release heat and energy. But Thea’s magnets are different: Each rectangular magnet can be tuned to create the shape of the reactor’s overall magnetic field. Thea likens these to pixels in a computer monitor, which collectively follow software’s instructions to create the text and images the monitor displays.\nThis animation shows how Helios can be disassembled for maintenance.Image Credits:Thea Energy\nFor Thea, that flexibility will be important. The type of reactor it’s designing is known as a stellarator. Stellarators are capable of keeping plasma in very stable configurations, but to do so, they have to twist and bend to accommodate the plasma. That’s in contrast to tokamaks, another leading magnetic design, which uses more brute force to keep plasma confined.\nBut the irregular shape of a stellarator drives up complexity and cost for magnet manufacturing. Thea is betting that by shrouding its reactor core in dozens of regular magnets, it can use software to control the smaller, turnable magnets and create a stellarator-shaped magnetic field inside a much simpler physical structure. \nThe software should also help with assembling the reactor. Thea has purposefully installed test magnets out of alignment, but the software was able to compensate.\nThea hopes to complete its Eos demonstration reactor in 2030 with a commercial version, known as Helios, coming online in 2034. The timing brings it in line with competitors like Commonwealth Fusion Systems, which has said it hopes to bring its Arc reactor online in Virginia in the early 2030s.\nIf Thea’s pixel-inspired magnets work, the company could enjoy a manufacturing advantage. The startup has built dozens of iterations of its full-scale magnets in its lab in Jersey City. Meanwhile, other fusion startups pursuing magnetic confinement have had to build massive assembly halls to make reactor-scale magnets.\nThe small magnets don’t do all the lifting, though. Thea uses 12 magnets of four different shapes outside the planar coils to handle most of the plasma confinement. The 300-plus smaller magnets serve to fine-tune the plasma. Being reliant on larger magnets erodes the company’s manufacturing advantage to some extent.\nStill, any simplification of a fusion reactor — which are already some of the most complex devices ever made by humans — will help pave the road to fusion power. An extra $100 million doesn’t hurt, either.\nOther investors who participated in the round include General Innovation Capital Partners, Linse Capital, Calm Ventures, Climate Capital, Divergent Capital, Emerald Technology Ventures, Gaingels, Idemitsu Kosan, Overlay Capital, Timescale Ventures, and What If Ventures.\nUpdate: Thea’s early designs called for the use of 12 encircling magnets. They were not added to later versions.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tTim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor. \r\nDe Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.\r\nYou can contact or verify outreach from Tim by emailing tim.dechant@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "With a new $100M raise, Princeton’s Thea Energy is now a top-funded fusion startup",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/02/Thea-Eos-With-Plasma.jpg?w=150"
-      ],
-      "datePublished": "2026-05-27T17:54:28.000Z",
-      "dateModified": "2026-05-27T17:54:28.000Z",
       "author": [
         {
           "@type": "Person",
