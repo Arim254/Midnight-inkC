@@ -50,31 +50,6 @@
     }
   },
   {
-    "title": "Asana acquires no-code agent-builder StackAI",
-    "url": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/asana-illustration-getty.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-05-28T20:06:07.000Z",
-    "description": "\nAsana has acquired the workflow automation company StackAI for $75 million, part of a larger effort to position itself as an AI-native workplace plat",
-    "body": "\nAsana has acquired the workflow automation company StackAI for $75 million, part of a larger effort to position itself as an AI-native workplace platform. StackAI’s founders, Tony Rosinol and Bernard Aceituno, will join Asana as part of the acquisition.\nAsana framed the acquisition as part of its broader AI pivot, in which it seeks to build its platform into “the operating system for human-agent teams.” \nThe announcement was announced Thursday afternoon to coincide with Asana’s earnings and investor call.\nBuilt as an AI workflow-automation system, StackAI designs agents to operate within existing business systems, pulling in data from systems like Salesforce, Slack, and Gsuite. Part of Y Combinator’s Winter ’23 cohort, the company has faced fierce competition from automation tools like Zapier as well as AI labs like OpenAI and Anthropic.\nStackAI had raised just under $20 million, according to PitchBook data, with most of it coming in a recent $16 million Series A round. That round included funding from Gradient, Epakon Capital, Lobby VC, LifeX Ventures, and Vercel CEO Guillermo Rauch.\nWhile users are likely most familiar with Asana’s work management system, the company has released a number of AI-oriented products in recent years, most notably the AI Studio agent builder and AI Teammates series of pre-built automations. While equivalent tools are available from major labs, Asana sees its deep integration into existing corporate workflows as a key advantage, allowing it to distill context and training data that would otherwise be unavailable.\nAsana has struggled on public markets during the AI era, losing more than half its market cap value since the introduction of ChatGPT — a spiral that grew worse with the departure of founder Dustin Moskovitz as CEO last March. But revenue has continued to grow steadily, and the new leadership is confident that its human-agent products will enable it to rebound.\n“This acquisition accelerates our roadmap and takes us into the next phase of human-agent work,” said CEO Dan Rogers in a statement. “We’re already seeing real momentum with AI Teammates and AI Studio … StackAI now lets them go further, agentifying the most complex business processes end-to-end.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tRussell Brandom has been covering the tech industry since 2012, with a focus on platform policy and emerging technologies. He previously worked at The Verge and Rest of World, and has written for Wired, The Awl and MIT’s Technology Review.\r\n He can be reached at russell.brandom@techcrunch.com or on Signal at 412-401-5489.\t\n\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Asana acquires no-code agent-builder StackAI",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/05/asana-illustration-getty.jpg?w=150"
-      ],
-      "datePublished": "2026-05-28T20:06:07.000Z",
-      "dateModified": "2026-05-28T20:06:07.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Today is the last day to apply to speak at TechCrunch Disrupt 2026",
     "url": "https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/05/breakout_1200x600_a9107e.png?w=150",
@@ -175,6 +150,31 @@
     }
   },
   {
+    "title": "Glean’s top line crosses $300M as AI budget cutting becomes its major selling point",
+    "url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2259183614.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-05-29T00:44:37.000Z",
+    "description": "\nGlean, a company often described as the Google for enterprise, said it has reached $300 million in annual recurring revenue (ARR), a three-fold incre",
+    "body": "\nGlean, a company often described as the Google for enterprise, said it has reached $300 million in annual recurring revenue (ARR), a three-fold increase from the $100 million milestone it reached just 15 months ago.\nWhile many AI startups are growing at a blistering pace, Glean’s progress is particularly remarkable. After years of essentially being the only player in the category, the seven-year-old startup is accelerating its growth as tech giants enter the enterprise AI search market with rival products.\n“The first four or five years of our existence, we had no competition,” Glean CEO Arvind Jain told TechCrunch. “Given how important search is to make AI work in the enterprise, every single company in the world wants to be in this space.”\nTech heavyweights building Glean-like tools include Google, Microsoft, OpenAI, Anthropic, Salesforce, and Atlassian.\nJain maintains there’s value in being a first mover in the space, but that it’s also equally important to offer a better product.\nWhat Glean does better than its competition, according to Jain, comes down to the deep understanding that its AI tools have of customers’ business needs. Glean’s AI achieves this knowledge — a concept captured by the new, popular term “context graph” — by connecting to and learning from enterprises’ internal software systems.\nJain claims that Glean’s context graph also helps enterprises cut AI computing costs.\n“If you connect your AI to Glean, it gives you all the information that you need to do your work, and that results in AI consuming far fewer tokens compared to if you unleash AI onto your systems directly,” Jain said. That’s because with Glean, AI ends up performing fewer operations, he added.\nAt a time when many companies are blowing through their AI budgets, those token cost savings have become a major selling point for the company.\n“One of the things you know our customers really like about Glean is the fact that we can reduce your AI bill significantly,” he said.\nThe company, which was last valued at $7.2 billion when it raised a $150 million Series F last June, offers various pricing structures to its customers, which include Databricks, Reddit, Pinterest, and Samsung.\nAccording to Jain, Glean offers both a consumption-based model, where clients pay per use, and a hybrid model that combines a fixed monthly fee for active users with separate usage fees for model consumption.\nGlean is definitely not the first company to do this, but it’s worth pointing out that the company’s $300 million milestone cannot be fully described as traditional ARR, because a consumption model by definition doesn’t have a strictly recurring component.\nPure consumption pricing models depend on fluctuating user activity rather than predictable subscription renewals, therefore a portion of Glean’s top line is more accurately described as an annualized revenue run rate.\nGlean did not immediately respond to a request for comment; this post will be updated if the company replies.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tMarina Temkin is a venture capital and startups reporter at TechCrunch. Prior to joining TechCrunch, she wrote about VC for PitchBook and Venture Capital Journal. Earlier in her career, Marina was a financial analyst and earned a CFA charterholder designation.\r\nYou can contact or verify outreach from Marina by emailing marina.temkin@techcrunch.com or via encrypted message at +1 347-683-3909 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Glean’s top line crosses $300M as AI budget cutting becomes its major selling point",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2259183614.jpg?w=150"
+      ],
+      "datePublished": "2026-05-29T00:44:37.000Z",
+      "dateModified": "2026-05-29T00:44:37.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
     "url": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/Scott-wu-headshot-e1780070238342.png?w=150",
@@ -191,31 +191,6 @@
       ],
       "datePublished": "2026-05-29T16:13:47.000Z",
       "dateModified": "2026-05-29T16:13:47.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Slate Auto will announce pricing and take preorders for its EV on June 24",
-    "url": "https://techcrunch.com/2026/05/28/slate-auto-will-announce-pricing-and-take-preorders-for-its-ev-on-june-24/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/slate-auto-suv.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-05-28T20:29:00.000Z",
-    "description": "\nSlate Auto, the electric vehicle startup backed by Jeff Bezos and LA Dodgers owner Mark Walter, will announce pricing and start taking non-refundable",
-    "body": "\nSlate Auto, the electric vehicle startup backed by Jeff Bezos and LA Dodgers owner Mark Walter, will announce pricing and start taking non-refundable preorders for its low-cost electric vehicle on June 24, ahead of the first deliveries late this year.\nThe company sent out emails to prospective buyers on Thursday that encouraged them to make a $50 reservation now ahead of the $300 preorders starting next month, in order to get a “delivery window before non-reservers.”\nSlate previously said it would announce pricing in June. An FAQ section of the preorder page that went live Thursday shows the company will announce pricing on June 24. The company did not respond to a request for comment.\nThe four-year-old company came out of stealth in April 2025 after TechCrunch revealed its secretive plans to build a low-cost, no-frills, customizable vehicle. Slate once touted that the base version of its EV — which can be converted from a two-seater truck to a five-seater SUV, for a price — would start at “under $20,000” with a $7,500 federal tax credit. But that credit was killed by the Trump administration and Congress late last year, and Slate has remained tight-lipped about pricing, only saying the vehicle will start in the mid-$20,000 range.\nThe idea of a simple EV with hand-crank windows and no paint has resonated with consumers. More than 160,000 potential customers have made refundable $50 reservations with the startup since it revealed the EV last year. As other EV startups have shown over the last decade, though, it is not easy to convert reservation holders to actual customers.\nTo help tackle this problem, Slate named a new CEO in March. The company is now led by former Amazon Marketplace vice president Peter Faricy. (Many of Slate’s leadership positions have been filled with ex-Amazon executives.) \nSlate has also lined up some serious financial firepower to tackle the difficult task of building and shipping an EV. In April, the company announced it closed a $650 million Series C funding round, meaning it has raised roughly $1.4 billion to date.\nIt appears that much of that funding has come from Walter’s financial firm, TWG Global. While Bezos was involved in Slate’s initial funding, his level of involvement in successive rounds has never been pinned down. In May, TechCrunch revealed that his family office manager had stepped down from her position on Slate’s board of directors.\nThis story has been updated to reflect that Slate Auto will announce pricing on June 24.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Slate Auto will announce pricing and take preorders for its EV on June 24",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/05/slate-auto-suv.jpg?w=150"
-      ],
-      "datePublished": "2026-05-28T20:29:00.000Z",
-      "dateModified": "2026-05-28T20:29:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -250,6 +225,31 @@
     }
   },
   {
+    "title": "This $300 pizza oven can easily help elevate your summer pizza nights",
+    "url": "https://techcrunch.com/2026/05/30/this-300-pizza-oven-can-easily-help-elevate-your-summer-pizza-nights/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/ninja-pizza-oven.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-05-30T13:00:00.000Z",
+    "description": "\nIf you enjoy homemade pizza but don’t love the hassle that comes with it, an electric pizza oven may be the ideal upgrade. The Ninja Artisan Outdoor ",
+    "body": "\nIf you enjoy homemade pizza but don’t love the hassle that comes with it, an electric pizza oven may be the ideal upgrade. The Ninja Artisan Outdoor Pizza Oven is aimed at people who want delicious pizza nights without having to deal with things like propane or wood pellets, unlike many other pizza ovens. \nI need to preface this review by admitting that I am no pizza connoisseur, but I ended up with quick, restaurant-style pizzas using the oven, largely thanks to its simplicity and easy-to-use design.\nThe oven plugs into a standard outdoor outlet and gets up to 700°F. It’s worth noting that although it’s electric, it’s not suitable for indoor use. \nIt features five pizza settings: Neapolitan, New York, Thin Crust, Pan Pizza, and Custom that you can quickly toggle between. It comes with a pizza stone that can cook 12-inch pizzas. While I found that the 12-inch size was perfect for me and my husband, some may wish for the option to make bigger pizzas when feeding a larger crowd.\nSince the oven has heating elements on both the top and bottom, pizzas cook evenly and consistently without needing to rotate the pie, manage a flame, or constantly babysit the cooking process, especially once you’ve gotten familiar with the different modes.\nImage Credits:Aisha Malik/TechCrunch\nJust like the cooking process, setup was quite easy. All I had to do was remove the oven and pizza stone from the box and packaging, plug it in, and start the preheating process. \nI first tested the Neapolitan setting, which cranks the oven to its max temperature of 700°F and can cook a pizza in just three minutes. It took about 20 minutes for the oven to preheat, and it emitted a beeping sound to let me know it was ready. I had my first pizza ready on the pizza peel that Ninja sent me alongside the oven (sold separately), and I was able to easily shimmy it onto the pizza stone inside the oven. \nAfter that, you just need to push the “start” button to begin cooking the pizza and begin the timer. While the pizza is cooking, you can adjust the timer using the dial if you want to cook it for a custom amount of time. \nWhile I did keep an eye on the pizza through the small front window and internal light to make sure it didn’t burn, the three-minute cook time ended up being perfect, leaving me with a pizza that had an airy crust, puffed edges, and light charring. The airy crust is something I was never able to achieve when making homemade pizzas in my standard kitchen oven. \nFor the subsequent Neapolitan pizzas that I made, I didn’t have to keep an eye on them and instead relied on the timer to beep and let me know when they were ready. \nIt’s worth noting that if you’re looking for that authentic wood-fired flavor, you won’t get that with this oven. But if you’re happy with consistent, reliable results, then this oven is perfect for you. \nImage Credits:Aisha Malik/TechCrunch\nI also tried the New York setting, which sets a lower temperature than the Neapolitan mode and has a longer cook time. I used this setting for a topping-heavy pizza to get an even bake and more doneness in the middle. With this setting, I got less of a char on the crust, which is what I was looking for. \nAs for cleaning the oven, it’s fairly straightforward and low maintenance since you don’t have to deal with soot from an open flame. The interior can be easily wiped down with a damp cloth to remove crumbs and any light messes. For the pizza stone itself, I scraped off debris after it cooled down, since you’re not supposed to use soap on a pizza stone because it’s porous and can absorb water and potentially crack or shatter when exposed to high heat.\nWhat I like most about the pizza oven is that homemade pizza nights no longer feel like a weekend-only activity. Before, making pizza at home felt like too much of a project for a weekday, so I saved it for occasional weekends. But with how fast and simple the Ninja Artisan oven is to use, homemade pizza now feels like something I can quickly make after work without it feeling like a task.\nI think the pizza oven is worth buying if you want to make restaurant-style pizza at home without the complexity of traditional pizza ovens. \nThe Ninja Artisan Pizza Oven costs $300 and comes in four colors: green and gold, blue and gold, black and gold, and dark gray. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing aisha@techcrunch.com or via encrypted message at aisha_malik.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "This $300 pizza oven can easily help elevate your summer pizza nights",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/05/ninja-pizza-oven.jpg?w=150"
+      ],
+      "datePublished": "2026-05-30T13:00:00.000Z",
+      "dateModified": "2026-05-30T13:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Coders are refusing to work without AI — and that could come back to bite them ",
     "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
     "image": "https://techcrunch.com/wp-content/uploads/2021/06/bee_tongue.jpg?w=150",
@@ -266,31 +266,6 @@
       ],
       "datePublished": "2026-05-29T22:14:22.000Z",
       "dateModified": "2026-05-29T22:14:22.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Microsoft under fire for threatening security researcher with criminal investigation",
-    "url": "https://techcrunch.com/2026/05/29/microsoft-under-fire-for-threatening-security-researcher-with-criminal-investigation/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/microsoft-logo.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-05-29T17:03:39.000Z",
-    "description": "\nAfter a security researcher published a series of unpatched bugs in Microsoft products, along with code to exploit them, the company is now threateni",
-    "body": "\nAfter a security researcher published a series of unpatched bugs in Microsoft products, along with code to exploit them, the company is now threatening to take legal action and call the cops on them. Microsoft’s veiled threat reignites a long-running argument over what responsibility, if any, security researchers have to disclose vulnerabilities affecting large and wealthy tech giants.\nOn Wednesday, Microsoft published a blog post criticizing the researcher, who goes by the handle “Nightmare Eclipse,” for publicly disclosing a series of bugs, including BlueHammer, RedSun, UnDefend, and YellowKey. The flaws affected products such as the Windows built-in antivirus engine Defender and the disk-encryption tool BitLocker. \nThe core of Microsoft’s complaints is that the researcher did not attempt to report the bugs so that the company could fix them. That would have been “responsible,” as Microsoft’s blog put it. The other side of the company’s argument is that by publishing the details of the bugs and how to exploit them before they were patched, Nightmare Eclipse may have aided malicious hackers. Some of the vulnerabilities Nightmare Eclipse disclosed have since been used by hackers in real-world attacks, according to Microsoft, as well as the U.S. cybersecurity agency CISA.\n“Our Digital Crimes Unit will continue bringing cases against these actors and those that enable their criminal activity — coordinating as needed with law enforcement around the world,” Microsoft wrote. (Microsoft’s Digital Crimes Unit has the mission of protecting the company through different strategies, including “civil legal actions, technical countermeasures, criminal referrals, and public-private partnerships,” according to its website).\nIn a series of blogs published in the last couple of weeks — without providing many specific details — Nightmare Eclipse claimed to have been in contact with Microsoft, but the company allegedly mistreated them, including revoking access to their Microsoft Security Response Center account, the portal where researchers can report vulnerabilities to the tech giant. Nightmare Eclipse’s implication was that they had no choice but to release the vulnerabilities publicly, which essentially meant that at that point they were zero-days, a specific term for security flaws that are unknown to the software maker affected at the time they are disclosed or exploited.\nThe researchers published the bugs on open source repositories GitHub (owned by Microsoft) and GitLab. The researchers’ accounts on those platforms have been banned. \nNightmare Eclipse and Microsoft did not respond to a request for comment. \nCybersecurity veterans warn of chilling effect\nThis public spat brings back a long-running and still somewhat controversial debate: Do independent security researchers have a duty to make sure the vulnerabilities they find get fixed? And how far are they supposed to go to make sure the companies whose products are vulnerable actually fix them? \nOne part of this debate, which has been fully settled and widely recognized, is that researchers deserve to get paid for their work. While it may sound obvious these days, it took years of struggle, captured in part during a campaign launched in 2009 called “No More Free Bugs.” Almost 20 years later, most companies small and large pay “bug bounty” financial rewards, which can today run as high as six figures or more to researchers who privately disclose bugs and coordinate publishing their details once the bugs are fixed.\nIn response to this latest controversy with Nightmare Eclipse, countless researchers have shared their bad experiences reporting bugs to Microsoft. It’s fair to say that much of the cybersecurity community is vocally unhappy about how Microsoft is handling this issue. This includes cybersecurity veterans, such as Luta Security founder Katie Moussouris, who while working at Microsoft in the mid- to late 2000s pioneered bug bounties and convinced the technology giant to move away from the concept of “responsible disclosure” by framing the process as “coordinated disclosure.”\n“Invoking the term ‘responsible’ disclosure was the first strike in my book,” Moussouris told TechCrunch, referring to Microsoft’s blog post. “Adding a threat of prosecution by mentioning [Digital Crimes Unit] was over the top, and will only result in security researchers distrusting Microsoft.”\nMoussouris warned that the consequences of security researchers losing trust with Microsoft could result in a chilling effect of fewer people coming forward to report bugs, “making it less safe for all of us.”\nSecurity researcher and former Microsoft employee Kevin Beaumont also called out Microsoft in a blog post, describing the company’s position a “dumpster fire of its own making.” \n“Proof of concept exploit creation and distribution for zero days is ‘criminal activity’ now?” wrote Beaumont. “Responsible disclosure quite often is framed to protect the product owner, not the customer — using it to try to criminally prosecute people is a new low.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tLorenzo Franceschi-Bicchierai is a Senior Writer at TechCrunch, where he covers hacking, cybersecurity, surveillance, and privacy. \nYou can contact or verify outreach from Lorenzo by emailing lorenzo@techcrunch.com, via encrypted message at +1 917 257 1382 on Signal, and @lorenzofb on Keybase/Telegram.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Microsoft under fire for threatening security researcher with criminal investigation",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/05/microsoft-logo.jpg?w=150"
-      ],
-      "datePublished": "2026-05-29T17:03:39.000Z",
-      "dateModified": "2026-05-29T17:03:39.000Z",
       "author": [
         {
           "@type": "Person",
@@ -325,6 +300,56 @@
     }
   },
   {
+    "title": "Microsoft under fire for threatening security researcher with criminal investigation",
+    "url": "https://techcrunch.com/2026/05/29/microsoft-under-fire-for-threatening-security-researcher-with-criminal-investigation/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/microsoft-logo.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-05-29T17:03:39.000Z",
+    "description": "\nAfter a security researcher published a series of unpatched bugs in Microsoft products, along with code to exploit them, the company is now threateni",
+    "body": "\nAfter a security researcher published a series of unpatched bugs in Microsoft products, along with code to exploit them, the company is now threatening to take legal action and call the cops on them. Microsoft’s veiled threat reignites a long-running argument over what responsibility, if any, security researchers have to disclose vulnerabilities affecting large and wealthy tech giants.\nOn Wednesday, Microsoft published a blog post criticizing the researcher, who goes by the handle “Nightmare Eclipse,” for publicly disclosing a series of bugs, including BlueHammer, RedSun, UnDefend, and YellowKey. The flaws affected products such as the Windows built-in antivirus engine Defender and the disk-encryption tool BitLocker. \nThe core of Microsoft’s complaints is that the researcher did not attempt to report the bugs so that the company could fix them. That would have been “responsible,” as Microsoft’s blog put it. The other side of the company’s argument is that by publishing the details of the bugs and how to exploit them before they were patched, Nightmare Eclipse may have aided malicious hackers. Some of the vulnerabilities Nightmare Eclipse disclosed have since been used by hackers in real-world attacks, according to Microsoft, as well as the U.S. cybersecurity agency CISA.\n“Our Digital Crimes Unit will continue bringing cases against these actors and those that enable their criminal activity — coordinating as needed with law enforcement around the world,” Microsoft wrote. (Microsoft’s Digital Crimes Unit has the mission of protecting the company through different strategies, including “civil legal actions, technical countermeasures, criminal referrals, and public-private partnerships,” according to its website).\nIn a series of blogs published in the last couple of weeks — without providing many specific details — Nightmare Eclipse claimed to have been in contact with Microsoft, but the company allegedly mistreated them, including revoking access to their Microsoft Security Response Center account, the portal where researchers can report vulnerabilities to the tech giant. Nightmare Eclipse’s implication was that they had no choice but to release the vulnerabilities publicly, which essentially meant that at that point they were zero-days, a specific term for security flaws that are unknown to the software maker affected at the time they are disclosed or exploited.\nThe researchers published the bugs on open source repositories GitHub (owned by Microsoft) and GitLab. The researchers’ accounts on those platforms have been banned. \nNightmare Eclipse and Microsoft did not respond to a request for comment. \nCybersecurity veterans warn of chilling effect\nThis public spat brings back a long-running and still somewhat controversial debate: Do independent security researchers have a duty to make sure the vulnerabilities they find get fixed? And how far are they supposed to go to make sure the companies whose products are vulnerable actually fix them? \nOne part of this debate, which has been fully settled and widely recognized, is that researchers deserve to get paid for their work. While it may sound obvious these days, it took years of struggle, captured in part during a campaign launched in 2009 called “No More Free Bugs.” Almost 20 years later, most companies small and large pay “bug bounty” financial rewards, which can today run as high as six figures or more to researchers who privately disclose bugs and coordinate publishing their details once the bugs are fixed.\nIn response to this latest controversy with Nightmare Eclipse, countless researchers have shared their bad experiences reporting bugs to Microsoft. It’s fair to say that much of the cybersecurity community is vocally unhappy about how Microsoft is handling this issue. This includes cybersecurity veterans, such as Luta Security founder Katie Moussouris, who while working at Microsoft in the mid- to late 2000s pioneered bug bounties and convinced the technology giant to move away from the concept of “responsible disclosure” by framing the process as “coordinated disclosure.”\n“Invoking the term ‘responsible’ disclosure was the first strike in my book,” Moussouris told TechCrunch, referring to Microsoft’s blog post. “Adding a threat of prosecution by mentioning [Digital Crimes Unit] was over the top, and will only result in security researchers distrusting Microsoft.”\nMoussouris warned that the consequences of security researchers losing trust with Microsoft could result in a chilling effect of fewer people coming forward to report bugs, “making it less safe for all of us.”\nSecurity researcher and former Microsoft employee Kevin Beaumont also called out Microsoft in a blog post, describing the company’s position a “dumpster fire of its own making.” \n“Proof of concept exploit creation and distribution for zero days is ‘criminal activity’ now?” wrote Beaumont. “Responsible disclosure quite often is framed to protect the product owner, not the customer — using it to try to criminally prosecute people is a new low.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tLorenzo Franceschi-Bicchierai is a Senior Writer at TechCrunch, where he covers hacking, cybersecurity, surveillance, and privacy. \nYou can contact or verify outreach from Lorenzo by emailing lorenzo@techcrunch.com, via encrypted message at +1 917 257 1382 on Signal, and @lorenzofb on Keybase/Telegram.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Microsoft under fire for threatening security researcher with criminal investigation",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/05/microsoft-logo.jpg?w=150"
+      ],
+      "datePublished": "2026-05-29T17:03:39.000Z",
+      "dateModified": "2026-05-29T17:03:39.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "How to apply to Startup Battlefield 2026, what you need ahead of the June 8 deadline",
+    "url": "https://techcrunch.com/2026/05/28/how-to-apply-to-startup-battlefield-2026-what-you-need-ahead-of-the-june-8-deadline/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/11/54889167026_7a80a409c4_o.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-05-28T23:01:52.000Z",
+    "description": "\nEvery year I read through thousands of Startup Battlefield applications. And every year, I see the same pattern: The founders who belong on this stag",
+    "body": "\nEvery year I read through thousands of Startup Battlefield applications. And every year, I see the same pattern: The founders who belong on this stage are often the ones who almost didn’t apply.\nThey think they’re too early. They think they need more traction. They think the program is for companies further along than they are.\nSo here’s what we’re actually looking for and how to make sure your application reflects it. The deadline to be considered was May 27, but with the competition heating up and the applications continuing to come in, we’ve extended it to June 8. You still can apply here, but time is still running out!\nAnd if you’re not up to speed on this year’s Startup Battlefield details, it’s once again a premiere part of TechCrunch Disrupt, which will be in San Francisco from October 13-15 and concludes with the crowning of this year’s future champion. And that list of champions includes some incredible companies, from giants like Cloudflare and Discord, to the most recent crop of winners, who you can learn about in detail right here.\nWhat gets a company selected for Startup Battlefield\nStartup Battlefield is not a competition for the most polished companies. It never has been. It’s a competition for the most promising ones.\nWe’re looking for companies with ideas that feel meaningfully different and category-defining, with the potential to make a major impact in their industry or geography. For every application, the question we ask is simple: Does this change something? Not incrementally. Genuinely.\nProduct and disruption. What are you building, and does it represent a real shift in how something works? We’re not looking for a better version of what already exists. We’re looking for the thing that makes the existing version feel obsolete.\nThe founding team. Why you, why now, why this problem? Your origin story is part of the application. The founders who can articulate their conviction clearly, not just their market size, are the ones who stand out.\nIndustry and geographic diversity. The Startup Battlefield 200 is a global cohort. We actively look for companies from every corner of the world and every vertical in tech. If you’re building something important in a geography or sector that doesn’t often get a spotlight, that matters to us.\nWhat doesn’t disqualify you from Startup Battlefield\nHaving press coverage. Local coverage is fine. Industry coverage is fine. A few founder profiles are fine. We’re looking for companies whose core technology hasn’t had its moment yet. If you’ve had some coverage but the product hasn’t been showcased, that’s exactly what Disrupt is for. Apply and show us what you have.\nBeing pre-launch. You need a working MVP, but you don’t need customers. You don’t need revenue. Pre-launch companies are genuinely welcome.\nHaving applied before. Many Startup Battlefield 200 companies applied more than once before being selected. A previous rejection says nothing about your company’s future or your chances this time.\nRaising money. Bootstrapped, pre-seed, and seed companies are all welcome. Series A companies are reviewed on a case-by-case basis, particularly founders building in capital-intensive industries or raising in markets where funding dynamics differ from Silicon Valley norms.\nTips for a strong Startup Battlefield application\nShow your product working. This is the single most important thing. Not a mockup. Not a simulation. Not an animated explainer video with upbeat background music. Your MVP in action, in real time. Even if it’s rough, even if it’s a screen recording from your phone. We want to see it work.\nKnow your competitive landscape. “We have no competitors” is not a credible answer, and it raises questions about how well you understand your market. Name your competitors, acknowledge them honestly, and then explain clearly and specifically why you win. This is one of the most important parts of the application and one of the most commonly underdeveloped.\nTell your story. Why did you start this company? What did you see that others didn’t? What makes you the right person to build it? The founding narrative is a meaningful part of how we evaluate teams and it’s the part most founders underwrite. Don’t skip it.\nDon’t overpolish. Write clearly, show the product, tell the truth about where you are. We can see around rough edges. What we struggle to see around is an application that’s been so carefully managed that the actual company is invisible.\nResubmit if you need to. If you submit before you’re ready, don’t panic. You can resubmit until the June 8 deadline extension. You cannot edit an already submitted application, but you can submit a new one.\nLearn what it takes from the founders who’ve done it\nBuild Mode, TechCrunch’s podcast for early-stage founders, is the best place to start. Hear directly from past Battlefield companies like Forethought AI and Glīd, breakout founders like Artisan and TaskRabbit, and top-tier investors like General Catalyst on what it takes to build a company worth putting on a global stage.\nListen to Build Mode →\nThe deadline to apply for Startup Battlefield\nApplications close June 8, 2026, and you can still apply right here. Selected companies are notified approximately two months before TechCrunch Disrupt.\nIf you’re on the fence, apply. The worst outcome is you don’t get selected this cycle and you’ll have a stronger application next year for having gone through it.\nWe built this program to find you before the world does. The application is your first pitch.\nApply for Startup Battlefield 200 →\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "How to apply to Startup Battlefield 2026, what you need ahead of the June 8 deadline",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/11/54889167026_7a80a409c4_o.jpg?w=150"
+      ],
+      "datePublished": "2026-05-28T23:01:52.000Z",
+      "dateModified": "2026-05-28T23:01:52.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Blue Origin’s New Glenn rocket explodes during testing in Florida",
     "url": "https://techcrunch.com/2026/05/28/blue-origins-new-glenn-rocket-explodes-during-testing-in-florida/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/blue-origin-new-glenn.jpg?w=150",
@@ -341,31 +366,6 @@
       ],
       "datePublished": "2026-05-29T01:22:16.000Z",
       "dateModified": "2026-05-29T01:22:16.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The internet is being rebuilt for machines",
-    "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-05-28T21:24:01.000Z",
-    "description": "\nCloud infrastructure has long been designed around humans who search, click, scroll, and stream in a steady and predictable fashion. AI agents behave",
-    "body": "\nCloud infrastructure has long been designed around humans who search, click, scroll, and stream in a steady and predictable fashion. AI agents behave differently. They can unleash a swell of activity, spinning up multiple sub-agents that query hundreds of databases, search documents, and call APIs in seconds and then disappear as quickly as they arrived. \nUnder that premise, Amazon is redesigning a core piece of its cloud infrastructure. On Thursday, AWS launched its next generation of OpenSearch Serverless, a fully managed search and vector database — essentially a system for storing and retrieving information at scale — that’s designed specifically for agentic workloads. AWS says the new system can instantly scale up when agents trigger tasks and scale back down to zero when idle.\nThe launch reflects a growing realization across the tech industry: Infrastructure originally designed for a human-driven internet doesn’t work as well in a world increasingly populated by agents.\nWhile AI agents still represent a relatively small portion of internet activity, machine-generated traffic is already significant, and poised to grow. Cloudflare says bots accounted for 31% of overall HTTP traffic over the last six months. AI crawlers, search engines, and assistants made up roughly a quarter of all bot requests during that period. \n“Non-human traffic will exceed human traffic sometime in the first half of 2027,” said Lai Yi Ohlsen, senior product manager at Cloudflare, to TechCrunch.\nAt Google’s I/O developer conference last week, the company said users will be able to start delegating tasks to AI systems, like researching purchases, booking travel, browsing the web, and interacting with apps. But the buck doesn’t stop at consumer-focused AI agents. Enterprises are increasingly deploying agents internally and for their customers, creating new kinds of machine-generated traffic behind the scenes. \nAs a result, cloud providers and infrastructure companies have been reckoning with how to adapt systems built for humans to a world of agents that are constantly and autonomously retrieving information, invoking tools, and generating machine-to-machine traffic. \nThat’s where AWS’s new OpenSearch Serverless comes in. \n“The timing is straightforward. Agents are moving from experimentation into production, and they create traffic patterns that previous infrastructure simply wasn’t designed for,” Tia White, general manager for Amazon OpenSearch Service, told TechCrunch. “They spike without warning, they go idle without notice, and enterprise needs search that keeps up without paying for empty or idle compute.”\nThe key technical change with this new generation is that it decouples compute from storage, allowing compute to scale up in seconds to accommodate agent traffic bursts and to scale down to zero, so customers pay $0 when agents are idle.\n“Previously, even in our prior Serverless version, you had to have at least one instance operational and running because storage and compute were coupled,” White said. “You couldn’t just automatically spin up [compute] at the rate you needed to, so you always had idle compute reserved for your workload, whether you were using it or not.”\nThink of it like always paying for a parking space, even when you’re not using it. With AWS’s upgraded Serverless, it’s more like paying for a metered parking spot.\nAt launch, OpenSearch Serverless will integrate natively with AI development platforms like Vercel and Kiro, so developers can deploy production-ready search and vector backends for agents without managing infrastructure. \nThe shift is emerging across the cloud industry. Databricks and Snowflake are repositioning themselves as AI memory and retrieval systems for enterprise data. Microsoft has rolled out updates to Azure designed to handle AI agent bursts and share memory between agents. Cloudflare, in a similar vein to Amazon, last month introduced infrastructure aimed at giving agents persistent environments and instant scalability. \nThe more companies deploy AI agents, the more pressure there will be to redesign infrastructure around machine-generated workloads, which in turn could make agents cheaper and easier to deploy at larger scales.\n\nLoading the player…\n \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tRebecca Bellan is a senior reporter at TechCrunch where she covers the business, policy, and emerging trends shaping artificial intelligence. Her work has also appeared in Forbes, Bloomberg, The Atlantic, The Daily Beast, and other publications. \r\nYou can contact or verify outreach from Rebecca by emailing rebecca.bellan@techcrunch.com or via encrypted message at rebeccabellan.491 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "The internet is being rebuilt for machines",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?w=150"
-      ],
-      "datePublished": "2026-05-28T21:24:01.000Z",
-      "dateModified": "2026-05-28T21:24:01.000Z",
       "author": [
         {
           "@type": "Person",
