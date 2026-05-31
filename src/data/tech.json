@@ -100,6 +100,31 @@
     }
   },
   {
+    "title": "Snap alums unveil Ghost Angels fund",
+    "url": "https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-1927744482.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-05-30T17:00:00.000Z",
+    "description": "\nA group of 20 Snap alumni has come together to launch a fund called Ghost Angels to back the next generation of social media. The fund declined to di",
+    "body": "\nA group of 20 Snap alumni has come together to launch a fund called Ghost Angels to back the next generation of social media. The fund declined to disclose how much it has raised so far, but says it has backed at least five companies and plans to deploy the remaining capital within the next year into at least 15 companies. \nMax Rivera, who once led global partnerships at Snap, started the fund in 2025 to formalize the already-growing Snap alumni angel-investing community. Though Rivera runs the fund, there are around 20 other founder members and investors, including a small number of those still at Snap, alongside alumni like Alexandra Levitt, who ran Snap’s corporate accelerator, and Will Wu, who was a founding member of Snap’s product and design team. \n“We were intentional about the mix,” Rivera, who currently works at Microsoft’s AI division, told TechCrunch, noting that Ghost Angels wanted to bring in former senior executives alongside those earlier in their careers, too. “That diversity of thought and experience is core to how we evaluate deals and support founders.” \nMuch has changed since he first started at Snap nearly 10 years ago. Today, the people building companies have much leaner teams, while “founders are launching fast and iterating in public.” \nImage Credits:Ghost Angels\n“We’re seeing experimentation of different monetization models beyond ads with subscriptions, token [and] usage-based, or even outcome-based,” he said. “Founders are also more in the forefront, with founder-led GTM as a key pillar.” \nAt the same time, Molly DeWolf Swenson, co-founder and CEO of Ghost Angels portfolio company Mozi, said that the “Snap alumni network is full of brilliant, influential people who inherently understand the problem space I’m playing in.”\nNaturally, the fund is focused on investing in pre-seed to seed AI startups that are building in social media and consumer. Rivera said one of the biggest trends he has noticed about the next generation of social media is how “social” and “media” have actually split. The idea of what consumers know as social media today is a platform that relies heavily on ads, with an algorithm driving content and recommendations. \n“A lot of people are disillusioned with that relative to the original promise of connecting people in your life,” Rivera said. TechCrunch reported last year that the next generation of social media was moving away from building generalized platforms and toward niche communities. \n“On the social side, we’re backing founders that are applying AI in creative ways to finally deliver on that original promise,” Rivera continued. “On the media side, [we’re backing] AI native formats and generative creative tools across different media types, from music to gaming, sports, and fashion, that are dramatically lowering the barrier to creation and distribution.”\nThis post was updated to clarify where Max Rivera works. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tDominic-Madori Davis is a senior venture capital and startup reporter at TechCrunch. She is based in New York City.\r\nYou can contact or verify outreach from Dominic by emailing dominic.davis@techcrunch.com or via encrypted message at +1 646 831-7565 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Snap alums unveil Ghost Angels fund",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-1927744482.jpg?w=150"
+      ],
+      "datePublished": "2026-05-30T17:00:00.000Z",
+      "dateModified": "2026-05-30T17:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "This weekend’s two biggest movies were both directed by YouTubers",
     "url": "https://techcrunch.com/2026/05/30/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/backrooms.jpeg?w=150",
@@ -150,81 +175,6 @@
     }
   },
   {
-    "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
-    "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/11/github-copilot-chat-2.webp?w=150",
-    "tag": "Tech",
-    "date": "2026-05-30T16:30:00.000Z",
-    "description": "\nThe golden age of Microsoft’s Github Copilot appears to be at an end — for the little guy, at least. The company is switching its billing system from",
-    "body": "\nThe golden age of Microsoft’s Github Copilot appears to be at an end — for the little guy, at least. The company is switching its billing system from a flat subscription rate to a token-usage system that has the potential to bill users at a significantly higher rate. Bigger enterprises may still have the juice for it, but smaller companies and workers could find themselves wondering how they’re supposed to balance the monthly budget.   \nThe changes, which will take place June 1, mean that users will charged based on how many tokens they burn through as they work instead of a low flat rate based on requests.\nSome developers with financial whiplash have taken to places like Reddit and X to bemoan what — in many cases — appears to be a drastic escalation in cost. \n“What a joke,” one Redditor recently wrote, claiming that, while they currently only pay around $29 per month, the new rate will balloon their costs to nearly $750 a month. “This new usage model is just stupidly expensive. I’m adjusting mine by cancelling. At that cost, it is no longer cost-effective or useful in any practical way.”\nAnother user posted “WOW, didn’t expect new pricing model to be this ridiculous,” sharing a screenshot that appeared to show that their costs had shot up from around $50 to some $3,000. \nThe increases sound extreme. However, some Copilot users have bitten back at this criticism — noting that, if you know what you’re doing, you really shouldn’t be blowing through quite so many tokens on a regular basis. The people spending this much are vibe-coders with little actual development knowledge, those critics maintain.\n“The vast difference between some of us working all day and still barely having overage and then these screenshots. I struggle to believe it’s complexity differences in the workload,” wrote one user. “The only way it gets crazy like that is if you are purely ‘vibe coding’ with a ton of bloated iterations,” they later added. “It’s pretty affordable for even small outfits if used as a tool, on pretty much any provider.”\nOthers have focused on the mind-boggling economics behind the company’s previous model. “Holy fuck how much money was copilot losing,” one Redditor asked in a recent post.\nIt’s a good question.  \nThe economics behind Copilot have not always seemed so easy to grasp, and the amount that the company must have spent to subsidize the ongoing vibe-coding escapades of its user base is similarly mysterious and hidden from public view. \nWhile some have criticized the changes and others have critiqued those critiques, still other online voices have argued that developers have a perfectly good reason to be upset, given that Microsoft encouraged users to use its chatbot indiscriminately and now appear to be pulling the rug out from under them. \n“To all the people blaming…the people who actually used the system the way that Microsoft built it (and even encouraged it to be used this way), honestly the only one at fault here is Microsoft. Microsoft provided this billing method and they kept making it easier and easier to burn through massive numbers of tokens on single premium requests that could churn for hours or even days while spawning dozens or even hundreds of sub-agents,” one user wrote. \nTechCrunch reached out to Microsoft for comment, but did not hear back by publication time. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tLucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. \nYou can contact Lucas by emailing lucas.ropek@techcrunch.com.\t\n\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2023/11/github-copilot-chat-2.webp?w=150"
-      ],
-      "datePublished": "2026-05-30T16:30:00.000Z",
-      "dateModified": "2026-05-30T16:30:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Snap alums unveil Ghost Angels fund",
-    "url": "https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-1927744482.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-05-30T17:00:00.000Z",
-    "description": "\nA group of 20 Snap alumni has come together to launch a fund called Ghost Angels to back the next generation of social media. The fund declined to di",
-    "body": "\nA group of 20 Snap alumni has come together to launch a fund called Ghost Angels to back the next generation of social media. The fund declined to disclose how much it has raised so far, but says it has backed at least five companies and plans to deploy the remaining capital within the next year into at least 15 companies. \nMax Rivera, who once led global partnerships at Snap, started the fund in 2025 to formalize the already-growing Snap alumni angel-investing community. Though Rivera runs the fund, there are around 20 other founder members and investors, including a small number of those still at Snap, alongside alumni like Alexandra Levitt, who ran Snap’s corporate accelerator, and Will Wu, who was a founding member of Snap’s product and design team. \n“We were intentional about the mix,” Rivera, who currently works at Microsoft’s AI division, told TechCrunch, noting that Ghost Angels wanted to bring in former senior executives alongside those earlier in their careers, too. “That diversity of thought and experience is core to how we evaluate deals and support founders.” \nMuch has changed since he first started at Snap nearly 10 years ago. Today, the people building companies have much leaner teams, while “founders are launching fast and iterating in public.” \nImage Credits:Ghost Angels\n“We’re seeing experimentation of different monetization models beyond ads with subscriptions, token [and] usage-based, or even outcome-based,” he said. “Founders are also more in the forefront, with founder-led GTM as a key pillar.” \nAt the same time, Molly DeWolf Swenson, co-founder and CEO of Ghost Angels portfolio company Mozi, said that the “Snap alumni network is full of brilliant, influential people who inherently understand the problem space I’m playing in.”\nNaturally, the fund is focused on investing in pre-seed to seed AI startups that are building in social media and consumer. Rivera said one of the biggest trends he has noticed about the next generation of social media is how “social” and “media” have actually split. The idea of what consumers know as social media today is a platform that relies heavily on ads, with an algorithm driving content and recommendations. \n“A lot of people are disillusioned with that relative to the original promise of connecting people in your life,” Rivera said. TechCrunch reported last year that the next generation of social media was moving away from building generalized platforms and toward niche communities. \n“On the social side, we’re backing founders that are applying AI in creative ways to finally deliver on that original promise,” Rivera continued. “On the media side, [we’re backing] AI native formats and generative creative tools across different media types, from music to gaming, sports, and fashion, that are dramatically lowering the barrier to creation and distribution.”\nThis post was updated to clarify where Max Rivera works. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tDominic-Madori Davis is a senior venture capital and startup reporter at TechCrunch. She is based in New York City.\r\nYou can contact or verify outreach from Dominic by emailing dominic.davis@techcrunch.com or via encrypted message at +1 646 831-7565 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Snap alums unveil Ghost Angels fund",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-1927744482.jpg?w=150"
-      ],
-      "datePublished": "2026-05-30T17:00:00.000Z",
-      "dateModified": "2026-05-30T17:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "What happens when companies become too AI-pilled?",
-    "url": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/10/2244026103.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-05-29T17:57:05.000Z",
-    "description": "\n\t\t\n\nLoading the player…\n\nThe people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, ",
-    "body": "\n\t\t\n\nLoading the player…\n\nThe people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of “AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents, tech layoffs in 2026 are already nearly matching all of 2025, and DuckDuckGo installs are climbing from users who want Google to stop forcing AI into search and just give them links. \nWatch as TechCrunch’s Equity podcast hosts Kirsten Korosec, Anthony Ha, and Sean O’Kane dig into what happens when the AI-pilled and the AI-skeptical are both right at the same time, plus three deals worth knowing about and Waymo’s new robotaxi hitting the road. \nSubscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. You also can follow Equity on X and Threads, at @EquityPod. \n\n\t\t\n\tTopics\n\t\n\t\tAaron Levie, AI, AI agents, AI layoffs, ai psychosis, Amazon competition, AWS, Equity, openrouter, Snowflake, Stord, Waymo robotaxi\t\n\n\n\n\t\tTheresa Loconsolo is an audio producer at TechCrunch focusing on Equity, the network’s flagship podcast. Before joining TechCrunch in 2022, she was one of 2 producers at a four-station conglomerate where she wrote, recorded, voiced and edited content, and engineered live performances and interviews from guests like lovelytheband. Theresa is based in New Jersey and holds a bachelors degree in Communication from Monmouth University. You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n\n\t\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "What happens when companies become too AI-pilled?",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/10/2244026103.jpg?w=150"
-      ],
-      "datePublished": "2026-05-29T17:57:05.000Z",
-      "dateModified": "2026-05-29T17:57:05.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Today is the last day to apply to speak at TechCrunch Disrupt 2026",
     "url": "https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/05/breakout_1200x600_a9107e.png?w=150",
@@ -250,22 +200,22 @@
     }
   },
   {
-    "title": "This $300 pizza oven can easily help elevate your summer pizza nights",
-    "url": "https://techcrunch.com/2026/05/30/this-300-pizza-oven-can-easily-help-elevate-your-summer-pizza-nights/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/ninja-pizza-oven.jpg?w=150",
+    "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
+    "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/11/github-copilot-chat-2.webp?w=150",
     "tag": "Tech",
-    "date": "2026-05-30T13:00:00.000Z",
-    "description": "\nIf you enjoy homemade pizza but don’t love the hassle that comes with it, an electric pizza oven may be the ideal upgrade. The Ninja Artisan Outdoor ",
-    "body": "\nIf you enjoy homemade pizza but don’t love the hassle that comes with it, an electric pizza oven may be the ideal upgrade. The Ninja Artisan Outdoor Pizza Oven is aimed at people who want delicious pizza nights without having to deal with things like propane or wood pellets, unlike many other pizza ovens. \nI need to preface this review by admitting that I am no pizza connoisseur, but I ended up with quick, restaurant-style pizzas using the oven, largely thanks to its simplicity and easy-to-use design.\nThe oven plugs into a standard outdoor outlet and gets up to 700°F. It’s worth noting that although it’s electric, it’s not suitable for indoor use. \nIt features five pizza settings: Neapolitan, New York, Thin Crust, Pan Pizza, and Custom that you can quickly toggle between. It comes with a pizza stone that can cook 12-inch pizzas. While I found that the 12-inch size was perfect for me and my husband, some may wish for the option to make bigger pizzas when feeding a larger crowd.\nSince the oven has heating elements on both the top and bottom, pizzas cook evenly and consistently without needing to rotate the pie, manage a flame, or constantly babysit the cooking process, especially once you’ve gotten familiar with the different modes.\nImage Credits:Aisha Malik/TechCrunch\nJust like the cooking process, setup was quite easy. All I had to do was remove the oven and pizza stone from the box and packaging, plug it in, and start the preheating process. \nI first tested the Neapolitan setting, which cranks the oven to its max temperature of 700°F and can cook a pizza in just three minutes. It took about 20 minutes for the oven to preheat, and it emitted a beeping sound to let me know it was ready. I had my first pizza ready on the pizza peel that Ninja sent me alongside the oven (sold separately), and I was able to easily shimmy it onto the pizza stone inside the oven. \nAfter that, you just need to push the “start” button to begin cooking the pizza and begin the timer. While the pizza is cooking, you can adjust the timer using the dial if you want to cook it for a custom amount of time. \nWhile I did keep an eye on the pizza through the small front window and internal light to make sure it didn’t burn, the three-minute cook time ended up being perfect, leaving me with a pizza that had an airy crust, puffed edges, and light charring. The airy crust is something I was never able to achieve when making homemade pizzas in my standard kitchen oven. \nFor the subsequent Neapolitan pizzas that I made, I didn’t have to keep an eye on them and instead relied on the timer to beep and let me know when they were ready. \nIt’s worth noting that if you’re looking for that authentic wood-fired flavor, you won’t get that with this oven. But if you’re happy with consistent, reliable results, then this oven is perfect for you. \nImage Credits:Aisha Malik/TechCrunch\nI also tried the New York setting, which sets a lower temperature than the Neapolitan mode and has a longer cook time. I used this setting for a topping-heavy pizza to get an even bake and more doneness in the middle. With this setting, I got less of a char on the crust, which is what I was looking for. \nAs for cleaning the oven, it’s fairly straightforward and low maintenance since you don’t have to deal with soot from an open flame. The interior can be easily wiped down with a damp cloth to remove crumbs and any light messes. For the pizza stone itself, I scraped off debris after it cooled down, since you’re not supposed to use soap on a pizza stone because it’s porous and can absorb water and potentially crack or shatter when exposed to high heat.\nWhat I like most about the pizza oven is that homemade pizza nights no longer feel like a weekend-only activity. Before, making pizza at home felt like too much of a project for a weekday, so I saved it for occasional weekends. But with how fast and simple the Ninja Artisan oven is to use, homemade pizza now feels like something I can quickly make after work without it feeling like a task.\nI think the pizza oven is worth buying if you want to make restaurant-style pizza at home without the complexity of traditional pizza ovens. \nThe Ninja Artisan Pizza Oven costs $300 and comes in four colors: green and gold, blue and gold, black and gold, and dark gray. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing aisha@techcrunch.com or via encrypted message at aisha_malik.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-05-30T16:30:00.000Z",
+    "description": "\nThe golden age of Microsoft’s Github Copilot appears to be at an end — for the little guy, at least. The company is switching its billing system from",
+    "body": "\nThe golden age of Microsoft’s Github Copilot appears to be at an end — for the little guy, at least. The company is switching its billing system from a flat subscription rate to a token-usage system that has the potential to bill users at a significantly higher rate. Bigger enterprises may still have the juice for it, but smaller companies and workers could find themselves wondering how they’re supposed to balance the monthly budget.   \nThe changes, which will take place June 1, mean that users will charged based on how many tokens they burn through as they work instead of a low flat rate based on requests.\nSome developers with financial whiplash have taken to places like Reddit and X to bemoan what — in many cases — appears to be a drastic escalation in cost. \n“What a joke,” one Redditor recently wrote, claiming that, while they currently only pay around $29 per month, the new rate will balloon their costs to nearly $750 a month. “This new usage model is just stupidly expensive. I’m adjusting mine by cancelling. At that cost, it is no longer cost-effective or useful in any practical way.”\nAnother user posted “WOW, didn’t expect new pricing model to be this ridiculous,” sharing a screenshot that appeared to show that their costs had shot up from around $50 to some $3,000. \nThe increases sound extreme. However, some Copilot users have bitten back at this criticism — noting that, if you know what you’re doing, you really shouldn’t be blowing through quite so many tokens on a regular basis. The people spending this much are vibe-coders with little actual development knowledge, those critics maintain.\n“The vast difference between some of us working all day and still barely having overage and then these screenshots. I struggle to believe it’s complexity differences in the workload,” wrote one user. “The only way it gets crazy like that is if you are purely ‘vibe coding’ with a ton of bloated iterations,” they later added. “It’s pretty affordable for even small outfits if used as a tool, on pretty much any provider.”\nOthers have focused on the mind-boggling economics behind the company’s previous model. “Holy fuck how much money was copilot losing,” one Redditor asked in a recent post.\nIt’s a good question.  \nThe economics behind Copilot have not always seemed so easy to grasp, and the amount that the company must have spent to subsidize the ongoing vibe-coding escapades of its user base is similarly mysterious and hidden from public view. \nWhile some have criticized the changes and others have critiqued those critiques, still other online voices have argued that developers have a perfectly good reason to be upset, given that Microsoft encouraged users to use its chatbot indiscriminately and now appear to be pulling the rug out from under them. \n“To all the people blaming…the people who actually used the system the way that Microsoft built it (and even encouraged it to be used this way), honestly the only one at fault here is Microsoft. Microsoft provided this billing method and they kept making it easier and easier to burn through massive numbers of tokens on single premium requests that could churn for hours or even days while spawning dozens or even hundreds of sub-agents,” one user wrote. \nTechCrunch reached out to Microsoft for comment, but did not hear back by publication time. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tLucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. \nYou can contact Lucas by emailing lucas.ropek@techcrunch.com.\t\n\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "This $300 pizza oven can easily help elevate your summer pizza nights",
+      "headline": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/05/ninja-pizza-oven.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2023/11/github-copilot-chat-2.webp?w=150"
       ],
-      "datePublished": "2026-05-30T13:00:00.000Z",
-      "dateModified": "2026-05-30T13:00:00.000Z",
+      "datePublished": "2026-05-30T16:30:00.000Z",
+      "dateModified": "2026-05-30T16:30:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -300,22 +250,22 @@
     }
   },
   {
-    "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
-    "url": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Scott-wu-headshot-e1780070238342.png?w=150",
+    "title": "This $300 pizza oven can easily help elevate your summer pizza nights",
+    "url": "https://techcrunch.com/2026/05/30/this-300-pizza-oven-can-easily-help-elevate-your-summer-pizza-nights/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/ninja-pizza-oven.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-05-29T16:13:47.000Z",
-    "description": "\nCognition CEO Scott Wu made headlines again this week when his two-year-old AI coding agent startup raised $1 billion at a $26 billion valuation. Cog",
-    "body": "\nCognition CEO Scott Wu made headlines again this week when his two-year-old AI coding agent startup raised $1 billion at a $26 billion valuation. Cognition is the maker of Devin, one of the first and, arguably, most successful AI coding agents. Devin, the CEO says, “naturally owns tasks end to end.”\nIn fact, in the blog post announcing that raise, Cognition laid out a vision where “we are shifting to a world of self-driving software development.”\nSo, could Devin replace, say, a mid-level L4 programmer? Yes, and no, Wu told TechCrunch. “We’ve never thought about it as replacing humans. I know it’s like a scenario, folks have said these things. It has never been our view.”\nIn this wild year of 2026 when every day another tech CEO announces layoffs in the name of supplanting workers with AI, Wu says he especially doesn’t want coders to lose their jobs. “We are all programmers ourselves,” he explained. “I started coding when I was nine.”\nIn fact, Wu has been called one of the most accomplished child competitive programmers of all time, according to a recent profile in Colossus. As a second-grader, Wu won a nationwide math competition for seventh-graders, which launched a childhood filled with math and programming tournaments. It also introduced him to other wunderkinds who went on to launch other AI tech startups, like Scale AI founder Alexandr Wang.\nSo, he tells TechCrunch, the idea was never to make human programmers obsolete.\n“When we started building Devin, it’s kind of a funny thing,” he mused, “but we really just thought of it as: this is your buddy who helps you build more.” In fact, he showed off a little stuffed animal holding a computer, his own Devin teddy bear of sorts, that he keeps on his desk. He thinks of it as a physical symbol of the Devin AI coder “This is my buddy that helps you build more.”\nWu doesn’t want AI agents to take the joy of programming away from people. \n“It’s not a secret, most software engineers love building software, right?” he said. “If you ask them why, what they’ll basically tell you is, ‘Well, it’s like I get to build things from nothing. I can make my whole idea that I have, and turn it into a product. I can turn it into an experience.’”\nJust like visual development environments abstracted software creation away from machine instructions, he views agents as another layer of abstraction between envisioning a software product and producing it.\nYet, Cognition says that Devin’s role in its own company is to ship nearly all the software. The company says that 89% of code committed by its engineers was committed by Devin, and the rest by local agents in Windsurf, the AI coding competitor it acquired last year.\nWu explains that his agent’s role is largely to do the kinds of long-tail maintenance tasks that many programmers don’t like to do anyway: bringing old software up to date; moving applications off one platform and onto another. Agents will free programmers “from a lot of the toil, and so they can do much more of the creation side,” he promises.\nSo Wu bristles at the idea of Devin “replacing” human coders. While he says it can work independently, it works at “somewhere between a junior and a mid-level engineer” depending on the task at hand.\nAs for the concept of self-driving software, where the agent learns and improves itself so that one day it will work at higher levels (“recursive” is the latest buzzword in AI these days), Wu says. “I think we are in for a wild ride.”\nHe sees agents entering other fields where they will learn tasks, from customer service to medicine, but hopes the goal will be to augment human workers in those areas, too.\n“Code and software has been the first to move, but we’ll see this happen in all these other industries,” he predicts. “One thing that’s been clear to us since the beginning is, it should always be up to the human what to do … you really see this in software engineering, but I think it’s true in all these other professions too.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "date": "2026-05-30T13:00:00.000Z",
+    "description": "\nIf you enjoy homemade pizza but don’t love the hassle that comes with it, an electric pizza oven may be the ideal upgrade. The Ninja Artisan Outdoor ",
+    "body": "\nIf you enjoy homemade pizza but don’t love the hassle that comes with it, an electric pizza oven may be the ideal upgrade. The Ninja Artisan Outdoor Pizza Oven is aimed at people who want delicious pizza nights without having to deal with things like propane or wood pellets, unlike many other pizza ovens. \nI need to preface this review by admitting that I am no pizza connoisseur, but I ended up with quick, restaurant-style pizzas using the oven, largely thanks to its simplicity and easy-to-use design.\nThe oven plugs into a standard outdoor outlet and gets up to 700°F. It’s worth noting that although it’s electric, it’s not suitable for indoor use. \nIt features five pizza settings: Neapolitan, New York, Thin Crust, Pan Pizza, and Custom that you can quickly toggle between. It comes with a pizza stone that can cook 12-inch pizzas. While I found that the 12-inch size was perfect for me and my husband, some may wish for the option to make bigger pizzas when feeding a larger crowd.\nSince the oven has heating elements on both the top and bottom, pizzas cook evenly and consistently without needing to rotate the pie, manage a flame, or constantly babysit the cooking process, especially once you’ve gotten familiar with the different modes.\nImage Credits:Aisha Malik/TechCrunch\nJust like the cooking process, setup was quite easy. All I had to do was remove the oven and pizza stone from the box and packaging, plug it in, and start the preheating process. \nI first tested the Neapolitan setting, which cranks the oven to its max temperature of 700°F and can cook a pizza in just three minutes. It took about 20 minutes for the oven to preheat, and it emitted a beeping sound to let me know it was ready. I had my first pizza ready on the pizza peel that Ninja sent me alongside the oven (sold separately), and I was able to easily shimmy it onto the pizza stone inside the oven. \nAfter that, you just need to push the “start” button to begin cooking the pizza and begin the timer. While the pizza is cooking, you can adjust the timer using the dial if you want to cook it for a custom amount of time. \nWhile I did keep an eye on the pizza through the small front window and internal light to make sure it didn’t burn, the three-minute cook time ended up being perfect, leaving me with a pizza that had an airy crust, puffed edges, and light charring. The airy crust is something I was never able to achieve when making homemade pizzas in my standard kitchen oven. \nFor the subsequent Neapolitan pizzas that I made, I didn’t have to keep an eye on them and instead relied on the timer to beep and let me know when they were ready. \nIt’s worth noting that if you’re looking for that authentic wood-fired flavor, you won’t get that with this oven. But if you’re happy with consistent, reliable results, then this oven is perfect for you. \nImage Credits:Aisha Malik/TechCrunch\nI also tried the New York setting, which sets a lower temperature than the Neapolitan mode and has a longer cook time. I used this setting for a topping-heavy pizza to get an even bake and more doneness in the middle. With this setting, I got less of a char on the crust, which is what I was looking for. \nAs for cleaning the oven, it’s fairly straightforward and low maintenance since you don’t have to deal with soot from an open flame. The interior can be easily wiped down with a damp cloth to remove crumbs and any light messes. For the pizza stone itself, I scraped off debris after it cooled down, since you’re not supposed to use soap on a pizza stone because it’s porous and can absorb water and potentially crack or shatter when exposed to high heat.\nWhat I like most about the pizza oven is that homemade pizza nights no longer feel like a weekend-only activity. Before, making pizza at home felt like too much of a project for a weekday, so I saved it for occasional weekends. But with how fast and simple the Ninja Artisan oven is to use, homemade pizza now feels like something I can quickly make after work without it feeling like a task.\nI think the pizza oven is worth buying if you want to make restaurant-style pizza at home without the complexity of traditional pizza ovens. \nThe Ninja Artisan Pizza Oven costs $300 and comes in four colors: green and gold, blue and gold, black and gold, and dark gray. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing aisha@techcrunch.com or via encrypted message at aisha_malik.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
+      "headline": "This $300 pizza oven can easily help elevate your summer pizza nights",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/05/Scott-wu-headshot-e1780070238342.png?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/05/ninja-pizza-oven.jpg?w=150"
       ],
-      "datePublished": "2026-05-29T16:13:47.000Z",
-      "dateModified": "2026-05-29T16:13:47.000Z",
+      "datePublished": "2026-05-30T13:00:00.000Z",
+      "dateModified": "2026-05-30T13:00:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -341,6 +291,56 @@
       ],
       "datePublished": "2026-05-29T17:03:39.000Z",
       "dateModified": "2026-05-29T17:03:39.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "What happens when companies become too AI-pilled?",
+    "url": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/2244026103.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-05-29T17:57:05.000Z",
+    "description": "\n\t\t\n\nLoading the player…\n\nThe people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, ",
+    "body": "\n\t\t\n\nLoading the player…\n\nThe people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of “AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents, tech layoffs in 2026 are already nearly matching all of 2025, and DuckDuckGo installs are climbing from users who want Google to stop forcing AI into search and just give them links. \nWatch as TechCrunch’s Equity podcast hosts Kirsten Korosec, Anthony Ha, and Sean O’Kane dig into what happens when the AI-pilled and the AI-skeptical are both right at the same time, plus three deals worth knowing about and Waymo’s new robotaxi hitting the road. \nSubscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. You also can follow Equity on X and Threads, at @EquityPod. \n\n\t\t\n\tTopics\n\t\n\t\tAaron Levie, AI, AI agents, AI layoffs, ai psychosis, Amazon competition, AWS, Equity, openrouter, Snowflake, Stord, Waymo robotaxi\t\n\n\n\n\t\tTheresa Loconsolo is an audio producer at TechCrunch focusing on Equity, the network’s flagship podcast. Before joining TechCrunch in 2022, she was one of 2 producers at a four-station conglomerate where she wrote, recorded, voiced and edited content, and engineered live performances and interviews from guests like lovelytheband. Theresa is based in New Jersey and holds a bachelors degree in Communication from Monmouth University. You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n\n\t\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "What happens when companies become too AI-pilled?",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/10/2244026103.jpg?w=150"
+      ],
+      "datePublished": "2026-05-29T17:57:05.000Z",
+      "dateModified": "2026-05-29T17:57:05.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
+    "url": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Scott-wu-headshot-e1780070238342.png?w=150",
+    "tag": "Tech",
+    "date": "2026-05-29T16:13:47.000Z",
+    "description": "\nCognition CEO Scott Wu made headlines again this week when his two-year-old AI coding agent startup raised $1 billion at a $26 billion valuation. Cog",
+    "body": "\nCognition CEO Scott Wu made headlines again this week when his two-year-old AI coding agent startup raised $1 billion at a $26 billion valuation. Cognition is the maker of Devin, one of the first and, arguably, most successful AI coding agents. Devin, the CEO says, “naturally owns tasks end to end.”\nIn fact, in the blog post announcing that raise, Cognition laid out a vision where “we are shifting to a world of self-driving software development.”\nSo, could Devin replace, say, a mid-level L4 programmer? Yes, and no, Wu told TechCrunch. “We’ve never thought about it as replacing humans. I know it’s like a scenario, folks have said these things. It has never been our view.”\nIn this wild year of 2026 when every day another tech CEO announces layoffs in the name of supplanting workers with AI, Wu says he especially doesn’t want coders to lose their jobs. “We are all programmers ourselves,” he explained. “I started coding when I was nine.”\nIn fact, Wu has been called one of the most accomplished child competitive programmers of all time, according to a recent profile in Colossus. As a second-grader, Wu won a nationwide math competition for seventh-graders, which launched a childhood filled with math and programming tournaments. It also introduced him to other wunderkinds who went on to launch other AI tech startups, like Scale AI founder Alexandr Wang.\nSo, he tells TechCrunch, the idea was never to make human programmers obsolete.\n“When we started building Devin, it’s kind of a funny thing,” he mused, “but we really just thought of it as: this is your buddy who helps you build more.” In fact, he showed off a little stuffed animal holding a computer, his own Devin teddy bear of sorts, that he keeps on his desk. He thinks of it as a physical symbol of the Devin AI coder “This is my buddy that helps you build more.”\nWu doesn’t want AI agents to take the joy of programming away from people. \n“It’s not a secret, most software engineers love building software, right?” he said. “If you ask them why, what they’ll basically tell you is, ‘Well, it’s like I get to build things from nothing. I can make my whole idea that I have, and turn it into a product. I can turn it into an experience.’”\nJust like visual development environments abstracted software creation away from machine instructions, he views agents as another layer of abstraction between envisioning a software product and producing it.\nYet, Cognition says that Devin’s role in its own company is to ship nearly all the software. The company says that 89% of code committed by its engineers was committed by Devin, and the rest by local agents in Windsurf, the AI coding competitor it acquired last year.\nWu explains that his agent’s role is largely to do the kinds of long-tail maintenance tasks that many programmers don’t like to do anyway: bringing old software up to date; moving applications off one platform and onto another. Agents will free programmers “from a lot of the toil, and so they can do much more of the creation side,” he promises.\nSo Wu bristles at the idea of Devin “replacing” human coders. While he says it can work independently, it works at “somewhere between a junior and a mid-level engineer” depending on the task at hand.\nAs for the concept of self-driving software, where the agent learns and improves itself so that one day it will work at higher levels (“recursive” is the latest buzzword in AI these days), Wu says. “I think we are in for a wild ride.”\nHe sees agents entering other fields where they will learn tasks, from customer service to medicine, but hopes the goal will be to augment human workers in those areas, too.\n“Code and software has been the first to move, but we’ll see this happen in all these other industries,” he predicts. “One thing that’s been clear to us since the beginning is, it should always be up to the human what to do … you really see this in software engineering, but I think it’s true in all these other professions too.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/05/Scott-wu-headshot-e1780070238342.png?w=150"
+      ],
+      "datePublished": "2026-05-29T16:13:47.000Z",
+      "dateModified": "2026-05-29T16:13:47.000Z",
       "author": [
         {
           "@type": "Person",
