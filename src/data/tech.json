@@ -150,31 +150,6 @@
     }
   },
   {
-    "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
-    "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/11/github-copilot-chat-2.webp?w=150",
-    "tag": "Tech",
-    "date": "2026-05-30T16:30:00.000Z",
-    "description": "\nThe golden age of Microsoft’s Github Copilot appears to be at an end — for the little guy, at least. The company is switching its billing system from",
-    "body": "\nThe golden age of Microsoft’s Github Copilot appears to be at an end — for the little guy, at least. The company is switching its billing system from a flat subscription rate to a token-usage system that has the potential to bill users at a significantly higher rate. Bigger enterprises may still have the juice for it, but smaller companies and workers could find themselves wondering how they’re supposed to balance the monthly budget.   \nThe changes, which will take place June 1, mean that users will charged based on how many tokens they burn through as they work instead of a low flat rate based on requests.\nSome developers with financial whiplash have taken to places like Reddit and X to bemoan what — in many cases — appears to be a drastic escalation in cost. \n“What a joke,” one Redditor recently wrote, claiming that, while they currently only pay around $29 per month, the new rate will balloon their costs to nearly $750 a month. “This new usage model is just stupidly expensive. I’m adjusting mine by cancelling. At that cost, it is no longer cost-effective or useful in any practical way.”\nAnother user posted “WOW, didn’t expect new pricing model to be this ridiculous,” sharing a screenshot that appeared to show that their costs had shot up from around $50 to some $3,000. \nThe increases sound extreme. However, some Copilot users have bitten back at this criticism — noting that, if you know what you’re doing, you really shouldn’t be blowing through quite so many tokens on a regular basis. The people spending this much are vibe-coders with little actual development knowledge, those critics maintain.\n“The vast difference between some of us working all day and still barely having overage and then these screenshots. I struggle to believe it’s complexity differences in the workload,” wrote one user. “The only way it gets crazy like that is if you are purely ‘vibe coding’ with a ton of bloated iterations,” they later added. “It’s pretty affordable for even small outfits if used as a tool, on pretty much any provider.”\nOthers have focused on the mind-boggling economics behind the company’s previous model. “Holy fuck how much money was copilot losing,” one Redditor asked in a recent post.\nIt’s a good question.  \nThe economics behind Copilot have not always seemed so easy to grasp, and the amount that the company must have spent to subsidize the ongoing vibe-coding escapades of its user base is similarly mysterious and hidden from public view. \nWhile some have criticized the changes and others have critiqued those critiques, still other online voices have argued that developers have a perfectly good reason to be upset, given that Microsoft encouraged users to use its chatbot indiscriminately and now appear to be pulling the rug out from under them. \n“To all the people blaming…the people who actually used the system the way that Microsoft built it (and even encouraged it to be used this way), honestly the only one at fault here is Microsoft. Microsoft provided this billing method and they kept making it easier and easier to burn through massive numbers of tokens on single premium requests that could churn for hours or even days while spawning dozens or even hundreds of sub-agents,” one user wrote. \nTechCrunch reached out to Microsoft for comment, but did not hear back by publication time. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tLucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. \nYou can contact Lucas by emailing lucas.ropek@techcrunch.com.\t\n\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2023/11/github-copilot-chat-2.webp?w=150"
-      ],
-      "datePublished": "2026-05-30T16:30:00.000Z",
-      "dateModified": "2026-05-30T16:30:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Founders seize on Indian court ruling to revive criticism of Google’s ad business",
     "url": "https://techcrunch.com/2026/05/29/founders-seize-on-indian-court-ruling-to-revive-criticism-of-googles-ad-business/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2198713751.jpg?w=150",
@@ -200,22 +175,22 @@
     }
   },
   {
-    "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
-    "url": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Scott-wu-headshot-e1780070238342.png?w=150",
+    "title": "What happens when companies become too AI-pilled?",
+    "url": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/2244026103.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-05-29T16:13:47.000Z",
-    "description": "\nCognition CEO Scott Wu made headlines again this week when his two-year-old AI coding agent startup raised $1 billion at a $26 billion valuation. Cog",
-    "body": "\nCognition CEO Scott Wu made headlines again this week when his two-year-old AI coding agent startup raised $1 billion at a $26 billion valuation. Cognition is the maker of Devin, one of the first and, arguably, most successful AI coding agents. Devin, the CEO says, “naturally owns tasks end to end.”\nIn fact, in the blog post announcing that raise, Cognition laid out a vision where “we are shifting to a world of self-driving software development.”\nSo, could Devin replace, say, a mid-level L4 programmer? Yes, and no, Wu told TechCrunch. “We’ve never thought about it as replacing humans. I know it’s like a scenario, folks have said these things. It has never been our view.”\nIn this wild year of 2026 when every day another tech CEO announces layoffs in the name of supplanting workers with AI, Wu says he especially doesn’t want coders to lose their jobs. “We are all programmers ourselves,” he explained. “I started coding when I was nine.”\nIn fact, Wu has been called one of the most accomplished child competitive programmers of all time, according to a recent profile in Colossus. As a second-grader, Wu won a nationwide math competition for seventh-graders, which launched a childhood filled with math and programming tournaments. It also introduced him to other wunderkinds who went on to launch other AI tech startups, like Scale AI founder Alexandr Wang.\nSo, he tells TechCrunch, the idea was never to make human programmers obsolete.\n“When we started building Devin, it’s kind of a funny thing,” he mused, “but we really just thought of it as: this is your buddy who helps you build more.” In fact, he showed off a little stuffed animal holding a computer, his own Devin teddy bear of sorts, that he keeps on his desk. He thinks of it as a physical symbol of the Devin AI coder “This is my buddy that helps you build more.”\nWu doesn’t want AI agents to take the joy of programming away from people. \n“It’s not a secret, most software engineers love building software, right?” he said. “If you ask them why, what they’ll basically tell you is, ‘Well, it’s like I get to build things from nothing. I can make my whole idea that I have, and turn it into a product. I can turn it into an experience.’”\nJust like visual development environments abstracted software creation away from machine instructions, he views agents as another layer of abstraction between envisioning a software product and producing it.\nYet, Cognition says that Devin’s role in its own company is to ship nearly all the software. The company says that 89% of code committed by its engineers was committed by Devin, and the rest by local agents in Windsurf, the AI coding competitor it acquired last year.\nWu explains that his agent’s role is largely to do the kinds of long-tail maintenance tasks that many programmers don’t like to do anyway: bringing old software up to date; moving applications off one platform and onto another. Agents will free programmers “from a lot of the toil, and so they can do much more of the creation side,” he promises.\nSo Wu bristles at the idea of Devin “replacing” human coders. While he says it can work independently, it works at “somewhere between a junior and a mid-level engineer” depending on the task at hand.\nAs for the concept of self-driving software, where the agent learns and improves itself so that one day it will work at higher levels (“recursive” is the latest buzzword in AI these days), Wu says. “I think we are in for a wild ride.”\nHe sees agents entering other fields where they will learn tasks, from customer service to medicine, but hopes the goal will be to augment human workers in those areas, too.\n“Code and software has been the first to move, but we’ll see this happen in all these other industries,” he predicts. “One thing that’s been clear to us since the beginning is, it should always be up to the human what to do … you really see this in software engineering, but I think it’s true in all these other professions too.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "date": "2026-05-29T17:57:05.000Z",
+    "description": "\n\t\t\n\nLoading the player…\n\nThe people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, ",
+    "body": "\n\t\t\n\nLoading the player…\n\nThe people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of “AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents, tech layoffs in 2026 are already nearly matching all of 2025, and DuckDuckGo installs are climbing from users who want Google to stop forcing AI into search and just give them links. \nWatch as TechCrunch’s Equity podcast hosts Kirsten Korosec, Anthony Ha, and Sean O’Kane dig into what happens when the AI-pilled and the AI-skeptical are both right at the same time, plus three deals worth knowing about and Waymo’s new robotaxi hitting the road. \nSubscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. You also can follow Equity on X and Threads, at @EquityPod. \n\n\t\t\n\tTopics\n\t\n\t\tAaron Levie, AI, AI agents, AI layoffs, ai psychosis, Amazon competition, AWS, Equity, openrouter, Snowflake, Stord, Waymo robotaxi\t\n\n\n\n\t\tTheresa Loconsolo is an audio producer at TechCrunch focusing on Equity, the network’s flagship podcast. Before joining TechCrunch in 2022, she was one of 2 producers at a four-station conglomerate where she wrote, recorded, voiced and edited content, and engineered live performances and interviews from guests like lovelytheband. Theresa is based in New Jersey and holds a bachelors degree in Communication from Monmouth University. You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n\n\t\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
+      "headline": "What happens when companies become too AI-pilled?",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/05/Scott-wu-headshot-e1780070238342.png?w=150"
+        "https://techcrunch.com/wp-content/uploads/2025/10/2244026103.jpg?w=150"
       ],
-      "datePublished": "2026-05-29T16:13:47.000Z",
-      "dateModified": "2026-05-29T16:13:47.000Z",
+      "datePublished": "2026-05-29T17:57:05.000Z",
+      "dateModified": "2026-05-29T17:57:05.000Z",
       "author": [
         {
           "@type": "Person",
@@ -250,22 +225,22 @@
     }
   },
   {
-    "title": "What happens when companies become too AI-pilled?",
-    "url": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/10/2244026103.jpg?w=150",
+    "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
+    "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/11/github-copilot-chat-2.webp?w=150",
     "tag": "Tech",
-    "date": "2026-05-29T17:57:05.000Z",
-    "description": "\n\t\t\n\nLoading the player…\n\nThe people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, ",
-    "body": "\n\t\t\n\nLoading the player…\n\nThe people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of “AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents, tech layoffs in 2026 are already nearly matching all of 2025, and DuckDuckGo installs are climbing from users who want Google to stop forcing AI into search and just give them links. \nWatch as TechCrunch’s Equity podcast hosts Kirsten Korosec, Anthony Ha, and Sean O’Kane dig into what happens when the AI-pilled and the AI-skeptical are both right at the same time, plus three deals worth knowing about and Waymo’s new robotaxi hitting the road. \nSubscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. You also can follow Equity on X and Threads, at @EquityPod. \n\n\t\t\n\tTopics\n\t\n\t\tAaron Levie, AI, AI agents, AI layoffs, ai psychosis, Amazon competition, AWS, Equity, openrouter, Snowflake, Stord, Waymo robotaxi\t\n\n\n\n\t\tTheresa Loconsolo is an audio producer at TechCrunch focusing on Equity, the network’s flagship podcast. Before joining TechCrunch in 2022, she was one of 2 producers at a four-station conglomerate where she wrote, recorded, voiced and edited content, and engineered live performances and interviews from guests like lovelytheband. Theresa is based in New Jersey and holds a bachelors degree in Communication from Monmouth University. You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n\n\t\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n",
+    "date": "2026-05-30T16:30:00.000Z",
+    "description": "\nThe golden age of Microsoft’s Github Copilot appears to be at an end — for the little guy, at least. The company is switching its billing system from",
+    "body": "\nThe golden age of Microsoft’s Github Copilot appears to be at an end — for the little guy, at least. The company is switching its billing system from a flat subscription rate to a token-usage system that has the potential to bill users at a significantly higher rate. Bigger enterprises may still have the juice for it, but smaller companies and workers could find themselves wondering how they’re supposed to balance the monthly budget.   \nThe changes, which will take place June 1, mean that users will charged based on how many tokens they burn through as they work instead of a low flat rate based on requests.\nSome developers with financial whiplash have taken to places like Reddit and X to bemoan what — in many cases — appears to be a drastic escalation in cost. \n“What a joke,” one Redditor recently wrote, claiming that, while they currently only pay around $29 per month, the new rate will balloon their costs to nearly $750 a month. “This new usage model is just stupidly expensive. I’m adjusting mine by cancelling. At that cost, it is no longer cost-effective or useful in any practical way.”\nAnother user posted “WOW, didn’t expect new pricing model to be this ridiculous,” sharing a screenshot that appeared to show that their costs had shot up from around $50 to some $3,000. \nThe increases sound extreme. However, some Copilot users have bitten back at this criticism — noting that, if you know what you’re doing, you really shouldn’t be blowing through quite so many tokens on a regular basis. The people spending this much are vibe-coders with little actual development knowledge, those critics maintain.\n“The vast difference between some of us working all day and still barely having overage and then these screenshots. I struggle to believe it’s complexity differences in the workload,” wrote one user. “The only way it gets crazy like that is if you are purely ‘vibe coding’ with a ton of bloated iterations,” they later added. “It’s pretty affordable for even small outfits if used as a tool, on pretty much any provider.”\nOthers have focused on the mind-boggling economics behind the company’s previous model. “Holy fuck how much money was copilot losing,” one Redditor asked in a recent post.\nIt’s a good question.  \nThe economics behind Copilot have not always seemed so easy to grasp, and the amount that the company must have spent to subsidize the ongoing vibe-coding escapades of its user base is similarly mysterious and hidden from public view. \nWhile some have criticized the changes and others have critiqued those critiques, still other online voices have argued that developers have a perfectly good reason to be upset, given that Microsoft encouraged users to use its chatbot indiscriminately and now appear to be pulling the rug out from under them. \n“To all the people blaming…the people who actually used the system the way that Microsoft built it (and even encouraged it to be used this way), honestly the only one at fault here is Microsoft. Microsoft provided this billing method and they kept making it easier and easier to burn through massive numbers of tokens on single premium requests that could churn for hours or even days while spawning dozens or even hundreds of sub-agents,” one user wrote. \nTechCrunch reached out to Microsoft for comment, but did not hear back by publication time. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tLucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. \nYou can contact Lucas by emailing lucas.ropek@techcrunch.com.\t\n\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "What happens when companies become too AI-pilled?",
+      "headline": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/10/2244026103.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2023/11/github-copilot-chat-2.webp?w=150"
       ],
-      "datePublished": "2026-05-29T17:57:05.000Z",
-      "dateModified": "2026-05-29T17:57:05.000Z",
+      "datePublished": "2026-05-30T16:30:00.000Z",
+      "dateModified": "2026-05-30T16:30:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -341,6 +316,31 @@
       ],
       "datePublished": "2026-05-29T17:03:39.000Z",
       "dateModified": "2026-05-29T17:03:39.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
+    "url": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Scott-wu-headshot-e1780070238342.png?w=150",
+    "tag": "Tech",
+    "date": "2026-05-29T16:13:47.000Z",
+    "description": "\nCognition CEO Scott Wu made headlines again this week when his two-year-old AI coding agent startup raised $1 billion at a $26 billion valuation. Cog",
+    "body": "\nCognition CEO Scott Wu made headlines again this week when his two-year-old AI coding agent startup raised $1 billion at a $26 billion valuation. Cognition is the maker of Devin, one of the first and, arguably, most successful AI coding agents. Devin, the CEO says, “naturally owns tasks end to end.”\nIn fact, in the blog post announcing that raise, Cognition laid out a vision where “we are shifting to a world of self-driving software development.”\nSo, could Devin replace, say, a mid-level L4 programmer? Yes, and no, Wu told TechCrunch. “We’ve never thought about it as replacing humans. I know it’s like a scenario, folks have said these things. It has never been our view.”\nIn this wild year of 2026 when every day another tech CEO announces layoffs in the name of supplanting workers with AI, Wu says he especially doesn’t want coders to lose their jobs. “We are all programmers ourselves,” he explained. “I started coding when I was nine.”\nIn fact, Wu has been called one of the most accomplished child competitive programmers of all time, according to a recent profile in Colossus. As a second-grader, Wu won a nationwide math competition for seventh-graders, which launched a childhood filled with math and programming tournaments. It also introduced him to other wunderkinds who went on to launch other AI tech startups, like Scale AI founder Alexandr Wang.\nSo, he tells TechCrunch, the idea was never to make human programmers obsolete.\n“When we started building Devin, it’s kind of a funny thing,” he mused, “but we really just thought of it as: this is your buddy who helps you build more.” In fact, he showed off a little stuffed animal holding a computer, his own Devin teddy bear of sorts, that he keeps on his desk. He thinks of it as a physical symbol of the Devin AI coder “This is my buddy that helps you build more.”\nWu doesn’t want AI agents to take the joy of programming away from people. \n“It’s not a secret, most software engineers love building software, right?” he said. “If you ask them why, what they’ll basically tell you is, ‘Well, it’s like I get to build things from nothing. I can make my whole idea that I have, and turn it into a product. I can turn it into an experience.’”\nJust like visual development environments abstracted software creation away from machine instructions, he views agents as another layer of abstraction between envisioning a software product and producing it.\nYet, Cognition says that Devin’s role in its own company is to ship nearly all the software. The company says that 89% of code committed by its engineers was committed by Devin, and the rest by local agents in Windsurf, the AI coding competitor it acquired last year.\nWu explains that his agent’s role is largely to do the kinds of long-tail maintenance tasks that many programmers don’t like to do anyway: bringing old software up to date; moving applications off one platform and onto another. Agents will free programmers “from a lot of the toil, and so they can do much more of the creation side,” he promises.\nSo Wu bristles at the idea of Devin “replacing” human coders. While he says it can work independently, it works at “somewhere between a junior and a mid-level engineer” depending on the task at hand.\nAs for the concept of self-driving software, where the agent learns and improves itself so that one day it will work at higher levels (“recursive” is the latest buzzword in AI these days), Wu says. “I think we are in for a wild ride.”\nHe sees agents entering other fields where they will learn tasks, from customer service to medicine, but hopes the goal will be to augment human workers in those areas, too.\n“Code and software has been the first to move, but we’ll see this happen in all these other industries,” he predicts. “One thing that’s been clear to us since the beginning is, it should always be up to the human what to do … you really see this in software engineering, but I think it’s true in all these other professions too.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/05/Scott-wu-headshot-e1780070238342.png?w=150"
+      ],
+      "datePublished": "2026-05-29T16:13:47.000Z",
+      "dateModified": "2026-05-29T16:13:47.000Z",
       "author": [
         {
           "@type": "Person",
