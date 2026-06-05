@@ -1,30 +1,5 @@
 [
   {
-    "title": "A burglar used a Waymo to steal yoga clothes in San Francisco — and got away with it",
-    "url": "https://techcrunch.com/2026/06/04/a-burglar-used-a-waymo-to-steal-yoga-clothes-in-sf-and-got-away-with-it/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2259268884.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-06-04T16:16:37.000Z",
-    "description": "\nIn Brief\nPosted:\n9:16 AM PDT · June 4, 2026\n\nImage Credits:David Paul Morris/Bloomberg / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nA bu",
-    "body": "\nIn Brief\nPosted:\n9:16 AM PDT · June 4, 2026\n\nImage Credits:David Paul Morris/Bloomberg / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nA burglar used a Waymo while stealing yoga clothes in San Francisco this past January, and police have still not caught them.\nThat may sound counterintuitive given the widespread concern that Waymo vehicles and other robotaxis are rolling surveillance machines. But this curious case, reported by the San Francisco Chronicle on Thursday, sheds some new light on how Waymo handles the footage captured by its cars. \nWhile Waymo does capture and store ride footage, it’s not known how long that data is stored. What is sure, according to the report, is that it was gone “by the time the search warrant was filed in April.” Even more interesting is the detail that police were not able to identify the burglar through exterior camera footage because it had been “blurred for privacy reasons.”\nThe Waymo account data also apparently did not help. The burglar took the Waymo ride to a yoga studio called Hot 8 Yoga, where they entered, took the clothes, and got back in the robotaxi, according to the business’ own security footage. But the account information Waymo turned over to police as part of the search warrant “didn’t lead police to the suspect,” according to the Chronicle.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Transportation\n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "A burglar used a Waymo to steal yoga clothes in San Francisco — and got away with it",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2259268884.jpg?w=150"
-      ],
-      "datePublished": "2026-06-04T16:16:37.000Z",
-      "dateModified": "2026-06-04T16:16:37.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Waymo’s spent robotaxi batteries will be used as grid storage",
     "url": "https://techcrunch.com/2026/06/04/waymos-spent-robotaxi-batteries-will-be-used-as-grid-storage/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/01/waymo-mesa.jpg?w=150",
@@ -50,22 +25,47 @@
     }
   },
   {
-    "title": "Meta steals a tactic from Tesla and builds data centers in tents",
-    "url": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/meta-ai-icon-smartphone.jpg?w=150",
+    "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
+    "url": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+    "image": "https://techcrunch.com/wp-content/uploads/2017/05/gettyimages-652988834.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-06-04T19:33:09.000Z",
-    "description": "\nJust when you thought the AI data center boom couldn’t get any crazier, Meta has gone and built data centers in tents. The strategy appears to borrow",
-    "body": "\nJust when you thought the AI data center boom couldn’t get any crazier, Meta has gone and built data centers in tents. The strategy appears to borrow in equal parts from Tesla and xAI.\nIn a bid to cut construction time in half, Meta has built six tents — or “rapid deployment structures” as the company describes them — outside of New Albany, Ohio, according to Michael Thomas, founder of Cleanview, which tracks data center deployments.\nThomas’ findings aren’t totally new. Meta CEO Mark Zuckerberg spoke to The Information last year about his plan to use weatherproof tents to house the company’s multi-gigawatt data centers.\nBut Thomas’ images and review of local permits showcase the speed of construction and scale of the project. According to city permits reviewed by Thomas, Meta started building five 125,000-square-foot tents between April and June. The satellite images he shared in his post on X show the structures have all been built.\nThe use of tents is reminiscent of those Tesla built in the parking lot of its Fremont, California factory when it was rushing to roll out the Model 3. The site is also powered by 200 megawatts of modular gas turbines nearby, a tactic popularized by competitor xAI.\nInside the tents, AI chips, likely worth billions of dollars, will go about their business.\n\nMeta is building dozens of massive tents at campuses across the US, sticking billions of dollars of chips inside, and powering them with off-grid turbines. The AI race has officially entered its Mad Max phase.Over the last month, I reviewed hundreds of documents and satellite… pic.twitter.com/U8yDZUlEO0— Michael Thomas (@curious_founder) June 4, 2026\n\nThe tents have sprung up as Meta has struggled to release its AI models to developers. A recent report in The Wall Street Journal found that Meta’s latest model, Muse Spark, is complete, but the APIs that developers rely on to access it have been repeatedly delayed.\nMeta has said it intends to spend up to $145 billion on data centers and other capital expenditures. Wall Street hasn’t liked the sound of that, with Meta’s stock trading down 5% this year. Putting AI chips in tents is one way to trim the bill. \nTechCrunch has reached out to Meta for comment and will update this article if it responds. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tTim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor. \r\nDe Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.\r\nYou can contact or verify outreach from Tim by emailing tim.dechant@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-06-04T22:29:50.000Z",
+    "description": "\nIn Brief\nPosted:\n3:29 PM PDT · June 4, 2026\n\nImage Credits:Michael Nagle / Bloomberg / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nAirbnb",
+    "body": "\nIn Brief\nPosted:\n3:29 PM PDT · June 4, 2026\n\nImage Credits:Michael Nagle / Bloomberg / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nAirbnb CEO Brian Chesky has had enough of merely being an artificial intelligence kingmaker. He now plans to back a new AI lab of his own. The news, broken by Bloomberg and confirmed to TechCrunch by a person familiar with the situation, marks Chesky as one of many Silicon Valley machers who are unsatisfied with the models coming out of the frontier labs.\nWhile Airbnb has adopted AI coding tools, Chesky said last year it hasn’t struck an LLM partnership because existing products weren’t quite ready.\nStill, Chesky has plenty of insight. He met Sam Altman in 2006 through Y Combinator, which incubated Airbnb, and stayed in touch. When OpenAI took off, he began meeting regularly with Altman to offer advice about managing a hypergrowth tech company.\nChesky, who was reportedly considered a potential OpenAI board member, helped broker Altman’s return to power after its board of directors fired the CEO for lack of candor. Chesky advised Altman on public relations and rallied support for him among Silicon Valley bigwigs.\nNow, however, he appears to be entering competition with his mentee’s company.\nIt’s not clear what the focus of Chesky’s new AI lab will be, although the Bloomberg article mentions user interaction and design, areas that he has emphasized at Airbnb.\nThat’s not unlike what Brett Adcock is doing at Hark, the AI lab he launched late last year to develop a novel user interface for an AI assistant, although the startup is also emphasizing hardware products.\nChesky also won’t be going into “founder mode” at this operation; a person familiar with the situation says he will remain as Airbnb’s CEO and not lead the new lab himself. Whoever gets the job will have to contend not only with the other AI labs, but also with a founding chair (we presume) known as a micromanager.\nA representative for Airbnb and Chesky declined to comment. \n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in AI\n\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Meta steals a tactic from Tesla and builds data centers in tents",
+      "headline": "Airbnb’s Brian Chesky plans to launch a new AI lab",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/06/meta-ai-icon-smartphone.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2017/05/gettyimages-652988834.jpg?w=150"
       ],
-      "datePublished": "2026-06-04T19:33:09.000Z",
-      "dateModified": "2026-06-04T19:33:09.000Z",
+      "datePublished": "2026-06-04T22:29:50.000Z",
+      "dateModified": "2026-06-04T22:29:50.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "A burglar used a Waymo to steal yoga clothes in San Francisco — and got away with it",
+    "url": "https://techcrunch.com/2026/06/04/a-burglar-used-a-waymo-to-steal-yoga-clothes-in-sf-and-got-away-with-it/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2259268884.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-06-04T16:16:37.000Z",
+    "description": "\nIn Brief\nPosted:\n9:16 AM PDT · June 4, 2026\n\nImage Credits:David Paul Morris/Bloomberg / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nA bu",
+    "body": "\nIn Brief\nPosted:\n9:16 AM PDT · June 4, 2026\n\nImage Credits:David Paul Morris/Bloomberg / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nA burglar used a Waymo while stealing yoga clothes in San Francisco this past January, and police have still not caught them.\nThat may sound counterintuitive given the widespread concern that Waymo vehicles and other robotaxis are rolling surveillance machines. But this curious case, reported by the San Francisco Chronicle on Thursday, sheds some new light on how Waymo handles the footage captured by its cars. \nWhile Waymo does capture and store ride footage, it’s not known how long that data is stored. What is sure, according to the report, is that it was gone “by the time the search warrant was filed in April.” Even more interesting is the detail that police were not able to identify the burglar through exterior camera footage because it had been “blurred for privacy reasons.”\nThe Waymo account data also apparently did not help. The burglar took the Waymo ride to a yoga studio called Hot 8 Yoga, where they entered, took the clothes, and got back in the robotaxi, according to the business’ own security footage. But the account information Waymo turned over to police as part of the search warrant “didn’t lead police to the suspect,” according to the Chronicle.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Transportation\n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "A burglar used a Waymo to steal yoga clothes in San Francisco — and got away with it",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2259268884.jpg?w=150"
+      ],
+      "datePublished": "2026-06-04T16:16:37.000Z",
+      "dateModified": "2026-06-04T16:16:37.000Z",
       "author": [
         {
           "@type": "Person",
@@ -91,6 +91,56 @@
       ],
       "datePublished": "2026-06-04T16:00:00.000Z",
       "dateModified": "2026-06-04T16:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+    "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/55314412841_11b924318f_c.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-06-04T22:43:26.000Z",
+    "description": "\nPrivate investors have been falling over themselves to get a piece of Anthropic, given the AI model maker is growing at a dizzying pace. Multiple inv",
+    "body": "\nPrivate investors have been falling over themselves to get a piece of Anthropic, given the AI model maker is growing at a dizzying pace. Multiple investors told TechCrunch that the company’s $65 billion fundraise at a $965 billion valuation, announced last week, was greatly oversubscribed. Now, with that private demand still strong, Anthropic has revealed that it’s taking steps toward a public listing by filing confidentially for an IPO.\nCo-founder Daniela Amodei, speaking at the Bloomberg Tech conference on Thursday, said the decision comes down to capital. “It’s a really big upfront cost to train the models and to serve inference on them,” she said. “My guess is that over time, the sort of core set of companies that are working to advance the frontier are just going to need access to capital, and I think the public market is very well suited to that.”\nAnthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though. Companies such as Uber have said that while AI can deliver returns, not all of their AI spending has proven productive, raising the prospect that corporations could begin to rein in those budgets and slow growth across the sector.\nThat isn’t fazing Amodei, who believes businesses are still early in figuring out how to deploy AI effectively.\n“The use cases today, I expect will continue to be the primary driver of efficiency or creativity, whether that’s coding, financial services, legal, [or] health care,” she said. “But as the business community gets more familiar with the tools, we’re all going to learn together. My hope is that over time it’ll be more incorporated into the day-to-day of how humans do our work, and there will actually be a lot more value realized.”  \nAmodei also addressed why, unlike rivals OpenAI and Elon Musk’s xAI, Anthropic isn’t building its own data centers to meet the company’s growing compute needs.\n“Anthropic’s view has always been wanting to plan for the best outcome but not overextend ourselves such that we’re buying more compute than we could productively use,” she said. “It’s really hard to predict that perfectly. We would much prefer to be on the side of having a little bit more demand for the product than we’re able to serve than the inverse.”\nLast month, the company surprised the AI industry by partnering with xAI for compute capacity, a deal later disclosed in SpaceX’s S-1 filing to cost Anthropic $1.25 billion per month.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tMarina Temkin is a venture capital and startups reporter at TechCrunch. Prior to joining TechCrunch, she wrote about VC for PitchBook and Venture Capital Journal. Earlier in her career, Marina was a financial analyst and earned a CFA charterholder designation.\r\nYou can contact or verify outreach from Marina by emailing marina.temkin@techcrunch.com or via encrypted message at +1 347-683-3909 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/06/55314412841_11b924318f_c.jpg?w=150"
+      ],
+      "datePublished": "2026-06-04T22:43:26.000Z",
+      "dateModified": "2026-06-04T22:43:26.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+    "url": "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Apple-WWDC26-event-branding_big.jpg.large_.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-06-04T16:31:12.000Z",
+    "description": "\nAs Apple’s Worldwide Developers Conference, WWDC 2026, approaches, the excitement is building around what Apple has in store for us this year. From S",
+    "body": "\nAs Apple’s Worldwide Developers Conference, WWDC 2026, approaches, the excitement is building around what Apple has in store for us this year. From Siri’s overhaul to new Apple Intelligence updates, there’s a lot to look forward to.\nThe annual Worldwide Developers Conference kicks off Monday at 10 a.m. PT/1 p.m. ET. For those eager to tune in, the event will be streamed live via the Apple Developer app, Apple’s website, and the Apple Developer YouTube channel.\nSiri’s big AI makeover \nThe most anticipated announcement is a major AI upgrade to Siri, transforming it into a more conversational assistant capable of understanding context, handling multi-step tasks, and interacting more naturally across apps and services. The revamped Siri will leverage Google’s Gemini technology to enhance its capabilities.\nAdditionally, recent leaks from Bloomberg have unveiled a standalone Siri app that aims to compete with advanced AI chatbots like ChatGPT, Claude, and Gemini. Apple may also introduce a feature reminiscent of messaging apps, enabling users to set timers for automatically deleting conversations after 30 days, a year, or keeping them indefinitely.\nAI agent app store\nAccording to The Information, Apple plans to introduce an AI agent integration with the app store. While details are scarce, agents allow users to delegate tasks such as booking reservations, managing everyday tasks, editing documents, or controlling smart home devices.\nCamera and Photos apps\nA new “Visual Intelligence” section is anticipated to be introduced within the Camera app, taking the place of the previous Visual Intelligence feature found in the Camera Control button. This upgrade will introduce a dedicated Siri mode that exists next to options like Photo, Video, Portrait, and Panorama. The Visual Intelligence feature leverages Google Image Search to accurately identify objects captured by the user.\nIn addition, the Photos app is set to receive exciting enhancements powered by Apple Intelligence. These may include intelligent scene recommendations for optimizing photos, automatic object removal for cleaner images, and an innovative AI photo editing feature that allows users to request edits simply by using natural language, new productivity functionalities in visionOS.\nImage Playground updates\nApple is set to upgrade the Image Playground app, introducing higher-quality image generation, more artistic styles, better character consistency, and richer editing controls. The interface for creating new images will be simplified, offering fewer controls and a “describe a change” option for editing.\nAdditionally, we might see a suggested Genmoji feature that proposes custom emojis based on users’ media and text interactions. Users may also be able to generate AI wallpapers that reflect various themes and moods.\nApple Wallet\nNotable updates are rumored to be coming to the Wallet app, particularly a new bill-splitting feature that will simplify sharing expenses among friends or family. Users will be able to photograph a receipt and generate payment requests to different parties effortlessly.\nAlongside this, the Wallet app will also include a “Create a Pass” option that enables users to generate digital passes from physical items such as movie tickets, concert passes, or gym membership cards.\nMacOS, iPadOS, visionOS, watchOS, and tvOS updates\nApple is expected to enhance its AI-powered Siri experience across its devices, as well as likely incorporate more AI features and stability updates.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tLauren covers media, streaming, apps and platforms at TechCrunch.\nYou can contact or verify outreach from Lauren by emailing laurenf.techcrunch@gmail.com or via encrypted message at laurenforris22.25 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/03/Apple-WWDC26-event-branding_big.jpg.large_.jpg?w=150"
+      ],
+      "datePublished": "2026-06-04T16:31:12.000Z",
+      "dateModified": "2026-06-04T16:31:12.000Z",
       "author": [
         {
           "@type": "Person",
@@ -150,56 +200,6 @@
     }
   },
   {
-    "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
-    "url": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2245627953.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-06-03T22:56:51.000Z",
-    "description": "\n\t\n\t\tImage Credits:Bruno de Carvalho/SOPA Images/LightRocket / Getty Images\t\n\t\n\t\t\t\t\t\t3:56 PM PDT · June 3, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nLovable and Google ann",
-    "body": "\n\t\n\t\tImage Credits:Bruno de Carvalho/SOPA Images/LightRocket / Getty Images\t\n\t\n\t\t\t\t\t\t3:56 PM PDT · June 3, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nLovable and Google announced an expanded multiyear collaboration on Wednesday. Lovable, the fast-growing Stockholm vibe-coding startup, has long been a Google Cloud user. Under the new agreement, it will be a much bigger one.\nWhile the companies did not disclose the dollar figure, a person with knowledge of the deal tells TechCrunch it involves a fivefold increase in Lovable’s footprint on Google Cloud, including AI usage. As part of the deal, this individual tells us, Lovable will gain expanded access to both Anthropic’s Claude — the AI model widely used for coding tasks — and Google’s own Gemini models.\nThe Anthropic piece in particular is interesting. Google invested $10 billion in Anthropic in cash and compute credits in April, promising another $30 billion if Anthropic hits certain performance targets. It made that investment at a $350 billion valuation — just one month before Anthropic raised a staggering $65 billion round that valued the company at nearly $1 trillion. This deal stands to help Anthropic hit those targets, because Lovable is one of Europe’s fastest-growing startups on record. According to Lovable, it crossed $400 million in annualized revenue in February, having added $100 million in a single month with just 146 employees. The company claims that more than half of Fortune 500 companies use its product in some fashion.\nThe deal also plugs Lovable into several other parts of Google’s ecosystem. Lovable’s new agent will be available through Google Cloud’s enterprise agent marketplace, the Gemini Enterprise Agent Gallery — an arrangement the two companies first telegraphed at Google’s major U.S. cloud conference in April. And to help secure the code that both humans and agents write, Lovable will integrate with Wiz, Google’s biggest ever acquisition at $32 billion, which officially closed in March, a year after it was announced. The integration will allow Wiz to identify and remediate security problems in real time.\nBy selling Lovable’s agents through Google’s marketplace, the cloud giant says enterprise procurement and billing will be simplified, making it easier for Lovable to land more enterprise customers.\nThe calculus for Google is simple enough. If it can keep both Lovable and Anthropic growing by attracting deep-pocketed enterprises, the revenue helps fund the $180 billion to $190 billion in capital expenditures Google plans to spend this year. The company is already in the process of selling a record-breaking $85 billion in equity to cover some of that, so only another $100 billion or so to go.\n\n\t\t\t\n\tTopics\n\n\t\t\tWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\t\t",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2245627953.jpg?w=150"
-      ],
-      "datePublished": "2026-06-03T22:56:51.000Z",
-      "dateModified": "2026-06-03T22:56:51.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Quick-commerce FirstClub doubles valuation to $255M in 9 months",
-    "url": "https://techcrunch.com/2026/06/03/firstclub-doubles-valuation-to-255m-in-nine-months-on-quality-first-grocery-bet/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/firstclub.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-06-04T00:30:00.000Z",
-    "description": "\nIn a quick-commerce market obsessed with speed, Indian startup FirstClub has convinced investors that quality may be a fresh opportunity, helping to ",
-    "body": "\nIn a quick-commerce market obsessed with speed, Indian startup FirstClub has convinced investors that quality may be a fresh opportunity, helping to double its valuation just nine months after its last funding round.\nThe Bengaluru-based startup has raised $55 million in a Series B round co-led by Peak XV Partners and Sofina, valuing the company at $255 million after the investment. That’s up from $120 million when it last raised capital in September 2025. Existing investors Accel, RTP Global, and Paramark Ventures also participated. The latest financing brings FirstClub’s total funding to $86 million.\nAs grocery shopping increasingly moves online, India’s quick-commerce market has expanded rapidly, growing from about $6.2 billion in FY25 to an estimated $11 billion to $12 billion in FY26, according to a recent ICICI Securities report. Leading players have popularized online grocery shopping through ever-faster deliveries. However, FirstClub is wagering that a growing segment of consumers will prioritize quality and product curation over receiving orders as quickly as possible.\nFounded in 2024 by former Flipkart executive Ayyappan R, FirstClub operates a curated online grocery platform that offers around 4,000 products — roughly a third of the assortment carried by many quick-commerce rivals. The startup says it conducts quality checks on fresh produce, lab-tests certain staples, and works with brands to develop exclusive products, as it seeks to position itself as a trusted destination for groceries rather than a fast-delivery service.\n“People don’t need a very large selection, but they need the right quality selection, consistently delivered every single time,” Ayyappan said in an interview.\nFirstClub says more than 60% of its customer base consists of women-led households. Unlike many quick-commerce platforms, where staples such as onions, tomatoes, and potatoes dominate sales, Ayyappan said some of FirstClub’s top-selling products include avocados, persimmons, and Modi apples, reflecting demand for premium and curated grocery offerings.\nThe strategy appears to be resonating with early shoppers. FirstClub says it has crossed 1 million orders and acquired 170,000 households within a year of launching in Bengaluru.\nThe startup is currently operating at an annualized gross market value (meaning total of all goods sold on its platform) of about $50 million, with customers placing more than four orders a month on average and spending roughly ₹1,200  (about $13) per order, Ayyappan told TechCrunch.\nFirstClub plans to use the fresh capital to expand beyond Bengaluru, where it currently operates 21 stores, and deepen its presence in Hyderabad, where it recently launched with three locations. The startup, which employs about 220 people directly, also plans to expand into categories such as home and kitchen products, gifting, and other household essentials.\nPeak XV managing director GV Ravishankar said the firm believes India is seeing the emergence of a larger cohort of affluent, health-conscious consumers willing to pay for higher-quality products, creating space for specialized grocery platforms alongside mainstream quick-commerce players.\n“There will be a specific set of consumers who gravitate toward a better-quality platform that serves trustworthy products,” Ravishankar told TechCrunch. “As Indians become wealthier and more informed, there will be more and more people who make that choice.”\nRavishankar compared the trend to the rise of premium grocery chains in developed markets, arguing that India’s retail landscape is beginning to fragment beyond a one-size-fits-all approach centered on price and convenience.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tJagmeet covers startups, tech policy-related updates, and all other major tech-centric developments from India for TechCrunch. He previously worked as a principal correspondent at NDTV. \r\nYou can contact or verify outreach from Jagmeet by emailing mail@journalistjagmeet.com.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Quick-commerce FirstClub doubles valuation to $255M in 9 months",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/06/firstclub.jpg?w=150"
-      ],
-      "datePublished": "2026-06-04T00:30:00.000Z",
-      "dateModified": "2026-06-04T00:30:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Meta rolls out a new AI creator assistant on Facebook",
     "url": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/Introducing-Creator-Assistant-Plus-More-Languages-for-AI-Translations-on-Facebook_Header.jpg?w=150",
@@ -250,47 +250,22 @@
     }
   },
   {
-    "title": "Benchmark raises its first-ever growth fund as part of $2B capital haul",
-    "url": "https://techcrunch.com/2026/06/03/benchmark-raises-its-first-ever-growth-fund-as-part-of-2b-capital-raise/",
-    "image": "https://techcrunch.com/wp-content/uploads/2014/10/docker-peter-fenton-4.jpg?w=150",
+    "title": "Founders Fund launches game show starring Sam Altman, Palmer Luckey, and other tech elites",
+    "url": "https://techcrunch.com/2026/06/04/founders-fund-launches-game-show-starring-sam-altman-palmer-luckey-and-other-tech-elites/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2271655123.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-06-04T03:52:15.000Z",
-    "description": "\nBenchmark Capital, the storied Silicon Valley VC firm known for early investments in eBay, Snap, Uber, and Twitter, is breaking with one of its signa",
-    "body": "\nBenchmark Capital, the storied Silicon Valley VC firm known for early investments in eBay, Snap, Uber, and Twitter, is breaking with one of its signature traditions: keeping its funds to about $425 million and backing only young startups. After more than two decades of restricting its vehicles to that amount or lower, the outfit has closed on commitments of $2 billion across two new funds, including a $1.25 billion vehicle dedicated to later-stage investments, according to The Wall Street Journal.\nWhile the fund sizes of many venture capital firms have ballooned into billions of dollars over the last decade, Benchmark stuck to the strategy that helped make it legendary. By being staunchly selective and taking a large — typically 20% — stake in every startup the firm backed, it maintained a model designed to maximize outsized returns for its limited partners.\nBenchmark’s relatively small fund sizes have likely prevented the firm from investing in capital-intensive AI startups, particularly foundation model makers, whose round sizes often reach into hundreds of millions. As a result, the firm hasn’t invested in Anthropic, OpenAI, or any of the other capital-intensive AI labs, such as Periodic Labs, Reflection AI, or Recursive Superintelligence.\nStill, Benchmark has placed plenty of AI bets. The firm last year led a $75 million round in Manus, a Singapore-based AI agent platform that hit $100 million in annual recurring revenue within eight months of launching. Meta agreed to acquire Manus for roughly $2 billion late last year. Chinese regulators — arguing the company, which was founded in China before relocating to Singapore, had violated export control laws — blocked the deal in April. Meta nevertheless paid Benchmark, and Benchmark distributed proceeds from the transaction to its limited partners.\nBenchmark also backed enterprise customer-service agent platform Sierra and legal AI workspace Legora at inception; led the Series A rounds for AI hiring marketplace Mercor and Fireworks, a fast-inference platform for open source models; and participated in the Series B round for AI code editor Cursor.\nIn recent months, Benchmark has backed two other Series B startups: Gumloop, a platform that allows enterprises to create AI agents without writing code, and Monaco, an AI-native sales and CRM platform.\nBenchmark’s new $750 million early-stage fund will give the firm more flexibility to write checks in an environment where early-stage valuations have skyrocketed. While the firm has traditionally backed companies at the Series A stage, Benchmark has recently given itself more flexibility to invest in companies at other early stages of development.\nBenchmark general partner Everett Randle previously told TechCrunch that the firm looks to build a “meaningful and deep relationship with the entrepreneurs, and that can happen relatively early in the company’s lifecycle, at seed, [Series] A, at [Series] B.”\nThe firm dipped its toe into late-stage investing when it raised a $225 million special purpose vehicle (SPV) to participate in a $1 billion pre-IPO round for Cerebras, as TechCrunch reported earlier. Benchmark first led the chipmaker’s Series A in 2016. Cerebras held its IPO last month, returning Benchmark $3.25 billion at the IPO price.\nThat windfall prompted the firm to raise a dedicated growth fund. That new vehicle will make five to six large investments in both existing portfolio companies and new startups, according to a person familiar with Benchmark’s strategy.\nThe two new funds aren’t the only changes at Benchmark. Over the last two years, the firm has undergone a significant shift in its general partners.\nIn 2024, Miles Grimshaw left the firm to rejoin Thrive Capital. Then, last year, Sarah Tavel — Benchmark’s first and only female general partner to date — took on the less-involved role of venture partner, while Victor Lazarte departed to start his own VC firm.\nTo replenish its ranks, Benchmark — which traditionally runs with four to six general partners — added two new high-profile investors to its team: Randle, poached from Kleiner Perkins, and Jack Altman, the brother of OpenAI CEO Sam Altman. The moves suggest that even Benchmark, long defined by its resistance to growth, now sees the AI era as requiring a different playbook — more capital, more stages, and fresh blood at the partner table.\nCorrection: Due to an editing error, this piece originally stated that Benchmark’s investment in Manus remained in limbo. The story has been updated.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tMarina Temkin is a venture capital and startups reporter at TechCrunch. Prior to joining TechCrunch, she wrote about VC for PitchBook and Venture Capital Journal. Earlier in her career, Marina was a financial analyst and earned a CFA charterholder designation.\r\nYou can contact or verify outreach from Marina by emailing marina.temkin@techcrunch.com or via encrypted message at +1 347-683-3909 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-06-05T00:06:47.000Z",
+    "description": "\nHave you ever had the desire to see Sam Altman and Palmer Luckey square off over a moderately suspenseful card game? If so, you are in luck. \nSilicon",
+    "body": "\nHave you ever had the desire to see Sam Altman and Palmer Luckey square off over a moderately suspenseful card game? If so, you are in luck. \nSilicon Valley’s leaders are rushing to embrace the power of media for the purposes of marketing and political capital. Now, in a sign of the times, Founders Fund, the venture capital firm co-founded by Peter Thiel, has launched its own game show.\n“MAFIA the GAME,” will apparently be an ongoing thing, where prominent tech luminaries get together and face off over a game of cards (the show is named after the party-game favorite).\nThe spectacle is moderated by Pirate Wires editor Mike Solana (who is also the chief marketing officer at Founders Fund). The debut episode includes a who’s who of players — Sam Altman; Palmer Luckey; Bryan Johnson, the famed biohacker who will (according to him) live forever; and Moxie Marlinspike, the founder of encrypted chat app Signal.\n\n\n\n“I’m so f*cking bored with VC content,” Solana told Newcomer, which originally reported the show’s existence. “There has to be a more interesting way to get to know someone, and I think that this is a way more interesting way to get to know someone.”\nTechCrunch reached out to Founders Fund for more information on the program. \nIn many ways, having a reality-TV-esque platform is just good business these days. The internet has turned the world into a population of chronic media consumers, and the average American spends around 2.5 hours on social media per day. Much of that time is spent scrolling through an endless flood of advertising-laced memes and videos. \nIn the modern era, the road to power and influence is paved with infotainment.\nCompanies and executives have sought to take advantage of this new reality in different ways. OpenAI recently raised some eyebrows when it procured TBPN, the buzzy founder-led podcast. Meanwhile, a number of tech’s most prominent players have leveraged virality to their advantage. Johnson, for instance, has managed to grow his following through a very active (and quite bizarre) social media presence. Elon Musk, meanwhile, has also managed to leverage his public persona to go viral (although arguments could be made that his online presence has sometimes hurt rather than helped his businesses).\nThis trend has also spread to the startup space, where people like Cluely CEO Chungin “Roy” Lee have demonstrated the power of being a one-man viral hype machine.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tLucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. \nYou can contact Lucas by emailing lucas.ropek@techcrunch.com.\t\n\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Benchmark raises its first-ever growth fund as part of $2B capital haul",
+      "headline": "Founders Fund launches game show starring Sam Altman, Palmer Luckey, and other tech elites",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2014/10/docker-peter-fenton-4.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2271655123.jpg?w=150"
       ],
-      "datePublished": "2026-06-04T03:52:15.000Z",
-      "dateModified": "2026-06-04T03:52:15.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Defense tech is flooded with money, but who’s built to last?",
-    "url": "https://techcrunch.com/video/defense-tech-is-flooded-with-money-but-whos-built-to-last/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2220498811.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-06-03T20:51:41.000Z",
-    "description": "\n\t\t\n\nLoading the player…\n\nDefense tech is red hot right now. Anduril and Mach Industries just doubled and quadrupled their valuations, respectively, a",
-    "body": "\n\t\t\n\nLoading the player…\n\nDefense tech is red hot right now. Anduril and Mach Industries just doubled and quadrupled their valuations, respectively, and the U.S. government is proposing a 40% increase in defense budget. A wave of new startups is chasing those government contracts, but according to Ross Fubini, the venture investor who wrote Anduril’s first check, most of them will get lost in the Valley of Death between prototype contract and real production deal.  \nWatch as, on this episode of TechCrunch’s Equity podcast, Rebecca Bellan asks Fubini — the founder and managing partner of XYZ Venture Capital, built on the Palantir alumni network and now approaching $2B AUM — what separates the survivors from the rest. \nSubscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. You also can follow Equity on X and Threads, at @EquityPod. \n\n\t\t\n\tTopics\n\n\n\n\t\tTheresa Loconsolo is an audio producer at TechCrunch focusing on Equity, the network’s flagship podcast. Before joining TechCrunch in 2022, she was one of 2 producers at a four-station conglomerate where she wrote, recorded, voiced and edited content, and engineered live performances and interviews from guests like lovelytheband. Theresa is based in New Jersey and holds a bachelors degree in Communication from Monmouth University. You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n\n\t\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Defense tech is flooded with money, but who’s built to last?",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2220498811.jpg?w=150"
-      ],
-      "datePublished": "2026-06-03T20:51:41.000Z",
-      "dateModified": "2026-06-03T20:51:41.000Z",
+      "datePublished": "2026-06-05T00:06:47.000Z",
+      "dateModified": "2026-06-05T00:06:47.000Z",
       "author": [
         {
           "@type": "Person",
@@ -325,22 +300,22 @@
     }
   },
   {
-    "title": "Uber to put 500 data-collection vehicles on the road this year",
-    "url": "https://techcrunch.com/2026/06/03/uber-to-put-500-data-collection-vehicles-on-the-road-this-year/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/uber-hyundai.jpeg?w=150",
+    "title": "Meta steals a tactic from Tesla and builds data centers in tents",
+    "url": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/meta-ai-icon-smartphone.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-06-03T20:08:28.000Z",
-    "description": "\nUber revealed on Wednesday a prototype car that it plans to use to scoop up real-world driving data for its growing roster of autonomous vehicle part",
-    "body": "\nUber revealed on Wednesday a prototype car that it plans to use to scoop up real-world driving data for its growing roster of autonomous vehicle partners, including Avride, Waymo, and WeRide.\nThe vehicle is not some radical design. Rather, it’s a Hyundai Ioniq 5 fitted with an incredible number of sensors on the top and sides, as the company first told TechCrunch back in January. The sensor-laden vehicle may not look particularly groundbreaking, but it does mark a few milestones for the company. \nThis is the first vehicle Uber has assembled itself (with help from a partner) since the company sold its autonomous vehicle division to Aurora in 2020. It also represents progress on Uber’s new AV Labs division, which launched earlier this year to use sensor-equipped Uber cars to collect and then share data with its 30-and-counting autonomous vehicle technology partners. \nUber said Wednesday that it plans to roll out 500 of these kitted-out Hyundai EVs globally this year. That fleet will be able to collect “2 million miles per month of high-fidelity data” for robotaxis. Uber expects 50 of these vehicles to be on the road by the summer.\nThe Ioniqs are fitted with 14 cameras, eight solid-state lidar sensors, and nine radars through a partnership with Roush Performance, which will handle the vehicle retrofits. All of that data will be routed through Nvidia’s Dual Drive Thor autonomous vehicle computer. Uber appears open to changing that sensor suite, noting that it will continue to update it as its partners’ needs evolve. \nThis isn’t just a transfer of raw data, however. Uber said its aim is to develop the world’s most geographically diverse set of training data specifically geared towards autonomous driving. If successful, this dataset will give its AV partners a 360-degree, time synchronized stitched view that can be used to train self-driving software.\nThe company already has a head start. Uber told TechCrunch it has collected data from thousands of vehicles equipped with outward-facing cameras in dozens of cities that are operated by its fleet partners. Uber has also captured data from hundreds of Lucid Air vehicles used by its fleet partners in the U.S. and Europe over the past two years. \nUber’s AV Labs division is analyzing these two tranches of data and is preparing to collect even more with its modified Ioniq 5 vehicles, which will be used by its fleet partners.  \nThe AV Labs division is one component of Uber’s broader ambitions for autonomous vehicles. The company launched in February a division called Uber Autonomous Solutions that is designed to handle the day-to-day operations at a robotaxi, self-driving truck, or sidewalk delivery robot business. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n\n\n\n\t\tKirsten Korosec is a reporter and editor who has covered the future of transportation from EVs and autonomous vehicles to urban air mobility and in-car tech for more than a decade. She is currently the transportation editor at TechCrunch and co-host of TechCrunch’s Equity podcast. She is also co-founder and co-host of the podcast, “The Autonocast.” She previously wrote for Fortune, The Verge, Bloomberg, MIT Technology Review and CBS Interactive.\nYou can contact or verify outreach from Kirsten by emailing kirsten.korosec@techcrunch.com or via encrypted message at kkorosec.07 on Signal.\t\n\t\n\t\tView Bio \n\t\n\n\t",
+    "date": "2026-06-04T19:33:09.000Z",
+    "description": "\nJust when you thought the AI data center boom couldn’t get any crazier, Meta has gone and built data centers in tents. The strategy appears to borrow",
+    "body": "\nJust when you thought the AI data center boom couldn’t get any crazier, Meta has gone and built data centers in tents. The strategy appears to borrow in equal parts from Tesla and xAI.\nIn a bid to cut construction time in half, Meta has built six tents — or “rapid deployment structures” as the company describes them — outside of New Albany, Ohio, according to Michael Thomas, founder of Cleanview, which tracks data center deployments.\nThomas’ findings aren’t totally new. Meta CEO Mark Zuckerberg spoke to The Information last year about his plan to use weatherproof tents to house the company’s multi-gigawatt data centers.\nBut Thomas’ images and review of local permits showcase the speed of construction and scale of the project. According to city permits reviewed by Thomas, Meta started building five 125,000-square-foot tents between April and June. The satellite images he shared in his post on X show the structures have all been built.\nThe use of tents is reminiscent of those Tesla built in the parking lot of its Fremont, California factory when it was rushing to roll out the Model 3. The site is also powered by 200 megawatts of modular gas turbines nearby, a tactic popularized by competitor xAI.\nInside the tents, AI chips, likely worth billions of dollars, will go about their business.\n\nMeta is building dozens of massive tents at campuses across the US, sticking billions of dollars of chips inside, and powering them with off-grid turbines. The AI race has officially entered its Mad Max phase.Over the last month, I reviewed hundreds of documents and satellite… pic.twitter.com/U8yDZUlEO0— Michael Thomas (@curious_founder) June 4, 2026\n\nThe tents have sprung up as Meta has struggled to release its AI models to developers. A recent report in The Wall Street Journal found that Meta’s latest model, Muse Spark, is complete, but the APIs that developers rely on to access it have been repeatedly delayed.\nMeta has said it intends to spend up to $145 billion on data centers and other capital expenditures. Wall Street hasn’t liked the sound of that, with Meta’s stock trading down 5% this year. Putting AI chips in tents is one way to trim the bill. \nTechCrunch has reached out to Meta for comment and will update this article if it responds. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tTim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor. \r\nDe Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.\r\nYou can contact or verify outreach from Tim by emailing tim.dechant@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Uber to put 500 data-collection vehicles on the road this year",
+      "headline": "Meta steals a tactic from Tesla and builds data centers in tents",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/06/uber-hyundai.jpeg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/06/meta-ai-icon-smartphone.jpg?w=150"
       ],
-      "datePublished": "2026-06-03T20:08:28.000Z",
-      "dateModified": "2026-06-03T20:08:28.000Z",
+      "datePublished": "2026-06-04T19:33:09.000Z",
+      "dateModified": "2026-06-04T19:33:09.000Z",
       "author": [
         {
           "@type": "Person",
@@ -350,22 +325,47 @@
     }
   },
   {
-    "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
-    "url": "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Apple-WWDC26-event-branding_big.jpg.large_.jpg?w=150",
+    "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+    "url": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/StrictlyVC-NYC-2024.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-06-04T16:31:12.000Z",
-    "description": "\nAs Apple’s Worldwide Developers Conference, WWDC 2026, approaches, the excitement is building around what Apple has in store for us this year. From S",
-    "body": "\nAs Apple’s Worldwide Developers Conference, WWDC 2026, approaches, the excitement is building around what Apple has in store for us this year. From Siri’s overhaul to new Apple Intelligence updates, there’s a lot to look forward to.\nThe annual Worldwide Developers Conference kicks off Monday at 10 a.m. PT/1 p.m. ET. For those eager to tune in, the event will be streamed live via the Apple Developer app, Apple’s website, and the Apple Developer YouTube channel.\nSiri’s big AI makeover \nThe most anticipated announcement is a major AI upgrade to Siri, transforming it into a more conversational assistant capable of understanding context, handling multi-step tasks, and interacting more naturally across apps and services. The revamped Siri will leverage Google’s Gemini technology to enhance its capabilities.\nAdditionally, recent leaks from Bloomberg have unveiled a standalone Siri app that aims to compete with advanced AI chatbots like ChatGPT, Claude, and Gemini. Apple may also introduce a feature reminiscent of messaging apps, enabling users to set timers for automatically deleting conversations after 30 days, a year, or keeping them indefinitely.\nAI agent app store\nAccording to The Information, Apple plans to introduce an AI agent integration with the app store. While details are scarce, agents allow users to delegate tasks such as booking reservations, managing everyday tasks, editing documents, or controlling smart home devices.\nCamera and Photos apps\nA new “Visual Intelligence” section is anticipated to be introduced within the Camera app, taking the place of the previous Visual Intelligence feature found in the Camera Control button. This upgrade will introduce a dedicated Siri mode that exists next to options like Photo, Video, Portrait, and Panorama. The Visual Intelligence feature leverages Google Image Search to accurately identify objects captured by the user.\nIn addition, the Photos app is set to receive exciting enhancements powered by Apple Intelligence. These may include intelligent scene recommendations for optimizing photos, automatic object removal for cleaner images, and an innovative AI photo editing feature that allows users to request edits simply by using natural language, new productivity functionalities in visionOS.\nImage Playground updates\nApple is set to upgrade the Image Playground app, introducing higher-quality image generation, more artistic styles, better character consistency, and richer editing controls. The interface for creating new images will be simplified, offering fewer controls and a “describe a change” option for editing.\nAdditionally, we might see a suggested Genmoji feature that proposes custom emojis based on users’ media and text interactions. Users may also be able to generate AI wallpapers that reflect various themes and moods.\nApple Wallet\nNotable updates are rumored to be coming to the Wallet app, particularly a new bill-splitting feature that will simplify sharing expenses among friends or family. Users will be able to photograph a receipt and generate payment requests to different parties effortlessly.\nAlongside this, the Wallet app will also include a “Create a Pass” option that enables users to generate digital passes from physical items such as movie tickets, concert passes, or gym membership cards.\nMacOS, iPadOS, visionOS, watchOS, and tvOS updates\nApple is expected to enhance its AI-powered Siri experience across its devices, as well as likely incorporate more AI features and stability updates.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tLauren covers media, streaming, apps and platforms at TechCrunch.\nYou can contact or verify outreach from Lauren by emailing laurenf.techcrunch@gmail.com or via encrypted message at laurenforris22.25 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-06-04T21:30:00.000Z",
+    "description": "\nWith just two weeks to go, StrictlyVC Los Angeles is quickly approaching. On Thursday, June 18, at The Aerospace Corporation Campus in El Segundo, in",
+    "body": "\nWith just two weeks to go, StrictlyVC Los Angeles is quickly approaching. On Thursday, June 18, at The Aerospace Corporation Campus in El Segundo, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place across venture capital, defense technology, artificial intelligence, and advanced industry. Secure your spot here.\nFor executives navigating a rapidly changing technology landscape, StrictlyVC offers something increasingly difficult to find: direct access to the people building, funding, and shaping the next generation of companies. The conversations are candid, the audience is highly curated, and the insights extend far beyond what can be found in headlines, podcasts, or social media feeds.\nImage Credits:Slava Blazer Photography / TechCrunch\nWho’s taking the stage in Los Angeles\nThe evening begins with Ethan Thornton, founder of Mach Industries. In his session, “Built for a New Era of Defense Technology,” Thornton will share his perspective on building a hard tech company at speed and how advances in autonomy, manufacturing, and national security are transforming the defense sector. His story reflects a broader movement of founders tackling ambitious challenges in industries undergoing rapid change.\nThe conversation continues with Delian Asparouhov of Founders Fund and Saif Khawaja of Shinkei Systems. Together they will discuss the rise of physical AI and how developments in robotics, automation, and artificial intelligence are creating new opportunities to transform the physical world. Their discussion will offer insight into what it takes to build and scale breakthrough technologies beyond software alone.\nAlso joining the lineup is Carter Reum, co-founder and partner at M13. In his session, “Finding the Next Big Thing,” Reum will explore how AI is reshaping industries and how investors are moving beyond short-term hype to identify companies built for long-term durability. He will share his perspective on where innovation is creating the most meaningful opportunities and how venture investing is evolving as new categories emerge.\nImage Credits:Slava Blazer Photography / Flickr (opens in a new window)\nAdditional speakers and conversations will be announced soon as the StrictlyVC Los Angeles agenda continues to grow. Stay updated on the latest speaker announcements and event news.\nGrab your pass and join the conversation\nBeyond the conversations onstage, StrictlyVC Los Angeles is designed to bring together the people driving innovation across technology and venture capital. Throughout the evening, attendees will have opportunities to connect with founders, investors, and operators in an environment that encourages meaningful discussion and the exchange of ideas. Whether you are looking to expand your network, gain new perspectives, or discover emerging opportunities, the value of the event extends well beyond the scheduled sessions. Secure your spot here.\nImage Credits:TechCrunch\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+      "headline": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/03/Apple-WWDC26-event-branding_big.jpg.large_.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2025/04/StrictlyVC-NYC-2024.jpg?w=150"
       ],
-      "datePublished": "2026-06-04T16:31:12.000Z",
-      "dateModified": "2026-06-04T16:31:12.000Z",
+      "datePublished": "2026-06-04T21:30:00.000Z",
+      "dateModified": "2026-06-04T21:30:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Filtr is a new privacy tool that blocks ads in almost every iPhone and Mac app",
+    "url": "https://techcrunch.com/2026/06/04/filtr-is-a-new-privacy-tool-that-blocks-ads-in-almost-every-iphone-and-mac-app/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/ad-blocker-1609310276.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-06-04T21:44:09.000Z",
+    "description": "\nUsing an ad blocker is good for your security, privacy, and even the FBI recommends them to defend from online harms. But as much as ad blockers are ",
+    "body": "\nUsing an ad blocker is good for your security, privacy, and even the FBI recommends them to defend from online harms. But as much as ad blockers are great for cleaning up your browsing experience, these tools often do little to prevent the pervasive tracking from ads within apps.\nNow, thanks to a new feature in iOS 26 and macOS 26, one developer has built the first device-level ad blocker that works across all of Apple’s main products — iPhones, iPads, and Macs — and isn’t just limited to the browser.\nFiltr is a new tool created and maintained by Kaylee Serena Calderolla, the developer behind the popular Safari browser ad blocker Wipr. Wipr prevents ads from ever appearing in Safari, meaning that the ads won’t load, nor will their tracking code that advertisers use to follow you around the web and snoop on which websites you visit. The result is a cleaner browsing experience, free from advertisers watching over your online activity.\nFiltr is an additional paid-for feature bundled into Wipr that goes one step further than ad-blocking in the browser by blocking ads in iPhone, iPad, and Mac apps. Filtr does this by using a new feature embedded in the latest Apple software called URL filters, which lets developers block access to certain websites or domains at the network level, rather than just in the browser.\nI use ad blockers across various devices all the time (even if websites like this one ask that you switch them off). I have — full disclosure — used Wipr as my main ad blocker on my Apple devices for years as a paying customer. I also use ad blockers on other browsers on my desktop computers and make use of a Pi-hole ad blocker, a small server that sits on my network at home and prevents ads from reaching any of my devices connected to my home Wi-Fi. \nBut that still leaves my devices largely open to ads when I’m not on my home network, as well as the various apps that I use that are chock full of ads — including web browsers that aren’t Safari. \nAs you can imagine, I was keen to give Filtr a spin. Filtr particularly appealed because, as Calderolla states in her privacy policy, her apps “do not collect personal data.” Her apps also don’t need to access any personal information to work, and neither does Apple’s URL filter feature.\nFor me, it was a no-brainer — all upside, and no tradeoff. I paid for the $5 annual subscription, added the URL filter to my iPhone, and that was that. The relief was immediate. Every app I opened  loaded without its usual flood of ads. Some ad slots showed greyed placeholder spaces where the ads would have loaded.\nCalderolla told me this week that Filtr is the first app so far to utilize the URL filters feature; though, that may be in part because it was a “nightmare” to get it to work, some of which she described in a May blog post. Calderolla said that Apple’s documentation on the URL feature was sparse, requiring her to do much of the work to understand how to implement and use the feature.\nThe URL filter feature relies on an advertising blocklist that Calderolla maintains. Calderolla explained that Filtr consults a “pre-filter” blocklist that is stored on the user’s device and is kept constantly up-to-date via automatic updates in the Wipr app. The pre-filter list determines if a website is not on the block list and, most of the time, the website loads as normal. But if the pre-filter list finds that a website might be on the block list, it will quickly confirm against the list on Calderolla’s servers. Calderolla said that these requests are routed through Apple’s servers as a proxy so that app developers do not know who is querying their blocklists.\nThis means that you can set up Filtr once and generally never have to think about it again. (For a security or privacy product, that’s high praise.)\nThere are some caveats, but far from dealbreakers. No ad blocker is perfect, period, but minimizing exposure to the ad networks as much as possible is a major win for your privacy. Filtr does not always block ads that are served directly from the websites you visit. That means you may still see ads in the Facebook, Google, and Reddit apps, as well as any other app that serves ads from its own domain, as blocking these could break the apps altogether. Calderolla said, however, that Filtr can at times block these ads as the feature relies on filtering specific web addresses, rather than the entire domain. (Lifehacker also tested and reviewed Filtr and found that using their mobile websites instead of their apps will still allow Wipr to block the ads.)\nWipr is a universal app that costs $5 in the Apple App Store and works across all of your Apple devices. Filtr costs an additional $5 each year, or $25 for a one-time lifetime payment, via in-app purchase.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tZack Whittaker is the security editor at TechCrunch. He also authors the weekly cybersecurity newsletter, this week in security. \nHe can be reached via encrypted message at zackwhittaker.1337 on Signal. You can also contact him by email, or to verify outreach, at zack.whittaker@techcrunch.com. \t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Filtr is a new privacy tool that blocks ads in almost every iPhone and Mac app",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/06/ad-blocker-1609310276.jpg?w=150"
+      ],
+      "datePublished": "2026-06-04T21:44:09.000Z",
+      "dateModified": "2026-06-04T21:44:09.000Z",
       "author": [
         {
           "@type": "Person",
