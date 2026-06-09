@@ -1,5 +1,30 @@
 [
   {
+    "title": "CISA gives US federal agencies three days to fix a VPN bug under attack by a ransomware gang",
+    "url": "https://techcrunch.com/2026/06/09/cisa-gives-us-federal-agencies-three-days-to-fix-a-vpn-bug-under-attack-by-a-ransomware-gang/",
+    "image": "https://techcrunch.com/wp-content/uploads/2021/09/epik-hack-1.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-06-09T17:40:08.000Z",
+    "description": "\nIn Brief\nPosted:\n10:40 AM PDT · June 9, 2026\n\nImage Credits:Bryce Durbin / TechCrunch\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nA ransomware group i",
+    "body": "\nIn Brief\nPosted:\n10:40 AM PDT · June 9, 2026\n\nImage Credits:Bryce Durbin / TechCrunch\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nA ransomware group is actively exploiting an unpatched flaw in security tools used across the U.S. federal government, prompting the U.S. cybersecurity agency CISA to order all civilian agencies to remediate the vulnerability by end of day Wednesday.\nCybersecurity firm Check Point Software said the bug affects several of its remote access tools, firewalls, and VPNs, which act as digital gatekeepers to protect company networks from unauthorized access.\nThe company said in a separate blog post that it had confirmed the bug was being exploited by a known ransomware group called Qilin to hack into “a few dozen targeted organizations globally” that rely on the affected security tools.\nThe hacks began on May 7 but activity began to rise last week, per Check Point.\nGiven the risk to the federal government’s enterprise network, CISA on Monday ordered all civilian federal agencies — such as Homeland Security, the Department of State, and the Treasury — to fix any instances where agencies are using the affected products by end of day June 11. The agency cited BOD 22-01, its operational guidance memo that allows it to instruct agencies to take security action when there is an active cyber threat to government networks.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Security\n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "CISA gives US federal agencies three days to fix a VPN bug under attack by a ransomware gang",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2021/09/epik-hack-1.jpg?w=150"
+      ],
+      "datePublished": "2026-06-09T17:40:08.000Z",
+      "dateModified": "2026-06-09T17:40:08.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Apple’s foldable iPhone could be just around the corner",
     "url": "https://techcrunch.com/2026/06/09/apples-foldable-iphone-could-be-just-around-the-corner/",
     "image": "https://techcrunch.com/wp-content/uploads/2022/08/CMC_2923.jpg?w=150",
@@ -25,63 +50,13 @@
     }
   },
   {
-    "title": "CISA gives US federal agencies three days to fix a VPN bug under attack by a ransomware gang",
-    "url": "https://techcrunch.com/2026/06/09/cisa-gives-us-federal-agencies-three-days-to-fix-a-vpn-bug-under-attack-by-a-ransomware-gang/",
-    "image": "https://techcrunch.com/wp-content/uploads/2021/09/epik-hack-1.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-06-09T17:40:08.000Z",
-    "description": "\nIn Brief\nPosted:\n10:40 AM PDT · June 9, 2026\n\nImage Credits:Bryce Durbin / TechCrunch\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nA ransomware group i",
-    "body": "\nIn Brief\nPosted:\n10:40 AM PDT · June 9, 2026\n\nImage Credits:Bryce Durbin / TechCrunch\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nA ransomware group is actively exploiting an unpatched flaw in security tools used across the U.S. federal government, prompting the U.S. cybersecurity agency CISA to order all civilian agencies to remediate the vulnerability by end of day Wednesday.\nCybersecurity firm Check Point Software said the bug affects several of its remote access tools, firewalls, and VPNs, which act as digital gatekeepers to protect company networks from unauthorized access.\nThe company said in a separate blog post that it had confirmed the bug was being exploited by a known ransomware group called Qilin to hack into “a few dozen targeted organizations globally” that rely on the affected security tools.\nThe hacks began on May 7 but activity began to rise last week, per Check Point.\nGiven the risk to the federal government’s enterprise network, CISA on Monday ordered all civilian federal agencies — such as Homeland Security, the Department of State, and the Treasury — to fix any instances where agencies are using the affected products by end-of-day June 11. The agency cited BOD 22-01, its operational guidance memo that allows it to instruct agencies to take security action when there is an active cyber threat to government networks.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Security\n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "CISA gives US federal agencies three days to fix a VPN bug under attack by a ransomware gang",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2021/09/epik-hack-1.jpg?w=150"
-      ],
-      "datePublished": "2026-06-09T17:40:08.000Z",
-      "dateModified": "2026-06-09T17:40:08.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
-    "url": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/07/Worldcoin-Project-Co-founders-Alex-Blania-L-and-Sam-Altman-R.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-06-08T22:41:45.000Z",
-    "description": "\nIn Brief\nPosted:\n3:41 PM PDT · June 8, 2026\n\nImage Credits:Worldcoin (opens in a new window)\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nOpenAI announ",
-    "body": "\nIn Brief\nPosted:\n3:41 PM PDT · June 8, 2026\n\nImage Credits:Worldcoin (opens in a new window)\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nOpenAI announced on Monday that it confidentially filed for an IPO, marking what could become one of the defining public offerings of the decade. And then there’s OpenAI CEO Sam Altman’s other company, Tools for Humanity, which is reportedly conducting layoffs, according to Business Insider. TechCrunch has reached out to the company for confirmation.\nYou might know Tools for Humanity better through its verification project known as World — and its related device, a creepy silver orb that wants to scan your eyeballs. The idea is that the company will be able to verify people’s identities using unique iris scans, helping to distinguish human activity from bot activity in the increasingly automated world that Tools for Humanity co-founder and chairman Altman is constructing. The company would also use these scans to validate people’s identities to support the trade of its own cryptocurrency, Worldcoin.\nImage Credits:JUAN MABROMATA/AFP / Getty Images under a  license.\nThese vague, suspicious ambitions were enough to raise money at a $2.5 billion valuation from investors like Andreessen Horowitz, Bain Capital, and other funds backing blockchain companies. But now the company is reportedly downsizing as it struggles to create revenue.\nIn the U.S., companies like Tinder, Zoom, and Docusign have partnered on Altman’s side project. Internationally, Tools for Humanity has faced regulatory and ethical concerns. In Kenya, India, and Hong Kong, for example, people were offered the equivalent of $50 in Worldcoin in exchange for their biometric data. Kenya later banned World from operating in the country, citing privacy and financial concerns; meanwhile, South Korea fined the company $830,000 for allegedly violating local privacy law.\nWho would’ve thought? People don’t feel great about giving their biometric data to a startup in exchange for $50 worth of crypto.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nRelated\n\n\n\t\t\t\n\t\t\t\t\t\n\t\t\n\n\n\nLatest in AI\n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2023/07/Worldcoin-Project-Co-founders-Alex-Blania-L-and-Sam-Altman-R.jpg?w=150"
-      ],
-      "datePublished": "2026-06-08T22:41:45.000Z",
-      "dateModified": "2026-06-08T22:41:45.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "It’s not FAANG anymore. It’s MANGOS.",
     "url": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/Mango-crushing-fang.png?w=150",
     "tag": "Tech",
     "date": "2026-06-09T16:09:14.000Z",
-    "description": "\nIn Brief\nPosted:\n9:09 AM PDT · June 9, 2026\n\nImage Credits:TechCrunch\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nWith SpaceX about to break records w",
-    "body": "\nIn Brief\nPosted:\n9:09 AM PDT · June 9, 2026\n\nImage Credits:TechCrunch\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nWith SpaceX about to break records with an IPO on Friday, Anthropic about to break records with its pending IPO, and OpenAI racing to match or best its archrivals with its own potentially record-breaking IPO, the tech industry will soon have a new set of public company overlords.\nShould all these IPOs take place as planned, these companies will be replacing the vicious-sounding FAANG cabal — Facebook (now Meta), Amazon, Apple, Netflix, and Google (now Alphabet) — with the delightfully sweet-sounding (though truly sour and atrocious if consumed unripe) coterie MANGOS: Meta, Anthropic, Nvidia, Google, OpenAI, SpaceX.\nAs these companies go, so shall the whole tech industry, or so it’s looking like from the summer of 2026. \nThe new acronym was proposed by developer @krishdotdev and @lilscoot on X and is now going viral.\nOf course, FAANG is not exactly dead — Amazon and Netflix remain powerful — but streaming services and Amazon’s e-commerce business, if not its cloud, are perhaps less groundbreaking these days than the AI and agentic companies the tech industry is about to crown.\nTo that we say: Farewell to FAANG! Long live the MANGOS!\n(At least if they prove to be a nourishing foundation of a healthy economy powered by an upcoming autonomous AI age, and don’t usher in an unpalatable future where we all wind up jobless and broke.) \n\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Startups\n\n",
+    "description": "\nIn Brief\nPosted:\n9:09 AM PDT · June 9, 2026\n\nImage Credits:TechCrunch (AI-generated)\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nWith SpaceX about to ",
+    "body": "\nIn Brief\nPosted:\n9:09 AM PDT · June 9, 2026\n\nImage Credits:TechCrunch (AI-generated)\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nWith SpaceX about to break records with an IPO on Friday, Anthropic about to break records with its pending IPO, and OpenAI racing to match or best its archrivals with its own potentially record-breaking IPO, the tech industry will soon have a new set of public company overlords.\nShould all these IPOs take place as planned, these companies will be replacing the vicious-sounding FAANG cabal — Facebook (now Meta), Amazon, Apple, Netflix, Google (now Alphabet) — with the delightfully sweet-sounding (though truly sour and atrocious if consumed unripe) coterie MANGOS: Meta, Anthropic, Nvidia, Google, OpenAI, SpaceX.\nAs these companies go, so shall the whole tech industry, or so it’s looking like from the summer of 2026. \nThe new acronym was proposed by developer @krishdotdev and @lilscoot on X and is now going viral.\nOf course, FAANG is not exactly dead — Amazon and Netflix remain powerful — but streaming services and Amazon’s e-commerce business, if not its cloud, are perhaps less groundbreaking these days than the AI and agentic companies the tech industry is about to crown.\nTo that we say: Farewell to FAANG! Long live the MANGOS!\n(At least if they prove to be a nourishing foundation of a healthy economy powered by an upcoming autonomous AI age, and don’t usher in an unpalatable future where we all wind up jobless and broke.) \n\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Startups\n\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
@@ -91,6 +66,56 @@
       ],
       "datePublished": "2026-06-09T16:09:14.000Z",
       "dateModified": "2026-06-09T16:09:14.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Apple’s App Store rolls out personalized recommendations",
+    "url": "https://techcrunch.com/2026/06/09/apples-app-store-rolls-out-personalized-recommendations/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/01/app-store-2024-v2.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-06-09T14:30:17.000Z",
+    "description": "\nFinding a new app on Apple’s App Store is about to become less about browsing top charts or picking through curated collections from App Store editor",
+    "body": "\nFinding a new app on Apple’s App Store is about to become less about browsing top charts or picking through curated collections from App Store editors. This week, Apple announced a series of discovery features that will personalize app recommendations based on users’ interests and behavior, providing a new way for developers to have their app discovered.\nAt Apple’s Worldwide Developers Conference (WWDC), the iPhone maker introduced Personalized Collections in the App Store, which will showcase recommendations tailored to the individual. These will also include new “App Notes” that explain why the specific apps were recommended to you. Starting this week, you’ll find these new personalized suggestions in various places in the App Store, including the Apps or Games tab or on the Search tab.\nThe suggestions will also evolve over time based on a user’s app usage and downloads. \nThe feature will initially be available in English in the U.S., and will expand to other regions and languages over time, Apple says. It complements a range of other new tools designed to help developers better promote their apps to potential customers and encourage users to return to their apps and games.\nThe update reflects the maturity of the App Store ecosystem, where being featured by Apple’s App Store editors or being made “App of the Week” is no longer enough to drive guaranteed growth. As competition for users’ attention increases, a selection of new tools could help to re-engage existing customers, promote special offers, and package services together in new ways.\nFor instance, developers will now be able to use rich images and videos in their product page header and search results that can highlight their new content or seasonal offerings, which could encourage existing users to return to the app to see what’s new. They can also organize all their different marketing materials in a new Asset Library, where they can store regularly used assets for things like in-app events and special sales or promotions. Developers can also showcase special offers and engage players on the Apple Games app.\nApple will also allow App Bundles for developers running subscription businesses, allowing them to partner with other developers to offer groups of subscription apps for a lower price than if bought as separate subscriptions.\nUnder the new system, developers will also be able to sell subscriptions to larger groups and organizations using new options to build multi-user in-app purchase experiences.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Apple’s App Store rolls out personalized recommendations",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2024/01/app-store-2024-v2.jpg?w=150"
+      ],
+      "datePublished": "2026-06-09T14:30:17.000Z",
+      "dateModified": "2026-06-09T14:30:17.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
+    "url": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-09-at-11.40.18-AM.png?w=150",
+    "tag": "Tech",
+    "date": "2026-06-09T20:37:49.000Z",
+    "description": "\nAnthropic has released Claude Fable 5, the first publicly available version of its closely watched Mythos model. What can Fable actually do? All kind",
+    "body": "\nAnthropic has released Claude Fable 5, the first publicly available version of its closely watched Mythos model. What can Fable actually do? All kinds of things, it turns out.\nEthan Mollick, a notable AI researcher and University of Pennsylvania scholar, has been playing around with the model and seems to be having a lot of fun.\nIn his testing, Fable consistently “outperformed basically every other public model I have used by a considerable margin,” Mollick wrote Tuesday on his Substack. He added that it was “capable across many problems and produced some startling results — it would work up to a dozen hours executing on multi-page specifications.” \nPerhaps most strikingly, Mollick used Fable to create a variety of video games — all of which were generated via “one initial prompt” in Claude Code, the researcher says.\nAmong these, Snake is exactly what it sounds like. You’re a Pac-Man-like snake and you roam around eating apples. The snake never stops moving, and if you run off the screen, you die. It’s very 1980s arcade but, like many of those old games, it’s weirdly addicting. I played it longer than I’d like to admit before remembering I am a gainfully employed writer and not, in fact, a serpent who likes fruit.\nThen there was Strata, where you’re roaming around in a seemingly endless network of subterranean tunnels and the goal is just to light as many lanterns as possible. The graphics look like a degraded version of Myst — they aren’t great — but the fact that the game exists at all, generated from a single prompt, is impressive.\nMollick even managed to create Duino, a game based on the Duino Elegies, the celebrated cycle of poems by poet Rainer Maria Rilke. I like the animation here best — the player is a lone figure in a nocturnal landscape — although there isn’t much to the gameplay other than walking around while Rilke passages materialize on the screen.\nAside from the variety of instant games Mollick produced, he also used Fable to create an isochronic map — a visualization showing how long it takes to travel between any two locations. The accuracy and detail is arresting.\nThe implications are pretty clear. Software projects that once required entire teams — games, mapping tools, highly complex specifications — are now being spun up from a single prompt. It’s reason for vibe coders of the world to rejoice. As for founders and operators watching AI capability curves, it’s a useful data point about how quickly the floor is rising.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tLucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. \nYou can contact Lucas by emailing lucas.ropek@techcrunch.com.\t\n\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-09-at-11.40.18-AM.png?w=150"
+      ],
+      "datePublished": "2026-06-09T20:37:49.000Z",
+      "dateModified": "2026-06-09T20:37:49.000Z",
       "author": [
         {
           "@type": "Person",
@@ -150,72 +175,22 @@
     }
   },
   {
-    "title": "Apple’s App Store rolls out personalized recommendations",
-    "url": "https://techcrunch.com/2026/06/09/apples-app-store-rolls-out-personalized-recommendations/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/01/app-store-2024-v2.jpg?w=150",
+    "title": "GM joins race to build batteries for AI data centers and the grid",
+    "url": "https://techcrunch.com/2026/06/09/gm-bets-big-on-energy-storage-for-data-centers-and-the-grid/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/gm-headquarters-getty.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-06-09T14:30:17.000Z",
-    "description": "\nFinding a new app on Apple’s App Store is about to become less about browsing top charts or picking through curated collections from App Store editor",
-    "body": "\nFinding a new app on Apple’s App Store is about to become less about browsing top charts or picking through curated collections from App Store editors. This week, Apple announced a series of discovery features that will personalize app recommendations based on users’ interests and behavior, providing a new way for developers to have their app discovered.\nAt Apple’s Worldwide Developers Conference (WWDC), the iPhone maker introduced Personalized Collections in the App Store, which will showcase recommendations tailored to the individual. These will also include new “App Notes” that explain why the specific apps were recommended to you. Starting this week, you’ll find these new personalized suggestions in various places in the App Store, including the Apps or Games tab or on the Search tab.\nThe suggestions will also evolve over time based on a user’s app usage and downloads. \nThe feature will initially be available in English in the U.S., and will expand to other regions and languages over time, Apple says. It complements a range of other new tools designed to help developers better promote their apps to potential customers and encourage users to return to their apps and games.\nThe update reflects the maturity of the App Store ecosystem, where being featured by Apple’s App Store editors or being made “App of the Week” is no longer enough to drive guaranteed growth. As competition for users’ attention increases, a selection of new tools could help to re-engage existing customers, promote special offers, and package services together in new ways.\nFor instance, developers will now be able to use rich images and videos in their product page header and search results that can highlight their new content or seasonal offerings, which could encourage existing users to return to the app to see what’s new. They can also organize all their different marketing materials in a new Asset Library, where they can store regularly used assets for things like in-app events and special sales or promotions. Developers can also showcase special offers and engage players on the Apple Games app.\nApple will also allow App Bundles for developers running subscription businesses, allowing them to partner with other developers to offer groups of subscription apps for a lower price than if bought as separate subscriptions.\nUnder the new system, developers will also be able to sell subscriptions to larger groups and organizations using new options to build multi-user in-app purchase experiences.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-06-09T21:00:00.000Z",
+    "description": "\nThe race to secure power for AI data centers has spilled over into some unusual places, including the automotive world. \nBattery recycler Redwood Mat",
+    "body": "\nThe race to secure power for AI data centers has spilled over into some unusual places, including the automotive world. \nBattery recycler Redwood Materials kicked off the trend last year with a new energy storage division and a project that attached old EV packs to a Crusoe data center in Nevada. Then, Ford said it was repurposing some of its battery manufacturing capacity to make grid-scale batteries. And now GM is announcing its own — arguably more ambitious — plans for an energy storage system (ESS). \nGM unveiled on Tuesday two new phases in its attack on the energy storage market. The biggest swing by far is GM’s new partnership with energy storage startup Peak Energy. For that partnership, GM is developing an entirely new sodium-ion battery chemistry tailored for grid-scale deployments.\nOutside of China, no automaker has announced plans to build sodium-ion cells. \n“The way we’re getting into the market is the easy way, through ESS,” Kurt Kelty, vice president of battery and sustainability at GM, told TechCrunch. “The performance characteristics are just what is needed in that market.” \nGM wouldn’t share with TechCrunch how much money it is investing in this energy storage effort. But we do know the company has committed $900 million to commercialize new battery chemistries, an investment that includes a new battery development center.\nSodium-ion batteries work similarly to lithium-ion, but they swap out key materials to make the cells cheaper, longer lasting, and less prone to overheating. The tradeoff is that sodium-ion batteries need to be larger and heavier to store the same amount of electricity. \nPeak Energy has already been working on energy storage systems that use sodium-ion batteries. Because sodium-ion batteries behave differently from lithium-ion, Peak has developed an energy storage system with that in mind. Its grid-scale batteries don’t have cooling systems or fire suppression systems because there’s less risk of overheating. The setup reduces upfront costs, and it should also eliminate costly maintenance, Paul Menson, director of energy storage commercialization at GM, told TechCrunch. \n“This is the manifestation of the hardest part to engineer is no part at all,” he said. “Eliminate the part, eliminate the problem.”\nGM plans to sell sodium-ions cells to the startup, which will then integrate them into its products. But that won’t happen right away. \nThe first GM cells are expected to enter trial production at the company’s Battery Cell Development Center in 2028. TechCrunch was recently given an exclusive look at the new facility, which GM expects will cut about a year from the commercialization process for sodium-ion batteries, reducing costs in the process. \nGM’s sodium-ion cells are still years away from commercial production, however. In the meantime, the automaker will sell lithium iron phosphate (LFP) cells to LG Energy Solution for use in its energy storage systems. LG Energy Solution already works with GM through its Ultium joint venture, which makes batteries for the automaker’s EVs.\nAlongside the partnerships with LG and Peak, GM announced that it was expanding its work with Redwood Materials, the battery recycling and energy storage startup founded by former Tesla executive J.B. Straubel. \nRedwood already buys scrap from GM’s battery factories and used battery packs from its EVs. GM has a pipeline of around 10,000 packs it’s sending to Redwood, and the startup has been operating a 12 megawatt/63-megawatt-hour migrogrid using second-life packs at a Crusoe data center in Sparks, Nevada. GM said it is buying a 7.2 megawatt-hour Redwood system for use at one of its plants in Michigan, which it estimates will save it around $3 million over its lifetime.\nThe GM installation is “a step one” for Redwood, Cal Lankton, chief commercial officer for Redwood, told TechCrunch.\n Data centers, where Redwood already operates, and industrial sites like GM’s are “vastly different things,” he said. Where data centers might use batteries nearly continuously to absorb some of the power fluctuations from GPUs, industrial sites are more likely to use them to shave off peaks in power demand, which can lower monthly power bills, and use them to provide backup power in case of an outage.\n“The factory is really excited because now we’ve got a more reliable factory,” Kelty said. “Ultimately, we’ll be having similar installations like this at all of our factories. It just makes good economic sense.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tTim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor. \r\nDe Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.\r\nYou can contact or verify outreach from Tim by emailing tim.dechant@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Apple’s App Store rolls out personalized recommendations",
+      "headline": "GM joins race to build batteries for AI data centers and the grid",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/01/app-store-2024-v2.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/05/gm-headquarters-getty.jpg?w=150"
       ],
-      "datePublished": "2026-06-09T14:30:17.000Z",
-      "dateModified": "2026-06-09T14:30:17.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Apple says it may remove some apps from the App Store if they don’t attract users",
-    "url": "https://techcrunch.com/2026/06/09/apple-says-it-may-remove-apps-from-the-app-store-if-they-dont-attract-users/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/app-of-the-year.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-06-09T15:23:40.000Z",
-    "description": "\nApple is warning developers that some of their apps may not be able to call the App Store home forever. In its newly refreshed App Review Guidelines ",
-    "body": "\nApple is warning developers that some of their apps may not be able to call the App Store home forever. In its newly refreshed App Review Guidelines released this week, the tech giant said it may begin removing apps in certain well-established categories if they’re not “updated, improved, or attracting customers.” This marks a significant shift on Apple’s part, which earlier used to simply reject copycat apps or those in saturated categories.\nPreviously, Apple’s guidelines had cautioned developers not to pile on in categories that already had plenty of apps. The line, somewhat hilariously, had read: “The App Store has enough fart, burp, flashlight, fortune telling, dating, drinking games, and Kama Sutra apps, etc. already. We will reject these apps unless they provide a unique, high-quality experience.”\nThe updated text, released alongside Apple’s Worldwide Developers Conference (WWDC), warns developers against “opportunistically creating variants of existing app categories or popular apps.” The list now includes wallpaper apps, simple timers, and sound effects, in addition to dating apps, flashlight, and fortune-telling apps.\n“We may remove these apps from the App Store going forward if they are not updated, improved, or do not attract customers,” the guidelines state.\nThese apps, Apple explained, are “well established on the App Store,” and submissions will no longer be accepted unless they offer a “meaningfully different or improved” experience.\nThe change comes as Apple focuses on improving app discovery across its App Store. At WWDC, the company introduced personalized app recommendations and merchandising tools to help developers grow their businesses and re-engage existing users. Removing low-quality apps could help the App Store reduce clutter, making it easier for developers who are putting in the effort to have their apps discovered.\nIn addition, Apple called out apps like drinking games, Kama Sutra, fart and burp apps as “low-quality,” “mediocre,” and “low-effort,” warning that developers who repeatedly submit such apps may lose access to the Apple Developer Program entirely.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Apple says it may remove some apps from the App Store if they don’t attract users",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/12/app-of-the-year.jpg?w=150"
-      ],
-      "datePublished": "2026-06-09T15:23:40.000Z",
-      "dateModified": "2026-06-09T15:23:40.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Lovable says it has hit $500M in annualized revenue, with 1 million new projects a week",
-    "url": "https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2245627953.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-06-09T13:00:00.000Z",
-    "description": "\n\t\n\t\tImage Credits:Bruno de Carvalho/SOPA Images/LightRocket / Getty Images\t\n\t\n\t\t\t\t\t\t6:00 AM PDT · June 9, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nEurope’s fast-growing ",
-    "body": "\n\t\n\t\tImage Credits:Bruno de Carvalho/SOPA Images/LightRocket / Getty Images\t\n\t\n\t\t\t\t\t\t6:00 AM PDT · June 9, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nEurope’s fast-growing vibe-coding startup, Lovable, tells TechCrunch it has surpassed $500 million in annualized revenue run rate.\nLovable last discussed its revenue in February, when the company said it crossed $400 million. In August, 2024, Lovable said it could hit $1 billion in annualized revenue within 12 months. It may not be on track to double that figure by summer, but it is still reporting jaw-dropping growth; the company, founded in late 2023, hasn’t yet hit its three-year anniversary.\nThe company also claims it has been used to build over 50 million projects and says usage has accelerated to one million new projects a week. According to a survey of those projects that run on the company’s blog, Lovable says its users are primarily non-technical, yet are increasingly building software they intend to monetize or use in their businesses.\nIts users are founders, designers, and salespeople building websites and e-commerce storefronts, as well as internal tools like CRMs, inventory systems, and HR platforms, the company says.\nThat list tells a story. AI vibe-coding platforms have been seen as a threat to legacy SaaS software. Why buy expensive annual contracts when you can just vibe code it yourself? Lovable’s survey appears to offer some data that this is indeed happening. Of course, Lovable — and therefore most of the projects built on it — isn’t old enough to answer the harder question about vibe-coded software: Will such an approach prove short-lived? That’s because it’s not the initial building part that’s the problem — it’s the maintaining part.\nSoftware operates almost like a living organism: Even well-written, well-designed code that isn’t AI slop runs atop an ever-shifting stack of dependencies, third-party services, and infrastructure — all of which is constantly being updated, which means end-user software is always breaking. That’s why so many companies choose to buy instead of build. They want others to be responsible for keeping it running. We’ll have to see if Lovable and other vibe coders will transparently report abandoned projects as their platforms mature — aka the not-as-flattering stuff. If those abandonment rates are low, that will be the true indication that the so-called SaaSpocalypse is here and here to stay.\n\n\t\t\t\n\tTopics\n\n\t\t\tWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\t\t",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Lovable says it has hit $500M in annualized revenue, with 1 million new projects a week",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2245627953.jpg?w=150"
-      ],
-      "datePublished": "2026-06-09T13:00:00.000Z",
-      "dateModified": "2026-06-09T13:00:00.000Z",
+      "datePublished": "2026-06-09T21:00:00.000Z",
+      "dateModified": "2026-06-09T21:00:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -226,12 +201,12 @@
   },
   {
     "title": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
-    "url": "https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/",
+    "url": "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2279025960.jpg?w=150",
     "tag": "Tech",
     "date": "2026-06-09T17:00:00.000Z",
     "description": "\nAnthropic is bringing its most powerful AI model to the general public for the first time, but it’s doing it with guardrails. \nOn Tuesday, the AI fir",
-    "body": "\nAnthropic is bringing its most powerful AI model to the general public for the first time, but it’s doing it with guardrails. \nOn Tuesday, the AI firm launched Claude Fable 5, the first publicly available version of its Mythos model. Anthropic says Fable 5 excels at software engineering, knowledge work, and vision, but it comes with hard safety limits. In high-risk areas like cybersecurity, biology, chemistry, and distillation, the model blocks responses and falls back to Claude Opus 4.8.\nLaunched as a preview in April, Mythos was initially limited to a handful of partners due to cybersecurity concerns. Last week, Anthropic expanded access to hundreds of organizations across 15 countries, again focusing on organizations that manage critical infrastructure. \nNow, a version of that technology is available to anyone through Anthropic’s Claude API and consumption-based Enterprise plans. Access on subscriptions will roll out in stages: through June 22, Fable 5 is be included in Pro, Max, Team, and seat-based Enterprise plans at no extra cost. On June 23, Anthropic will pull Fable 5 from those plans, requiring usage credits going forward, with plans to restore it as a standard subscription feature as soon as possible. \nAnthropic is also deploying a new version of Mythos, called Mythos 5, to organizations that have already been approved to access the advanced model.\nFable’s launch comes as Anthropic prepares to enter the public markets, alongside OpenAI and Elon Musk’s SpaceX. It also follows the AI firm’s plea urging major global AI labs to establish a coordinated brake pedal on frontier AI development. Anthropic warned that systems are advancing so rapidly that they may soon achieve recursive self-improvement (RSI), autonomously improving themselves without human intervention. \nWary of what a Mythos-class model could do in the wrong hands, Anthropic says it stress-tested its classifiers with jailbreak attempts before releasing Fable 5. \n“Internally, we ran an external bug bounty that produced no universal jailbreaks in over 1,000 hours of testing. We then worked with external red-teaming orgs which also failed to find universal jailbreaks.”\nThat said, there could still be novel attacks remain possible. As a result, with the launch of Fable 5 and Mythos 5, Anthropic said it will require a 30-day retention on all traffic, even if enterprises previously had zero-retention agreements. Anthropic said it won’t use the data for training, only to “defend against complex and novel attacks, including new jailbreaks,” and “identify and reduce false positives.” The policy could set an industry precedent in which access to increasingly powerful models comes with mandatory data retention policies framed as a safety measure. \nFor those that continue to use the model, not every question will get a Fable 5 answer. Anthropic says the cases in which Fable has to defer to Opus 4.8 are rare, with early data showing at least 95% of Fable sessions running entirely on the model’s own responses. \nIn third-party testing, analytics company Hex said in a statement that Fable was the first to get a 90% on its core analytics benchmark of complex, long-running analytical tasks. \n“On the hardest questions, it shows strong judgement and attention to nuance,” Hex said.\nVibe-coding platform Base44 noted in a statement that Fable is better at “one-shotting full apps” and has excellent tool-calling. AI-powered workspace and agent platform Genspark said Fable beat every other model in its evaluations, and performed significantly better on tasks like UI design and game coding. \nPricing for both Fable 5 and Mythos 5 is $10 per million input tokens and $50 per million output tokens, double the price of Opus 4.8. That price alone might serve as a deterrent for widespread use.\nMany enterprises are growing critical of AI costs after seeing the bills come in or blowing through their yearly AI budgets early. Advanced models like Opus 4.8 can exacerbate those issues, with advanced reasoning skills that can split a single request into multiple tasks.\nAnthropic said it expects demand for Fable 5 to be very high and difficult to predict. And indeed some, like shopping rewards platform Rakuten, might think the upside is worth the price point. \n“At the highest effort, Fable reflects on and validates its own work,” Rakuten said in a statement. “For us, that’s what makes highly autonomous operations possible — the extra thinking pays for itself.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tRebecca Bellan is a senior reporter at TechCrunch where she covers the business, policy, and emerging trends shaping artificial intelligence. Her work has also appeared in Forbes, Bloomberg, The Atlantic, The Daily Beast, and other publications. \r\nYou can contact or verify outreach from Rebecca by emailing rebecca.bellan@techcrunch.com or via encrypted message at rebeccabellan.491 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "body": "\nAnthropic is bringing its most powerful AI model to the general public for the first time, but it’s doing it with guardrails. \nOn Tuesday, the AI firm launched Claude Fable 5, the first publicly available version of its Mythos model. Anthropic says Fable 5 excels at software engineering, knowledge work, and vision, but it comes with hard safety limits. In high-risk areas like cybersecurity, biology, chemistry, and distillation, the model blocks responses and falls back to Claude Opus 4.8.\nLaunched as a preview in April, Mythos was initially limited to a handful of partners due to cybersecurity concerns. Last week, Anthropic expanded access to hundreds of organizations across 15 countries, again focusing on organizations that manage critical infrastructure.\nNow a version of that technology is available to anyone through Anthropic’s Claude API and consumption-based Enterprise plans. Access on subscriptions will roll out in stages: Through June 22, Fable 5 will be included in Pro, Max, Team, and seat-based Enterprise plans at no extra cost. On June 23, Anthropic will pull Fable 5 from those plans, requiring usage credits going forward, with plans to restore it as a standard subscription feature as soon as possible.\nAnthropic is also deploying a new version of Mythos, called Mythos 5, to organizations that have already been approved to access the advanced model.\nFable’s launch comes as Anthropic prepares to enter the public markets, alongside OpenAI and Elon Musk’s SpaceX. It also follows the AI firm’s plea urging major global AI labs to establish a coordinated brake pedal on frontier AI development. Anthropic warned that systems are advancing so rapidly that they may soon achieve recursive self-improvement (RSI), autonomously improving themselves without human intervention. \nWary of what a Mythos-class model could do in the wrong hands, Anthropic says it stress-tested its classifiers with jailbreak attempts before releasing Fable 5. \n“Internally, we ran an external bug bounty that produced no universal jailbreaks in over 1,000 hours of testing. We then worked with external red-teaming orgs which also failed to find universal jailbreaks.”\nThat said, there could still be novel attacks. As a result, with the launch of Fable 5 and Mythos 5, Anthropic said it will require a 30-day retention on all traffic, even if enterprises previously had zero-retention agreements. The company said it won’t use the data for training and will use it only to “defend against complex and novel attacks, including new jailbreaks,” and “identify and reduce false positives.” The policy could set an industry precedent in which access to increasingly powerful models comes with mandatory data-retention policies framed as a safety measure.\nFor those who continue to use the model, not every question will get a Fable 5 answer. Anthropic says the cases in which Fable has to defer to Opus 4.8 are rare, with early data showing at least 95% of Fable sessions running entirely on the model’s own responses. \nIn third-party testing, analytics company Hex said in a statement that Fable was the first to get a 90% on its core analytics benchmark of complex, long-running analytical tasks. \n“On the hardest questions, it shows strong judgement and attention to nuance,” Hex said.\nVibe-coding platform Base44 noted in a statement that Fable is better at “one-shotting full apps” and has excellent tool-calling. AI-powered workspace and agent platform Genspark said Fable beat every other model in its evaluations and performed significantly better on tasks like UI design and game coding. \nPricing for both Fable 5 and Mythos 5 is $10 per million input tokens and $50 per million output tokens, double the price of Opus 4.8. That price alone might serve as a deterrent for widespread use.\nMany enterprises are growing critical of AI costs after seeing the bills come in or blowing through their yearly AI budgets early. Advanced models like Opus 4.8 can exacerbate those issues, with advanced reasoning skills that can split a single request into multiple tasks.\nAnthropic said it expects demand for Fable 5 to be very high and difficult to predict. And indeed some, like shopping rewards platform Rakuten, might think the upside is worth the price point. \n“At the highest effort, Fable reflects on and validates its own work,” Rakuten said in a statement. “For us, that’s what makes highly autonomous operations possible — the extra thinking pays for itself.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tRebecca Bellan is a senior reporter at TechCrunch where she covers the business, policy, and emerging trends shaping artificial intelligence. Her work has also appeared in Forbes, Bloomberg, The Atlantic, The Daily Beast, and other publications. \r\nYou can contact or verify outreach from Rebecca by emailing rebecca.bellan@techcrunch.com or via encrypted message at rebeccabellan.491 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
@@ -275,6 +250,56 @@
     }
   },
   {
+    "title": "Lovable says it has hit $500M in annualized revenue, with 1 million new projects a week",
+    "url": "https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2245627953.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-06-09T13:00:00.000Z",
+    "description": "\n\t\n\t\tImage Credits:Bruno de Carvalho/SOPA Images/LightRocket / Getty Images\t\n\t\n\t\t\t\t\t\t6:00 AM PDT · June 9, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nEurope’s fast-growing ",
+    "body": "\n\t\n\t\tImage Credits:Bruno de Carvalho/SOPA Images/LightRocket / Getty Images\t\n\t\n\t\t\t\t\t\t6:00 AM PDT · June 9, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nEurope’s fast-growing vibe-coding startup, Lovable, tells TechCrunch it has surpassed $500 million in annualized revenue run rate.\nLovable last discussed its revenue in February, when the company said it crossed $400 million. In August, 2024, Lovable said it could hit $1 billion in annualized revenue within 12 months. It may not be on track to double that figure by summer, but it is still reporting jaw-dropping growth; the company, founded in late 2023, hasn’t yet hit its three-year anniversary.\nThe company also claims it has been used to build over 50 million projects and says usage has accelerated to one million new projects a week. According to a survey of those projects that run on the company’s blog, Lovable says its users are primarily non-technical, yet are increasingly building software they intend to monetize or use in their businesses.\nIts users are founders, designers, and salespeople building websites and e-commerce storefronts, as well as internal tools like CRMs, inventory systems, and HR platforms, the company says.\nThat list tells a story. AI vibe-coding platforms have been seen as a threat to legacy SaaS software. Why buy expensive annual contracts when you can just vibe code it yourself? Lovable’s survey appears to offer some data that this is indeed happening. Of course, Lovable — and therefore most of the projects built on it — isn’t old enough to answer the harder question about vibe-coded software: Will such an approach prove short-lived? That’s because it’s not the initial building part that’s the problem — it’s the maintaining part.\nSoftware operates almost like a living organism: Even well-written, well-designed code that isn’t AI slop runs atop an ever-shifting stack of dependencies, third-party services, and infrastructure — all of which is constantly being updated, which means end-user software is always breaking. That’s why so many companies choose to buy instead of build. They want others to be responsible for keeping it running. We’ll have to see if Lovable and other vibe coders will transparently report abandoned projects as their platforms mature — aka the not-as-flattering stuff. If those abandonment rates are low, that will be the true indication that the so-called SaaSpocalypse is here and here to stay.\n\n\t\t\t\n\tTopics\n\n\t\t\tWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\t\t",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Lovable says it has hit $500M in annualized revenue, with 1 million new projects a week",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2245627953.jpg?w=150"
+      ],
+      "datePublished": "2026-06-09T13:00:00.000Z",
+      "dateModified": "2026-06-09T13:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Apple says it may remove some apps from the App Store if they don’t attract users",
+    "url": "https://techcrunch.com/2026/06/09/apple-says-it-may-remove-apps-from-the-app-store-if-they-dont-attract-users/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/app-of-the-year.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-06-09T15:23:40.000Z",
+    "description": "\nApple is warning developers that some of their apps may not be able to call the App Store home forever. In its newly refreshed App Review Guidelines ",
+    "body": "\nApple is warning developers that some of their apps may not be able to call the App Store home forever. In its newly refreshed App Review Guidelines released this week, the tech giant said it may begin removing apps in certain well-established categories if they’re not “updated, improved, or attracting customers.” Previously, the terms said Apple would simply reject copycat apps or those in saturated categories.\nThe earlier version of Apple’s guidelines had cautioned developers not to pile on in categories that already had plenty of apps. The line, somewhat hilariously, had read: “The App Store has enough fart, burp, flashlight, fortune telling, dating, drinking games, and Kama Sutra apps, etc. already. We will reject these apps unless they provide a unique, high-quality experience.”\nThe updated text, released alongside Apple’s Worldwide Developers Conference (WWDC), warns developers against “opportunistically creating variants of existing app categories or popular apps.” The list now includes wallpaper apps, simple timers, and sound effects, in addition to dating apps, flashlight, and fortune-telling apps.\n“We may remove these apps from the App Store going forward if they are not updated, improved, or do not attract customers,” the guidelines state.\nThese apps, Apple explained, are “well established on the App Store,” and submissions will no longer be accepted unless they offer a “meaningfully different or improved” experience.\nThe updated terms arrive as Apple focuses on improving app discovery across its App Store. At WWDC, the company introduced personalized app recommendations and merchandising tools to help developers grow their businesses and re-engage existing users. Removing low-quality apps helps the App Store reduce clutter, making it easier for developers who are putting in the effort to have their apps discovered.\nIn addition, Apple called out apps like drinking games, Kama Sutra, fart and burp apps as “low-quality,” “mediocre,” and “low-effort,” warning that developers who repeatedly submit such apps may lose access to the Apple Developer Program entirely.\nApple told TechCrunch that its existing App Store Improvements process offers developers notice when their apps are out of date or not being downloaded, so they can improve them before risking removal. \nIn other words, the new language in the App Store Guidelines clarifies that apps meeting the “fart app rule” could risk removal from the App Store, and Apple has given developers fair warning.\nUpdated after publication with info about Apple’s App Store Improvements process.  \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Apple says it may remove some apps from the App Store if they don’t attract users",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/12/app-of-the-year.jpg?w=150"
+      ],
+      "datePublished": "2026-06-09T15:23:40.000Z",
+      "dateModified": "2026-06-09T15:23:40.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
     "url": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/apple-siri-ai-use-cases.png?w=150",
@@ -300,6 +325,31 @@
     }
   },
   {
+    "title": "How an e-scooter founder raised $5 million to build space data centers",
+    "url": "https://techcrunch.com/2026/06/09/how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/satellite.png?w=150",
+    "tag": "Tech",
+    "date": "2026-06-09T12:00:00.000Z",
+    "description": "\nHere’s one metric for tracking SpaceX’s IPO later this week: The company has changed the venture industry’s perspective on long-term, capital-intensi",
+    "body": "\nHere’s one metric for tracking SpaceX’s IPO later this week: The company has changed the venture industry’s perspective on long-term, capital-intensive space so much that a talented founder with no space experience can fund a space data center company.\nOrbital, a new firm that emerged in May from a16z’s startup accelerator program Speedrun with a $5 million seed round, is the latest company promising to do inference in space — just as soon as Starship is flying regularly. Other investors include Basis Set, Human Element, Wayfinder, Antler, Anti Fund, Ascent, Rubik, Zero Knowledge Ventures, LYVC, Feld Ventures, New Legacy, FNDR, UpHonest, and Asterisk.\nFounder and CEO Euwyn Poon previously founded e-scooter company Spin in 2017 and sold it to Ford a year later, joining the automotive giant. When he was ready to start a new company, a16z’s Speedrun was eager to get on board, according to partner Andrew Chen, who told TechCrunch that Poon worked through several ideas before landing on space data centers.\nYou’re familiar with the pitch. There’s insatiable demand for AI compute, and deploying it is slow going on Earth. Why not head to space for limitless sunshine and limited environmental reviews? The main problem is the brutal economics of launching stuff into orbit, which currently leaves the business case unable to close.\nOrbital, like many of it competitors, is betting on SpaceX figuring out its Starship rocket and offering it to commercial customers. “We will get to full scale when Starship comes online,” Poon explained. The price of the Falcon 9, the current state of the art, “makes this not economically feasible.”\nFor now, Poon and company — which includes about a dozen folks in Los Angeles, with experience at Amazon LEO, SpaceX, and Northrop Grumman — are working toward a demo flight that will see the company fly an Nvidia Blackwell chip on a partner’s satellite to test Orbital’s radiation shielding and thermal management tech. In 2028, the company hopes to launch its first data-processing spacecraft with Nvidia’s Space-1 Vera Rubin-class GPUs.\nAt that point, the company wants to start doing piece-wise inference work, which would allow it to generate revenue with each satellite launched. That’s a similar path to rival data center startup Starcloud, which already has a GPU in orbit and plans to launch several more to generate income until Starship enables them to deploy their full constellation.\nOrbital’s goal is to deploy 10,000 satellites that provide a distributed gigawatt of computing power, with each satellite providing 100 kW of power. For comparison, Elon Musk said SpaceX expects its AI satellites to produce up to 150 kW, and Starcloud expects to field larger 200 kW-rated spacecraft to run chips.\nSome companies are too impatient to wait for Starship. Cowboy Space Company, another space data center startup backed by a16z, recently decided to start building its own rockets. Jeff Bezos’ space company Blue Origin also announced plans to launch data centers into space using its New Glenn launch vehicle.\nPoon is confident that the breadth of AI demand will allow many companies to succeed. “There’s so many lanes for companies in our space to pursue,” he told TechCrunch, before rattling off an array of choices that included companies pursuing different AI workloads, designs, and concepts of what a space data center looks like.\nChen said that Poon’s experience scaling up a company that deployed 250,000 scooters across 100 cities shows he can manage the tricky task of building an aerospace company. Over the long term, a project like this might take a decade and $5 billion or more, but Chen said venture firms are more comfortable with timelines like that.\n“This kind of thing would have sounded crazy 10 years ago when we were all building mobile apps,” he said. “Starting it in 2026 just lets you tap into all the energy and excitement that’s happening in the capital markets.”\nPoon found his way into the space data center business by a circuitous route. After leaving Ford, he bought a Nvidia A100 on a lark, co-locating it in a Santa Clara data center and serving open-weight models. That firsthand experience convinced him the value in delivering compute in the era of AI.\nNow he’s just got to put a couple thousand GPUs in space. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tTim Fernholz is a journalist who writes about technology, finance and public policy. He has closely covered the rise of the private space industry and is the author of  Rocket Billionaires: Elon Musk, Jeff Bezos and the New Space Race. Formerly, he was a senior reporter at Quartz, the global business news site, for more than a decade, and began his career as a political reporter in Washington, D.C. \nYou can contact or verify outreach from Tim by emailing tim.fernholz@techcrunch.com or via an encrypted message to tim_fernholz.21 on Signal.\r\n\t\n\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "How an e-scooter founder raised $5 million to build space data centers",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/06/satellite.png?w=150"
+      ],
+      "datePublished": "2026-06-09T12:00:00.000Z",
+      "dateModified": "2026-06-09T12:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "iOS 27 features we didn’t see onstage",
     "url": "https://techcrunch.com/2026/06/09/ios-27-features-we-didnt-see-on-stage/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/hero-vx-ios_2x.jpeg?w=150",
@@ -316,56 +366,6 @@
       ],
       "datePublished": "2026-06-09T15:06:12.000Z",
       "dateModified": "2026-06-09T15:06:12.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
-    "url": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Apple-iOS-27-demo.png?w=150",
-    "tag": "Tech",
-    "date": "2026-06-08T22:39:57.000Z",
-    "description": "\nThe vibe of Apple’s 2026 WWDC event felt like a spouse proudly listing all the items on a honey-do-list they’d finally completed. Rather than showcas",
-    "body": "\nThe vibe of Apple’s 2026 WWDC event felt like a spouse proudly listing all the items on a honey-do-list they’d finally completed. Rather than showcase something exciting and new, Apple launched the keynote detailing fixes to last year’s “Liquid Glass” design; an overhaul of its awful search function; improvements to its Playground feature; and so on.\nPerhaps most importantly, two years after promising but failing to launch a smarter Siri, Apple finally showed off an overhauled version of its AI-powered voice assistant.\nBut the most telling detail wasn’t what Apple announced. It was how it chose to show some things off. Many of the Apple Intelligence demoes featured someone standing, phone in hand, pressing buttons or using voice commands in real time, while another camera showed off the phone’s response.\nThese weren’t live onstage, anything-could-go wrong demos; they were pre-taped. But they looked far more like proof of working features than what Apple showed at WWDC 2024, when the company unveiled Apple Intelligence and a new Siri to the world through slickly produced videos that turned out to be more promise than product.\nApple WWDC 2026 iOS 27 demoImage Credits:Apple/screenshot\nThis demonstration style was noticed, with comments on X on Monday comparing today’s keynote to those 2024 so-called “vaporware” demos.\nApple said at that time that the features would be available soon to those who upgraded to the iPhone 15 Pro and newer devices with M1 chips or better. But by March 2025, Apple admitted to Daring Fireball that rolling out the features shown via production video was “going to take us longer than we thought to deliver.” Not long after, the Cupertino company faced a lawsuit in federal court alleging false advertising over the features shown at that 2024 event — a case that carried real reputational risk for a company whose brand has long been built on the promise that its products just work.\nLast month, Apple agreed to pay a $250 million settlement on the suit, without admitting wrongdoing.\nMonday’s presentation appeared designed, at least in part, to avoid a repeat. There were still plenty of fully produced videos of features, like the one showing how to adjust Siri’s voice and another demonstrating improved voice-to-text transcription. But many of the AI features were shown in this “live-like” format, with someone using the feature on an actual device. The implicit message being that these features work on actual devices, and you will soon have them.\nApple WWDC 2026 iOS 27 demoImage Credits:Apple/screenshot\nApple also is not requiring users to buy the latest iPhone to get these features. The new Siri will be available through the new iOS 27 on iPhone 15 Pro and Pro Max and all iPhone 16 models and later, according to the company. The current model is the iPhone 17, meaning most users who upgraded in the past couple of years won’t need to buy new hardware to get access.\nIt’s a concession, perhaps, that Apple won’t lock the features behind new devices to create upgrade pressure when it promised, two years ago, that such features would be available on iPhone 15.\nApple also said the new features will be available across its broader hardware lineup, including the iPad mini (A17 Pro), iPad models with M1 or later, MacBook Neo (A18 Pro), Mac models with M1 or later, Apple Vision Pro, Apple Watch Series 10 or later, Apple Watch Ultra 2 or later, and Apple Watch SE 3 when paired with an Apple Intelligence-enabled iPhone nearby.\nCatch up on WWDC 2026\nEverything announced, from start to finish\nSiri AI’s update, explained\nAll the new AI features coming to Apple Photos\nApple Intelligence’s updates coming this year\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/06/Apple-iOS-27-demo.png?w=150"
-      ],
-      "datePublished": "2026-06-08T22:39:57.000Z",
-      "dateModified": "2026-06-08T22:39:57.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Evotrex raises $30M to build the RV that doesn’t need a charging station",
-    "url": "https://techcrunch.com/2026/06/09/anker-backed-evotrex-raises-30m-to-build-its-off-grid-rv/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Evotrex-PG5_063.jpeg?w=150",
-    "tag": "Tech",
-    "date": "2026-06-09T09:00:00.000Z",
-    "description": "\nEvotrex has been around for just two years, but the startup is already planning to build and sell its first hybrid RV travel trailers next year, targ",
-    "body": "\nEvotrex has been around for just two years, but the startup is already planning to build and sell its first hybrid RV travel trailers next year, targeting around 1,000 units annually.\nTo get there, Evotrex has closed a $30 million Series A funding round, bringing its total raised to $46 million. Much of that came from a consortium of Chinese and Hong Kong-based investment firms, like GSR United Capital, Forebright Concerto Capital, TTGG Ventures, and Pegasus Capital, among others. Anker, the consumer electronics company, is among its seed investors.\nThe LA-based startup will need that capital to finish building and testing its RV, which it revealed at this year’s Consumer Electronics Show after emerging from stealth mode last year.\nIt will also need it to hold its ground in a crowded field of startups. Legacy manufacturers have been slow to get going. Thor’s first electric vehicle is going to rental fleets rather than dealerships, and Winnebago’s eRV2 has been in field testing since 2023 without reaching consumers. That gap has drawn a wave of startups, and Evotrex is racing to fill it first.\nCo-founder Alex Xiao told TechCrunch that he is excited about the competition, and is drawing on his experience as a product manager at Anker to help differentiate Evotrex.\n“We are not afraid of competition, competition is a good thing. We educate the market together, we grow the market together,” he said. “I think in the long term the strongest companies will have many things — you must be very good at product definition, R&D, and supply chain. You also need to be very good at distribution [and] service. Many things together. It’s a very complicated business.”\nSome RV startups like Lightship and Pebble are pushing all-electric travel trailers. Evotrex is one of the few that is building a hybrid system. Specifically, it’s an RV powered by a battery pack that can be recharged with an onboard gas engine — an approach commonly referred to as an “extended range electric vehicle,” or EREV. \nThe goal, Xiao said, is to create an RV that can really let people live off the grid for extended periods of time — something that’s hard to accomplish with an all-electric power source, or a gas engine that still requires an electric hookup.\nThis has apparently proven popular. Evotrex said that 90% of its existing order book is for the “fully loaded Premium trim” of its PG5 RV, which is priced at around $160,000. \nXiao said Evotrex has finished validating a functional version of its first RV, but needs the next 10 to 12 months to thoroughly test the PG5’s durability. It’s a known vulnerability in the industry. RVs have so many moving parts that mechanical integrity isn’t always a guarantee, and Xiao said Evotrex is taking it seriously. As evidence, he pointed to the fact that the company’s first service employee came on board half a year ago, while its first sales employee only joined this past month, suggesting that Evotrex is prioritizing its ability to support customers over the ability to sell to them.\nEvotrex still plans to manufacture its RVs in China and complete final assembly in California, and Xiao said he’s still locking down locations for both. But he believes a Los Angeles base will give Evotrex access to its target market, as well as a range of nearby climates that are useful for testing.\nXiao said he’s leaning on another lesson from Anker, one that helped that company skyrocket in popularity: focusing on the right customers, and getting them to evangelize the product.\n“The first thing is you need to find the real customer demand,” he said. “The second is you need to deliver a really good product, and third is: The customer will say the story for you.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Evotrex raises $30M to build the RV that doesn’t need a charging station",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/06/Evotrex-PG5_063.jpeg?w=150"
-      ],
-      "datePublished": "2026-06-09T09:00:00.000Z",
-      "dateModified": "2026-06-09T09:00:00.000Z",
       "author": [
         {
           "@type": "Person",
