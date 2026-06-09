@@ -25,31 +25,6 @@
     }
   },
   {
-    "title": "Apple bets cheaper AI will woo small developers",
-    "url": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/app-of-the-year.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-06-08T20:53:55.000Z",
-    "description": "\n\t\n\t\tImage Credits:Apple\t\n\t\n\t\t\t\t\t\t1:53 PM PDT · June 8, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nApple is hoping to draw in newer developers with lower AI infrastructure ",
-    "body": "\n\t\n\t\tImage Credits:Apple\t\n\t\n\t\t\t\t\t\t1:53 PM PDT · June 8, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nApple is hoping to draw in newer developers with lower AI infrastructure costs, the company announced during its developer keynote at its Worldwide Developers Conference on Monday. The tech giant said that developers with fewer than 2 million first-time App Store downloads will be able to use its Foundation Models running in Private Cloud Compute, with no cloud API cost.\n“It’s access to frontier-tier level intelligence with unparalleled privacy protections, because getting started exploring ideas shouldn’t be held back by infrastructure costs,” the presenter noted. \nThe “under 2 million” figure is another means of capturing the indie developer audience, similar to Apple’s efforts with the Small Business Program, where the company offers lower commission rates to smaller developers who are just starting to build their applications and aren’t yet earning millions.\nApple also noted that the Foundation Models framework is expanding this year to include image input and support for server models. That means the API can now integrate with the cloud model provider of developers’ choice, to ensure getting started with a large cloud model is as “accessible as possible,” as needed for more complex tasks, said Apple.\nThe move reflects a growing reality in the AI industry that experimentation is no longer cheap. By waiving infrastructure fees for smaller developers, Apple is positioning its models as a lower-cost alternative for those developers who don’t want to take on additional cloud bills. \nSmall developers aren’t the only ones tightening their belts these days. Tech giants like Meta and Amazon have discontinued their internal AI token usage leaderboards, where developers once competed to burn cash by experimenting with AI tools. Uber, meanwhile, recently said it had run through its 2026 AI budget in just four months, news that some have taken as a need for more fiscal responsibility when it comes to AI.\n\n\t\t\t\n\tTopics\n\n\t\t\tWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n\n\t\t",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Apple bets cheaper AI will woo small developers",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/12/app-of-the-year.jpg?w=150"
-      ],
-      "datePublished": "2026-06-08T20:53:55.000Z",
-      "dateModified": "2026-06-08T20:53:55.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Apple will let you build workflows using AI in its new Shortcuts app",
     "url": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/shortcuts-at-2.26.16-PM.jpg?w=150",
@@ -75,222 +50,22 @@
     }
   },
   {
-    "title": "Apple’s Photos app is getting new AI editing features",
-    "url": "https://techcrunch.com/2026/06/08/apples-photos-app-is-getting-new-ai-editing-features/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-2.07.32-PM.jpg?w=150",
+    "title": "Apple bets cheaper AI will woo small developers",
+    "url": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/app-of-the-year.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-06-08T18:36:04.000Z",
-    "description": "\n\t\n\t\tImage Credits:Screenshot/TechCrunch\t\n\t\n\t\t\t\t\t\t11:36 AM PDT · June 8, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nApple announced at WWDC 2026 on Monday that its Photos a",
-    "body": "\n\t\n\t\tImage Credits:Screenshot/TechCrunch\t\n\t\n\t\t\t\t\t\t11:36 AM PDT · June 8, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nApple announced at WWDC 2026 on Monday that its Photos app is getting a few new AI features that leverage Apple Intelligence.\nA new spatial “Reframe” feature will let users use AI to reframe images. For instance, if a user accidentally captures a sign above someone’s head, if the photo would have been more symmetrical by stepping slightly to the right, or if eye contact with a subject was missed by a fraction of a second, the new reframing tool can help fix all of these issues.\nUsers can touch and drag photos to adjust the perspective as if they had repositioned the camera in the original scene. Users can also preview the effect in real time. As the photo is being adjusted, a blur will appear around the edges of the original image, which will be filled later by Apple’s generative models.\nImage Credits:Screenshot/TechCrunch\nThe feature only generates new content to fill in the gaps where the perspective has been affected to ensure that the reframe photo stays consistent with the original scene.\nThe “Extend” tool expands images to give subjects more breathing room, or to straighten a crooked horizon without cropping out anything important. Users can pinch to zoom out, or adjust the crop to add more to the scene.\nThe app’s popular “Cleanup” tool is also getting an upgrade so users can remove distractions with better quality and more realistic infill with generative AI. The feature lets users tap, brush, or circle what they want to remove.\nCatch up on WWDC 2026\nEverything announced, from start to finish\nSiri AI’s update, explained\nAll the new AI features coming to Apple Photos\nApple Intelligence’s updates coming this year\n\n\t\t\t\n\tTopics\n\n\t\t\tWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\n\t\tAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing aisha@techcrunch.com or via encrypted message at aisha_malik.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n\n\t\t",
+    "date": "2026-06-08T20:53:55.000Z",
+    "description": "\n\t\n\t\tImage Credits:Apple\t\n\t\n\t\t\t\t\t\t1:53 PM PDT · June 8, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nApple is hoping to draw in newer developers with lower AI infrastructure ",
+    "body": "\n\t\n\t\tImage Credits:Apple\t\n\t\n\t\t\t\t\t\t1:53 PM PDT · June 8, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nApple is hoping to draw in newer developers with lower AI infrastructure costs, the company announced during its developer keynote at its Worldwide Developers Conference on Monday. The tech giant said that developers with fewer than 2 million first-time App Store downloads will be able to use its Foundation Models running in Private Cloud Compute, with no cloud API cost.\n“It’s access to frontier-tier level intelligence with unparalleled privacy protections, because getting started exploring ideas shouldn’t be held back by infrastructure costs,” the presenter noted. \nThe “under 2 million” figure is another means of capturing the indie developer audience, similar to Apple’s efforts with the Small Business Program, where the company offers lower commission rates to smaller developers who are just starting to build their applications and aren’t yet earning millions.\nApple also noted that the Foundation Models framework is expanding this year to include image input and support for server models. That means the API can now integrate with the cloud model provider of developers’ choice, to ensure getting started with a large cloud model is as “accessible as possible,” as needed for more complex tasks, said Apple.\nThe move reflects a growing reality in the AI industry that experimentation is no longer cheap. By waiving infrastructure fees for smaller developers, Apple is positioning its models as a lower-cost alternative for those developers who don’t want to take on additional cloud bills. \nSmall developers aren’t the only ones tightening their belts these days. Tech giants like Meta and Amazon have discontinued their internal AI token usage leaderboards, where developers once competed to burn cash by experimenting with AI tools. Uber, meanwhile, recently said it had run through its 2026 AI budget in just four months, news that some have taken as a need for more fiscal responsibility when it comes to AI.\n\n\t\t\t\n\tTopics\n\n\t\t\tWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n\n\t\t",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Apple’s Photos app is getting new AI editing features",
+      "headline": "Apple bets cheaper AI will woo small developers",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-2.07.32-PM.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2025/12/app-of-the-year.jpg?w=150"
       ],
-      "datePublished": "2026-06-08T18:36:04.000Z",
-      "dateModified": "2026-06-08T18:36:04.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Apple’s Health app can now tell you if you’re in perimenopause",
-    "url": "https://techcrunch.com/2026/06/08/apples-health-app-can-now-tell-you-if-youre-in-perimenopause/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/apple-health-perimenopause.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-06-08T18:03:05.000Z",
-    "description": "\n\t\n\t\tImage Credits:Apple\t\n\t\n\t\t\t\t\t\t11:03 AM PDT · June 8, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nApple is getting in on the hottest new trend in women’s health: perimeno",
-    "body": "\n\t\n\t\tImage Credits:Apple\t\n\t\n\t\t\t\t\t\t11:03 AM PDT · June 8, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nApple is getting in on the hottest new trend in women’s health: perimenopause. The company announced at its WWDC 2026 event on Monday that it’s adding perimenopause and menopause support to its existing cycle-tracking feature.\nApple has been pushing deeper into women’s health since 2019 when it added a cycle tracker to Apple Watch and iOS. The tracker lets women log key information about their menstrual cycle and fertility through its Health app.\nThis latest update embraces a topic that has gone mainstream, popping up everywhere from social media platforms like TikTok and Instagram to daytime TV shows like The Drew Barrymore Show. For Apple, that cultural moment points to both a product opportunity and a ballooning market: According to research published in the journal Menopause, an estimated 1.1 billion women worldwide were postmenopausal as of last year, and digital health tools targeting that demographic have attracted significant investment in recent years.\nIn February, for example, five-year-old Midi Health — which initially focused on perimenopause and menopause care — raised $100 million in a Series D round led by Goodwater Capital, reaching a $1 billion valuation.\nAccording to Apple’s Stacey Ford, vice president of OS Product Management, women can be able to receive notifications when their cycle patterns are suggestive of perimenopause.\nFord said the feature also allows users to log symptoms and read educational information, “so you can understand more about what’s going on with your body and be better prepared to talk to your doctor.”\n\n\t\t\t\n\tTopics\n\n\t\t\tWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\n\t\tKirsten Korosec is a reporter and editor who has covered the future of transportation from EVs and autonomous vehicles to urban air mobility and in-car tech for more than a decade. She is currently the transportation editor at TechCrunch and co-host of TechCrunch’s Equity podcast. She is also co-founder and co-host of the podcast, “The Autonocast.” She previously wrote for Fortune, The Verge, Bloomberg, MIT Technology Review and CBS Interactive.\nYou can contact or verify outreach from Kirsten by emailing kirsten.korosec@techcrunch.com or via encrypted message at kkorosec.07 on Signal.\t\n\t\n\t\tView Bio \n\t\n\n\t\t",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Apple’s Health app can now tell you if you’re in perimenopause",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/06/apple-health-perimenopause.jpg?w=150"
-      ],
-      "datePublished": "2026-06-08T18:03:05.000Z",
-      "dateModified": "2026-06-08T18:03:05.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Apple’s Image Playground doesn’t suck anymore",
-    "url": "https://techcrunch.com/2026/06/08/apples-image-playground-doesnt-suck-anymore/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-2.01.54-PM.png?w=150",
-    "tag": "Tech",
-    "date": "2026-06-08T18:38:07.000Z",
-    "description": "\nHave you ever used the Image Playground app on your iPhone? Probably not — and you might not even know that your phone has a built-in AI image-genera",
-    "body": "\nHave you ever used the Image Playground app on your iPhone? Probably not — and you might not even know that your phone has a built-in AI image-generation tool. That’s because until now, Image Playground has kind of sucked, generating AI imagery that simply isn’t as high-quality as what Apple’s competitors can make. At WWDC 2026 on Monday, Apple announced some necessary improvements to Image Playground.\nWhile we haven’t yet gotten to use the app, Apple’s presentation makes it seem like the company’s overall AI overhaul will make Apple Intelligence-powered apps, like Image Playground, perform a lot better.\nImage Credits:Apple\n“From stunning nature scenes to fun images using multiple people from your Photos library, you can also transform your photos into endless styles just by describing what you want in natural language, and with private cloud compute, your photos are never stored or shared, even with Apple,” said Apple Senior Director Leslie Ikemoto in a WWDC presentation.\nImage Credits:Apple\nAs an example, Ikemoto explained that if you’re throwing a birthday party for your friend, you can design an invitation by using Image Playground to create an image of your friend holding a cake. Then, you can use natural language prompting to add candles to the cake or change your friend’s outfit.\n“You also have more ways to use the images you create, like choosing the right dimensions for what you’re working on, including a landscape image for your small business’s website, or a portrait image for your flyer,” Ikemoto added.\nImage Credits:Apple\nBecause Image Playground is integrated across your device, you can also use it to generate lock screens, iMessage backgrounds, contact posters, and more.\nAI art is generally pretty corny, but at least Apple won’t use your private photos for AI training, unlike many of its competitors.\nCatch up on WWDC 2026\nEverything announced, from start to finish\nSiri AI’s update, explained\nAll the new AI features coming to Apple Photos\nApple Intelligence’s updates coming this year\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tAmanda Silberling is a senior writer at TechCrunch covering the intersection of technology and culture. She has also written for publications like Polygon, MTV, the Kenyon Review, NPR, and Business Insider. She is the co-host of Wow If True, a podcast about internet culture, with science fiction author Isabel J. Kim. Prior to joining TechCrunch, she worked as a grassroots organizer, museum educator, and film festival coordinator. She holds a B.A. in English from the University of Pennsylvania and served as a Princeton in Asia Fellow in Laos.\nYou can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Apple’s Image Playground doesn’t suck anymore",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-2.01.54-PM.png?w=150"
-      ],
-      "datePublished": "2026-06-08T18:38:07.000Z",
-      "dateModified": "2026-06-08T18:38:07.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
-    "url": "https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-2.02.26-PM.png?w=150",
-    "tag": "Tech",
-    "date": "2026-06-08T18:48:45.000Z",
-    "description": "\nApple today announced a slate of new Apple Intelligence updates across its apps at WWDC 2026, including tab management for Safari, one-tap password u",
-    "body": "\nApple today announced a slate of new Apple Intelligence updates across its apps at WWDC 2026, including tab management for Safari, one-tap password updating, cross-app context awareness, and AI-powered shortcut creation via natural language.\nSafari is getting AI-powered tab management that groups tabs by topic automatically. It can also suggest and add related tabs to an existing group. The company is also adding a page monitor to Safari that notifies you when it detects changes — useful for tracking prices, news stories, or anything time-sensitive. Apple said Safari can also create a custom extension using text prompts to modify a web page, a capability that until now required a developer.\nThe company is adding a way to update compromised passwords with one tap, with Apple handling the process on your behalf through AI and Safari — no manual login required.\nMessages is getting AI-powered reply suggestions and a new ability to surface photos based on a text description, so you can find what you’re looking for without scrolling. In Calendar, users can now type in natural language to create an event — just mention the people and the time, and Apple Intelligence handles the rest.\nPerhaps the most consequential update for power users: Apple said the Phone app can now pull context from other apps like Mail and Messages mid-call. If you’re on the phone with an airline, for instance, it can surface your flight details from your email in real time. It’s Apple’s answer to Google’s similar “Magic Cue” feature, and suggests that the AI assistant wars are increasingly being fought at the operating system level — with your personal data as the differentiator.\nThe company is also overhauling Shortcuts with AI-powered creation. Rather than manually stitching together a workflow step by step, users can now describe what they want in plain language and the app builds the shortcut automatically — effectively bringing vibe coding to the mainstream iPhone user.\nImage Playground is also getting a significant update, with easier natural-language editing and a new model capable of generating more photorealistic images. Users can tap, circle, or brush to select and edit individual objects, and can now adjust the dimensions of any generated image to fit different formats — a feature developers will likely use immediately once Apple opens image generation to third parties via a new API. The app is also gaining the ability to generate wallpapers and contact posters.\nFinally, Apple is updating its Photos cleanup tool with improved infill and higher-quality object removal, and adding an AI-powered expansion tool that can extend the edges of a photo. A new feature called Spatial Reframing lets you reposition the subject or objects within a frame — using on-device spatial models combined with an image-generation model to fill in the new perspective convincingly. Apple says it works on older photos too, which means your existing library is now a potential target for this kind of retroactive editing.\nCatch up on WWDC 2026\nEverything announced, from start to finish\nSiri AI’s update, explained\nAll the new AI features coming to Apple Photos\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-2.02.26-PM.png?w=150"
-      ],
-      "datePublished": "2026-06-08T18:48:45.000Z",
-      "dateModified": "2026-06-08T18:48:45.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Apple gives Siri its own dedicated app",
-    "url": "https://techcrunch.com/2026/06/08/apple-gives-siri-its-own-dedicated-app/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/apple-siri-wwdc-2026.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-06-08T18:33:42.000Z",
-    "description": "\n\t\n\t\tImage Credits:Apple\t\n\t\n\t\t\t\t\t\t11:33 AM PDT · June 8, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nAt WWDC 2026 on Monday, Apple unveiled the new AI-ified version of Siri ",
-    "body": "\n\t\n\t\tImage Credits:Apple\t\n\t\n\t\t\t\t\t\t11:33 AM PDT · June 8, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nAt WWDC 2026 on Monday, Apple unveiled the new AI-ified version of Siri — in what has been called the assistant’s biggest and most dramatic transformation in the company’s history.\nIn addition to the launch of its new Siri AI system, the personal assistant now has its own stand-alone app. The app is designed to serve as a warehouse of the user’s previous, archived conversations with the assistant. Much like the functionality of chatbots like ChatGPT or Claude, users can scroll through all of those previous conversations and re-visit a session.\nWhen a user opens a previous conversation, the app provides an overview of what was said so that users don’t have to read through the entire transcript. The app is also the place where users can launch a new conversation with the assistant. \nSiri now offers users a multi-function interface that mirrors other AI chatbots where users can enter text, upload documents and images, and access a voice mode, where you can speak directly to it.\nThe Siri app is designed to give users access to the assistant across Apple devices, including iOS, MacOS, and iPadOS. All of a user’s Siri conversations are synced privately with iCloud, per Apple’s typical privacy protections.    \nImage Credits:Apple\nThe dedicated app is obviously designed to give users a more organized way to interact with the assistant, as its powers become more extensive within Apple’s software.\nCatch up on WWDC 2026\nEverything announced, from start to finish\nSiri AI’s update, explained\nAll the new AI features coming to Apple Photos\nApple Intelligence’s updates coming this year\n\n\t\t\t\n\tTopics\n\n\t\t\tWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\n\t\n\t\tLucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. \nYou can contact Lucas by emailing lucas.ropek@techcrunch.com.\t\n\n\t\n\t\tView Bio \n\t\n\n\t\t",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Apple gives Siri its own dedicated app",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/06/apple-siri-wwdc-2026.jpg?w=150"
-      ],
-      "datePublished": "2026-06-08T18:33:42.000Z",
-      "dateModified": "2026-06-08T18:33:42.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Apple is fixing the headache of splitting the bill with its new Siri in Camera feature",
-    "url": "https://techcrunch.com/2026/06/08/apple-is-fixing-the-headache-of-splitting-the-bill-with-its-new-siri-in-camera-feature/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-1.49.10-PM-1.png?w=150",
-    "tag": "Tech",
-    "date": "2026-06-08T18:23:04.000Z",
-    "description": "\nThere’s nothing worse than going to a dinner with a big group of friends, opting out of drinking to save money, but then still having to pay for your",
-    "body": "\nThere’s nothing worse than going to a dinner with a big group of friends, opting out of drinking to save money, but then still having to pay for your friends’ espresso martinis when the group decides to split the bill evenly. You don’t want to come off cheap and make everyone wait while you recalculate the bill. Now, Apple has a solution for this, which it unveiled at WWDC 2026.\nWith the new feature, you can point your iPhone camera at a receipt. Then Siri mode in the Camera app will make each item selectable so that you can keep track of who got each item, and send people separate Apple Cash payment requests depending on what they actually ordered. Ideally, this feature should make bill splitting a less awkward and drawn-out experience.\n“If you’re grabbing a bite with friends and point your iPhone at the bill, then [you can] select what you ordered to split the tab with Apple Cash,” said Apple VP of Software Sebastien Marineau-Mes during Apple’s presentation.\nThis kind of bill-splitting was already available with apps like SplitWise or Tab, but realistically, these products never got that popular (at least in my experience; no one has ever offered to use one of those tools). Since Apple’s payment features exist within the architecture of native apps like iMessage, it feels more organic to send someone a payment request through an app that they don’t have to go out of their way to download.\nYou might also use another similar Siri mide in Camera feature while out to dinner — instead of pointing your camera at the bill, you can use it to see estimated nutrition information about the food you’re eating.\nCatch up on WWDC 2026\nEverything announced, from start to finish\nSiri AI’s update, explained\nAll the new AI features coming to Apple Photos\nApple Intelligence’s updates coming this year\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tAmanda Silberling is a senior writer at TechCrunch covering the intersection of technology and culture. She has also written for publications like Polygon, MTV, the Kenyon Review, NPR, and Business Insider. She is the co-host of Wow If True, a podcast about internet culture, with science fiction author Isabel J. Kim. Prior to joining TechCrunch, she worked as a grassroots organizer, museum educator, and film festival coordinator. She holds a B.A. in English from the University of Pennsylvania and served as a Princeton in Asia Fellow in Laos.\nYou can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Apple is fixing the headache of splitting the bill with its new Siri in Camera feature",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-1.49.10-PM-1.png?w=150"
-      ],
-      "datePublished": "2026-06-08T18:23:04.000Z",
-      "dateModified": "2026-06-08T18:23:04.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
-    "url": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Apple-iOS-27-demo.png?w=150",
-    "tag": "Tech",
-    "date": "2026-06-08T22:39:57.000Z",
-    "description": "\nThe vibe of Apple’s 2026 Worldwide Developers Conference felt like a spouse proudly listing all the items on a honey-do-list they’d finally completed",
-    "body": "\nThe vibe of Apple’s 2026 Worldwide Developers Conference felt like a spouse proudly listing all the items on a honey-do-list they’d finally completed. Rather than showcase something exciting and new, Apple launched the keynote detailing fixes to last year’s “Liquid Glass” design; an overhaul of its awful search function; improvements to its Playground feature; and so on.\nPerhaps most importantly, two years after promising but failing to launch a smarter Siri, Apple finally showed off an overhauled version of its AI-powered voice assistant.\nBut the most telling detail wasn’t what Apple announced. It was how it chose to show some things off. Many of the Apple Intelligence demoes featured someone standing, phone in hand, pressing buttons or using voice commands in real time, while another camera showed off the phone’s response.\nThese weren’t live onstage, anything-could-go wrong demos; they were pre-taped. But they looked far more like proof of working features than what Apple showed at WWDC 2024, when the company unveiled Apple Intelligence and a new Siri to the world through slickly produced videos that turned out to be more promise than product.\nApple WWDC 2026 iOS 27 demoImage Credits:Apple/screenshot\nThis demonstration style was noticed, with comments on X on Monday comparing today’s keynote to those 2024 so-called “vaporware” demos.\nApple said at that time that the features would be available soon to those who upgraded to the iPhone 15 Pro and newer devices with M1 chips or better. But by March 2025, Apple admitted to Daring Fireball that rolling out the features shown via production video was “going to take us longer than we thought to deliver.” Not long after, the Cupertino company faced a lawsuit in federal court alleging false advertising over the features shown at that 2024 event — a case that carried real reputational risk for a company whose brand has long been built on the promise that its products just work.\nLast month, Apple agreed to pay a $250 million settlement on the suit, without admitting wrongdoing.\nMonday’s presentation appeared designed, at least in part, to avoid a repeat. There were still plenty of fully produced videos of features, like the one showing how to adjust Siri’s voice and another demonstrating improved voice-to-text transcription. But many of the AI features were shown in this “live-like” format, with someone using the feature on an actual device. The implicit message being that these features work on actual devices, and you will soon have them.\nApple WWDC 2026 iOS 27 demoImage Credits:Apple/screenshot\nApple also is not requiring users to buy the latest iPhone to get these features. The new Siri will be available through the new iOS 27 on iPhone 15 Pro and Pro Max and all iPhone 16 models and later, according to the company. The current model is the iPhone 17, meaning most users who upgraded in the past couple of years won’t need to buy new hardware to get access.\nIt’s a concession, perhaps, that Apple won’t lock the features behind new devices to create upgrade pressure when it promised, two years ago, that such features would be available on iPhone 15.\nApple also said the new features will be available across its broader hardware lineup, including the iPad mini (A17 Pro), iPad models with M1 or later, MacBook Neo (A18 Pro), Mac models with M1 or later, Apple Vision Pro, Apple Watch Series 10 or later, Apple Watch Ultra 2 or later, and Apple Watch SE 3 when paired with an Apple Intelligence-enabled iPhone nearby.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/06/Apple-iOS-27-demo.png?w=150"
-      ],
-      "datePublished": "2026-06-08T22:39:57.000Z",
-      "dateModified": "2026-06-08T22:39:57.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Zepto’s IPO filing reveals fast growth, bigger losses, and a valuation question nobody’s answered yet",
-    "url": "https://techcrunch.com/2026/06/08/zeptos-ipo-filing-reveals-fast-growth-bigger-losses-and-a-valuation-question-nobodys-answered-yet/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/zepto.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-06-09T05:07:17.000Z",
-    "description": "\nIndian quick-commerce startup Zepto has unveiled plans for an initial public offering that could be valued at about $1 billion, putting one of Y Comb",
-    "body": "\nIndian quick-commerce startup Zepto has unveiled plans for an initial public offering that could be valued at about $1 billion, putting one of Y Combinator’s biggest bets outside the U.S. on the path to public markets.\nThe filing, released Monday, offers a rare look at how one of India’s most closely watched startups plans to sustain its breakneck growth after listing. Zepto’s advertising revenue rose more than 151% year-over-year to ₹16.4 billion (about $171 million) in fiscal 2026, outpacing the company’s 104% increase in operating revenue to ₹115.5 billion (around $2.4 billion).\nWhile grocery deliveries remain Zepto’s core business, the faster growth of its advertising arm points to a broader shift in how the startup makes money — a strategy Amazon pioneered, turning its marketplace into one of the world’s most profitable ad businesses by selling visibility to the same merchants competing on its platform.\nFounded in 2021 by Stanford dropouts Aadit Palicha and Kaivalya Vohra, Zepto has grown into one of India’s fastest-growing startups, competing with Zomato-owned Blinkit and Swiggy’s Instamart in the country’s fiercely contested quick-commerce market. Amazon and Walmart-backed Flipkart have also intensified their efforts in the segment in recent months.\nDespite the intense competition, Zepto has continued to add customers and orders at a rapid clip. The startup processed more than 640 million orders in fiscal 2026, per the draft prospectus, nearly double the previous year, while the annual transacting users rose to almost 48 million. Even as it expanded its network to 1,139 stores, orders per store continued to increase, suggesting demand is growing alongside its footprint.\nThat growth comes at a cost, however. Zepto remains loss-making, reporting a net loss of ₹59.1 billion (about $617.36 million) in fiscal 2026, compared with ₹47.0 billion (around $492.45 million) a year earlier. The startup acknowledged in its filing that it may continue to incur losses and may not be able to sustain its historical growth rates, a standard but telling disclosure that highlights the tension facing venture-backed companies seeking public-market investors before reaching profitability.\nZepto plans to raise up to ₹80.1 billion (about $837.41 million) through a fresh issue of shares. The IPO will also include an offer-for-sale of up to 113.5 million shares by existing investors including Nexus Venture Partners, Contrary, and Razor Ventures, with the final size of the sale dependent on the eventual pricing of the offering. The startup also said it may raise up to ₹16.02 billion (about $167 million) from investors in a pre-IPO placement ahead of the listing.\nThe listing is set to provide a closely watched outcome for some of Zepto’s early backers. The startup was valued at $7 billion in its last funding round in October and counts Y Combinator, Lachy Groom, Nexus Venture Partners, StepStone, Glade Brook, and Lightspeed among its investors. \nSeveral prominent shareholders — including Y Combinator-affiliated funds, Lightspeed, StepStone, Groom, and Glade Brook — are not participating in the IPO’s offer-for-sale, opting to retain their stakes as the startup prepares for its market debut. That’s worth pausing on: Zepto’s public-market valuation remains uncertain, and some mutual funds and family offices that reviewed the company ahead of the IPO have indicated valuations well below its last private round, according to people familiar with the matter.\nZepto’s founders, the filing revealed, received summonses from India’s anti-money laundering agency, the Enforcement Directorate, in April, seeking information related to foreign investments, the company’s shareholding structure, and other matters under the country’s foreign-exchange laws.\nThe two subsequently appeared before the agency and provided the requested information and documents. Zepto said it has not received any further communication from the regulator since, but cautioned that it could not rule out future inquiries, investigations, or penalties.\nThe proposed listing marks the culmination of a years-long effort to prepare the startup for a domestic market debut. Zepto relocated its legal home from Singapore to India last year, joining a growing number of startups restructuring their holding companies as local public markets become increasingly attractive for tech listings.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tJagmeet covers startups, tech policy-related updates, and all other major tech-centric developments from India for TechCrunch. He previously worked as a principal correspondent at NDTV. \r\nYou can contact or verify outreach from Jagmeet by emailing mail@journalistjagmeet.com.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Zepto’s IPO filing reveals fast growth, bigger losses, and a valuation question nobody’s answered yet",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/06/zepto.jpg?w=150"
-      ],
-      "datePublished": "2026-06-09T05:07:17.000Z",
-      "dateModified": "2026-06-09T05:07:17.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Pentagon says Alibaba, Baidu, BYD, and Unitree support China’s military",
-    "url": "https://techcrunch.com/2026/06/08/pentagon-says-alibaba-baidu-byd-and-unitree-support-chinas-military/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-06-08T18:57:49.000Z",
-    "description": "\nThe Pentagon has added Alibaba, Baidu, EV-maker BYD, and buzzy robotics company Unitree to a list of entities it says support the Chinese military.\nT",
-    "body": "\nThe Pentagon has added Alibaba, Baidu, EV-maker BYD, and buzzy robotics company Unitree to a list of entities it says support the Chinese military.\nThe expansion of the list increases the chance that the Department of Defense could make it harder for U.S. companies to do business with these entities. It’s also likely to further strain the tension between the U.S. and Chinese governments. \n“We categorically reject the inclusion of Baidu on the list, and there is no credible justification for adding Baidu to the list,” Baidu said in a statement to TechCrunch. “The suggestion that Baidu is a military company is entirely baseless. We will not hesitate to use all options available to us to have the company removed from the list.”\nAlibaba told TechCrunch that it “is not a Chinese military company nor part of any military-civil fusion strategy. We will take all available legal action against attempts to misrepresent our company.”\nThe list — known as the 1260H list, for the specific section of the 2021 National Defense Authorization Act that created it — is just one tool that the U.S. has used to place restrictions on Chinese tech. President Donald Trump has used tariffs in both of his terms to put pressure on China, including a 100% tax on imported Chinese EVs.\nThis particular update to the 1260H list was briefly published in February, before being pulled from the Federal Register for unexplained reasons, as Bloomberg News notes. \nMost of China’s biggest artificial intelligence players are now on the list, with Tencent added last year. This comes as Trump has said he’s weighing whether the U.S. should take equity stakes in the country’s top AI companies.\nThe updated list now includes 188 companies. \nThe Pentagon added a handful of automotive industry players to the list this year. In addition to BYD, trendy EV company Nio and battery companies CALB Group and EVE Energy were added. RoboSense, one of China’s leading makers of lidar sensors, has joined its rival Hesai on the list, too. Baidu is also one of China’s leaders in autonomous vehicles.\nBYD, Nio, and RoboSense did not immediately respond to requests for comment.\nThis story has been updated with responses from Alibaba and Baidu.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Pentagon says Alibaba, Baidu, BYD, and Unitree support China’s military",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?w=150"
-      ],
-      "datePublished": "2026-06-08T18:57:49.000Z",
-      "dateModified": "2026-06-08T18:57:49.000Z",
+      "datePublished": "2026-06-08T20:53:55.000Z",
+      "dateModified": "2026-06-08T20:53:55.000Z",
       "author": [
         {
           "@type": "Person",
@@ -325,22 +100,122 @@
     }
   },
   {
-    "title": "Waymo bought Apple’s self-driving car proving ground for $220M",
-    "url": "https://techcrunch.com/2026/06/08/waymo-bought-apples-self-driving-car-proving-ground-for-220m/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/waymo-back-getty.jpg?w=150",
+    "title": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
+    "url": "https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-2.02.26-PM.png?w=150",
     "tag": "Tech",
-    "date": "2026-06-08T20:50:55.000Z",
-    "description": "\nWaymo has acquired a massive 5,500-acre proving ground in Arizona owned by Route 14 Investment Partners LLC, a Delaware shell company associated with",
-    "body": "\nWaymo has acquired a massive 5,500-acre proving ground in Arizona owned by Route 14 Investment Partners LLC, a Delaware shell company associated with Apple, according to documents filed with Maricopa County.\nWaymo acquired the property, which is located near other proving grounds in Wittman, Arizona, for $220 million, according to the filing. The sale was recorded June 5. Waymo confirmed the sale to TechCrunch.\nThe purchase rounds out Waymo’s already robust network of closed test courses. The Alphabet-owned company still uses the Castle Proving Ground in California as well as the Transportation Research Center in Ohio. Both of these are dwarfed by the Arizona location. \nThe Arizona location includes a 115-acre city course, a 35-acre vehicle dynamics area, a four-mile oval track, and a freeway course purpose-built for autonomous vehicle testing. A Waymo spokesperson told TechCrunch the facility will be used to simulate driving scenarios in a controlled environment to continuously test and improve the performance of its self-driving system. Specifically, the company will support rider-only testing, motion control testing, operational training workflows, and future testing expansion over time.\nApple purchased the property in 2021 for $125 million after renting access to it for years. The facility had previously been used as a test facility for Fiat Chrysler. It features different road surfaces, a high-speed oval, and helped the Detroit automaker test cars and their components in hot weather.\nApple used it to put prototype vehicles through their paces as the tech company oscillated through different variations of its car project. That effort — known as Project Titan — was ultimately scuttled in early 2024 after Apple had spent billions of dollars on it.\nThe Phoenix Business Journal was the first to spot the document. \nWaymo is in the middle of a dramatic expansion of its fleet, which currently stands at close to 4,000 vehicles. The company recently started offering the first rides in its new van, which is made by Zeekr. Waymo has said it wants to make tens of thousands of robotaxis per year, including the Zeekr van and the Hyundai Ioniq 5.\nThe Zeekr vehicles are sent to Waymo’s Arizona factory, where they are then outfitted with the company’s self-driving system. \nWaymo has a growing commercial footprint in Phoenix and Maricopa County. The company began testing its autonomous vehicle technology in the Phoenix suburb of Chandler back in 2017. The area would be Waymo’s first market to offer a commercial robotaxi service. \nWaymo has since expanded to more than 10 U.S. cities, including Los Angeles, the San Francisco Bay Area, Austin, and Atlanta.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\n\t\tKirsten Korosec is a reporter and editor who has covered the future of transportation from EVs and autonomous vehicles to urban air mobility and in-car tech for more than a decade. She is currently the transportation editor at TechCrunch and co-host of TechCrunch’s Equity podcast. She is also co-founder and co-host of the podcast, “The Autonocast.” She previously wrote for Fortune, The Verge, Bloomberg, MIT Technology Review and CBS Interactive.\nYou can contact or verify outreach from Kirsten by emailing kirsten.korosec@techcrunch.com or via encrypted message at kkorosec.07 on Signal.\t\n\t\n\t\tView Bio \n\t\n\n\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n\n\t",
+    "date": "2026-06-08T18:48:45.000Z",
+    "description": "\nApple today announced a slate of new Apple Intelligence updates across its apps at WWDC 2026, including tab management for Safari, one-tap password u",
+    "body": "\nApple today announced a slate of new Apple Intelligence updates across its apps at WWDC 2026, including tab management for Safari, one-tap password updating, cross-app context awareness, and AI-powered shortcut creation via natural language.\nSafari is getting AI-powered tab management that groups tabs by topic automatically. It can also suggest and add related tabs to an existing group. The company is also adding a page monitor to Safari that notifies you when it detects changes — useful for tracking prices, news stories, or anything time-sensitive. Apple said Safari can also create a custom extension using text prompts to modify a web page, a capability that until now required a developer.\nThe company is adding a way to update compromised passwords with one tap, with Apple handling the process on your behalf through AI and Safari — no manual login required.\nMessages is getting AI-powered reply suggestions and a new ability to surface photos based on a text description, so you can find what you’re looking for without scrolling. In Calendar, users can now type in natural language to create an event — just mention the people and the time, and Apple Intelligence handles the rest.\nPerhaps the most consequential update for power users: Apple said the Phone app can now pull context from other apps like Mail and Messages mid-call. If you’re on the phone with an airline, for instance, it can surface your flight details from your email in real time. It’s Apple’s answer to Google’s similar “Magic Cue” feature, and suggests that the AI assistant wars are increasingly being fought at the operating system level — with your personal data as the differentiator.\nThe company is also overhauling Shortcuts with AI-powered creation. Rather than manually stitching together a workflow step by step, users can now describe what they want in plain language and the app builds the shortcut automatically — effectively bringing vibe coding to the mainstream iPhone user.\nImage Playground is also getting a significant update, with easier natural-language editing and a new model capable of generating more photorealistic images. Users can tap, circle, or brush to select and edit individual objects, and can now adjust the dimensions of any generated image to fit different formats — a feature developers will likely use immediately once Apple opens image generation to third parties via a new API. The app is also gaining the ability to generate wallpapers and contact posters.\nFinally, Apple is updating its Photos cleanup tool with improved infill and higher-quality object removal, and adding an AI-powered expansion tool that can extend the edges of a photo. A new feature called Spatial Reframing lets you reposition the subject or objects within a frame — using on-device spatial models combined with an image-generation model to fill in the new perspective convincingly. Apple says it works on older photos too, which means your existing library is now a potential target for this kind of retroactive editing.\nCatch up on WWDC 2026\nEverything announced, from start to finish\nSiri AI’s update, explained\nAll the new AI features coming to Apple Photos\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Waymo bought Apple’s self-driving car proving ground for $220M",
+      "headline": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/05/waymo-back-getty.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-2.02.26-PM.png?w=150"
       ],
-      "datePublished": "2026-06-08T20:50:55.000Z",
-      "dateModified": "2026-06-08T20:50:55.000Z",
+      "datePublished": "2026-06-08T18:48:45.000Z",
+      "dateModified": "2026-06-08T18:48:45.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Apple’s Photos app is getting new AI editing features",
+    "url": "https://techcrunch.com/2026/06/08/apples-photos-app-is-getting-new-ai-editing-features/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-2.07.32-PM.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-06-08T18:36:04.000Z",
+    "description": "\n\t\n\t\tImage Credits:Screenshot/TechCrunch\t\n\t\n\t\t\t\t\t\t11:36 AM PDT · June 8, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nApple announced at WWDC 2026 on Monday that its Photos a",
+    "body": "\n\t\n\t\tImage Credits:Screenshot/TechCrunch\t\n\t\n\t\t\t\t\t\t11:36 AM PDT · June 8, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nApple announced at WWDC 2026 on Monday that its Photos app is getting a few new AI features that leverage Apple Intelligence.\nA new spatial “Reframe” feature will let users use AI to reframe images. For instance, if a user accidentally captures a sign above someone’s head, if the photo would have been more symmetrical by stepping slightly to the right, or if eye contact with a subject was missed by a fraction of a second, the new reframing tool can help fix all of these issues.\nUsers can touch and drag photos to adjust the perspective as if they had repositioned the camera in the original scene. Users can also preview the effect in real time. As the photo is being adjusted, a blur will appear around the edges of the original image, which will be filled later by Apple’s generative models.\nImage Credits:Screenshot/TechCrunch\nThe feature only generates new content to fill in the gaps where the perspective has been affected to ensure that the reframe photo stays consistent with the original scene.\nThe “Extend” tool expands images to give subjects more breathing room, or to straighten a crooked horizon without cropping out anything important. Users can pinch to zoom out, or adjust the crop to add more to the scene.\nThe app’s popular “Cleanup” tool is also getting an upgrade so users can remove distractions with better quality and more realistic infill with generative AI. The feature lets users tap, brush, or circle what they want to remove.\nCatch up on WWDC 2026\nEverything announced, from start to finish\nSiri AI’s update, explained\nAll the new AI features coming to Apple Photos\nApple Intelligence’s updates coming this year\n\n\t\t\t\n\tTopics\n\n\t\t\tWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\n\t\tAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing aisha@techcrunch.com or via encrypted message at aisha_malik.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n\n\t\t",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Apple’s Photos app is getting new AI editing features",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-2.07.32-PM.jpg?w=150"
+      ],
+      "datePublished": "2026-06-08T18:36:04.000Z",
+      "dateModified": "2026-06-08T18:36:04.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Apple gives Siri its own dedicated app",
+    "url": "https://techcrunch.com/2026/06/08/apple-gives-siri-its-own-dedicated-app/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/apple-siri-wwdc-2026.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-06-08T18:33:42.000Z",
+    "description": "\n\t\n\t\tImage Credits:Apple\t\n\t\n\t\t\t\t\t\t11:33 AM PDT · June 8, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nAt WWDC 2026 on Monday, Apple unveiled the new AI-ified version of Siri ",
+    "body": "\n\t\n\t\tImage Credits:Apple\t\n\t\n\t\t\t\t\t\t11:33 AM PDT · June 8, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nAt WWDC 2026 on Monday, Apple unveiled the new AI-ified version of Siri — in what has been called the assistant’s biggest and most dramatic transformation in the company’s history.\nIn addition to the launch of its new Siri AI system, the personal assistant now has its own stand-alone app. The app is designed to serve as a warehouse of the user’s previous, archived conversations with the assistant. Much like the functionality of chatbots like ChatGPT or Claude, users can scroll through all of those previous conversations and re-visit a session.\nWhen a user opens a previous conversation, the app provides an overview of what was said so that users don’t have to read through the entire transcript. The app is also the place where users can launch a new conversation with the assistant. \nSiri now offers users a multi-function interface that mirrors other AI chatbots where users can enter text, upload documents and images, and access a voice mode, where you can speak directly to it.\nThe Siri app is designed to give users access to the assistant across Apple devices, including iOS, MacOS, and iPadOS. All of a user’s Siri conversations are synced privately with iCloud, per Apple’s typical privacy protections.    \nImage Credits:Apple\nThe dedicated app is obviously designed to give users a more organized way to interact with the assistant, as its powers become more extensive within Apple’s software.\nCatch up on WWDC 2026\nEverything announced, from start to finish\nSiri AI’s update, explained\nAll the new AI features coming to Apple Photos\nApple Intelligence’s updates coming this year\n\n\t\t\t\n\tTopics\n\n\t\t\tWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\n\t\n\t\tLucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. \nYou can contact Lucas by emailing lucas.ropek@techcrunch.com.\t\n\n\t\n\t\tView Bio \n\t\n\n\t\t",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Apple gives Siri its own dedicated app",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/06/apple-siri-wwdc-2026.jpg?w=150"
+      ],
+      "datePublished": "2026-06-08T18:33:42.000Z",
+      "dateModified": "2026-06-08T18:33:42.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
+    "url": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/apple-siri-ai-use-cases.png?w=150",
+    "tag": "Tech",
+    "date": "2026-06-09T01:56:48.000Z",
+    "description": "\nFor years, Apple has been accused of being one of the biggest stragglers in the AI arms race. Doubters have argued that Apple’s lack of a clear AI st",
+    "body": "\nFor years, Apple has been accused of being one of the biggest stragglers in the AI arms race. Doubters have argued that Apple’s lack of a clear AI strategy have cost it its edge, and Wall Street analysts have worried that the gap could start hurting iPhone sales.\nNow, the company has unveiled what it is billing as its biggest AI launch to date: Siri AI, which embeds new automated capabilities (fueled by a partnership with Google Gemini) into the very spine of its software.\nIs it enough to get people to stop saying that Apple is “losing” the AI race? \nTo be honest, nobody really knows. But the question itself may be the wrong one.  A better one might be: are Apple customers actually going to use these features and, if they do, will it help Apple’s business?\nBefore we address that question, we should note that Monday’s announcements also came with an interesting comment from Craig Federighi, Apple’s senior vice president of software engineering.\n“Some appear to be racing forward, seemingly pursuing AI for the sake of AI, without clear regard for the people — all of us — that it’s ultimately meant to serve,” Federighi said during his remarks. “At Apple, our mission has always been to turn the potential of advanced technology into helpful and intuitive products for everyone.”\nThe not-so-veiled defiance on display here seems like both a response to Apple’s “behind-on-AI” criticism and an effort to acknowledge the deeply ambivalent — and, according to some polls, increasingly negative — sentiments that many consumers have about the AI industry. It’s also a shrewd message at a moment when Americans are worried that AI will take their jobs and rot their brains. Apple is positioning itself as the AI company that’s actually on your side.\nJudging by Monday’s demos, that positioning has some substance behind it. Siri can now surface information buried deep in your inbox or text history and surface helpful information and offer helpful suggestions based on it. It can use what Apple calls onscreen awareness to give you context about what you’re looking at. And — using Gemini — it can pull near-instantaneous up-to-date information from the web and deliver it right to your device.\nSiri is also designed to work seamlessly across Apple devices, giving users increased flexibility and, like other AI chatbots, it stores chat histories so users can revisit past conversations.\nBy building AI functionalities into its disembodied, ethereal assistant, Apple also has the potential to eat into the advantages of competitors whose apps can only reach users through its own App Store. For those competitors, having Apple’s AI embedded at the operating system level is a meaningful threat to their distribution advantage.\nThe keyword here is “potential” since this version of Siri won’t be available to consumers until later this year, as a beta.\nA final verdict will have to wait, but what’s already clear is that Apple is doing its best to court its audience — whether they end up going for it or not. Apple is obviously a hardware company, and these updates are designed to make that hardware incrementally more user-friendly and convenient, keeping users glued to their devices a little while longer.\nThe contrast with its competitors is instructive and maybe the most important signal in Monday’s announcements for anyone watching where the AI industry is actually headed. Take OpenAI, which, despite shipping updates at a relentless pace, has struggled to define who it’s actually selling to, oscillating between consumers and enterprises. Or Meta, which is pouring gargantuan sums into AI without a clear explanation of how it connects to the company’s core advertising business.\nApple’s more measured approach is starting to look optimal by comparison — and more financially sound. For the most part, Apple hasn’t needed a gangbusters AI strategy. It posted historic iPhone sales last quarter. And as questions mount over AI’s profitability and real-world utility, Apple is spending significantly less than its competitors — roughly $14 billion in capex planned this year, against a cumulative $900 billion being committed by other tech giants — while still earning huge amounts of revenue. That revenue has come from the AI industry itself via taxes on AI companies that use its App Store to platform their apps.\nIn short, Apple is spending less, making more, and now launched a suite of AI features that — for many iPhone users — will feel indistinguishable from the other AI applications already available to them through the App Store. If that doesn’t exactly count as “winning the AI race,” it may be the smartest way to run it.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tLucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. \nYou can contact Lucas by emailing lucas.ropek@techcrunch.com.\t\n\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/06/apple-siri-ai-use-cases.png?w=150"
+      ],
+      "datePublished": "2026-06-09T01:56:48.000Z",
+      "dateModified": "2026-06-09T01:56:48.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
+    "url": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Apple-iOS-27-demo.png?w=150",
+    "tag": "Tech",
+    "date": "2026-06-08T22:39:57.000Z",
+    "description": "\nThe vibe of Apple’s 2026 Worldwide Developers Conference felt like a spouse proudly listing all the items on a honey-do-list they’d finally completed",
+    "body": "\nThe vibe of Apple’s 2026 Worldwide Developers Conference felt like a spouse proudly listing all the items on a honey-do-list they’d finally completed. Rather than showcase something exciting and new, Apple launched the keynote detailing fixes to last year’s “Liquid Glass” design; an overhaul of its awful search function; improvements to its Playground feature; and so on.\nPerhaps most importantly, two years after promising but failing to launch a smarter Siri, Apple finally showed off an overhauled version of its AI-powered voice assistant.\nBut the most telling detail wasn’t what Apple announced. It was how it chose to show some things off. Many of the Apple Intelligence demoes featured someone standing, phone in hand, pressing buttons or using voice commands in real time, while another camera showed off the phone’s response.\nThese weren’t live onstage, anything-could-go wrong demos; they were pre-taped. But they looked far more like proof of working features than what Apple showed at WWDC 2024, when the company unveiled Apple Intelligence and a new Siri to the world through slickly produced videos that turned out to be more promise than product.\nApple WWDC 2026 iOS 27 demoImage Credits:Apple/screenshot\nThis demonstration style was noticed, with comments on X on Monday comparing today’s keynote to those 2024 so-called “vaporware” demos.\nApple said at that time that the features would be available soon to those who upgraded to the iPhone 15 Pro and newer devices with M1 chips or better. But by March 2025, Apple admitted to Daring Fireball that rolling out the features shown via production video was “going to take us longer than we thought to deliver.” Not long after, the Cupertino company faced a lawsuit in federal court alleging false advertising over the features shown at that 2024 event — a case that carried real reputational risk for a company whose brand has long been built on the promise that its products just work.\nLast month, Apple agreed to pay a $250 million settlement on the suit, without admitting wrongdoing.\nMonday’s presentation appeared designed, at least in part, to avoid a repeat. There were still plenty of fully produced videos of features, like the one showing how to adjust Siri’s voice and another demonstrating improved voice-to-text transcription. But many of the AI features were shown in this “live-like” format, with someone using the feature on an actual device. The implicit message being that these features work on actual devices, and you will soon have them.\nApple WWDC 2026 iOS 27 demoImage Credits:Apple/screenshot\nApple also is not requiring users to buy the latest iPhone to get these features. The new Siri will be available through the new iOS 27 on iPhone 15 Pro and Pro Max and all iPhone 16 models and later, according to the company. The current model is the iPhone 17, meaning most users who upgraded in the past couple of years won’t need to buy new hardware to get access.\nIt’s a concession, perhaps, that Apple won’t lock the features behind new devices to create upgrade pressure when it promised, two years ago, that such features would be available on iPhone 15.\nApple also said the new features will be available across its broader hardware lineup, including the iPad mini (A17 Pro), iPad models with M1 or later, MacBook Neo (A18 Pro), Mac models with M1 or later, Apple Vision Pro, Apple Watch Series 10 or later, Apple Watch Ultra 2 or later, and Apple Watch SE 3 when paired with an Apple Intelligence-enabled iPhone nearby.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/06/Apple-iOS-27-demo.png?w=150"
+      ],
+      "datePublished": "2026-06-08T22:39:57.000Z",
+      "dateModified": "2026-06-08T22:39:57.000Z",
       "author": [
         {
           "@type": "Person",
@@ -366,6 +241,131 @@
       ],
       "datePublished": "2026-06-08T18:07:32.000Z",
       "dateModified": "2026-06-08T18:07:32.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Apple’s Image Playground doesn’t suck anymore",
+    "url": "https://techcrunch.com/2026/06/08/apples-image-playground-doesnt-suck-anymore/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-2.01.54-PM.png?w=150",
+    "tag": "Tech",
+    "date": "2026-06-08T18:38:07.000Z",
+    "description": "\nHave you ever used the Image Playground app on your iPhone? Probably not — and you might not even know that your phone has a built-in AI image-genera",
+    "body": "\nHave you ever used the Image Playground app on your iPhone? Probably not — and you might not even know that your phone has a built-in AI image-generation tool. That’s because until now, Image Playground has kind of sucked, generating AI imagery that simply isn’t as high-quality as what Apple’s competitors can make. At WWDC 2026 on Monday, Apple announced some necessary improvements to Image Playground.\nWhile we haven’t yet gotten to use the app, Apple’s presentation makes it seem like the company’s overall AI overhaul will make Apple Intelligence-powered apps, like Image Playground, perform a lot better.\nImage Credits:Apple\n“From stunning nature scenes to fun images using multiple people from your Photos library, you can also transform your photos into endless styles just by describing what you want in natural language, and with private cloud compute, your photos are never stored or shared, even with Apple,” said Apple Senior Director Leslie Ikemoto in a WWDC presentation.\nImage Credits:Apple\nAs an example, Ikemoto explained that if you’re throwing a birthday party for your friend, you can design an invitation by using Image Playground to create an image of your friend holding a cake. Then, you can use natural language prompting to add candles to the cake or change your friend’s outfit.\n“You also have more ways to use the images you create, like choosing the right dimensions for what you’re working on, including a landscape image for your small business’s website, or a portrait image for your flyer,” Ikemoto added.\nImage Credits:Apple\nBecause Image Playground is integrated across your device, you can also use it to generate lock screens, iMessage backgrounds, contact posters, and more.\nAI art is generally pretty corny, but at least Apple won’t use your private photos for AI training, unlike many of its competitors.\nCatch up on WWDC 2026\nEverything announced, from start to finish\nSiri AI’s update, explained\nAll the new AI features coming to Apple Photos\nApple Intelligence’s updates coming this year\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tAmanda Silberling is a senior writer at TechCrunch covering the intersection of technology and culture. She has also written for publications like Polygon, MTV, the Kenyon Review, NPR, and Business Insider. She is the co-host of Wow If True, a podcast about internet culture, with science fiction author Isabel J. Kim. Prior to joining TechCrunch, she worked as a grassroots organizer, museum educator, and film festival coordinator. She holds a B.A. in English from the University of Pennsylvania and served as a Princeton in Asia Fellow in Laos.\nYou can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Apple’s Image Playground doesn’t suck anymore",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-2.01.54-PM.png?w=150"
+      ],
+      "datePublished": "2026-06-08T18:38:07.000Z",
+      "dateModified": "2026-06-08T18:38:07.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Evotrex raises $30M to build the RV that doesn’t need a charging station",
+    "url": "https://techcrunch.com/2026/06/09/anker-backed-evotrex-raises-30m-to-build-its-off-grid-rv/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Evotrex-PG5_063.jpeg?w=150",
+    "tag": "Tech",
+    "date": "2026-06-09T09:00:00.000Z",
+    "description": "\nEvotrex has been around for just two years, but the startup is already planning to build and sell its first hybrid RV travel trailers next year, targ",
+    "body": "\nEvotrex has been around for just two years, but the startup is already planning to build and sell its first hybrid RV travel trailers next year, targeting around 1,000 units annually.\nTo get there, Evotrex has closed a $30 million Series A funding round, bringing its total raised to $46 million. Much of that came from a consortium of Chinese and Hong Kong-based investment firms, like GSR United Capital, Forebright Concerto Capital, TTGG Ventures, and Pegasus Capital, among others. Anker, the consumer electronics company, is among its seed investors.\nThe L.A.-based startup will need that capital finish building and testing its RV, which it revealed at this year’s Consumer Electronics Show after emerging from stealth mode last year. \nIt will also need it to hold its ground in a crowded field of startups. Legacy manufacturers have been slow to get going. Thor’s first electric vehicle is going to rental fleets rather than dealerships, and Winnebago’s eRV2 has been in field testing since 2023 without reaching consumers. That gap has drawn a wave of startups, and  Evotrex is racing to fill it first.\nCo-founder Alex Xiao told TechCrunch that he is excited about the competition, and is drawing on his experience as a product manager at Anker to help differentiate Evotrex.\n“We are not afraid of competition, competition is a good thing. We educate the market together, we grow the market together,” he said. “I think in the long term the strongest companies will have many things — you must be very good at product definition, R&D, and supply chain. You also need to be very good at distribution [and] service. Many things together. It’s a very complicated business.”\nSome RV startups like Lightship and Pebble are pushing all-electric travel trailers. Evotrex is one of the few that is building a hybrid system. Specifically, it’s an RV powered by a battery pack that can be recharged with an onboard gas engine — an approach commonly referred to as an “extended range electric vehicle,” or EREV. \nThe goal, Xiao said, is to create an RV that can really let people live off the grid for extended periods of time — something that’s hard to accomplish with an all-electric power source, or a gas engine that still requires an electric hookup.\nThis has apparently proven popular. Evotrex said that 90% of its existing order book is for the “fully loaded Premium trim” of its PG5 RV, which is priced at around $160,000. \nXiao said Evotrex has finished validating a functional version of its first RV, but needs the next 10 to 12 months to thoroughly test the PG5’s durability. It’s a known vulnerability in the industry. RVs have so many moving parts that mechanical integrity isn’t always a guarantee, and Xiao said Evotrex is taking it seriously. As evidence, he pointed to the fact that the company’s first service employee came on board half a year ago, while its first sales employee only joined this past month, suggesting that Evotrex is prioritizing its ability to support customers over the ability to sell to them.\nEvotrex still plans to manufacture its RVs in China and complete final assembly in California, and Xiao said he’s still locking down locations for both. But he believes a Los Angeles base will give Evotrex access to its target market, as well as a range of nearby climates that are useful for testing.\nXiao said he’s leaning on another lesson from Anker, one that helped that company skyrocket in popularity: focusing on the right customers, and getting them to evangelize the product.\n“The first thing is you need to find the real customer demand,” he said. “The second is you need to deliver a really good product, and third is: the customer will say the story for you.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Evotrex raises $30M to build the RV that doesn’t need a charging station",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/06/Evotrex-PG5_063.jpeg?w=150"
+      ],
+      "datePublished": "2026-06-09T09:00:00.000Z",
+      "dateModified": "2026-06-09T09:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Waymo bought Apple’s self-driving car proving ground for $220M",
+    "url": "https://techcrunch.com/2026/06/08/waymo-bought-apples-self-driving-car-proving-ground-for-220m/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/waymo-back-getty.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-06-08T20:50:55.000Z",
+    "description": "\nWaymo has acquired a massive 5,500-acre proving ground in Arizona owned by Route 14 Investment Partners LLC, a Delaware shell company associated with",
+    "body": "\nWaymo has acquired a massive 5,500-acre proving ground in Arizona owned by Route 14 Investment Partners LLC, a Delaware shell company associated with Apple, according to documents filed with Maricopa County.\nWaymo acquired the property, which is located near other proving grounds in Wittman, Arizona, for $220 million, according to the filing. The sale was recorded June 5. Waymo confirmed the sale to TechCrunch.\nThe purchase rounds out Waymo’s already robust network of closed test courses. The Alphabet-owned company still uses the Castle Proving Ground in California as well as the Transportation Research Center in Ohio. Both of these are dwarfed by the Arizona location. \nThe Arizona location includes a 115-acre city course, a 35-acre vehicle dynamics area, a four-mile oval track, and a freeway course purpose-built for autonomous vehicle testing. A Waymo spokesperson told TechCrunch the facility will be used to simulate driving scenarios in a controlled environment to continuously test and improve the performance of its self-driving system. Specifically, the company will support rider-only testing, motion control testing, operational training workflows, and future testing expansion over time.\nApple purchased the property in 2021 for $125 million after renting access to it for years. The facility had previously been used as a test facility for Fiat Chrysler. It features different road surfaces, a high-speed oval, and helped the Detroit automaker test cars and their components in hot weather.\nApple used it to put prototype vehicles through their paces as the tech company oscillated through different variations of its car project. That effort — known as Project Titan — was ultimately scuttled in early 2024 after Apple had spent billions of dollars on it.\nThe Phoenix Business Journal was the first to spot the document. \nWaymo is in the middle of a dramatic expansion of its fleet, which currently stands at close to 4,000 vehicles. The company recently started offering the first rides in its new van, which is made by Zeekr. Waymo has said it wants to make tens of thousands of robotaxis per year, including the Zeekr van and the Hyundai Ioniq 5.\nThe Zeekr vehicles are sent to Waymo’s Arizona factory, where they are then outfitted with the company’s self-driving system. \nWaymo has a growing commercial footprint in Phoenix and Maricopa County. The company began testing its autonomous vehicle technology in the Phoenix suburb of Chandler back in 2017. The area would be Waymo’s first market to offer a commercial robotaxi service. \nWaymo has since expanded to more than 10 U.S. cities, including Los Angeles, the San Francisco Bay Area, Austin, and Atlanta.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\n\t\tKirsten Korosec is a reporter and editor who has covered the future of transportation from EVs and autonomous vehicles to urban air mobility and in-car tech for more than a decade. She is currently the transportation editor at TechCrunch and co-host of TechCrunch’s Equity podcast. She is also co-founder and co-host of the podcast, “The Autonocast.” She previously wrote for Fortune, The Verge, Bloomberg, MIT Technology Review and CBS Interactive.\nYou can contact or verify outreach from Kirsten by emailing kirsten.korosec@techcrunch.com or via encrypted message at kkorosec.07 on Signal.\t\n\t\n\t\tView Bio \n\t\n\n\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n\n\t",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Waymo bought Apple’s self-driving car proving ground for $220M",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/05/waymo-back-getty.jpg?w=150"
+      ],
+      "datePublished": "2026-06-08T20:50:55.000Z",
+      "dateModified": "2026-06-08T20:50:55.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Pentagon says Alibaba, Baidu, BYD, and Unitree support China’s military",
+    "url": "https://techcrunch.com/2026/06/08/pentagon-says-alibaba-baidu-byd-and-unitree-support-chinas-military/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-06-08T18:57:49.000Z",
+    "description": "\nThe Pentagon has added Alibaba, Baidu, EV-maker BYD, and buzzy robotics company Unitree to a list of entities it says support the Chinese military.\nT",
+    "body": "\nThe Pentagon has added Alibaba, Baidu, EV-maker BYD, and buzzy robotics company Unitree to a list of entities it says support the Chinese military.\nThe expansion of the list increases the chance that the Department of Defense could make it harder for U.S. companies to do business with these entities. It’s also likely to further strain the tension between the U.S. and Chinese governments. \n“We categorically reject the inclusion of Baidu on the list, and there is no credible justification for adding Baidu to the list,” Baidu said in a statement to TechCrunch. “The suggestion that Baidu is a military company is entirely baseless. We will not hesitate to use all options available to us to have the company removed from the list.”\nAlibaba told TechCrunch that it “is not a Chinese military company nor part of any military-civil fusion strategy. We will take all available legal action against attempts to misrepresent our company.”\nThe list — known as the 1260H list, for the specific section of the 2021 National Defense Authorization Act that created it — is just one tool that the U.S. has used to place restrictions on Chinese tech. President Donald Trump has used tariffs in both of his terms to put pressure on China, including a 100% tax on imported Chinese EVs.\nThis particular update to the 1260H list was briefly published in February, before being pulled from the Federal Register for unexplained reasons, as Bloomberg News notes. \nMost of China’s biggest artificial intelligence players are now on the list, with Tencent added last year. This comes as Trump has said he’s weighing whether the U.S. should take equity stakes in the country’s top AI companies.\nThe updated list now includes 188 companies. \nThe Pentagon added a handful of automotive industry players to the list this year. In addition to BYD, trendy EV company Nio and battery companies CALB Group and EVE Energy were added. RoboSense, one of China’s leading makers of lidar sensors, has joined its rival Hesai on the list, too. Baidu is also one of China’s leaders in autonomous vehicles.\nBYD, Nio, and RoboSense did not immediately respond to requests for comment.\nThis story has been updated with responses from Alibaba and Baidu.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Pentagon says Alibaba, Baidu, BYD, and Unitree support China’s military",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?w=150"
+      ],
+      "datePublished": "2026-06-08T18:57:49.000Z",
+      "dateModified": "2026-06-08T18:57:49.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Apple is fixing the headache of splitting the bill with its new Siri in Camera feature",
+    "url": "https://techcrunch.com/2026/06/08/apple-is-fixing-the-headache-of-splitting-the-bill-with-its-new-siri-in-camera-feature/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-1.49.10-PM-1.png?w=150",
+    "tag": "Tech",
+    "date": "2026-06-08T18:23:04.000Z",
+    "description": "\nThere’s nothing worse than going to a dinner with a big group of friends, opting out of drinking to save money, but then still having to pay for your",
+    "body": "\nThere’s nothing worse than going to a dinner with a big group of friends, opting out of drinking to save money, but then still having to pay for your friends’ espresso martinis when the group decides to split the bill evenly. You don’t want to come off cheap and make everyone wait while you recalculate the bill. Now, Apple has a solution for this, which it unveiled at WWDC 2026.\nWith the new feature, you can point your iPhone camera at a receipt. Then Siri mode in the Camera app will make each item selectable so that you can keep track of who got each item, and send people separate Apple Cash payment requests depending on what they actually ordered. Ideally, this feature should make bill splitting a less awkward and drawn-out experience.\n“If you’re grabbing a bite with friends and point your iPhone at the bill, then [you can] select what you ordered to split the tab with Apple Cash,” said Apple VP of Software Sebastien Marineau-Mes during Apple’s presentation.\nThis kind of bill-splitting was already available with apps like SplitWise or Tab, but realistically, these products never got that popular (at least in my experience; no one has ever offered to use one of those tools). Since Apple’s payment features exist within the architecture of native apps like iMessage, it feels more organic to send someone a payment request through an app that they don’t have to go out of their way to download.\nYou might also use another similar Siri mide in Camera feature while out to dinner — instead of pointing your camera at the bill, you can use it to see estimated nutrition information about the food you’re eating.\nCatch up on WWDC 2026\nEverything announced, from start to finish\nSiri AI’s update, explained\nAll the new AI features coming to Apple Photos\nApple Intelligence’s updates coming this year\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tAmanda Silberling is a senior writer at TechCrunch covering the intersection of technology and culture. She has also written for publications like Polygon, MTV, the Kenyon Review, NPR, and Business Insider. She is the co-host of Wow If True, a podcast about internet culture, with science fiction author Isabel J. Kim. Prior to joining TechCrunch, she worked as a grassroots organizer, museum educator, and film festival coordinator. She holds a B.A. in English from the University of Pennsylvania and served as a Princeton in Asia Fellow in Laos.\nYou can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Apple is fixing the headache of splitting the bill with its new Siri in Camera feature",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-1.49.10-PM-1.png?w=150"
+      ],
+      "datePublished": "2026-06-08T18:23:04.000Z",
+      "dateModified": "2026-06-08T18:23:04.000Z",
       "author": [
         {
           "@type": "Person",
