@@ -1,30 +1,5 @@
 [
   {
-    "title": "This thin under-pillow speaker helped me fall asleep without earbuds",
-    "url": "https://techcrunch.com/2026/06/13/this-thin-under-pillow-speaker-helped-me-fall-asleep-without-earbuds/",
-    "image": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1280290137.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-06-13T16:00:00.000Z",
-    "description": "\nI’ve struggled with insomnia since I was very young. Like many chronic overthinkers, I tend to fall asleep best when my mind is occupied by something",
-    "body": "\nI’ve struggled with insomnia since I was very young. Like many chronic overthinkers, I tend to fall asleep best when my mind is occupied by something else, such as podcasts, YouTube compilations, or my personal favorite: rain sounds. But earbuds can be uncomfortable, and playing audio out loud isn’t exactly considerate when I’m staying at my partner’s place. \nThat’s why I was intrigued by the new Peace Duo Under-Pillow Speaker from Jabees.\nLaunched last month, this ultra-thin speaker utilizes bone conduction technology—which sends vibrations through your skull directly to your inner ear—to transmit sound through your pillow and into your ear privately. Just place it beneath your pillow and listen as you drift off.\nIn my testing, I found the Peace Duo was so thin that I almost forgot it was there. I mainly used the built-in sleep sounds, which come preloaded on a micro SD card with four hours of soothing soundscapes, including gentle waves, light rain, rain with thunder, and soft wind. For more personal content, the Peace Duo also offers Bluetooth connectivity, so you can connect your phone and stream your favorite audio.\nImage Credits:Jabees\nBattery life is another standout. A single charge lasts up to ten nights of one-hour listening sessions, so you won’t have to remember yet another device that requires nightly charging. The foldable design also makes it easy to put away in the included magnetic fabric travel case.\nThere is one important caveat: it doesn’t work well with thick memory foam pillows. Unfortunately, that’s what I normally use, so I switched to a regular cotton pillow and the sound came through clearly. (The company claims that thinner memory foam pillows should work fine.)\nImage Credits:Jabees\nPriced at $59.99, the Peace Duo comes in two colors: Sunrise Yellow and Mist Green. It also offers personalization; users can swap out the magnetic snap-on frames for custom images and even add their names, making it a great gift for families, students, or anyone who needs extra help getting restful sleep.\nThe Peace Duo won’t cure insomnia, but it’s a practical, unobtrusive sleep gadget — and for what the company is charging, it’s a small price for a decent night’s sleep.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tLauren covers media, streaming, apps and platforms at TechCrunch.\nYou can contact or verify outreach from Lauren by emailing laurenf.techcrunch@gmail.com or via encrypted message at laurenforris22.25 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "This thin under-pillow speaker helped me fall asleep without earbuds",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1280290137.jpg?w=150"
-      ],
-      "datePublished": "2026-06-13T16:00:00.000Z",
-      "dateModified": "2026-06-13T16:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "KPMG pulls report on AI usage due to apparent hallucinations",
     "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2276519058.jpg?w=150",
@@ -41,6 +16,31 @@
       ],
       "datePublished": "2026-06-13T20:42:31.000Z",
       "dateModified": "2026-06-13T20:42:31.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+    "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1348139958.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-06-13T19:11:41.000Z",
+    "description": "\nIn Brief\nPosted:\n12:11 PM PDT · June 13, 2026\n\nImage Credits:Bruce Bennett / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nAmazon CEO Andy ",
+    "body": "\nIn Brief\nPosted:\n12:11 PM PDT · June 13, 2026\n\nImage Credits:Bruce Bennett / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nAmazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.\nThe Wall Street Journal reports that Jassy told Treasury Secretary Scott Bessent and other government officials that Amazon researchers used Anthropic’s Claude Fable 5 to obtain information that could be used in cyberattacks. The government subsequently imposed an export control ban on the Fable 5 and Mythos 5 models.\nAn Amazon spokesperson said in a statement that while it’s “not uncommon for governments to seek our counsel on potential security risks,” the company does not “share the details of those discussions.”\nThe spokesperson also pointed to an update stating that AWS has been affected by the model cut off.\nThe Information and Reuters similarly reported that Amazon (a major Anthropic investor) had communicated concerns about the security of Anthropic’s models.\nDavid Sacks, Trump’s former AI czar who now co-chairs the President’s Council of Advisors on Science and Technology, offered his own account of the discussions, claiming that “a highly credible trusted partner of both Anthropic and the USG […] came forward with a jailbreak.”\nSacks added, “The Admin asked [Anthropic CEO Dario Amodei] to fix the jailbreak or de-deploy the model. Dario refused.”\nAnthropic said in a blog post that the capabilities apparently causing government concern are already available in other publicly accessible models.\nThis post has been updated with a statement from an Amazon spokesperson.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in AI\n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1348139958.jpg?w=150"
+      ],
+      "datePublished": "2026-06-13T19:11:41.000Z",
+      "dateModified": "2026-06-13T19:11:41.000Z",
       "author": [
         {
           "@type": "Person",
@@ -100,31 +100,6 @@
     }
   },
   {
-    "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
-    "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1348139958.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-06-13T19:11:41.000Z",
-    "description": "\nIn Brief\nPosted:\n12:11 PM PDT · June 13, 2026\n\nImage Credits:Bruce Bennett / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nAmazon CEO Andy ",
-    "body": "\nIn Brief\nPosted:\n12:11 PM PDT · June 13, 2026\n\nImage Credits:Bruce Bennett / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nAmazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.\nThe Wall Street Journal reports that Jassy told Treasury Secretary Scott Bessent and other government officials that Amazon researchers used Anthropic’s Claude Fable 5 to obtain information that could be used in cyberattacks. The government subsequently imposed an export control ban on the Fable 5 and Mythos 5 models.\nAn Amazon spokesperson said in a statement that while it’s “not uncommon for governments to seek our counsel on potential security risks,” the company does not “share the details of those discussions.”\nThe spokesperson also pointed to an update stating that AWS has been affected by the model cut off.\nThe Information and Reuters similarly reported that Amazon (a major Anthropic investor) had communicated concerns about the security of Anthropic’s models.\nDavid Sacks, Trump’s former AI czar who now co-chairs the President’s Council of Advisors on Science and Technology, offered his own account of the discussions, claiming that “a highly credible trusted partner of both Anthropic and the USG […] came forward with a jailbreak.”\nSacks added, “The Admin asked [Anthropic CEO Dario Amodei] to fix the jailbreak or de-deploy the model. Dario refused.”\nThis post has been updated with a statement from an Amazon spokesperson.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in AI\n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1348139958.jpg?w=150"
-      ],
-      "datePublished": "2026-06-13T19:11:41.000Z",
-      "dateModified": "2026-06-13T19:11:41.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Mistral is rumored to be raising €3B at €20B valuation",
     "url": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2264771189.jpg?w=150",
@@ -175,6 +150,56 @@
     }
   },
   {
+    "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
+    "url": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2275575484.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-06-12T16:23:25.000Z",
+    "description": "\n\t\t\n\nLoading the player…\n\nThe IPO market is back, and it’s not the same companies leading the charge. FAANG had a good run, but a new acronym is takin",
+    "body": "\n\t\t\n\nLoading the player…\n\nThe IPO market is back, and it’s not the same companies leading the charge. FAANG had a good run, but a new acronym is taking over: MANGOS — Meta (or Microsoft, depending on who you ask), Anthropic, Nvidia, Google, OpenAI, and SpaceX. Half of that bunch is heading to public markets in the same window, and it’s a stress test for investors, for valuations, and for what we can even expect from a public tech company in 2026. \nOn this episode of TechCrunch’s Equity podcast, hosts Kirsten Korosec, Anthony Ha, and Sean O’Kane break down what this IPO moment actually means beyond the headline numbers, and who stands to benefit. \nSubscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. You also can follow Equity on X and Threads, at @EquityPod. \n\n\t\t\n\tTopics\n\t\n\t\tAI, ai infrastructure, Anthropic, Apple WWDC, ChatGPT, FAANG, Fundraising, Google, IPO, MANGOS, OpenAI, Sam Bankman-Fried, SBF, SpaceX, Waymo\t\n\n\n\n\t\tTheresa Loconsolo is an audio producer at TechCrunch focusing on Equity, the network’s flagship podcast. Before joining TechCrunch in 2022, she was one of 2 producers at a four-station conglomerate where she wrote, recorded, voiced and edited content, and engineered live performances and interviews from guests like lovelytheband. Theresa is based in New Jersey and holds a bachelors degree in Communication from Monmouth University. You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n\n\t\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2275575484.jpg?w=150"
+      ],
+      "datePublished": "2026-06-12T16:23:25.000Z",
+      "dateModified": "2026-06-12T16:23:25.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "This thin under-pillow speaker helped me fall asleep without earbuds",
+    "url": "https://techcrunch.com/2026/06/13/this-thin-under-pillow-speaker-helped-me-fall-asleep-without-earbuds/",
+    "image": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1280290137.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-06-13T16:00:00.000Z",
+    "description": "\nI’ve struggled with insomnia since I was very young. Like many chronic overthinkers, I tend to fall asleep best when my mind is occupied by something",
+    "body": "\nI’ve struggled with insomnia since I was very young. Like many chronic overthinkers, I tend to fall asleep best when my mind is occupied by something else, such as podcasts, YouTube compilations, or my personal favorite: rain sounds. But earbuds can be uncomfortable, and playing audio out loud isn’t exactly considerate when I’m staying at my partner’s place. \nThat’s why I was intrigued by the new Peace Duo Under-Pillow Speaker from Jabees.\nLaunched last month, this ultra-thin speaker utilizes bone conduction technology—which sends vibrations through your skull directly to your inner ear—to transmit sound through your pillow and into your ear privately. Just place it beneath your pillow and listen as you drift off.\nIn my testing, I found the Peace Duo was so thin that I almost forgot it was there. I mainly used the built-in sleep sounds, which come preloaded on a micro SD card with four hours of soothing soundscapes, including gentle waves, light rain, rain with thunder, and soft wind. For more personal content, the Peace Duo also offers Bluetooth connectivity, so you can connect your phone and stream your favorite audio.\nImage Credits:Jabees\nBattery life is another standout. A single charge lasts up to ten nights of one-hour listening sessions, so you won’t have to remember yet another device that requires nightly charging. The foldable design also makes it easy to put away in the included magnetic fabric travel case.\nThere is one important caveat: it doesn’t work well with thick memory foam pillows. Unfortunately, that’s what I normally use, so I switched to a regular cotton pillow and the sound came through clearly. (The company claims that thinner memory foam pillows should work fine.)\nImage Credits:Jabees\nPriced at $59.99, the Peace Duo comes in two colors: Sunrise Yellow and Mist Green. It also offers personalization; users can swap out the magnetic snap-on frames for custom images and even add their names, making it a great gift for families, students, or anyone who needs extra help getting restful sleep.\nThe Peace Duo won’t cure insomnia, but it’s a practical, unobtrusive sleep gadget — and for what the company is charging, it’s a small price for a decent night’s sleep.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tLauren covers media, streaming, apps and platforms at TechCrunch.\nYou can contact or verify outreach from Lauren by emailing laurenf.techcrunch@gmail.com or via encrypted message at laurenforris22.25 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "This thin under-pillow speaker helped me fall asleep without earbuds",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1280290137.jpg?w=150"
+      ],
+      "datePublished": "2026-06-13T16:00:00.000Z",
+      "dateModified": "2026-06-13T16:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
     "url": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2194278734.jpg?w=150",
@@ -191,131 +216,6 @@
       ],
       "datePublished": "2026-06-12T23:00:54.000Z",
       "dateModified": "2026-06-12T23:00:54.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
-    "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-1487822193.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-06-13T04:14:19.000Z",
-    "description": "\n\nLoading the player…\n\nEntrepreneur and former presidential candidate Andrew Yang has a theory about where the next wave of startup opportunity lies, ",
-    "body": "\n\nLoading the player…\n\nEntrepreneur and former presidential candidate Andrew Yang has a theory about where the next wave of startup opportunity lies, and it starts with a question most founders aren’t asking: what if the business model was giving money back instead of extracting it?\nYang was inspired by Mark Cuban. Not by his wealth, or his celebrity, but by Cost Plus Drugs — Cuban’s startup that sells pharmaceuticals at cost. Yang made a list.\n“Housing, education, food, fuel, transportation, media, and wireless,” Yang told TechCrunch on a recent episode of Equity. “The things we all spend money on.”\nHe picked wireless and last September launched Nobile Mobile, a new mobile virtual network operator that provides cell service for a fraction of what traditional carriers charge and gives customers money back if they use less data. \nAs AI threatens to compress wages and displace workers, Yang sees a business opportunity in bringing down the cost of living. Cost Plus Drugs, Noble Mobile, dumb phone makers like Light Phone, and even online grocery store Misfits Markets are early examples of an emerging business category where the startup’s value proposition is the margin it gives back to the customer.\n“AI is going to suck up a lot of the value and the jobs, and then Americans are going to look up and say, ‘How do I meet basic needs?’” Yang said. He believes meeting people’s needs “less expensively” is “a very rich vein of opportunity.” \nThat instinct didn’t emerge from nowhere. Yang first launched himself into the public eye during his 2020 presidential campaign, during which he advocated for Universal Basic Income as a means of combating AI-related workforce displacement and wealth concentration. The campaign didn’t succeed but the thesis has only grown more relevant.\nYang is still an advocate for UBI, arguing that the value generated by AI companies needs to be redistributed into the hands of the average American. But whether the government will be the vehicle for that redistribution, or whether it will just use any collected wealth to “plug a hole and do something not terribly productive,” Yang is less certain. \n“There is room for a direct connection between the money and the people,” he said. \nThat’s where the market comes in. Where policy fails, Yang argues, market incentives can step in. Noble Mobile is his attempt to prove the point. Since its launch last September, the company has grown to “thousands and thousands” of customers and is bringing in “millions in revenue.”\n“We’re unit profitable per customer, but we just share the profits with our subscribers with the idea that it’ll make you happy, you’ll stay around, and maybe you’ll tell your friends and family,” Yang said. \nThe pitch is simple. Yang noted that the average monthly savings of $50, invested and compounded over 40 years, could amount to $24,000 — enough for a retirement down payment. And in this economy, who isn’t thinking about little ways they can upgrade their personal finance?\nWhether investors will share that enthusiasm is another question entirely. Even if the opportunity is real, capital is concentrated heavily in AI right now, while consumer-facing businesses with thin margins and a social mission are a hard sell.\n“I had at least one investor say to me around Noble Mobile, ‘Love you, Andrew, want to work with you — if you could just make this an AI company, we’ll invest,’” Yang said. \nThe tide might be changing, though, simply because even the most wealthy, extractive companies need an economy in which consumers have enough buying power to purchase their products. \n“The value being concentrated in the hands of a handful of folks and firms is just bad for everybody,” he said. “There are some folks I know in Silicon Valley who are open to that for a variety of reasons…[like] they just don’t want to have to hire private security.”\nYang encouraged founders and investors to take on problems they’re passionate about and find a way to build a valuable enterprise on top of it.\n“Think bigger and more broadly about trying to tackle problems and don’t subscribe so much to groupthink, because there are some valuable opportunities out there,” he said.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tRebecca Bellan is a senior reporter at TechCrunch where she covers the business, policy, and emerging trends shaping artificial intelligence. Her work has also appeared in Forbes, Bloomberg, The Atlantic, The Daily Beast, and other publications. \r\nYou can contact or verify outreach from Rebecca by emailing rebecca.bellan@techcrunch.com or via encrypted message at rebeccabellan.491 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-1487822193.jpg?w=150"
-      ],
-      "datePublished": "2026-06-13T04:14:19.000Z",
-      "dateModified": "2026-06-13T04:14:19.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
-    "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2153561878.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-06-13T02:26:30.000Z",
-    "description": "\nThe U.S. government on Friday ordered Anthropic to immediately shut off access to two of its most powerful AI models — Claude Fable 5 and Claude Myth",
-    "body": "\nThe U.S. government on Friday ordered Anthropic to immediately shut off access to two of its most powerful AI models — Claude Fable 5 and Claude Mythos 5 — citing national security concerns. Anthropic announced on X that it has complied, but it made clear it thinks the government got this one wrong.\nThe directive, which Anthropic said it received on Friday at 5:21 pm ET, forces the company to disable both models for all users worldwide — not just the foreign nationals the government’s export control order was nominally aimed at. Access to Anthropic’s other models isn’t affected.\nWhy does any of this matter? Mythos is Anthropic’s most capable AI model, one the company previewed in early April and has kept tightly restricted ever since because of what Anthropic described as its exceptional ability to find security vulnerabilities in software. According to Anthropic, Mythos identified flaws in every major operating system and web browser it tested, so rather than release it broadly, the company launched a controlled program called Project Glasswing, sharing it with roughly 50 vetted organizations, including Amazon, Apple, Google, Microsoft, and CrowdStrike, to use for defensive cybersecurity work.\nFable 5, released just three days ago, was Anthropic’s answer to the obvious commercial pressure: a version of Mythos fitted with guardrails that block responses in high-risk areas like cybersecurity and biology, making it safe enough for general release, the company argued. It was immediately the most capable AI model available to the public, according to benchmark tests from Vals AI, a company that tracks AI tech performance.\nImage Credits:Vals AI /\nThe government’s directive is framed as an export control action, restricting foreign national access to the models. But in a lengthy blog post, Anthropic says its understanding is that the underlying concern is a claimed jailbreak of Fable 5. So far, the company says, the government has provided only verbal evidence of a “potential narrow, non-universal jailbreak” — one that, as Anthropic describes it, amounts to prompting the model to read a specific codebase and identify software flaws. And by the way, adds the company, it’s a “level of capability” that’s already widely available in other publicly accessible models, including OpenAI’s GPT-5.5. It’s also used routinely by cybersecurity professionals for defensive purposes, says Anthropic.\nAnthropic’s broader argument is that its strongest safeguards operate through independent classifier systems that function separately from the model itself, meaning that even if someone convinces Fable to keep talking past a refusal, the underlying protections against the most dangerous outputs remain in place. \nClearly, none of that was enough to stop the government from acting, and Anthropic isn’t hiding its frustration. “We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,” the company wrote. “If this standard was applied across the industry, we believe it would essentially halt all new model deployments for all frontier model providers.”\nAnthropic is widely expected to pursue an IPO this year and has staked much of its public identity on being the safety-conscious alternative to its rivals. The irony isn’t lost on observers that the very caution Anthropic displayed in restricting Mythos — which it promoted as a model so dangerous it couldn’t be released publicly — has now apparently attracted exactly the kind of government scrutiny that could disrupt its business most.\nOpenAI’s Sam Altman must be enjoying this, at least. In April, he told podcaster Ashlee Vance that Anthropic’s handling of Mythos amounted to “fear-based marketing.” “It is clearly incredible marketing to say, ‘We have built a bomb. We were about to drop it on your head. We will sell you a bomb shelter for $100 million,’” Altman said. Altman, whose company is also widely expected to pursue an IPO as soon as possible, didn’t predict a government shutdown, but he identified something that has come back to bite Anthropic for now, which is that when you spend months telling the world your AI is uniquely dangerous, the world — the U.S. government included — tends to listen.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tLoizos has been reporting on Silicon Valley since the late ’90s, when she joined the original Red Herring magazine. Previously the Silicon Valley Editor of TechCrunch, she was named Editor in Chief and General Manager of TechCrunch in September 2023. She’s also the founder of StrictlyVC, a daily e-newsletter and lecture series acquired by Yahoo in August 2023 and now operated as a sub brand of TechCrunch.\nYou can contact or verify outreach from Connie by emailing connie@strictlyvc.com or connie@techcrunch.com, or via encrypted message at ConnieLoizos.53 on Signal.\r\n\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2153561878.jpg?w=150"
-      ],
-      "datePublished": "2026-06-13T02:26:30.000Z",
-      "dateModified": "2026-06-13T02:26:30.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
-    "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-11-at-3.39.00-PM.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-06-12T04:30:00.000Z",
-    "description": "\nIndia’s AI model output has been slow compared to the U.S., Europe, and China. Only a few startups are releasing models, and most of them are large l",
-    "body": "\nIndia’s AI model output has been slow compared to the U.S., Europe, and China. Only a few startups are releasing models, and most of them are large language models or voice models. To encourage more development, the government launched the India AI Mission, a roughly $1.2 billion initiative that — among other things — gives selected startups access to subsidized GPU compute in exchange for releasing their models publicly. One of the 12 startups selected for the program, Avataar AI, has launched a new video model called Varya that is built to understand local context — such as identifying different festivals, food, and clothing.\nThe Peak XV-backed startup, which focuses on creating video tools for e-commerce, didn’t build Varya from scratch. It started with Wan 2.2, a publicly available video generation model released by Alibaba, and used a technique called distillation — essentially compressing the model’s capabilities into a leaner, faster version optimized for Avataar’s specific use cases. The result is a model that runs in four steps rather than Wan 2.2’s 50, producing video 10 times faster and at a fraction of the cost.\nTo put that in concrete terms: Using an Nvidia H200 GPU, Varya can generate a five-second 720p clip in 45 seconds, compared to 1,230 seconds for Wan 2.2.\n\n\n\nThe most striking aspect of Varya may be its price. The company plans to charge ₹0.48 ($0.005) per second of video on its hosted service — far cheaper than models like Veo, Kling, Luma, and Runway, which typically charge $0.10 or more per second. That’s a roughly 20x price difference.\n“India is a video-first market. We see this across every large consumer internet product in India: video wins over text. Current AI video models are too expensive for population-scale use in India. If video AI is going to reach students, teachers, MSMEs, creators, enterprises, and public services, costs have to come down dramatically. Cost is the biggest unlock for AI adoption in India,” Peak XV’s managing director Rajan Anandan told TechCrunch.\nImage and video generation models often miss cultural nuances and produce stereotyped or generic outputs — a problem TechCrunch has reported on before. Avataar AI says it has used curated data to train Varya to recognize cultural nuances including food, clothing, architecture, and festivals.\nVarya will be released as an open-weight model on India’s AIKosh portal — the Indian government’s centralized repository for publicly available AI models and datasets — along with its training data, meaning developers can self-host or modify it for their own needs. Avataar also plans to make the model available to its enterprise customers and says it is open to partnerships with video tools, including Higgsfield and Adobe Firefly. Anyone can try it now on its website using text prompts or reference images.\nVarya’s launch reflects a fundamental tradeoff in India’s AI ambitions. Industry veterans have noted that India can make its mark in AI by creating applications and a robust developer ecosystem rather than competing on foundation models. And there’s a reason for that pragmatism: Model development has been slower in India than in global rivals due to a lack of compute and limited quality data availability.\nThe India AI Mission is also part of a broader government push to close that gap. Last year, it selected 12 startups — Avataar AI among them — to develop AI models and provided them with cost-efficient compute. Earlier this year, IT minister Ashwini Vaishnaw said India aims to attract $200 billion in AI investment by 2028 and more than double its GPU capacity within six months.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-11-at-3.39.00-PM.jpg?w=150"
-      ],
-      "datePublished": "2026-06-12T04:30:00.000Z",
-      "dateModified": "2026-06-12T04:30:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
-    "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/THEKER-photo-seriesA.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-06-12T01:48:07.000Z",
-    "description": "\nHumanoids aren’t quite ready to replace factory workers, but the industry can’t wait. Faced with labor shortages, manufacturers have shown growing in",
-    "body": "\nHumanoids aren’t quite ready to replace factory workers, but the industry can’t wait. Faced with labor shortages, manufacturers have shown growing interest in startups that promise faster automation without the usual trade-offs.\nThat’s the bet behind Theker, an AI robotics startup that aims to go beyond robots trained for a single task. “If you always have to put the same cookie in the same box, that works perfectly, but most processes aren’t like that,” co-founder Carla Gómez Cano told TechCrunch.\nTheker is designed for that messier reality. Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker’s machines are built to be reconfigured. Their hands, arms, and overall form can be swapped out or resized depending on the task, whether that’s sorting packages, packing clothing, or handling bottles and cans in a warehouse.\nImage Credits:Theker\nThat Inditex, Zara’s parent company, signed on as an early backer is a signal of where Theker’s ambitions start, not where they end. The company’s broader goal is to move beyond retail into heavier industrial settings like manufacturing, where the complexity and scale of manual tasks is even greater.\nThis generalist ambition has helped cement Theker’s status as one of Europe’s hot startups to watch — and raise capital accordingly. The Barcelona-based startup has just raised $85 million in what it’s calling “Europe’s largest ever robotics Series A.” (We haven’t found a larger one in our records, either.)\nLess than a year after a record seed round, this Series A was led by American VC firm CRV and backed by a mix of traditional and strategic investors, including Samsung and Aglaé Ventures, the investment vehicle tied to LVMH chairman and CEO Bernard Arnault.\nGómez Cano said Samsung is not a client yet but that the two are in advanced discussions. Theker would welcome having the Korean company as a customer, supplier, and investor simultaneously — a trifecta that would give the startup both revenue and credibility in manufacturing at scale. \nShe also noted that she and co-founder Jiaqiang Ye Zhu “didn’t build Theker to run pilots,” so the team skips innovation departments entirely and goes straight to logistics or operations, where deals are real and timelines are shorter.\nTo demonstrate that the company can actually deliver on that, Theker has a showroom in central Barcelona and plans to open others as it expands across Europe, the U.S., and Asia. It will also grow its headcount across tech, deployment, and sales.  \n“We already received 15,000 job applications and have to filter like crazy,” Gómez Cano said. She estimated that the team could grow from dozens to up to 120 people by the end of the year, then caught herself: “I am saying that, but I also said that we’d raise $30 [million] or $40 million!” \nThat Theker managed to raise twice its target also reinforces the startup’s conviction in keeping its HQ in Barcelona, a growing robotics hub, and in Europe’s tech ecosystem more broadly. “It has never been a barrier to acceleration for us, so we are making the most of it,” Gómez Cano said.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tAnna Heim is a writer and editorial consultant. \nYou can contact or verify outreach from Anna by emailing annatechcrunch [at] gmail.com.\nAs a freelance reporter at TechCrunch since 2021, she has covered a large range of startup-related topics including AI, fintech & insurtech, SaaS & pricing, and global venture capital trends.\nAs of May 2025, her reporting for TechCrunch focuses on Europe’s most interesting startup stories.\nAnna has moderated panels and conducted onstage interviews at industry events of all sizes, including major tech conferences such as TechCrunch Disrupt, 4YFN, South Summit, TNW Conference, VivaTech, and many more.\nA former LATAM & Media Editor at The Next Web, startup founder and Sciences Po Paris alum, she’s fluent in multiple languages, including French, English, Spanish and Brazilian Portuguese.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/06/THEKER-photo-seriesA.jpg?w=150"
-      ],
-      "datePublished": "2026-06-12T01:48:07.000Z",
-      "dateModified": "2026-06-12T01:48:07.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Equal AI raises $30M to screen calls so Indians don’t have to",
-    "url": "https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/20242245.jpeg?w=150",
-    "tag": "Tech",
-    "date": "2026-06-12T04:30:00.000Z",
-    "description": "\nIn India, consumers receive a lot of calls every day, ranging from spam and scams to delivery people and financial service companies trying to contac",
-    "body": "\nIn India, consumers receive a lot of calls every day, ranging from spam and scams to delivery people and financial service companies trying to contact them. There are apps like Truecaller and the government’s Calling Name Presentation (CNAP) system to identify who is calling, but knowing the name of the caller is often not enough. That is why Equal AI is creating an assistant that can receive calls on your behalf, gather information, and tell you why someone is calling.\nThe app is currently available on Android, and since its launch last year, it has grown to more than a million monthly active users and over 300,000 daily active users, it says. The app screens the call and displays the reason someone is calling you.\nThe dialer shows quick reply options like “Leave the delivery near the door” or “Give it to the neighbor,” and the AI reads them back to the caller. You can also type a custom message for the AI to read out. The app records the call, and users can see the recording and transcription history with a summary in the app.\nImage Credits:Equal AI\nEqual AI said today it has raised $30 million in Series B funding led by Prosus Ventures and Tomales Bay Capital, with participation from Think Investments and Valiant Fund. Individual investors include Indian fintech PhonePe’s founder Sameer Nigam, Zubin Bharti Mittal from Airtel Family Office, Skyflow AI co-founder Anshu Sharma, Meta India and Southeast Asia’s VP Sandhya Devanathan, and CtrlS Datacenters’ chairman Sridhar Pinnapureddy. With the new funding, the company has raised over $42 million to date.\nThe round is structured in three tranches, with the startup carrying a different valuation at each stage depending on whether it hits predetermined targets — a growing but still uncommon approach in which startups sell equity at different prices within the same round. The structure has an unusual quirk: It lets a startup advertise the highest valuation achieved, even if the bulk of the equity was sold at a lower one. Equal AI declined to provide its specific valuations.\nThe startup was founded by Keshav Reddy in 2022. Reddy comes from the family behind Indian conglomerate GVK, which has holdings across infrastructure, energy, and healthcare. Equal started as a data-sharing company for financial services and still offers data for financial analysis and know your customer (KYC) verification services for employers.\n“We always wanted to be a customer-facing company, and with Equal AI, the first use case we launched was a call assistant because we realized users get a ton of calls for financial services or job openings. If you are buying car insurance, you might get 20 calls over a week, and that is hard to tackle for a human,” founder Reddy told TechCrunch about why the company started there.\nThe app currently only screens unknown calls, but the company is planning to introduce the ability to screen calls from known numbers too. The company also wants the AI assistant to take proactive action on a user’s behalf — such as texting a delivery person your address (with consent) or making outbound calls to book appointments. The startup said it is also working on an iOS version of the app and a paid subscription tier with more features.\nEqual AI is using a mix of speech recognition, automatic speech recognition (ASR), and speech generation models with its own orchestration layer. English support matters, but consumers in India often speak in their native language or blend multiple languages in a single sentence — a phenomenon called code-mixing. Equal AI says it has built support for over 10 languages with this in mind.\nThe startup has stiff competition. Google and Apple both have call-screening products. Truecaller, already a household name in India, has been building out its own AI assistant features. In the U.S., a16z-backed privacy startup Cloaked also launched call screening last year. Thiago Viana, global co-head at Prosus Ventures, said that Equal’s understanding of local context gives it an edge.\n“Equal AI promises to screen calls for you and provide context on why someone is calling. We think that if an app does well in a few use cases, it can quickly become popular in its niche and create user stickiness to expand in different areas later on,” Reddy told TechCrunch by phone.\nProsus has been investing in AI assistant startups that focus on local markets. Its portfolio includes Spain-based Luzia and Latin America-based Zapia. Both were caught up in Meta’s ban on third-party AI bots on WhatsApp, which serves as a cautionary tale for platform dependency. Equal AI said that it didn’t want to create that kind of dependency — which is why it built around calls and its own app rather than piggybacking on a messaging platform.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Equal AI raises $30M to screen calls so Indians don’t have to",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/06/20242245.jpeg?w=150"
-      ],
-      "datePublished": "2026-06-12T04:30:00.000Z",
-      "dateModified": "2026-06-12T04:30:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -366,6 +266,106 @@
       ],
       "datePublished": "2026-06-12T20:20:00.000Z",
       "dateModified": "2026-06-12T20:20:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
+    "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-06-14T00:03:49.000Z",
+    "description": "\nMeta has begun dismantling its $2 billion acquisition of Manus, completing an operational separation from the Chinese-founded AI startup and halting ",
+    "body": "\nMeta has begun dismantling its $2 billion acquisition of Manus, completing an operational separation from the Chinese-founded AI startup and halting data sharing between the two companies. This is the most concrete step yet toward complying with a divestiture order Beijing issued roughly two months ago on national security grounds.\nMeta has cut Manus off from its internal systems, Bloomberg reported, preventing employees from using Manus tools for internal projects as the two companies move toward a full separation.\nMeanwhile, according to May reports, the co-founders of Manus have held preliminary discussions about raising approximately $1 billion from outside investors to reclaim the startup from Meta, a move that could pave the way for a Chinese joint venture structure and an eventual listing in Hong Kong, a venue that has seen a surge in AI listings this year for Chinese AI startups like MiniMax and Zhipu.\nWhat was supposed to be a landmark exit for Chinese AI is quickly unraveling. The move underscores Beijing’s determination to retain control over strategically sensitive technology, regardless of a company’s offshore incorporation. \nIn addition to the forced divestiture, Chinese authorities have since expanded travel restrictions to researchers and executives at private firms, requiring government approval before heading abroad. China is also tightening its grip on foreign capital, with reports indicating that top AI firms, including Moonshot AI, StepFun, and ByteDance, will need government sign-off before accepting U.S. investment, adding another layer to Beijing’s sweeping effort to control its AI sector. \nEven as Meta moves to sever ties with Manus, the agentic AI startup has continued to ship new features, rolling out integrations with Similarweb and Shopify. \nManus drew widespread attention with a viral agent demo relocated its staff to Singapore in mid-2025 before announcing a $2 billion acquisition by Meta in December. Chinese regulators moved to scrutinize the transaction earlier this year, citing potential violations of technology export controls and foreign investment rules.\nManus investors, including California-based venture firm Benchmark, have already received their proceeds from the acquisition, while Asian backers, including Tencent, HSG, and ZhenFund, have indicated they will cooperate with the unwinding process, according to the WSJ.\nManus’ Chinese origins with parent company Butterfly Effect drew scrutiny on both sides of the Pacific, with Senator John Cornyn questioning whether American capital should flow to a Chinese-linked firm.\nMeta and Manus did not immediately respond to a request for comment outside regular business hours.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\tKate Park is a reporter at TechCrunch, with a focus on technology, startups and venture capital in Asia. She previously was a financial journalist at Mergermarket covering M&A, private equity and venture capital.\n\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=150"
+      ],
+      "datePublished": "2026-06-14T00:03:49.000Z",
+      "dateModified": "2026-06-14T00:03:49.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
+    "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-11-at-3.39.00-PM.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-06-12T04:30:00.000Z",
+    "description": "\nIndia’s AI model output has been slow compared to the U.S., Europe, and China. Only a few startups are releasing models, and most of them are large l",
+    "body": "\nIndia’s AI model output has been slow compared to the U.S., Europe, and China. Only a few startups are releasing models, and most of them are large language models or voice models. To encourage more development, the government launched the India AI Mission, a roughly $1.2 billion initiative that — among other things — gives selected startups access to subsidized GPU compute in exchange for releasing their models publicly. One of the 12 startups selected for the program, Avataar AI, has launched a new video model called Varya that is built to understand local context — such as identifying different festivals, food, and clothing.\nThe Peak XV-backed startup, which focuses on creating video tools for e-commerce, didn’t build Varya from scratch. It started with Wan 2.2, a publicly available video generation model released by Alibaba, and used a technique called distillation — essentially compressing the model’s capabilities into a leaner, faster version optimized for Avataar’s specific use cases. The result is a model that runs in four steps rather than Wan 2.2’s 50, producing video 10 times faster and at a fraction of the cost.\nTo put that in concrete terms: Using an Nvidia H200 GPU, Varya can generate a five-second 720p clip in 45 seconds, compared to 1,230 seconds for Wan 2.2.\n\n\n\nThe most striking aspect of Varya may be its price. The company plans to charge ₹0.48 ($0.005) per second of video on its hosted service — far cheaper than models like Veo, Kling, Luma, and Runway, which typically charge $0.10 or more per second. That’s a roughly 20x price difference.\n“India is a video-first market. We see this across every large consumer internet product in India: video wins over text. Current AI video models are too expensive for population-scale use in India. If video AI is going to reach students, teachers, MSMEs, creators, enterprises, and public services, costs have to come down dramatically. Cost is the biggest unlock for AI adoption in India,” Peak XV’s managing director Rajan Anandan told TechCrunch.\nImage and video generation models often miss cultural nuances and produce stereotyped or generic outputs — a problem TechCrunch has reported on before. Avataar AI says it has used curated data to train Varya to recognize cultural nuances including food, clothing, architecture, and festivals.\nVarya will be released as an open-weight model on India’s AIKosh portal — the Indian government’s centralized repository for publicly available AI models and datasets — along with its training data, meaning developers can self-host or modify it for their own needs. Avataar also plans to make the model available to its enterprise customers and says it is open to partnerships with video tools, including Higgsfield and Adobe Firefly. Anyone can try it now on its website using text prompts or reference images.\nVarya’s launch reflects a fundamental tradeoff in India’s AI ambitions. Industry veterans have noted that India can make its mark in AI by creating applications and a robust developer ecosystem rather than competing on foundation models. And there’s a reason for that pragmatism: Model development has been slower in India than in global rivals due to a lack of compute and limited quality data availability.\nThe India AI Mission is also part of a broader government push to close that gap. Last year, it selected 12 startups — Avataar AI among them — to develop AI models and provided them with cost-efficient compute. Earlier this year, IT minister Ashwini Vaishnaw said India aims to attract $200 billion in AI investment by 2028 and more than double its GPU capacity within six months.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-11-at-3.39.00-PM.jpg?w=150"
+      ],
+      "datePublished": "2026-06-12T04:30:00.000Z",
+      "dateModified": "2026-06-12T04:30:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Elon Musk becomes the world’s first trillionaire after SpaceX’s historic IPO",
+    "url": "https://techcrunch.com/2026/06/12/elon-musk-becomes-the-worlds-first-trillionaire-after-spacexs-historic-ipo/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2147789850.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-06-12T15:55:06.000Z",
+    "description": "\nElon Musk is now the world’s first trillionaire after SpaceX’s public markets debut on Friday, according to Bloomberg News.\nThe SpaceX founder and CE",
+    "body": "\nElon Musk is now the world’s first trillionaire after SpaceX’s public markets debut on Friday, according to Bloomberg News.\nThe SpaceX founder and CEO owned roughly $860 billion worth of the rocket company’s stock after it was priced at $135 per share just ahead of the IPO. Combined with his stake in Tesla, and the immediate pop of SpaceX’s stock on Friday after it began trading, that’s enough to give the tech magnate — already the richest person in the world — an on-paper wealth of more than $1,000,000,000,000.\nSpaceX’s stock continued to climb on Friday in early trading, adding to Musk’s wealth.\nMusk’s ascendance to trillionaire status comes at a time when he is more disliked and more powerful than ever.\nMusk spent much of 2024 funding Donald Trump’s presidential campaign, to the tune of around $300 million. He then got involved in the Trump administration, leading the so-called “Department of Government Efficiency” — which, by all accounts, did not cut overall government spending and mostly involved canceling a number of contracts with little review or care for their contents.\nMusk also led the dismantling of whole departments like USAID, a decision that the Harvard T.H. Chan School of Public Health says has already led to hundreds of thousands of deaths.\nThere is more wealth coming to Musk. \nLast year, he was awarded a pay package by Tesla’s shareholders that could be worth $1 trillion on its own, provided he grows that company’s valuation and hits certain operational milestones. And while 1 billion of his SpaceX shares cannot be sold unless the company creates a human colony on Mars, Musk can borrow against those shares in the meantime. That means he could quickly access billions of dollars in cash before reaching that goal (which SpaceX itself says is “improbable”), and without paying taxes on that wealth.\nAnd while SpaceX is now going to have public shareholders, Musk will enjoy immense power as the company pursues what it calls the largest addressable market in history. He owns more than 80% of the voting control, can hand-select the board of directors, and has structured the company in a way that severely limits any legal challenges.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Elon Musk becomes the world’s first trillionaire after SpaceX’s historic IPO",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2147789850.jpg?w=150"
+      ],
+      "datePublished": "2026-06-12T15:55:06.000Z",
+      "dateModified": "2026-06-12T15:55:06.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+    "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-1487822193.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-06-13T04:14:19.000Z",
+    "description": "\n\nLoading the player…\n\nEntrepreneur and former presidential candidate Andrew Yang has a theory about where the next wave of startup opportunity lies, ",
+    "body": "\n\nLoading the player…\n\nEntrepreneur and former presidential candidate Andrew Yang has a theory about where the next wave of startup opportunity lies, and it starts with a question most founders aren’t asking: what if the business model was giving money back instead of extracting it?\nYang was inspired by Mark Cuban. Not by his wealth, or his celebrity, but by Cost Plus Drugs — Cuban’s startup that sells pharmaceuticals at cost. Yang made a list.\n“Housing, education, food, fuel, transportation, media, and wireless,” Yang told TechCrunch on a recent episode of Equity. “The things we all spend money on.”\nHe picked wireless and last September launched Nobile Mobile, a new mobile virtual network operator that provides cell service for a fraction of what traditional carriers charge and gives customers money back if they use less data. \nAs AI threatens to compress wages and displace workers, Yang sees a business opportunity in bringing down the cost of living. Cost Plus Drugs, Noble Mobile, dumb phone makers like Light Phone, and even online grocery store Misfits Markets are early examples of an emerging business category where the startup’s value proposition is the margin it gives back to the customer.\n“AI is going to suck up a lot of the value and the jobs, and then Americans are going to look up and say, ‘How do I meet basic needs?’” Yang said. He believes meeting people’s needs “less expensively” is “a very rich vein of opportunity.” \nThat instinct didn’t emerge from nowhere. Yang first launched himself into the public eye during his 2020 presidential campaign, during which he advocated for Universal Basic Income as a means of combating AI-related workforce displacement and wealth concentration. The campaign didn’t succeed but the thesis has only grown more relevant.\nYang is still an advocate for UBI, arguing that the value generated by AI companies needs to be redistributed into the hands of the average American. But whether the government will be the vehicle for that redistribution, or whether it will just use any collected wealth to “plug a hole and do something not terribly productive,” Yang is less certain. \n“There is room for a direct connection between the money and the people,” he said. \nThat’s where the market comes in. Where policy fails, Yang argues, market incentives can step in. Noble Mobile is his attempt to prove the point. Since its launch last September, the company has grown to “thousands and thousands” of customers and is bringing in “millions in revenue.”\n“We’re unit profitable per customer, but we just share the profits with our subscribers with the idea that it’ll make you happy, you’ll stay around, and maybe you’ll tell your friends and family,” Yang said. \nThe pitch is simple. Yang noted that the average monthly savings of $50, invested and compounded over 40 years, could amount to $24,000 — enough for a retirement down payment. And in this economy, who isn’t thinking about little ways they can upgrade their personal finance?\nWhether investors will share that enthusiasm is another question entirely. Even if the opportunity is real, capital is concentrated heavily in AI right now, while consumer-facing businesses with thin margins and a social mission are a hard sell.\n“I had at least one investor say to me around Noble Mobile, ‘Love you, Andrew, want to work with you — if you could just make this an AI company, we’ll invest,’” Yang said. \nThe tide might be changing, though, simply because even the most wealthy, extractive companies need an economy in which consumers have enough buying power to purchase their products. \n“The value being concentrated in the hands of a handful of folks and firms is just bad for everybody,” he said. “There are some folks I know in Silicon Valley who are open to that for a variety of reasons…[like] they just don’t want to have to hire private security.”\nYang encouraged founders and investors to take on problems they’re passionate about and find a way to build a valuable enterprise on top of it.\n“Think bigger and more broadly about trying to tackle problems and don’t subscribe so much to groupthink, because there are some valuable opportunities out there,” he said.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tRebecca Bellan is a senior reporter at TechCrunch where she covers the business, policy, and emerging trends shaping artificial intelligence. Her work has also appeared in Forbes, Bloomberg, The Atlantic, The Daily Beast, and other publications. \r\nYou can contact or verify outreach from Rebecca by emailing rebecca.bellan@techcrunch.com or via encrypted message at rebeccabellan.491 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-1487822193.jpg?w=150"
+      ],
+      "datePublished": "2026-06-13T04:14:19.000Z",
+      "dateModified": "2026-06-13T04:14:19.000Z",
       "author": [
         {
           "@type": "Person",
