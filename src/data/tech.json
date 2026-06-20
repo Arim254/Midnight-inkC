@@ -1,5 +1,30 @@
 [
   {
+    "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+    "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2148577076-e1728469833661.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-06-20T16:39:57.000Z",
+    "description": "\nIn Brief\nPosted:\n9:39 AM PDT · June 20, 2026\n\nImage Credits:Jon Kopaloff / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nJohn Jumper, who s",
+    "body": "\nIn Brief\nPosted:\n9:39 AM PDT · June 20, 2026\n\nImage Credits:Jon Kopaloff / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nJohn Jumper, who shared a recent Nobel Prize in chemistry, announced Friday that he’s making the leap to Anthropic after “nearly 9 years” at Google DeepMind.\nIn a post on X, Jumper wrote that DeepMind CEO Demis Hassabis “took a real chance letting me lead the AlphaFold team just six months after finishing my PhD, and the entire GDM team taught me so much about how to do great science.”\nJumper (pictured above right, with Hassabis) added, “GDM is a special place, and I’ll still be excited to hear about what amazing things they discover next.”\nBloomberg reports that Jumper was a key member of Google’s team developing coding tools, which the company has struggled to sell to businesses. Character AI co-founder Noam Shazeer also announced this week that he’s leaving DeepMind — though in Shazeer’s case, he’s joining OpenAI. \nJumper and Hassabis won the Nobel Prize in 2024 for their work on AlphaFold, an AI model that can predict the 3D structure of proteins based on their genetic sequences.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in AI\n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2148577076-e1728469833661.jpg?w=150"
+      ],
+      "datePublished": "2026-06-20T16:39:57.000Z",
+      "dateModified": "2026-06-20T16:39:57.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
     "url": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1502217391.jpg?w=150",
@@ -16,81 +41,6 @@
       ],
       "datePublished": "2026-06-18T21:20:13.000Z",
       "dateModified": "2026-06-18T21:20:13.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
-    "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
-    "image": "https://techcrunch.com/wp-content/uploads/2018/03/gettyimages-824355868.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-06-19T00:51:11.000Z",
-    "description": "\nDeductive AI, a startup that uses AI to catch and resolve bugs in software, has agreed to be sold to enterprise software company Elastic for up to $8",
-    "body": "\nDeductive AI, a startup that uses AI to catch and resolve bugs in software, has agreed to be sold to enterprise software company Elastic for up to $85 million, according to a person with knowledge of the deal.\nDeductive, which was founded in 2023, came out stealth last November when it announced a $7.5 million seed round led by CRV with participation from Databricks Ventures, Thomvest Ventures, and PrimeSet. The investment valued the startup at $33 million, according to PitchBook.\nElastic and Deductive did not respond to multiple requests for comment. TechCrunch will update this article if either company responds. \nThe sale marks a speedy exit for Deductive, which is operating in a fast-growing sector known as AI site reliability engineering (AI SRE). Building AI-powered SRE tools has become an important area, driven by the massive influx of AI-written code. Replacing manual debugging with AI enables human SREs to shift focus from constantly fixing outages and other problems to spending more time on helping with product development.\nThe acquisition reflects a broader trend in which established tech incumbents are looking to buy AI-native startups to integrate agentic technologies into their existing product suites, the source told TechCrunch. \nElastic, which went public in 2018, is best known for Elasticsearch, the search and analytics engine that helps organizations store, search, analyze, and monitor large amounts of data in near real time. \nThe company’s observability software — essentially tools that let engineers monitor software systems and detect security threats — could benefit from Deductive’s tech. According to the source, integrating Deductive’s AI technology into Elastic will enhance its observability platform by giving customers tools to automatically monitor performance and resolve system failures in real time.\nDeductive was co-founded by Rakesh Kothari, who was previously VP of engineering at Lightspeed-backed business analytics startup ThoughtSpot, and Sameer Agarwal, who formerly worked at Apache Software Foundation and Meta. Agrawal was one of the founding engineers at Databricks.  \nWhile Deductive reached roughly $1 million in annual recurring revenue (ARR,) according to the source, the startup’s growth lagged behind Resolve AI, one of the sectors’ perceived early winners. The two-year-old Resolve was co-founded by former Splunk executive Spiros Xanthos and Mayank Agarwal. The Greylock and Lightspeed-backed startup was last valued at $1.5 billion when it raised a $40 million Series A extension in April.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tMarina Temkin is a venture capital and startups reporter at TechCrunch. Prior to joining TechCrunch, she wrote about VC for PitchBook and Venture Capital Journal. Earlier in her career, Marina was a financial analyst and earned a CFA charterholder designation.\r\nYou can contact or verify outreach from Marina by emailing marina.temkin@techcrunch.com or via encrypted message at +1 347-683-3909 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2018/03/gettyimages-824355868.jpg?w=150"
-      ],
-      "datePublished": "2026-06-19T00:51:11.000Z",
-      "dateModified": "2026-06-19T00:51:11.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "OpenAI is bringing on some big guns in the lead-up to its IPO ",
-    "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/noam-shazeer-deal-ball.png?w=150",
-    "tag": "Tech",
-    "date": "2026-06-18T19:59:22.000Z",
-    "description": "\nOpenAI is bringing on some big names to the team in the lead-up to its public debut: Google DeepMind AI legend Noam Shazeer and former Trump White Ho",
-    "body": "\nOpenAI is bringing on some big names to the team in the lead-up to its public debut: Google DeepMind AI legend Noam Shazeer and former Trump White House AI policy official Dean Ball. \nShazeer, a co-lead at Gemini and the founder of AI role-playing startup Character AI, announced his departure from Google on Wednesday. He had been at the company since 2000, leaving only for a three-year period when he left to co-found Character AI. Two years ago, Google rehired Shazeer in a $2.7 billion deal that gave the tech giant access to the startup’s technology. \nThe move is the latest in a series of shufflings between the top AI labs, including Google, OpenAI, Anthropic, and Meta. Shazeer is credited for being one of the foundational minds behind modern generative AI. He co-authored the seminal 2017 paper “Attention Is All You Need,” which introduced the Transformer architecture.\nBefore leaving Google, Shazeer had also reportedly been stirring the pot when it came to political issues. According to The Information, Shazeer voiced opinions on internal messaging boards about transgender identity and Israel’s war in Gaza that resulted in management deleting his posts. \nWhether those controversies will follow him to his new employer remains to be seen. In the meantime, OpenAI is also shoring up its policy credentials by bringing Ball to the team. Ball had a brief stint last year in the White House, where he helped publish America’s AI Action Plan before stepping down to rejoin the techno-libertarian think tank the Foundation for American Innovation as a senior fellow.\n“I am pleased and honored to announce that, on July 6, I’ll be joining OpenAI as leader of a new team called Strategic Futures,” Ball wrote on X on Thursday. “Our mandate will be to help the company’s leadership shape frontier AI policy.”\nBall will report directly to Chief Strategy Officer Jason Kwon. The “small, high-agency team” will focus on “matters pertaining to: catastrophic risk, recursive self-improvement, labor market impact, and the relationship between the frontier labs, governments (particularly the U.S. Federal Government), and society,” Ball wrote in a blog post.\nThe Strategic Futures team will cover both public-facing policy and internal governance, he added. That last is important — Ball noted that “almost by necessity,” AI labs will have to lead on AI governance decisions. \n“In other words, internal governance will be more central to the future of AI than most people realize,” Ball wrote.  \nBall’s decision to join OpenAI — arguably an AI favorite in the administration — comes as Anthropic battles once again with the U.S. government. Late last week, President Donald Trump ordered an export control ban on Anthropic’s latest models, Fable 5 and Mythos 5, leading to the AI firm being forced to take the models down entirely to avoid noncompliance. For anyone who had “government interference” on their S-1 risk factor bingo card, Ball is what it looks like when a company locks in its insider status while a rival is squeezed.\nTechCrunch has reached out to OpenAI for more information.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tRebecca Bellan is a senior reporter at TechCrunch where she covers the business, policy, and emerging trends shaping artificial intelligence. Her work has also appeared in Forbes, Bloomberg, The Atlantic, The Daily Beast, and other publications. \r\nYou can contact or verify outreach from Rebecca by emailing rebecca.bellan@techcrunch.com or via encrypted message at rebeccabellan.491 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "OpenAI is bringing on some big guns in the lead-up to its IPO ",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/06/noam-shazeer-deal-ball.png?w=150"
-      ],
-      "datePublished": "2026-06-18T19:59:22.000Z",
-      "dateModified": "2026-06-18T19:59:22.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Mivo’s new app takes a mindful approach to managing screen time",
-    "url": "https://techcrunch.com/2026/06/18/mivos-new-app-takes-a-mindful-approach-to-managing-screen-time/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1354022389.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-06-18T18:00:00.000Z",
-    "description": "\nDoomscrolling on social media is a very common problem and can feel like an endless loop of constantly losing track of time. Instead of tackling this",
-    "body": "\nDoomscrolling on social media is a very common problem and can feel like an endless loop of constantly losing track of time. Instead of tackling this issue with strict limits, a new mindful screen time app called Mivo Scrolling is trying to shake things up.\nLaunched last month, Mivo doesn’t look much different from other screen time apps. It tracks screen time and usage patterns, and provides insights into daily habits. However, Mivo believes what sets its app apart is its no-shaming approach. The idea that users should be more intentional about their time online has also been fueling the slow tech movement as of late, which is focused on rethinking our relationship with technology.\nRather than outright blocking certain apps, users can set customizable time limits for how long they wish to scroll on specific platforms. For instance, users can schedule two daily scroll sessions, allocating one-hour windows during which they select the apps they want to focus on. When it’s time to take a break, a friendly reminder pops up, nudging them to think about why they’re scrolling right then. Is it out of boredom, looking for a distraction, or genuinely trying to relax? \nImage Credits:Mivo Scrolling (screenshot)\nNotably, unlike other apps that might just try to pull you away from your phone, Mivo lets the user decide if they want to continue, encouraging users to become more aware of how and why they’re using it instead. \n“Most screen time tools try to restrict people after the habit is already happening,” Pranshu Raithatha, creator of Mivo Scrolling, told TechCrunch. “Mivo adds a small reflection moment right when someone opens a social app, so they can pause and ask why they’re opening it before falling into an automatic scroll.”\nAdditionally, users can set regular pauses every two, three, or five minutes, encouraging intermittent check-ins that help maintain awareness of their scrolling habits. Plus, after the scrolling session, Mivo asks the user if they feel like the time was well spent or if they just got lost in the scroll, aiming to help users build a healthier relationship with their phone.\nMivo also includes a widget that users can install on their home screen to display daily scroll time and be reminded of when the next scheduled scroll session is.\nMivo Scrolling is currently available for free on the App Store. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tLauren covers media, streaming, apps and platforms at TechCrunch.\nYou can contact or verify outreach from Lauren by emailing laurenf.techcrunch@gmail.com or via encrypted message at laurenforris22.25 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Mivo’s new app takes a mindful approach to managing screen time",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1354022389.jpg?w=150"
-      ],
-      "datePublished": "2026-06-18T18:00:00.000Z",
-      "dateModified": "2026-06-18T18:00:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -125,6 +75,31 @@
     }
   },
   {
+    "title": "OpenAI is bringing on some big guns in the lead-up to its IPO ",
+    "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/noam-shazeer-deal-ball.png?w=150",
+    "tag": "Tech",
+    "date": "2026-06-18T19:59:22.000Z",
+    "description": "\nOpenAI is bringing on some big names to the team in the lead-up to its public debut: Google DeepMind AI legend Noam Shazeer and former Trump White Ho",
+    "body": "\nOpenAI is bringing on some big names to the team in the lead-up to its public debut: Google DeepMind AI legend Noam Shazeer and former Trump White House AI policy official Dean Ball. \nShazeer, a co-lead at Gemini and the founder of AI role-playing startup Character AI, announced his departure from Google on Wednesday. He had been at the company since 2000, leaving only for a three-year period when he left to co-found Character AI. Two years ago, Google rehired Shazeer in a $2.7 billion deal that gave the tech giant access to the startup’s technology. \nThe move is the latest in a series of shufflings between the top AI labs, including Google, OpenAI, Anthropic, and Meta. Shazeer is credited for being one of the foundational minds behind modern generative AI. He co-authored the seminal 2017 paper “Attention Is All You Need,” which introduced the Transformer architecture.\nBefore leaving Google, Shazeer had also reportedly been stirring the pot when it came to political issues. According to The Information, Shazeer voiced opinions on internal messaging boards about transgender identity and Israel’s war in Gaza that resulted in management deleting his posts. \nWhether those controversies will follow him to his new employer remains to be seen. In the meantime, OpenAI is also shoring up its policy credentials by bringing Ball to the team. Ball had a brief stint last year in the White House, where he helped publish America’s AI Action Plan before stepping down to rejoin the techno-libertarian think tank the Foundation for American Innovation as a senior fellow.\n“I am pleased and honored to announce that, on July 6, I’ll be joining OpenAI as leader of a new team called Strategic Futures,” Ball wrote on X on Thursday. “Our mandate will be to help the company’s leadership shape frontier AI policy.”\nBall will report directly to Chief Strategy Officer Jason Kwon. The “small, high-agency team” will focus on “matters pertaining to: catastrophic risk, recursive self-improvement, labor market impact, and the relationship between the frontier labs, governments (particularly the U.S. Federal Government), and society,” Ball wrote in a blog post.\nThe Strategic Futures team will cover both public-facing policy and internal governance, he added. That last is important — Ball noted that “almost by necessity,” AI labs will have to lead on AI governance decisions. \n“In other words, internal governance will be more central to the future of AI than most people realize,” Ball wrote.  \nBall’s decision to join OpenAI — arguably an AI favorite in the administration — comes as Anthropic battles once again with the U.S. government. Late last week, President Donald Trump ordered an export control ban on Anthropic’s latest models, Fable 5 and Mythos 5, leading to the AI firm being forced to take the models down entirely to avoid noncompliance. For anyone who had “government interference” on their S-1 risk factor bingo card, Ball is what it looks like when a company locks in its insider status while a rival is squeezed.\nTechCrunch has reached out to OpenAI for more information.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tRebecca Bellan is a senior reporter at TechCrunch where she covers the business, policy, and emerging trends shaping artificial intelligence. Her work has also appeared in Forbes, Bloomberg, The Atlantic, The Daily Beast, and other publications. \r\nYou can contact or verify outreach from Rebecca by emailing rebecca.bellan@techcrunch.com or via encrypted message at rebeccabellan.491 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "OpenAI is bringing on some big guns in the lead-up to its IPO ",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/06/noam-shazeer-deal-ball.png?w=150"
+      ],
+      "datePublished": "2026-06-18T19:59:22.000Z",
+      "dateModified": "2026-06-18T19:59:22.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
     "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=150",
@@ -141,6 +116,31 @@
       ],
       "datePublished": "2026-06-19T16:08:17.000Z",
       "dateModified": "2026-06-19T16:08:17.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
+    "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+    "image": "https://techcrunch.com/wp-content/uploads/2018/03/gettyimages-824355868.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-06-19T00:51:11.000Z",
+    "description": "\nDeductive AI, a startup that uses AI to catch and resolve bugs in software, has agreed to be sold to enterprise software company Elastic for up to $8",
+    "body": "\nDeductive AI, a startup that uses AI to catch and resolve bugs in software, has agreed to be sold to enterprise software company Elastic for up to $85 million, according to a person with knowledge of the deal.\nDeductive, which was founded in 2023, came out stealth last November when it announced a $7.5 million seed round led by CRV with participation from Databricks Ventures, Thomvest Ventures, and PrimeSet. The investment valued the startup at $33 million, according to PitchBook.\nElastic and Deductive did not respond to multiple requests for comment. TechCrunch will update this article if either company responds. \nThe sale marks a speedy exit for Deductive, which is operating in a fast-growing sector known as AI site reliability engineering (AI SRE). Building AI-powered SRE tools has become an important area, driven by the massive influx of AI-written code. Replacing manual debugging with AI enables human SREs to shift focus from constantly fixing outages and other problems to spending more time on helping with product development.\nThe acquisition reflects a broader trend in which established tech incumbents are looking to buy AI-native startups to integrate agentic technologies into their existing product suites, the source told TechCrunch. \nElastic, which went public in 2018, is best known for Elasticsearch, the search and analytics engine that helps organizations store, search, analyze, and monitor large amounts of data in near real time. \nThe company’s observability software — essentially tools that let engineers monitor software systems and detect security threats — could benefit from Deductive’s tech. According to the source, integrating Deductive’s AI technology into Elastic will enhance its observability platform by giving customers tools to automatically monitor performance and resolve system failures in real time.\nDeductive was co-founded by Rakesh Kothari, who was previously VP of engineering at Lightspeed-backed business analytics startup ThoughtSpot, and Sameer Agarwal, who formerly worked at Apache Software Foundation and Meta. Agrawal was one of the founding engineers at Databricks.  \nWhile Deductive reached roughly $1 million in annual recurring revenue (ARR,) according to the source, the startup’s growth lagged behind Resolve AI, one of the sectors’ perceived early winners. The two-year-old Resolve was co-founded by former Splunk executive Spiros Xanthos and Mayank Agarwal. The Greylock and Lightspeed-backed startup was last valued at $1.5 billion when it raised a $40 million Series A extension in April.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tMarina Temkin is a venture capital and startups reporter at TechCrunch. Prior to joining TechCrunch, she wrote about VC for PitchBook and Venture Capital Journal. Earlier in her career, Marina was a financial analyst and earned a CFA charterholder designation.\r\nYou can contact or verify outreach from Marina by emailing marina.temkin@techcrunch.com or via encrypted message at +1 347-683-3909 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2018/03/gettyimages-824355868.jpg?w=150"
+      ],
+      "datePublished": "2026-06-19T00:51:11.000Z",
+      "dateModified": "2026-06-19T00:51:11.000Z",
       "author": [
         {
           "@type": "Person",
@@ -175,31 +175,6 @@
     }
   },
   {
-    "title": "The CEO of Allbirds’ new AI biz has a plan, but no team",
-    "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Nadia-Carlsten-HS.png?w=150",
-    "tag": "Tech",
-    "date": "2026-06-19T13:00:00.000Z",
-    "description": "\nWhen Allbirds pivoted to AI in April, it felt like a joke from “Silicon Valley” breaking free of the TV: The direct-to-consumer shoe purveyor whose f",
-    "body": "\nWhen Allbirds pivoted to AI in April, it felt like a joke from “Silicon Valley” breaking free of the TV: The direct-to-consumer shoe purveyor whose flimsy kicks helped define what we’ll loosely call “Silicon Valley style” had discovered a new trend to chase.\nThe move was right out of the meme stock playbook written by GameStop: Take a troubled public company, latch on to the hottest fad, and reap the rewards of a rising stock price as retail investors pile in.\nWell, it worked. The company sold its shoe business for $43 million, raised another $100 million from the stock market, and now it’s called Smartbird.\nNow Nadia Carlsten has to make it work. A former AWS executive with an engineering PhD, Carlsten most recently led the European compute company DCAI before she began yesterday as Smartbird’s CEO.\n“We’re going to be recruiting a brand-new team for the AI business, and we’re going to be getting an office,” Carlsten told TechCrunch from Amsterdam. “The shoe business has officially closed as of yesterday, so that’s all done … The first task that I’m tackling right now is rounding up the leadership team, looking for somebody to lead infrastructure operations, for example.”\nCall it a startup with a sole founder and a very large seed round. What’s next is less clear. \nSmartbird aims to be an AI infrastructure provider, latching on to the seemingly bottomless demand for compute to train and run deep learning models. But unlike neoclouds, which relentlessly arbitrage the price of chips against the cost of GPU time or inference tokens, Carlsten will be aiming at more carefully managed deployments. The ideal Smartbird customers need direct control over the servers running their models — typically for political or business-model reasons — and value data sovereignty over the scalability of the public cloud.\nCarlsten couldn’t yet estimate the size of that market and argued that it was fairly nascent, since many companies are still just piloting AI tools. At DCAI, she worked with Novo Nordisk and other European firms that take a special interest in data sovereignty or operate bespoke models: “We certainly have anybody that’s within the pharmaceutical industry, energy industry, financial, the public sector,” she said.\nTo Carlsten’s view, that means Smartbird isn’t competing with hyperscalers or neoclouds, but with internal company projects. Still, there are established companies in this space — Hewlett Packard offers a single-tenant managed AI compute service, as does Equinix, the data center giant.\nIt’s a real business model, but it’s not clear if it has the same growth potential as the cloud services, where expansion is the be-all and end-all. Carlsten said she expects to have compute clusters deployed for several customers by the end of the year. Other startups, like the inference cloud General Compute, have bigger ambitions — the company announced a $300 billion chip order when it came out of stealth last month.\nCarlsten says she doesn’t need big chip commitments to realize Smartbird’s vision, because her potential customers needs sit in the range of hundreds to thousands of chips — it’s “not about large scales and huge numbers of GPUs; they’re more about agility of these clusters, and more about having control of the infrastructure stack.”\nSmartbird is also unlikely to compete with rivals on price, since cloud services go to great lengths to optimize chip usage 24 hours a day to offer the cheapest compute, though Carlsten suspects that companies with specialized workflows will be able to work more efficiently with their own servers.\nDemand for AI infrastructure is a powerful force in the market, driving up the stock prices for chipmakers, cloud providers, and energy companies, even convincing investors that orbital data centers are a feasible idea. But Carlsten insists that Allbird’s transition was carefully thought through. \n“It wasn’t, ‘Let’s just do AI, because it’s AI, and it’s hot,’” Carlsten, who will be paid a $700,000 annual salary and was awarded stock worth about $9 million to take the job, said. “It was really about, do we have a chance to build a business over time that is going to find this niche in the market and be able to grow over time?”\nWhen Allbirds pivoted, one thing that went by the wayside was its public benefit corporation (PBC) status, which had been intended to enshrine the sustainability commitments that were part of the shoe company’s pitch. PBC charters are often used by companies to highlight non-financial promises. OpenAI, for example, is a PBC with a focus on AI safety. This change of direction, however, suggests PBCs are hardly ironclad.\nCarlsten said that Smartbird’s board made a long-term commitment to execute against her AI strategy.\n“There are some companies out there chasing AI,” she told TechCrunch, “but at the end of the day, what matters is, is there actual weight behind the chasing?”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tTim Fernholz is a journalist who writes about technology, finance and public policy. He has closely covered the rise of the private space industry and is the author of  Rocket Billionaires: Elon Musk, Jeff Bezos and the New Space Race. Formerly, he was a senior reporter at Quartz, the global business news site, for more than a decade, and began his career as a political reporter in Washington, D.C. \nYou can contact or verify outreach from Tim by emailing tim.fernholz@techcrunch.com or via an encrypted message to tim_fernholz.21 on Signal.\r\n\t\n\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "The CEO of Allbirds’ new AI biz has a plan, but no team",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/06/Nadia-Carlsten-HS.png?w=150"
-      ],
-      "datePublished": "2026-06-19T13:00:00.000Z",
-      "dateModified": "2026-06-19T13:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Billionaire Ambani wants AI in every call, app, and home",
     "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/reliance-mukesh-ambani.jpg?w=150",
@@ -216,6 +191,56 @@
       ],
       "datePublished": "2026-06-19T15:23:28.000Z",
       "dateModified": "2026-06-19T15:23:28.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026 — here’s why it matters",
+    "url": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Japan-Go-.png?w=150",
+    "tag": "Tech",
+    "date": "2026-06-19T21:45:00.000Z",
+    "description": "\nGo’s IPO — Japan’s biggest so far this year — has done more than provide a much-needed boost to the country’s languishing listing season. It has also",
+    "body": "\nGo’s IPO — Japan’s biggest so far this year — has done more than provide a much-needed boost to the country’s languishing listing season. It has also supplied the taxi-hailing app with the capital required to address an existential issue: Japan’s shortage of drivers. \nGo, which went public Tuesday, plans to use the ¥88.6 billion ($553 million) raised in its IPO to expand its robotaxi business and make acquisitions, according to a company spokesperson. \n“We intend to use the proceeds from the sale of newly issued shares toward investment in research and development related to robotaxis and investment in business expansions, including strategic mergers and acquisitions in our business inside and outside of the taxi industry,” the spokesperson said.\nThe Japanese taxi-hailing company’s debut came in one of Japan’s quietest listing seasons, at a time when the government has been telling startups to sell themselves rather than go public. Go drew investments from BlackRock, Wellington Management, and M&G Investment Management in the process, underscoring where global institutional money is willing to go in Japan right now. The stock has since pulled back below its offering price, closing at ¥2,314 on Friday, down about 4% from the IPO price of ¥2,400.\nGo’s robotaxi ambitions are rooted in a human problem. Japan’s taxi industry is running out of drivers. The number of taxi drivers has fallen roughly 20% in recent years, according to a report citing Japan’s Ministry of Land, Infrastructure, Transport and Tourism.\nAn aging population means that figure is unlikely to recover. Ride-share services launched in Japan in 2024 but remain limited to certain areas and require drivers to be employed by a taxi company — restrictions that have done little to address the shortage.  \nGo was founded in 1977 as a taxi operator and now runs Japan’s largest ride-hailing app, with 35 million downloads, 85,000 partner vehicles, and an 80% share of Japan’s taxi app market by usage time, covering 46 of Japan’s 47 prefectures.\nGo believes robotaxis will be part of its future — although it’s not clear when that vision will become a reality. \nGo has partnered with Waymo, an autonomous driving subsidiary of Alphabet, alongside Nihon Kotsu, one of Japan’s biggest taxi operators. Go is responsible for strategic coordination of the partnership, according to the spokesperson. CEO Hiroshi Nakajima has previously said that Go will not invest in autonomous driving systems itself, according to Nikkei Asia.\nGo has not set a timeline for fully driverless operations. \n“We plan to begin driving fully autonomously, without a human specialist present, when we validate our technology and receive approval to do so,” the spokesperson said. \nIn the meantime, Go is looking for ways to give its traditional business a competitive edge. For instance, the company has partnered with Kakao T, Alipay, and WeChat Pay that allows inbound travelers from South Korea, China, and Taiwan to hail Go-affiliated taxis directly from their local apps.\nGo is not the only company betting on Tokyo’s robotaxi future. \nIn March, Uber, Wayve, and Nissan announced plans to pilot robotaxi services in Tokyo by late 2026, marking Uber’s first autonomous vehicle partnership in Japan. The service will use Nissan Leaf electric vehicles powered by Wayve’s AI Driver and will be bookable through the Uber app.\nUber has also teamed up with S.Ride to let international visitors book rides through the Uber app. Didi Mobility Japan, a joint venture between SoftBank and Didi Chuxing, has a similar arrangement.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\tKate Park is a reporter at TechCrunch, with a focus on technology, startups and venture capital in Asia. She previously was a financial journalist at Mergermarket covering M&A, private equity and venture capital.\n\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026 — here’s why it matters",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/06/Japan-Go-.png?w=150"
+      ],
+      "datePublished": "2026-06-19T21:45:00.000Z",
+      "dateModified": "2026-06-19T21:45:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Telegram ban in India sparks a rush to VPNs, rival apps",
+    "url": "https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/telegram-image.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-06-19T01:01:00.000Z",
+    "description": "\nAs India cut off access to messaging app Telegram for a week over concerns about exam-related fraud, users turned to virtual private networks (VPNs) ",
+    "body": "\nAs India cut off access to messaging app Telegram for a week over concerns about exam-related fraud, users turned to virtual private networks (VPNs) and alternative messaging apps in unusually large numbers.\nApp intelligence firm Appfigures told TechCrunch that Tuesday, the day India announced the Telegram restriction, marked the biggest day for VPN app downloads in the country since at least the start of 2025. Downloads of major VPN apps rose 49% from a recent daily average of 139,000 to 208,000, the firm said.\nProton VPN and Turbo VPN recorded some of the largest increases. Downloads of Proton VPN on Apple’s App Store in India jumped 113%, while Turbo VPN downloads rose 85%. On Google Play, downloads of Proton VPN climbed 64% and Turbo VPN downloads increased 35%. NordVPN’s App Store downloads increased 41%, while ExpressVPN downloads on Google Play rose 31%.\nThe surge also pushed several VPN services up India’s app store charts. Proton VPN climbed from 18th to 5th in Apple’s Utilities rankings between June 16 and June 18, while its Google Play ranking rose from 8th to 2nd in the Tools category, according to Appfigures.\nThe spike in VPN demand followed India’s decision to temporarily restrict Telegram until June 22 over concerns that fraudsters were using the platform to target candidates ahead of a retest for the National Eligibility cum Entrance Test (Undergraduate), the country’s largest entrance examination by applicant volume. The Indian government said the measure was needed to prevent the spread of fake exam papers and related scams. Telegram challenged the order in the Delhi High Court, arguing that authorities should target specific content rather than block the entire platform. The court, however, upheld the restriction on Friday.\nThe response extended beyond app store download data. Proton said daily registrations from India rose 120% above baseline levels on Wednesday, after hourly registrations had already spiked 150% on Tuesday evening following the Telegram restriction. The company described the increase as “extremely noteworthy” given its existing scale in the country.\nCanadian VPN service provider Windscribe reported a similar trend. The company told TechCrunch that sign-ups from India peaked roughly 100% above baseline levels, while first-time downloads of its iOS app in the country rose about 89%.\n“The spike in India follows the same general trend we see in areas that ban specific apps, introduce age bans or verification requirements, or otherwise restrict internet access,” Rebecca Rosenberg, growth operations manager at Windscribe, said.\nImage Credits:Windscribe\nSurfshark also reported higher demand from India, saying it had seen a roughly 30% increase in connectivity from the country since the restriction was announced earlier this week.\nThe trend was not limited to a handful of VPN providers. Sensor Tower told TechCrunch that downloads across the VPN app category in India rose 10% day-over-day on June 17, reversing a decline seen over the previous two weeks.\n“Spikes in demand for VPNs tend to follow any kind of platform restriction, regardless of the reason behind it,” said Laura Tyrylyte, a privacy advocate at NordVPN. “When access to a tool people rely on is suddenly removed, they look for alternatives fast.”\nTyrylyte told TechCrunch that the response to Telegram’s restriction in India suggests users are becoming increasingly familiar with circumvention tools and are reacting more quickly to online restrictions than in the past.\nUsers also appeared to be exploring alternatives to Telegram. Appfigures said downloads of Signal in India rose 72% on Apple’s App Store and 322% on Google Play following the restriction, while Viber’s App Store downloads increased 216%.\nTelegram-linked messaging app iMe recorded one of the sharpest jumps. Its Google Play downloads rose from a recent daily average of about 827 to 50,900 on June 16, Appfigures said.\nYet the restriction did not immediately translate into lower Telegram usage. Sensor Tower said Telegram’s daily active users in India rose 17% on the day the measure was announced — the app’s largest day-over-day increase in the country since a widespread outage of Meta’s services in 2021.\nOther data points also suggest heightened efforts to access Telegram following the restriction. \nCloudflare Radar lead Lai Yi Ohlsen told TechCrunch that DNS requests for Telegram domains in India increased sharply over the two days after the measure was announced. The company cautioned that higher DNS traffic does not necessarily indicate successful access to the platform and could reflect users repeatedly attempting to reach Telegram after it was blocked.\nImage Credits:Cloudflare\nTelegram pointed to its efforts to cooperate with authorities during hearings in the Delhi High Court this week. Its lawyers said the company had removed channels identified by authorities and questioned the need for a platform-wide restriction affecting what Telegram says are over 150 million users in India.\nGovernment lawyers defended the measure as a temporary, event-linked response tied to the NEET retest. Solicitor General Tushar Mehta told the court that a permanent ban could raise proportionality concerns but argued the current restriction had a “logical nexus” to the objective being pursued.\nIn its ruling on Friday, the court found that authorities had followed the prescribed procedure given the emergency nature of the order.\nAccording to Surfshark’s Internet Shutdown Tracker, Telegram is currently blocked in 13 countries and has faced disruptions in at least 40 others over the years.\nSuch restrictions have often been followed by a surge in demand for circumvention tools. Sensor Tower said VPN downloads in the U.S. rose more than 40% week-over-week when TikTok was briefly removed from U.S. app stores in 2025, while Windscribe said it has observed similar patterns following restrictions in countries such as Iran and Russia.\nNote: This story was updated to add details of the Delhi High Court’s ruling upholding the Telegram restriction.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Telegram ban in India sparks a rush to VPNs, rival apps",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/06/telegram-image.jpg?w=150"
+      ],
+      "datePublished": "2026-06-19T01:01:00.000Z",
+      "dateModified": "2026-06-19T01:01:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -300,47 +325,22 @@
     }
   },
   {
-    "title": "Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026. Here’s why it matters",
-    "url": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Japan-Go-.png?w=150",
+    "title": "The CEO of Allbirds’ new AI biz has a plan, but no team",
+    "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Nadia-Carlsten-HS.png?w=150",
     "tag": "Tech",
-    "date": "2026-06-19T21:45:00.000Z",
-    "description": "\nGo’s IPO — Japan’s biggest so far this year — has done more than provide a much-needed boost to the country’s languishing listing season. It has also",
-    "body": "\nGo’s IPO — Japan’s biggest so far this year — has done more than provide a much-needed boost to the country’s languishing listing season. It has also supplied the taxi-hailing app with the capital required to address an existential issue: Japan’s shortage of drivers. \nGo, which went public Tuesday, plans to use the ¥88.6 billion ($553 million) raised in its IPO to expand its robotaxi business and make acquisitions, according to a company spokesperson. \n“We intend to use the proceeds from the sale of newly issued shares toward investment in research and development related to robotaxis and investment in business expansions, including strategic mergers and acquisitions in our business inside and outside of the taxi industry,” the spokesperson said.\nThe Japanese taxi-hailing company’s debut came in one of Japan’s quietest listing seasons, at a time when the government has been telling startups to sell themselves rather than go public. Go drew investments from BlackRock, Wellington Management, and M&G Investment Management in the process, underscoring where global institutional money is willing to go in Japan right now. The stock has since pulled back below its offering price, closing at ¥2,314 on Friday, down about 4% from the IPO price of ¥2,400.\nGo’s robotaxi ambitions are rooted in a human problem. Japan’s taxi industry is running out of drivers. The number of taxi drivers has fallen roughly 20% in recent years, according to a report citing Japan’s Ministry of Land, Infrastructure, Transport and Tourism. \nAn aging population means that figure is unlikely to recover. Ride-share services launched in Japan in 2024, but remain limited to certain areas and require drivers to be employed by a taxi company; restrictions that have done little to address the shortage.  \nGo was founded in 1977 as a taxi operator and now runs Japan’s largest ride-hailing app with 35 million downloads, 85,000 partner vehicles, and an 80% share of Japan’s taxi app market by usage time, covering 46 of Japan’s 47 prefectures. \nGo believes robotaxis will be part of its future — although it’s not clear when that vision will become a reality. \nGo has partnered with Waymo, an autonomous driving subsidiary of Alphabet, alongside Nihon Kotsu, one of Japan’s biggest taxi operators. Go is responsible for strategic coordination of the partnership, according to the spokesperson. CEO Hiroshi Nakajima has previously said that  Go will not invest in autonomous driving systems itself, according to Nikkei Asia.\nGo has not set a timeline for fully driverless operations. \n“We plan to begin driving fully autonomously, without a human specialist present, when we validate our technology and receive approval to do so,” the spokesperson said. \nIn the meantime, Go is looking for ways to give its traditional business a competitive edge. For instance, the company has partnered with Kakao T, Alipay, and WeChat Pay that allows inbound travelers from South Korea, China, and Taiwan to hail Go-affiliated taxis directly from their local apps.\nGo is not the only company betting on Tokyo’s robotaxi future. \nIn March, Uber, Wayve, and Nissan announced plans to pilot robotaxi services in Tokyo by late 2026, marking Uber’s first autonomous vehicle partnership in Japan. The service will use Nissan Leaf electric vehicles powered by Wayve’s AI Driver, and will be bookable through the Uber app. \nUber has also teamed up with S.Ride to let international visitors book rides through the Uber app. Didi Mobility Japan, a joint venture between SoftBank and Didi Chuxing, has a similar arrangement.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\tKate Park is a reporter at TechCrunch, with a focus on technology, startups and venture capital in Asia. She previously was a financial journalist at Mergermarket covering M&A, private equity and venture capital.\n\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-06-19T13:00:00.000Z",
+    "description": "\nWhen Allbirds pivoted to AI in April, it felt like a joke from “Silicon Valley” breaking free of the TV: The direct-to-consumer shoe purveyor whose f",
+    "body": "\nWhen Allbirds pivoted to AI in April, it felt like a joke from “Silicon Valley” breaking free of the TV: The direct-to-consumer shoe purveyor whose flimsy kicks helped define what we’ll loosely call “Silicon Valley style” had discovered a new trend to chase.\nThe move was right out of the meme stock playbook written by GameStop: Take a troubled public company, latch on to the hottest fad, and reap the rewards of a rising stock price as retail investors pile in.\nWell, it worked. The company sold its shoe business for $43 million, raised another $100 million from the stock market, and now it’s called Smartbird.\nNow Nadia Carlsten has to make it work. A former AWS executive with an engineering PhD, Carlsten most recently led the European compute company DCAI before she began yesterday as Smartbird’s CEO.\n“We’re going to be recruiting a brand-new team for the AI business, and we’re going to be getting an office,” Carlsten told TechCrunch from Amsterdam. “The shoe business has officially closed as of yesterday, so that’s all done … The first task that I’m tackling right now is rounding up the leadership team, looking for somebody to lead infrastructure operations, for example.”\nCall it a startup with a sole founder and a very large seed round. What’s next is less clear. \nSmartbird aims to be an AI infrastructure provider, latching on to the seemingly bottomless demand for compute to train and run deep learning models. But unlike neoclouds, which relentlessly arbitrage the price of chips against the cost of GPU time or inference tokens, Carlsten will be aiming at more carefully managed deployments. The ideal Smartbird customers need direct control over the servers running their models — typically for political or business-model reasons — and value data sovereignty over the scalability of the public cloud.\nCarlsten couldn’t yet estimate the size of that market and argued that it was fairly nascent, since many companies are still just piloting AI tools. At DCAI, she worked with Novo Nordisk and other European firms that take a special interest in data sovereignty or operate bespoke models: “We certainly have anybody that’s within the pharmaceutical industry, energy industry, financial, the public sector,” she said.\nTo Carlsten’s view, that means Smartbird isn’t competing with hyperscalers or neoclouds, but with internal company projects. Still, there are established companies in this space — Hewlett Packard offers a single-tenant managed AI compute service, as does Equinix, the data center giant.\nIt’s a real business model, but it’s not clear if it has the same growth potential as the cloud services, where expansion is the be-all and end-all. Carlsten said she expects to have compute clusters deployed for several customers by the end of the year. Other startups, like the inference cloud General Compute, have bigger ambitions — the company announced a $300 billion chip order when it came out of stealth last month.\nCarlsten says she doesn’t need big chip commitments to realize Smartbird’s vision, because her potential customers needs sit in the range of hundreds to thousands of chips — it’s “not about large scales and huge numbers of GPUs; they’re more about agility of these clusters, and more about having control of the infrastructure stack.”\nSmartbird is also unlikely to compete with rivals on price, since cloud services go to great lengths to optimize chip usage 24 hours a day to offer the cheapest compute, though Carlsten suspects that companies with specialized workflows will be able to work more efficiently with their own servers.\nDemand for AI infrastructure is a powerful force in the market, driving up the stock prices for chipmakers, cloud providers, and energy companies, even convincing investors that orbital data centers are a feasible idea. But Carlsten insists that Allbird’s transition was carefully thought through. \n“It wasn’t, ‘Let’s just do AI, because it’s AI, and it’s hot,’” Carlsten, who will be paid a $700,000 annual salary and was awarded stock worth about $9 million to take the job, said. “It was really about, do we have a chance to build a business over time that is going to find this niche in the market and be able to grow over time?”\nWhen Allbirds pivoted, one thing that went by the wayside was its public benefit corporation (PBC) status, which had been intended to enshrine the sustainability commitments that were part of the shoe company’s pitch. PBC charters are often used by companies to highlight non-financial promises. OpenAI, for example, is a PBC with a focus on AI safety. This change of direction, however, suggests PBCs are hardly ironclad.\nCarlsten said that Smartbird’s board made a long-term commitment to execute against her AI strategy.\n“There are some companies out there chasing AI,” she told TechCrunch, “but at the end of the day, what matters is, is there actual weight behind the chasing?”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tTim Fernholz is a journalist who writes about technology, finance and public policy. He has closely covered the rise of the private space industry and is the author of  Rocket Billionaires: Elon Musk, Jeff Bezos and the New Space Race. Formerly, he was a senior reporter at Quartz, the global business news site, for more than a decade, and began his career as a political reporter in Washington, D.C. \nYou can contact or verify outreach from Tim by emailing tim.fernholz@techcrunch.com or via an encrypted message to tim_fernholz.21 on Signal.\r\n\t\n\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026. Here’s why it matters",
+      "headline": "The CEO of Allbirds’ new AI biz has a plan, but no team",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/06/Japan-Go-.png?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/06/Nadia-Carlsten-HS.png?w=150"
       ],
-      "datePublished": "2026-06-19T21:45:00.000Z",
-      "dateModified": "2026-06-19T21:45:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "AI data centers just got a government-mandated fast lane to the grid",
-    "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/12/Energy-sector-Getty.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-06-18T17:49:23.000Z",
-    "description": "\nThe Federal Energy Regulatory Commission (FERC) told grid operators on Thursday to fast-track interconnection requests from data centers and other la",
-    "body": "\nThe Federal Energy Regulatory Commission (FERC) told grid operators on Thursday to fast-track interconnection requests from data centers and other large electricity users.\nUnder the orders, six major grid operators have to show that data centers are “able to connect to the transmission system in a timely and orderly manner.” Data centers will be responsible for paying the costs of the interconnection. Commissioners approved the orders unanimously.\nFERC also provided an opening to grid tech startups, directing grid operators to consider “alternative transmission technologies.” The commission didn’t name specific technologies, but the directive could include things like solid-state transformers or superconducting transmission lines.\nGrid operators now have 30 days to submit a report detailing how much generating capacity they have to spare, if any. They also have 60 days to “defend or revise” electricity rates within their regions. FERC also directed grid operators to be more accommodating to behind-the-meter power for data centers.\nWhile FERC’s directives gave data centers a fast lane to connect, they did not address the shortage of generating capacity. \nGrid connections have been slow to materialize in part because new power plants are also having problems connecting. At the end of 2023, grid connection requests for power plants exceeded the total capacity of the existing power plant fleet, meaning the line to get on the grid was longer than the grid itself could theoretically serve.\nAgainst this backdrop, electricity demand from data centers is expected to nearly triple through 2035. Grid operators, which had grown accustomed to near-zero demand growth over the last two decades, have strained under the load. Some, like PJM, the country’s largest grid operator, have descended into something resembling chaos, with major utilities threatening to withdraw.\nTech companies and developers, unable to connect to the grid in a timely manner in many locations, have been turning to on-site, or behind-the-meter, power (which is typically more expensive and complicated) out of desperation.\nStill, enough projects have been able to connect that electricity prices have soared in many regions. Wholesale electricity rates are up as much as 267% compared with five years ago, according to Bloomberg.\nFERC was prodded to take on the issue by Secretary of Energy Chris Wright, who in October said delays in data center grid connections had threatened to undermine U.S. competitiveness in AI. Since then, public sentiment toward AI and data centers has soured considerably. \nMeanwhile, the Trump administration on Wednesday said it would pay $765 million to wind developer Invenergy to cancel offshore wind leases near California, Maine, and New York. The company said it would use the money to build natural gas plants in the Midwest and geothermal projects in the West. One of Invenergy’s wind projects would have generated as much as 2.4 gigawatts of power — enough, at peak output, to supply roughly 1.8 million homes.\nAltogether, the Trump administration has now spent about $2.6 billion to scuttle offshore wind developments.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tTim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor. \r\nDe Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.\r\nYou can contact or verify outreach from Tim by emailing tim.dechant@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "AI data centers just got a government-mandated fast lane to the grid",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/12/Energy-sector-Getty.jpg?w=150"
-      ],
-      "datePublished": "2026-06-18T17:49:23.000Z",
-      "dateModified": "2026-06-18T17:49:23.000Z",
+      "datePublished": "2026-06-19T13:00:00.000Z",
+      "dateModified": "2026-06-19T13:00:00.000Z",
       "author": [
         {
           "@type": "Person",
