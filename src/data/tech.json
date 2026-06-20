@@ -25,31 +25,6 @@
     }
   },
   {
-    "title": "He made your free video player run smoothly. Now he’s doing that for robots.",
-    "url": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2182705840.jpeg?w=150",
-    "tag": "Tech",
-    "date": "2026-06-20T00:47:44.000Z",
-    "description": "\nYou’ve probably used VLC Media Player, the free video player with the orange traffic-cone icon — it’s been downloaded more than 6 billion times. But ",
-    "body": "\nYou’ve probably used VLC Media Player, the free video player with the orange traffic-cone icon — it’s been downloaded more than 6 billion times. But according to its lead developer, Jean-Baptiste Kempf, robots will soon be almost as ubiquitous as his open source video software.\nConvinced that “hundreds of millions of robots and drones” will be roaming the streets in a few years, this French serial entrepreneur and open-source legend has been building Kyber, an infrastructure layer for controlling remote devices in real time. Its core software is an SDK that synchronizes video, audio, sensor data, and control inputs with minimal latency.\nThis lines up well with the rise of physical AI, and it’s part of why the Paris-based startup was able to raise a $5 million round led by Lightspeed, which has also backed Anthropic and Mistral AI. “Physical AI is only as good as the underlying systems running it,” the American VC firm wrote in a LinkedIn post announcing its investment.\nKyber’s potential applications go well beyond AI, though. Kempf told TechCrunch the platform is built for “all the use cases where the person who’s operating is not in the same place as the compute, which is not in the same place as the action.”\nRemote control is one half of the equation; speed is the other — and it’s what inspired the startup’s name, a nod to the lightsaber crystals in Star Wars. “If you control things in the real world, every millisecond matters,” Kempf said.\nKyber’s approach to eliminating lag is rooted firmly in video-streaming technology. The company started as a side project Kempf built while CTO at cloud gaming startup Shadow, and its early focus on streaming makes the VLC connection an easy one to draw. But IoT expertise matters just as much for optimization — tuning performance to a device’s available compute, at scale — the other core piece of what Kyber does.\nKempf says other companies with the resources and the need have already built similar software for their own use cases, like remote driving. “But the largest fleets today have maybe 2,000 or 3,000 vehicles. Imagine you need to manage millions of them; that’s not the same thing.”\nThat jump in scale also raises the stakes on observability — knowing systems are actually working will matter even more when AI agents, not people, are managing entire fleets and networks. Even at much smaller scale, though, there’s a real benefit: not needing to physically reach every device just to push a software update, for example.\nThat range — from a handful of devices to millions — means Kyber’s user base will likely span far more companies than will ever become paying customers. True to Kempf’s roots, the core project is open source, while the company sells a productized version to enterprise customers. And it’s not just software: like Palantir and others, Kyber also offers hands-on, custom deployment through forward-deployed engineers, or FDEs.\nFDEs make up a large part of Kyber’s team, which currently numbers 25 full-time staffers. The startup is headquartered in Paris but has offices in San Francisco and Singapore to support what it expects will be a global client base across a variety of industries. The company says it is already in commercial deployment with customers in defense, telco, robotics, and AI.\nTo focus its efforts, Kyber has been prioritizing three segments: robotics, drones of every kind, and remote IT access, where demand has been particularly strong. In that last segment, Kempf says Kyber aspires to be more than just a Citrix challenger — but even that comparison alone points to a sizable total addressable market.\nRemote IT access isn’t exactly glamorous, but Kempf seems energized by the problem — and Kyber’s careers page hints at why: “The companies that tried to solve it spent years and tens of millions building custom solutions they’ll never share. We’re building the version everyone else can use.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tAnna Heim is a writer and editorial consultant. \nYou can contact or verify outreach from Anna by emailing annatechcrunch [at] gmail.com.\nAs a freelance reporter at TechCrunch since 2021, she has covered a large range of startup-related topics including AI, fintech & insurtech, SaaS & pricing, and global venture capital trends.\nAs of May 2025, her reporting for TechCrunch focuses on Europe’s most interesting startup stories.\nAnna has moderated panels and conducted onstage interviews at industry events of all sizes, including major tech conferences such as TechCrunch Disrupt, 4YFN, South Summit, TNW Conference, VivaTech, and many more.\nA former LATAM & Media Editor at The Next Web, startup founder and Sciences Po Paris alum, she’s fluent in multiple languages, including French, English, Spanish and Brazilian Portuguese.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "He made your free video player run smoothly. Now he’s doing that for robots.",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2182705840.jpeg?w=150"
-      ],
-      "datePublished": "2026-06-20T00:47:44.000Z",
-      "dateModified": "2026-06-20T00:47:44.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
     "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
     "image": "https://techcrunch.com/wp-content/uploads/2018/03/gettyimages-824355868.jpg?w=150",
@@ -66,81 +41,6 @@
       ],
       "datePublished": "2026-06-19T00:51:11.000Z",
       "dateModified": "2026-06-19T00:51:11.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
-    "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-06-19T16:08:17.000Z",
-    "description": "\n\t\t\n\nLoading the player…\n\nJust as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing",
-    "body": "\n\t\t\n\nLoading the player…\n\nJust as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails. \nCybersecurity researchers have since signed an open letter calling the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models. So is this a genuine security concern, or just the latest chapter in a messy relationship between Anthropic and the Trump administration? \nOn this episode of TechCrunch’s Equity podcast, hosts Anthony Ha, Sean O’Kane, and Rebecca Bellan unpack what the ban means for developers building on Anthropic’s platform and for anyone watching the IPO, why it might accidentally be good for the company, and more of the week’s headlines. \nSubscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. You also can follow Equity on X and Threads, at @EquityPod. \n\n\t\t\n\tTopics\n\n\n\n\t\tTheresa Loconsolo is an audio producer at TechCrunch focusing on Equity, the network’s flagship podcast. Before joining TechCrunch in 2022, she was one of 2 producers at a four-station conglomerate where she wrote, recorded, voiced and edited content, and engineered live performances and interviews from guests like lovelytheband. Theresa is based in New Jersey and holds a bachelors degree in Communication from Monmouth University. You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n\n\t\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Is the US government’s Anthropic ban accidentally helping the brand?",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=150"
-      ],
-      "datePublished": "2026-06-19T16:08:17.000Z",
-      "dateModified": "2026-06-19T16:08:17.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
-    "url": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2281911508.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-06-18T20:30:00.000Z",
-    "description": "\nSnap will be spinning off an internal generative AI video team into a separate company. The new company — dubbed Dotmo — will focus on developing AI ",
-    "body": "\nSnap will be spinning off an internal generative AI video team into a separate company. The new company — dubbed Dotmo — will focus on developing AI models that can create interactive gaming experiences, Snap told TechCrunch.\nSnap cited the high costs of conducting such work internally as one of the reasons for the spinoff. \nWhile technically a separate company, Dotmo will retain its close ties to the Snapchat creator. For one thing, Snap will provide Dotmo with a license to adapt its technology for gaming and interactive entertainment platforms. At the same time, the initial Dotmo team will consist of a group of current Snap staff who are leaving Snap to launch the new venture.\nAdditionally, while Dotmo won’t be funded by Snap directly, the company says that Bobby Murphy, its chief technology officer, will act as lead investor and will have a significant personal stake in the new firm. Though a financial backer, Murphy will continue to work for Snap full-time as its CTO and continue to lead its GenAI research and development initiatives.\nIn exchange for the talent and the technology license, Snap will get a large equity stake in Dotmo, the company said — a position that could prove rewarding if the company prospers in the future. Dotmo may also eventually seek outside funding, Snap said.\nThe move marks Snap’s second major spinoff effort this year. Earlier in 2026, Snap spun off Specs into a new company to focus exclusively on the development of its smart glasses line. (Snap’s recent unveiling of Specs wasn’t exactly a home run for the company. Snap’s stock tanked after concerns were raised about the hefty price tag attached to the new smart glasses, which is around $2,200.) Snap also underwent a round of layoffs earlier this year, during which some 1,000 jobs were cut.\nDotmo represents a different kind of spinoff than the Specs operation, in that its team will be focused on developing digital experiences that aren’t currently a part of Snap’s core business priorities, a Snap representative said. However, it could still be considered a partner in the future if the fit seems right, they added. \nSpin-offs can be a cost-savings strategy for companies, although they can serve a variety of other purposes — like showing off a particular asset, generating investor attention, or providing operational flexibility to the team involved. In spinning out Dotmo, Snap may be reducing the financial burden associated with its AI efforts, while still maintaining exposure to any potential upside through its equity stake.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tLucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. \nYou can contact Lucas by emailing lucas.ropek@techcrunch.com.\t\n\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Snap spins off AI video team into new company, Dotmo, due to costs",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2281911508.jpg?w=150"
-      ],
-      "datePublished": "2026-06-18T20:30:00.000Z",
-      "dateModified": "2026-06-18T20:30:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Mivo’s new app takes a mindful approach to managing screen time",
-    "url": "https://techcrunch.com/2026/06/18/mivos-new-app-takes-a-mindful-approach-to-managing-screen-time/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1354022389.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-06-18T18:00:00.000Z",
-    "description": "\nDoomscrolling on social media is a very common problem and can feel like an endless loop of constantly losing track of time. Instead of tackling this",
-    "body": "\nDoomscrolling on social media is a very common problem and can feel like an endless loop of constantly losing track of time. Instead of tackling this issue with strict limits, a new mindful screen time app called Mivo Scrolling is trying to shake things up.\nLaunched last month, Mivo doesn’t look much different from other screen time apps. It tracks screen time and usage patterns, and provides insights into daily habits. However, Mivo believes what sets its app apart is its no-shaming approach. The idea that users should be more intentional about their time online has also been fueling the slow tech movement as of late, which is focused on rethinking our relationship with technology.\nRather than outright blocking certain apps, users can set customizable time limits for how long they wish to scroll on specific platforms. For instance, users can schedule two daily scroll sessions, allocating one-hour windows during which they select the apps they want to focus on. When it’s time to take a break, a friendly reminder pops up, nudging them to think about why they’re scrolling right then. Is it out of boredom, looking for a distraction, or genuinely trying to relax? \nImage Credits:Mivo Scrolling (screenshot)\nNotably, unlike other apps that might just try to pull you away from your phone, Mivo lets the user decide if they want to continue, encouraging users to become more aware of how and why they’re using it instead. \n“Most screen time tools try to restrict people after the habit is already happening,” Pranshu Raithatha, creator of Mivo Scrolling, told TechCrunch. “Mivo adds a small reflection moment right when someone opens a social app, so they can pause and ask why they’re opening it before falling into an automatic scroll.”\nAdditionally, users can set regular pauses every two, three, or five minutes, encouraging intermittent check-ins that help maintain awareness of their scrolling habits. Plus, after the scrolling session, Mivo asks the user if they feel like the time was well spent or if they just got lost in the scroll, aiming to help users build a healthier relationship with their phone.\nMivo also includes a widget that users can install on their home screen to display daily scroll time and be reminded of when the next scheduled scroll session is.\nMivo Scrolling is currently available for free on the App Store. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tLauren covers media, streaming, apps and platforms at TechCrunch.\nYou can contact or verify outreach from Lauren by emailing laurenf.techcrunch@gmail.com or via encrypted message at laurenforris22.25 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Mivo’s new app takes a mindful approach to managing screen time",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1354022389.jpg?w=150"
-      ],
-      "datePublished": "2026-06-18T18:00:00.000Z",
-      "dateModified": "2026-06-18T18:00:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -175,6 +75,106 @@
     }
   },
   {
+    "title": "Mivo’s new app takes a mindful approach to managing screen time",
+    "url": "https://techcrunch.com/2026/06/18/mivos-new-app-takes-a-mindful-approach-to-managing-screen-time/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1354022389.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-06-18T18:00:00.000Z",
+    "description": "\nDoomscrolling on social media is a very common problem and can feel like an endless loop of constantly losing track of time. Instead of tackling this",
+    "body": "\nDoomscrolling on social media is a very common problem and can feel like an endless loop of constantly losing track of time. Instead of tackling this issue with strict limits, a new mindful screen time app called Mivo Scrolling is trying to shake things up.\nLaunched last month, Mivo doesn’t look much different from other screen time apps. It tracks screen time and usage patterns, and provides insights into daily habits. However, Mivo believes what sets its app apart is its no-shaming approach. The idea that users should be more intentional about their time online has also been fueling the slow tech movement as of late, which is focused on rethinking our relationship with technology.\nRather than outright blocking certain apps, users can set customizable time limits for how long they wish to scroll on specific platforms. For instance, users can schedule two daily scroll sessions, allocating one-hour windows during which they select the apps they want to focus on. When it’s time to take a break, a friendly reminder pops up, nudging them to think about why they’re scrolling right then. Is it out of boredom, looking for a distraction, or genuinely trying to relax? \nImage Credits:Mivo Scrolling (screenshot)\nNotably, unlike other apps that might just try to pull you away from your phone, Mivo lets the user decide if they want to continue, encouraging users to become more aware of how and why they’re using it instead. \n“Most screen time tools try to restrict people after the habit is already happening,” Pranshu Raithatha, creator of Mivo Scrolling, told TechCrunch. “Mivo adds a small reflection moment right when someone opens a social app, so they can pause and ask why they’re opening it before falling into an automatic scroll.”\nAdditionally, users can set regular pauses every two, three, or five minutes, encouraging intermittent check-ins that help maintain awareness of their scrolling habits. Plus, after the scrolling session, Mivo asks the user if they feel like the time was well spent or if they just got lost in the scroll, aiming to help users build a healthier relationship with their phone.\nMivo also includes a widget that users can install on their home screen to display daily scroll time and be reminded of when the next scheduled scroll session is.\nMivo Scrolling is currently available for free on the App Store. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tLauren covers media, streaming, apps and platforms at TechCrunch.\nYou can contact or verify outreach from Lauren by emailing laurenf.techcrunch@gmail.com or via encrypted message at laurenforris22.25 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Mivo’s new app takes a mindful approach to managing screen time",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1354022389.jpg?w=150"
+      ],
+      "datePublished": "2026-06-18T18:00:00.000Z",
+      "dateModified": "2026-06-18T18:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
+    "url": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2281911508.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-06-18T20:30:00.000Z",
+    "description": "\nSnap will be spinning off an internal generative AI video team into a separate company. The new company — dubbed Dotmo — will focus on developing AI ",
+    "body": "\nSnap will be spinning off an internal generative AI video team into a separate company. The new company — dubbed Dotmo — will focus on developing AI models that can create interactive gaming experiences, Snap told TechCrunch.\nSnap cited the high costs of conducting such work internally as one of the reasons for the spinoff. \nWhile technically a separate company, Dotmo will retain its close ties to the Snapchat creator. For one thing, Snap will provide Dotmo with a license to adapt its technology for gaming and interactive entertainment platforms. At the same time, the initial Dotmo team will consist of a group of current Snap staff who are leaving Snap to launch the new venture.\nAdditionally, while Dotmo won’t be funded by Snap directly, the company says that Bobby Murphy, its chief technology officer, will act as lead investor and will have a significant personal stake in the new firm. Though a financial backer, Murphy will continue to work for Snap full-time as its CTO and continue to lead its GenAI research and development initiatives.\nIn exchange for the talent and the technology license, Snap will get a large equity stake in Dotmo, the company said — a position that could prove rewarding if the company prospers in the future. Dotmo may also eventually seek outside funding, Snap said.\nThe move marks Snap’s second major spinoff effort this year. Earlier in 2026, Snap spun off Specs into a new company to focus exclusively on the development of its smart glasses line. (Snap’s recent unveiling of Specs wasn’t exactly a home run for the company. Snap’s stock tanked after concerns were raised about the hefty price tag attached to the new smart glasses, which is around $2,200.) Snap also underwent a round of layoffs earlier this year, during which some 1,000 jobs were cut.\nDotmo represents a different kind of spinoff than the Specs operation, in that its team will be focused on developing digital experiences that aren’t currently a part of Snap’s core business priorities, a Snap representative said. However, it could still be considered a partner in the future if the fit seems right, they added. \nSpin-offs can be a cost-savings strategy for companies, although they can serve a variety of other purposes — like showing off a particular asset, generating investor attention, or providing operational flexibility to the team involved. In spinning out Dotmo, Snap may be reducing the financial burden associated with its AI efforts, while still maintaining exposure to any potential upside through its equity stake.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tLucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. \nYou can contact Lucas by emailing lucas.ropek@techcrunch.com.\t\n\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Snap spins off AI video team into new company, Dotmo, due to costs",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2281911508.jpg?w=150"
+      ],
+      "datePublished": "2026-06-18T20:30:00.000Z",
+      "dateModified": "2026-06-18T20:30:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
+    "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-06-19T16:08:17.000Z",
+    "description": "\n\t\t\n\nLoading the player…\n\nJust as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing",
+    "body": "\n\t\t\n\nLoading the player…\n\nJust as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails. \nCybersecurity researchers have since signed an open letter calling the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models. So is this a genuine security concern, or just the latest chapter in a messy relationship between Anthropic and the Trump administration? \nOn this episode of TechCrunch’s Equity podcast, hosts Anthony Ha, Sean O’Kane, and Rebecca Bellan unpack what the ban means for developers building on Anthropic’s platform and for anyone watching the IPO, why it might accidentally be good for the company, and more of the week’s headlines. \nSubscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. You also can follow Equity on X and Threads, at @EquityPod. \n\n\t\t\n\tTopics\n\n\n\n\t\tTheresa Loconsolo is an audio producer at TechCrunch focusing on Equity, the network’s flagship podcast. Before joining TechCrunch in 2022, she was one of 2 producers at a four-station conglomerate where she wrote, recorded, voiced and edited content, and engineered live performances and interviews from guests like lovelytheband. Theresa is based in New Jersey and holds a bachelors degree in Communication from Monmouth University. You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n\n\t\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Is the US government’s Anthropic ban accidentally helping the brand?",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=150"
+      ],
+      "datePublished": "2026-06-19T16:08:17.000Z",
+      "dateModified": "2026-06-19T16:08:17.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "He made your free video player run smoothly. Now he’s doing that for robots.",
+    "url": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2182705840.jpeg?w=150",
+    "tag": "Tech",
+    "date": "2026-06-20T00:47:44.000Z",
+    "description": "\nYou’ve probably used VLC Media Player, the free video player with the orange traffic-cone icon — it’s been downloaded more than 6 billion times. But ",
+    "body": "\nYou’ve probably used VLC Media Player, the free video player with the orange traffic-cone icon — it’s been downloaded more than 6 billion times. But according to its lead developer, Jean-Baptiste Kempf, robots will soon be almost as ubiquitous as his open source video software.\nConvinced that “hundreds of millions of robots and drones” will be roaming the streets in a few years, this French serial entrepreneur and open-source legend has been building Kyber, an infrastructure layer for controlling remote devices in real time. Its core software is an SDK that synchronizes video, audio, sensor data, and control inputs with minimal latency.\nThis lines up well with the rise of physical AI, and it’s part of why the Paris-based startup was able to raise a $5 million round led by Lightspeed, which has also backed Anthropic and Mistral AI. “Physical AI is only as good as the underlying systems running it,” the American VC firm wrote in a LinkedIn post announcing its investment.\nKyber’s potential applications go well beyond AI, though. Kempf told TechCrunch the platform is built for “all the use cases where the person who’s operating is not in the same place as the compute, which is not in the same place as the action.”\nRemote control is one half of the equation; speed is the other — and it’s what inspired the startup’s name, a nod to the lightsaber crystals in Star Wars. “If you control things in the real world, every millisecond matters,” Kempf said.\nKyber’s approach to eliminating lag is rooted firmly in video-streaming technology. The company started as a side project Kempf built while CTO at cloud gaming startup Shadow, and its early focus on streaming makes the VLC connection an easy one to draw. But IoT expertise matters just as much for optimization — tuning performance to a device’s available compute, at scale — the other core piece of what Kyber does.\nKempf says other companies with the resources and the need have already built similar software for their own use cases, like remote driving. “But the largest fleets today have maybe 2,000 or 3,000 vehicles. Imagine you need to manage millions of them; that’s not the same thing.”\nThat jump in scale also raises the stakes on observability — knowing systems are actually working will matter even more when AI agents, not people, are managing entire fleets and networks. Even at much smaller scale, though, there’s a real benefit: not needing to physically reach every device just to push a software update, for example.\nThat range — from a handful of devices to millions — means Kyber’s user base will likely span far more companies than will ever become paying customers. True to Kempf’s roots, the core project is open source, while the company sells a productized version to enterprise customers. And it’s not just software: like Palantir and others, Kyber also offers hands-on, custom deployment through forward-deployed engineers, or FDEs.\nFDEs make up a large part of Kyber’s team, which currently numbers 25 full-time staffers. The startup is headquartered in Paris but has offices in San Francisco and Singapore to support what it expects will be a global client base across a variety of industries. The company says it is already in commercial deployment with customers in defense, telco, robotics, and AI.\nTo focus its efforts, Kyber has been prioritizing three segments: robotics, drones of every kind, and remote IT access, where demand has been particularly strong. In that last segment, Kempf says Kyber aspires to be more than just a Citrix challenger — but even that comparison alone points to a sizable total addressable market.\nRemote IT access isn’t exactly glamorous, but Kempf seems energized by the problem — and Kyber’s careers page hints at why: “The companies that tried to solve it spent years and tens of millions building custom solutions they’ll never share. We’re building the version everyone else can use.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tAnna Heim is a writer and editorial consultant. \nYou can contact or verify outreach from Anna by emailing annatechcrunch [at] gmail.com.\nAs a freelance reporter at TechCrunch since 2021, she has covered a large range of startup-related topics including AI, fintech & insurtech, SaaS & pricing, and global venture capital trends.\nAs of May 2025, her reporting for TechCrunch focuses on Europe’s most interesting startup stories.\nAnna has moderated panels and conducted onstage interviews at industry events of all sizes, including major tech conferences such as TechCrunch Disrupt, 4YFN, South Summit, TNW Conference, VivaTech, and many more.\nA former LATAM & Media Editor at The Next Web, startup founder and Sciences Po Paris alum, she’s fluent in multiple languages, including French, English, Spanish and Brazilian Portuguese.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "He made your free video player run smoothly. Now he’s doing that for robots.",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2182705840.jpeg?w=150"
+      ],
+      "datePublished": "2026-06-20T00:47:44.000Z",
+      "dateModified": "2026-06-20T00:47:44.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "The CEO of Allbirds’ new AI biz has a plan, but no team",
     "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/Nadia-Carlsten-HS.png?w=150",
@@ -191,106 +191,6 @@
       ],
       "datePublished": "2026-06-19T13:00:00.000Z",
       "dateModified": "2026-06-19T13:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026. Here’s why it matters",
-    "url": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Japan-Go-.png?w=150",
-    "tag": "Tech",
-    "date": "2026-06-19T21:45:00.000Z",
-    "description": "\nGo’s IPO — Japan’s biggest so far this year — has done more than provide a much-needed boost to the country’s languishing listing season. It has also",
-    "body": "\nGo’s IPO — Japan’s biggest so far this year — has done more than provide a much-needed boost to the country’s languishing listing season. It has also supplied the taxi-hailing app with the capital required to address an existential issue: Japan’s shortage of drivers. \nGo, which went public Tuesday, plans to use the ¥88.6 billion ($553 million) raised in its IPO to expand its robotaxi business and make acquisitions, according to a company spokesperson. \n“We intend to use the proceeds from the sale of newly issued shares toward investment in research and development related to robotaxis and investment in business expansions, including strategic mergers and acquisitions in our business inside and outside of the taxi industry,” the spokesperson said.\nThe Japanese taxi-hailing company’s debut came in one of Japan’s quietest listing seasons, at a time when the government has been telling startups to sell themselves rather than go public. Go drew investments from BlackRock, Wellington Management, and M&G Investment Management in the process, underscoring where global institutional money is willing to go in Japan right now. The stock has since pulled back below its offering price, closing at ¥2,314 on Friday, down about 4% from the IPO price of ¥2,400.\nGo’s robotaxi ambitions are rooted in a human problem. Japan’s taxi industry is running out of drivers. The number of taxi drivers has fallen roughly 20% in recent years, according to a report citing Japan’s Ministry of Land, Infrastructure, Transport and Tourism. \nAn aging population means that figure is unlikely to recover. Ride-share services launched in Japan in 2024, but remain limited to certain areas and require drivers to be employed by a taxi company; restrictions that have done little to address the shortage.  \nGo was founded in 1977 as a taxi operator and now runs Japan’s largest ride-hailing app with 35 million downloads, 85,000 partner vehicles, and an 80% share of Japan’s taxi app market by usage time, covering 46 of Japan’s 47 prefectures. \nGo believes robotaxis will be part of its future — although it’s not clear when that vision will become a reality. \nGo has partnered with Waymo, an autonomous driving subsidiary of Alphabet, alongside Nihon Kotsu, one of Japan’s biggest taxi operators. Go is responsible for strategic coordination of the partnership, according to the spokesperson. CEO Hiroshi Nakajima has previously said that  Go will not invest in autonomous driving systems itself, according to Nikkei Asia.\nGo has not set a timeline for fully driverless operations. \n“We plan to begin driving fully autonomously, without a human specialist present, when we validate our technology and receive approval to do so,” the spokesperson said. \nIn the meantime, Go is looking for ways to give its traditional business a competitive edge. For instance, the company has partnered with Kakao T, Alipay, and WeChat Pay that allows inbound travelers from South Korea, China, and Taiwan to hail Go-affiliated taxis directly from their local apps.\nGo is not the only company betting on Tokyo’s robotaxi future. \nIn March, Uber, Wayve, and Nissan announced plans to pilot robotaxi services in Tokyo by late 2026, marking Uber’s first autonomous vehicle partnership in Japan. The service will use Nissan Leaf electric vehicles powered by Wayve’s AI Driver, and will be bookable through the Uber app. \nUber has also teamed up with S.Ride to let international visitors book rides through the Uber app. Didi Mobility Japan, a joint venture between SoftBank and Didi Chuxing, has a similar arrangement.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\tKate Park is a reporter at TechCrunch, with a focus on technology, startups and venture capital in Asia. She previously was a financial journalist at Mergermarket covering M&A, private equity and venture capital.\n\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026. Here’s why it matters",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/06/Japan-Go-.png?w=150"
-      ],
-      "datePublished": "2026-06-19T21:45:00.000Z",
-      "dateModified": "2026-06-19T21:45:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
-    "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1421680585.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-06-18T18:22:13.000Z",
-    "description": "\nIf Amazon Web Services has its way, the cloud giant is going to push even deeper into Nvidia’s market, in what might be one of the biggest challenges",
-    "body": "\nIf Amazon Web Services has its way, the cloud giant is going to push even deeper into Nvidia’s market, in what might be one of the biggest challenges to Nvidia’s AI chip dominance we’ve seen so far.\nAmazon’s AI chief Peter DeSantis told Bloomberg that AWS is in talks to sell its AI chip Trainium to other companies for use in data centers. DeSantis declined to specify which companies could be the buyers of these chips.\nSuch talk about selling chips is in the early stages, the company tells TechCrunch. They stem from Amazon CEO Andy Jassy’s annual shareholder letter in early April, in which he said the company’s homegrown AI chips were so coveted that he was thinking about selling them:\n\nIf our chips business was a standalone business, and sold chips produced this year to AWS and other third parties (as other leading chips companies do), our annual run rate would be ~$50 billion. There’s so much demand for our chips that it’s quite possible we’ll sell racks of them to third parties in the future.\n\nHow much of a challenge could Amazon be to Nvidia? A $50 billion competitor wouldn’t exactly tank Nvidia — which is currently on a $326 billion revenue run rate — if it keeps delivering quarters like the last one. But it’s akin to Intel’s annual revenue.\nAWS has so far resisted selling its AI chips for a lot of reasons. The biggest is that the money AWS actually makes on its chips is a waterfall effect. Sure, it charges customers directly for the AI tokens those chips process on its cloud, but it also gets to charge for a host of other services companies need for their AI apps, including storage, security, networking, and monitoring services.\nEqually important, Amazon has touted the capacity of its chips has been selling out faster than it can produce them. In that same shareholder letter in April, Jassy said the current Trainium chip capacity had sold out almost instantly. So, too, he said, had the capacity for the next one, Trainium4, which won’t even be available for more than a year. This was before AWS formally added OpenAI to the models it was serving up.\nSo selling its chips to others means it would likely have to leave current customers on waiting lists, unless it could somehow manufacture a surplus of chips through its manufacturing partners such as TSMC. But it would have to miraculously elbow Nvidia out of the way to do that with TSMC, which has recently supplanted Apple to become the foundry’s largest customer.\nAWS spokesperson Doron Aronson (who hosted me during a recent private tour of the AWS chip design facility) also confirmed that AWS may sell these chips. “While we’ve historically declined requests to sell chips directly, Andy noted it’s quite possible we’ll sell racks of them to third parties in the future.”\nSo while Nvidia’s founder and CEO Jensen Huang recently declared that he’s found a brand-new $200 billion market for Nvidia in selling CPUs for AI, not just GPUs — thereby moving into Intel and AMD territory — Jassy clearly has his own chip ambitions: a $50 billion market that would put elbow more directly into Nvidia’s world.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1421680585.jpg?w=150"
-      ],
-      "datePublished": "2026-06-18T18:22:13.000Z",
-      "dateModified": "2026-06-18T18:22:13.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Rivian owners file lawsuit alleging false promises on self-driving features",
-    "url": "https://techcrunch.com/2026/06/18/rivian-owners-file-lawsuit-alleging-false-promises-on-self-driving-features/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/10/rivian-yellow-truck.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-06-18T19:31:45.000Z",
-    "description": "\nRivian has been sued over allegations that the EV maker made false claims about the autonomous driving capabilities of its R1T truck and R1S SUV mode",
-    "body": "\nRivian has been sued over allegations that the EV maker made false claims about the autonomous driving capabilities of its R1T truck and R1S SUV models.\nThe class-action complaint, which was filed Wednesday in the U.S. District Court for the Central District of California, focuses on the first-generation models of the R1T and R1S and claims that Rivian represented that these flagship vehicles would be capable of hands-free, eyes-off driving.\nThis kind of capability is also called Level 3 autonomy, a designation by the Society of Automotive Engineers (SAE) that means the vehicle can automatically handle steering, acceleration, and braking without the driver’s hands on the wheel or eyes on the road in certain conditions such as highways or at low speeds. This doesn’t mean these vehicles are fully autonomous; the human driver is still expected to stay attentive and take over when necessary.\nThe lawsuit alleges Rivian falsely promised, over a five-year period and through a coordinated nationwide marketing campaign, that it would make its hands-free driver-assistance system — known as Driver+ — standard in every vehicle it builds. Among the appearances cited in the suit: Rivian CEO RJ Scaringe’s appearance at TechCrunch Disrupt 2022, where he reportedly made representations about the company’s autonomous driving ambitions.\n“No software update — no matter how sophisticated — will enable its Gen 1 Vehicles to perform as advertised,” the complaint reads. “Rivian unquestionably knew that its Gen 1 Vehicles would never be capable of Level 3 autonomy or ‘true hands-free driving’ yet continued to tout the supposed capabilities of its vehicles to induce consumers to purchase them.”\nRivian declined to comment on the lawsuit, citing pending litigation. \nThe lawsuit, which includes three named plaintiffs, makes claims against Rivian for fraud, negligent misrepresentation, and unjust enrichment. Coleman Law and Tycko & Zavareei, the law firms representing the plaintiffs, have requested a jury trial. \nIt wouldn’t be the first time Rivian has faced a successful legal challenge. Last year, the company agreed to pay $250 million to settle a class-action shareholder lawsuit filed after it suddenly hiked prices on its R1 pickup truck and SUV in 2022.\nRivian’s first-generation R1T and R1S vehicles do not offer hands-free driving. Its second-generation vehicles, which were overhauled in 2024, do. The second-generation vehicles look materially the same, but Rivian revamped their internals, including the battery pack and suspension system, and the electrical architecture, interior seats, and sensor stack.\nAs part of the revamp, the second-gen R1 vehicles were equipped with the “Rivian Autonomy Platform,” which comes standard and includes 11 cameras, five radar sensors, and a computer that is 10x more powerful than the previous system, the company told TechCrunch at the time.\nThe advanced driver-assistance system in the second-gen models initially included adaptive cruise control, which maintains speed and distance behind vehicles on the highway, and a highway assist feature that automatically steers, brakes, and accelerates on select highways. \nLast year, Rivian rolled out “Universal Hands-Free” driving via a software update pushed out to second-gen R1 vehicles. The feature allows drivers to take their hands off the wheel on more than 3.5 million miles of roads in the United States and Canada, including a mix of highways and surface streets, as long as there are visible lane lines.\nRivian isn’t the only automaker to face legal challenges over promises to deliver self-driving features. Tesla and its CEO Elon Musk have spent a decade claiming that its vehicles would be fully autonomous via its Full Self-Driving software. Some owners have sued Tesla for failing to deliver unsupervised Full Self-Driving.\nTesla has also come under regulatory scrutiny for claims about the capabilities of its FSD and Autopilot advanced driver-assistance systems. The California Department of Motor Vehicles filed accusations alleging Tesla violated state law by deceptively marketing Autopilot, its basic advanced driver-assistance system, as well as its more capable Full Self-Driving software. A judge ruled in the DMV’s favor, but the agency decided in February not to suspend Tesla’s sales and manufacturing licenses, a 30-day penalty it opted to forgo because the EV maker has stopped using the term “Autopilot” in its California marketing.\nThis article originally published at 11 a.m. PT. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tKirsten Korosec is a reporter and editor who has covered the future of transportation from EVs and autonomous vehicles to urban air mobility and in-car tech for more than a decade. She is currently the transportation editor at TechCrunch and co-host of TechCrunch’s Equity podcast. She is also co-founder and co-host of the podcast, “The Autonocast.” She previously wrote for Fortune, The Verge, Bloomberg, MIT Technology Review and CBS Interactive.\nYou can contact or verify outreach from Kirsten by emailing kirsten.korosec@techcrunch.com or via encrypted message at kkorosec.07 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Rivian owners file lawsuit alleging false promises on self-driving features",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2022/10/rivian-yellow-truck.jpg?w=150"
-      ],
-      "datePublished": "2026-06-18T19:31:45.000Z",
-      "dateModified": "2026-06-18T19:31:45.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "AI data centers just got a government-mandated fast lane to the grid",
-    "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/12/Energy-sector-Getty.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-06-18T17:49:23.000Z",
-    "description": "\nThe Federal Energy Regulatory Commission (FERC) told grid operators on Thursday to fast-track interconnection requests from data centers and other la",
-    "body": "\nThe Federal Energy Regulatory Commission (FERC) told grid operators on Thursday to fast-track interconnection requests from data centers and other large electricity users.\nUnder the orders, six major grid operators have to show that data centers are “able to connect to the transmission system in a timely and orderly manner.” Data centers will be responsible for paying the costs of the interconnection. Commissioners approved the orders unanimously.\nFERC also provided an opening to grid tech startups, directing grid operators to consider “alternative transmission technologies.” The commission didn’t name specific technologies, but the directive could include things like solid-state transformers or superconducting transmission lines.\nGrid operators now have 30 days to submit a report detailing how much generating capacity they have to spare, if any. They also have 60 days to “defend or revise” electricity rates within their regions. FERC also directed grid operators to be more accommodating to behind-the-meter power for data centers.\nWhile FERC’s directives gave data centers a fast lane to connect, they did not address the shortage of generating capacity. \nGrid connections have been slow to materialize in part because new power plants are also having problems connecting. At the end of 2023, grid connection requests for power plants exceeded the total capacity of the existing power plant fleet, meaning the line to get on the grid was longer than the grid itself could theoretically serve.\nAgainst this backdrop, electricity demand from data centers is expected to nearly triple through 2035. Grid operators, which had grown accustomed to near-zero demand growth over the last two decades, have strained under the load. Some, like PJM, the country’s largest grid operator, have descended into something resembling chaos, with major utilities threatening to withdraw.\nTech companies and developers, unable to connect to the grid in a timely manner in many locations, have been turning to on-site, or behind-the-meter, power (which is typically more expensive and complicated) out of desperation.\nStill, enough projects have been able to connect that electricity prices have soared in many regions. Wholesale electricity rates are up as much as 267% compared with five years ago, according to Bloomberg.\nFERC was prodded to take on the issue by Secretary of Energy Chris Wright, who in October said delays in data center grid connections had threatened to undermine U.S. competitiveness in AI. Since then, public sentiment toward AI and data centers has soured considerably. \nMeanwhile, the Trump administration on Wednesday said it would pay $765 million to wind developer Invenergy to cancel offshore wind leases near California, Maine, and New York. The company said it would use the money to build natural gas plants in the Midwest and geothermal projects in the West. One of Invenergy’s wind projects would have generated as much as 2.4 gigawatts of power — enough, at peak output, to supply roughly 1.8 million homes.\nAltogether, the Trump administration has now spent about $2.6 billion to scuttle offshore wind developments.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tTim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor. \r\nDe Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.\r\nYou can contact or verify outreach from Tim by emailing tim.dechant@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "AI data centers just got a government-mandated fast lane to the grid",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/12/Energy-sector-Getty.jpg?w=150"
-      ],
-      "datePublished": "2026-06-18T17:49:23.000Z",
-      "dateModified": "2026-06-18T17:49:23.000Z",
       "author": [
         {
           "@type": "Person",
@@ -341,6 +241,106 @@
       ],
       "datePublished": "2026-06-18T18:51:46.000Z",
       "dateModified": "2026-06-18T18:51:46.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Rivian owners file lawsuit alleging false promises on self-driving features",
+    "url": "https://techcrunch.com/2026/06/18/rivian-owners-file-lawsuit-alleging-false-promises-on-self-driving-features/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/10/rivian-yellow-truck.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-06-18T19:31:45.000Z",
+    "description": "\nRivian has been sued over allegations that the EV maker made false claims about the autonomous driving capabilities of its R1T truck and R1S SUV mode",
+    "body": "\nRivian has been sued over allegations that the EV maker made false claims about the autonomous driving capabilities of its R1T truck and R1S SUV models.\nThe class-action complaint, which was filed Wednesday in the U.S. District Court for the Central District of California, focuses on the first-generation models of the R1T and R1S and claims that Rivian represented that these flagship vehicles would be capable of hands-free, eyes-off driving.\nThis kind of capability is also called Level 3 autonomy, a designation by the Society of Automotive Engineers (SAE) that means the vehicle can automatically handle steering, acceleration, and braking without the driver’s hands on the wheel or eyes on the road in certain conditions such as highways or at low speeds. This doesn’t mean these vehicles are fully autonomous; the human driver is still expected to stay attentive and take over when necessary.\nThe lawsuit alleges Rivian falsely promised, over a five-year period and through a coordinated nationwide marketing campaign, that it would make its hands-free driver-assistance system — known as Driver+ — standard in every vehicle it builds. Among the appearances cited in the suit: Rivian CEO RJ Scaringe’s appearance at TechCrunch Disrupt 2022, where he reportedly made representations about the company’s autonomous driving ambitions.\n“No software update — no matter how sophisticated — will enable its Gen 1 Vehicles to perform as advertised,” the complaint reads. “Rivian unquestionably knew that its Gen 1 Vehicles would never be capable of Level 3 autonomy or ‘true hands-free driving’ yet continued to tout the supposed capabilities of its vehicles to induce consumers to purchase them.”\nRivian declined to comment on the lawsuit, citing pending litigation. \nThe lawsuit, which includes three named plaintiffs, makes claims against Rivian for fraud, negligent misrepresentation, and unjust enrichment. Coleman Law and Tycko & Zavareei, the law firms representing the plaintiffs, have requested a jury trial. \nIt wouldn’t be the first time Rivian has faced a successful legal challenge. Last year, the company agreed to pay $250 million to settle a class-action shareholder lawsuit filed after it suddenly hiked prices on its R1 pickup truck and SUV in 2022.\nRivian’s first-generation R1T and R1S vehicles do not offer hands-free driving. Its second-generation vehicles, which were overhauled in 2024, do. The second-generation vehicles look materially the same, but Rivian revamped their internals, including the battery pack and suspension system, and the electrical architecture, interior seats, and sensor stack.\nAs part of the revamp, the second-gen R1 vehicles were equipped with the “Rivian Autonomy Platform,” which comes standard and includes 11 cameras, five radar sensors, and a computer that is 10x more powerful than the previous system, the company told TechCrunch at the time.\nThe advanced driver-assistance system in the second-gen models initially included adaptive cruise control, which maintains speed and distance behind vehicles on the highway, and a highway assist feature that automatically steers, brakes, and accelerates on select highways. \nLast year, Rivian rolled out “Universal Hands-Free” driving via a software update pushed out to second-gen R1 vehicles. The feature allows drivers to take their hands off the wheel on more than 3.5 million miles of roads in the United States and Canada, including a mix of highways and surface streets, as long as there are visible lane lines.\nRivian isn’t the only automaker to face legal challenges over promises to deliver self-driving features. Tesla and its CEO Elon Musk have spent a decade claiming that its vehicles would be fully autonomous via its Full Self-Driving software. Some owners have sued Tesla for failing to deliver unsupervised Full Self-Driving.\nTesla has also come under regulatory scrutiny for claims about the capabilities of its FSD and Autopilot advanced driver-assistance systems. The California Department of Motor Vehicles filed accusations alleging Tesla violated state law by deceptively marketing Autopilot, its basic advanced driver-assistance system, as well as its more capable Full Self-Driving software. A judge ruled in the DMV’s favor, but the agency decided in February not to suspend Tesla’s sales and manufacturing licenses, a 30-day penalty it opted to forgo because the EV maker has stopped using the term “Autopilot” in its California marketing.\nThis article originally published at 11 a.m. PT. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tKirsten Korosec is a reporter and editor who has covered the future of transportation from EVs and autonomous vehicles to urban air mobility and in-car tech for more than a decade. She is currently the transportation editor at TechCrunch and co-host of TechCrunch’s Equity podcast. She is also co-founder and co-host of the podcast, “The Autonocast.” She previously wrote for Fortune, The Verge, Bloomberg, MIT Technology Review and CBS Interactive.\nYou can contact or verify outreach from Kirsten by emailing kirsten.korosec@techcrunch.com or via encrypted message at kkorosec.07 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Rivian owners file lawsuit alleging false promises on self-driving features",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2022/10/rivian-yellow-truck.jpg?w=150"
+      ],
+      "datePublished": "2026-06-18T19:31:45.000Z",
+      "dateModified": "2026-06-18T19:31:45.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
+    "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1421680585.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-06-18T18:22:13.000Z",
+    "description": "\nIf Amazon Web Services has its way, the cloud giant is going to push even deeper into Nvidia’s market, in what might be one of the biggest challenges",
+    "body": "\nIf Amazon Web Services has its way, the cloud giant is going to push even deeper into Nvidia’s market, in what might be one of the biggest challenges to Nvidia’s AI chip dominance we’ve seen so far.\nAmazon’s AI chief Peter DeSantis told Bloomberg that AWS is in talks to sell its AI chip Trainium to other companies for use in data centers. DeSantis declined to specify which companies could be the buyers of these chips.\nSuch talk about selling chips is in the early stages, the company tells TechCrunch. They stem from Amazon CEO Andy Jassy’s annual shareholder letter in early April, in which he said the company’s homegrown AI chips were so coveted that he was thinking about selling them:\n\nIf our chips business was a standalone business, and sold chips produced this year to AWS and other third parties (as other leading chips companies do), our annual run rate would be ~$50 billion. There’s so much demand for our chips that it’s quite possible we’ll sell racks of them to third parties in the future.\n\nHow much of a challenge could Amazon be to Nvidia? A $50 billion competitor wouldn’t exactly tank Nvidia — which is currently on a $326 billion revenue run rate — if it keeps delivering quarters like the last one. But it’s akin to Intel’s annual revenue.\nAWS has so far resisted selling its AI chips for a lot of reasons. The biggest is that the money AWS actually makes on its chips is a waterfall effect. Sure, it charges customers directly for the AI tokens those chips process on its cloud, but it also gets to charge for a host of other services companies need for their AI apps, including storage, security, networking, and monitoring services.\nEqually important, Amazon has touted the capacity of its chips has been selling out faster than it can produce them. In that same shareholder letter in April, Jassy said the current Trainium chip capacity had sold out almost instantly. So, too, he said, had the capacity for the next one, Trainium4, which won’t even be available for more than a year. This was before AWS formally added OpenAI to the models it was serving up.\nSo selling its chips to others means it would likely have to leave current customers on waiting lists, unless it could somehow manufacture a surplus of chips through its manufacturing partners such as TSMC. But it would have to miraculously elbow Nvidia out of the way to do that with TSMC, which has recently supplanted Apple to become the foundry’s largest customer.\nAWS spokesperson Doron Aronson (who hosted me during a recent private tour of the AWS chip design facility) also confirmed that AWS may sell these chips. “While we’ve historically declined requests to sell chips directly, Andy noted it’s quite possible we’ll sell racks of them to third parties in the future.”\nSo while Nvidia’s founder and CEO Jensen Huang recently declared that he’s found a brand-new $200 billion market for Nvidia in selling CPUs for AI, not just GPUs — thereby moving into Intel and AMD territory — Jassy clearly has his own chip ambitions: a $50 billion market that would put elbow more directly into Nvidia’s world.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1421680585.jpg?w=150"
+      ],
+      "datePublished": "2026-06-18T18:22:13.000Z",
+      "dateModified": "2026-06-18T18:22:13.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026. Here’s why it matters",
+    "url": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Japan-Go-.png?w=150",
+    "tag": "Tech",
+    "date": "2026-06-19T21:45:00.000Z",
+    "description": "\nGo’s IPO — Japan’s biggest so far this year — has done more than provide a much-needed boost to the country’s languishing listing season. It has also",
+    "body": "\nGo’s IPO — Japan’s biggest so far this year — has done more than provide a much-needed boost to the country’s languishing listing season. It has also supplied the taxi-hailing app with the capital required to address an existential issue: Japan’s shortage of drivers. \nGo, which went public Tuesday, plans to use the ¥88.6 billion ($553 million) raised in its IPO to expand its robotaxi business and make acquisitions, according to a company spokesperson. \n“We intend to use the proceeds from the sale of newly issued shares toward investment in research and development related to robotaxis and investment in business expansions, including strategic mergers and acquisitions in our business inside and outside of the taxi industry,” the spokesperson said.\nThe Japanese taxi-hailing company’s debut came in one of Japan’s quietest listing seasons, at a time when the government has been telling startups to sell themselves rather than go public. Go drew investments from BlackRock, Wellington Management, and M&G Investment Management in the process, underscoring where global institutional money is willing to go in Japan right now. The stock has since pulled back below its offering price, closing at ¥2,314 on Friday, down about 4% from the IPO price of ¥2,400.\nGo’s robotaxi ambitions are rooted in a human problem. Japan’s taxi industry is running out of drivers. The number of taxi drivers has fallen roughly 20% in recent years, according to a report citing Japan’s Ministry of Land, Infrastructure, Transport and Tourism. \nAn aging population means that figure is unlikely to recover. Ride-share services launched in Japan in 2024, but remain limited to certain areas and require drivers to be employed by a taxi company; restrictions that have done little to address the shortage.  \nGo was founded in 1977 as a taxi operator and now runs Japan’s largest ride-hailing app with 35 million downloads, 85,000 partner vehicles, and an 80% share of Japan’s taxi app market by usage time, covering 46 of Japan’s 47 prefectures. \nGo believes robotaxis will be part of its future — although it’s not clear when that vision will become a reality. \nGo has partnered with Waymo, an autonomous driving subsidiary of Alphabet, alongside Nihon Kotsu, one of Japan’s biggest taxi operators. Go is responsible for strategic coordination of the partnership, according to the spokesperson. CEO Hiroshi Nakajima has previously said that  Go will not invest in autonomous driving systems itself, according to Nikkei Asia.\nGo has not set a timeline for fully driverless operations. \n“We plan to begin driving fully autonomously, without a human specialist present, when we validate our technology and receive approval to do so,” the spokesperson said. \nIn the meantime, Go is looking for ways to give its traditional business a competitive edge. For instance, the company has partnered with Kakao T, Alipay, and WeChat Pay that allows inbound travelers from South Korea, China, and Taiwan to hail Go-affiliated taxis directly from their local apps.\nGo is not the only company betting on Tokyo’s robotaxi future. \nIn March, Uber, Wayve, and Nissan announced plans to pilot robotaxi services in Tokyo by late 2026, marking Uber’s first autonomous vehicle partnership in Japan. The service will use Nissan Leaf electric vehicles powered by Wayve’s AI Driver, and will be bookable through the Uber app. \nUber has also teamed up with S.Ride to let international visitors book rides through the Uber app. Didi Mobility Japan, a joint venture between SoftBank and Didi Chuxing, has a similar arrangement.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\tKate Park is a reporter at TechCrunch, with a focus on technology, startups and venture capital in Asia. She previously was a financial journalist at Mergermarket covering M&A, private equity and venture capital.\n\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026. Here’s why it matters",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/06/Japan-Go-.png?w=150"
+      ],
+      "datePublished": "2026-06-19T21:45:00.000Z",
+      "dateModified": "2026-06-19T21:45:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "AI data centers just got a government-mandated fast lane to the grid",
+    "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/12/Energy-sector-Getty.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-06-18T17:49:23.000Z",
+    "description": "\nThe Federal Energy Regulatory Commission (FERC) told grid operators on Thursday to fast-track interconnection requests from data centers and other la",
+    "body": "\nThe Federal Energy Regulatory Commission (FERC) told grid operators on Thursday to fast-track interconnection requests from data centers and other large electricity users.\nUnder the orders, six major grid operators have to show that data centers are “able to connect to the transmission system in a timely and orderly manner.” Data centers will be responsible for paying the costs of the interconnection. Commissioners approved the orders unanimously.\nFERC also provided an opening to grid tech startups, directing grid operators to consider “alternative transmission technologies.” The commission didn’t name specific technologies, but the directive could include things like solid-state transformers or superconducting transmission lines.\nGrid operators now have 30 days to submit a report detailing how much generating capacity they have to spare, if any. They also have 60 days to “defend or revise” electricity rates within their regions. FERC also directed grid operators to be more accommodating to behind-the-meter power for data centers.\nWhile FERC’s directives gave data centers a fast lane to connect, they did not address the shortage of generating capacity. \nGrid connections have been slow to materialize in part because new power plants are also having problems connecting. At the end of 2023, grid connection requests for power plants exceeded the total capacity of the existing power plant fleet, meaning the line to get on the grid was longer than the grid itself could theoretically serve.\nAgainst this backdrop, electricity demand from data centers is expected to nearly triple through 2035. Grid operators, which had grown accustomed to near-zero demand growth over the last two decades, have strained under the load. Some, like PJM, the country’s largest grid operator, have descended into something resembling chaos, with major utilities threatening to withdraw.\nTech companies and developers, unable to connect to the grid in a timely manner in many locations, have been turning to on-site, or behind-the-meter, power (which is typically more expensive and complicated) out of desperation.\nStill, enough projects have been able to connect that electricity prices have soared in many regions. Wholesale electricity rates are up as much as 267% compared with five years ago, according to Bloomberg.\nFERC was prodded to take on the issue by Secretary of Energy Chris Wright, who in October said delays in data center grid connections had threatened to undermine U.S. competitiveness in AI. Since then, public sentiment toward AI and data centers has soured considerably. \nMeanwhile, the Trump administration on Wednesday said it would pay $765 million to wind developer Invenergy to cancel offshore wind leases near California, Maine, and New York. The company said it would use the money to build natural gas plants in the Midwest and geothermal projects in the West. One of Invenergy’s wind projects would have generated as much as 2.4 gigawatts of power — enough, at peak output, to supply roughly 1.8 million homes.\nAltogether, the Trump administration has now spent about $2.6 billion to scuttle offshore wind developments.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tTim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor. \r\nDe Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.\r\nYou can contact or verify outreach from Tim by emailing tim.dechant@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "AI data centers just got a government-mandated fast lane to the grid",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2024/12/Energy-sector-Getty.jpg?w=150"
+      ],
+      "datePublished": "2026-06-18T17:49:23.000Z",
+      "dateModified": "2026-06-18T17:49:23.000Z",
       "author": [
         {
           "@type": "Person",
