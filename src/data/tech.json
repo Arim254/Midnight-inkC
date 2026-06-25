@@ -1,21 +1,71 @@
 [
   {
-    "title": "NTSB launches probe into fatal Texas Tesla crash",
-    "url": "https://techcrunch.com/2026/06/24/ntsb-launches-probe-into-fatal-texas-tesla-crash/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1252658003.jpg?w=150",
+    "title": "Elon suffers another day short of trillionaire status",
+    "url": "https://techcrunch.com/2026/06/24/elon-suffers-another-day-short-of-trillionaire-status/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/elon-nasdaq-spacex-ipo.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-06-24T16:39:08.000Z",
-    "description": "\nThe National Transportation Safety Board (NTSB) has opened an investigation into a crash that happened over the weekend in Texas, in which a driver s",
-    "body": "\nThe National Transportation Safety Board (NTSB) has opened an investigation into a crash that happened over the weekend in Texas, in which a driver slammed into a home in Katy, Texas, killing a resident.\nThe family of that victim, 76-year-old Martha Avila, has also filed a lawsuit against the driver, Michael Butler, and Tesla, alleging negligence.\nThe NTSB joins the National Highway Traffic Safety Administration (NHTSA) in investigating the crash. While Butler allegedly told local authorities that he was using Tesla’s Autopilot feature before the crash, the company has since said it has data showing that Butler’s accelerator pedal was pressed to the floor. This “overrode” what was more likely the Full Self-Driving software on his car, pushing his speed to 73 miles per hour before he hit the house, according to Tesla. \nTesla has not provided more proof beyond those statements, though. The NTSB and NHTSA investigations will likely require the company to turn over logs created by the car’s onboard computers that will ultimately reveal how exactly the crash happened. \n",
+    "date": "2026-06-24T23:09:39.000Z",
+    "description": "\nIn a world marred with oppression and strife, one injustice rises above all else: Elon Musk is not currently a trillionaire. \nWhen SpaceX went public",
+    "body": "\nIn a world marred with oppression and strife, one injustice rises above all else: Elon Musk is not currently a trillionaire. \nWhen SpaceX went public earlier this month, Musk became the world’s first trillionaire. He declared in a victory lap-slash-speech that he aspires to take all of us to the moon, Mars, and “maybe beyond the solar system.” He awkwardly threw his fists in the air while his acolytes cheered him on. \nBut stock prices fluctuate, so right now he’s merely a several-hundred-billionaire, according to Bloomberg’s Billionaires Index.\nFrankly, it’s embarrassing. How will Musk support his legion of offspring? Can he even afford to keep expanding his already considerable brood, given his outspoken pronatalism? The math is getting complicated.\nWe wish him the best as he navigates this trying time. And Elon, if you need a good rice and beans recipe, or some tips on how to win big at the thrift store, we can point you in the right direction.\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "NTSB launches probe into fatal Texas Tesla crash",
+      "headline": "Elon suffers another day short of trillionaire status",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1252658003.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/06/elon-nasdaq-spacex-ipo.jpg?w=150"
       ],
-      "datePublished": "2026-06-24T16:39:08.000Z",
-      "dateModified": "2026-06-24T16:39:08.000Z",
+      "datePublished": "2026-06-24T23:09:39.000Z",
+      "dateModified": "2026-06-24T23:09:39.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Europe is pushing back on Washington’s chip war",
+    "url": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/ASML-GettyImages-2258043611.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-06-25T00:08:36.000Z",
+    "description": "\nDutch Trade Minister Sjoerd Sjoerdsma visited Washington this week to meet with Commerce Secretary Howard Lutnick and members of Congress to oppose t",
+    "body": "\nDutch Trade Minister Sjoerd Sjoerdsma visited Washington this week to meet with Commerce Secretary Howard Lutnick and members of Congress to oppose the MATCH Act, a bill that would bar Chinese chipmakers from accessing Western semiconductor equipment, and one that would hit ASML especially hard.\nASML, based in the Netherlands, is Europe’s most valuable company and the only maker in the world of the sophisticated lithography machines that are used to make cutting-edge AI chips.\n“It’s exceptional that I’m coming here to broadly outline our concerns to Congress,” Sjoerdsma told Bloomberg after the meetings. “The stakes for the Netherlands may be very high.”\nChina accounts for 19% of ASML’s net system sales. The MATCH Act would go further than existing controls, extending curbs to ASML’s deep ultraviolet immersion machines on top of the long-standing ban on its most advanced extreme ultraviolet, or EUV, tools reaching China.\nAs ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH Act would now relegate off limits.\nThe bill, introduced in April, hasn’t yet faced a full House or Senate vote; Bloomberg notes it would likely need to be folded into a larger package to pass.\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Europe is pushing back on Washington’s chip war",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/01/ASML-GettyImages-2258043611.jpg?w=150"
+      ],
+      "datePublished": "2026-06-25T00:08:36.000Z",
+      "dateModified": "2026-06-25T00:08:36.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The memory chip crunch is paying off for this US company",
+    "url": "https://techcrunch.com/2026/06/24/the-memory-chip-crunch-is-paying-off-for-this-u-s-company/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/micron-HQ-GettyImages-2147904174.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-06-24T21:30:55.000Z",
+    "description": "\nIn Brief\nPosted:\n2:30 PM PDT · June 24, 2026\n\nImage Credits:Jeremy Erickson/Bloomberg / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nThe A",
+    "body": "\nIn Brief\nPosted:\n2:30 PM PDT · June 24, 2026\n\nImage Credits:Jeremy Erickson/Bloomberg / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nThe AI boom has fueled dozens of new startups and minted a new class of billionaires. It has also produced a serious shortage of memory chips — a critical component for compute-hungry AI models — which some predict could persist through 2027.\nThis era of RAMageddon isn’t just a corporate problem. As demand spikes and squeezes supply, prices are rising and trickling down to consumers. Apple CEO Tim Cook warned just a week ago that price increases for its products are unavoidable.\nBut amid this Mad Max-esque fight for memory chips, some companies are coming out ahead. Micron, the largest U.S. computer-memory chip maker — with a market cap of $1.2 trillion — is one of them. That hasn’t always been the case. The company’s shares were trading around $83 in early 2024 (with a market cap of about $91 billion) and closed today at $1,048.51.\nThe company reported third-quarter earnings after markets closed Wednesday, and the results sent shares soaring more than 13%. Revenue quadrupled to $41.45 billion compared with the same period a year ago. The company’s profit, meanwhile, rose from $1.88 billion to an incredible $28.2 billion year-over-year.\nThe Idaho-based company also gave investors a positive outlook, forecasting fourth-quarter revenue of between $49 billion and $51 billion.\nThe strong results arrive the same week Micron inked a deal to supply AI lab Anthropic with memory and storage chips. Micron also disclosed that it participated in Anthropic’s Series H funding round, though it didn’t disclose how much it invested.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Hardware\n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "The memory chip crunch is paying off for this US company",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/06/micron-HQ-GettyImages-2147904174.jpg?w=150"
+      ],
+      "datePublished": "2026-06-24T21:30:55.000Z",
+      "dateModified": "2026-06-24T21:30:55.000Z",
       "author": [
         {
           "@type": "Person",
@@ -50,22 +100,22 @@
     }
   },
   {
-    "title": "Valor Equity Partners looks to raise a $2.5B Fund VII, per Bloomberg",
-    "url": "https://techcrunch.com/2026/06/24/valor-equity-partners-looks-to-raise-a-2-5b-fund-vii-per-bloomberg/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-1973276988.jpg?w=150",
+    "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
+    "url": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-1251294592.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-06-24T13:58:14.000Z",
-    "description": "\nIn Brief\nPosted:\n6:58 AM PDT · June 24, 2026\n\nImage Credits:Eva Marie Uzcategui/Bloomberg\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nNew details have",
-    "body": "\nIn Brief\nPosted:\n6:58 AM PDT · June 24, 2026\n\nImage Credits:Eva Marie Uzcategui/Bloomberg\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nNew details have emerged about Valor Equity Partners’ Fund VII, which last year filed paperwork with the U.S. Securities and Exchange Commission to begin raising capital.\nBloomberg reported Wednesday that the fund is targeting at least $2.5 billion in capital, a portion of which has already been set aside for further investments in SpaceX. This may not be a surprise, given that the firm and its founder, Antonio Gracias, are long-term supporters of Elon Musk. According to Bloomberg, Valor Equity Partners owns around 4% of SpaceX, which recently debuted on the public markets.\nIt’s not entirely clear what the fund’s thesis will be, but past investments likely offer a clue. Aside from backing many Musk projects, Valor has also cut checks to military technology maker Anduril and news-sharing site Reddit. As Bloomberg notes, Valor’s funds typically focus on helping companies scale, especially at the growth stage, though it has raised capital to provide more early-stage support.\nValor previously announced the closing of Fund VI for $2.35 billion in 2024, mainly focused on operational growth investments.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Venture\n\n",
+    "date": "2026-06-24T22:41:41.000Z",
+    "description": "\nShares of Cerebras Systems dropped almost 20% on Wednesday, even after the company delivered better-than-expected first-quarter earnings on Tuesday.\n",
+    "body": "\nShares of Cerebras Systems dropped almost 20% on Wednesday, even after the company delivered better-than-expected first-quarter earnings on Tuesday.\nThat’s because in its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, guiding for a full-year margin of 38% to 41%, compared with the 47% reported in the first quarter. The stock hit a new low on Wednesday, almost hitting the company’s IPO price. \nCerebras CEO Andrew Feldman told CNBC that investors had misunderstood the company’s margin guidance, noting that Cerebras will need to rent back some equipment from one of its largest customers. \nThe company said during its earnings call that it decided to make more capacity available sooner by temporarily renting its own systems back from an existing customer while it builds out and deploys its own data center capacity. The company said this would cut into profit margins this year.\nAccording to the company’s earnings report, revenue for the quarter reached $193 million, up 94% year-over-year. Net loss narrowed to $14 million, down from $23.9 million a year earlier.\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Valor Equity Partners looks to raise a $2.5B Fund VII, per Bloomberg",
+      "headline": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-1973276988.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-1251294592.jpg?w=150"
       ],
-      "datePublished": "2026-06-24T13:58:14.000Z",
-      "dateModified": "2026-06-24T13:58:14.000Z",
+      "datePublished": "2026-06-24T22:41:41.000Z",
+      "dateModified": "2026-06-24T22:41:41.000Z",
       "author": [
         {
           "@type": "Person",
@@ -80,8 +130,8 @@
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/instagram-logo-fingerprint.jpg?w=150",
     "tag": "Tech",
     "date": "2026-06-24T21:04:04.000Z",
-    "description": "\nIn Brief\nPosted:\n2:04 PM PDT · June 24, 2026\n\nImage Credits:Avishek Das/SOPA Images/LightRocket /\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nWhen it ",
-    "body": "\nIn Brief\nPosted:\n2:04 PM PDT · June 24, 2026\n\nImage Credits:Avishek Das/SOPA Images/LightRocket /\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nWhen it comes to securing accounts against hackers, passkeys are now widely considered the gold standard.\nAnd yet they are still not offered by one in four major apps and services on the internet, including Instagram, Netflix, and Spotify. Those stats comes from a new website that names and shames companies that still don’t give users the option to use passkeys to login into their apps and services.\nPasskeys are more secure than passwords because they are generated by a user’s device and tied to that phone or computer and the website they are created for. They can rely on biometrics such as Face ID, Touch ID, or a physical security key; and can be stored automatically in someone’s password manager. Passkey’s crucial advantage is that the user doesn’t have to remember anything — unlike a password— and they are much harder to steal or phish by a hacker unless they get physical control of the target’s devices.\nScott Helme, the longtime security researcher who created the website whynopasskeys.com, wrote in a blog post that the motivation behind the site is to push companies to enable passkeys and give users the chance to adopt them. “A list is a surprisingly effective motivator. Nobody wants to be on the list,” wrote Helme.\nMajor companies such as Apple, Google, and Microsoft, are on the good side of the list and do offer passkeys to users. \nIt’s important to note that users can turn on passkeys on Instagram, but only if their account is tied to a Facebook account with a passkey enabled.\nMeta did not immediately respond to TechCrunch’s request for comment as to why some of its products, like Facebook and WhatsApp offer passkeys, but Instagram does not. TechCrunch also reached out to Netflix and Spotify. This article will be updated if any of these companies provide a comment.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Security\n\n",
+    "description": "\nIn Brief\nPosted:\n2:04 PM PDT · June 24, 2026\n\nImage Credits:Avishek Das/SOPA Images/LightRocket / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t",
+    "body": "\nIn Brief\nPosted:\n2:04 PM PDT · June 24, 2026\n\nImage Credits:Avishek Das/SOPA Images/LightRocket / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nWhen it comes to securing accounts against hackers, passkeys are now widely considered the gold standard.\nAnd yet they are still not offered by one in four major apps and services on the internet, including Instagram, Netflix, and Spotify. Those stats come from a new website that names and shames companies that still don’t give users the option to use passkeys to log in to their apps and services.\nPasskeys are more secure than passwords because they are generated by a user’s device and tied to that phone or computer and the website they are created for. They can rely on biometrics such as Face ID, Touch ID, or a physical security key; and can be stored automatically in someone’s password manager. Passkeys’ crucial advantage is that the user doesn’t have to remember anything — unlike a password — and they are much harder to steal or phish by a hacker unless they get physical control of the target’s devices.\nScott Helme, the longtime security researcher who created the website whynopasskeys.com, wrote in a blog post that the motivation behind the site is to push companies to enable passkeys and give users the chance to adopt them. “A list is a surprisingly effective motivator. Nobody wants to be on the list,” wrote Helme.\nMajor companies such as Apple, Google, and Microsoft are on the good side of the list and do offer passkeys to users. \nIt’s important to note that users can turn on passkeys on Instagram, but only if their account is tied to a Facebook account with a passkey enabled.\nMeta did not immediately respond to TechCrunch’s request for comment as to why some of its products, like Facebook and WhatsApp, offer passkeys, but Instagram does not. TechCrunch also reached out to Netflix and Spotify. This article will be updated if any of these companies provide a comment.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Security\n\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
@@ -91,6 +141,31 @@
       ],
       "datePublished": "2026-06-24T21:04:04.000Z",
       "dateModified": "2026-06-24T21:04:04.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "NTSB launches probe into fatal Texas Tesla crash",
+    "url": "https://techcrunch.com/2026/06/24/ntsb-launches-probe-into-fatal-texas-tesla-crash/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1252658003.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-06-24T16:39:08.000Z",
+    "description": "\nThe National Transportation Safety Board (NTSB) has opened an investigation into a crash that happened over the weekend in Texas, in which a driver s",
+    "body": "\nThe National Transportation Safety Board (NTSB) has opened an investigation into a crash that happened over the weekend in Texas, in which a driver slammed into a home in Katy, Texas, killing a resident.\nThe family of that victim, 76-year-old Martha Avila, has also filed a lawsuit against the driver, Michael Butler, and Tesla, alleging negligence.\nThe NTSB joins the National Highway Traffic Safety Administration (NHTSA) in investigating the crash. While Butler allegedly told local authorities that he was using Tesla’s Autopilot feature before the crash, the company has since said it has data showing that Butler’s accelerator pedal was pressed to the floor. This “overrode” what was more likely the Full Self-Driving software on his car, pushing his speed to 73 miles per hour before he hit the house, according to Tesla. \nTesla has not provided more proof beyond those statements, though. The NTSB and NHTSA investigations will likely require the company to turn over logs created by the car’s onboard computers that will ultimately reveal how exactly the crash happened. \n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "NTSB launches probe into fatal Texas Tesla crash",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1252658003.jpg?w=150"
+      ],
+      "datePublished": "2026-06-24T16:39:08.000Z",
+      "dateModified": "2026-06-24T16:39:08.000Z",
       "author": [
         {
           "@type": "Person",
@@ -125,22 +200,47 @@
     }
   },
   {
-    "title": "Superhuman acquires AI detection startup GPTZero",
-    "url": "https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/06/GPTZero-founders-Edward-and-Alex.jpg?w=150",
+    "title": "AI researchers continue to leave Google for its rivals",
+    "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/02/glitched-google-logo.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-06-23T21:48:23.000Z",
-    "description": "\nIn Brief\nPosted:\n2:48 PM PDT · June 23, 2026\n\nImage Credits:GPTZero\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nGPTZero, the three-year-old AI detecti",
-    "body": "\nIn Brief\nPosted:\n2:48 PM PDT · June 23, 2026\n\nImage Credits:GPTZero\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nGPTZero, the three-year-old AI detection startup that Princeton grad Edward Tian first built as a senior thesis project, has been acquired by Superhuman, the companies announced on Tuesday.\nTerms of the deal were not disclosed, though Tian told Business Insider that GPTZero amassed more than 19 million registered users and $30 million in annual recurring revenue.\nIn 2024, Tian told TechCrunch that it was profitable. Tian and co-founder CTO Alex Cui, who’d been friends since high school, raised a $3.5 million seed round led by Uncork Capital, followed by a $10 million Series A in June 2024 led by Footwork co-founder Nikhil Basu Trivedi, with several other notable investors including Reach Capital, Jack Altman’s Alt Capital, and Neo. All told, the company raised just $13.5 million.\nSuperhuman — the company formed when Grammarly bought email provider Superhuman last year and rebranded under that name — already had an AI detection tool built into its platform. GPTZero’s mission has been to help humans detect and defend against AI slop. Grammarly’s tool has been designed to help users, often students, determine whether their writing appears AI-generated, then revise it so it doesn’t. As for why Superhuman bought a competitor, Superhuman says that “two AI detectors are better than one.”\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Startups\n\n",
+    "date": "2026-06-24T21:42:07.000Z",
+    "description": "\nIn Brief\nPosted:\n2:42 PM PDT · June 24, 2026\n\nImage Credits:TechCrunch\n\nTop AI researchers Jonas Adler and Alexander Pritzel are leaving Google for A",
+    "body": "\nIn Brief\nPosted:\n2:42 PM PDT · June 24, 2026\n\nImage Credits:TechCrunch\n\nTop AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, according to Bloomberg. Per the report, Adler and Pritzel played key roles in the development of Google’s Gemini model.\nTechCrunch reached out to Google for comment.\nThese departures are part of a concerning trend for Google. Last week, legendary AI researcher Noam Shazeer announced that he was leaving Google for OpenAI. Shazeer had been at Google since 2000, save for the three years he spent building his controversial chatbot startup, Character.AI (which Google effectively acqui-hired for $2.7 billion, in part to bring Shazeer back to work on Gemini).\nJust days after Shazeer made his announcement, Google DeepMind director John Jumper said he was leaving Google for Anthropic. Alongside DeepMind CEO Demis Hassabis, Jumper won the 2024 Nobel Prize in Chemistry for his work on AlphaFold, which can predict 3D protein structures from animo acid sequences.\nAs OpenAI and Anthropic prepare to go public, this trend could continue — it’s a great time for the companies to recruit top AI talent with a promise of equity.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in AI\n\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Superhuman acquires AI detection startup GPTZero",
+      "headline": "AI researchers continue to leave Google for its rivals",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/06/GPTZero-founders-Edward-and-Alex.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2023/02/glitched-google-logo.jpg?w=150"
       ],
-      "datePublished": "2026-06-23T21:48:23.000Z",
-      "dateModified": "2026-06-23T21:48:23.000Z",
+      "datePublished": "2026-06-24T21:42:07.000Z",
+      "dateModified": "2026-06-24T21:42:07.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
+    "url": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/vishal-sikka-indiaai-summit.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-06-24T23:26:52.000Z",
+    "description": "\nFor decades, IT services firms made billions of dollars by allowing companies to outsource tech tasks like  customizing, integrating, and maintaining",
+    "body": "\nFor decades, IT services firms made billions of dollars by allowing companies to outsource tech tasks like  customizing, integrating, and maintaining enterprise software. Vishal Sikka, former CEO of Infosys, one of the largest such firms in India, is now betting that AI can do much of that work instead.\nHis new startup, Hang Ten Systems, has raised a $32 million seed round led by Mayfield, it said Wednesday, with a strategic investment from Aramco Ventures and participation from angel investors. The startup, whose board includes Yahoo co-founder Jerry Yang, said it helps enterprises continuously build, modify, and operate software using AI-driven development and automation. \nHang Ten enters a market where IT services firms, including Infosys, are racing to adapt to AI through partnerships with companies like Anthropic and OpenAI. \nThe startup’s launch comes amid a growing debate over whether AI will expand the industry’s addressable market or fundamentally alter how enterprise software is built, maintained, and delivered. \nClearly, some enterprises are eager to try the AI-services idea, especially from someone as experienced as Sikka, who spent 12 years building enterprise software at SAP, and later as a board member for Oracle. Mayfield Managing Partner Navin Chaddha told TechCrunch that the company “just got started a month back” and already has customers.\nThe startup said it is working with customers including Siemens Gamesa Renewable Energy and Fresenius on AI-native project delivery. In a separate blog post announcing the venture, Sikka, 59, said Hang Ten was already helping large enterprises “hang ten on the biggest wave of our lifetimes.”\nHeadquartered in the Bay Area, Hang Ten told TechCrunch that it is hiring across delivery, engineering, sales, and leadership and plans to expand across multiple locations globally to meet enterprise demand.\nThe early crew at the startup includes executives who have worked with Sikka for years across SAP, Infosys and his previous enterprise AI startup, VianAI, according to their LinkedIn profiles. Among them are co-founders Navin Budhiraja, the startup’s CTO, Sanjay Rajagopalan, its chief design officer, and Tao Liu, its senior vice president of forward deployed engineering.\nAfter stepping down as Infosys’ chief executive in 2017, Sikka founded VianAI, which emerged from stealth in 2019 with $50 million in seed funding and later raised $140 million in a 2021 round led by SoftBank Vision Fund 2.\nChaddha told TechCrunch Hang Ten is distinct from VianAI, describing Sikka’s earlier venture as focused on a different market. VianAI focused on enterprise AI applications and analytics tools designed to help businesses use artificial intelligence in decision-making. Hang Ten, by contrast, describes itself as an enterprise AI services company built around agentic code generation, reusable AI skills, and domain expertise.\nMayfield backed Hang Ten because of Sikka’s career experience, as well as its belief that the startup’s AI-native model can scale differently from traditional services firms.\n“Traditional services scale linearly with headcount,” Mayfield said. “Hang Ten is built so its leverage grows with every project.”\nHang Ten emerges as investors debate how AI will affect the economics of the IT services industry. Analysts at Jefferies argued earlier this year that IT services may be among the first sectors to face meaningful AI disruption. Infosys chairman Nandan Nilekani, however, this week said AI could expand the industry’s addressable market.\nInfosys itself has sought to position AI as an opportunity rather than a threat, telling investors this month that “AI-first services” could represent a $300 billion-$400 billion market by 2030. The debate comes as investors reassess the outlook for traditional IT services firms, with Infosys shares down over 35% this year.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tJagmeet covers startups, tech policy-related updates, and all other major tech-centric developments from India for TechCrunch. He previously worked as a principal correspondent at NDTV. \r\nYou can contact or verify outreach from Jagmeet by emailing mail@journalistjagmeet.com.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Former Infosys chief has a new startup that wants to challenge the IT services world",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/06/vishal-sikka-indiaai-summit.jpg?w=150"
+      ],
+      "datePublished": "2026-06-24T23:26:52.000Z",
+      "dateModified": "2026-06-24T23:26:52.000Z",
       "author": [
         {
           "@type": "Person",
@@ -175,22 +275,22 @@
     }
   },
   {
-    "title": "Facebook rolls out an AI companion app for creators",
-    "url": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/03/facebook-logo-on-phone.jpg?w=150",
+    "title": "Figma adds code layers, support for animations, more AI features in new update",
+    "url": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Config-product-feat.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-06-24T17:16:24.000Z",
-    "description": "\nFacebook announced on Wednesday that it’s reimagining its Creator Studio tool as a stand-alone AI companion app designed to help creators grow their ",
-    "body": "\nFacebook announced on Wednesday that it’s reimagining its Creator Studio tool as a stand-alone AI companion app designed to help creators grow their audiences on the social network.\nBy giving creators access to this AI companion app, Meta is looking to keep creators active on Facebook as it competes for their attention against rivals like TikTok and YouTube. The company also likely hopes that the app will eliminate the need for creators to turn to third-party tools like ChatGPT when brainstorming content ideas and analyzing performance.\nThe new app, which is currently being tested with select creators, will have Facebook’s recently launched AI creator assistant built into it. The assistant provides creators with personalized recommendations based on their content style, performance, audience engagement, and goals.\nImage Credits:Meta\nCreators often have to sift through charts and dashboards to understand their performance, but with the AI assistant, they can get quick answers to questions like “When should I post?” and “What are people saying in my comments?” Since the AI assistant is conversational, they can also ask follow-up questions, like how their audience has shifted over time. \nBeyond the built-in AI assistant, the Creator Studio app will include a set of several new features, such as an AI-powered comment tool that will help surface the most important comments and draft replies in the creator’s own tone. Creators can edit and approve the drafted replies before posting them, Facebook says.\nWhen creators open the app each day, they will see a feed of daily priorities: reviewing their newest post’s performance, tracking progress toward goals, and flagging comments in need of a reply.\nImage Credits:Meta\nWednesday’s announcement adds to Meta’s recent wave of app launches. Last month, the company rolled out a stand-alone app for Facebook Groups called Forum that functions similarly to Reddit. In April, Meta launched a new app called Instants that lets users share disappearing photos with Instagram friends.\nThe pipeline keeps growing. The New York Times reported on Tuesday that Meta is building its own Polymarket-like app, internally called “Arena,” though it has yet to launch.\nThe cadence is deliberate. The Wall Street Journal reported in April that CEO Mark Zuckerberg told employees that AI-driven efficiencies would enable the company to build more apps than it has historically.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing aisha@techcrunch.com or via encrypted message at aisha_malik.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-06-24T16:15:00.000Z",
+    "description": "\nFigma on Wednesday showed off an update that adds a new code layer, support for motion and shaders, and the ability to create custom plug-ins for var",
+    "body": "\nFigma on Wednesday showed off an update that adds a new code layer, support for motion and shaders, and the ability to create custom plug-ins for various tasks using AI.\nThe design platform has been working on bringing code integration into its tool for a while. Last year, it unveiled an AI prompt-based prototyping tool, Figma Make, and has since launched integrations with Claude Code and Codex to improve the hand-off between coding and design.\nThe company is now adding code layers directly to the collaborative canvas, helping teams clone repositories and extract flows from code to design layers for testing. \nImage Credits:Figma\nFigma’s chief product officer, Yuhki Yamashita, said code layers make it easier for designers, product managers, and programmers to iterate on ideas rather than focus on creating pristine code that goes into production.\n“We think the multiplayer canvas is really powerful because this is an environment where you don’t really care about the quality of the code. If you’re rapidly exploring or need to kind of explore a bunch of new directions, you can do that in this spatial way. We hope that this feature produces different behavior not just with designers, but also with engineers and PMs,” he said over a call.\nFigma now also supports animations, transitions, and 3D transforms. Previously, designers had to create animations in other software and convert it to code that the app could understand. Now designers can integrate animations and transitions directly into Figma.\nImage Credits:Figma\nYou can now use AI to create some of these assets, and the update is adding support for adding shader effects and fills using AI, too.\nLast year, Figma acquired node-based tool Weavy, which helped designers run workflows through different models to compare outputs, and is now working to integrate the two apps better. In an update rolling out later in the year, users will be able to generate Weavy workflows directly within Figma.\nThe company’s also adding new skills to make its AI assistant more useful with its collaborative canvas. Users can now write text prompts to create repeatable skills that AI agents can use. You can also connect tools like Notion, Granola, Excel, and GitHub, or attach files to give the AI bot more context about what you want it to do.\nThe company is also adding a feature to help users create custom plug-ins, like layout generators or vector path tracers, with prompts.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Facebook rolls out an AI companion app for creators",
+      "headline": "Figma adds code layers, support for animations, more AI features in new update",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/03/facebook-logo-on-phone.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/06/Config-product-feat.jpg?w=150"
       ],
-      "datePublished": "2026-06-24T17:16:24.000Z",
-      "dateModified": "2026-06-24T17:16:24.000Z",
+      "datePublished": "2026-06-24T16:15:00.000Z",
+      "dateModified": "2026-06-24T16:15:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -225,31 +325,6 @@
     }
   },
   {
-    "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
-    "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/ai-bots-agents-GettyImages-2230799616.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-06-23T23:30:00.000Z",
-    "description": "\nIndian customer engagement software firm MoEngage, which serves brands across global markets, has acquired San Francisco-based startup Aampe in an al",
-    "body": "\nIndian customer engagement software firm MoEngage, which serves brands across global markets, has acquired San Francisco-based startup Aampe in an all-cash deal, betting that AI agents that make decisions for individual customers will become the future of marketing.\nMoEngage did not disclose the financial terms of the transaction, but a source familiar with the matter told TechCrunch that the all-cash deal was worth tens of millions of dollars.\nFounded in 2020, Aampe develops software that assigns a dedicated AI agent to each customer, allowing brands to personalize messaging based on individual behavior rather than traditional audience segments and campaign rules. The startup has more than 30 customers across the U.S., Europe, and Asia-Pacific, and grew annual recurring revenue by 150% over the past year, MoEngage co-founder and chief executive Raviteja Dodda said in an interview.\nDodda told TechCrunch that the acquisition will help it win customers using rival marketing platforms such as Salesforce and Adobe. \n“A large part of our growth is driven by migrations of enterprise customers from Salesforce Marketing Cloud and Adobe Experience Cloud,” Dodda said.\nMoEngage recently signed three to four multimillion-dollar annual contract value deals with customers that switched from Salesforce, Dodda said. He’s hopeful that the Aampe acquisition will help him win more of such customers.\nThe acquisition comes as software companies race to embed AI deeper into enterprise applications, moving beyond tools that generate content or assist employees toward agents making autonomous decisions. In marketing, that includes deciding which customers to target, what messages to send, and when to send them.\nAampe’s technology is used by brands such as Swiggy, Grab, and Taxfix, some of which also use MoEngage’s customer engagement platform.\nThe acquisition comes over six months after MoEngage raised $280 million through a mix of primary and secondary transactions. Around 20 Aampe employees will join MoEngage, taking the company’s workforce to roughly 820 people.\nMoEngage said it serves more than 1,350 consumer brands across 75 countries, including customers in sectors such as retail, financial services, media, and food delivery.\nFounded in 2020, Aampe has raised about $28 million across three funding rounds. The startup counts Peak XV Partners, Z47, and Theory Ventures among its investors.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tJagmeet covers startups, tech policy-related updates, and all other major tech-centric developments from India for TechCrunch. He previously worked as a principal correspondent at NDTV. \r\nYou can contact or verify outreach from Jagmeet by emailing mail@journalistjagmeet.com.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "India’s MoEngage bets that the future of marketing is millions of AI agents",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/03/ai-bots-agents-GettyImages-2230799616.jpg?w=150"
-      ],
-      "datePublished": "2026-06-23T23:30:00.000Z",
-      "dateModified": "2026-06-23T23:30:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "3 days left to save up to $190 on your TechCrunch Founder Summit 2026 pass",
     "url": "https://techcrunch.com/2026/06/24/3-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/TC-All-Stage-2025-Charles-Hudson-Breakout-Session-Audience.jpg?w=150",
@@ -275,97 +350,22 @@
     }
   },
   {
-    "title": "Figma adds code layers, support for animations, more AI features in new update",
-    "url": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Config-product-feat.jpg?w=150",
+    "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
+    "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1250956868.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-06-24T16:15:00.000Z",
-    "description": "\nFigma on Wednesday showed off an update that adds a new code layer, support for motion and shaders, and the ability to create custom plug-ins for var",
-    "body": "\nFigma on Wednesday showed off an update that adds a new code layer, support for motion and shaders, and the ability to create custom plug-ins for various tasks using AI.\nThe design platform has been working on bringing code integration into its tool for a while. Last year, it unveiled an AI prompt-based prototyping tool, Figma Make, and has since launched integrations with Claude Code and Codex to improve the hand-off between coding and design.\nThe company is now adding code layers directly to the collaborative canvas, helping teams clone repositories and extract flows from code to design layers for testing. \nImage Credits:Figma\nFigma’s chief product officer, Yuhki Yamashita, said code layers make it easier for designers, product managers, and programmers to iterate on ideas rather than focus on creating pristine code that goes into production.\n“We think the multiplayer canvas is really powerful because this is an environment where you don’t really care about the quality of the code. If you’re rapidly exploring or need to kind of explore a bunch of new directions, you can do that in this spatial way. We hope that this feature produces different behavior not just with designers, but also with engineers and PMs,” he said over a call.\nFigma now also supports animations, transitions, and 3D transforms. Previously, designers had to create animations in other software and convert it to code that the app could understand. Now designers can integrate animations and transitions directly into Figma.\nImage Credits:Figma\nYou can now use AI to create some of these assets, and the update is adding support for adding shader effects and fills using AI, too.\nLast year, Figma acquired node-based tool Weavy, which helped designers run workflows through different models to compare outputs, and is now working to integrate the two apps better. In an update rolling out later in the year, users will be able to generate Weavy workflows directly within Figma.\nThe company’s also adding new skills to make its AI assistant more useful with its collaborative canvas. Users can now write text prompts to create repeatable skills that AI agents can use. You can also connect tools like Notion, Granola, Excel, and GitHub, or attach files to give the AI bot more context about what you want it to do.\nThe company is also adding a feature to help users create custom plug-ins, like layout generators or vector path tracers, with prompts.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-06-24T21:56:41.000Z",
+    "description": "\nWhether AI is already replacing jobs is the subject of fierce debate.\nTech layoffs hit their highest single month total in years in May, and AI was t",
+    "body": "\nWhether AI is already replacing jobs is the subject of fierce debate.\nTech layoffs hit their highest single month total in years in May, and AI was the most-cited reason, according to outplacement firm Challenger, Gray & Christmas.\nSoftware engineering, in theory, is the professional field most vulnerable to automation, given the rapid adoption of AI-powered coding tools. However, researchers at venture firm SignalFire say the hiring data tells a different story.\n“The rationale given for lots of layoffs is consistently AI, and specifically they’ll say AI with respect to code; they’ll say one engineer could do the job of however many engineers in the past,” said Asher Bantock, SignalFire’s head of research. “What we’re seeing on the ground is a little inconsistent with that.”\nSignalFire’s analysis, which tracked the careers of millions of employees across more than 80 million companies, suggests that engineering was the most resilient job function in 2025. Instead of focusing on layoffs, which are difficult to track because people often delay updating their employment status after job cuts, SignalFire examined hiring data as a more accurate indicator of real-time workforce trends.\nWhile total hiring across large tech companies dropped 25% compared to 2019 levels, engineering roles saw a much smaller decline of just 11%, according to SignalFire’s latest “State of Talent Report.”\nIn fact, engineers comprised 55% of all new hires in 2025 across the 12 companies SignalFire classifies as “Tech Majors” — Alphabet, Meta, Apple, Amazon, Microsoft, Netflix, Nvidia, Tesla, Uber, Airbnb, Block, and Stripe. This is a significant jump from 2019, when engineers represented only 46% of new recruits, according to the report.\nThe continued need for engineers was even more evident at early-stage startups, which collectively brought on 7% more engineers in 2025 than they did in 2019, SignalFire’s data shows.\nIf AI were truly substituting for engineering talent, Bantock argued, engineering hiring would be the first to fall amid the current tech hiring contraction. Instead, SignalFire’s data shows that engineering headcount is growing faster than most other job functions in tech.\nWhile Anthropic CEO Dario Amodei warned last year that AI could wipe out half of all entry-level white-collar jobs and push unemployment as high as 20% within five years, the company’s own head of economics, Peter McCrory, told TechCrunch in March that he had not yet seen any significant AI-driven effects on the workforce.\nSaid McCrory at the time: “There’s at least no larger material difference in unemployment rates” between workers who use Claude for the “most central task of their job in automated ways” — like technical writers, data entry clerks, and software engineers — and workers in jobs less exposed to AI that require “physical interaction and dexterity with the real world.” \nNvidia CEO Jensen Huang went further still, outright rejecting the theory that AI will replace engineers. “Somebody said that AI is going to destroy all of the software engineering jobs,” Huang said in an interview at the Stanford Graduate School of Business in April. He then argued the opposite is true. Now that all engineers at Nvidia are using agentic AI, “software engineers are busier than ever,” he said.\nHuang added that while agents are writing code near instantaneously, they are constantly pushing engineers to generate “the next idea.”\nFor now at least, it seems that armed with AI, engineering has become a classic example of the Jevons paradox — the idea that greater efficiency doesn’t reduce demand for a resource; it increases it, because the work expands to fill the new capacity. As Bantock said of engineering talent in this moment: “They’re suddenly a lot more productive, and there’s endless work for them to do.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tMarina Temkin is a venture capital and startups reporter at TechCrunch. Prior to joining TechCrunch, she wrote about VC for PitchBook and Venture Capital Journal. Earlier in her career, Marina was a financial analyst and earned a CFA charterholder designation.\r\nYou can contact or verify outreach from Marina by emailing marina.temkin@techcrunch.com or via encrypted message at +1 347-683-3909 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Figma adds code layers, support for animations, more AI features in new update",
+      "headline": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/06/Config-product-feat.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1250956868.jpg?w=150"
       ],
-      "datePublished": "2026-06-24T16:15:00.000Z",
-      "dateModified": "2026-06-24T16:15:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Here’s why Slate changed the battery in its cheap EV truck",
-    "url": "https://techcrunch.com/2026/06/24/heres-why-slate-changed-the-battery-in-its-cheap-ev-truck/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/04/Inspo_Truck_web.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-06-24T19:27:56.000Z",
-    "description": "\nSlate, maker of the stripped-down EV pickup truck, found another way to simplify its product: the battery.\nWhen the startup revealed its starting pri",
-    "body": "\nSlate, maker of the stripped-down EV pickup truck, found another way to simplify its product: the battery.\nWhen the startup revealed its starting price on Wednesday — $24,950 before destination, taxes, and other fees — it also said it had changed its battery strategy, eliminating the optional 240-mile pack but bumping the standard pack from 150 miles to 205. \nHow Slate pulled that off illustrates just how significantly the battery market in the U.S. has changed in the past four years.\nInitially, the startup planned to use nickel-manganese-cobalt (NMC) cells. The chemistry is widely used in the automotive industry and favored for its energy density, which translates into longer range. But NMC is also expensive, mostly due to high nickel and cobalt prices.\nMore recently, automakers have begun to use another chemistry, lithium-iron-phosphate (LFP). Battery packs that use LFP are less energy dense but cheaper by about 40%, thanks in part to lower-cost ingredients like iron, one of the main cathode materials, which replaces nickel and cobalt.\nThere were good reasons why Slate, and other automakers, started with NMC. The LFP supply chain today is concentrated in China. That wasn’t always the case — early U.S. battery startup A123 Systems was founded to commercialize the technology. But after a few missteps, it fell into bankruptcy and was bought in 2013 by a Chinese auto parts company. Since then, Chinese battery companies have embraced the chemistry and dominated production of LFP cells.\nLFP’s foreign origin meant that, before last summer, EVs that used it wouldn’t qualify for a $7,500 tax credit under the Inflation Reduction Act. Only batteries made of materials sourced domestically or from companies with which the U.S. had a free trade agreement would qualify. But when the One Big Beautiful Bill Act axed the tax credits, those concerns evaporated, as well. Chinese manufacturers were back in consideration. Slate said it is working with Hefei-based battery company Gotion to source the cells, which will be built at a factory in Illinois, according to InsideEVs.\nThe other reason automakers passed over LFP batteries was their limited range. Automakers selling into the U.S. market have prioritized range, though vehicles that can travel more than 300 miles on a charge tend to be pricey — pretty much the opposite of what Slate is going for.\nIn reality, most people don’t need that much range, and as charging networks have grown in size, reach, and speed, range anxiety is gradually waning. While LFP cells will never match NMC in energy density, modern variations of the chemistry have helped close the gap. Ford, GM, Rivian, and Tesla all offer models that use LFP cells.\nThe industry’s embrace of LFP cells has also coincided with its transition to cell-to-pack technology, which Slate is using to build its battery packs.\nPreviously, when automakers assembled a battery pack, they first loaded cells into modules, which were then loaded into the pack. That setup allowed them to use pouch cells, which are cheaper and lighter. But over time, they realized the module approach canceled out the cost and weight savings the pouch cells offered. Though some EVs still use modules, the industry is moving toward cell-to-pack construction, in which rigid batteries, either prismatic or cylindrical, are loaded directly into the pack itself. \nCell-to-pack trims manufacturing steps and boosts volumetric energy density, a helpful trait for a small EV like the Slate truck. Plus, LFP cells can be charged to 100% with fewer concerns about degradation than NMC, meaning drivers can use the full pack on a daily basis.\nWhile there was probably a moment when Slate’s leadership had to green-light the switch from NMC to LFP, the momentum toward that decision had been building for years. LFP won’t take over the entire market — automakers like GM are betting on an entirely different chemistry — but its combination of low cost and decent range make LFP an obvious choice for what will be the cheapest EV in the U.S. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tTim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor. \r\nDe Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.\r\nYou can contact or verify outreach from Tim by emailing tim.dechant@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Here’s why Slate changed the battery in its cheap EV truck",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/04/Inspo_Truck_web.jpg?w=150"
-      ],
-      "datePublished": "2026-06-24T19:27:56.000Z",
-      "dateModified": "2026-06-24T19:27:56.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "After betting the firm on Anthropic, Menlo Ventures raises victorious $3B fund",
-    "url": "https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Victory-dollars-dollar-signs.png?w=150",
-    "tag": "Tech",
-    "date": "2026-06-23T19:49:55.000Z",
-    "description": "\nMenlo Ventures announced $3 billion in funds on Tuesday, the largest raise in its 50-year history, driven in large part by its AI portfolio, especial",
-    "body": "\nMenlo Ventures announced $3 billion in funds on Tuesday, the largest raise in its 50-year history, driven in large part by its AI portfolio, especially Anthropic. Its stake in the model maker is now worth about $14 billion, sources told Bloomberg.\nTo hear the folks at Menlo talk about it, they were white-knuckling it when they made a bet-the-firm $750 million investment in Anthropic in 2024, preemptively leading the model maker’s Series D. At the time, that round quadrupled the startup’s valuation to $18.4 billion.\nWhile the bet itself was arguably not wildly risky, the means by which the firm raised that kind of capital was more so.\nMenlo had been an early investor in the Series C, before Anthropic had a product. By 2024, long before Claude Code and Claude Mythos, the company was showing signs of success. It had landed a $4 billion deal from Amazon and was being hotly pursued by VCs, having been founded by former OpenAI researchers, including siblings CEO Dario Amodei and president Daniela Amodei. It was a rising-star AI company, as so many startups founded by OpenAI alum still are today.\nBut how Menlo raised the funds was eye-popping. In 2024, the venture world was just rebounding from the post-pandemic VC winter, with big-money firms like SoftBank and Tiger Global still licking their wounds. No one was writing checks for three-quarters of a billion dollars.\nMenlo structured the bulk of deal, about $500 million worth, as a special purpose vehicle, or SPV — a one-off investment entity created to pool money from multiple sources for a single deal. Menlo also contributed $250 million from its own fund and contributions from Menlo insiders, sources told Forbes at the time, bringing the total round to $750 million.\nSince then, AI SPVs have become as commonplace as cockroaches, with Anthropic a particular target — so much so that the AI company issued a warning last month, calling all unauthorized SPVs and secondary markets claiming to sell its stock “scams.”\nBut for those investors in Menlo’s authorized 2024 deal, the aggressive push paid off handsomely. Menlo went on to invest in the company’s Series E and F.\nOn top of that, Menlo followed up by launching a $100 million startup fund with Anthropic in 2024, which they cutely named Anthology. That fund has since ballooned into capital deployed to date closer to $250 million, a source with knowledge of the fund tells TechCrunch. It has not only backed 60+ companies (and offered them support, like access to Anthropic leaders and credits for Claude), but has also produced a number of returns already. These include Graphite, acquired by Cursor, and Astrix Security, acquired by Cisco.\nThe fund has allowed Menlo to get its finger of the pulse of AI startups, categories, and tech, at the earliest stages. The VC firm has since built a broader rep for AI investing, counting AI stars like OpenRouter, Higgsfield, Legora, Lovable, OpenEvidence, and many others in its portfolio.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "After betting the firm on Anthropic, Menlo Ventures raises victorious $3B fund",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/06/Victory-dollars-dollar-signs.png?w=150"
-      ],
-      "datePublished": "2026-06-23T19:49:55.000Z",
-      "dateModified": "2026-06-23T19:49:55.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Walmart-backed Flipkart expands quick-commerce push as Amazon ramps up in India",
-    "url": "https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/09/flipkart.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-06-24T00:30:00.000Z",
-    "description": "\nAs quick commerce becomes India’s next e-commerce battleground, Walmart-backed Flipkart said Wednesday that its Minutes service has built a network o",
-    "body": "\nAs quick commerce becomes India’s next e-commerce battleground, Walmart-backed Flipkart said Wednesday that its Minutes service has built a network of 1,000 micro-fulfillment centers — small, strategically located warehouses designed to enable deliveries in minutes — less than two years after launch, a milestone Amazon is also targeting as it expands its fast-delivery business in the South Asian nation.\nFlipkart said it plans to expand the network to 1,500 micro-fulfillment centers by the end of 2026, a rapid buildout that would further strengthen its position in India’s fiercely competitive quick-commerce sector, where Blinkit, Zepto, Swiggy Instamart, and Amazon are racing to add infrastructure and customers.\nBased on current store counts and announced expansion plans, Flipkart could emerge as India’s second-largest quick-commerce network by micro-fulfillment center count, behind Blinkit, which operates 2,243 such centers, according to a recent note by Jefferies. Rivals Zepto and Swiggy Instamart are also expanding their networks.\nIndia has emerged as one of the world’s fastest-growing quick-commerce markets, with companies racing to build networks that can deliver everything from groceries and beauty products to electronics in minutes. Blinkit, owned by food-delivery company Eternal, remains the market leader, while Zepto, Swiggy Instamart, Flipkart, and Amazon are investing heavily to expand their reach and win customers.\nThe competition has intensified in recent months as Amazon accelerates the rollout of Amazon Now, which is currently available in more than 15 cities and operates over 500 micro-fulfillment centers. The company plans to expand the service to 100 cities with more than 1,000 micro-fulfillment centers while broadening its assortment beyond groceries into categories such as apparel, electronics, and home products.\nThe shift is also showing up in shopping patterns on Flipkart Minutes, which launched in August 2024. Demand is increasingly coming from categories such as electronics, beauty, and personal care products rather than just groceries, Kunal Gupta, head of Flipkart Minutes, told TechCrunch. Orders on the platform have grown about 400% from a year earlier, while customer retention has increased 20% year-over-year, he said. Both figures come from the company and could not be independently verified.\n“What began as a way to fulfill everyday essentials has evolved into a fundamentally new shopping habit for millions of Indians,” Gupta said. “Customers are not just ordering more; they are ordering differently.”\nFlipkart said it has expanded Minutes to more than 130 cities and 8,000 postal codes, with growth increasingly coming from smaller cities beyond India’s largest metropolitan areas. Those markets recorded more than 4,000% growth from a year earlier, aided by expansion into 90 new cities, according to the company.\nThe trend, Gupta said, is visible in the pace at which newly launched markets are maturing. He cited cities such as Patna, Guwahati, and Siliguri as examples of where new stores are ramping up faster than expected, and described Lucknow as one of Flipkart Minutes’ best-performing markets despite the company not yet covering the entire city with its network.\nAmazon is also betting on demand outside India’s largest cities. The company told TechCrunch that 70% of new Prime members come from smaller markets and that it remains on track to double its Prime membership base from 2023 levels by year-end. Amazon added that everyday essentials now account for one in every two units shipped on Amazon.in, with Amazon Now increasing shopping frequency among customers.\nGupta told TechCrunch that Flipkart is seeing customers use Minutes alongside its main e-commerce platform rather than as a replacement for it, driving more frequent purchases and helping expand into categories such as fresh produce and daily essentials. The company said average order values for fruits and vegetables rose 30% year-over-year.\nFlipkart, Gupta said, plans to continue opening between 75 and 100 micro-fulfillment centers a month while expanding into additional cities across the country. \nThe rapid expansion by Flipkart and Amazon underscores how India has become a testing ground for the next phase of e-commerce, with companies racing to turn quick commerce from a grocery-delivery service into a broader shopping platform. The country already has more than 5,500 dark stores, according to Bernstein, and industry analysts expect that number to rise to about 7,500 by 2030 as companies expand into smaller cities and widen their product offerings.\n“We will continue to expand rapidly, will not slow down after 1,000 stores as well, and we are going all in,” Gupta said.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Walmart-backed Flipkart expands quick-commerce push as Amazon ramps up in India",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/09/flipkart.jpg?w=150"
-      ],
-      "datePublished": "2026-06-24T00:30:00.000Z",
-      "dateModified": "2026-06-24T00:30:00.000Z",
+      "datePublished": "2026-06-24T21:56:41.000Z",
+      "dateModified": "2026-06-24T21:56:41.000Z",
       "author": [
         {
           "@type": "Person",
