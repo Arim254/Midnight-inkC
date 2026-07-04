@@ -1,46 +1,21 @@
 [
   {
-    "title": "Boeing-owned Wisk Aero accused of firing manager who raised safety concerns",
-    "url": "https://techcrunch.com/2026/07/02/boeing-owned-wisk-aero-accused-of-firing-manager-who-raised-safety-concerns/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/06/Wisk_Aero_Media_Kit_Gen6_4.jpg?w=150",
+    "title": "Alibaba reportedly bans employees from using Claude Code",
+    "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-07-02T17:30:04.000Z",
-    "description": "\nWisk Aero, the electric air taxi company owned by Boeing, has been hit with a lawsuit from a former employee, who claims she was fired after raising ",
-    "body": "\nWisk Aero, the electric air taxi company owned by Boeing, has been hit with a lawsuit from a former employee, who claims she was fired after raising safety concerns.\nFormer software manager Briahna O’Neill sued Wisk in Santa Clara Superior Court earlier this week, alleging discrimination and wrongful termination. The Seattle Times first reported on the lawsuit, noting that Boeing declined to comment. \nO’Neill said she filed two internal safety reports that outlined how Wisk had engineers reduce the amount of FAA-required software testing being done in order to hit a test flight deadline in 2025. O’Neill claims she was fired just weeks after filing the second complaint.\nFounded in 2019, Wisk is one of a number of companies trying to develop commercially viable electric vertical takeoff and landing aircraft. It’s one of the few companies working on aiming for full autonomy. Wisk is also one of the eight companies that were approved earlier this year by the FAA to join a three-year program for testing such aircraft. Wisk said it cannot comment on ongoing litigation. \n",
+    "date": "2026-07-04T16:32:08.000Z",
+    "description": "\nIn Brief\nPosted:\n9:32 AM PDT · July 4, 2026\n\nImage Credits:Samuel Boivin/NurPhoto / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nChina’s A",
+    "body": "\nIn Brief\nPosted:\n9:32 AM PDT · July 4, 2026\n\nImage Credits:Samuel Boivin/NurPhoto / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nChina’s Alibaba will ban employees from using Anthropic’s programming tool Claude Code, starting on July 10, according to multiple reports. \nAnthropic already prohibits Chinese companies, as well as foreign entities owned by those companies, from using its models. The company has reportedly been working to close loopholes that allow Chinese users to access Claude.\nAccording to a recent Reddit post, some of that loophole-closing involved a version of Claude Code that could secretly identify Chinese users. Anthropic’s Thariq Shihipar said in a post on X that this was “an experiment we launched in March that was meant to prevent account abuse from unauthorized resellers and protect against distillation.” (Distillation is a practice where AI models are trained on the outputs of other models.)\n“The team has landed stronger mitigations since then and we’ve actually been meaning to take this down for a while,” Shihipar said.\nNonetheless, Alibaba has reportedly classified Claude Code as high-risk software and is instructing employees to use the company’s own Qoder tool instead.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in AI\n\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Boeing-owned Wisk Aero accused of firing manager who raised safety concerns",
+      "headline": "Alibaba reportedly bans employees from using Claude Code",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/06/Wisk_Aero_Media_Kit_Gen6_4.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=150"
       ],
-      "datePublished": "2026-07-02T17:30:04.000Z",
-      "dateModified": "2026-07-02T17:30:04.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Melinda Gates’ venture firm backs Magnify Ventures’ $46.6M Fund II",
-    "url": "https://techcrunch.com/2026/07/02/melinda-gates-venture-firm-backs-magnify-ventures-46-6m-fund-ii/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-1440486571.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-07-02T15:26:43.000Z",
-    "description": "\nEarly-stage firm Magnify Ventures has raised $46.6 million for its second fund from LPs, including Melinda French Gates’ Pivotal Ventures.\nFounded in",
-    "body": "\nEarly-stage firm Magnify Ventures has raised $46.6 million for its second fund from LPs, including Melinda French Gates’ Pivotal Ventures.\nFounded in 2021 by Joanna Drake and Julie Wroblewski, Magnify invests in companies that target the care economy, such as those building assistive robotics, family cybersecurity, and AI for home use. \nThe firm said Fund II will invest in companies that build AI tools for households, health and home systems, and fintech infrastructure for families.\nThe venture firm last raised a $52 million Fund I in 2022 (Pivotal Ventures anchored that fund) and has backed childcare startup Kinside and children’s expense management startup Till Financial (in which Pivotal Ventures was also an investor).\nPivotal Ventures generally acts as a GP and LP, backing companies building in the care economy. Its investments include caregiving startups Papa (in which Magnify Ventures was also an investor) and Seen Health. \n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Melinda Gates’ venture firm backs Magnify Ventures’ $46.6M Fund II",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-1440486571.jpg?w=150"
-      ],
-      "datePublished": "2026-07-02T15:26:43.000Z",
-      "dateModified": "2026-07-02T15:26:43.000Z",
+      "datePublished": "2026-07-04T16:32:08.000Z",
+      "dateModified": "2026-07-04T16:32:08.000Z",
       "author": [
         {
           "@type": "Person",
@@ -75,6 +50,56 @@
     }
   },
   {
+    "title": "Melinda Gates’ venture firm backs Magnify Ventures’ $46.6M Fund II",
+    "url": "https://techcrunch.com/2026/07/02/melinda-gates-venture-firm-backs-magnify-ventures-46-6m-fund-ii/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-1440486571.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-07-02T15:26:43.000Z",
+    "description": "\nEarly-stage firm Magnify Ventures has raised $46.6 million for its second fund from LPs, including Melinda French Gates’ Pivotal Ventures.\nFounded in",
+    "body": "\nEarly-stage firm Magnify Ventures has raised $46.6 million for its second fund from LPs, including Melinda French Gates’ Pivotal Ventures.\nFounded in 2021 by Joanna Drake and Julie Wroblewski, Magnify invests in companies that target the care economy, such as those building assistive robotics, family cybersecurity, and AI for home use. \nThe firm said Fund II will invest in companies that build AI tools for households, health and home systems, and fintech infrastructure for families.\nThe venture firm last raised a $52 million Fund I in 2022 (Pivotal Ventures anchored that fund) and has backed childcare startup Kinside and children’s expense management startup Till Financial (in which Pivotal Ventures was also an investor).\nPivotal Ventures generally acts as a GP and LP, backing companies building in the care economy. Its investments include caregiving startups Papa (in which Magnify Ventures was also an investor) and Seen Health. \n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Melinda Gates’ venture firm backs Magnify Ventures’ $46.6M Fund II",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-1440486571.jpg?w=150"
+      ],
+      "datePublished": "2026-07-02T15:26:43.000Z",
+      "dateModified": "2026-07-02T15:26:43.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Boeing-owned Wisk Aero accused of firing manager who raised safety concerns",
+    "url": "https://techcrunch.com/2026/07/02/boeing-owned-wisk-aero-accused-of-firing-manager-who-raised-safety-concerns/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/06/Wisk_Aero_Media_Kit_Gen6_4.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-07-02T17:30:04.000Z",
+    "description": "\nWisk Aero, the electric air taxi company owned by Boeing, has been hit with a lawsuit from a former employee, who claims she was fired after raising ",
+    "body": "\nWisk Aero, the electric air taxi company owned by Boeing, has been hit with a lawsuit from a former employee, who claims she was fired after raising safety concerns.\nFormer software manager Briahna O’Neill sued Wisk in Santa Clara Superior Court earlier this week, alleging discrimination and wrongful termination. The Seattle Times first reported on the lawsuit, noting that Boeing declined to comment. \nO’Neill said she filed two internal safety reports that outlined how Wisk had engineers reduce the amount of FAA-required software testing being done in order to hit a test flight deadline in 2025. O’Neill claims she was fired just weeks after filing the second complaint.\nFounded in 2019, Wisk is one of a number of companies trying to develop commercially viable electric vertical takeoff and landing aircraft. It’s one of the few companies working on aiming for full autonomy. Wisk is also one of the eight companies that were approved earlier this year by the FAA to join a three-year program for testing such aircraft. Wisk said it cannot comment on ongoing litigation. \n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Boeing-owned Wisk Aero accused of firing manager who raised safety concerns",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2024/06/Wisk_Aero_Media_Kit_Gen6_4.jpg?w=150"
+      ],
+      "datePublished": "2026-07-02T17:30:04.000Z",
+      "dateModified": "2026-07-02T17:30:04.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
     "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/AI-sandwich-hunger.png?w=150",
@@ -91,181 +116,6 @@
       ],
       "datePublished": "2026-07-02T20:11:59.000Z",
       "dateModified": "2026-07-02T20:11:59.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Private space pilots are flying orbital missions for the US Space Force",
-    "url": "https://techcrunch.com/2026/07/02/private-space-pilots-are-flying-orbital-missions-for-the-us-space-force/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Jackal_1.png?w=150",
-    "tag": "Tech",
-    "date": "2026-07-02T23:01:06.000Z",
-    "description": "\nMilitaries routinely send satellites to fly by rival vehicles and suss out their capabilities, but scaling up this kind of reconnaissance is increasi",
-    "body": "\nMilitaries routinely send satellites to fly by rival vehicles and suss out their capabilities, but scaling up this kind of reconnaissance is increasingly seen by the U.S. military as a challenge best handled by the private sector.\nThat’s why two space startups, True Anomaly and Rocket Lab, completed a rendezvous mission for the U.S. Space Force last week so complex, it was like something out of “Top Gun.” Their two rival satellites met up in orbit, close enough for one to capture imagery of the other.\nThe exercise, dubbed Victus Haze, demonstrated the close inspection of a space vehicle soon after it arrived in orbit, a necessity in a world where the U.S., Russia, and China are deploying novel space weapons.\n“China and Russia launch capabilities to space on a regular basis, and part of the Space Force’s job is to understand what those capabilities are,” True Anomaly CEO Even Rogers, a veteran of the U.S. military’s space efforts, told TechCrunch. “Right now we have gaps in our collection capability.”\nThe June mission saw Rocket Lab, a rocket-building rival to SpaceX that recently announced its acquisition of Iridium, launch a spacecraft called Puma just 16 hours and 42 minutes after receiving notice, which is notable because most rocket launches are buttoned up months in advance.\nA Jackal spacecraft built by True Anomaly was waiting in orbit to intercept it. As part of the exercise, the company didn’t know where Puma would arrive in space but used onboard sensors to find and identify its target from 2,000 kilometers away. The Jackal then flew close to the target — exactly how close is classified — and orbited it, capturing imagery of different parts of the vehicle, before returning to its starting point in orbit.\nTrue Anomaly’s CEO said that, outside of NASA and Space Force space flight missions with humans, “this is probably the most complex rendezvous and proximity operation between two spacecraft in modern history.”\nBringing together two spacecraft in orbit, where they’re both moving at speeds approaching 17,500 mph, is no easy feat. Previous private demonstrations, like those performed by Northrop Grumman’s maintenance satellites or Astroscale’s orbital garbage hunting missions, operate on slower time frames.\nAnd now things get interesting: The two companies are prepared to perform new exercises in the weeks ahead with increasing difficulty, which could include Rocket Lab’s Puma trying to evade True Anomaly’s Jackal and performing its own inspection maneuvers.\nFounded in 2022 by Rogers and a cadre of former military space experts, True Anomaly planned to build both the hardware and software to enable the new tasks assigned to the U.S. Space Force when it was created in 2019. After several years of development missions, last month’s demonstration has begun to realize that vision.\n“That’s the secret sauce of this company,” said Seth Winterroth, a partner at Eclipse Ventures who sits on True Anomaly’s board. “It’s not one spacecraft architecture or one piece of software or a certain set of payloads — it’s a deep, deep understanding of what tactics and doctrine look like in this domain.”\nTrue Anomaly has raised just over $1 billion, including a $650 million round in March. Now the company will look to compete for a number of task orders, particularly in the Space Force’s $6.2 billion Andromeda program, which looks to the private sector for exactly this kind of maneuverable reconnaissance.\n“Flight heritage is everything, and demonstrated capability is what speaks the loudest with these opportunities,” Rogers said. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tTim Fernholz is a journalist who writes about technology, finance and public policy. He has closely covered the rise of the private space industry and is the author of  Rocket Billionaires: Elon Musk, Jeff Bezos and the New Space Race. Formerly, he was a senior reporter at Quartz, the global business news site, for more than a decade, and began his career as a political reporter in Washington, D.C. \nYou can contact or verify outreach from Tim by emailing tim.fernholz@techcrunch.com or via an encrypted message to tim_fernholz.21 on Signal.\r\n\t\n\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Private space pilots are flying orbital missions for the US Space Force",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/07/Jackal_1.png?w=150"
-      ],
-      "datePublished": "2026-07-02T23:01:06.000Z",
-      "dateModified": "2026-07-02T23:01:06.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Lucid Motors’ CFO is out as its new CEO continues leadership shakeup",
-    "url": "https://techcrunch.com/2026/07/02/lucid-motors-cfo-is-out-as-its-new-ceo-continues-leadership-shakeup/",
-    "image": "https://techcrunch.com/wp-content/uploads/2021/09/IMG_2580.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-07-02T14:53:39.000Z",
-    "description": "\nThe new CEO of Lucid Motors is continuing to restructure the company after announcing hundreds of job cuts last month: The EV maker on Thursday said ",
-    "body": "\nThe new CEO of Lucid Motors is continuing to restructure the company after announcing hundreds of job cuts last month: The EV maker on Thursday said its chief financial officer, Taoufiq Boussaid, will be leaving the company.\nBoussaid’s pending departure comes amid a flurry of new executive hires meant to bolster the company’s leadership as Lucid’s new CEO Silvio Napoli tries to “simplify the company.”\nLucid on Thursday said it has hired a new chief financial officer, chief technology officer, chief customer officer, chief digital officer, and chief transformation officer. Napoli is also cutting in half the number of people who directly report to him.\nThe company said this new leadership team will “come together at the company’s head offices and manufacturing hubs to foster closer collaboration,” and as a result, its senior vice presidents of revenue, marketing, and its vice president of program management “will be leaving Lucid to remain closer to their families and communities.”\nAll of these changes come just weeks after Napoli officially took over the top role. Lucid Motors spent more than a year trying to find a replacement for Peter Rawlinson, who abruptly resigned as CEO and CTO in February 2025. The Saudi-owned company has struggled to find the kinds of large markets for its electric sedan and SUV that it promised would exist when it went public in a 2021 reverse merger with a special purpose acquisition company.\nWhen it announced layoffs last week, the company said it needed to align its “production plans with anticipated demand.” The company is eliminating a second shift at its factory in Arizona as well. The round of layoffs, its second major workforce reduction this year, is expected to save Lucid Motors about $158 million annually.\nOn Thursday, Lucid said it delivered 3,953 vehicles in the second quarter, only slightly higher than a year earlier — a sign that its Gravity SUV has not taken off like it had hoped. In contrast, other EV makers are finding ways to navigate the headwinds assailing the U.S. electric vehicle market right now. Rivian, for instance, increased its 2026 sales forecast earlier on Thursday.\nLucid Motors is on the verge of releasing a smaller SUV called Cosmos, which, at an expected price of around $50,000, could be its first mass-market hit. At the same time, Lucid is working with autonomous vehicle tech company Nuro and ride-hail giant Uber to create a luxury robotaxi service that is supposed to launch in San Francisco later this year, and potentially expand to Houston in 2027.\nLucid Motors has said the restructuring is meant to “simplify the company, sharpen execution, and position Lucid to become more competitive over time,” though it hasn’t said whether any of its plans will be affected.\n“We are simplifying the organization, strengthening leadership, enforcing accountability and aligning our structure with the priorities that matter most: customers, quality, and innovation,” Napoli said in a statement on Thursday. “The caliber of leaders who are joining the Lucid leadership team is a testament to the inherent value of our business and to the exciting prospects ahead of us. We are building a new team who will transform the company.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Lucid Motors’ CFO is out as its new CEO continues leadership shakeup",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2021/09/IMG_2580.jpg?w=150"
-      ],
-      "datePublished": "2026-07-02T14:53:39.000Z",
-      "dateModified": "2026-07-02T14:53:39.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections",
-    "url": "https://techcrunch.com/2026/07/02/thiel-capitals-jack-selby-nabs-stakes-in-hot-startups-like-etched-through-arizona-connections/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Jack-Selby.jpeg?w=142",
-    "tag": "Tech",
-    "date": "2026-07-02T21:57:10.000Z",
-    "description": "\nNvidia competitor Etched announced this week that TSMC had manufactured its first chip earlier this year. While the four-year-old startup valued at $",
-    "body": "\nNvidia competitor Etched announced this week that TSMC had manufactured its first chip earlier this year. While the four-year-old startup valued at $5 billion is getting ready to ship systems powered by that chip to customers later this summer, scaling production may prove challenging. Like other chip designers, Etched must compete for limited capacity at TSMC’s Taiwan factories.\nCopper Sky Capital, one of Etched’s early investors, is hopeful that the chipmaker will find a solution to its manufacturing constraints by eventually producing chips at Arizona’s TSMC facility. When the four-year-old VC firm invested in Etched’s $120 million Series A two years ago, founder Jack Selby secured an allocation in part by promising to help the startup eventually reshore its chip fabrication to Arizona.\nSelby, a former PayPal exec and longtime managing director to Peter Thiel’s family office, Thiel Capital, founded Phoenix-based Copper Sky in 2021 (formerly known as AZ-VC). The firm’s first $115 million fund focused primarily on startups based in Arizona and the Southwest. Selby’s thesis was that most coastal startups, particularly those based in California, Massachusetts, and New York, are grossly overpriced compared to companies popping up in his region. However, Selby saw an opportunity to bridge the gap in the other direction by helping California-based hardware startups move their production to Arizona.\nSelby credits Copper Sky’s investment in Etched — an otherwise hard-to-access startup — to his influential role in Arizona’s economy. As a board member of the Arizona Commerce Authority, Selby is deeply involved in recruiting out-of-state businesses to set up manufacturing operations in the region.\n“When Copper Sky invested with Etched, the company clearly understood our connectivity to the Arizona semiconductor industry, and in particular the local TSMC GIGAFAB,” Selby told TechCrunch.\nWhile Copper Sky has recently expanded its focus beyond the Southwest to include nontraditional venture hubs nationwide, Selby said that the firm is also interested in backing hardware companies, including in the defense sector, that can set up manufacturing operations in Arizona. \nThe firm is expected to soon have more capital to invest in those higher-priced coastal companies, and those throughout the United States. Copper Sky is currently raising a $300 million second fund, according to a regulatory filing.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tMarina Temkin is a venture capital and startups reporter at TechCrunch. Prior to joining TechCrunch, she wrote about VC for PitchBook and Venture Capital Journal. Earlier in her career, Marina was a financial analyst and earned a CFA charterholder designation.\r\nYou can contact or verify outreach from Marina by emailing marina.temkin@techcrunch.com or via encrypted message at +1 347-683-3909 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/07/Jack-Selby.jpeg?w=142"
-      ],
-      "datePublished": "2026-07-02T21:57:10.000Z",
-      "dateModified": "2026-07-02T21:57:10.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
-    "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2194584986.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-07-02T15:20:51.000Z",
-    "description": "\nOpenAI CEO Sam Altman has proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, the Financial Times reported on Thursday, citin",
-    "body": "\nOpenAI CEO Sam Altman has proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, the Financial Times reported on Thursday, citing two people familiar with the matter. Under the proposal, other AI companies would donate similar stakes, although significant questions remain about the specifics.\nAccording to the FT’s reporting, the donation would be meant to “secure good relations with the administration and … address political blowback.”\nSimilar discussions were reported by CNBC in June and were subsequently confirmed by President Trump, who said he had discussed “concepts where pieces could be given to the American public, where the American public essentially becomes a partner with the companies.” At the time, no specific size for the proposed equity stake was given.\nThe talks remain preliminary and, per the FT, it’s likely that any formal action would require congressional approval, which would significantly complicate the matter.\nThe idea of a public AI fund has also been publicly discussed by Altman, and OpenAI has grown increasingly specific in its proposals for how such a fund could be structured. Most recently, a policy paper titled “Industrial Policy for the Intelligence Age,” released by OpenAI in April, proposed a public wealth fund that could invest directly in AI labs and companies deploying their technology.\n“Returns from the Fund could be distributed directly to citizens, allowing more people to participate directly in the upside of AI-driven growth, regardless of their starting wealth or access to capital,” the document reads. \nA more aggressive version of the policy was proposed by Sen. Bernie Sanders (I-VT) in June, calling for a one-time 50% tax on AI company stock, with the collected shares being deposited into a public wealth fund. The bill, called the American AI Sovereign Wealth Fund Act, would apply to all “systemically important” AI companies, including those dealing with data centers, infrastructure, or robotics. Under the proposal, companies like Google and SpaceX that include AI as only part of their business would be allowed to spin off non-AI portions of the company to avoid taxation.\nThe bill has yet to advance to committee.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tRussell Brandom has been covering the tech industry since 2012, with a focus on platform policy and emerging technologies. He previously worked at The Verge and Rest of World, and has written for Wired, The Awl and MIT’s Technology Review.\r\n He can be reached at russell.brandom@techcrunch.com or on Signal at 412-401-5489.\t\n\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2194584986.jpg?w=150"
-      ],
-      "datePublished": "2026-07-02T15:20:51.000Z",
-      "dateModified": "2026-07-02T15:20:51.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Meta quietly launches vibe-coded gaming app Pocket",
-    "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-07-02T18:44:02.000Z",
-    "description": "\nMeta is getting into gaming with the launch of a new app called Pocket, which allows people to generate small, interactive apps and games using AI pr",
-    "body": "\nMeta is getting into gaming with the launch of a new app called Pocket, which allows people to generate small, interactive apps and games using AI prompts. The software, a result of Meta’s acquisition of the team at the vibe-coded gaming platform Gizmo earlier this year, describes itself as “a creative platform for making and sharing gizmos,” which is what the interactive experiences are called. It also offers a scrollable feed where you can play with gizmos others have made.\nBased on the app’s screenshots in Google Play, there are many similarities to Gizmo’s original app, which is still listed. Like Pocket, Gizmo also offers a way to use written AI prompts to build small, interactive experiences, and it includes a discovery feed.\nAlessandro Paluzzi, a reverse engineer and regular spotter of new apps and features, first noticed the app’s launch this morning and published a Play Store screenshot of the app on X. According to data from app intelligence provider Appfigures, however, Pocket was first launched on June 29, 2026 on the App Store and Google Play. (Because of its newness, the firm can’t tell if it’s yet to see any downloads.)\n\nOther outlets, including Business Insider and Investing.com, have also reported on Paluzzi’s discovery. Meta has not yet responded to a request for comment.\nPocket is another example of Meta’s push to make AI creation tools more mainstream, extending its earlier efforts, which included AI-generated images created via its Meta AI app and AI videos created with its app called Vibes. It has also added AI features across its social platforms and into its video-editing app for creators, Edits.\nImage Credits:Meta\nGiven that Meta has not officially announced Pocket’s debut, it’s likely that Pocket is still in its initial experimentation phase. \nIts counterpart Gizmo, however, had generated 635,000 lifetime installs across both iOS and Google Play, according to Appfigures, which noted it had a 98% positive sentiment.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Meta quietly launches vibe-coded gaming app Pocket",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=150"
-      ],
-      "datePublished": "2026-07-02T18:44:02.000Z",
-      "dateModified": "2026-07-02T18:44:02.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Anthropic is discussing a new custom chip with Samsung",
-    "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?w=150",
-    "tag": "Tech",
-    "date": "2026-07-02T18:31:09.000Z",
-    "description": "\n\t\n\t\tImage Credits:Samuel Boivin/NurPhoto / Getty Images\t\n\t\n\t\t\t\t\t\t11:31 AM PDT · July 2, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nBack in April, Reuters reported that Ant",
-    "body": "\n\t\n\t\tImage Credits:Samuel Boivin/NurPhoto / Getty Images\t\n\t\n\t\t\t\t\t\t11:31 AM PDT · July 2, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nBack in April, Reuters reported that Anthropic was toying with the idea of producing its own AI chips as a means of responding to chip shortages. Now, it would appear that the company is getting serious about this idea.\nOn Thursday, The Information reported that Anthropic was in contact with Samsung to explore a collaboration around the pending chip. However, Anthropic hasn’t yet decided what the chip will be used for, how it will fit into the server, or how powerful it will be, according to the report.\nWhen reached for comment, Anthropic told TechCrunch that a diversified hardware stack that includes chips  from Google, Amazon, and Nvidia will continue to be pivotal to its compute strategy. On the topic of a potential Samsung partnership, the company said it had nothing further to add. \nA number of AI companies have sought to develop custom chips — both as a way to create unique hardware for specific compute tasks and to gain a certain amount of independence from Nvidia, which continues to be the undisputed leader of the chip industry.\nAnthropic’s announcement may also be a response to one made last week by its key competitor, OpenAI, which has teamed up with Broadcom to announce its own custom-built inference processor, dubbed “Jalapeño.” OpenAI says that the chip is more efficient, demonstrating better performance-per-watt, than other competitor chips. Amazon and Google both offer custom-built TPUs as part of their cloud offering.\nSamsung is already embedded in the AI industry, and acts as a major partner of Nvidia, producing chips that the company needs to train or run its AI models. In turn, Samsung uses Nvidia’s software to manufacture its chips. The duo are working on an AI chip factory in South Korea. Samsung has also discussed partnering with Google on its chip-making efforts.\n\n\t\t\t\n\tTopics\n\n\t\t\tWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\n\t\n\t\tLucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. \nYou can contact Lucas by emailing lucas.ropek@techcrunch.com.\t\n\n\t\n\t\tView Bio \n\t\n\n\t\t",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Anthropic is discussing a new custom chip with Samsung",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?w=150"
-      ],
-      "datePublished": "2026-07-02T18:31:09.000Z",
-      "dateModified": "2026-07-02T18:31:09.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Travel app Hopper to pay $35M in FTC settlement over ‘unfairly’ charging hidden fees",
-    "url": "https://techcrunch.com/2026/07/02/travel-app-hopper-to-pay-35m-in-ftc-settlement-over-unfairly-charging-hidden-fees/",
-    "image": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1140153524.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-07-02T18:39:14.000Z",
-    "description": "\nHopper, the travel app known for its AI-driven flight and hotel price predictions, has agreed to a $35 million settlement following a lawsuit brought",
-    "body": "\nHopper, the travel app known for its AI-driven flight and hotel price predictions, has agreed to a $35 million settlement following a lawsuit brought by the U.S. Federal Trade Commission (FTC). The lawsuit accused the company of misleading users by imposing hidden fees and misrepresenting the total costs of Hopper’s services. \nThe case is another example of regulators targeting the use of “dark patterns,” or interface designs that manipulate users into making choices they might not otherwise have made, including those that hide charges, pre-select optional add-ons, or make it difficult to understand the true cost of a service. It follows similar FTC settlements aimed at other companies, like Match, StubHub, neobank Dave, Fortnite, and others.\nThe FTC alleged that Hopper deceived consumers regarding the benefits of its “VIP Support” and “Price Freeze” services. Many users were led to believe that these features would enhance their booking experience, only to find themselves facing additional costs and limited access to customer support. \nThe FTC also found that users were charged for “Tip” and VIP Support fees that were presented as optional, yet were often pre-selected and hidden within the app’s interface. As a result, users found themselves facing charges that they believed they had not consented to, as these fees were typically only visible when users scrolled down on the app screen.\nThe allegations extend to the “Price Freeze” or “Hold the Room” offering, which Hopper claimed would allow consumers to hold their travel booking price for a designated period. However, the FTC notes that the app failed to clearly communicate restrictions associated with this service. For instance, the Price Freeze only secures the rate up to a specific limit and only if the booking remains available. \nThe settlement amount is set to be used for “consumer redress,” with Hopper now prohibited from misrepresenting any pricing structures, according to today’s release. It’s required that Hopper clearly disclose all fees, ensuring that users are fully aware of the total cost of any transactions before completing their bookings.\n“We decided to settle because the claims at issue are outdated and have no bearing on our business,” a company spokesperson said in a provided statement to TechCrunch. “Pursuing years of litigation over outdated, ticky-tacky issues would distract us from our current customers and partners… The settlement amount does not reflect the merit of the claims. It reflects our decision to move forward.”\nThe spokesperson added that, after reviewing millions of company files dating back to 2021, the FTC’s allegations focused on “primarily outdated display practices implemented during the pandemic, limited to the Hopper app, and discontinued by Hopper in mid-2023, prior to the start of the FTC’s inquiry.”\nBefore Hopper, the FTC’s most recent crackdown on “junk fees” was its case with StubHub, which agreed to pay $10 million to customers and change its ticket price displays. Booking Holdings settled for $9.5 million after a lawsuit from Texas Attorney General Ken Paxton, which claimed that it misled customers by showing low room rates while hiding important fees until the checkout process.\nHopper launched its travel app back in 2014 and surpassed 120 million lifetime downloads worldwide in 2024.\nThis story was updated with a statement from Hopper.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tLauren covers media, streaming, apps and platforms at TechCrunch.\nYou can contact or verify outreach from Lauren by emailing laurenf.techcrunch@gmail.com or via encrypted message at laurenforris22.25 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Travel app Hopper to pay $35M in FTC settlement over ‘unfairly’ charging hidden fees",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1140153524.jpg?w=150"
-      ],
-      "datePublished": "2026-07-02T18:39:14.000Z",
-      "dateModified": "2026-07-02T18:39:14.000Z",
       "author": [
         {
           "@type": "Person",
@@ -300,31 +150,6 @@
     }
   },
   {
-    "title": "Popular TV-tracking app TV Time is shutting down as company focuses on AI",
-    "url": "https://techcrunch.com/2026/07/02/popular-tv-tracking-app-tv-time-is-shutting-down-as-company-focuses-on-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/11/TV-Time-app-2024.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-07-02T15:14:03.000Z",
-    "description": "\nTV Time, a popular app for tracking the shows you’re watching and engaging in community discussions, is shutting down. The company announced via in-a",
-    "body": "\nTV Time, a popular app for tracking the shows you’re watching and engaging in community discussions, is shutting down. The company announced via in-app messages that TV Time’s app will be discontinued, no longer offering service after July 15, 2026.\nThe company blamed the expense of running the platform as a reason behind the decision, but a shift to a more AI-focused business seems to be the real culprit. \n“While we loved supporting TV Time, it was no longer sustainable to continue operating the service as a free app, and there was not enough demand for a paid app,” the message read. “To everyone who tracked, discovered, and shared their love of TV and movies with us, thank you. Your passion and enthusiasm made TV Time more than an app. You made it a community.”\nTV Time’s shutdown marks the end of one of the larger TV fan communities online, and underscores how the growth of the AI industry is shifting companies’ priorities. As businesses race to build AI products, consumer apps are sometimes shuttered, even if they have active user bases. Another example of this trend is read-it-later app Pocket, which still had loyal users but closed down as its owner Mozilla prioritized building out Firefox and AI-powered browsing experiences. \nImage Credits:TV Time\nOwned by Whip Media, TV Time’s app has north of 26.4 million lifetime installs, per data from app intelligence provider Appfigures, and saw nearly 29,000 new downloads over the past 30 days. (Whip Media itself often referred to TV Time’s more than 25 million users in marketing materials.) Under Whip Media, TV Time’s data helped power a business intelligence ecosystem for the media industry. That meant the app alone didn’t have to be profitable as a consumer product, because the data it generated was the real value.\nThings have changed at the company in more recent months. Whip Media was acquired by direct lender Blue Torch Capital in early 2025, which envisioned more of an AI-focused future for the company.\nUnder its new ownership, Whip Media pivoted from providing the sentiment analysis, ratings predictions, content optimization, and other data that could be informed by TV Time, to instead focus on more potentially profitable paths. This now includes its AI-powered automation and workflow management tool, Helix, which is used to enhance streaming analytics and supply chain orchestration. \nWhat’s not clear is why the company wouldn’t sell the still-popular app instead of discontinuing it. Possibly, it may not have wanted to help another company generate the kind of data that could make it a more formidable competitor in the media and entertainment space. The app also showed a slowdown in download growth in the first half of this year, Appfigures’ data indicated.\nWhip Media notes that the data collected via TV Time will not be used as part of any commercial service after TV Time ends, and everyone’s personal data will be deleted.\nThe company says the app will be removed from the app stores on July 15, but before then, users can request a download of their data through a GDPR-compliant export tool.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Popular TV-tracking app TV Time is shutting down as company focuses on AI",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/11/TV-Time-app-2024.jpg?w=150"
-      ],
-      "datePublished": "2026-07-02T15:14:03.000Z",
-      "dateModified": "2026-07-02T15:14:03.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "The Dune keypad device can be your meeting controller and more",
     "url": "https://techcrunch.com/2026/07/03/the-dune-keypad-device-can-be-your-meeting-controller-and-more/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/Flat11.jpeg?w=150",
@@ -350,6 +175,81 @@
     }
   },
   {
+    "title": "Private space pilots are flying orbital missions for the US Space Force",
+    "url": "https://techcrunch.com/2026/07/02/private-space-pilots-are-flying-orbital-missions-for-the-us-space-force/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Jackal_1.png?w=150",
+    "tag": "Tech",
+    "date": "2026-07-02T23:01:06.000Z",
+    "description": "\nMilitaries routinely send satellites to fly by rival vehicles and suss out their capabilities, but scaling up this kind of reconnaissance is increasi",
+    "body": "\nMilitaries routinely send satellites to fly by rival vehicles and suss out their capabilities, but scaling up this kind of reconnaissance is increasingly seen by the U.S. military as a challenge best handled by the private sector.\nThat’s why two space startups, True Anomaly and Rocket Lab, completed a rendezvous mission for the U.S. Space Force last week so complex, it was like something out of “Top Gun.” Their two rival satellites met up in orbit, close enough for one to capture imagery of the other.\nThe exercise, dubbed Victus Haze, demonstrated the close inspection of a space vehicle soon after it arrived in orbit, a necessity in a world where the U.S., Russia, and China are deploying novel space weapons.\n“China and Russia launch capabilities to space on a regular basis, and part of the Space Force’s job is to understand what those capabilities are,” True Anomaly CEO Even Rogers, a veteran of the U.S. military’s space efforts, told TechCrunch. “Right now we have gaps in our collection capability.”\nThe June mission saw Rocket Lab, a rocket-building rival to SpaceX that recently announced its acquisition of Iridium, launch a spacecraft called Puma just 16 hours and 42 minutes after receiving notice, which is notable because most rocket launches are buttoned up months in advance.\nA Jackal spacecraft built by True Anomaly was waiting in orbit to intercept it. As part of the exercise, the company didn’t know where Puma would arrive in space but used onboard sensors to find and identify its target from 2,000 kilometers away. The Jackal then flew close to the target — exactly how close is classified — and orbited it, capturing imagery of different parts of the vehicle, before returning to its starting point in orbit.\nTrue Anomaly’s CEO said that, outside of NASA and Space Force space flight missions with humans, “this is probably the most complex rendezvous and proximity operation between two spacecraft in modern history.”\nBringing together two spacecraft in orbit, where they’re both moving at speeds approaching 17,500 mph, is no easy feat. Previous private demonstrations, like those performed by Northrop Grumman’s maintenance satellites or Astroscale’s orbital garbage hunting missions, operate on slower time frames.\nAnd now things get interesting: The two companies are prepared to perform new exercises in the weeks ahead with increasing difficulty, which could include Rocket Lab’s Puma trying to evade True Anomaly’s Jackal and performing its own inspection maneuvers.\nFounded in 2022 by Rogers and a cadre of former military space experts, True Anomaly planned to build both the hardware and software to enable the new tasks assigned to the U.S. Space Force when it was created in 2019. After several years of development missions, last month’s demonstration has begun to realize that vision.\n“That’s the secret sauce of this company,” said Seth Winterroth, a partner at Eclipse Ventures who sits on True Anomaly’s board. “It’s not one spacecraft architecture or one piece of software or a certain set of payloads — it’s a deep, deep understanding of what tactics and doctrine look like in this domain.”\nTrue Anomaly has raised just over $1 billion, including a $650 million round in March. Now the company will look to compete for a number of task orders, particularly in the Space Force’s $6.2 billion Andromeda program, which looks to the private sector for exactly this kind of maneuverable reconnaissance.\n“Flight heritage is everything, and demonstrated capability is what speaks the loudest with these opportunities,” Rogers said. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tTim Fernholz is a journalist who writes about technology, finance and public policy. He has closely covered the rise of the private space industry and is the author of  Rocket Billionaires: Elon Musk, Jeff Bezos and the New Space Race. Formerly, he was a senior reporter at Quartz, the global business news site, for more than a decade, and began his career as a political reporter in Washington, D.C. \nYou can contact or verify outreach from Tim by emailing tim.fernholz@techcrunch.com or via an encrypted message to tim_fernholz.21 on Signal.\r\n\t\n\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Private space pilots are flying orbital missions for the US Space Force",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/07/Jackal_1.png?w=150"
+      ],
+      "datePublished": "2026-07-02T23:01:06.000Z",
+      "dateModified": "2026-07-02T23:01:06.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections",
+    "url": "https://techcrunch.com/2026/07/02/thiel-capitals-jack-selby-nabs-stakes-in-hot-startups-like-etched-through-arizona-connections/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Jack-Selby.jpeg?w=142",
+    "tag": "Tech",
+    "date": "2026-07-02T21:57:10.000Z",
+    "description": "\nNvidia competitor Etched announced this week that TSMC had manufactured its first chip earlier this year. While the four-year-old startup valued at $",
+    "body": "\nNvidia competitor Etched announced this week that TSMC had manufactured its first chip earlier this year. While the four-year-old startup valued at $5 billion is getting ready to ship systems powered by that chip to customers later this summer, scaling production may prove challenging. Like other chip designers, Etched must compete for limited capacity at TSMC’s Taiwan factories.\nCopper Sky Capital, one of Etched’s early investors, is hopeful that the chipmaker will find a solution to its manufacturing constraints by eventually producing chips at Arizona’s TSMC facility. When the four-year-old VC firm invested in Etched’s $120 million Series A two years ago, founder Jack Selby secured an allocation in part by promising to help the startup eventually reshore its chip fabrication to Arizona.\nSelby, a former PayPal exec and longtime managing director to Peter Thiel’s family office, Thiel Capital, founded Phoenix-based Copper Sky in 2021 (formerly known as AZ-VC). The firm’s first $115 million fund focused primarily on startups based in Arizona and the Southwest. Selby’s thesis was that most coastal startups, particularly those based in California, Massachusetts, and New York, are grossly overpriced compared to companies popping up in his region. However, Selby saw an opportunity to bridge the gap in the other direction by helping California-based hardware startups move their production to Arizona.\nSelby credits Copper Sky’s investment in Etched — an otherwise hard-to-access startup — to his influential role in Arizona’s economy. As a board member of the Arizona Commerce Authority, Selby is deeply involved in recruiting out-of-state businesses to set up manufacturing operations in the region.\n“When Copper Sky invested with Etched, the company clearly understood our connectivity to the Arizona semiconductor industry, and in particular the local TSMC GIGAFAB,” Selby told TechCrunch.\nWhile Copper Sky has recently expanded its focus beyond the Southwest to include nontraditional venture hubs nationwide, Selby said that the firm is also interested in backing hardware companies, including in the defense sector, that can set up manufacturing operations in Arizona. \nThe firm is expected to soon have more capital to invest in those higher-priced coastal companies, and those throughout the United States. Copper Sky is currently raising a $300 million second fund, according to a regulatory filing.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tMarina Temkin is a venture capital and startups reporter at TechCrunch. Prior to joining TechCrunch, she wrote about VC for PitchBook and Venture Capital Journal. Earlier in her career, Marina was a financial analyst and earned a CFA charterholder designation.\r\nYou can contact or verify outreach from Marina by emailing marina.temkin@techcrunch.com or via encrypted message at +1 347-683-3909 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/07/Jack-Selby.jpeg?w=142"
+      ],
+      "datePublished": "2026-07-02T21:57:10.000Z",
+      "dateModified": "2026-07-02T21:57:10.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
+    "url": "https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/stelios-1243041618.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-07-03T05:05:00.000Z",
+    "description": "\nSecurity researchers have confirmed that a European politician had his phone hacked with the Pegasus spyware while serving on an investigatory commit",
+    "body": "\nSecurity researchers have confirmed that a European politician had his phone hacked with the Pegasus spyware while serving on an investigatory committee probing abuses of the notorious surveillance tool. This has reignited fresh controversy over governments abusing spyware to collect information about their critics.\nThe researchers at the University of Toronto’s digital rights unit The Citizen Lab say the confirmed phone hacking of Greek journalist and former politician Stelios Kouloglou during 2022 and 2023 marks the first time that a member of the European Parliament’s PEGA committee, tasked with investigating phone spyware attacks by European governments, has been publicly identified as a victim of spyware.\nKouloglou told TechCrunch in a phone call that the deliberate compromise of his phone was “reckless.” One serving European lawmaker described the hacking of Kouloglou’s phone as a “direct attack on the rule of law,” and called on the European Commission to take concrete action by imposing strict limits on the use of spyware across the 27 member-state bloc.\nWhile spyware attacks on lawmakers are rare, the timing and targeting of a committee investigator by way of the very spyware under his investigation suggests an intense focus on the committee’s inner workings ahead of a widely anticipated report detailing its findings. The hacks open fresh questions about how governments use spyware ostensibly needed for identifying serious crime, but then caught spying on the communications of journalists, lawmakers, and critics.\nCitizen Lab’s researchers did not attribute the phone hacking to a specific country but said that the government customer used the same Pegasus-loaded email address that was used in a previous campaign that hacked into the phones of journalists across Europe. The customer’s identity is not known, but the reuse of the same attacking email address implies that the customer had NSO Group’s authorization to use its Pegasus spyware to snoop on phones across multiple countries in Europe.\nA spokesperson for the European Commission did not respond to TechCrunch’s request for comment. NSO Group also did not respond to a request for comment about the Citizen Lab report prior to publication.\nIn its report out Friday, Citizen Lab said Kouloglou was hacked in October 2022 and at least twice during March 2023 using an exploit that compromised a security vulnerability in Apple’s iPhone software. This vulnerability had been patched but the fix was not yet installed on Kouloglou’s phone. The exploit was a “zero-click” bug, meaning the spyware broke in and stole his data without needing any interaction on his part.\nThe bug abused a previously discovered flaw in Apple’s smart home software used in iPhones. It allowed the spyware to grab private data from Kouloglou’s phone without his knowledge, such as his text messages and other correspondence, location data, and photos.\nThe timing of the October 2022 hack coincides with intense discussions over email and text message throughout October and November 2022, ahead of the delivery of a first draft describing spyware abuses focused in Cyprus, Greece, Hungary, Poland, and Spain. \nThe hack also lines up at the exact time that Kouloglou was in the hospital for a pre-scheduled surgery, which may have allowed the spyware operators to listen in to ambient audio discussing his healthcare or other conversations he had with visitors at the time.\nMonths later on March 6 and 7, Citizen Lab said Kouloglou’s phone was hacked again by the same Pegasus operator while Kouloglou traveled from Athens to Brussels, during a period of committee hearings and months prior to the committee finalizing and adopting their written draft report.\nIn a call, Kouloglou told TechCrunch that he didn’t know why he was specifically targeted but that he believes it was due to his work on the European Parliament’s committee investigating Pegasus abuses.\nHe described anger when he learned that his phone had been hacked. \n“You realize that all of your personal data [was taken] — not all the professional exchanges or messages with ministers — but also the very private things, like the happy moments and the sad moments,” he told TechCrunch.\nKouloglou said he plans to sue NSO Group, the Israeli-headquartered spyware maker. NSO remains largely banned from use in the United States following a Biden-era executive order that outlawed the government’s use of spyware that could violate people’s human rights. \nLast year, the spyware maker confirmed an unnamed American investment group funneled tens of millions of dollars into the company, likely as part of an effort to rehabilitate NSO’s beleaguered brand associated with enabling human rights abuses.\nKouloglou said he was going public with his story “for democracy, human rights, and the fight against corruption.”\n“Corruption concerns everybody,” he said.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tZack Whittaker is the security editor at TechCrunch. He also authors the weekly cybersecurity newsletter, this week in security. \nHe can be reached via encrypted message at zackwhittaker.1337 on Signal. You can also contact him by email, or to verify outreach, at zack.whittaker@techcrunch.com. \t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/07/stelios-1243041618.jpg?w=150"
+      ],
+      "datePublished": "2026-07-03T05:05:00.000Z",
+      "dateModified": "2026-07-03T05:05:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "IQM, Europe’s first public quantum company, admits the future of the tech is uncertain",
     "url": "https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/IQM-Nasdaq-Tower.jpg?w=150",
@@ -366,6 +266,106 @@
       ],
       "datePublished": "2026-07-02T20:42:48.000Z",
       "dateModified": "2026-07-02T20:42:48.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+    "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2194584986.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-07-02T15:20:51.000Z",
+    "description": "\nOpenAI CEO Sam Altman has proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, the Financial Times reported on Thursday, citin",
+    "body": "\nOpenAI CEO Sam Altman has proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, the Financial Times reported on Thursday, citing two people familiar with the matter. Under the proposal, other AI companies would donate similar stakes, although significant questions remain about the specifics.\nAccording to the FT’s reporting, the donation would be meant to “secure good relations with the administration and … address political blowback.”\nSimilar discussions were reported by CNBC in June and were subsequently confirmed by President Trump, who said he had discussed “concepts where pieces could be given to the American public, where the American public essentially becomes a partner with the companies.” At the time, no specific size for the proposed equity stake was given.\nThe talks remain preliminary and, per the FT, it’s likely that any formal action would require congressional approval, which would significantly complicate the matter.\nThe idea of a public AI fund has also been publicly discussed by Altman, and OpenAI has grown increasingly specific in its proposals for how such a fund could be structured. Most recently, a policy paper titled “Industrial Policy for the Intelligence Age,” released by OpenAI in April, proposed a public wealth fund that could invest directly in AI labs and companies deploying their technology.\n“Returns from the Fund could be distributed directly to citizens, allowing more people to participate directly in the upside of AI-driven growth, regardless of their starting wealth or access to capital,” the document reads. \nA more aggressive version of the policy was proposed by Sen. Bernie Sanders (I-VT) in June, calling for a one-time 50% tax on AI company stock, with the collected shares being deposited into a public wealth fund. The bill, called the American AI Sovereign Wealth Fund Act, would apply to all “systemically important” AI companies, including those dealing with data centers, infrastructure, or robotics. Under the proposal, companies like Google and SpaceX that include AI as only part of their business would be allowed to spin off non-AI portions of the company to avoid taxation.\nThe bill has yet to advance to committee.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tRussell Brandom has been covering the tech industry since 2012, with a focus on platform policy and emerging technologies. He previously worked at The Verge and Rest of World, and has written for Wired, The Awl and MIT’s Technology Review.\r\n He can be reached at russell.brandom@techcrunch.com or on Signal at 412-401-5489.\t\n\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2194584986.jpg?w=150"
+      ],
+      "datePublished": "2026-07-02T15:20:51.000Z",
+      "dateModified": "2026-07-02T15:20:51.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Anthropic is discussing a new custom chip with Samsung",
+    "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?w=150",
+    "tag": "Tech",
+    "date": "2026-07-02T18:31:09.000Z",
+    "description": "\n\t\n\t\tImage Credits:Samuel Boivin/NurPhoto / Getty Images\t\n\t\n\t\t\t\t\t\t11:31 AM PDT · July 2, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nBack in April, Reuters reported that Ant",
+    "body": "\n\t\n\t\tImage Credits:Samuel Boivin/NurPhoto / Getty Images\t\n\t\n\t\t\t\t\t\t11:31 AM PDT · July 2, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nBack in April, Reuters reported that Anthropic was toying with the idea of producing its own AI chips as a means of responding to chip shortages. Now, it would appear that the company is getting serious about this idea.\nOn Thursday, The Information reported that Anthropic was in contact with Samsung to explore a collaboration around the pending chip. However, Anthropic hasn’t yet decided what the chip will be used for, how it will fit into the server, or how powerful it will be, according to the report.\nWhen reached for comment, Anthropic told TechCrunch that a diversified hardware stack that includes chips  from Google, Amazon, and Nvidia will continue to be pivotal to its compute strategy. On the topic of a potential Samsung partnership, the company said it had nothing further to add. \nA number of AI companies have sought to develop custom chips — both as a way to create unique hardware for specific compute tasks and to gain a certain amount of independence from Nvidia, which continues to be the undisputed leader of the chip industry.\nAnthropic’s announcement may also be a response to one made last week by its key competitor, OpenAI, which has teamed up with Broadcom to announce its own custom-built inference processor, dubbed “Jalapeño.” OpenAI says that the chip is more efficient, demonstrating better performance-per-watt, than other competitor chips. Amazon and Google both offer custom-built TPUs as part of their cloud offering.\nSamsung is already embedded in the AI industry, and acts as a major partner of Nvidia, producing chips that the company needs to train or run its AI models. In turn, Samsung uses Nvidia’s software to manufacture its chips. The duo are working on an AI chip factory in South Korea. Samsung has also discussed partnering with Google on its chip-making efforts.\n\n\t\t\t\n\tTopics\n\n\t\t\tWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\n\t\n\t\tLucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. \nYou can contact Lucas by emailing lucas.ropek@techcrunch.com.\t\n\n\t\n\t\tView Bio \n\t\n\n\t\t",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Anthropic is discussing a new custom chip with Samsung",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?w=150"
+      ],
+      "datePublished": "2026-07-02T18:31:09.000Z",
+      "dateModified": "2026-07-02T18:31:09.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Meta quietly launches vibe-coded gaming app Pocket",
+    "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-07-02T18:44:02.000Z",
+    "description": "\nMeta is getting into gaming with the launch of a new app called Pocket, which allows people to generate small, interactive apps and games using AI pr",
+    "body": "\nMeta is getting into gaming with the launch of a new app called Pocket, which allows people to generate small, interactive apps and games using AI prompts. The software, a result of Meta’s acquisition of the team at the vibe-coded gaming platform Gizmo earlier this year, describes itself as “a creative platform for making and sharing gizmos,” which is what the interactive experiences are called. It also offers a scrollable feed where you can play with gizmos others have made.\nBased on the app’s screenshots in Google Play, there are many similarities to Gizmo’s original app, which is still listed. Like Pocket, Gizmo also offers a way to use written AI prompts to build small, interactive experiences, and it includes a discovery feed.\nAlessandro Paluzzi, a reverse engineer and regular spotter of new apps and features, first noticed the app’s launch this morning and published a Play Store screenshot of the app on X. According to data from app intelligence provider Appfigures, however, Pocket was first launched on June 29, 2026 on the App Store and Google Play. (Because of its newness, the firm can’t tell if it’s yet to see any downloads.)\n\nOther outlets, including Business Insider and Investing.com, have also reported on Paluzzi’s discovery. Meta has not yet responded to a request for comment.\nPocket is another example of Meta’s push to make AI creation tools more mainstream, extending its earlier efforts, which included AI-generated images created via its Meta AI app and AI videos created with its app called Vibes. It has also added AI features across its social platforms and into its video-editing app for creators, Edits.\nImage Credits:Meta\nGiven that Meta has not officially announced Pocket’s debut, it’s likely that Pocket is still in its initial experimentation phase. \nIts counterpart Gizmo, however, had generated 635,000 lifetime installs across both iOS and Google Play, according to Appfigures, which noted it had a 98% positive sentiment.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Meta quietly launches vibe-coded gaming app Pocket",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=150"
+      ],
+      "datePublished": "2026-07-02T18:44:02.000Z",
+      "dateModified": "2026-07-02T18:44:02.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Travel app Hopper to pay $35M in FTC settlement over ‘unfairly’ charging hidden fees",
+    "url": "https://techcrunch.com/2026/07/02/travel-app-hopper-to-pay-35m-in-ftc-settlement-over-unfairly-charging-hidden-fees/",
+    "image": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1140153524.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-07-02T18:39:14.000Z",
+    "description": "\nHopper, the travel app known for its AI-driven flight and hotel price predictions, has agreed to a $35 million settlement following a lawsuit brought",
+    "body": "\nHopper, the travel app known for its AI-driven flight and hotel price predictions, has agreed to a $35 million settlement following a lawsuit brought by the U.S. Federal Trade Commission (FTC). The lawsuit accused the company of misleading users by imposing hidden fees and misrepresenting the total costs of Hopper’s services. \nThe case is another example of regulators targeting the use of “dark patterns,” or interface designs that manipulate users into making choices they might not otherwise have made, including those that hide charges, pre-select optional add-ons, or make it difficult to understand the true cost of a service. It follows similar FTC settlements aimed at other companies, like Match, StubHub, neobank Dave, Fortnite, and others.\nThe FTC alleged that Hopper deceived consumers regarding the benefits of its “VIP Support” and “Price Freeze” services. Many users were led to believe that these features would enhance their booking experience, only to find themselves facing additional costs and limited access to customer support. \nThe FTC also found that users were charged for “Tip” and VIP Support fees that were presented as optional, yet were often pre-selected and hidden within the app’s interface. As a result, users found themselves facing charges that they believed they had not consented to, as these fees were typically only visible when users scrolled down on the app screen.\nThe allegations extend to the “Price Freeze” or “Hold the Room” offering, which Hopper claimed would allow consumers to hold their travel booking price for a designated period. However, the FTC notes that the app failed to clearly communicate restrictions associated with this service. For instance, the Price Freeze only secures the rate up to a specific limit and only if the booking remains available. \nThe settlement amount is set to be used for “consumer redress,” with Hopper now prohibited from misrepresenting any pricing structures, according to today’s release. It’s required that Hopper clearly disclose all fees, ensuring that users are fully aware of the total cost of any transactions before completing their bookings.\n“We decided to settle because the claims at issue are outdated and have no bearing on our business,” a company spokesperson said in a provided statement to TechCrunch. “Pursuing years of litigation over outdated, ticky-tacky issues would distract us from our current customers and partners… The settlement amount does not reflect the merit of the claims. It reflects our decision to move forward.”\nThe spokesperson added that, after reviewing millions of company files dating back to 2021, the FTC’s allegations focused on “primarily outdated display practices implemented during the pandemic, limited to the Hopper app, and discontinued by Hopper in mid-2023, prior to the start of the FTC’s inquiry.”\nBefore Hopper, the FTC’s most recent crackdown on “junk fees” was its case with StubHub, which agreed to pay $10 million to customers and change its ticket price displays. Booking Holdings settled for $9.5 million after a lawsuit from Texas Attorney General Ken Paxton, which claimed that it misled customers by showing low room rates while hiding important fees until the checkout process.\nHopper launched its travel app back in 2014 and surpassed 120 million lifetime downloads worldwide in 2024.\nThis story was updated with a statement from Hopper.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tLauren covers media, streaming, apps and platforms at TechCrunch.\nYou can contact or verify outreach from Lauren by emailing laurenf.techcrunch@gmail.com or via encrypted message at laurenforris22.25 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Travel app Hopper to pay $35M in FTC settlement over ‘unfairly’ charging hidden fees",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1140153524.jpg?w=150"
+      ],
+      "datePublished": "2026-07-02T18:39:14.000Z",
+      "dateModified": "2026-07-02T18:39:14.000Z",
       "author": [
         {
           "@type": "Person",
