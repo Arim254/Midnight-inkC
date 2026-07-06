@@ -1,30 +1,5 @@
 [
   {
-    "title": "Alibaba reportedly bans employees from using Claude Code",
-    "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-07-04T16:32:08.000Z",
-    "description": "\nIn Brief\nPosted:\n9:32 AM PDT · July 4, 2026\n\nImage Credits:Samuel Boivin/NurPhoto / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nChina’s A",
-    "body": "\nIn Brief\nPosted:\n9:32 AM PDT · July 4, 2026\n\nImage Credits:Samuel Boivin/NurPhoto / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nChina’s Alibaba will ban employees from using Anthropic’s programming tool Claude Code, starting on July 10, according to multiple reports. \nAnthropic already prohibits Chinese companies, as well as foreign entities owned by those companies, from using its models. The company has reportedly been working to close loopholes that allow Chinese users to access Claude.\nAccording to a recent Reddit post, some of that loophole-closing involved a version of Claude Code that could secretly identify Chinese users. Anthropic’s Thariq Shihipar said in a post on X that this was “an experiment we launched in March that was meant to prevent account abuse from unauthorized resellers and protect against distillation.” (Distillation is a practice where AI models are trained on the outputs of other models.)\n“The team has landed stronger mitigations since then and we’ve actually been meaning to take this down for a while,” Shihipar said.\nNonetheless, Alibaba has reportedly classified Claude Code as high-risk software and is instructing employees to use the company’s own Qoder tool instead.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in AI\n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Alibaba reportedly bans employees from using Claude Code",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=150"
-      ],
-      "datePublished": "2026-07-04T16:32:08.000Z",
-      "dateModified": "2026-07-04T16:32:08.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Trump memecoin investors lost $3.8 billion, analysis finds",
     "url": "https://techcrunch.com/2026/07/05/trump-memecoin-investors-lost-3-8-billion-analysis-finds/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/donald-trump-cellphone.jpg?w=150",
@@ -41,6 +16,31 @@
       ],
       "datePublished": "2026-07-05T20:29:05.000Z",
       "dateModified": "2026-07-05T20:29:05.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Alibaba reportedly bans employees from using Claude Code",
+    "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-07-04T16:32:08.000Z",
+    "description": "\nIn Brief\nPosted:\n9:32 AM PDT · July 4, 2026\n\nImage Credits:Samuel Boivin/NurPhoto / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nChina’s A",
+    "body": "\nIn Brief\nPosted:\n9:32 AM PDT · July 4, 2026\n\nImage Credits:Samuel Boivin/NurPhoto / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nChina’s Alibaba will ban employees from using Anthropic’s programming tool Claude Code, starting on July 10, according to multiple reports. \nAnthropic already prohibits Chinese companies, as well as foreign entities owned by those companies, from using its models. The company has reportedly been working to close loopholes that allow Chinese users to access Claude.\nAccording to a recent Reddit post, some of that loophole-closing involved a version of Claude Code that could secretly identify Chinese users. Anthropic’s Thariq Shihipar said in a post on X that this was “an experiment we launched in March that was meant to prevent account abuse from unauthorized resellers and protect against distillation.” (Distillation is a practice where AI models are trained on the outputs of other models.)\n“The team has landed stronger mitigations since then and we’ve actually been meaning to take this down for a while,” Shihipar said.\nNonetheless, Alibaba has reportedly classified Claude Code as high-risk software and is instructing employees to use the company’s own Qoder tool instead.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in AI\n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Alibaba reportedly bans employees from using Claude Code",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=150"
+      ],
+      "datePublished": "2026-07-04T16:32:08.000Z",
+      "dateModified": "2026-07-04T16:32:08.000Z",
       "author": [
         {
           "@type": "Person",
@@ -100,47 +100,22 @@
     }
   },
   {
-    "title": "Amazon will stop accepting new customers for Mechanical Turk",
-    "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2280727243.jpg?w=150",
+    "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+    "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/google-declaration-of-independence.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-07-05T17:43:36.000Z",
-    "description": "\nThese may be the last days of Amazon’s Mechanical Turk.\nAn announcement on the Mechanical Turk website says that on July 30, 2026, the crowdsourcing ",
-    "body": "\nThese may be the last days of Amazon’s Mechanical Turk.\nAn announcement on the Mechanical Turk website says that on July 30, 2026, the crowdsourcing service will close to new customers. Amazon Web Services says the decision was made after “careful consideration,” adding, “Existing customers can continue to use the service as normal. AWS continues to invest in security and availability improvements for Mechanical Turk, but we do not plan to introduce new features.”\nIn other words, Amazon isn’t completely pulling the plug, but the service is very much on life support.\nFirst launched in 2005, Mechanical Turk was a marketplace where people were paid tiny amounts to perform simple tasks that resisted full automation — things like completing CAPTCHA challenges or identifying the basic sentiment in a sentence.\nIn its heyday, the service was at the center of debates around the ethics of crowdsourced labor, and it even played a small role in the early stages of the Facebook-Cambridge Analytica scandal. \nBeginning in 2018, Amazon began billing it as a way for companies to annotate data to train neural networks as part of its SageMaker AI service.\nMechanical Turk has also been described as the hidden enabler for companies taking a fake-it-till-you-make-it approach to AI, where products marketed as AI are actually powered by the Mechanical Turk workforce — all the more fitting since the original Mechanical Turk was itself a hoax, with a hidden human chess player pretending to be a chess-playing machine.\nOver time, the relationship between Mechanical Turk and AI models grew even more complicated. In a snake-eating-its-own-tail irony, a 2023 analysis found that between 33% and 46% of workers on the platform were using large language models to complete their tasks, raising questions about the reliability of data annotated on the platform and also about whether humans needed to be in the loop at all.\nThis week, after Amazon’s decision became public, one Reddit user suggested the platform died “years ago,” with workers and researchers abandoning it due to bots and fraud. The user predicted, “Someone at Amazon is going to decide keeping the Mturk servers running is a waste of time and resources and pull the plug entirely.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tAnthony Ha is TechCrunch’s weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local government reporter at the Hollister Free Lance, and vice president of content at a VC firm. He lives in New York City.\nYou can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-07-04T20:55:25.000Z",
+    "description": "\nTwo hundred and fifty years after the signing of the Declaration of Independence, a new commercial from Google asks: What if the Founding Fathers had",
+    "body": "\nTwo hundred and fifty years after the signing of the Declaration of Independence, a new commercial from Google asks: What if the Founding Fathers had access to Google Workspace?\nWith the tagline “Group project, but make it 1776,” the ad depicts a largely unseen Thomas Jefferson mid-draft when he gets a nagging text from Ben Franklin, leading to a very Google-centric collaboration process. Edits are suggested in Google Docs, a meeting gets scheduled in Google Calendar and conducted remotely via Google Meet (with every single attendee apparently turning their camera off?), then the whole thing is finalized with e-signatures; cue the fireworks.\nOf course, since this is an ad from a tech company in the year 2026, AI has a role to play. The fictionalized founders use Google’s “help me visualize” AI tool to try out different animals on the national seal, Gemini takes notes on the meeting, and the founders also ask the chatbot for advice before declining King George III’s document access request.\nThe whole thing is very tongue-in-cheek (at one point, Sam Adams asks, “Can we settle this over beers?”), and the AI evangelism is relatively discreet when compared to many other recent ads. And unlike that infamous Google commercial in which a father uses Gemini to write a fan letter for his daughter, this one shies away from any suggestion that the actual text of the Declaration of Independence would be improved with AI. Perhaps the most AI-forward element of the ad is the footage itself, which to my eye has the uncanny glow of AI-generated video.\nWhile viewer comments on YouTube and Instagram appear to be mostly positive, you may not be surprised to learn that the response on Bluesky has been far more critical. Posters declared the commercial “cringey” and “stunningly tone deaf,” and the AI angle was the biggest target — even as many users, including historian Angus Johnston, noted that it’s “amazing how little of this is actually AI.”\n“Even in a corny fantasy joke, it’s impossible to make the case that AI is a useful tool for political organizing, writing, or human collaboration,” Johnston said.\n\n\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tAnthony Ha is TechCrunch’s weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local government reporter at the Hollister Free Lance, and vice president of content at a VC firm. He lives in New York City.\nYou can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Amazon will stop accepting new customers for Mechanical Turk",
+      "headline": "New Google commercial imagines a Declaration of Independence written with help from AI",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2280727243.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/07/google-declaration-of-independence.jpg?w=150"
       ],
-      "datePublished": "2026-07-05T17:43:36.000Z",
-      "dateModified": "2026-07-05T17:43:36.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Dune keypad device can be your meeting controller and more",
-    "url": "https://techcrunch.com/2026/07/03/the-dune-keypad-device-can-be-your-meeting-controller-and-more/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Flat11.jpeg?w=150",
-    "tag": "Tech",
-    "date": "2026-07-03T18:28:30.000Z",
-    "description": "\nMy biggest pet peeve with meeting apps is that each one has a different shortcut for muting your mic or turning off your webcam. It’s hard to remembe",
-    "body": "\nMy biggest pet peeve with meeting apps is that each one has a different shortcut for muting your mic or turning off your webcam. It’s hard to remember which keys do what when you’re mid-meeting and trying to make a point or ask a question. I always wanted a physical, universal button for mute and camera control — something I could hit without thinking. Project Mirage’s Dune, a tiny, three-key aluminum keypad — about the size of a stick of gum — that plugs into your MacBook’s USB-C port, does just that.\nThe $119 gadget has three buttons, and it changes context based on what app you are looking at. For instance, in meeting apps and sites, it could be toggle mic, toggle video, and bring window to the front. For Excel or Sheets, it could be copy, paste, and undo. For Chrome, it could be refresh, jump to URL bar, and paste. You get the gist. Developers can also use it with apps like VS Code or GitHub to merge, approve, or close a pull request.\nThe startup builds each unit to match your specific Mac model, so it sits flush against the laptop with no gap underneath. If your ports are already in use, you can connect it through a dongle instead. Dune has no battery and needs no separate charger — it draws power straight from the MacBook.\n\n\n\nCurrently, the startup supports M2 Air or later and M1 Pro or later models of MacBook running macOS 15 Sequoia or a later version.\nThe device looks and feels nice, but I felt the keys needed more resistance. Right now, it is easy to push a key by mistake. A few times, I mistakenly unmuted myself or killed my camera because my hand brushed the device while reaching for a water bottle or coffee mug. It shouldn’t be this easy to press a key.\nDune ships with a companion app for configuring shortcuts, either per-app or system-wide. Within a given app, you can assign a Dune key to a keyboard shortcut, a command, or a link that opens an app or URL.\nImage Credits:Project Mirage\nThrough the app, Dune also syncs with your calendar and surfaces your next meeting a few minutes before it starts, so you can join, dismiss, or send an “I’m running late” message with one tap.\nIf you want deeper customization, you can write and run your own Python script. If you don’t code, Dune has an easy integration with Claude Desktop: You describe the shortcut you want in plain language, and Claude writes it and assigns it to a key for that app — no manual setup required.\nI built a shortcut that, whenever I’m on a startup’s website, pulls up a quick brief on the company: its competitors, investors, and questions I might ask if I booked a meeting with them. For anyone whose job involves sizing up companies quickly — investors, founders, operators — it’s a task tailor-made for Dune. I also built one that converts images to JPEG so I can upload them quickly to WordPress or social platforms. Both were easy to build and needed no manual configuration, though getting a shortcut fully working still takes some back-and-forth with Claude, including debugging once you actually run it.\nThe app also has a marketplace, from where you can explore skills made by other Dune owners. If the marketplace takes off, it could become core to Dune’s growth and retention strategy — hardware as a thin front end for a Claude-powered skills ecosystem, where each new skill gives owners one more reason to stick around.\nHowever, at the moment, there are only limited skills. Plus, there is no way to test out a skill without assigning it to the hardware button — ideally, the app would let you preview a skill before committing it to hardware. The startup also needs to proactively add more of its own suggested skills for different apps to its users.\nProject Mirage’s device retails for $149 after its introductory price expires, and it’s a solid pick for anyone productivity-minded. MuteMe covers just mute/unmute, and Stream Deck offers business-focused macros, but Dune is easier to customize on both hardware and software.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "The Dune keypad device can be your meeting controller and more",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/07/Flat11.jpeg?w=150"
-      ],
-      "datePublished": "2026-07-03T18:28:30.000Z",
-      "dateModified": "2026-07-03T18:28:30.000Z",
+      "datePublished": "2026-07-04T20:55:25.000Z",
+      "dateModified": "2026-07-04T20:55:25.000Z",
       "author": [
         {
           "@type": "Person",
@@ -175,81 +150,6 @@
     }
   },
   {
-    "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
-    "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/google-declaration-of-independence.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-07-04T20:55:25.000Z",
-    "description": "\nTwo hundred and fifty years after the signing of the Declaration of Independence, a new commercial from Google asks: What if the Founding Fathers had",
-    "body": "\nTwo hundred and fifty years after the signing of the Declaration of Independence, a new commercial from Google asks: What if the Founding Fathers had access to Google Workspace?\nWith the tagline “Group project, but make it 1776,” the ad depicts a largely unseen Thomas Jefferson mid-draft when he gets a nagging text from Ben Franklin, leading to a very Google-centric collaboration process. Edits are suggested in Google Docs, a meeting gets scheduled in Google Calendar and conducted remotely via Google Meet (with every single attendee apparently turning their camera off?), then the whole thing is finalized with e-signatures; cue the fireworks.\nOf course, since this is an ad from a tech company in the year 2026, AI has a role to play. The fictionalized founders use Google’s “help me visualize” AI tool to try out different animals on the national seal, Gemini takes notes on the meeting, and the founders also ask the chatbot for advice before declining King George III’s document access request.\nThe whole thing is very tongue-in-cheek (at one point, Sam Adams asks, “Can we settle this over beers?”), and the AI evangelism is relatively discreet when compared to many other recent ads. And unlike that infamous Google commercial in which a father uses Gemini to write a fan letter for his daughter, this one shies away from any suggestion that the actual text of the Declaration of Independence would be improved with AI. Perhaps the most AI-forward element of the ad is the footage itself, which to my eye has the uncanny glow of AI-generated video.\nWhile viewer comments on YouTube and Instagram appear to be mostly positive, you may not be surprised to learn that the response on Bluesky has been far more critical. Posters declared the commercial “cringey” and “stunningly tone deaf,” and the AI angle was the biggest target — even as many users, including historian Angus Johnston, noted that it’s “amazing how little of this is actually AI.”\n“Even in a corny fantasy joke, it’s impossible to make the case that AI is a useful tool for political organizing, writing, or human collaboration,” Johnston said.\n\n\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tAnthony Ha is TechCrunch’s weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local government reporter at the Hollister Free Lance, and vice president of content at a VC firm. He lives in New York City.\nYou can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "New Google commercial imagines a Declaration of Independence written with help from AI",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/07/google-declaration-of-independence.jpg?w=150"
-      ],
-      "datePublished": "2026-07-04T20:55:25.000Z",
-      "dateModified": "2026-07-04T20:55:25.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "5 desk gadgets that can make your workday better",
-    "url": "https://techcrunch.com/2026/07/05/5-desk-gadgets-that-can-make-your-workday-better/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1655167474.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-07-05T15:00:00.000Z",
-    "description": "\nWe spend dozens of hours at our desks each week (if not more), so it’s worth creating a workspace that’s productive and enjoyable. The right desk gad",
-    "body": "\nWe spend dozens of hours at our desks each week (if not more), so it’s worth creating a workspace that’s productive and enjoyable. The right desk gadgets can help you reduce clutter, stay focused, and add a little extra convenience to your day.\nFrom ambient lighting to smart mugs, there are lots of products designed to make your time at your desk better, so we’ve combined a list of some options. Whether you’re working from home or in an office, these gadgets can help transform your workspace.\nOdistar Desktop Vacuum Cleaner — $13\nImage Credits:Odistar\nThe Odistar desktop vacuum is an affordable option for keeping your desk clean and crumb-free, especially if you often eat lunch or snack at your desk. You can also use it to clean your keyboard and remove dust and debris between keys. \nIt’s quiet and simple to use, and because it’s so compact, you can keep it on your desk or tuck it away in a drawer until you need it. It’s cordless and uses two AA batteries. At just $13, the desktop vacuum is a great way to keep your desk clean as you work. \nEmber Mug 2 — $150\nImage Credits:Ember\nIf you’re someone who enjoys hot coffee but often finds yourself drinking it cold after getting sidetracked while working, the Ember Mug 2 can help keep your drinks at the perfect temperature. \nYou can set an exact temperature using your phone and the smart mug maintains it for up to one and a half hours with the 10-ounce version and up to 80 minutes with the 12-ounce version. The mug allows for a more consistent coffee experience, making your workday more enjoyable. \nAmazon Echo Dot — $50\nImage Credits:Amazon\nThe Amazon Echo Dot can be a great addition to your work desk as you can use voice commands to set reminders, create to-do lists, check your calendar, play music, adjust smart lights, or get quick answers to questions without having to reach for your phone. \nSince it’s small, you can easily place it anywhere on your desk where it can act as a hands-free assistant that helps keep you organized and focused throughout your workday.\nGovee Glide Hexa Light Panels — $189.99\nImage Credits:Govee\nThe Govee Glide Hexa Light Panels are a simple and fun way to add some personality to your work desk setup without taking up any actual desk space. The hexagon-shaped panels mount on the wall behind your monitor and can display different colors and customizable lighting effects through the Govee app. \nThey can be used to create a focused atmosphere during work hours and can be switched to more dynamic effects when gaming or taking a break. The panels can be arranged in different patterns to match your style.\nSpeks — $35\nImage Credits:Speks\nIf you’re someone who hasn’t yet delved into the world of fidget toys but often finds yourself playing with random objects or even wrappers during calls or meetings, Speks might be for you. They’re tiny magnets that you can fidget or build with to keep your brain focused and your hands busy. \nInstead of fidgeting with whatever happens to be within reach, you can have something that is actually made for the job and is more satisfying to have in your hands. They can help you stay focused and relieve stress throughout your workday.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing aisha@techcrunch.com or via encrypted message at aisha_malik.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "5 desk gadgets that can make your workday better",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1655167474.jpg?w=150"
-      ],
-      "datePublished": "2026-07-05T15:00:00.000Z",
-      "dateModified": "2026-07-05T15:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "IQM, Europe’s first public quantum company, admits the future of the tech is uncertain",
-    "url": "https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/IQM-Nasdaq-Tower.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-07-02T20:42:48.000Z",
-    "description": "\nIQM, a full-stack quantum company out of Finland, went public on the Nasdaq Thursday via a SPAC merger at a valuation of about $1.9 billion. But shar",
-    "body": "\nIQM, a full-stack quantum company out of Finland, went public on the Nasdaq Thursday via a SPAC merger at a valuation of about $1.9 billion. But share prices didn’t pop. They spent most the day below the IPO price  — a lukewarm welcome.\nSPAC mergers are often not immediately popular with retail investors these days. But this fizzle was arguably fueled by IQM’s own admission in its prospectus that “large-scale commercial traction of quantum computing technology may never occur.”\nIn fairness, this warning applies to all quantum companies. Yet, that hasn’t stopped the industry, including IQM, from acquiring customers, who use the tech as it is today for tasks like simulations and optimizations. IQM, which sells actual physical computers, as well as a cloud service, has customers like VTT Technical Research Centre of Finland and Leibniz Supercomputing Centre in Germany. \n“We sell computers into advanced supercomputing centers and data centers, and we sell computing time through the cloud,” its CEO and co-founder Jan Goetz told TechCrunch.\nHaving grown from eight customers in 2024 to 22 in 2025 is a fair motive for celebration in IQM’s circles, especially when two recent customers are from the private sector. But it also suggests that demand won’t scale until the “quantum advantage” — when quantum chips start outperforming classical computers for a larger range of complex and lengthy tasks, unlocking use cases from biotech to fintech, while potentially upending encryption.\nBut no one, not even a company making quantum computers, can say when that might be.\nThis hasn’t stopped investors from doubling down on quantum companies public and private, further encouraged by President Trump’s recent executive orders to accelerate the timeline for quantum. In response, the U.S. Department of Energy (DOE) has committed to deploying “the world’s first fault-tolerant, scientifically relevant quantum computer” by 2028.\nWhile this follows similar announcements from France, Germany, and the U.K., Trump’s orders carry extra weight for IQM, which has recently established a quantum tech center in Maryland and deployed a computer at Oak Ridge National Laboratory, which is part of the DOE. “We can benefit directly from it,” Goetz said.\nUnlike other European unicorns, however, IQM isn’t moving its center of gravity to the other side of the Atlantic. In parallel to its IQMX ticker in the U.S., where most of its quantum peers are listed, it is due to debut tomorrow on Nasdaq Helsinki, where it expects continued support from the likes of Tesi, Finland’s sovereign wealth fund.\nIQM’s story is indissociable from Finland. It was founded there in 2018 as a spinout from Aalto University in Espoo, a tech and quantum hub near Helsinki where two-thirds of its staff still work. But another hundred out of its 420-people team are based in Munich, with the remainder split around various locations to help the company in its global deployment roadmap.\nIn its prospectus, IQM noted that this duality appealed to RAAQ, the blank check company that helped IQM go public via a SPAC. “As evidenced by over €200 million in public support for IQM, European sovereign states and companies have supported IQM’s emergence as a prominent quantum computing company in Europe. IQM also demonstrated its ability to operate outside of Europe,” according to the RAAQ board.\nDespite global ambitions, Goetz expressed pride at IQM becoming the first European quantum company to list in the U.S. — within a hair’s breadth, as French competitor Pasqal also announced plans to go public via a SPAC. “It always feels good to be first and to be a pioneer, but ultimately it’s about long-term success,” Goetz said.\nThe operation will generate new liquidity for IQM — approximately €198 million after costs, or $226 million. But the company had already raised $300 million last September. “It’s a big success raising very shortly after the Series B,” Goetz said. This also reflects that IQM’s main goal was to position itself more prominently in a race still full of unknowns.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tAnna Heim is a writer and editorial consultant. \nYou can contact or verify outreach from Anna by emailing annatechcrunch [at] gmail.com.\nAs a freelance reporter at TechCrunch since 2021, she has covered a large range of startup-related topics including AI, fintech & insurtech, SaaS & pricing, and global venture capital trends.\nAs of May 2025, her reporting for TechCrunch focuses on Europe’s most interesting startup stories.\nAnna has moderated panels and conducted onstage interviews at industry events of all sizes, including major tech conferences such as TechCrunch Disrupt, 4YFN, South Summit, TNW Conference, VivaTech, and many more.\nA former LATAM & Media Editor at The Next Web, startup founder and Sciences Po Paris alum, she’s fluent in multiple languages, including French, English, Spanish and Brazilian Portuguese.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "IQM, Europe’s first public quantum company, admits the future of the tech is uncertain",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/07/IQM-Nasdaq-Tower.jpg?w=150"
-      ],
-      "datePublished": "2026-07-02T20:42:48.000Z",
-      "dateModified": "2026-07-02T20:42:48.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Last chance to apply — Startup Battlefield Australia applications close July 6",
     "url": "https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/11/54889393608_2493644601_o-2.jpg?w=150",
@@ -266,6 +166,31 @@
       ],
       "datePublished": "2026-07-03T00:00:00.000Z",
       "dateModified": "2026-07-03T00:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The Dune keypad device can be your meeting controller and more",
+    "url": "https://techcrunch.com/2026/07/03/the-dune-keypad-device-can-be-your-meeting-controller-and-more/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Flat11.jpeg?w=150",
+    "tag": "Tech",
+    "date": "2026-07-03T18:28:30.000Z",
+    "description": "\nMy biggest pet peeve with meeting apps is that each one has a different shortcut for muting your mic or turning off your webcam. It’s hard to remembe",
+    "body": "\nMy biggest pet peeve with meeting apps is that each one has a different shortcut for muting your mic or turning off your webcam. It’s hard to remember which keys do what when you’re mid-meeting and trying to make a point or ask a question. I always wanted a physical, universal button for mute and camera control — something I could hit without thinking. Project Mirage’s Dune, a tiny, three-key aluminum keypad — about the size of a stick of gum — that plugs into your MacBook’s USB-C port, does just that.\nThe $119 gadget has three buttons, and it changes context based on what app you are looking at. For instance, in meeting apps and sites, it could be toggle mic, toggle video, and bring window to the front. For Excel or Sheets, it could be copy, paste, and undo. For Chrome, it could be refresh, jump to URL bar, and paste. You get the gist. Developers can also use it with apps like VS Code or GitHub to merge, approve, or close a pull request.\nThe startup builds each unit to match your specific Mac model, so it sits flush against the laptop with no gap underneath. If your ports are already in use, you can connect it through a dongle instead. Dune has no battery and needs no separate charger — it draws power straight from the MacBook.\n\n\n\nCurrently, the startup supports M2 Air or later and M1 Pro or later models of MacBook running macOS 15 Sequoia or a later version.\nThe device looks and feels nice, but I felt the keys needed more resistance. Right now, it is easy to push a key by mistake. A few times, I mistakenly unmuted myself or killed my camera because my hand brushed the device while reaching for a water bottle or coffee mug. It shouldn’t be this easy to press a key.\nDune ships with a companion app for configuring shortcuts, either per-app or system-wide. Within a given app, you can assign a Dune key to a keyboard shortcut, a command, or a link that opens an app or URL.\nImage Credits:Project Mirage\nThrough the app, Dune also syncs with your calendar and surfaces your next meeting a few minutes before it starts, so you can join, dismiss, or send an “I’m running late” message with one tap.\nIf you want deeper customization, you can write and run your own Python script. If you don’t code, Dune has an easy integration with Claude Desktop: You describe the shortcut you want in plain language, and Claude writes it and assigns it to a key for that app — no manual setup required.\nI built a shortcut that, whenever I’m on a startup’s website, pulls up a quick brief on the company: its competitors, investors, and questions I might ask if I booked a meeting with them. For anyone whose job involves sizing up companies quickly — investors, founders, operators — it’s a task tailor-made for Dune. I also built one that converts images to JPEG so I can upload them quickly to WordPress or social platforms. Both were easy to build and needed no manual configuration, though getting a shortcut fully working still takes some back-and-forth with Claude, including debugging once you actually run it.\nThe app also has a marketplace, from where you can explore skills made by other Dune owners. If the marketplace takes off, it could become core to Dune’s growth and retention strategy — hardware as a thin front end for a Claude-powered skills ecosystem, where each new skill gives owners one more reason to stick around.\nHowever, at the moment, there are only limited skills. Plus, there is no way to test out a skill without assigning it to the hardware button — ideally, the app would let you preview a skill before committing it to hardware. The startup also needs to proactively add more of its own suggested skills for different apps to its users.\nProject Mirage’s device retails for $149 after its introductory price expires, and it’s a solid pick for anyone productivity-minded. MuteMe covers just mute/unmute, and Stream Deck offers business-focused macros, but Dune is easier to customize on both hardware and software.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "The Dune keypad device can be your meeting controller and more",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/07/Flat11.jpeg?w=150"
+      ],
+      "datePublished": "2026-07-03T18:28:30.000Z",
+      "dateModified": "2026-07-03T18:28:30.000Z",
       "author": [
         {
           "@type": "Person",
@@ -300,6 +225,31 @@
     }
   },
   {
+    "title": "Amazon will stop accepting new customers for Mechanical Turk",
+    "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2280727243.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-07-05T17:43:36.000Z",
+    "description": "\nThese may be the last days of Amazon’s Mechanical Turk.\nAn announcement on the Mechanical Turk website says that on July 30, 2026, the crowdsourcing ",
+    "body": "\nThese may be the last days of Amazon’s Mechanical Turk.\nAn announcement on the Mechanical Turk website says that on July 30, 2026, the crowdsourcing service will close to new customers. Amazon Web Services says the decision was made after “careful consideration,” adding, “Existing customers can continue to use the service as normal. AWS continues to invest in security and availability improvements for Mechanical Turk, but we do not plan to introduce new features.”\nIn other words, Amazon isn’t completely pulling the plug, but the service is very much on life support.\nFirst launched in 2005, Mechanical Turk was a marketplace where people were paid tiny amounts to perform simple tasks that resisted full automation — things like completing CAPTCHA challenges or identifying the basic sentiment in a sentence.\nIn its heyday, the service was at the center of debates around the ethics of crowdsourced labor, and it even played a small role in the early stages of the Facebook-Cambridge Analytica scandal. \nBeginning in 2018, Amazon began billing it as a way for companies to annotate data to train neural networks as part of its SageMaker AI service.\nMechanical Turk has also been described as the hidden enabler for companies taking a fake-it-till-you-make-it approach to AI, where products marketed as AI are actually powered by the Mechanical Turk workforce — all the more fitting since the original Mechanical Turk was itself a hoax, with a hidden human chess player pretending to be a chess-playing machine.\nOver time, the relationship between Mechanical Turk and AI models grew even more complicated. In a snake-eating-its-own-tail irony, a 2023 analysis found that between 33% and 46% of workers on the platform were using large language models to complete their tasks, raising questions about the reliability of data annotated on the platform and also about whether humans needed to be in the loop at all.\nThis week, after Amazon’s decision became public, one Reddit user suggested the platform died “years ago,” with workers and researchers abandoning it due to bots and fraud. The user predicted, “Someone at Amazon is going to decide keeping the Mturk servers running is a waste of time and resources and pull the plug entirely.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tAnthony Ha is TechCrunch’s weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local government reporter at the Hollister Free Lance, and vice president of content at a VC firm. He lives in New York City.\nYou can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Amazon will stop accepting new customers for Mechanical Turk",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2280727243.jpg?w=150"
+      ],
+      "datePublished": "2026-07-05T17:43:36.000Z",
+      "dateModified": "2026-07-05T17:43:36.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections",
     "url": "https://techcrunch.com/2026/07/02/thiel-capitals-jack-selby-nabs-stakes-in-hot-startups-like-etched-through-arizona-connections/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/Jack-Selby.jpeg?w=142",
@@ -325,6 +275,31 @@
     }
   },
   {
+    "title": "5 desk gadgets that can make your workday better",
+    "url": "https://techcrunch.com/2026/07/05/5-desk-gadgets-that-can-make-your-workday-better/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1655167474.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-07-05T15:00:00.000Z",
+    "description": "\nWe spend dozens of hours at our desks each week (if not more), so it’s worth creating a workspace that’s productive and enjoyable. The right desk gad",
+    "body": "\nWe spend dozens of hours at our desks each week (if not more), so it’s worth creating a workspace that’s productive and enjoyable. The right desk gadgets can help you reduce clutter, stay focused, and add a little extra convenience to your day.\nFrom ambient lighting to smart mugs, there are lots of products designed to make your time at your desk better, so we’ve combined a list of some options. Whether you’re working from home or in an office, these gadgets can help transform your workspace.\nOdistar Desktop Vacuum Cleaner — $13\nImage Credits:Odistar\nThe Odistar desktop vacuum is an affordable option for keeping your desk clean and crumb-free, especially if you often eat lunch or snack at your desk. You can also use it to clean your keyboard and remove dust and debris between keys. \nIt’s quiet and simple to use, and because it’s so compact, you can keep it on your desk or tuck it away in a drawer until you need it. It’s cordless and uses two AA batteries. At just $13, the desktop vacuum is a great way to keep your desk clean as you work. \nEmber Mug 2 — $150\nImage Credits:Ember\nIf you’re someone who enjoys hot coffee but often finds yourself drinking it cold after getting sidetracked while working, the Ember Mug 2 can help keep your drinks at the perfect temperature. \nYou can set an exact temperature using your phone and the smart mug maintains it for up to one and a half hours with the 10-ounce version and up to 80 minutes with the 12-ounce version. The mug allows for a more consistent coffee experience, making your workday more enjoyable. \nAmazon Echo Dot — $50\nImage Credits:Amazon\nThe Amazon Echo Dot can be a great addition to your work desk as you can use voice commands to set reminders, create to-do lists, check your calendar, play music, adjust smart lights, or get quick answers to questions without having to reach for your phone. \nSince it’s small, you can easily place it anywhere on your desk where it can act as a hands-free assistant that helps keep you organized and focused throughout your workday.\nGovee Glide Hexa Light Panels — $189.99\nImage Credits:Govee\nThe Govee Glide Hexa Light Panels are a simple and fun way to add some personality to your work desk setup without taking up any actual desk space. The hexagon-shaped panels mount on the wall behind your monitor and can display different colors and customizable lighting effects through the Govee app. \nThey can be used to create a focused atmosphere during work hours and can be switched to more dynamic effects when gaming or taking a break. The panels can be arranged in different patterns to match your style.\nSpeks — $35\nImage Credits:Speks\nIf you’re someone who hasn’t yet delved into the world of fidget toys but often finds yourself playing with random objects or even wrappers during calls or meetings, Speks might be for you. They’re tiny magnets that you can fidget or build with to keep your brain focused and your hands busy. \nInstead of fidgeting with whatever happens to be within reach, you can have something that is actually made for the job and is more satisfying to have in your hands. They can help you stay focused and relieve stress throughout your workday.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing aisha@techcrunch.com or via encrypted message at aisha_malik.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "5 desk gadgets that can make your workday better",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1655167474.jpg?w=150"
+      ],
+      "datePublished": "2026-07-05T15:00:00.000Z",
+      "dateModified": "2026-07-05T15:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
     "url": "https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/stelios-1243041618.jpg?w=150",
@@ -341,6 +316,31 @@
       ],
       "datePublished": "2026-07-03T05:05:00.000Z",
       "dateModified": "2026-07-03T05:05:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "This humanoid robotics company is going public, but its CEO isn’t promising a robot in your home anytime soon",
+    "url": "https://techcrunch.com/2026/07/05/this-humanoid-robotics-company-is-going-public-but-its-ceo-isnt-promising-a-robot-in-your-home-anytime-soon/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Peggy-Johnson.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-07-06T06:05:29.000Z",
+    "description": "\nThe humanoid robotics market is awash in money right now. Last week, AI2 Robotics, a Shenzhen-based startup that makes wheeled humanoid robots, raise",
+    "body": "\nThe humanoid robotics market is awash in money right now. Last week, AI2 Robotics, a Shenzhen-based startup that makes wheeled humanoid robots, raised roughly $735 million at a nearly $3 billion valuation. Earlier this year, Apptronik, an Austin-based maker of humanoid robots for manufacturing and logistics, closed a $935 million funding round valuing the company at more than $5.5 billion. Last fall, Figure AI, a San Jose-based startup developing general-purpose humanoid robots, self-reported that it closed on $1 billion in Series C funding at an eye-popping $39 billion valuation.\nBy comparison, Peggy Johnson, CEO of Agility Robotics, is surprisingly measured. We spoke by phone last week, just after the company announced plans to go public through a merger with Michael Klein’s Churchill Capital Corp XI, a special purpose acquisition company, or SPAC. The deal values Agility at around $2.5 billion and is expected to raise more than $620 million in gross proceeds, the largest capital raise in humanoid robotics history. It hasn’t closed yet; the merger still needs shareholder approval and SEC review, and is expected to be completed later this year.\nAgility was founded in 2015 as a spinoff from Oregon State University. Based in Salem, Oregon, the company makes bipedal humanoid robots designed to work in warehouses and factories. Its SPAC maneuver is notable for a few reasons. It would make Agility the first pure-play humanoid robotics company to trade on public markets, giving retail investors direct exposure to a sector that has so far been available primarily to deep-pocketed VC funds. It also offers a rare window into the finances of a business in a space where most competitors closely guard their numbers and even the state of the tech they are building.\nJohnson — formerly executive vice president of business development at Microsoft, where she helped engineer the $26 billion acquisition of LinkedIn, and later CEO of Magic Leap, the once-hyped augmented reality headset maker — was careful throughout our conversation. She declined to offer forward-looking financial guidance, declined to disclose the bill of materials for Agility’s flagship robot Digit, and pushed back politely whenever questions veered toward speculation.\nAsked why Agility is going public via a SPAC rather than raising another private round — a structure that skips the roadshow and pricing scrutiny of a traditional IPO — Johnson said much of it boils down to the first-mover advantage the company enjoys when it’s the first of its ilk to go public. For investors clamoring for shares in a buzzy robotics company, Agility is “an acceleration story and a timing story,” she said. The proceeds will also help Agility ramp up production at its 70,000-square-foot manufacturing facility in Salem, Oregon, and fulfill an existing pipeline of customer orders. \nAs for the troubled reputation of SPACs — many companies that went public that way in 2021 famously fizzled out entirely or trade well below their offering price — Johnson was unfazed. “If we just keep our head down, keep delivering customer by customer, robot by robot, we hopefully won’t experience the same volatility,” she said. “Our biggest competitor right now is just us. How quickly we can execute, how quickly we can continue to add new skills.”\nThe pipeline goes well beyond pilots, Johnson told TechCrunch, pointing to more than $300 million in booked, multi-year revenue that represents roughly 1,000 robots that are part of a robots-as-a-service model in which customers pay a monthly fee rather than purchasing the machines outright. “Everybody on our list right now is already vetted, and they have deployment plans behind their proof of concepts,” Johnson said. Customers include GXO Logistics, Amazon, Toyota Motor Manufacturing Canada, Schaeffler, and Mercado Libre.\nDigit itself is a deliberately unfussy piece of hardware. It stands about 5’9″, weighs around 160 pounds, and is designed to do one thing exceptionally well, which is move heavy objects in human-built spaces. Its most distinctive feature is a set of reverse-bend knees — they’ve been called “bird legs” — that allow it to reach from floor level to overhead shelving without the knees colliding with warehouse racking. (Agility’s founders, Johnson explained, weren’t interested in biomimicry for its own sake.) The robot’s hands — two thumbs and two fingers — are similarly task-specific; they’re optimized for gripping heavy plastic totes, even as their contents shift in transit.\nJohnson said Agility is “LLM-agnostic,” drawing on models including Claude and Gemini to handle what she calls the semantic layer — translating high-level instructions into robot behavior. She described a recent test in which engineers scattered different types of trash on the floor and told Digit simply to “clean up this mess.” The robot assessed, sorted, and binned everything correctly, including correctly identifying bubble wrap as non-recyclable.\nOf course, it’s the physical layer — the mechanics of balance, locomotion, and manipulation — that Agility considers its core proprietary advantage, one built up over more than a decade of real-world deployment. “The LLMs had the entire internet to train on,” she said. “When you think about the physical AI of humanoids — that doesn’t quite exist yet.” At most companies, anyway. Johnson believes Agility is the exception: “We may have the largest data lake of actual operating robotics data in real-world environments.”\nBeyond raw data, Johnson said, safety is where the gulf between Agility and its competitors is biggest and most consequential. While rival companies showcase their robots in lab demos and choreographed videos, Agility has had to meet actual industrial safety certification requirements to operate inside customer facilities. “You can’t build your robot and then make it safe,” she said. “That’s a redesign. You have to have all of the safety certified — the electrical system, all of the parts, and the software to support all of that.” (It’s not a trivial concern given that humans are often somewhere in the room. Back in November, Figure AI’s former head of product safety sued the company, alleging he was fired after raising concerns that its robots were powerful enough to fracture a human skull. Figure has disputed the claims.)\nAs for the home, Johnson thinks humanoids will get there eventually, but she said not to expect them to deliver breakfast in bed anytime soon. It’ll be “10-plus years,” she said of the timeline, observing that warehouses and factories, for all their complexity, have fixed aisles and predictable equipment and workflows unlike homes that are chaotic, with dogs, babies, visitors, and objects left in unexpected places. \n“At least roads have some discipline to them,” Johnson added, comparing the challenge to that of autonomous vehicles. “Most of the areas that humanoids will be operating in don’t.”\nAgility isn’t ruling out the home market. Johnson said the company will enter it when it makes sense. For now, though, it’s laser focused on the warehouse market, given the growing numbers of retiring workers and younger workers who aren’t willing to take physically demanding roles. “There’s something like over a million jobs in the US today in these areas that are unfilled,” she said. “They’re just very, very hard to hire for.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "This humanoid robotics company is going public, but its CEO isn’t promising a robot in your home anytime soon",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/07/Peggy-Johnson.jpg?w=150"
+      ],
+      "datePublished": "2026-07-06T06:05:29.000Z",
+      "dateModified": "2026-07-06T06:05:29.000Z",
       "author": [
         {
           "@type": "Person",
