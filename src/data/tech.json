@@ -50,6 +50,31 @@
     }
   },
   {
+    "title": "Uber’s European expansion plans may have hit a speed bump",
+    "url": "https://techcrunch.com/2026/07/05/ubers-european-expansion-plans-may-have-hit-a-speed-bump/",
+    "image": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1232204732.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-07-05T21:35:17.000Z",
+    "description": "\nBack in February, Uber announced ambitious plans to launch in seven new European markets in 2026 — but now the Financial Times reports that five of t",
+    "body": "\nBack in February, Uber announced ambitious plans to launch in seven new European markets in 2026 — but now the Financial Times reports that five of those launches are on hold. Country launches that have been paused include Austria, Norway, and Greece.\nUber seemed to confirm the decision to the FT, saying that recent launches in Finland and Denmark had been a “huge success,” so now it wants to “focus on continuing the momentum” in existing markets.\nAnother likely factor in the decision: Uber’s continuing efforts to acquire Delivery Hero, a European company that rejected Uber’s 10 billion euro takeover bid in May.\nIt seems Uber is still hoping to make the deal a reality. An industry source said that putting a pause on further expansion could help alleviate antitrust concerns around a potential acquisition, especially since Delivery Hero operates delivery services in several of the target countries.\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Uber’s European expansion plans may have hit a speed bump",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1232204732.jpg?w=150"
+      ],
+      "datePublished": "2026-07-05T21:35:17.000Z",
+      "dateModified": "2026-07-05T21:35:17.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
     "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1968119319.jpg?w=150",
@@ -100,22 +125,22 @@
     }
   },
   {
-    "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
-    "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/AI-sandwich-hunger.png?w=150",
+    "title": "The Dune keypad device can be your meeting controller and more",
+    "url": "https://techcrunch.com/2026/07/03/the-dune-keypad-device-can-be-your-meeting-controller-and-more/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Flat11.jpeg?w=150",
     "tag": "Tech",
-    "date": "2026-07-02T20:11:59.000Z",
-    "description": "\nI can’t tell the exact tipping point from realistic excitement over a new technology, to hype, to aww-come-on — but I’m pretty sure when a sandwich s",
-    "body": "\nI can’t tell the exact tipping point from realistic excitement over a new technology, to hype, to aww-come-on — but I’m pretty sure when a sandwich shop with Danny DeVito as its public face talks about AI in its IPO documents, we must be getting close.\nSo it is with Jersey Mike’s. \nBecause of investor thirst for all things AI these days, I understand why tech companies feel the need to sprinkle AI dust all over their pitches. This is as true for non-AI startups raising venture capital as it is for Bending Spoons’ public debut, a company in the business of buying aging, “not-AI” tech companies to rehabilitate.\nJust for kicks, I took a look at Jersey Mike’s IPO documents to see how far this compulsion may go. Surely a sandwich shop would have no need to mention AI in its S-1. But lo and behold!\nThe term artificial intelligence and its acronym “AI” were mentioned 22 times. In this case, the company can’t claim to be selling AI software. It sells submarine sandwiches. AI products are what investors are really hungering for (terrible pun intended).\nStill, it found a way to mention AI in its investor-risk warnings. That may be even more funny. It doesn’t explain what it’s using AI for that could be dangerous to investors, beyond a hand-wave of a phrase, “We are beginning to use AI Technologies in our business.”\nIn all fairness, as a company that operates franchisees, it does rely on software (mentioned 52 times) and data (112 mentions), as all businesses do. Its AI risk warning was boilerplate copy, perhaps even necessary, as such disasters have already happened to other food businesses, like the half-baked AI inventory tool that Starbucks rolled out, which couldn’t count and was recently scrapped.\nStill, I’m going to go out on a limb here and predict that the risk of an AI disaster for a company that produces real-life sandwiches, not AI slop, is about the same as, say, a franchise shop getting hit by lightning. That actually happened, by the way, to a shop in Texas in 2021. Yet weather was only mentioned five times in the S-1. And lightning? Not once.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "date": "2026-07-03T18:28:30.000Z",
+    "description": "\nMy biggest pet peeve with meeting apps is that each one has a different shortcut for muting your mic or turning off your webcam. It’s hard to remembe",
+    "body": "\nMy biggest pet peeve with meeting apps is that each one has a different shortcut for muting your mic or turning off your webcam. It’s hard to remember which keys do what when you’re mid-meeting and trying to make a point or ask a question. I always wanted a physical, universal button for mute and camera control — something I could hit without thinking. Project Mirage’s Dune, a tiny, three-key aluminum keypad — about the size of a stick of gum — that plugs into your MacBook’s USB-C port, does just that.\nThe $119 gadget has three buttons, and it changes context based on what app you are looking at. For instance, in meeting apps and sites, it could be toggle mic, toggle video, and bring window to the front. For Excel or Sheets, it could be copy, paste, and undo. For Chrome, it could be refresh, jump to URL bar, and paste. You get the gist. Developers can also use it with apps like VS Code or GitHub to merge, approve, or close a pull request.\nThe startup builds each unit to match your specific Mac model, so it sits flush against the laptop with no gap underneath. If your ports are already in use, you can connect it through a dongle instead. Dune has no battery and needs no separate charger — it draws power straight from the MacBook.\n\n\n\nCurrently, the startup supports M2 Air or later and M1 Pro or later models of MacBook running macOS 15 Sequoia or a later version.\nThe device looks and feels nice, but I felt the keys needed more resistance. Right now, it is easy to push a key by mistake. A few times, I mistakenly unmuted myself or killed my camera because my hand brushed the device while reaching for a water bottle or coffee mug. It shouldn’t be this easy to press a key.\nDune ships with a companion app for configuring shortcuts, either per-app or system-wide. Within a given app, you can assign a Dune key to a keyboard shortcut, a command, or a link that opens an app or URL.\nImage Credits:Project Mirage\nThrough the app, Dune also syncs with your calendar and surfaces your next meeting a few minutes before it starts, so you can join, dismiss, or send an “I’m running late” message with one tap.\nIf you want deeper customization, you can write and run your own Python script. If you don’t code, Dune has an easy integration with Claude Desktop: You describe the shortcut you want in plain language, and Claude writes it and assigns it to a key for that app — no manual setup required.\nI built a shortcut that, whenever I’m on a startup’s website, pulls up a quick brief on the company: its competitors, investors, and questions I might ask if I booked a meeting with them. For anyone whose job involves sizing up companies quickly — investors, founders, operators — it’s a task tailor-made for Dune. I also built one that converts images to JPEG so I can upload them quickly to WordPress or social platforms. Both were easy to build and needed no manual configuration, though getting a shortcut fully working still takes some back-and-forth with Claude, including debugging once you actually run it.\nThe app also has a marketplace, from where you can explore skills made by other Dune owners. If the marketplace takes off, it could become core to Dune’s growth and retention strategy — hardware as a thin front end for a Claude-powered skills ecosystem, where each new skill gives owners one more reason to stick around.\nHowever, at the moment, there are only limited skills. Plus, there is no way to test out a skill without assigning it to the hardware button — ideally, the app would let you preview a skill before committing it to hardware. The startup also needs to proactively add more of its own suggested skills for different apps to its users.\nProject Mirage’s device retails for $149 after its introductory price expires, and it’s a solid pick for anyone productivity-minded. MuteMe covers just mute/unmute, and Stream Deck offers business-focused macros, but Dune is easier to customize on both hardware and software.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
+      "headline": "The Dune keypad device can be your meeting controller and more",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/07/AI-sandwich-hunger.png?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/07/Flat11.jpeg?w=150"
       ],
-      "datePublished": "2026-07-02T20:11:59.000Z",
-      "dateModified": "2026-07-02T20:11:59.000Z",
+      "datePublished": "2026-07-03T18:28:30.000Z",
+      "dateModified": "2026-07-03T18:28:30.000Z",
       "author": [
         {
           "@type": "Person",
@@ -150,31 +175,6 @@
     }
   },
   {
-    "title": "The Dune keypad device can be your meeting controller and more",
-    "url": "https://techcrunch.com/2026/07/03/the-dune-keypad-device-can-be-your-meeting-controller-and-more/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Flat11.jpeg?w=150",
-    "tag": "Tech",
-    "date": "2026-07-03T18:28:30.000Z",
-    "description": "\nMy biggest pet peeve with meeting apps is that each one has a different shortcut for muting your mic or turning off your webcam. It’s hard to remembe",
-    "body": "\nMy biggest pet peeve with meeting apps is that each one has a different shortcut for muting your mic or turning off your webcam. It’s hard to remember which keys do what when you’re mid-meeting and trying to make a point or ask a question. I always wanted a physical, universal button for mute and camera control — something I could hit without thinking. Project Mirage’s Dune, a tiny, three-key aluminum keypad — about the size of a stick of gum — that plugs into your MacBook’s USB-C port, does just that.\nThe $119 gadget has three buttons, and it changes context based on what app you are looking at. For instance, in meeting apps and sites, it could be toggle mic, toggle video, and bring window to the front. For Excel or Sheets, it could be copy, paste, and undo. For Chrome, it could be refresh, jump to URL bar, and paste. You get the gist. Developers can also use it with apps like VS Code or GitHub to merge, approve, or close a pull request.\nThe startup builds each unit to match your specific Mac model, so it sits flush against the laptop with no gap underneath. If your ports are already in use, you can connect it through a dongle instead. Dune has no battery and needs no separate charger — it draws power straight from the MacBook.\n\n\n\nCurrently, the startup supports M2 Air or later and M1 Pro or later models of MacBook running macOS 15 Sequoia or a later version.\nThe device looks and feels nice, but I felt the keys needed more resistance. Right now, it is easy to push a key by mistake. A few times, I mistakenly unmuted myself or killed my camera because my hand brushed the device while reaching for a water bottle or coffee mug. It shouldn’t be this easy to press a key.\nDune ships with a companion app for configuring shortcuts, either per-app or system-wide. Within a given app, you can assign a Dune key to a keyboard shortcut, a command, or a link that opens an app or URL.\nImage Credits:Project Mirage\nThrough the app, Dune also syncs with your calendar and surfaces your next meeting a few minutes before it starts, so you can join, dismiss, or send an “I’m running late” message with one tap.\nIf you want deeper customization, you can write and run your own Python script. If you don’t code, Dune has an easy integration with Claude Desktop: You describe the shortcut you want in plain language, and Claude writes it and assigns it to a key for that app — no manual setup required.\nI built a shortcut that, whenever I’m on a startup’s website, pulls up a quick brief on the company: its competitors, investors, and questions I might ask if I booked a meeting with them. For anyone whose job involves sizing up companies quickly — investors, founders, operators — it’s a task tailor-made for Dune. I also built one that converts images to JPEG so I can upload them quickly to WordPress or social platforms. Both were easy to build and needed no manual configuration, though getting a shortcut fully working still takes some back-and-forth with Claude, including debugging once you actually run it.\nThe app also has a marketplace, from where you can explore skills made by other Dune owners. If the marketplace takes off, it could become core to Dune’s growth and retention strategy — hardware as a thin front end for a Claude-powered skills ecosystem, where each new skill gives owners one more reason to stick around.\nHowever, at the moment, there are only limited skills. Plus, there is no way to test out a skill without assigning it to the hardware button — ideally, the app would let you preview a skill before committing it to hardware. The startup also needs to proactively add more of its own suggested skills for different apps to its users.\nProject Mirage’s device retails for $149 after its introductory price expires, and it’s a solid pick for anyone productivity-minded. MuteMe covers just mute/unmute, and Stream Deck offers business-focused macros, but Dune is easier to customize on both hardware and software.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "The Dune keypad device can be your meeting controller and more",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/07/Flat11.jpeg?w=150"
-      ],
-      "datePublished": "2026-07-03T18:28:30.000Z",
-      "dateModified": "2026-07-03T18:28:30.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
     "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/google-declaration-of-independence.jpg?w=150",
@@ -191,81 +191,6 @@
       ],
       "datePublished": "2026-07-04T20:55:25.000Z",
       "dateModified": "2026-07-04T20:55:25.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Last chance to apply — Startup Battlefield Australia applications close July 6",
-    "url": "https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/11/54889393608_2493644601_o-2.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-07-03T00:00:00.000Z",
-    "description": "\nEvery startup has a moment that changes everything.\nFor some, it’s landing their first customer. For others, it’s closing their first funding round.\n",
-    "body": "\nEvery startup has a moment that changes everything.\nFor some, it’s landing their first customer. For others, it’s closing their first funding round.\nFor a select few, it starts with one pitch.\nIf you’re going to apply for Startup Battlefield Australia, now is the time. Applications close July 6, and once the deadline passes, the opportunity is gone.\nWho should apply?\nIf you’re an early-stage startup in Australia or New Zealand, this opportunity was built for you.\nWe’re looking for founders who are:\n\nPre-seed to Series B.\nBuilding a real product with early traction.\nSolving meaningful problems with innovative technology.\nReady to introduce their company to investors, media, and the broader startup ecosystem.\n\nYou don’t need to be famous.\nIn fact, that’s the point.\nStartup Battlefield exists to discover the next breakout company before everyone else does.\nWhat’s at stake?\nOn August 19, 2026, eight selected startups will take the stage live at Stripe Tour Sydney in front of leading investors, global media, and Australia’s technology community.\nThe top three startups will receive up to $15,000 in Stripe fee credits.\nThe grand prize goes even further.\nThe winner receives automatic entry into Startup Battlefield 200 at TechCrunch Disrupt 2026 — one of the world’s most prestigious startup competitions — in San Francisco this October.\nThe countdown is on\nThe application window is almost closed.\nWhen the deadline passes, there are no extensions, no second chances, and no late submissions.\nIf you’ve been thinking about applying, don’t spend another day wondering, “What if?”\nSubmit your application now and give your startup the opportunity to become the next company everyone is talking about.\nApplications close July 6\nDon’t let this opportunity become the one that got away.\nApply now\nFree to apply • No equity taken • Live in Sydney on August 19, 2026.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tIsabelle leads Startup Battlefield, TechCrunch’s iconic launchpad and competition for the world’s most promising early-stage startups.\r\nYou can contact or verify outreach from Isabelle by emailing isabelle.johannessen@techcrunch.com.\r\n\r\nShe scouts top founders across 99+ countries and prepares them to pitch on the Disrupt stage in front of tier-one investors and global media. Before TechCrunch, she designed and led international startup acceleration programs across Japan, Korea, Italy, and Spain—connecting global founders with VCs and helping them successfully enter the U.S. market. With a Master’s in Entrepreneurship & Disruptive Innovation—and a past life as a professional singer—she brings a blend of strategic rigor and stage presence to help founders craft compelling stories and stand out in crowded markets.\n\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Last chance to apply — Startup Battlefield Australia applications close July 6",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/11/54889393608_2493644601_o-2.jpg?w=150"
-      ],
-      "datePublished": "2026-07-03T00:00:00.000Z",
-      "dateModified": "2026-07-03T00:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections",
-    "url": "https://techcrunch.com/2026/07/02/thiel-capitals-jack-selby-nabs-stakes-in-hot-startups-like-etched-through-arizona-connections/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Jack-Selby.jpeg?w=142",
-    "tag": "Tech",
-    "date": "2026-07-02T21:57:10.000Z",
-    "description": "\nNvidia competitor Etched announced this week that TSMC had manufactured its first chip earlier this year. While the four-year-old startup valued at $",
-    "body": "\nNvidia competitor Etched announced this week that TSMC had manufactured its first chip earlier this year. While the four-year-old startup valued at $5 billion is getting ready to ship systems powered by that chip to customers later this summer, scaling production may prove challenging. Like other chip designers, Etched must compete for limited capacity at TSMC’s Taiwan factories.\nCopper Sky Capital, one of Etched’s early investors, is hopeful that the chipmaker will find a solution to its manufacturing constraints by eventually producing chips at Arizona’s TSMC facility. When the four-year-old VC firm invested in Etched’s $120 million Series A two years ago, founder Jack Selby secured an allocation in part by promising to help the startup eventually reshore its chip fabrication to Arizona.\nSelby, a former PayPal exec and longtime managing director to Peter Thiel’s family office, Thiel Capital, founded Phoenix-based Copper Sky in 2021 (formerly known as AZ-VC). The firm’s first $115 million fund focused primarily on startups based in Arizona and the Southwest. Selby’s thesis was that most coastal startups, particularly those based in California, Massachusetts, and New York, are grossly overpriced compared to companies popping up in his region. However, Selby saw an opportunity to bridge the gap in the other direction by helping California-based hardware startups move their production to Arizona.\nSelby credits Copper Sky’s investment in Etched — an otherwise hard-to-access startup — to his influential role in Arizona’s economy. As a board member of the Arizona Commerce Authority, Selby is deeply involved in recruiting out-of-state businesses to set up manufacturing operations in the region.\n“When Copper Sky invested with Etched, the company clearly understood our connectivity to the Arizona semiconductor industry, and in particular the local TSMC GIGAFAB,” Selby told TechCrunch.\nWhile Copper Sky has recently expanded its focus beyond the Southwest to include nontraditional venture hubs nationwide, Selby said that the firm is also interested in backing hardware companies, including in the defense sector, that can set up manufacturing operations in Arizona. \nThe firm is expected to soon have more capital to invest in those higher-priced coastal companies, and those throughout the United States. Copper Sky is currently raising a $300 million second fund, according to a regulatory filing.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tMarina Temkin is a venture capital and startups reporter at TechCrunch. Prior to joining TechCrunch, she wrote about VC for PitchBook and Venture Capital Journal. Earlier in her career, Marina was a financial analyst and earned a CFA charterholder designation.\r\nYou can contact or verify outreach from Marina by emailing marina.temkin@techcrunch.com or via encrypted message at +1 347-683-3909 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/07/Jack-Selby.jpeg?w=142"
-      ],
-      "datePublished": "2026-07-02T21:57:10.000Z",
-      "dateModified": "2026-07-02T21:57:10.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Private space pilots are flying orbital missions for the US Space Force",
-    "url": "https://techcrunch.com/2026/07/02/private-space-pilots-are-flying-orbital-missions-for-the-us-space-force/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Jackal_1.png?w=150",
-    "tag": "Tech",
-    "date": "2026-07-02T23:01:06.000Z",
-    "description": "\nMilitaries routinely send satellites to fly by rival vehicles and suss out their capabilities, but scaling up this kind of reconnaissance is increasi",
-    "body": "\nMilitaries routinely send satellites to fly by rival vehicles and suss out their capabilities, but scaling up this kind of reconnaissance is increasingly seen by the U.S. military as a challenge best handled by the private sector.\nThat’s why two space startups, True Anomaly and Rocket Lab, completed a rendezvous mission for the U.S. Space Force last week so complex, it was like something out of “Top Gun.” Their two rival satellites met up in orbit, close enough for one to capture imagery of the other.\nThe exercise, dubbed Victus Haze, demonstrated the close inspection of a space vehicle soon after it arrived in orbit, a necessity in a world where the U.S., Russia, and China are deploying novel space weapons.\n“China and Russia launch capabilities to space on a regular basis, and part of the Space Force’s job is to understand what those capabilities are,” True Anomaly CEO Even Rogers, a veteran of the U.S. military’s space efforts, told TechCrunch. “Right now we have gaps in our collection capability.”\nThe June mission saw Rocket Lab, a rocket-building rival to SpaceX that recently announced its acquisition of Iridium, launch a spacecraft called Puma just 16 hours and 42 minutes after receiving notice, which is notable because most rocket launches are buttoned up months in advance.\nA Jackal spacecraft built by True Anomaly was waiting in orbit to intercept it. As part of the exercise, the company didn’t know where Puma would arrive in space but used onboard sensors to find and identify its target from 2,000 kilometers away. The Jackal then flew close to the target — exactly how close is classified — and orbited it, capturing imagery of different parts of the vehicle, before returning to its starting point in orbit.\nTrue Anomaly’s CEO said that, outside of NASA and Space Force space flight missions with humans, “this is probably the most complex rendezvous and proximity operation between two spacecraft in modern history.”\nBringing together two spacecraft in orbit, where they’re both moving at speeds approaching 17,500 mph, is no easy feat. Previous private demonstrations, like those performed by Northrop Grumman’s maintenance satellites or Astroscale’s orbital garbage hunting missions, operate on slower time frames.\nAnd now things get interesting: The two companies are prepared to perform new exercises in the weeks ahead with increasing difficulty, which could include Rocket Lab’s Puma trying to evade True Anomaly’s Jackal and performing its own inspection maneuvers.\nFounded in 2022 by Rogers and a cadre of former military space experts, True Anomaly planned to build both the hardware and software to enable the new tasks assigned to the U.S. Space Force when it was created in 2019. After several years of development missions, last month’s demonstration has begun to realize that vision.\n“That’s the secret sauce of this company,” said Seth Winterroth, a partner at Eclipse Ventures who sits on True Anomaly’s board. “It’s not one spacecraft architecture or one piece of software or a certain set of payloads — it’s a deep, deep understanding of what tactics and doctrine look like in this domain.”\nTrue Anomaly has raised just over $1 billion, including a $650 million round in March. Now the company will look to compete for a number of task orders, particularly in the Space Force’s $6.2 billion Andromeda program, which looks to the private sector for exactly this kind of maneuverable reconnaissance.\n“Flight heritage is everything, and demonstrated capability is what speaks the loudest with these opportunities,” Rogers said. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tTim Fernholz is a journalist who writes about technology, finance and public policy. He has closely covered the rise of the private space industry and is the author of  Rocket Billionaires: Elon Musk, Jeff Bezos and the New Space Race. Formerly, he was a senior reporter at Quartz, the global business news site, for more than a decade, and began his career as a political reporter in Washington, D.C. \nYou can contact or verify outreach from Tim by emailing tim.fernholz@techcrunch.com or via an encrypted message to tim_fernholz.21 on Signal.\r\n\t\n\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Private space pilots are flying orbital missions for the US Space Force",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/07/Jackal_1.png?w=150"
-      ],
-      "datePublished": "2026-07-02T23:01:06.000Z",
-      "dateModified": "2026-07-02T23:01:06.000Z",
       "author": [
         {
           "@type": "Person",
@@ -316,6 +241,81 @@
       ],
       "datePublished": "2026-07-02T20:42:48.000Z",
       "dateModified": "2026-07-02T20:42:48.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Last chance to apply — Startup Battlefield Australia applications close July 6",
+    "url": "https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/11/54889393608_2493644601_o-2.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-07-03T00:00:00.000Z",
+    "description": "\nEvery startup has a moment that changes everything.\nFor some, it’s landing their first customer. For others, it’s closing their first funding round.\n",
+    "body": "\nEvery startup has a moment that changes everything.\nFor some, it’s landing their first customer. For others, it’s closing their first funding round.\nFor a select few, it starts with one pitch.\nIf you’re going to apply for Startup Battlefield Australia, now is the time. Applications close July 6, and once the deadline passes, the opportunity is gone.\nWho should apply?\nIf you’re an early-stage startup in Australia or New Zealand, this opportunity was built for you.\nWe’re looking for founders who are:\n\nPre-seed to Series B.\nBuilding a real product with early traction.\nSolving meaningful problems with innovative technology.\nReady to introduce their company to investors, media, and the broader startup ecosystem.\n\nYou don’t need to be famous.\nIn fact, that’s the point.\nStartup Battlefield exists to discover the next breakout company before everyone else does.\nWhat’s at stake?\nOn August 19, 2026, eight selected startups will take the stage live at Stripe Tour Sydney in front of leading investors, global media, and Australia’s technology community.\nThe top three startups will receive up to $15,000 in Stripe fee credits.\nThe grand prize goes even further.\nThe winner receives automatic entry into Startup Battlefield 200 at TechCrunch Disrupt 2026 — one of the world’s most prestigious startup competitions — in San Francisco this October.\nThe countdown is on\nThe application window is almost closed.\nWhen the deadline passes, there are no extensions, no second chances, and no late submissions.\nIf you’ve been thinking about applying, don’t spend another day wondering, “What if?”\nSubmit your application now and give your startup the opportunity to become the next company everyone is talking about.\nApplications close July 6\nDon’t let this opportunity become the one that got away.\nApply now\nFree to apply • No equity taken • Live in Sydney on August 19, 2026.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tIsabelle leads Startup Battlefield, TechCrunch’s iconic launchpad and competition for the world’s most promising early-stage startups.\r\nYou can contact or verify outreach from Isabelle by emailing isabelle.johannessen@techcrunch.com.\r\n\r\nShe scouts top founders across 99+ countries and prepares them to pitch on the Disrupt stage in front of tier-one investors and global media. Before TechCrunch, she designed and led international startup acceleration programs across Japan, Korea, Italy, and Spain—connecting global founders with VCs and helping them successfully enter the U.S. market. With a Master’s in Entrepreneurship & Disruptive Innovation—and a past life as a professional singer—she brings a blend of strategic rigor and stage presence to help founders craft compelling stories and stand out in crowded markets.\n\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Last chance to apply — Startup Battlefield Australia applications close July 6",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/11/54889393608_2493644601_o-2.jpg?w=150"
+      ],
+      "datePublished": "2026-07-03T00:00:00.000Z",
+      "dateModified": "2026-07-03T00:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Private space pilots are flying orbital missions for the US Space Force",
+    "url": "https://techcrunch.com/2026/07/02/private-space-pilots-are-flying-orbital-missions-for-the-us-space-force/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Jackal_1.png?w=150",
+    "tag": "Tech",
+    "date": "2026-07-02T23:01:06.000Z",
+    "description": "\nMilitaries routinely send satellites to fly by rival vehicles and suss out their capabilities, but scaling up this kind of reconnaissance is increasi",
+    "body": "\nMilitaries routinely send satellites to fly by rival vehicles and suss out their capabilities, but scaling up this kind of reconnaissance is increasingly seen by the U.S. military as a challenge best handled by the private sector.\nThat’s why two space startups, True Anomaly and Rocket Lab, completed a rendezvous mission for the U.S. Space Force last week so complex, it was like something out of “Top Gun.” Their two rival satellites met up in orbit, close enough for one to capture imagery of the other.\nThe exercise, dubbed Victus Haze, demonstrated the close inspection of a space vehicle soon after it arrived in orbit, a necessity in a world where the U.S., Russia, and China are deploying novel space weapons.\n“China and Russia launch capabilities to space on a regular basis, and part of the Space Force’s job is to understand what those capabilities are,” True Anomaly CEO Even Rogers, a veteran of the U.S. military’s space efforts, told TechCrunch. “Right now we have gaps in our collection capability.”\nThe June mission saw Rocket Lab, a rocket-building rival to SpaceX that recently announced its acquisition of Iridium, launch a spacecraft called Puma just 16 hours and 42 minutes after receiving notice, which is notable because most rocket launches are buttoned up months in advance.\nA Jackal spacecraft built by True Anomaly was waiting in orbit to intercept it. As part of the exercise, the company didn’t know where Puma would arrive in space but used onboard sensors to find and identify its target from 2,000 kilometers away. The Jackal then flew close to the target — exactly how close is classified — and orbited it, capturing imagery of different parts of the vehicle, before returning to its starting point in orbit.\nTrue Anomaly’s CEO said that, outside of NASA and Space Force space flight missions with humans, “this is probably the most complex rendezvous and proximity operation between two spacecraft in modern history.”\nBringing together two spacecraft in orbit, where they’re both moving at speeds approaching 17,500 mph, is no easy feat. Previous private demonstrations, like those performed by Northrop Grumman’s maintenance satellites or Astroscale’s orbital garbage hunting missions, operate on slower time frames.\nAnd now things get interesting: The two companies are prepared to perform new exercises in the weeks ahead with increasing difficulty, which could include Rocket Lab’s Puma trying to evade True Anomaly’s Jackal and performing its own inspection maneuvers.\nFounded in 2022 by Rogers and a cadre of former military space experts, True Anomaly planned to build both the hardware and software to enable the new tasks assigned to the U.S. Space Force when it was created in 2019. After several years of development missions, last month’s demonstration has begun to realize that vision.\n“That’s the secret sauce of this company,” said Seth Winterroth, a partner at Eclipse Ventures who sits on True Anomaly’s board. “It’s not one spacecraft architecture or one piece of software or a certain set of payloads — it’s a deep, deep understanding of what tactics and doctrine look like in this domain.”\nTrue Anomaly has raised just over $1 billion, including a $650 million round in March. Now the company will look to compete for a number of task orders, particularly in the Space Force’s $6.2 billion Andromeda program, which looks to the private sector for exactly this kind of maneuverable reconnaissance.\n“Flight heritage is everything, and demonstrated capability is what speaks the loudest with these opportunities,” Rogers said. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tTim Fernholz is a journalist who writes about technology, finance and public policy. He has closely covered the rise of the private space industry and is the author of  Rocket Billionaires: Elon Musk, Jeff Bezos and the New Space Race. Formerly, he was a senior reporter at Quartz, the global business news site, for more than a decade, and began his career as a political reporter in Washington, D.C. \nYou can contact or verify outreach from Tim by emailing tim.fernholz@techcrunch.com or via an encrypted message to tim_fernholz.21 on Signal.\r\n\t\n\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Private space pilots are flying orbital missions for the US Space Force",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/07/Jackal_1.png?w=150"
+      ],
+      "datePublished": "2026-07-02T23:01:06.000Z",
+      "dateModified": "2026-07-02T23:01:06.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections",
+    "url": "https://techcrunch.com/2026/07/02/thiel-capitals-jack-selby-nabs-stakes-in-hot-startups-like-etched-through-arizona-connections/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Jack-Selby.jpeg?w=142",
+    "tag": "Tech",
+    "date": "2026-07-02T21:57:10.000Z",
+    "description": "\nNvidia competitor Etched announced this week that TSMC had manufactured its first chip earlier this year. While the four-year-old startup valued at $",
+    "body": "\nNvidia competitor Etched announced this week that TSMC had manufactured its first chip earlier this year. While the four-year-old startup valued at $5 billion is getting ready to ship systems powered by that chip to customers later this summer, scaling production may prove challenging. Like other chip designers, Etched must compete for limited capacity at TSMC’s Taiwan factories.\nCopper Sky Capital, one of Etched’s early investors, is hopeful that the chipmaker will find a solution to its manufacturing constraints by eventually producing chips at Arizona’s TSMC facility. When the four-year-old VC firm invested in Etched’s $120 million Series A two years ago, founder Jack Selby secured an allocation in part by promising to help the startup eventually reshore its chip fabrication to Arizona.\nSelby, a former PayPal exec and longtime managing director to Peter Thiel’s family office, Thiel Capital, founded Phoenix-based Copper Sky in 2021 (formerly known as AZ-VC). The firm’s first $115 million fund focused primarily on startups based in Arizona and the Southwest. Selby’s thesis was that most coastal startups, particularly those based in California, Massachusetts, and New York, are grossly overpriced compared to companies popping up in his region. However, Selby saw an opportunity to bridge the gap in the other direction by helping California-based hardware startups move their production to Arizona.\nSelby credits Copper Sky’s investment in Etched — an otherwise hard-to-access startup — to his influential role in Arizona’s economy. As a board member of the Arizona Commerce Authority, Selby is deeply involved in recruiting out-of-state businesses to set up manufacturing operations in the region.\n“When Copper Sky invested with Etched, the company clearly understood our connectivity to the Arizona semiconductor industry, and in particular the local TSMC GIGAFAB,” Selby told TechCrunch.\nWhile Copper Sky has recently expanded its focus beyond the Southwest to include nontraditional venture hubs nationwide, Selby said that the firm is also interested in backing hardware companies, including in the defense sector, that can set up manufacturing operations in Arizona. \nThe firm is expected to soon have more capital to invest in those higher-priced coastal companies, and those throughout the United States. Copper Sky is currently raising a $300 million second fund, according to a regulatory filing.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tMarina Temkin is a venture capital and startups reporter at TechCrunch. Prior to joining TechCrunch, she wrote about VC for PitchBook and Venture Capital Journal. Earlier in her career, Marina was a financial analyst and earned a CFA charterholder designation.\r\nYou can contact or verify outreach from Marina by emailing marina.temkin@techcrunch.com or via encrypted message at +1 347-683-3909 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/07/Jack-Selby.jpeg?w=142"
+      ],
+      "datePublished": "2026-07-02T21:57:10.000Z",
+      "dateModified": "2026-07-02T21:57:10.000Z",
       "author": [
         {
           "@type": "Person",
