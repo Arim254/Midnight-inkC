@@ -25,22 +25,72 @@
     }
   },
   {
-    "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
-    "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/69c14912d8f2b4b74d7b13ba_Copy-of-Red-Yellow-Retro-Vibrant-2025-Monthly-Calendar-1280-x-720-px-1200-x-630-px-8.jpeg?w=150",
+    "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
+    "url": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/04/53679979052_da1066fe91_o.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-07-14T00:00:00.000Z",
-    "description": "\nSingapore-based video-generation startup PixVerse said today that it has closed its Series C extension, with a total of $439 million raised in the ro",
-    "body": "\nSingapore-based video-generation startup PixVerse said today that it has closed its Series C extension, with a total of $439 million raised in the round. The company told TechCrunch that, with the new tranche of funding, its valuation has crossed over $2 billion. With the cash, the company aims to expand its world model offering and reach customers across geographies.\nThe company closed its initial Series C round in March, led by CDH Investments. While it didn’t disclose the funding amount, Bloomberg reported it to be in the range of $300 million. PixVerse said that investors in the extension round include Alibaba, Lollapalooza Capital, Ivy Capital, Grand Mount Capital, Eastern Bell Capital, Mirae Asset, BlueFocus, and CloudAlpha, joining returning investors iGlobe Partners and OCBC’s Lion X Ventures.\nThe company was founded by Wang Changhu and Jaden Xie in 2023. Changhu previously worked at ByteDance on computer vision, and Xie was an executive director at investment firm Lighthouse Capital. \nPixVerse offers multiple models, including a V-Series video model for consumer and API use, a C-Series video model for professional film and commercial workflows, and an R-Series of world models for game development and world building, which was released earlier this year.\nThrough its tool, users can generate videos in up to 4k resolution with audio baked in. The startup said that its consumer product has over 150 million registered users and over 15 million monthly active users. The company declined to specify how many of them are paying users but it offers a competitive rate of $4.80 per minute of generation for image-to-video.\nXie believes that despite the huge opportunity for video generation to succeed, only a few companies are making progress in the market.\n“OpenAI exited the business when they shut down Sora 2. Other companies like Meta and Tencent are not able to create high-quality video models. So there are only a few companies that can meet the quality bar,” he told TechCrunch.\nHe said that there is equal opportunity in the consumer and enterprise markets as users are creating videos for fun and also consuming short video content made with AI, while enterprises are using video generation for creative, learning, and marketing use cases.\nHowever, saying that the startup’s model produces a “high-quality” output is hardly a unique qualifier. Xie mentioned that its core strength lies in labeling. \n“We think the key difference is not in data, but how you label it, because data is available everywhere. My co-founder worked at ByteDance, where he built core visual understanding technology behind TikTok using AI. Using this tech, TikTok was able to label data accurately and build a strong recommendation algorithm. This experience comes in handy when building a video-generation platform,” Xie said.\nThe company has big ambitions this year. It wants to expand its enterprise outreach across the globe. The startup already has a deal with its investor Alibaba to deploy the video-generation features.\nIn terms of product rollout, it plans to launch a new V-Series model for video generation and release a new version of its world model this year. It has 150 employees across offices in Singapore, Beijing, and Shanghai. With the new funding, PixVerse aims to hire more researchers and people in go-to-market function.\nDespite its confidence in its own models and products, the video market is heating up. There are players like ByteDance with its Seedance model, former Tencent AI head Dr. Wei Liu’s Video Rebirth, and Kling AI from Asia. In the West, there are competitors like Midjourney, Runway, and Luma. Multiple companies, including Yann LeCun’s and Fei-Fei Li’s startups, are building world models.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-07-14T02:46:42.000Z",
+    "description": "\nA pattern is emerging among people who’ve already made it big. They’re rolling up their sleeves again, seemingly out of fear of missing AI’s defining",
+    "body": "\nA pattern is emerging among people who’ve already made it big. They’re rolling up their sleeves again, seemingly out of fear of missing AI’s defining moment and, presumably, the irresistible allure of making even more money — potentially a lot more.\nTom Blomfield, who co-founded GoCardless and Monzo before spending 4.5 years mentoring founders as a Y Combinator Group Partner, announced on Monday that he is taking a leave of absence to join Anthropic’s compute team — not as an executive, but as a member of technical staff.\nHe’s not alone in making that kind of move. Instagram co-founder Mike Krieger joined Anthropic as Chief Product Officer in 2024, and Andrej Karpathy, a founding member of OpenAI who went on to lead AI at Tesla and start his own company, Eureka Labs, joined Anthropic’s pre-training team in May, framing the decision almost identically to Blomfield’s, writing that “the next few years at the frontier of LLMs will be especially formative.”\nNot everyone is joining someone else’s lab. Chamath Palihapitiya, the “SPAC King” who has mostly stuck to boardrooms and all things “All In” since leaving Facebook in 2011, just took his first full-time operating role in over a decade as CEO of 8090 Labs, his enterprise AI coding startup, which he announced a couple of weeks ago along with a $135 million Series A led by Salesforce Ventures. Wrote Palihapitiya on X,  “I am convinced that what we are building now is even more important, so there was no decision to make except to be all in.”\nSimilarly, Eric Wu, who ran Opendoor for a decade before stepping back in 2023, recently launched NavigateAI, an AI “copilot” for construction workers, with $25 million in seed funding. Wu told me directly on a recent call about his decision to dive into an AI startup, “I knew if I looked back in 10 years and didn’t do something related to it, I would probably regret that.”\nThe clearest sign of how keen people who’ve already “made it” are to work on what they view as the still-early-innings of AI might be the job title itself. “Member of technical staff” is the deliberately flat, non-hierarchical label that Anthropic and OpenAI use for nearly everyone on their technical teams, regardless of seniority. It’s the same title Blomfield is taking. \nIt’s also the title that Peter Bailis took this March, just months after becoming Workday’s CTO, a role overseeing AI strategy across an $8 billion-revenue business. Bailis lasted less than a year before trading it for a spot at Anthropic.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tLoizos has been reporting on Silicon Valley since the late ’90s, when she joined the original Red Herring magazine. Previously the Silicon Valley Editor of TechCrunch, she was named Editor in Chief and General Manager of TechCrunch in September 2023. She’s also the founder of StrictlyVC, a daily e-newsletter and lecture series acquired by Yahoo in August 2023 and now operated as a sub brand of TechCrunch.\nYou can contact or verify outreach from Connie by emailing connie@strictlyvc.com or connie@techcrunch.com, or via encrypted message at ConnieLoizos.53 on Signal.\r\n\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+      "headline": "Already rich, already successful, why the last wave of tech winners is grinding again",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/07/69c14912d8f2b4b74d7b13ba_Copy-of-Red-Yellow-Retro-Vibrant-2025-Monthly-Calendar-1280-x-720-px-1200-x-630-px-8.jpeg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2024/04/53679979052_da1066fe91_o.jpg?w=150"
       ],
-      "datePublished": "2026-07-14T00:00:00.000Z",
-      "dateModified": "2026-07-14T00:00:00.000Z",
+      "datePublished": "2026-07-14T02:46:42.000Z",
+      "dateModified": "2026-07-14T02:46:42.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Pinwheel launches a retro-inspired landline phone for kids",
+    "url": "https://techcrunch.com/2026/07/14/pinwheel-launches-a-retro-inspired-landline-phone-for-kids/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Pinwheel-Home_Classic_White-w-Stickers-on-Table.png?w=150",
+    "tag": "Tech",
+    "date": "2026-07-14T09:00:00.000Z",
+    "description": "\nIf you remember racing home after school to grab the family landline and call your best friend before dinner, a new device from Pinwheel is aiming to",
+    "body": "\nIf you remember racing home after school to grab the family landline and call your best friend before dinner, a new device from Pinwheel is aiming to reboot that experience for a new generation.\nThe kid-focused tech company announced Tuesday the launch of Pinwheel Home, a modern take on the classic household phone designed to let children stay connected without the distractions of a smartphone.\nPinwheel is positioning the phone as an intro to phones for children ages 5 to 10 before they’re ready for a smartphone. The company already sells kid-friendly smartphones and launched a smartwatch last year.\nImage Credits:Pinwheel\nInstead of texting or doomscrolling on social media, Pinwheel Home is built solely for voice calls. The company says the phone encourages more meaningful, one-on-one conversations while giving kids the independence to call friends and family and practice basic phone skills without borrowing a parent’s device.\nThe launch comes as more parents look for ways to cut back on their children’s screen time amid growing concerns about technology’s impact on their development. Studies have linked excessive screen time to emotional, behavioral, and social challenges. Plus, recent research from the University of Georgia found that children who spend more time on social media tend to show weaker vocabulary development over time, including greater difficulty recognizing and pronouncing words.\nNotably, while Pinwheel Home looks like a traditional landline, it operates over Wi-Fi, eliminating the need for a phone jack. It comes in two models. The Spark starts at $68 and comes in white, black, blue and purple. The Classic costs $79 and includes a retro-style handset and customizable stickers, with color options of pink, black and white.\nScreenshotImage Credits:Pinwheel\nFor safety purposes, parents control the device through Pinwheel’s Caregiver Portal, where they can approve contacts, block unknown callers, spam and robocalls, and set calling schedules and time limits. Speed dial and voicemail are also available. \nThe company notes that future updates will introduce three-way calling and allow Pinwheel Home to integrate with its watches and smartphones, enabling children to use the same phone number across devices while still limiting screen time at home.\nCountries like Australia have restricted social media access for children, and the U.K. has announced plans for similar measures.\nThe device also joins other screen-free communication products for kids, competing with Tin Can, a $100 Wi-Fi-enabled landline that allows parents to manage approved contacts through a companion app. \nCalls between Pinwheel Home devices are free through the company’s Pinwheel Circle service. Families who want to call standard phone numbers can choose plans starting at $6.99 per month for up to five approved contacts or $9.99 per month for unlimited calling. (For comparison, calls between Tin Can devices are also free, while its friends and family plan is $9.99 per month.) \nPinwheel Home is available now through the company’s website and is expected to launch on Amazon this fall.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tLauren covers media, streaming, apps and platforms at TechCrunch.\nYou can contact or verify outreach from Lauren by emailing laurenf.techcrunch@gmail.com or via encrypted message at laurenforris22.25 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Pinwheel launches a retro-inspired landline phone for kids",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/07/Pinwheel-Home_Classic_White-w-Stickers-on-Table.png?w=150"
+      ],
+      "datePublished": "2026-07-14T09:00:00.000Z",
+      "dateModified": "2026-07-14T09:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+    "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-07-13T15:34:59.000Z",
+    "description": "\nAnthropic has started localizing Claude’s pricing in India, its biggest market outside the U.S., as global AI companies increasingly tailor their off",
+    "body": "\nAnthropic has started localizing Claude’s pricing in India, its biggest market outside the U.S., as global AI companies increasingly tailor their offerings to win users in the world’s most populous nation.\nLocal pricing has begun to appear for some users in India on Claude’s website and mobile apps. However, Anthropic has yet to enable payments via the Unified Payments Interface (UPI), India’s widely used instant payments network. Users still need to pay by card or through Apple’s and Google’s app store billing systems. This is unlike OpenAI, which rolled out Indian rupee pricing for ChatGPT in August with UPI support.\nClaude users in India have long sought rupee-denominated subscriptions, with dollar pricing and currency conversion adding friction to accessing the service. The move is particularly significant, as India accounts for 5.8% of global Claude usage, making it the service’s second-largest market after the U.S., according to Anthropic.\nOn Claude’s website in India, Anthropic is listing Claude Pro at ₹2,000 (about $21) a month when billed annually, compared with $17 a month in the U.S. Claude Max starts at ₹11,999 (around $125) a month in India, versus $100 in the U.S., while Team plans start at ₹2,399 (around $25) per seat a month, compared with $20 in the U.S. The India prices include local taxes. Moreover, prices on Claude’s mobile apps vary slightly from those listed on its website.\nClaude’s India Rupee pricing.Image Credits:Anthropic / TechCrunch\nThe Indian rupee pricing comes amid Anthropic’s growing focus on India. The Claude maker opened an office in Bengaluru in February, after announcing the move in October, and in January appointed former Microsoft India managing director Irina Ghose to lead its business in the country. Anthropic has also partnered with Indian IT services giants Infosys and Tata Consultancy Services in recent months as it looks to scale enterprise AI deployments.\nThat expansion faced a setback in June when Anthropic abruptly suspended access to its Fable 5 and Mythos 5 models for non-U.S. entities, prompting some Indian developers and startup founders to consider alternatives to American AI models. The restriction on Fable 5 has since been lifted, though access to Mythos 5 remains limited.\nIndia has become an increasingly important market for AI companies, driven by its large base of developers and technology workers. However, converting widespread usage into paid subscriptions remains a challenge in the price-sensitive market.\nAnthropic did not respond to a request for comment on the Indian rupee pricing rollout.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tJagmeet covers startups, tech policy-related updates, and all other major tech-centric developments from India for TechCrunch. He previously worked as a principal correspondent at NDTV. \r\nYou can contact or verify outreach from Jagmeet by emailing mail@journalistjagmeet.com.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=150"
+      ],
+      "datePublished": "2026-07-13T15:34:59.000Z",
+      "dateModified": "2026-07-13T15:34:59.000Z",
       "author": [
         {
           "@type": "Person",
@@ -75,6 +125,31 @@
     }
   },
   {
+    "title": "12 states sue to block Paramount’s $110B Warner Bros. deal",
+    "url": "https://techcrunch.com/2026/07/13/12-states-sue-to-block-paramounts-110b-warner-bros-deal/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/05/ViacomCBS-rebrands-to-Paramount.png?w=150",
+    "tag": "Tech",
+    "date": "2026-07-13T17:00:14.000Z",
+    "description": "\nA coalition of 12 state attorneys general is filing a lawsuit to block the merger of Paramount Skydance and Warner Bros. Discovery (WBD), alleging th",
+    "body": "\nA coalition of 12 state attorneys general is filing a lawsuit to block the merger of Paramount Skydance and Warner Bros. Discovery (WBD), alleging that the deal would harm movie theaters, basic cable distributors, and audiences.\nThe coalition, led by California Attorney General Rob Bonta, argues that the acquisition violates the Clayton Act, which prohibits mergers that may substantially lessen competition or tend to create a monopoly. The attorneys general allege that if the two companies are allowed to merge, it would lessen competition in three areas: wide release theatrical film distribution, “top-grossing” theatrical distribution, and basic cable licensing. \nThe deal would combine two notable film studios as well as streaming platforms Paramount+ and HBO Max. It would also create one of the largest portfolios of television networks, bringing together Paramount’s CBS and MTV with WBD’s CNN and HBO.\nThe proposed acquisition has already received scrutiny from filmmakers, actors, and industry professionals who have argued that the deal would reduce competition and further consolidate the U.S. media industry. Paramount has argued against this, saying the combined film studios ​would release 30 ​movies a year.\nThe states argue that, if approved, the deal would give Paramount significant control over key areas of the entertainment industry, including 27% of the U.S. film distribution market, 30% of blockbuster movie distribution, and 27% of the basic cable channel market. \n“Consolidation here not only leads to higher prices — it also leads to fewer opportunities for important stories to come to life, and fewer ways for audiences to encounter stories, ideas, and perspectives beyond their own experiences,” Bonta said in a statement. “In this country, no one is above the law. With this lawsuit, California and our sister states are fighting for free and fair markets, not rigged markets. America has no kings in government or our economy.”\nParamount CEO David Ellison had said in May that the transaction was on track to close by September. The deal received approval from WBD shareholders in April, and has been cleared by the U.S. Department of Justice, which said the transaction is not likely to result in harm to competition or consumers.\nThe 11 states joining California are Arizona, Colorado, Connecticut, Massachusetts, Minnesota, Nevada, New Jersey, New Mexico, New York, Oregon, and Washington.\nParamount and WBD did not immediately respond to TechCrunch’s requests for comment. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing aisha@techcrunch.com or via encrypted message at aisha_malik.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "12 states sue to block Paramount’s $110B Warner Bros. deal",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2022/05/ViacomCBS-rebrands-to-Paramount.png?w=150"
+      ],
+      "datePublished": "2026-07-13T17:00:14.000Z",
+      "dateModified": "2026-07-13T17:00:14.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
     "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/02/GjsjauvbsAAgUtD.jpeg?w=150",
@@ -91,6 +166,31 @@
       ],
       "datePublished": "2026-07-13T23:31:18.000Z",
       "dateModified": "2026-07-13T23:31:18.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "SpaceX cleared to fly Starship again after booster failure in May",
+    "url": "https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/20260511_Wet_Dress_Actual_2_259bcb3ae9.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-07-13T14:19:44.000Z",
+    "description": "\nThe Federal Aviation Administration (FAA) has cleared SpaceX to fly Starship prototypes again, after the company identified the probable cause of the",
+    "body": "\nThe Federal Aviation Administration (FAA) has cleared SpaceX to fly Starship prototypes again, after the company identified the probable cause of the failure of the rocket system’s booster stage during a flight in May. \nSpaceX said over the weekend that the next flight of Starship could happen as soon as this Thursday, July 16. It would be the second-ever launch of the third version, or V3, of Starship. SpaceX also said that this Starship will carry the first third-generation Starlink satellites to space. Previously, Starship had only carried dummy versions of the larger, more powerful internet satellites.\nThis is SpaceX’s second test flight of its Starship system, and its first as a public company, testing the market’s appetite for the company’s “fly, fail, fix” approach to rocket development that often ends in fireballs — or, as CEO Elon Musk calls the explosions: “rapid unscheduled disassembly.” SpaceX completed its IPO and publicly listed on the Nasdaq Stock Exchange on June 12, making it one of the 10 most valuable companies in the world and raising nearly $86 billion, a record.\nSpaceX’s first test launch of the V3 Starship on May 22 was largely successful. The company’s Super Heavy booster lifted the 407-foot rocket into space before the upper stage section separated and deployed 20 satellite simulators along with two modified Starlinks that recorded footage of the Starship exterior.\nThe new third-generation booster was supposed to return to Earth and perform a simulated landing in the Gulf of Mexico. But its engines didn’t properly re-ignite, and it instead plummeted into the water below. \nThe problem happened at that moment of booster separation, according to SpaceX and the FAA. SpaceX said in a post published over the weekend that “slight differences in engine startup on the ship” caused the Booster to turn 90 degrees in the wrong direction. SpaceX said it has modified this engine startup sequence to allow the booster to “more reliably flip in the desired direction” and that the booster has been modified to “improve re-light reliability.”\nThe FAA said in a statement Monday that the most probable root causes of the Super Heavy booster failure were “heat effects on propulsion system components during the [rocket’s] ascent and erroneous engine alarm system settings.” SpaceX said in its post that it has made changes to Starship’s engine alarm and abort systems that should reduce the chance of a similar failure in the future.\nWhile the first upper stage of Starship V3 was able to successfully deploy its test payload in May and simulate a landing in the Gulf — a milestone SpaceX had struggled to reach before — it also did so while losing one of the three Raptor engines that are meant to be used in the vacuum of space. SpaceX said over the weekend that it has made “[s]everal hardware and operational modifications” to prevent this from happening again.\nThis next Starship test flight will see the company launch the first of its V3 Starlink satellites to space, which are supposed to increase the satellite network’s capacity and user speeds. SpaceX is planning to deploy 20 of these new satellites during the launch. They are designed to connect with the larger Starlink constellation “via high-capacity lasers” and then burn up in the atmosphere roughly 20 minutes after they are deployed, according to SpaceX. Six of them will be equipped with cameras to photograph the exterior of Starship.\nThe V3 versions of both Starship and Starlink are crucial to SpaceX’s future. Starlink was the only profitable part of SpaceX’s business in the run-up to its IPO, and SpaceX needs Starship to become a fully reusable rocket system to even attempt its galaxy-brained plans for space-based data centers and interplanetary travel.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "SpaceX cleared to fly Starship again after booster failure in May",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/05/20260511_Wet_Dress_Actual_2_259bcb3ae9.jpg?w=150"
+      ],
+      "datePublished": "2026-07-13T14:19:44.000Z",
+      "dateModified": "2026-07-13T14:19:44.000Z",
       "author": [
         {
           "@type": "Person",
@@ -150,31 +250,6 @@
     }
   },
   {
-    "title": "SpaceX cleared to fly Starship again after booster failure in May",
-    "url": "https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/20260511_Wet_Dress_Actual_2_259bcb3ae9.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-07-13T14:19:44.000Z",
-    "description": "\nThe Federal Aviation Administration (FAA) has cleared SpaceX to fly Starship prototypes again, after the company identified the probable cause of the",
-    "body": "\nThe Federal Aviation Administration (FAA) has cleared SpaceX to fly Starship prototypes again, after the company identified the probable cause of the failure of the rocket system’s booster stage during a flight in May. \nSpaceX said over the weekend that the next flight of Starship could happen as soon as this Thursday, July 16. It would be the second-ever launch of the third version, or V3, of Starship. SpaceX also said that this Starship will carry the first third-generation Starlink satellites to space. Previously, Starship had only carried dummy versions of the larger, more powerful internet satellites.\nThis is SpaceX’s second test flight of its Starship system, and its first as a public company, testing the market’s appetite for the company’s “fly, fail, fix” approach to rocket development that often ends in fireballs — or, as CEO Elon Musk calls the explosions: “rapid unscheduled disassembly.” SpaceX completed its IPO and publicly listed on the Nasdaq Stock Exchange on June 12, making it one of the 10 most valuable companies in the world and raising nearly $86 billion, a record.\nSpaceX’s first test launch of the V3 Starship on May 22 was largely successful. The company’s Super Heavy booster lifted the 407-foot rocket into space before the upper stage section separated and deployed 20 satellite simulators along with two modified Starlinks that recorded footage of the Starship exterior.\nThe new third-generation booster was supposed to return to Earth and perform a simulated landing in the Gulf of Mexico. But its engines didn’t properly re-ignite, and it instead plummeted into the water below. \nThe problem happened at that moment of booster separation, according to SpaceX and the FAA. SpaceX said in a post published over the weekend that “slight differences in engine startup on the ship” caused the Booster to turn 90 degrees in the wrong direction. SpaceX said it has modified this engine startup sequence to allow the booster to “more reliably flip in the desired direction” and that the booster has been modified to “improve re-light reliability.”\nThe FAA said in a statement Monday that the most probable root causes of the Super Heavy booster failure were “heat effects on propulsion system components during the [rocket’s] ascent and erroneous engine alarm system settings.” SpaceX said in its post that it has made changes to Starship’s engine alarm and abort systems that should reduce the chance of a similar failure in the future.\nWhile the first upper stage of Starship V3 was able to successfully deploy its test payload in May and simulate a landing in the Gulf — a milestone SpaceX had struggled to reach before — it also did so while losing one of the three Raptor engines that are meant to be used in the vacuum of space. SpaceX said over the weekend that it has made “[s]everal hardware and operational modifications” to prevent this from happening again.\nThis next Starship test flight will see the company launch the first of its V3 Starlink satellites to space, which are supposed to increase the satellite network’s capacity and user speeds. SpaceX is planning to deploy 20 of these new satellites during the launch. They are designed to connect with the larger Starlink constellation “via high-capacity lasers” and then burn up in the atmosphere roughly 20 minutes after they are deployed, according to SpaceX. Six of them will be equipped with cameras to photograph the exterior of Starship.\nThe V3 versions of both Starship and Starlink are crucial to SpaceX’s future. Starlink was the only profitable part of SpaceX’s business in the run-up to its IPO, and SpaceX needs Starship to become a fully reusable rocket system to even attempt its galaxy-brained plans for space-based data centers and interplanetary travel.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "SpaceX cleared to fly Starship again after booster failure in May",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/05/20260511_Wet_Dress_Actual_2_259bcb3ae9.jpg?w=150"
-      ],
-      "datePublished": "2026-07-13T14:19:44.000Z",
-      "dateModified": "2026-07-13T14:19:44.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Waze adds new AI-powered features and customization updates",
     "url": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
     "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1235613908.jpg?w=150",
@@ -200,6 +275,31 @@
     }
   },
   {
+    "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+    "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/69c14912d8f2b4b74d7b13ba_Copy-of-Red-Yellow-Retro-Vibrant-2025-Monthly-Calendar-1280-x-720-px-1200-x-630-px-8.jpeg?w=150",
+    "tag": "Tech",
+    "date": "2026-07-14T00:00:00.000Z",
+    "description": "\nSingapore-based video-generation startup PixVerse said today that it has closed its Series C extension, with a total of $439 million raised in the ro",
+    "body": "\nSingapore-based video-generation startup PixVerse said today that it has closed its Series C extension, with a total of $439 million raised in the round. The company told TechCrunch that, with the new tranche of funding, its valuation has crossed over $2 billion. With the cash, the company aims to expand its world model offering and reach customers across geographies.\nThe company closed its initial Series C round in March, led by CDH Investments. While it didn’t disclose the funding amount, Bloomberg reported it to be in the range of $300 million. PixVerse said that investors in the extension round include Alibaba, Lollapalooza Capital, Ivy Capital, Grand Mount Capital, Eastern Bell Capital, Mirae Asset, BlueFocus, and CloudAlpha, joining returning investors iGlobe Partners and OCBC’s Lion X Ventures.\nThe company was founded by Wang Changhu and Jaden Xie in 2023. Changhu previously worked at ByteDance on computer vision, and Xie was an executive director at investment firm Lighthouse Capital. \nPixVerse offers multiple models, including a V-Series video model for consumer and API use, a C-Series video model for professional film and commercial workflows, and an R-Series of world models for game development and world building, which was released earlier this year.\nThrough its tool, users can generate videos in up to 4k resolution with audio baked in. The startup said that its consumer product has over 150 million registered users and over 15 million monthly active users. The company declined to specify how many of them are paying users but it offers a competitive rate of $4.80 per minute of generation for image-to-video.\nXie believes that despite the huge opportunity for video generation to succeed, only a few companies are making progress in the market.\n“OpenAI exited the business when they shut down Sora 2. Other companies like Meta and Tencent are not able to create high-quality video models. So there are only a few companies that can meet the quality bar,” he told TechCrunch.\nHe said that there is equal opportunity in the consumer and enterprise markets as users are creating videos for fun and also consuming short video content made with AI, while enterprises are using video generation for creative, learning, and marketing use cases.\nHowever, saying that the startup’s model produces a “high-quality” output is hardly a unique qualifier. Xie mentioned that its core strength lies in labeling. \n“We think the key difference is not in data, but how you label it, because data is available everywhere. My co-founder worked at ByteDance, where he built core visual understanding technology behind TikTok using AI. Using this tech, TikTok was able to label data accurately and build a strong recommendation algorithm. This experience comes in handy when building a video-generation platform,” Xie said.\nThe company has big ambitions this year. It wants to expand its enterprise outreach across the globe. The startup already has a deal with its investor Alibaba to deploy the video-generation features.\nIn terms of product rollout, it plans to launch a new V-Series model for video generation and release a new version of its world model this year. It has 150 employees across offices in Singapore, Beijing, and Shanghai. With the new funding, PixVerse aims to hire more researchers and people in go-to-market function.\nDespite its confidence in its own models and products, the video market is heating up. There are players like ByteDance with its Seedance model, former Tencent AI head Dr. Wei Liu’s Video Rebirth, and Kling AI from Asia. In the West, there are competitors like Midjourney, Runway, and Luma. Multiple companies, including Yann LeCun’s and Fei-Fei Li’s startups, are building world models.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/07/69c14912d8f2b4b74d7b13ba_Copy-of-Red-Yellow-Retro-Vibrant-2025-Monthly-Calendar-1280-x-720-px-1200-x-630-px-8.jpeg?w=150"
+      ],
+      "datePublished": "2026-07-14T00:00:00.000Z",
+      "dateModified": "2026-07-14T00:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Should AI help you get away with killing your spouse?",
     "url": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
     "image": "https://techcrunch.com/wp-content/uploads/2017/07/fullsizerender-2.jpg?w=150",
@@ -216,81 +316,6 @@
       ],
       "datePublished": "2026-07-13T16:31:23.000Z",
       "dateModified": "2026-07-13T16:31:23.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "12 states sue to block Paramount’s $110B Warner Bros. deal",
-    "url": "https://techcrunch.com/2026/07/13/12-states-sue-to-block-paramounts-110b-warner-bros-deal/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/05/ViacomCBS-rebrands-to-Paramount.png?w=150",
-    "tag": "Tech",
-    "date": "2026-07-13T17:00:14.000Z",
-    "description": "\nA coalition of 12 state attorneys general is filing a lawsuit to block the merger of Paramount Skydance and Warner Bros. Discovery (WBD), alleging th",
-    "body": "\nA coalition of 12 state attorneys general is filing a lawsuit to block the merger of Paramount Skydance and Warner Bros. Discovery (WBD), alleging that the deal would harm movie theaters, basic cable distributors, and audiences.\nThe coalition, led by California Attorney General Rob Bonta, argues that the acquisition violates the Clayton Act, which prohibits mergers that may substantially lessen competition or tend to create a monopoly. The attorneys general allege that if the two companies are allowed to merge, it would lessen competition in three areas: wide release theatrical film distribution, “top-grossing” theatrical distribution, and basic cable licensing. \nThe deal would combine two notable film studios as well as streaming platforms Paramount+ and HBO Max. It would also create one of the largest portfolios of television networks, bringing together Paramount’s CBS and MTV with WBD’s CNN and HBO.\nThe proposed acquisition has already received scrutiny from filmmakers, actors, and industry professionals who have argued that the deal would reduce competition and further consolidate the U.S. media industry. Paramount has argued against this, saying the combined film studios ​would release 30 ​movies a year.\nThe states argue that, if approved, the deal would give Paramount significant control over key areas of the entertainment industry, including 27% of the U.S. film distribution market, 30% of blockbuster movie distribution, and 27% of the basic cable channel market. \n“Consolidation here not only leads to higher prices — it also leads to fewer opportunities for important stories to come to life, and fewer ways for audiences to encounter stories, ideas, and perspectives beyond their own experiences,” Bonta said in a statement. “In this country, no one is above the law. With this lawsuit, California and our sister states are fighting for free and fair markets, not rigged markets. America has no kings in government or our economy.”\nParamount CEO David Ellison had said in May that the transaction was on track to close by September. The deal received approval from WBD shareholders in April, and has been cleared by the U.S. Department of Justice, which said the transaction is not likely to result in harm to competition or consumers.\nThe 11 states joining California are Arizona, Colorado, Connecticut, Massachusetts, Minnesota, Nevada, New Jersey, New Mexico, New York, Oregon, and Washington.\nParamount and WBD did not immediately respond to TechCrunch’s requests for comment. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing aisha@techcrunch.com or via encrypted message at aisha_malik.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "12 states sue to block Paramount’s $110B Warner Bros. deal",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2022/05/ViacomCBS-rebrands-to-Paramount.png?w=150"
-      ],
-      "datePublished": "2026-07-13T17:00:14.000Z",
-      "dateModified": "2026-07-13T17:00:14.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
-    "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-07-13T15:34:59.000Z",
-    "description": "\nAnthropic has started localizing Claude’s pricing in India, its biggest market outside the U.S., as global AI companies increasingly tailor their off",
-    "body": "\nAnthropic has started localizing Claude’s pricing in India, its biggest market outside the U.S., as global AI companies increasingly tailor their offerings to win users in the world’s most populous nation.\nLocal pricing has begun to appear for some users in India on Claude’s website and mobile apps. However, Anthropic has yet to enable payments via the Unified Payments Interface (UPI), India’s widely used instant payments network. Users still need to pay by card or through Apple’s and Google’s app store billing systems. This is unlike OpenAI, which rolled out Indian rupee pricing for ChatGPT in August with UPI support.\nClaude users in India have long sought rupee-denominated subscriptions, with dollar pricing and currency conversion adding friction to accessing the service. The move is particularly significant, as India accounts for 5.8% of global Claude usage, making it the service’s second-largest market after the U.S., according to Anthropic.\nOn Claude’s website in India, Anthropic is listing Claude Pro at ₹2,000 (about $21) a month when billed annually, compared with $17 a month in the U.S. Claude Max starts at ₹11,999 (around $125) a month in India, versus $100 in the U.S., while Team plans start at ₹2,399 (around $25) per seat a month, compared with $20 in the U.S. The India prices include local taxes. Moreover, prices on Claude’s mobile apps vary slightly from those listed on its website.\nClaude’s India Rupee pricing.Image Credits:Anthropic / TechCrunch\nThe Indian rupee pricing comes amid Anthropic’s growing focus on India. The Claude maker opened an office in Bengaluru in February, after announcing the move in October, and in January appointed former Microsoft India managing director Irina Ghose to lead its business in the country. Anthropic has also partnered with Indian IT services giants Infosys and Tata Consultancy Services in recent months as it looks to scale enterprise AI deployments.\nThat expansion faced a setback in June when Anthropic abruptly suspended access to its Fable 5 and Mythos 5 models for non-U.S. entities, prompting some Indian developers and startup founders to consider alternatives to American AI models. The restriction on Fable 5 has since been lifted, though access to Mythos 5 remains limited.\nIndia has become an increasingly important market for AI companies, driven by its large base of developers and technology workers. However, converting widespread usage into paid subscriptions remains a challenge in the price-sensitive market.\nAnthropic did not respond to a request for comment on the Indian rupee pricing rollout.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tJagmeet covers startups, tech policy-related updates, and all other major tech-centric developments from India for TechCrunch. He previously worked as a principal correspondent at NDTV. \r\nYou can contact or verify outreach from Jagmeet by emailing mail@journalistjagmeet.com.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=150"
-      ],
-      "datePublished": "2026-07-13T15:34:59.000Z",
-      "dateModified": "2026-07-13T15:34:59.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
-    "url": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/04/53679979052_da1066fe91_o.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-07-14T02:46:42.000Z",
-    "description": "\nA pattern is emerging among people who’ve already made it big. They’re rolling up their sleeves again, seemingly out of fear of missing AI’s defining",
-    "body": "\nA pattern is emerging among people who’ve already made it big. They’re rolling up their sleeves again, seemingly out of fear of missing AI’s defining moment and, presumably, the irresistible allure of making even more money — potentially a lot more.\nTom Blomfield, who co-founded GoCardless and Monzo before spending 4.5 years mentoring founders as a Y Combinator Group Partner, announced on Monday that he is taking a leave of absence to join Anthropic’s compute team — not as an executive, but as a member of technical staff.\nHe’s not alone in making that kind of move. Instagram co-founder Mike Krieger joined Anthropic as Chief Product Officer in 2024, and Andrej Karpathy, a founding member of OpenAI who went on to lead AI at Tesla and start his own company, Eureka Labs, joined Anthropic’s pre-training team in May, framing the decision almost identically to Blomfield’s, writing that “the next few years at the frontier of LLMs will be especially formative.”\nNot everyone is joining someone else’s lab. Chamath Palihapitiya, the “SPAC King” who has mostly stuck to boardrooms and all things “All In” since leaving Facebook in 2011, just took his first full-time operating role in over a decade as CEO of 8090 Labs, his enterprise AI coding startup, which he announced a couple of weeks ago along with a $135 million Series A led by Salesforce Ventures. Wrote Palihapitiya on X,  “I am convinced that what we are building now is even more important, so there was no decision to make except to be all in.”\nSimilarly, Eric Wu, who ran Opendoor for a decade before stepping back in 2023, recently launched NavigateAI, an AI “copilot” for construction workers, with $25 million in seed funding. Wu told me directly on a recent call about his decision to dive into an AI startup, “I knew if I looked back in 10 years and didn’t do something related to it, I would probably regret that.”\nThe clearest sign of how keen people who’ve already “made it” are to work on what they view as the still-early-innings of AI might be the job title itself. “Member of technical staff” is the deliberately flat, non-hierarchical label that Anthropic and OpenAI use for nearly everyone on their technical teams, regardless of seniority. It’s the same title Blomfield is taking. \nIt’s also the title that Peter Bailis took this March, just months after becoming Workday’s CTO, a role overseeing AI strategy across an $8 billion-revenue business. Bailis lasted less than a year before trading it for a spot at Anthropic.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tLoizos has been reporting on Silicon Valley since the late ’90s, when she joined the original Red Herring magazine. Previously the Silicon Valley Editor of TechCrunch, she was named Editor in Chief and General Manager of TechCrunch in September 2023. She’s also the founder of StrictlyVC, a daily e-newsletter and lecture series acquired by Yahoo in August 2023 and now operated as a sub brand of TechCrunch.\nYou can contact or verify outreach from Connie by emailing connie@strictlyvc.com or connie@techcrunch.com, or via encrypted message at ConnieLoizos.53 on Signal.\r\n\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Already rich, already successful, why the last wave of tech winners is grinding again",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/04/53679979052_da1066fe91_o.jpg?w=150"
-      ],
-      "datePublished": "2026-07-14T02:46:42.000Z",
-      "dateModified": "2026-07-14T02:46:42.000Z",
       "author": [
         {
           "@type": "Person",
@@ -341,31 +366,6 @@
       ],
       "datePublished": "2026-07-13T18:22:10.000Z",
       "dateModified": "2026-07-13T18:22:10.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "LAPD lets contract with surveillance giant Flock expire, citing ‘serious concerns’ over civil liberties and privacy",
-    "url": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/flock-camera-2259453709.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-07-13T14:13:38.000Z",
-    "description": "\nThe Los Angeles Police Department (LAPD) is reportedly ending its deal with Flock Safety, a surveillance company that helps law enforcement track veh",
-    "body": "\nThe Los Angeles Police Department (LAPD) is reportedly ending its deal with Flock Safety, a surveillance company that helps law enforcement track vehicles using thousands of its license plate cameras placed across the United States.\nA senior LAPD official told news outlets, first reported by ABC7 and the Los Angeles Times, that the police department would allow its three-year contract with Flock to expire when it ends on Saturday. The department cited “serious concerns” around civil liberties and privacy. Flock’s cameras are operated by the Atlanta, Georgia-based company and not the LAPD.\n“This contract is not being renewed because of serious concerns around civil liberties and civil rights issues, particularly around privacy and the data that is being collected from these cameras,” LAPD’s chief information officer Dean Gialamas was quoted as saying. “The LAPD had to make a difficult decision, in this case discontinuing using Flock services until we can get those data, privacy, security and sharing concerns ironed out through a contractual relationship.”\nA spokesperson for the LAPD did not respond to a request for comment from TechCrunch over the weekend, and it’s unclear if Flock’s cameras will continue recording in absence of an active contract. According to ABC7, the police department is seeking new language in its contract addressing privacy and data storage concerns.\nAs the third-largest police department in the U.S., the LAPD is one of Flock’s largest government customers to date. Several major U.S. cities have also stopped working with Flock, including Mountain View, California and South Portland, Maine, citing privacy worries and concerns that federal immigration officials used the cameras to track people in violation of their local laws governing their sanctuary city policies.\nThe contract expiry caught the surveillance company by “surprise,” said Flock spokesperson Holly Beilin in an email to TechCrunch. Flock said it was confident that the company could “clear up the current misconceptions” that led to the contract’s end. Flock would not say which specific misconceptions it was referring to.\nFlock has a network of at least 80,000 cameras around the U.S. that scan license plates and allow police and federal agencies to track vehicles. \nThe company has faced heavy backlash from local communities that have approved and then reneged on their deals with Flock over concerns with privacy and surveillance. Some locals have taken matters into their own hands by dismantling Flock cameras and covering them with trash bags, even as some communities found that Flock reinstalled cameras without permission from local authorities.\nResearchers have identified an uptick in documented cases of motorists being pulled over, detained, and held at gunpoint by police, or jailed, due to false positives and errors with license plate readers. Last week, a journalist with car reviews and news website The Drive detailed how he was tracked for days and later boxed-in by police after a Flock camera mistakenly flagged the license plate of the on-loan review unit he was driving as stolen.\nFlock has also faced scrutiny following several security lapses that have exposed cameras and data, which in one case allowed independent news outlet 404 Media to watch themselves live on publicly exposed Flock cameras. Lawmakers have also urged federal consumer authorities to investigate Flock for failing to implement measures that would prevent hackers and spies from gaining access to its security cameras, warning that many of the police user logins are not protected with multi-factor authentication.\n404 Media also reported that the U.S. Drug Enforcement Administration used a local police officer’s password without their knowledge to search for a suspect accused of an immigration violation.\nDo you know about security or privacy issues with Flock Safety, or issues with Flock cameras in your community? We would love to hear from you. From a non-work device, you can securely contact Zack Whittaker on the Signal messaging app with the username zackwhittaker.1337.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tZack Whittaker is the security editor at TechCrunch. He also authors the weekly cybersecurity newsletter, this week in security. \nHe can be reached via encrypted message at zackwhittaker.1337 on Signal. You can also contact him by email, or to verify outreach, at zack.whittaker@techcrunch.com. \t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "LAPD lets contract with surveillance giant Flock expire, citing ‘serious concerns’ over civil liberties and privacy",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/07/flock-camera-2259453709.jpg?w=150"
-      ],
-      "datePublished": "2026-07-13T14:13:38.000Z",
-      "dateModified": "2026-07-13T14:13:38.000Z",
       "author": [
         {
           "@type": "Person",
