@@ -1,12 +1,87 @@
 [
   {
+    "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
+    "url": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Suno_1.png?w=150",
+    "tag": "Tech",
+    "date": "2026-07-15T17:00:34.000Z",
+    "description": "\nIn Brief\nPosted:\n10:00 AM PDT · July 15, 2026\n\nImage Credits:Suno (opens in a new window)\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nThe AI music gen",
+    "body": "\nIn Brief\nPosted:\n10:00 AM PDT · July 15, 2026\n\nImage Credits:Suno (opens in a new window)\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nThe AI music generator Suno was hacked, according to a report from 404 Media.\nThe hacker told the publication that they used a supply chain attack in November to access an employee’s credentials, allowing them to then access source code showing how Suno allegedly scraped decades of audio from YouTube Music, Deezer, Genius, stock music libraries, and podcast RSS feeds.\nSuno previously admitted that it trains its AI on “publicly available music files” on the open internet, arguing that it can train on copyrighted material under the fair use doctrine, a subjective carve-out of copyright law. But according to the major record labels actively suing Suno, it is illegal under the Digital Millennium Copyright Act (DMCA) to deliberately circumvent YouTube’s protections against data scraping; it also violates YouTube’s terms of service.\nUdio, a competitor to Suno, has also been accused of scraping YouTube data. Google, the parent company of YouTube, faces similar allegations of copyright infringement from a variety of major book publishers.\nThe hacker reportedly accessed customer data including customer emails, phone numbers, and partial credit card numbers in Stripe.\nSuno did not notify customers about the November 2025 breach and claims that this was a “limited security incident that was quickly contained.”\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nRelated\n\n\n\t\t\t\n\t\t\t\t\t\n\t\t\n\n\n\nLatest in AI\n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Hack suggests AI music generator Suno scraped YouTube for training data",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/06/Suno_1.png?w=150"
+      ],
+      "datePublished": "2026-07-15T17:00:34.000Z",
+      "dateModified": "2026-07-15T17:00:34.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Daniel Ek’s body-scanning startup Neko Health raises another $700M",
+    "url": "https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/09/Neko-Health-Founders-Hjalmar-Nilsonne-Daniel-Ek-1.jpeg?w=150",
+    "tag": "Tech",
+    "date": "2026-07-15T19:46:54.000Z",
+    "description": "\nIn Brief\nPosted:\n12:46 PM PDT · July 15, 2026\n\nImage Credits:Neko Health (opens in a new window) under a CC BY 2.0 (opens in a new window) license.\n\n",
+    "body": "\nIn Brief\nPosted:\n12:46 PM PDT · July 15, 2026\n\nImage Credits:Neko Health (opens in a new window) under a CC BY 2.0 (opens in a new window) license.\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nNeko Health, the body-scanning and health assessment startup founded by Spotify’s Daniel Ek (pictured above, right) and his co-founder Hjalmar Nilsonne (above, left), has raised a $700 million Series C.\nThe round was led by Lightspeed Venture Partners and O.G. Venture Partners. This follows the company’s $260 million Series B raised in January 2025.\nNeko Health has developed proprietary body-scanning technology, which it couples with bloodwork, to assess a person’s health. For gym lovers, the scan also now includes body composition information. It can couple the assessment with Apple Health data, which Nilsonne says gives its medical clinicians real-world data to use in its assessments.\nNeko Health, which has locations in the U.K. and Sweden, is preparing for its first U.S. location in New York. The company says more than 100,000 people have already had scans and more than 350,000 people have either registered for the waitlist or set an appointment.\nOne of the people who had a Neko Health scan is Calm founder Alex Tew. He posted on X that it found a malignant mole on his back, which he promptly had removed. “I’m grateful to Neko for helping me discover this – I’m not sure how I would have otherwise.”\nNeko Health isn’t the only health scanning company founded by tech folks. Midjourney, the AI Lab best known for its AI image and video creation model and website, is also creating a body scanner, which it plans to integrate into a spa experience with hot tubs and saunas, opening in San Francisco sometime in 2027.\nOther investors in Neko Health’s latest round include Atomico, General Catalyst, Lakestar, Liberty City Ventures, Positive Sum, and BDT & MSD.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Startups\n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Daniel Ek’s body-scanning startup Neko Health raises another $700M",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2024/09/Neko-Health-Founders-Hjalmar-Nilsonne-Daniel-Ek-1.jpeg?w=150"
+      ],
+      "datePublished": "2026-07-15T19:46:54.000Z",
+      "dateModified": "2026-07-15T19:46:54.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Microsoft patches bug in video game Age of Empires II",
+    "url": "https://techcrunch.com/2026/07/15/microsoft-patches-bug-in-video-game-age-of-empires-ii/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/age-of-empires-ii-microsoft.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-07-15T18:47:01.000Z",
+    "description": "\nOn Tuesday, Microsoft patched a historic record number of security bugs across its product lines, in large part due to the use of AI to help the comp",
+    "body": "\nOn Tuesday, Microsoft patched a historic record number of security bugs across its product lines, in large part due to the use of AI to help the company and external researchers discover bugs. \nAmong the fixed vulnerabilities was one for the remastered version of the classic 25-year-old war strategy video game Age of Empires II. The flaw allowed hackers to take over a victim’s computer by sending a custom malicious game invite, according to security researchers. \nA video posted on X shows how the flaw could be exploited by hackers.\n\nHere’s the Age of Empires RCE from yesterday’s Patch Tuesday: CVE-2026-50663.Join an attacker’s lobby, (auto-)accept UCG, and you get  remote code execution. pic.twitter.com/QmMkY07C8S— Rick de Jager (@rdjgr) July 15, 2026\n\nAccording to cybersecurity firm Rapid7, a successful attack would have allowed hackers to place malicious files on the victim’s computer, opening the door for the hacker to achieve the ability to run malicious code on the victim’s machine.\nThat means, effectively, the hacker could have taken over control of the hacked computer.\nThere is no evidence that this bug was successfully exploited in the wild by hackers. But targeting video gamers can be an effective way to install malware on a high number of victims’ computers and steal their passwords, for example.\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Microsoft patches bug in video game Age of Empires II",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/07/age-of-empires-ii-microsoft.jpg?w=150"
+      ],
+      "datePublished": "2026-07-15T18:47:01.000Z",
+      "dateModified": "2026-07-15T18:47:01.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Stripe and Advent reportedly offered to buy PayPal for around $53.4B",
     "url": "https://techcrunch.com/2026/07/15/stripe-and-advent-reportedly-offered-to-buy-paypal-for-around-53-4b/",
     "image": "https://techcrunch.com/wp-content/uploads/2019/02/paypal.jpg?w=150",
     "tag": "Tech",
     "date": "2026-07-15T15:30:26.000Z",
-    "description": "\nIn Brief\nPosted:\n8:30 AM PDT · July 15, 2026\n\nImage Credits:Photo by Thomas Trutschel/Photothek / Getty Images (Image has been modified)\n\n\t\t\n\t\t\t\t\t\t\t\n",
-    "body": "\nIn Brief\nPosted:\n8:30 AM PDT · July 15, 2026\n\nImage Credits:Photo by Thomas Trutschel/Photothek / Getty Images (Image has been modified)\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nStripe and private equity firm Advent International have reportedly submitted a joint bid to acquire PayPal in a deal valued at approximately $53.4 billion. \nReuters reports that the offer was submitted earlier this month and is backed by roughly $50 billion in committed bank financing. Under the proposal, Stripe and Advent would jointly own PayPal, with each holding an equal stake. \nThis isn’t the first time Stripe has been linked with a potential acquisition of the payments giant. Earlier reports in February suggested the company had been exploring a possible takeover and was engaged in preliminary discussions, although no formal proposal emerged at the time.\nIf completed, the acquisition would unite two of the biggest names in digital payments. PayPal serves around 440 million active accounts and handles roughly $1.8 trillion in payment volume during 2025. Meanwhile, businesses use Stripe to process $1.9 trillion in payments over the same period. Plus, Stripe’s valuation climbed to $159 billion earlier this year. \nPayPal has yet to respond publicly to the offer. \nThe potential deal comes at a pivotal time for PayPal. CEO Enrique Lores took over in March following a company profit warning. Since then, there have been plans to cut at least $1.5 billion in costs over the next two to three years as PayPal looks to return to stronger growth. Reports have also suggested the company intends to reduce its workforce by around 20%.\nPayPal, Stripe and Advent International did not immediately respond to our requests for comment.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Fintech\n\n",
+    "description": "\nIn Brief\nPosted:\n8:30 AM PDT · July 15, 2026\n\nImage Credits:Thomas Trutschel/Photothek / Getty Images (Image has been modified)\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t",
+    "body": "\nIn Brief\nPosted:\n8:30 AM PDT · July 15, 2026\n\nImage Credits:Thomas Trutschel/Photothek / Getty Images (Image has been modified)\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nStripe and private equity firm Advent International have reportedly submitted a joint bid to acquire PayPal in a deal valued at approximately $53.4 billion. \nReuters reports that the offer was submitted earlier this month and is backed by roughly $50 billion in committed bank financing. Under the proposal, Stripe and Advent would jointly own PayPal, with each holding an equal stake. \nThis isn’t the first time Stripe has been linked with a potential acquisition of the payments giant. Earlier reports in February suggested the company had been exploring a possible takeover and was engaged in preliminary discussions, although no formal proposal emerged at the time.\nIf completed, the acquisition would unite two of the biggest names in digital payments. PayPal serves around 440 million active accounts and handled roughly $1.8 trillion in payment volume during 2025. Meanwhile, businesses use Stripe to process $1.9 trillion in payments over the same period. Plus, Stripe’s valuation climbed to $159 billion earlier this year. \nPayPal has yet to respond publicly to the offer. \nThe potential deal comes at a pivotal time for PayPal. CEO Enrique Lores took over in March following a company profit warning. Since then, there have been plans to cut at least $1.5 billion in costs over the next two to three years as PayPal looks to return to stronger growth. Reports have also suggested the company intends to reduce its workforce by around 20%.\nPayPal, Stripe, and Advent International did not immediately respond to our requests for comment.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Fintech\n\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
@@ -25,38 +100,13 @@
     }
   },
   {
-    "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
-    "url": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/07/windows-zero-day-exploit.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-07-15T16:20:18.000Z",
-    "description": "\nIn Brief\nPosted:\n9:20 AM PDT · July 15, 2026\n\nImage Credits:Microsoft / PhotoMosh (edited)\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nMicrosoft relea",
-    "body": "\nIn Brief\nPosted:\n9:20 AM PDT · July 15, 2026\n\nImage Credits:Microsoft / PhotoMosh (edited)\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nMicrosoft released a record number of security patches for Windows, Office, and other tech product lines this week, citing the use of AI to aid the discovery of code vulnerabilities.\nThe technology and cloud giant issued patches for 570 security flaws on Tuesday as part of its monthly scheduled release of fixes, which security researchers have long dubbed “Patch Tuesday.”\nAt least two of the vulnerabilities are classified as zero-days, meaning that they were exploited before Microsoft was made aware of them. One bug affecting Windows Server allows hackers to escalate their privileges from a limited user to a system administrator. Another bug affects the SharePoint file sharing server — the U.S. government’s cybersecurity agency CISA has warned hackers were actively exploiting the bug to compromise organizations.\nKrebs on Security first reported the news. \nThe huge patch update comes a week after Microsoft said in a blog post that it expected its usual batch of monthly security patches to be far higher in number than before. The company cited its use of AI to help its employees uncover previously undiscovered security bugs in its software.\n“As AI helps defenders discover more issues, customers will see a higher volume of security updates included in each security release,” said Windows boss Pavan Davuluri.\nAs AI models become more advanced and focused on cybersecurity issues, security researchers are using them to uncover vulnerabilities that may have been dormant in software code for years, if not longer. Parts of Microsoft’s Windows code dates back decades.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Security\n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2022/07/windows-zero-day-exploit.jpg?w=150"
-      ],
-      "datePublished": "2026-07-15T16:20:18.000Z",
-      "dateModified": "2026-07-15T16:20:18.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
     "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
     "image": "https://techcrunch.com/wp-content/uploads/2014/10/apple-china.jpg?w=150",
     "tag": "Tech",
     "date": "2026-07-15T15:29:33.000Z",
     "description": "\nIn Brief\nPosted:\n8:29 AM PDT · July 15, 2026\n\nImage Credits:Apple (event screenshot)\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nApple Intelligence, t",
-    "body": "\nIn Brief\nPosted:\n8:29 AM PDT · July 15, 2026\n\nImage Credits:Apple (event screenshot)\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nApple Intelligence, the iPhone maker’s generative AI offering, is coming to China. On Wednesday, Reuters reported that China’s regulator, the Cyberspace Administration of China, approved Apple’s AI services in the country, on the back of a deal to integrate Alibaba’s Qwen AI model into Apple’s operating systems, including iOS, iPadOS, macOS, and visionOS.\nThe deal, which was rumored to be in the works last year, marks an important step for Apple’s AI ambitions in a key market. In the second quarter, Apple sales in Greater China increased 28% to $20.5 billion. Apple also recently regained the No. 2 position in China’s smartphone market after a recent shopping festival offered discounts on the iPhone lineup. \nPrior to working with Alibaba, Apple was reportedly exploring a deal with Baidu, but faced issues adapting its models for Chinese customers. It also explored integrations with DeepSeek and with models from ByteDance, reports claimed. This led to delays in getting Apple Intelligence features, which debuted in 2024, to the Chinese market. \nAlibaba confirmed the company’s news to CNBC in a statement, saying that Qwen would be “integrated into Apple Intelligence experiences,” but did not provide a timeframe. It also said the integrations would involve AI capabilities like “text and image understanding and generation.”\nU.S. shares of Alibaba rose 4% in pre-market trading on news of the deal, and are now up by over 6%, as of the time of publication. \n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in AI\n\n",
+    "body": "\nIn Brief\nPosted:\n8:29 AM PDT · July 15, 2026\n\nImage Credits:Apple (event screenshot)\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nApple Intelligence, the iPhone maker’s generative AI offering, is coming to China. On Wednesday, Reuters reported that China’s regulator, the Cyberspace Administration of China, approved Apple’s AI services in the country, on the back of a deal to integrate Alibaba’s Qwen AI model into Apple’s operating systems, including iOS, iPadOS, macOS, and visionOS.\nThe deal, which was rumored to be in the works last year, marks an important step for Apple’s AI ambitions in a key market. In the second quarter, Apple sales in Greater China increased 28% to $20.5 billion. Apple also recently regained the No. 2 position in China’s smartphone market after a recent shopping festival offered discounts on the iPhone lineup.\nPrior to working with Alibaba, Apple was reportedly exploring a deal with Baidu but faced issues adapting its models for Chinese customers. It also explored integrations with DeepSeek and with models from ByteDance, reports claimed. This led to delays in getting Apple Intelligence features, which debuted in 2024, to the Chinese market.\nAlibaba confirmed the company’s news to CNBC in a statement, saying that Qwen would be “integrated into Apple Intelligence experiences,” but did not provide a timeframe. It also said the integrations would involve AI capabilities like “text and image understanding and generation.”\nU.S. shares of Alibaba rose 4% in pre-market trading on news of the deal and are now up by over 6%, as of the time of publication.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in AI\n\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
@@ -75,22 +125,172 @@
     }
   },
   {
-    "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
-    "url": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Suno_1.png?w=150",
+    "title": "Phone maker OnePlus reportedly plans to wind down US and Europe operations",
+    "url": "https://techcrunch.com/2026/07/15/phone-maker-oneplus-reportedly-plans-to-wind-down-us-and-europe-operations/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/OnePlus-15-e1784137477629.jpeg?w=150",
     "tag": "Tech",
-    "date": "2026-07-15T17:00:34.000Z",
-    "description": "\nIn Brief\nPosted:\n10:00 AM PDT · July 15, 2026\n\nImage Credits:Suno (opens in a new window)\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nThe AI music gen",
-    "body": "\nIn Brief\nPosted:\n10:00 AM PDT · July 15, 2026\n\nImage Credits:Suno (opens in a new window)\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nThe AI music generator Suno was hacked, according to a report from 404 Media.\nThe hacker told the publication that they used a supply chain attack to access an employee’s credentials, allowing them to then access source code showing how Suno allegedly scraped decades of audio from YouTube Music, Deezer, Genius, stock music libraries, and podcast RSS feeds.\nSuno previously admitted that it trains its AI on “publicly available music files” on the open internet, arguing that it can train on copyrighted material under the fair use doctrine, a subjective carve out of copyright law. But according to the major record labels actively suing Suno, it is illegal under the Digital Millennium Copyright Act (DMCA) to deliberately circumvent YouTube’s protections against data scraping; it also violates YouTube’s terms of service.\nUdio, a competitor to Suno, has also been accused of scraping YouTube data. Google, the parent company of YouTube, faces similar allegations of copyright infringement from a variety of major book publishers.\nThe hacker reportedly accessed customer data including customer emails, phone numbers, and partial credit card numbers in Stripe. \nSuno did not notify customers about the November 2025 breach and claims that this was a “limited security incident that was quickly contained.”\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in AI\n\n",
+    "date": "2026-07-15T17:53:32.000Z",
+    "description": "\nIn Brief\nPosted:\n10:53 AM PDT · July 15, 2026\n\nImage Credits:OnePlus\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nAmid rising consumer electronics pric",
+    "body": "\nIn Brief\nPosted:\n10:53 AM PDT · July 15, 2026\n\nImage Credits:OnePlus\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nAmid rising consumer electronics prices and slow demand for new purchases, Android phone maker OnePlus plans to wind down its U.S. and Europe operations this week, according to a report from Bloomberg.\nThe report cited a source saying that OnePlus’ shuttering of its U.S. and European shops is part of a corporate rejig at parent company Oppo. It also noted that OnePlus will wind down its operations in India, one of its biggest markets outside China.\nOnePlus was started by Pete Lau and Carl Pei in 2013 to make affordable Android phones for tech enthusiasts. Over time, the company expanded the range of offerings and that created global demand for its products. Pei left the company in 2020 to start Nothing. As the price of the company’s flagship phones increased, OnePlus also ventured into more affordable phones with its Nord series.\nAnalytics firms like IDC and Counterpoint have predicted that smartphone shipments are going to decline by more than 13% in 2026 due to a limited supply of memory chips that’s been described as RAMageddon.\nOppo faced a double-digit shipment decline year-over-year for the second quarter of 2026, according to a report by Counterpoint. It noted that the company faced “softness across most of its key markets” because of weak demand.\nThe company plans to continue operating OnePlus in China and sell Realme phones abroad in areas like the Nordic region, where it has proved successful, according to the Bloomberg report.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Gadgets\n\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Hack suggests AI music generator Suno scraped YouTube for training data",
+      "headline": "Phone maker OnePlus reportedly plans to wind down US and Europe operations",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/06/Suno_1.png?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/07/OnePlus-15-e1784137477629.jpeg?w=150"
       ],
-      "datePublished": "2026-07-15T17:00:34.000Z",
-      "dateModified": "2026-07-15T17:00:34.000Z",
+      "datePublished": "2026-07-15T17:53:32.000Z",
+      "dateModified": "2026-07-15T17:53:32.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
+    "url": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/07/windows-zero-day-exploit.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-07-15T16:20:18.000Z",
+    "description": "\nIn Brief\nPosted:\n9:20 AM PDT · July 15, 2026\n\nImage Credits:Microsoft / PhotoMosh (edited)\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nMicrosoft relea",
+    "body": "\nIn Brief\nPosted:\n9:20 AM PDT · July 15, 2026\n\nImage Credits:Microsoft / PhotoMosh (edited)\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nMicrosoft released a record number of security patches for Windows, Office, and other tech product lines this week, citing the use of AI to aid the discovery of code vulnerabilities.\nThe technology and cloud giant issued patches for 570 security flaws on Tuesday as part of its monthly scheduled release of fixes, which security researchers have long dubbed “Patch Tuesday.”\nAt least two of the vulnerabilities are classified as zero-days, meaning that they were exploited before Microsoft was made aware of them. One bug affecting Windows Server allows hackers to escalate their privileges from a limited user to a system administrator. Another bug affects the SharePoint file sharing server — the U.S. government’s cybersecurity agency CISA has warned hackers were actively exploiting the bug to compromise organizations.\nKrebs on Security first reported the news.\nThe huge patch update comes a week after Microsoft said in a blog post that it expected its usual batch of monthly security patches to be far higher in number than before. The company cited its use of AI to help its employees uncover previously undiscovered security bugs in its software.\n“As AI helps defenders discover more issues, customers will see a higher volume of security updates included in each security release,” said Windows boss Pavan Davuluri.\nAs AI models become more advanced and focused on cybersecurity issues, security researchers are using them to uncover vulnerabilities that may have been dormant in software code for years, if not longer. Parts of Microsoft’s Windows code dates back decades.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Security\n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2022/07/windows-zero-day-exploit.jpg?w=150"
+      ],
+      "datePublished": "2026-07-15T16:20:18.000Z",
+      "dateModified": "2026-07-15T16:20:18.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms",
+    "url": "https://techcrunch.com/2026/07/15/tesla-driver-in-fatal-texas-crash-pressed-accelerator-100-ntsb-confirms/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/ntsb-tesla-texas.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-07-15T20:22:52.000Z",
+    "description": "\n\t\n\t\tImage Credits:NTSB\t\n\t\n\t\t\t\t\t\t1:22 PM PDT · July 15, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nThe National Transportation Safety Board (NTSB) said Wednesday that the d",
+    "body": "\n\t\n\t\tImage Credits:NTSB\t\n\t\n\t\t\t\t\t\t1:22 PM PDT · July 15, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nThe National Transportation Safety Board (NTSB) said Wednesday that the driver of a Tesla who crashed into a house in June had pressed the accelerator pedal to 100%, overriding the company’s Full Self-Driving (Supervised) software. \nData recovered from the Tesla showed that the vehicle was traveling more than 70 miles per hour when it struck a house in Katy, Texas, killing 76-year-old resident Martha Avila, according to the NTSB. The family of the victim has since sued the alleged driver, 44-year-old Michael Butler, and Tesla, claiming negligence. Butler has also been charged with manslaughter.\nThe safety board shared the information as part of a preliminary report on the progress of its investigation into the crash. The National Highway Traffic Safety Administration is also probing the incident.\nThe data confirms Tesla’s account of the crash, which the company shared in the days after it happened in order to show that its advanced driver assistance system wasn’t to blame. “This [allegation] makes no sense. FSD drives slowly through neighborhood streets and this was a high speed crash!” Tesla CEO Elon Musk wrote on X shortly after the crash. \nThe NTSB said Wednesday that the 44-year-old driver was using Full Self-Driving (Supervised) on Rose Hollow Lane, a residential two-lane road with a speed limit of 30 miles per hour, prior to the crash. Security camera footage obtained by the safety board showed the car accelerating through an intersection, leaving the road, and hitting the house. The “weather was clear, the roadway was dry, and daylight conditions were present,” according to the NTSB.\nTesla requires that drivers using Full Self-Driving (Supervised) pay attention to the road and be ready to take control at any moment. Butler allegedly told authorities that he had “passed out” and that he was using Tesla’s driver assistance system. Police reportedly discovered that his Google searches included the terms “Tesla FSD not aggressive enough 2026,” “Tesla not aggressive enough,” and “Tesla FSD too timid,” according to local ABC news affiliate station KTRK TV. \n\n\t\t\t\n\tTopics\n\n\t\t\tWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n\n\t\t",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/07/ntsb-tesla-texas.jpg?w=150"
+      ],
+      "datePublished": "2026-07-15T20:22:52.000Z",
+      "dateModified": "2026-07-15T20:22:52.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+    "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Supply-Co-Page_Brand.png?w=150",
+    "tag": "Tech",
+    "date": "2026-07-15T19:41:38.000Z",
+    "description": "\nOpenAI is officially entering the hardware market with the launch of a $230 light-up keyboard designed to pair with its AI coding assistant, Codex.\nT",
+    "body": "\nOpenAI is officially entering the hardware market with the launch of a $230 light-up keyboard designed to pair with its AI coding assistant, Codex.\nThe Codex Micro, co-designed with specialty keyboard designer Work Louder, is being advertised as a fancy new way for ChatGPT users to manage their fleets of AI coding agents — the semi-autonomous bots that can write and execute code with little human input.\nThe device comes equipped with light-up “Agent Keys” that show agent status, customizable Command Keys that act as shortcuts for frequent Codex actions, and a joystick for launching common workflows. It also has a dial that adjusts how much “reasoning” — essentially, how much time and computing power — an agent uses on a given task (agent reasoning level).\nThe idea is that, instead of managing your agents through your phone or desktop app, you can now use the Micro as your “command center for agentic work,” as OpenAI puts it. It’ll also probably just look really cool sitting on your desk. The device is controllable and customizable via the ChatGPT desktop app.\nImage Credits:OpenAI\nOpenAI told TechCrunch in an email that the Micro is a limited-run collaboration, signaling that it’s more of a novelty item than a product designed for mass appeal. It seems like a flashy bauble designed to herald the company’s entrance into the hardware market.\nThe more consequential hardware news arrived Tuesday. A yet-to-be-released OpenAI device that Bloomberg revealed sounds like it is being designed for the long haul. It’s described as a portable, screenless smart speaker that integrates with ChatGPT and involves “mechanical elements that can move on their own.” \nAt this juncture, it’s difficult to imagine how all of those disparate details — screenless, portable, moving parts — will come together into a coherent product (OpenAI isn’t saying). But it leaves an intriguing picture, to say the least. It also sounds like it’s not done yet. The Bloomberg report highlights that the item is still in development and subject to change.\nThis new device is also reportedly being designed by former engineers from Apple — a company that is currently suing OpenAI for trade theft.\nThat connection hasn’t gone unnoticed, least of all by Apple. Apple last week sued OpenAI, accusing the company’s senior leadership of a deliberate strategy to extract its confidential information; it alleges OpenAI used that information in developing its own hardware device. OpenAI has denied wrongdoing.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tLucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. \nYou can contact Lucas by emailing lucas.ropek@techcrunch.com.\t\n\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/07/Supply-Co-Page_Brand.png?w=150"
+      ],
+      "datePublished": "2026-07-15T19:41:38.000Z",
+      "dateModified": "2026-07-15T19:41:38.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Apple bans home services from its upcoming Maps ads",
+    "url": "https://techcrunch.com/2026/07/15/apple-quietly-reveals-how-its-maps-ads-will-differ-from-googles/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/apple-maps-GettyImages-2259515359.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-07-15T18:21:22.000Z",
+    "description": "\nApple has quietly published a rulebook for its new Maps ads, revealing a more curated approach than advertising giant Google. \nThe iPhone maker has n",
+    "body": "\nApple has quietly published a rulebook for its new Maps ads, revealing a more curated approach than advertising giant Google. \nThe iPhone maker has not disclosed a launch date for Maps ads, which was announced earlier this year,  beyond saying they would arrive “this summer” in the U.S. and Canada. However, the company has published advertiser documentation and Maps-specific ad policies, suggesting the rollout is approaching.  \nIn a newly published Apple Advertising Services policy, effective as of July 14, 2026, the iPhone maker shares its rules for advertising on Apple Maps. Notably, it prohibits the broad category of home services businesses, like plumbing, electrical, locksmith, HVAC, pest control, roofing, and general contracting services, among others.\nThat sets Apple apart from Google, where Local Services Ads are one of the company’s largest local advertising categories. Apple’s policy suggests the company is initially limiting its ads to places with a physical presence that their customers actually visit. \nApple did not respond to a request for comment about the new rulebook.\nImage Credits:Apple\nThis approach could help make Apple’s ads feel more like organic map listings, rather than traditional paid search ads.\nIt could also save Apple some headaches as it gets its Apple Maps ads off the ground. Home services businesses, including locksmiths and garage door service providers, often require additional verification. Google, for instance, allows these categories, but requires initial verifications, follow-ups, and audits to remain in good standing.\nApple’s curated approach to its App Store is also spilling over into its newest advertising vertical. In addition to banning home services, the policy prohibits a handful of businesses from advertising on Maps, like cryptocurrency ATMs and bail bonds providers.\nApple is also taking a hands-on approach to approving ads for businesses offering medical services, as the policy notes these ads will be “evaluated on a case-by-case basis.” \nThese restrictions appear in a dedicated section of the new “Apple Advertising Services News and Stocks, Maps, and Sports Programming Policies,” which details the rules around publishing ads across Apple’s first-party apps beyond the App Store.\nThe broader policy also prohibits deceptive or profane ads, political ads, and ads featuring weapons, violence, controlled substances, defamatory material, and more. \nAlthough Apple may expand to other ad categories over time, its initial approach positions Maps and its ads as a more curated, navigation-focused product, rather than an extension of a web search engine. \nApple’s approach to displaying ads will also differ from Google; Apple said it would only show a single ad to users in its Maps search results. It noted that the advertised businesses would be clearly marked with a small blue halo around the pin, and labeled as an ad in the list of Suggested Places.\nApple also said that data about the ads that users interact with stays on the device and is not collected by the company or shared with third parties.\nAnother recent update to Apple’s Advertising Services Terms of Service also suggests that Apple could be planning to expand its Apple Apps to non-Apple-owned services, a report from Mobile Dev Memo noted. Apple has not confirmed any changes on that front, however.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Apple bans home services from its upcoming Maps ads",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/03/apple-maps-GettyImages-2259515359.jpg?w=150"
+      ],
+      "datePublished": "2026-07-15T18:21:22.000Z",
+      "dateModified": "2026-07-15T18:21:22.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
+    "url": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/20260511_Wet_Dress_Actual_2_259bcb3ae9.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-07-15T18:06:05.000Z",
+    "description": "\nSpaceX’s shares fell to just above $135 on Wednesday, the price that CEO Elon Musk and his company chose ahead of its blockbuster June 12 IPO that ra",
+    "body": "\nSpaceX’s shares fell to just above $135 on Wednesday, the price that CEO Elon Musk and his company chose ahead of its blockbuster June 12 IPO that raked in nearly $86 billion.\nThe company’s stock spent much of the day below that IPO price, at one point dipping beneath $133 per share, before it traded back up to finish at $135.27.\nThe dip on Wednesday followed a steady decline in the month since the company went public. SpaceX initially saw its stock price rise to more than $200 in the days after it went public, briefly giving it a valuation that rivaled tech giants like Amazon and Microsoft. Its shares have lost value basically every week since reaching that high point.\nSome of the volatility is attributable to the fact that just 4% of the company’s total shares are trading on the Nasdaq. That small “float,” as it’s known, combined with an immense amount of constant attention on the company, has created wild swings during the first month of trading.\nThe markets also appear to be sobering up on CEO Elon Musk’s grand vision for the company, part of a broader deflation in tech stocks over the last month. Not only has SpaceX’s stock traded down, but also bonds the company sold in the wake of the IPO are suffering.\nA prolonged downturn for SpaceX could have wider effects because the company’s stock price is a sign of how investors view the (literal) otherworldly promises Musk has made about what his company can accomplish. SpaceX’s IPO has also set the table for other Big Tech companies like Anthropic and OpenAI to go public. Both of those companies have filed confidentially for an IPO. While neither has set a date to go public, SpaceX’s stock is being closely watched to gauge how successful those IPOs could be.\nSpaceX is about to face another early test of the durability of its stock price. On Thursday the company will test launch its Starship rocket for the first time since the IPO. Starship is still very much in development, which means it is prone to failures — the result of SpaceX’s “fly, fail, fix” approach.\nThis will be the first Starship flight since it experienced a booster failure in May. And once again, the company does not plan to try to recover the Starship booster or upper stage on this flight, instead opting to have them simulate a landing in the Gulf of Mexico. That means both parts of the overall Starship rocket system will end in an explosion no matter what, even if they don’t run into any problems during the flight plan. \nThis story has been updated to include the closing price.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "SpaceX falls to $135 IPO price ahead of Starship launch",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/05/20260511_Wet_Dress_Actual_2_259bcb3ae9.jpg?w=150"
+      ],
+      "datePublished": "2026-07-15T18:06:05.000Z",
+      "dateModified": "2026-07-15T18:06:05.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Google’s biggest clean power project is 40 miles north of xAI’s unpermitted gas power plant",
+    "url": "https://techcrunch.com/2026/07/15/googles-biggest-clean-power-project-is-40-miles-north-of-xais-unpermitted-gas-power-plant/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-1475927398.jpeg?w=150",
+    "tag": "Tech",
+    "date": "2026-07-15T17:39:54.000Z",
+    "description": "\nGoogle said it has made its largest solar power and battery storage purchase to date. The first two phases of the project, located in Arkansas, will ",
+    "body": "\nGoogle said it has made its largest solar power and battery storage purchase to date. The first two phases of the project, located in Arkansas, will generate enough electricity to power about 6% of the state’s peak demand, the company said earlier this week.\nElectricity from the project will flow directly to the grid, offsetting demand from Google’s data centers. Google is both investing in the project alongside developer Cypress Creek Energy and purchasing the entire output of the first two phases, adding 1 gigawatt of solar capacity and 1.9 gigawatt-hours of battery storage to its portfolio.\nWhen completed, the three-phase project will be the largest solar facility in the United States, the companies said. The third and final phase of the project is scheduled to connect to the grid in 2029, bringing the power plant’s total capacity to about 1.8 gigawatts of solar and 2.9 gigawatt-hours of battery storage. Cypress Creek has secured $3.5 billion in financing to support the first two phases.\nThe Steel River Energy Center, as the project is called, will be located about 30 miles north of Memphis, Tennessee. By pairing solar panels with large batteries, the power plant will be able to provide power to the grid all day, every day. It will also help Google in its quest to match its electricity use with clean power on an hourly basis, a stringent measure that should help bring more hybrid power plants to the grid.\nGoogle’s decision to invest in a large solar and battery facility stands in contrast to xAI, which operates an unpermitted natural gas power plant about 40 miles to the south. \nElon Musk has invested heavily in natural gas to power xAI’s Colossus data centers, despite running Tesla, which makes solar panels and grid-scale batteries. XAI is running nearly 60 natural gas turbines without federal clean air permits, according to a report from Reuters. Pollution from xAI’s power plant in Mississippi is affecting predominantly Black neighborhoods, Reuters found.\nMusk is unlikely to change course. He recently purchased APR Energy, a project developer that specializes in modular natural gas power plants.\nGoogle has also invested in natural gas, working with Crusoe to build a 933-megawatt power plant in West Texas, though that project has been something of an anomaly for the company, which has mostly relied on clean power to expand its portfolio. Given the speed with which projects like Steel River can be deployed — nearly 2 gigawatts of solar capacity in three years — it’s likely that Google will continue to invest in renewables and batteries.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tTim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor. \r\nDe Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.\r\nYou can contact or verify outreach from Tim by emailing tim.dechant@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Google’s biggest clean power project is 40 miles north of xAI’s unpermitted gas power plant",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-1475927398.jpeg?w=150"
+      ],
+      "datePublished": "2026-07-15T17:39:54.000Z",
+      "dateModified": "2026-07-15T17:39:54.000Z",
       "author": [
         {
           "@type": "Person",
@@ -125,22 +325,22 @@
     }
   },
   {
-    "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
-    "url": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/01/Whatnot_AppIcon_Screen.jpg?w=150",
+    "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
+    "url": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
+    "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
     "tag": "Tech",
-    "date": "2026-07-15T17:00:00.000Z",
-    "description": "\nLivestream shopping app Whatnot announced Wednesday that it has acquired Shaped, a machine learning company that specializes in real-time recommendat",
-    "body": "\nLivestream shopping app Whatnot announced Wednesday that it has acquired Shaped, a machine learning company that specializes in real-time recommendation and search systems. The deal is meant to strengthen Whatnot’s discovery and personalization capabilities as the platform continues to expand across new product categories and millions of buyers.\nAccording to the company, the acquisition helps Whatnot continue its investment in AI as it looks to solve one of live commerce’s biggest challenges: helping shoppers find the right products while inventory, auctions, and buyer demand change in real time. \nUnlike traditional e-commerce platforms, where product catalogs remain relatively stable, Whatnot’s marketplace is constantly evolving, and live auctions can end within minutes or last for hours.\n“By combining Shaped’s technology with Whatnot’s existing systems, we can make recommendations faster, more responsive, and more personalized,” Emmanuel Fuentes, VP, Data and AI at Whatnot, told TechCrunch. “That speed matters because live commerce is a uniquely hard recommendation problem. Inventory changes by the second, shows start and end continuously, and buyer intent shifts throughout a show.”\nFuentes said the company has spent the last six years improving the speed of its recommendation engine, reducing recommendation latency from roughly a day to just minutes. Integrating Shaped’s technology is expected to push those recommendations even closer to real time. The company says its systems process more than 500,000 hours of live video and millions of real-time interactions every week, using that data to continuously improve recommendations.\nFounded to help businesses build AI-powered recommendation systems, Shaped developed technology that combines existing customer data with large language models and machine learning to deliver highly personalized search and discovery experiences. Its customer roster included companies such as Outdoorsy and QVC.\nAs part of the acquisition, Shaped founder and CEO Tullie Murrell, along with nearly a dozen engineers and AI researchers, will join Whatnot. Murrell will lead the company’s newly formed Applied AI Research group. (Notably, Murrell worked at Meta before launching Shaped.)\nThe acquisition comes as Whatnot experiences significant growth. Launched in 2019, the company recently revealed that sellers have surpassed one billion orders. Earlier this year, Whatnot raised $225 million in Series F funding, giving the company a valuation of more than $11 billion after adding 20 million buyers over the past year.\nWhatnot has also significantly broadened its marketplace, launching more than 35 new categories last year—including art, golf, and vinyl—and more than 45 additional categories during the first half of 2025, with new subcategories continuing to roll out each month.\nAdditionally, the move comes as resale giants race to integrate AI throughout their platforms, such as eBay and Poshmark. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tLauren covers media, streaming, apps and platforms at TechCrunch.\nYou can contact or verify outreach from Lauren by emailing laurenf.techcrunch@gmail.com or via encrypted message at laurenforris22.25 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-07-15T15:00:00.000Z",
+    "description": "\n\t\t\nCan a handful of engineers really do the work of an army of consultants? That’s the bet behind Ode with Anthropic — the joint venture dedicated to",
+    "body": "\n\t\t\nCan a handful of engineers really do the work of an army of consultants? That’s the bet behind Ode with Anthropic — the joint venture dedicated to embedding forward-deployed engineers in enterprise firms, backed by Anthropic, Blackstone, Hellman & Friedman, Goldman Sachs and others.  \nOn this episode of TechCrunch’s Equity podcast, Rebecca Bellan sits down with Ode’s leaders Chris Taylor and Eddie Siegel, who founded Fractional AI, the applied AI services startup that Ode acquired earlier this year to serve as the new venture’s core. The three discuss why so many enterprise AI pilots never make it to production and why they think AI-native services are about to become one of the biggest categories in tech. \nSubscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. You also can follow Equity on X and Threads, at @EquityPod. \n\n\t\t\n\tTopics\n\n\n\n\t\tTheresa Loconsolo is an audio producer at TechCrunch focusing on Equity, the network’s flagship podcast. Before joining TechCrunch in 2022, she was one of 2 producers at a four-station conglomerate where she wrote, recorded, voiced and edited content, and engineered live performances and interviews from guests like lovelytheband. Theresa is based in New Jersey and holds a bachelors degree in Communication from Monmouth University. You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n\n\t\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Whatnot acquires Shaped to power real-time live shopping recommendations",
+      "headline": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/01/Whatnot_AppIcon_Screen.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200"
       ],
-      "datePublished": "2026-07-15T17:00:00.000Z",
-      "dateModified": "2026-07-15T17:00:00.000Z",
+      "datePublished": "2026-07-15T15:00:00.000Z",
+      "dateModified": "2026-07-15T15:00:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -150,222 +350,22 @@
     }
   },
   {
-    "title": "India bets billions on breaking China’s grip on smartphone manufacturing",
-    "url": "https://techcrunch.com/2026/07/15/india-bets-billions-on-breaking-chinas-grip-on-smartphone-manufacturing/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1681877521.jpg?w=150",
+    "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
+    "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-1730510668.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-07-15T14:39:52.000Z",
-    "description": "\nIndia unveiled billions of dollars in new incentives for smartphone manufacturing and an expanded semiconductor push on Wednesday, seeking to build o",
-    "body": "\nIndia unveiled billions of dollars in new incentives for smartphone manufacturing and an expanded semiconductor push on Wednesday, seeking to build on its success assembling Apple’s iPhones and draw more of the global electronics supply chain away from China.\nCalled the Mobile Phone Manufacturing Scheme, the ₹625 billion (about $6.5 billion) program will run for five years and reward smartphone manufacturers based on eligible sales, with incentives ranging from 2.25% to 5% and an additional 1.5% for sourcing key components and sub-assemblies in India. New Delhi also committed a further ₹1.28 trillion (around $13.3 billion) to bolster domestic semiconductor manufacturing, expanding a $10 billion chip incentive program launched in 2021 with greater support for chip equipment, materials, design, and research.\nOver the past decade, India has emerged as an increasingly important smartphone manufacturing hub, drawing production from Apple, Samsung, and Chinese brands including Xiaomi, Oppo, and Vivo. Apple began assembling iPhones in the country in 2017 and has since expanded production through suppliers including Foxconn and India’s Tata Group, with about 25% of its iPhones now made in India as the Cupertino company diversifies its supply chain beyond China.\nThe manufacturing push is broadening beyond Apple. Last week, the Indian government cleared a smartphone manufacturing joint venture between China’s Vivo and Indian electronics maker Dixon Technologies. New Delhi also scrapped import duties on some phone and electronics components, a move that could lower production costs for companies, including Apple and Xiaomi.\nStill, India has a long way to go before it can challenge China’s dominance. China accounted for 63% of global smartphone production in 2025, compared with India’s 18%, according to Counterpoint Research, underscoring the scale of the manufacturing and supplier ecosystem New Delhi is trying to build.\nThe new program marks a shift from the “assemble more” playbook that defined India’s earlier manufacturing incentives toward “depth, R&D and local value capture,” said Navkendar Singh, associate vice president at research firm IDC. India has excelled at final assembly while remaining reliant on imported components, he told TechCrunch.\n“Apple stands to benefit directly,” Singh said, adding that India’s strengthening manufacturing and export credentials could give the company greater confidence to diversify production away from China, while incentivizing its supply-chain partners to source more components locally.\nThe smartphone manufacturing program will run through March 2031. The Indian government expects mobile-phone production during that period to total about ₹39 trillion (around $405 billion) and the scheme to create about 60,000 direct jobs.\nThe five-year program could help generate stronger long-term returns for India’s component ecosystem and attract more manufacturers to the country, Tarun Pathak, research director at Counterpoint Research, told TechCrunch.\nSmartphone brands are looking to “save every cent” on component sourcing as memory prices reach record highs, Pathak said. Local production, he noted, could offer advantages over the longer term, particularly as a weaker Indian rupee raises the cost of imports.\nIn addition to incentivizing local manufacturing, New Delhi wants domestic companies to capture more of the value in the smartphone industry. The government plans to foster homegrown mobile-phone brands, Indian IT Minister Ashwini Vaishnaw said at a media briefing announcing the new manufacturing initiatives. The smartphone program includes an additional incentive of 3% of eligible sales for product design and research aimed at developing Indian brands.\nIndia has had homegrown handset makers including Micromax, Karbonn, and Lava. However, Indian brands lost significant ground as Chinese rivals such as Xiaomi, Vivo, and Oppo expanded aggressively in the country and now account for much of the smartphone market.\nThe smartphone industry’s ambitions extend well beyond creating domestic brands. India should aim to account for 35% to 40% of global mobile-phone production, said Pankaj Mohindroo, chairman of the India Cellular and Electronics Association, whose members include Apple and Google.\nThe new policy could help build the supplier networks, engineering expertise, and manufacturing know-how needed to deepen India’s role in global supply chains, Mohindroo said.\nIndia’s parallel bets on mobile phones and semiconductors show New Delhi is trying to build the deeper electronics manufacturing ecosystem that has underpinned China’s dominance. Its iPhone assembly boom proved the country can win a bigger role in global manufacturing. The harder test will be whether the suppliers, technology, and higher-value production follow.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "date": "2026-07-15T18:04:06.000Z",
+    "description": "\nThinking Machines Lab, the AI startup founded by former OpenAI CTO Mira Murati, released its first in-house AI model Wednesday morning, called Inklin",
+    "body": "\nThinking Machines Lab, the AI startup founded by former OpenAI CTO Mira Murati, released its first in-house AI model Wednesday morning, called Inkling. And unlike the flagship models from OpenAI, Anthropic, or Google, it’s open-weight, meaning outside developers and companies can download it and modify it directly.\nInkling is a mixture-of-experts system with 975 billion total parameters, though it only draws on a fraction of that — about 41 billion — for any given task, a common design that keeps very large models faster and cheaper to run. It was trained on 45 trillion tokens of text, image, audio, and video, and reasons natively across all four, according to the company’s own release materials. For now, though, its outputs are limited to text, including code, styled artifacts, and structured data.\nThe model is Thinking Machines Labs’ first public proof point after a year and a half spent building AI infrastructure largely out of public view. Some of that work had already surfaced in a May research preview of “interaction models” — AI designed to listen and speak (and even interrupt) instead of stop and wait as with typical chatbots. It’s also a test of the central bet behind the startup, which is that AI that organizations can adapt for themselves will outperform the one-size-fits-all models the biggest labs currently sell.\nInkling is designed to give calibrated answers, including flagging uncertainty rather than guessing, and lets users dial “thinking effort” up or down when they want to trade for speed. On one benchmark, the company says, Inkling uses a third as many tokens as Nvidia’s Nemotron 3 Ultra — its latest generation open-weight model — to hit the same coding performance.\nThinking Machines doesn’t claim Inkling is best-in-class. Its briefing materials state explicitly that Inkling is “not the strongest model available today, closed or open.” What it’s evidently going for instead is well-rounded performance and customizability.\nThat raises the question of who, within the enterprise market it’s targeting, this product is really for. Thinking Machines is, for now, marketing Inkling less as a finished product than as a starting point, something for organizations to fine-tune themselves through Tinker, the company’s model-customization platform. This also means customers, not Thinking Machines, are responsible for making sure their customizations are safe, for example. (Fine-tuning requires serious machine-earning talent.)\nOpenAI, Anthropic, and Google have all taken a very different approach with ChatGPT, Claude, and Gemini, respectively, which were all built to compete as general-purpose chatbots first, with agentic, autonomous features layered on top.\nA post published by Thinking Machines last week was clearly meant as the backdrop for this release. AI that’s trained centrally by one company and then set in stone, the company argued in that post, underperforms AI that organizations shape themselves because so much expertise is specific to the people who hold it. \nOther arguments against closed models are gaining steam. In a blog post published Sunday, Microsoft CEO Satya Nadella — whose company has invested billions in both OpenAI and Anthropic — warned that enterprises using proprietary AI models effectively pay twice: once in subscription costs, and again by handing over business knowledge embedded in their prompts and corrections, which can be absorbed into future model versions.\nHugging Face CEO Clem Delangue made a similar prediction in conversation with TechCrunch last week. Frontier models, he said, will increasingly be reserved for experimentation and high-value tasks, while most production AI work shifts to private or open-source alternatives — the exact split Thinking Machines is building around.\nThe clearest argument for Thinking Machines’ approach came from a recent project with Bridgewater Associates, the world’s largest hedge fund (which is not, for what it’s worth, a Thinking Machines investor). Researchers from both companies took an existing open-source model and trained it further on Bridgewater’s own financial expertise. The result was said to score 84.7% on financial reasoning tests, beating top proprietary AI models, while costing roughly a fourteenth as much to run — though those results come from the two companies’ own evaluation, not an independent one.\nEither way, Thinking Machines is emphasizing how quickly it got here. OpenAI took roughly five years to bring its tech to market and show revenue, and Anthropic roughly three. Thinking Machines says it did the same in about nine months.\nSome will wonder whether Inkling was trained on outputs from competitors’ models, a practice known as “distillation” that has drawn scrutiny across the industry. The short answer, per the company’s own materials, is partly. Thinking Machines pre-trained Inkling from scratch, but it says it used other open-weight models — including Moonshot AI’s Kimi K2.5 — to help generate some of its early post-training data before large-scale reinforcement learning took over. The next model, the company insists, will use fully self-contained post-training instead.\nOn the cost side, Thinking Machines has been more guarded. It struck a partnership with Nvidia in March to deploy a gigawatt of Vera Rubin computing capacity and trained Inkling entirely on Nvidia’s GB300 NVL72 systems — but hasn’t said how it plans to cover those costs, and revenue, by most accounts, hasn’t been a priority. (A reported $50 billion fundraising round was said to be coming together last November but had stalled by January; the company has declined to talk about its funding picture since.)\nA related question is whether Thinking Machines’ spending will ever reach the scale of OpenAI’s or Anthropic’s, or whether its efficiency-driven approach means the economics look different. Put another way, the company’s bet may be less that it will eventually spend like its larger rivals than that it won’t need to at all — because once weights are public, nothing obligates anyone who downloads them to pay Thinking Machines to run them, unlike the metered access OpenAI and Anthropic sell. It’s Tinker, not the model itself, where the company’s revenue has to come from, via training, fine-tuning, and, now, a cut of the hosting ecosystem built around it. \nHeadcount, at least, looks more settled. Thinking Machines now employs roughly 200 people, up from levels reported after a wave of departures earlier this year, including two co-founders who left for OpenAI in January.\nThinking Machines, for its part, doesn’t seem interested in playing up individual moves the way much of the industry does. According to a source inside the company, its culture, by design, favors continuity over reliance on any one personality. It makes sense: it’s less of a setback when people change teams if they were never put on a pedestal to begin with. It’s also a remarkable thing for a company to insist on, given how much of its own story is still associated with the name of its now-famous co-founder, whether she planned it or not.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "India bets billions on breaking China’s grip on smartphone manufacturing",
+      "headline": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1681877521.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-1730510668.jpg?w=150"
       ],
-      "datePublished": "2026-07-15T14:39:52.000Z",
-      "dateModified": "2026-07-15T14:39:52.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
-    "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
-    "image": "https://techcrunch.com/wp-content/uploads/2021/10/biotech-header.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-07-15T00:27:04.000Z",
-    "description": "\n\t\n\t\tImage Credits:Andrew Brookes / Getty Images\t\n\t\n\t\t\t\t\t\t5:27 PM PDT · July 14, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nMiles Wang, an OpenAI researcher whose work incl",
-    "body": "\n\t\n\t\tImage Credits:Andrew Brookes / Getty Images\t\n\t\n\t\t\t\t\t\t5:27 PM PDT · July 14, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nMiles Wang, an OpenAI researcher whose work includes using AI to accelerate scientific and biological discovery, is leaving the ChatGPT maker to launch a new startup focused on developing AI models for drug discovery, according to four people with knowledge of his plans. Several other OpenAI researchers are expected to join the new company.  \nWang is in talks to raise about $200 million at a $2 billion valuation, two of the people said. Lightspeed is in discussions to lead the funding round, according to sources. Talks are ongoing, the deal may not be final and details could change.\nWang disputed the story’s funding figures and description of the company but did not specify the correct numbers or details. Lightspeed didn’t respond to a request for comment.\nThe funding discussions point to investor interest in applying AI to make breakthroughs in life sciences. Chai Discovery, a two-year-old startup developing AI models that can predict molecular interactions to identify new drugs, announced on Tuesday that it raised $400 million at a $3.8 billion valuation. (Co-founder Josh Meier also passed through OpenAI as a researcher.) Meanwhile, Google DeepMind spinout Isomorphic Labs, which also develops AI models for drug discovery, raised a $2.1 billion Series B in May.\nWang’s new startup may be working on AI models that will help find new uses for existing drugs and possibly those that previously failed in trials, a couple of sources told TechCrunch. Finding new uses for FDA-approved drugs can result in significantly faster time to revenue than developing new drugs from scratch, as these medicines have already been tested for safety.\nWang joined OpenAI in 2024 after dropping out from Harvard, where he was working on a bachelor’s degree in computer science. (In recent years, investors are once again comfortable betting on young founders who haven’t completed college.)\nAt OpenAI, he co-authored research papers, including evaluating how AI models can automate and accelerate scientific discovery.\n\n\t\t\t\n\tTopics\n\n\t\t\tWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\n\t\tMarina Temkin is a venture capital and startups reporter at TechCrunch. Prior to joining TechCrunch, she wrote about VC for PitchBook and Venture Capital Journal. Earlier in her career, Marina was a financial analyst and earned a CFA charterholder designation.\r\nYou can contact or verify outreach from Marina by emailing marina.temkin@techcrunch.com or via encrypted message at +1 347-683-3909 on Signal.\t\n\t\n\t\tView Bio \n\t\n\n\t\t",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2021/10/biotech-header.jpg?w=150"
-      ],
-      "datePublished": "2026-07-15T00:27:04.000Z",
-      "dateModified": "2026-07-15T00:27:04.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "A SpaceX vet raised $65M to pull wire harnesses out of the Cold War era",
-    "url": "https://techcrunch.com/2026/07/15/a-spacex-vet-raised-65m-to-pull-wire-harnesses-out-of-the-cold-war-era/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Greenshot-2026-06-01-22.19.18.png?w=150",
-    "tag": "Tech",
-    "date": "2026-07-15T10:30:00.000Z",
-    "description": "\nWhen Senra CEO Jordan Black was a SpaceX engineer, he took on the job of scaling up the company’s wire harnesses to support production of Starship, t",
-    "body": "\nWhen Senra CEO Jordan Black was a SpaceX engineer, he took on the job of scaling up the company’s wire harnesses to support production of Starship, the company’s next-generation rocket.\nWire harnesses are what they sound like: the internal electrical cabling that runs through a rocket ship, car, plane, or tractor and becomes increasingly important the smarter those vehicles get. They’re bespoke, put together by technicians who are, functionally, experienced craftspeople.\n“I traveled all over the world to go visit wire harness companies,” Black told TechCrunch last month. “It really hasn’t changed since the Cold War era of wooden tables [and] manual processes.”\nBlack and co-founder Benjamin Shanahan started Senra in 2023 to offer a more modern solution to vehicle manufacturers. Today, the startup is announcing a $65 million Series B round, co-led by Lowercarbon and Interlagos with participation from General Catalyst, Sequoia Capital, Andreessen Horowitz, and Founders Fund, among others.\nSenra isn’t looking to take humans out of the handmaking process — at least not while robots find manipulating wires a challenge and relevant training data remains scarce. Instead, it’s turning to software tools and other forms of automation to modernize aspects of the traditional manual work.\nThe company is benefiting from the surge of money into U.S. manufacturing, particularly the defense industrial base. While Black couldn’t disclose customers, he said they include builders of “anything from submarines and maritime vehicles, to defense vehicle systems on land, to launch vehicles, to satellites.”\nIf it doesn’t sound immediately important, consider a recent wire harness disaster. In 2023, Boeing discovered that its Starliner spacecraft’s wiring was held together with flammable tape, forcing an expensive delay while the entire wiring system was redone.\nBlack points to that experience as a reason to raise the standards for wire harnessing, using automated systems to track materials and engineering changes. “Having it all in the same software is probably the most important thing, because it’s all the little inputs that happen that can make a catastrophic change down the road,” he said.\nSenra uses Amp, a proprietary software platform, to standardize the inputs throughout the wiring process and produce a digital twin to guide its technicians, who are trained by the company in what Black says is the only federally certified wire harness training program. The company is also, as it scales, finding ways to automate more of the process.\n“It goes back to the Elon principle of, ‘automation is last,’” Black told TechCrunch. “We’re working on it now, but a lot of it the standardization and the foundation building that made SpaceX be able to scale something like rockets, which you could only build one a year if you were lucky, and now they do hundreds a year.”\nSenra — which, by the way, is “harness” spelled backwards, minus the “h” and “s,” because Black says the company takes the “horsesh*t” out of harnesses — produces 1,000 each month across two different factories and plans to increase production to 10,000 a month in 2027.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tTim Fernholz is a journalist who writes about technology, finance and public policy. He has closely covered the rise of the private space industry and is the author of  Rocket Billionaires: Elon Musk, Jeff Bezos and the New Space Race. Formerly, he was a senior reporter at Quartz, the global business news site, for more than a decade, and began his career as a political reporter in Washington, D.C. \nYou can contact or verify outreach from Tim by emailing tim.fernholz@techcrunch.com or via an encrypted message to tim_fernholz.21 on Signal.\r\n\t\n\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "A SpaceX vet raised $65M to pull wire harnesses out of the Cold War era",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/07/Greenshot-2026-06-01-22.19.18.png?w=150"
-      ],
-      "datePublished": "2026-07-15T10:30:00.000Z",
-      "dateModified": "2026-07-15T10:30:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Lorde says AI glasses are ‘not sexy’",
-    "url": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2222568145.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-07-14T23:10:02.000Z",
-    "description": "\nWhile Kylie Jenner serves as a human billboard for Meta’s AI glasses, pop star Lorde isn’t buying it.\nDuring a set at the Mad Cool Festival in Madrid",
-    "body": "\nWhile Kylie Jenner serves as a human billboard for Meta’s AI glasses, pop star Lorde isn’t buying it.\nDuring a set at the Mad Cool Festival in Madrid last week, Lorde had some choice words about the new technology, which many security experts have deemed a privacy nightmare.\n“Increasingly in our world, it gets harder and harder to know what is real,” Lorde told the audience. “You don’t know if someone is wearing sunglasses, or if they’re wearing those f—ed up, f—ing [AI glasses]. Can I just say, for the record, f— the glasses. Don’t get the glasses. Not sexy.”\nLorde has written before about throwing her phone into the ocean, but this was next level.\nThe singer was possibly moved to comment on the latest trends in tech because Ray-Ban, a sponsor of the festival, partners with Meta to make AI glasses. Lorde also performed immediately before the singer Jennie, who is an ambassador for Ray-Ban Meta’s smart glasses line.\n\n\"Increasingly in our world it gets harder and harder to know what is real. You don’t know if someone is wearing sunglasses or if they’re wearing those fucked up fucking.… Can I just say, for the record, 'Fuck the Glasses'. Don’t get the glasses. Not sexy\"– @lorde in Madrid. 💯 pic.twitter.com/NylMCifF66— Lorde fix 🩻🧬⛓️ (@Lorde_fix) July 10, 2026\n\nLorde isn’t alone in raising concerns. Smart glasses, which come with cameras and AI features, have been used as tools for harassment and extortion. Meta, the most popular smart glasses maker, has said it takes privacy seriously and builds in safeguards like a visible recording light, but the company is facing many investigations and lawsuits alleging privacy violations. One lawsuit alleges that Kenyan contract workers were made to watch graphic videos obtained with the glasses to help train Meta’s AI. (Meta hasn’t publicly detailed its response to that specific claim.)\nNone of this has stopped the product from having strong sales. EssilorLuxottica, the Ray-Ban maker, said it sold more than 7 million Meta AI glasses in 2025 — more than triple the roughly 2 million units it sold in 2023 and 2024 combined. Ray-Ban Meta glasses have been such a hit in the smart glasses category that an emboldened Meta keeps expanding the lineup.\nBut, hey, if privacy doesn’t make people think twice about the glasses, maybe vanity will. Lorde nails it pretty concisely with her declaration that they’re simply “not sexy.”\nThe here and now, she added, now that “is sexy.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tAmanda Silberling is a senior writer at TechCrunch covering the intersection of technology and culture. She has also written for publications like Polygon, MTV, the Kenyon Review, NPR, and Business Insider. She is the co-host of Wow If True, a podcast about internet culture, with science fiction author Isabel J. Kim. Prior to joining TechCrunch, she worked as a grassroots organizer, museum educator, and film festival coordinator. She holds a B.A. in English from the University of Pennsylvania and served as a Princeton in Asia Fellow in Laos.\nYou can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Lorde says AI glasses are ‘not sexy’",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2222568145.jpg?w=150"
-      ],
-      "datePublished": "2026-07-14T23:10:02.000Z",
-      "dateModified": "2026-07-14T23:10:02.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "OpenAI pushes back on Apple trade secret lawsuit",
-    "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2197181367.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-07-14T22:07:42.000Z",
-    "description": "\nOpenAI pushed back Tuesday against allegations made by Apple in a trade secret lawsuit, suggesting the complaint lacks merit.\n“While we take these al",
-    "body": "\nOpenAI pushed back Tuesday against allegations made by Apple in a trade secret lawsuit, suggesting the complaint lacks merit.\n“While we take these allegations seriously, we’re not aware of any evidence that this complaint has merit,” OpenAI said in a statement, first shared by Bloomberg reporter Ed Ludlow on X. “We believe in fair competition and allowing people the freedom to work wherever they choose, and we’re focused on building innovative technology that empowers people everywhere.”\nThe statement comes several days after Apple filed a lawsuit against the AI lab, alleging that OpenAI employees, who previously worked at the iPhone maker, engaged in a coordinated effort to obtain confidential information and intellectual property. The 41-page complaint, filed Friday in the U.S. District Court for the Northern District of California, contains a string of allegations against OpenAI leadership, including Chief Hardware Officer Tang Tan. Before joining OpenAI, Tan was a veteran at Apple, where he worked for 24 years and held top positions, including vice president of product design for the iPhone and Apple Watch.\nThis is the first time OpenAI commented on the case itself. In its initial statement hours after Apple filed its lawsuit, it proclaimed a lack of interest in technology developed by other companies, telling TechCrunch: “We have no interest in other companies’ trade secrets. We remain focused on building innovative technology that empowers people everywhere.”\nApple claims in its lawsuit that its internal investigation uncovered evidence that OpenAI and its partners used the company’s confidential information as it develops its own hardware product.\nReports, along with OpenAI’s recent acquisition of Jony Ive’s startup io, suggest the company is working on a device that could directly compete with Apple’s business. Bloomberg reported on Tuesday that OpenAI is working on a mobile, screen-free smart speaker, described by people familiar with the plans as a “humanlike AI companion” designed to live in the home. \nThe device reportedly has no screen, includes moving mechanical elements, and is being built with input from several former Apple engineers who worked on the iPhone and Mac.\nTechCrunch has reached out to OpenAI for further comment and will update this article when the company responds. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tKirsten Korosec is a reporter and editor who has covered the future of transportation from EVs and autonomous vehicles to urban air mobility and in-car tech for more than a decade. She is currently the transportation editor at TechCrunch and co-host of TechCrunch’s Equity podcast. She is also co-founder and co-host of the podcast, “The Autonocast.” She previously wrote for Fortune, The Verge, Bloomberg, MIT Technology Review and CBS Interactive.\nYou can contact or verify outreach from Kirsten by emailing kirsten.korosec@techcrunch.com or via encrypted message at kkorosec.07 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "OpenAI pushes back on Apple trade secret lawsuit",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2197181367.jpg?w=150"
-      ],
-      "datePublished": "2026-07-14T22:07:42.000Z",
-      "dateModified": "2026-07-14T22:07:42.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
-    "url": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/emergent-co-founders-madhav-jha-mukund-jha.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-07-15T12:00:00.000Z",
-    "description": "\nIndian AI coding startup Emergent has raised $130 million in a Series C funding round at a $1.5 billion post-money valuation, a five-fold jump in six",
-    "body": "\nIndian AI coding startup Emergent has raised $130 million in a Series C funding round at a $1.5 billion post-money valuation, a five-fold jump in six months.\nThe funding round was led by private equity firm Creaegis. New investors MNI Ventures-Claypond, Sentinel Global, and existing backers Khosla Ventures, SoftBank’s Vision Fund 2, Lightspeed, and Y Combinator also participated. The deal takes Emergent’s total funding to $230 million. The startup had previously raised a $70 million Series B at a $300 million valuation in January.\nAI coding has attracted hordes of investors, with startups such as Lovable, Replit, and Cursor raising billions in funding to develop tools that allow developers to speed up their work. AI labs such as OpenAI and Anthropic have also pushed deeper into coding. \nEmergent is looking to gain a share of this crowded market by targeting entrepreneurs looking to start new businesses and small and medium-sized companies that have traditionally relied on email, spreadsheets, and messaging apps to run their operations.\n“Our thesis has always been to build a production-grade application for serious builders,” Emergent co-founder and chief executive Mukund Jha (pictured above, right) told TechCrunch in an interview. “So you’re basically getting an engineering team in a box.”\nJha said the startup has reached an annual run-rate revenue of $120 million, up 70% in the last four months, and has more than 200,000 paying customers. Jha started Emergent with his brother Madhav Jha (CTO) in June last year.\nCustomers include trucking companies building software to track shipments; factories; construction businesses creating enterprise resource planning systems; and property managers developing internal customer management tools.\nNorth American customers account for about a third of Emergent’s revenue, Europe makes up another third, and the rest comes from other markets, Jha told TechCrunch. India accounts for about 8% to 9%.\nEmergent’s focus on small businesses and entrepreneurs pits it directly against Replit, which Jha described as the startup’s closest rival. He sought to distinguish Emergent from developer-focused coding tools such as Anthropic’s Claude Code, OpenAI’s Codex, and Cursor, arguing that non-technical users need a platform that handles deployment, hosting, testing, and debugging alongside the work of programming.\nHowever, Jha acknowledged that design remains a weakness, pointing out that many websites built using AI tools tend to look similar. \nEmergent plans to use the fresh capital to accelerate product development and research, including improving the success rate of applications built on its platform and its core AI agent workflows. The company is working to support more complex AI applications, including those that use local and open source models, Jha said, adding that it will also invest in expanding its go-to-market operations.\nThe company is also considering opening an office in Europe, where Jha said Emergent is seeing significant customer traction.\nEmergent has about 200 employees, most of whom work in Bengaluru, with a handful in San Francisco. The startup plans to expand its San Francisco office by 30 to 40 people by the end of the year, Jha said.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tJagmeet covers startups, tech policy-related updates, and all other major tech-centric developments from India for TechCrunch. He previously worked as a principal correspondent at NDTV. \r\nYou can contact or verify outreach from Jagmeet by emailing mail@journalistjagmeet.com.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/07/emergent-co-founders-madhav-jha-mukund-jha.jpg?w=150"
-      ],
-      "datePublished": "2026-07-15T12:00:00.000Z",
-      "dateModified": "2026-07-15T12:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Reelful’s AI turns your camera roll into short-form videos for social media",
-    "url": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/reelful-2.png?w=150",
-    "tag": "Tech",
-    "date": "2026-07-15T13:00:00.000Z",
-    "description": "\nA new iOS app called Reelful uses AI to automatically turn photos and video clips from your camera roll into polished TikTok- and Instagram Reels-sty",
-    "body": "\nA new iOS app called Reelful uses AI to automatically turn photos and video clips from your camera roll into polished TikTok- and Instagram Reels-style videos for social media. Reelful is designed for people who want to create social content, but find traditional video editing tools too complex or time-consuming.\nThe app’s launch reflects a broader shift in video creation, as AI is allowing users to move beyond traditional creative tools to AI agents that are capable of automating content creation. Reelful joins a growing wave of AI startups that are reshaping how content is created, including Opus Clip and Captions.\nReelful, which is currently participating in a16z’s Speedrun program, was founded by Kate Deyneka, a former machine learning engineer at Snapchat who helped develop video and image models. \nDeyneka left the social media giant to build an agentic video editor that helps people create short-form videos automatically, getting rid of the need to spend time selecting clips, adding effects, recording a voiceover, and fine-tuning edits. \n“I want to post more on Instagram, TikTok, YouTube Shorts, but video editing takes a lot of time, so much time that I do not even want to spend it because I have a lot of things going on in my life, especially now as an early-stage founder,” Deyneka said in an interview with TechCrunch. “I have a lot of events, I meet a lot of interesting people, and this is what I see for all my founder friends: they have a very active life, especially right now when AI is booming, but we do not have time to edit. I see Reelful as a tool that can help people build their online presence and their personal brand.”\nReelful works by getting users to enter a prompt describing the story they want to tell, whether it’s a travel recap, product demo, or event highlight. Users then create a voice clone by recording a 30-second sample, and select photos and videos from their camera roll. Reelful will then plan the video, write the script, add an AI voiceover, and assemble the final edit, complete with captions, music, and sound effects. \nImage Credits:Reelful\nReelful will turn still images into AI-generated video clips. For example, if a user includes a photo of someone cutting a mango, Reelful can animate the image into a short video showing the person slicing into the fruit. The AI-generated videos feature a watermark to inform users that it has been created with AI. \nAfter Reelful generates a complete video, users can continue editing it further by chatting with the app to do things like swap the soundtrack, revise the script, or adjust other aspects of the video.\nDeyneka says Reelful’s target audience, at least for now, is founders and business owners who need to consistently create content to build their online presence, personal brand, or company brand. For example, a salon in the Bay Area may have a lot of content on hand about its services and customer transformations, but not have the time or resources to turn that content into polished social media videos. That’s where Reelful comes in, Deyneka says. \n“My target use case is that you went to an event or you met some cool people, and you recorded a short interview with them and while you are driving back home you just uploaded everything to the app, and by the time you’re home, the video is ready,” Deyneka said. “So I want to make it very effortless for people to share their life, their content, their expertise without actively editing or setting up the things on their laptop.”\nReelful offers both one-time purchases and subscription plans. Users can buy video credits in bundles of five videos for $15, 15 videos for $43, or 33 videos for $90. The “Creator” subscription costs $25 per month for 10 videos, while the “Pro” plan offers 25 videos per month for $50. The Studio plan includes 60 videos per month for $100.\nWhile Reelful is currently only available on iOS, Deyneka plans to launch Android and web versions in the future. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing aisha@techcrunch.com or via encrypted message at aisha_malik.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Reelful’s AI turns your camera roll into short-form videos for social media",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/07/reelful-2.png?w=150"
-      ],
-      "datePublished": "2026-07-15T13:00:00.000Z",
-      "dateModified": "2026-07-15T13:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Why Realta Fusion is building a fusion reactor at an old hot dog factory",
-    "url": "https://techcrunch.com/2026/07/15/why-realta-fusion-is-building-a-fusion-reactor-at-an-old-hot-dog-factory/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/05/realta-fusion-device.jpeg?w=150",
-    "tag": "Tech",
-    "date": "2026-07-15T12:00:00.000Z",
-    "description": "\nRealta Fusion has spent the last two years looking for somewhere to build its research and development facility. In the end, it chose the old Oscar M",
-    "body": "\nRealta Fusion has spent the last two years looking for somewhere to build its research and development facility. In the end, it chose the old Oscar Mayer factory in Madison, Wisconsin.\n“From sausages to fusion,” Kieran Furlong, co-founder and CEO of Realta Fusion, told TechCrunch with a chuckle. The new center, called Forge, will create its first plasma in 2029, he said. Realta recently showed that it could convert energy from fusion reactions directly into electricity, potentially easing the path to a commercial power plant.\nThe Oscar Mayer site’s ample power was attractive, as was its proximity to Realta’s existing headquarters in Madison. But what ultimately pushed the startup to stay was bipartisan support from the state’s government, including the governor and the legislature.\n“Wisconsin really decided they want to throw their weight behind fusion,” Furlong said.\nFor the state, the timing could be fortuitous. Fusion power has been on an upswing as demand for electricity surges on the back of economy-wide electrification and proliferating AI data centers. This year alone, fusion power startups have raised over $1.5 billion.\nRealta Fusion will receive an estimated $55 million in incentives from the state of Wisconsin and the city of Madison. The startup also has deep roots in the city, having been spun out of an experiment at the University of Wisconsin-Madison. And the university graduates a number of talented plasma physicists annually, providing a deep pool of talent. Shine, another fusion company, is located in a nearby suburb.\nRealta’s decision to stay in Wisconsin is also surprising given that most fusion startups have located themselves near a national laboratory or on one of the coasts. Another Wisconsin-grown fusion startup, Type One Energy, decamped to Tennessee in 2024.\nSince then, Wisconsin has embraced fusion power. Republicans and Democrats supported a sales tax exemption for the fusion industry, which was signed into law in April. That one measure alone will save Realta an estimated $37.5 million, a significant chunk of the total $55 million package. The state is kicking in another $15 million in enterprise zone tax credits, while the city of Madison has offered $2.8 million in tax increment financing.\nWhile other states might have pitched similar amounts, Furlong said that there were other, intangible benefits to remaining in Wisconsin. \n“It’s also advantageous to be the state champion,” he said. “We get the attention of people who matter, who can help us, who want to see Realta succeed and want to see Wisconsin be a major hub for fusion.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tTim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor. \r\nDe Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.\r\nYou can contact or verify outreach from Tim by emailing tim.dechant@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Why Realta Fusion is building a fusion reactor at an old hot dog factory",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/05/realta-fusion-device.jpeg?w=150"
-      ],
-      "datePublished": "2026-07-15T12:00:00.000Z",
-      "dateModified": "2026-07-15T12:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
-    "url": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/05/vint-cerf-GettyImages-454796419.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-07-15T12:00:00.000Z",
-    "description": "\nVint Cerf says his favorite place is where he’s never been before.\nOne of the architects of the protocols behind the open internet, Cerf left Google ",
-    "body": "\nVint Cerf says his favorite place is where he’s never been before.\nOne of the architects of the protocols behind the open internet, Cerf left Google after 20 years last week, but he’s not done thinking about the digital future. Starting today, he’s advising Innovation Labs, an organization trying to create the open architecture for AI agents to identify themselves.\nInnovation Labs is a subsidiary of Identity Digital, a DNS registry company, which sees domain-name infrastructure as a practical way to hold AI agents accountable and position itself for a future where more online interaction happens between agents than people. Cerf joins a handful of other internet luminaries lending their names to the effort.\nMost AI agents today stay within proprietary systems, calling on internal resources for specific purposes. But businesses are already envisioning a world where they operate far more autonomously across the internet and interact directly with other agents. So far, a key road block has been a lack of a shared standard for identifying and auditing agents.\nA variety of standards are beginning to emerge, and Innovation Labs has proposed DNSid, a system to create identities for agents and link each one to an existing internet domain name, using cryptographic proofs to log its registration over time. Innovation Labs’ interim CEO Allie Kline says the company is trialing the standards with several unnamed hyperscalers and identity companies.\n“I felt like I might be able to help them in a period of time when naming and identification is becoming increasingly important,” Cerf told TechCrunch. “This is largely triggered by the notion of AI agents and the question of what authorities they have, where they have derived those authorities, who is accountable for the behavior of an agent in this context, and where and how its identity is established, and why [you’d] trust it.”\nThose questions promise to be thorny, Cerf says, because AI agents are so much more active than domains, and it’s not yet clear what commitment an organization is making when they register one.\n“It’s going to be a fascinating — and at the same time maybe even exasperating — period in the evolution of the internet and the things that depend on it, because the functionality is so dramatically powerful,” Cerf said.\nWith multiple solutions to the problem under consideration, Cerf says the key to a wide adoption of any protocol will be its functionality. \n“Company X uses agent Y’s technology, and company A uses agent C’s technology, and then they don’t interwork with each other,” Cerf said. “Nobody can do everything that you might want every agent to do… and so we’re going to have to rely on the pressure coming from the users. This is what happened with TCP/IP.”\nOne key to Innovation Labs’ proposal is that it does not come with broader plans to do other kinds of AI business or own the registration data, Kline says. “I think there’s a lot of organ rejection to a hyperscaler releasing [a standard] and having that proprietary data,” she told TechCrunch. \nAnd does Cerf think the agentic economy is the internet’s destiny?\n“I don’t think it’s inevitable,” he said. “But what I do think is inevitable is that people will try to do that. We are fundamentally lazy creatures, and if we find a way to have an an agent do something for us, we’re very likely to choose to do that because [it’s] just easier.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tTim Fernholz is a journalist who writes about technology, finance and public policy. He has closely covered the rise of the private space industry and is the author of  Rocket Billionaires: Elon Musk, Jeff Bezos and the New Space Race. Formerly, he was a senior reporter at Quartz, the global business news site, for more than a decade, and began his career as a political reporter in Washington, D.C. \nYou can contact or verify outreach from Tim by emailing tim.fernholz@techcrunch.com or via an encrypted message to tim_fernholz.21 on Signal.\r\n\t\n\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2023/05/vint-cerf-GettyImages-454796419.jpg?w=150"
-      ],
-      "datePublished": "2026-07-15T12:00:00.000Z",
-      "dateModified": "2026-07-15T12:00:00.000Z",
+      "datePublished": "2026-07-15T18:04:06.000Z",
+      "dateModified": "2026-07-15T18:04:06.000Z",
       "author": [
         {
           "@type": "Person",
