@@ -50,156 +50,6 @@
     }
   },
   {
-    "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
-    "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/08/patreon-logo-v1.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-07-17T15:21:17.000Z",
-    "description": "\nPatreon, the membership platform for creators, is cracking down on AI scraping its content for training purposes. On Thursday, the company shared tha",
-    "body": "\nPatreon, the membership platform for creators, is cracking down on AI scraping its content for training purposes. On Thursday, the company shared that it’s working with internet infrastructure provider Cloudflare to directly block access to AI bots designed to train their AI models on creators’ work without permission.\nThe strengthened measures were necessary because AI scraping has become more sophisticated since it first put measures in place to deter AI crawlers in 2023, the company says. In addition, Patreon’s paywall has long locked much of creators’ content out of reach of crawlers. But more recently, the company introduced new discovery tools like a redesigned Home Feed and its tweet-like Quips, which could expose more content to crawlers.\nThe changes come about as more online publishers and content creators are coming to grips with how AI is ingesting their work for the purpose of making their AI models smarter. To combat this, Cloudflare now offers tools that allow website publishers to restrict AI bots, including a marketplace that lets websites charge AI bots for scraping, dubbed Pay Per Crawl. Earlier this month, it changed its policies so that “mixed-use” crawlers, meaning those that both index and train on a website’s content, are blocked by default on any pages that host ads.\nPatreon says that it’s extending its existing work with Cloudflare to use the company’s AI Crawl Control technology to update its AI policies and enforcement tools. The difference here is that instead of simply asking AI crawlers not to scrape content using the robots.txt files — a standard way to provide bots with instructions on how they can use its site — Patreon is now actively blocking AI training bots. \n“Consent shouldn’t depend on whether a scraper chooses to behave,” a Patreon blog post explains, referencing the stricter measures.\nWhen testing the features, individual AI training crawlers’ weekly attempts to access Patreon went from “thousands of attempts to zero,” the post noted. That indicates that the AI scrapers were ignoring Patreon’s robots.txt file and scraping the site anyway, despite its requests. \nHowever, the company said that it will allow bots that index pages and organize information that can be used to send users back to Patreon. \n“As AI agents become increasingly powerful and popular, creators deserve a meaningful say in how their work is used by AI companies,” remarked Patreon’s product chief Drew Rowny in the announcement. “On most of the Internet, creators have to accept AI training on their work just to reach and grow an audience. Patreon has a different vision: creators should be able to grow their audience and control how their work is used.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Patreon stops asking AI bots not to scrape — and starts blocking them",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/08/patreon-logo-v1.jpg?w=150"
-      ],
-      "datePublished": "2026-07-17T15:21:17.000Z",
-      "dateModified": "2026-07-17T15:21:17.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "SpaceX suddenly aborts second Starship V3 launch after ignition",
-    "url": "https://techcrunch.com/2026/07/16/spacex-suddenly-aborts-second-starship-v3-launch-after-ignition/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-16-at-6.50.25-PM.png?w=150",
-    "tag": "Tech",
-    "date": "2026-07-16T23:01:27.000Z",
-    "description": "\nSpaceX abruptly aborted the second attempted launch of its upgraded Starship rocket system on Thursday, just moments after the booster ignited at the",
-    "body": "\nSpaceX abruptly aborted the second attempted launch of its upgraded Starship rocket system on Thursday, just moments after the booster ignited at the company’s complex in South Texas. \nCEO Elon Musk said on his social media platform X that “[s]ome of the engines didn’t start, triggering an automatic launch abort” and that the company will replace two of them. SpaceX won’t try to launch Starship again until next week, he wrote.\nSpaceX was hoping to launch its first third-generation Starlink satellites into space — although they are supposed to burn up around 20 minutes after deployment, as Starship has not yet demonstrated the ability to reach Earth orbit.\nThis is also SpaceX’s first Starship test launch attempt since it went public on June 12 in the largest IPO in history. The company raised more than $85 billion in the transaction and briefly touched the valuations of Amazon and Microsoft, though its stock has steadily fallen over the intervening month.\nOn Thursday, SpaceX’s stock price closed below its IPO price of $135. Its stock sank more than 4% in after-hours trading after the aborted launch. \nSpaceX was trying to return to flight just a few weeks after the first-ever launch of Starship V3 in May. That mission was a mixed bag. \nGetting off the launchpad with the first version of a newly upgraded rocket was a big step forward, and the company was able to deploy a number of Starlink simulators into space. But the Super Heavy booster stage suffered a failure before it could attempt a simulated landing in the Gulf of Mexico, leading to an FAA-ordered review of what went wrong. (The FAA cleared the company to fly Starship again earlier this week after identifying a number of causes and fixes for the booster failure.)\nStarship’s upper stage also lost an engine on its way to deploying the Starlink simulators during the May mission. The upper stage was able to perform its own simulated landing over the water without a hitch.\nSpaceX was hoping to take another step forward Thursday by launching the V3 Starlink satellites. The upgraded Starship and Starlink are key to SpaceX’s incredibly ambitious plans to prove that the concept of “orbital data centers” is both technologically and economically viable. Starlink is also the largest revenue generator and the only profitable portion of SpaceX’s business.\nThursday’s launch attempt looked to be chugging along just fine, with only a brief hold in the countdown at T-minus one minute before the scheduled launch attempt. That hold cleared quickly, and the countdown resumed.\nAs the countdown expired, the launchpad’s water deluge system fired up, and the booster stage visibly began firing its engines — only for everything to suddenly shut down. Graphics on SpaceX’s broadcast appeared to show that four of the company’s new Raptor engines did not fire upon ignition.\nSpaceX now has to take all the propellant out of both the Super Heavy booster and the upper stage, before determining exactly what went wrong on Thursday. \nThis story has been updated with new information from Elon Musk.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "SpaceX suddenly aborts second Starship V3 launch after ignition",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-16-at-6.50.25-PM.png?w=150"
-      ],
-      "datePublished": "2026-07-16T23:01:27.000Z",
-      "dateModified": "2026-07-16T23:01:27.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-    "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=150",
-    "tag": "Tech",
-    "date": "2026-07-17T22:12:56.000Z",
-    "description": "\nDatabricks on Thursday announced a new round of funding that values the company at $188 billion. The round was led by Coatue.\nDatabricks didn’t discl",
-    "body": "\nDatabricks on Thursday announced a new round of funding that values the company at $188 billion. The round was led by Coatue.\nDatabricks didn’t disclose exactly how much it raised; it said the money isn’t in its hands yet and that the round will close later in this summer. (Other outlets have since reported the raise is roughly $3 billion.) While it’s unusual for a company to announce before it gets the money, a VC tells TechCrunch that the deal is solid, with so many firms wanting in that the company had no reason to keep its shiny new valuation a secret.\nIn fact, Databricks has been on a year-and-a-half fundraising tear as it successfully transitioned its image into an AI provider and not just a yesteryear SaaS sensation. Yesteryear being back in the BC times (Before ChatGPT).\nOnly five months ago, in February, Databricks closed a $5 billion Series L raise at a $134 billion valuation. Five months before that, in September 2025, it raised $1B at $100 billion valuation. And roughly nine months before that, in December 2024, it raised what was a record-breaking round at the time of $10 billion at a $62 billion valuation.\nDatabricks has raised so many rounds over the years that this latest one became the subject of memes about running out of letters of the alphabet. “Turning on alerts for when we get a Series AA,” one person posted.\nBut its image reconstruction has been legit. Founded in 2013, it initially grew to success back in the big data era, with software that enabled enterprises to store enormous amounts of data in the cloud, yet produce speedy analytics.\nBecause it already sat on troves of enterprise data, Databricks was then well-positioned to respond as companies started wanting AI with the same security and governance they expect from traditional enterprise software.\nThe company began rolling out one AI product after another, like Lakebase, its database built for AI agents, and Unity, its AI gateway, along with a “meta-harness” called Omnigent that manages multiple agents.\nDatabricks also increasingly became known as one of the big examples of enterprises adopting more affordable Chinese-based open-weight models (models whose underlying code is published for anyone to use and modify) for cost control, one of the big trends of 2026. It is a particular champion of Z.ai’s GLM 5.2 as a model for coding.\nLast week Databricks CEO Ali Ghodsi shared the results of some internal benchmarking done to manage his own AI costs for his 3,000 software engineers. \nThe company compared AI models on the actual tasks its programmers do. Not surprisingly, in the blog post revealing the results, Databricks shared that “open models, and GLM 5.2 in particular, are now able to handle even the highest level of task difficulty” in coding, and at a total lower cost than proprietary models from Anthropic and OpenAI.\nBut it did surprise people by finding that the choice of harness — the agentic coding tool, like Codex or Claude Code, that wraps around a model and manages its context and instructions — equally impacted costs. It found that open-source harness Pi to be one of the best at managing context surrounding each prompt, and therefore one of the lowest costs choices without sacrificing quality.\n“The lesson here isn’t that one harness is always cheaper or that native harnesses are worse,” the post declared. “Instead, model choice is only one piece of the puzzle.” \nAll of this has added to Databricks image as an AI company, even if it wasn’t founded as an AI lab. This, in turn, has granted it the AI-halo for raising money and leaping its valuation. As we previously reported, the AI effect is so strong these days, that even sandwich shop Jersey Mike’s mentioned AI 22 times in its S-1 documents.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=150"
-      ],
-      "datePublished": "2026-07-17T22:12:56.000Z",
-      "dateModified": "2026-07-17T22:12:56.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
-    "url": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/Mockup-of-Valar-Atomics-site.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-07-17T19:22:00.000Z",
-    "description": "\nValar Atomics, a startup building small modular nuclear reactors (SMRs) — essentially miniaturized, factory-built power plants designed to be cheaper",
-    "body": "\nValar Atomics, a startup building small modular nuclear reactors (SMRs) — essentially miniaturized, factory-built power plants designed to be cheaper and faster to deploy than traditional reactors — is in talks to raise a new round of capital, according to three sources familiar with the company. The three-year-old company is seeking a valuation of about $6 billion, and Sequoia is expected to lead the deal, the people said.\nThe Information was the first to report the funding discussions, including that the El Segundo, California, startup is raising a $1 billion equity round.\nPart of that capital has been raised previously at a lower valuation, the people told TechCrunch. Specifically, Valar has raised $450 million — including $340 million in equity and $110 million in debt — at a $2 billion valuation, per a  Bloomberg report in March.  \nDeals structured in multiple installments at varying valuations, occasionally executed at different times, are becoming increasingly common in today’s AI-fueled fundraising environment. These deals can create the perception that capital was invested at a single, uniform valuation. In reality, investors in the same round can end up paying different prices for the same company —  a distinction that matters more than ever as outsiders try to benchmark red-hot startups against one another.\nSequoia and Valar Atomics declined to comment. \nEarlier this month, the company showed that its nuclear reactor provided a small amount of power to an Nvidia AI chip.  Concurrently with that proof-of-concept demonstration, Valar and Nvidia announced a partnership to explore the development of nuclear energy to power future AI data centers.\nValar’s rise is playing out against a broader demand crunch. Data center electricity needs are projected to grow sharply over the next several years, and utilities in many regions are years away from adding enough new capacity. That vacuum has turned nuclear power — long plagued by cost overruns and regulatory bottlenecks — into one of the more closely watched corners of the AI infrastructure boom. \nValar counts Palmer Luckey, the Anduril founder, and Shyam Sankar, Palantir’s chief technology officer, among its backers. Others chasing the opportunity include Kairos Power and TerraPower (backed by Bill Gates), which are building next-generation reactors aimed at tech and industrial customers, and NuScale Power, the only SMR developer with U.S. regulatory design approval. (Last year, it won approval for an upgraded, higher-output reactor design.)\nValar’s technology is based on a helium-cooled, high-temperature gas reactor. The company says it eventually plans to build hundreds of SMRs to power data centers. But while SMRs are theoretically cheaper to manufacture than traditional reactors, the technology is still nascent and it’s not at all clear how long it will take to be deployed at industrial scale.\nIn the background, Valar has taken an aggressive legal stance toward its regulator. Last year, it joined several states and rival startups in suing the Nuclear Regulatory Commission, arguing the agency wrongly applies the same lengthy licensing process to small test reactors that it uses for full-size commercial plants. (The case hasn’t been unresolved, with both sides repeatedly pausing litigation, which suggests some kind of settlement is in the works.)\nThe company was founded by Isaiah Taylor, who dropped out of high school when he was 16. The now-27-year-old has said he launched two startups before Valar and proudly shared that his great-grandfather worked as a nuclear physicist on the Manhattan Project.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tMarina Temkin is a venture capital and startups reporter at TechCrunch. Prior to joining TechCrunch, she wrote about VC for PitchBook and Venture Capital Journal. Earlier in her career, Marina was a financial analyst and earned a CFA charterholder designation.\r\nYou can contact or verify outreach from Marina by emailing marina.temkin@techcrunch.com or via encrypted message at +1 347-683-3909 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/02/Mockup-of-Valar-Atomics-site.jpg?w=150"
-      ],
-      "datePublished": "2026-07-17T19:22:00.000Z",
-      "dateModified": "2026-07-17T19:22:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
-    "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/General-Compute-Billboard.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-07-17T12:00:00.000Z",
-    "description": "\nGeneral Compute, an AI inference cloud startup, has landed a $400 million loan from Upper90, a tech investment firm. It might be the first deal to pu",
-    "body": "\nGeneral Compute, an AI inference cloud startup, has landed a $400 million loan from Upper90, a tech investment firm. It might be the first deal to put up inference-specific chips as collateral — chips built to run already trained AI models quickly and efficiently, rather than the more expensive chips used to build the models in the first place.\nThe financing is the latest signal that markets are responding to concerns over the price of AI tools and tokens by turning to infrastructure that runs open source models more cheaply than the newest LLMs from frontier labs.\nFounded by CEO Finn Puklowski and CTO Jason Goodison, General Compute raised a $15 million seed round in May to build an inference neocloud around silicon from SambaNova, an Intel-backed chipmaker. (Neoclouds are purpose-built for AI workloads, unlike the general-purpose infrastructure offered by traditional hyperscalers like AWS or Azure.)\nThe company’s SN50 chips are designed for inference. They’re power-efficient and don’t require expensive water-cooling systems, which means they can be deployed more quickly than GPUs across a larger variety of data centers. General Compute says the new chips will provide 16 times faster inference than GPU-based clouds.\nThe challenge is getting a lot of these chips, especially when you’re a brand-new company.\nUpper90 co-founder and CEO Billy Libby, a former Goldman Sachs quantitative trader, had a playbook for this: In 2021, his firm financed GPU purchases by Crusoe, the energy-focused data center startup, which he believes was the first loan against the value of advanced chips.\nTraditional lenders eschewed such deals at the time because of the risks and uncertainties around GPU depreciation. But as CoreWeave made chips-backed loans into a business model and then the basis of a blockbuster IPO, this kind of financing has become common.\n“When we financed Nvidia GPUs as the first group to do that, the market was inefficient,” Libby told TechCrunch. “We could really put together something as an early participant, and kind of get compensated for the risk.”\nNow that GPUs are comparatively well understood and perhaps over-bought, Upper90 is turning to companies like General Compute to ride the next wave of the AI boom. “We think open source models are going to be important, and we went and looked for a player last year that was in inference,” Libby said. “Everyone doesn’t need a supercomputer, but they do need inference and AI.”\nThat thesis has been growing stronger, with companies that provide access to open models, like OpenRouter and Fireworks, raising new rounds at huge valuations. New models like Kimi’s K3 have proven to compete with the latest releases from Anthropic and OpenAI on coding benchmarks. And new chipmakers like Groq and Cerebras have drawn interest from acquirers and public markets alike.\nGeneral Compute’s ability to access chips outside of Nvidia’s ecosystem matters for the same reason. TensorWave, another AI infrastructure company, is making a similar bet on a partnership with AMD. As more alternatives to Nvidia emerge, compute providers that aren’t locked into Nvidia deals may have an advantage in providing cost-efficient inference.\n“There are a bunch of chips that are starting to scale that have amazing [total cost of ownership], or that can operate much faster than Nvidia, but there’s not too many buyers for them,” Puklowski said. “By getting together with Upper90, this is not just, ‘a cool startup got some money to buy some compute.’ Like, this is the first signal of capital organizing itself and the fragmenting of Nvidia’s monopolistic dominance.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tTim Fernholz is a journalist who writes about technology, finance and public policy. He has closely covered the rise of the private space industry and is the author of  Rocket Billionaires: Elon Musk, Jeff Bezos and the New Space Race. Formerly, he was a senior reporter at Quartz, the global business news site, for more than a decade, and began his career as a political reporter in Washington, D.C. \nYou can contact or verify outreach from Tim by emailing tim.fernholz@techcrunch.com or via an encrypted message to tim_fernholz.21 on Signal.\r\n\t\n\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/07/General-Compute-Billboard.jpg?w=150"
-      ],
-      "datePublished": "2026-07-17T12:00:00.000Z",
-      "dateModified": "2026-07-17T12:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "I replaced my space heater and ceiling fan with one Dyson appliance",
-    "url": "https://techcrunch.com/2026/07/17/i-replaced-my-space-heater-and-ceiling-fan-with-one-dyson-appliance/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/dyson-hf1.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-07-17T18:00:17.000Z",
-    "description": "\nThe Dyson Hot+Cool HF1 is a sleek 2-in-1 smart appliance that provides heating in the winter and cooling in the summer. Designed for year-round comfo",
-    "body": "\nThe Dyson Hot+Cool HF1 is a sleek 2-in-1 smart appliance that provides heating in the winter and cooling in the summer. Designed for year-round comfort, the $499 unit combines quiet operation and smart controls with Dyson’s signature bladeless design.\nI typically use a ceiling fan for the summer and a space heater for the winter. After three months of testing, the HF1 was a game changer for me, and not just because it replaced two appliances. It was HF1’s smart features that made this appliance particularly handy. Dyson provided the HF1 unit, which will be returned to the manufacturer.\nAlthough you can control the HF1 using the onboard controls or the included remote, you can also operate it from your smartphone with the MyDyson app. I found it especially convenient to turn the HF1 on or off from my phone — even when I wasn’t in the room — as well as set timers, adjust the oscillation, and create schedules so it would automatically turn on whenever I wanted. \nThe HF1 is quiet enough for bedrooms and home offices. In Sleep mode, it operates at just 26 decibels and automatically dims its display. I’m a light sleeper who prefers complete silence at night, and I was able to adjust the fan noise quickly.\nThe HF1 features an adjustable tilt that lets you direct airflow where you need it. For wider coverage, it can be adjusted to oscillate at 15, 40, or 70 degrees.\nImage Credits:Dyson\nThe HF1’s intelligent thermostat continuously monitors the room and automatically adjusts its heating output to reach and maintain your chosen temperature. One important caveat: The HF1’s cooling mode is essentially a high-powered fan, not an air conditioner, so it circulates air rather than lowering the room’s temperature.\nOne of my favorite features about the HF1 is its bladeless design, which makes it incredibly easy to clean. A quick wipe with a cloth is all it takes to remove dust, and unlike traditional fans and heaters, you don’t have to clean any grilles or blades. \nThe bladeless design also makes it a safer choice for homes with pets and children, as there are no exposed blades for curious hands or paws to get caught in. However, the metal casing around the front of the HF1 can get slightly hot to the touch while it’s in the heating mode.\nAnother nice safety feature is that the fan automatically shuts off if it’s tipped over. \nIn terms of size, the HF1 is compact and light, weighing just under six pounds and standing 23 inches tall. Its slim design made it easy to move from room to room without taking up too much space or looking out of place.\nWhile the HF1 comes with a premium price tag, it’s a worthwhile investment if you want a single appliance for year-round use. Its combination of heating, cooling, smart features, quiet operation, and easy maintenance makes it a compelling upgrade over a standard space heater or fan.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing aisha@techcrunch.com or via encrypted message at aisha_malik.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "I replaced my space heater and ceiling fan with one Dyson appliance",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/07/dyson-hf1.jpg?w=150"
-      ],
-      "datePublished": "2026-07-17T18:00:17.000Z",
-      "dateModified": "2026-07-17T18:00:17.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Agility Robotics plants its flag in Tesla’s backyard",
     "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/1P1A6479-e1784319814141.jpg?w=115",
@@ -250,6 +100,31 @@
     }
   },
   {
+    "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+    "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=150",
+    "tag": "Tech",
+    "date": "2026-07-17T22:12:56.000Z",
+    "description": "\nDatabricks on Thursday announced a new round of funding that values the company at $188 billion. The round was led by Coatue.\nDatabricks didn’t discl",
+    "body": "\nDatabricks on Thursday announced a new round of funding that values the company at $188 billion. The round was led by Coatue.\nDatabricks didn’t disclose exactly how much it raised; it said the money isn’t in its hands yet and that the round will close later this summer. (Other outlets have since reported the raise is roughly $3 billion.) While it’s unusual for a company to announce before it gets the money, a VC tells TechCrunch that the deal is solid, with so many firms wanting in that the company had no reason to keep its shiny new valuation a secret.\nIn fact, Databricks has been on a year-and-a-half fundraising tear as it successfully transitioned its image into an AI provider and not just a yesteryear SaaS sensation. Yesteryear being back in the BC times (Before ChatGPT).\nOnly five months ago, in February, Databricks closed a $5 billion Series L raise at a $134 billion valuation. Five months before that, in September 2025, it raised $1 billion at a $100 billion valuation. And roughly nine months before that, in December 2024, it raised what was a record-breaking round at the time of $10 billion at a $62 billion valuation.\nDatabricks has raised so many rounds over the years that this latest one became the subject of memes about running out of letters of the alphabet. “Turning on alerts for when we get a Series AA,” one person posted.\nBut its image reconstruction has been legit. Founded in 2013, it initially grew to success back in the big data era, with software that enabled enterprises to store enormous amounts of data in the cloud, yet produce speedy analytics.\nBecause it already sat on troves of enterprise data, Databricks was then well-positioned to respond as companies started wanting AI with the same security and governance they expect from traditional enterprise software.\nThe company began rolling out one AI product after another, like Lakebase, its database built for AI agents, and Unity, its AI gateway, along with a “meta-harness” called Omnigent that manages multiple agents.\nDatabricks also increasingly became known as one of the big examples of enterprises adopting more affordable Chinese-based open-weight models (models whose underlying code is published for anyone to use and modify) for cost control, one of the big trends of 2026. It is a particular champion of Z.ai’s GLM 5.2 as a model for coding.\nLast week Databricks CEO Ali Ghodsi shared the results of some internal benchmarking done to manage his own AI costs for his 3,000 software engineers. \nThe company compared AI models on the actual tasks its programmers do. Not surprisingly, in the blog post revealing the results, Databricks shared that “open models, and GLM 5.2 in particular, are now able to handle even the highest level of task difficulty” in coding, and at a total lower cost than proprietary models from Anthropic and OpenAI.\nBut it did surprise people by finding that the choice of harness — the agentic coding tool, like Codex or Claude Code, that wraps around a model and manages its context and instructions — equally impacted costs. It found that open-source harness Pi to be one of the best at managing context surrounding each prompt, and therefore one of the lowest costs choices without sacrificing quality.\n“The lesson here isn’t that one harness is always cheaper or that native harnesses are worse,” the post declared. “Instead, model choice is only one piece of the puzzle.” \nAll of this has added to Databricks image as an AI company, even if it wasn’t founded as an AI lab. This, in turn, has granted it the AI-halo for raising money and leaping its valuation. As we previously reported, the AI effect is so strong these days, that even sandwich shop Jersey Mike’s mentioned AI 22 times in its S-1 documents.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=150"
+      ],
+      "datePublished": "2026-07-17T22:12:56.000Z",
+      "dateModified": "2026-07-17T22:12:56.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
     "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?w=150",
@@ -275,22 +150,47 @@
     }
   },
   {
-    "title": "FBI arrests man accused of using Steam games to drain victims’ crypto wallets",
-    "url": "https://techcrunch.com/2026/07/17/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/piratefi-malware-steam-valve.png?w=150",
+    "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
+    "url": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/Mockup-of-Valar-Atomics-site.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-07-17T16:18:09.000Z",
-    "description": "\nU.S. prosecutors have accused a Florida man of uploading fake video games that contained malware to Steam, the popular PC games platform. Once victim",
-    "body": "\nU.S. prosecutors have accused a Florida man of uploading fake video games that contained malware to Steam, the popular PC games platform. Once victims downloaded and installed the games, the malware was designed to infect their computers, steal their passwords and other data, and drain their crypto wallets, according to a criminal complaint.\nOn Tuesday, the FBI arrested Zyaire Wilkins, a 21-year-old Florida resident and student. On Wednesday, prosecutors accused him and a number of unnamed co-conspirators of hacking crimes. Over the past two years, Wilkins and his partners allegedly published several malware-laden video games on Steam, including BlockBlasters, Dashverse, Lampy, Lunara, and PirateFi. Using that malware, says the FBI, Wilkins and his accomplices infected around 8,000 victims, and then hacked around 80 cryptocurrency wallets to steal at least $220,000 worth of crypto.\nWilkins and the others marketed their malicious video games on Discord, LinkedIn, and Telegram, according to the authorities.  \nWilkins’ lawyer did not respond to a request for comment. \nIn March, the FBI announced that it was investigating a hacker suspected of using malware-embedded video games published on Steam to hack victims. In the announcement, the bureau called for people who downloaded the malicious games, which included those named in this week’s complaint, to come forward and provide evidence to aid the investigation. \nIn the last year, Steam’s maker Valve has removed several video games from its platform after they were found to contain malware, including PirateFi. All the games were designed to look legitimate, to the point that players could install them and play them, but they all contained malware. \nAfter the FBI identified another person involved in the crimes, according to the complaint, federal agents interviewed them. The unnamed person said they worked with other people to raise money to launch and market the malicious games in return for sharing some of the stolen cryptocurrency. The FBI identified a specific crypto account involved in the scheme, and then traced cryptocurrency payments made with that account to buy several gift cards, including for Uber Eats. After subpoenaing Uber, the feds were able to see that the gift cards were linked to an account that made deliveries to Wilkins, who went by the nickname Sibel.eth online, according to the complaint. \nThe feds then got a search warrant for Wilkins’ residence, where they seized his MacBook laptop, cellphones, other devices, and digital wallets. According to the complaint, he refused to speak or answer any questions.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tLorenzo Franceschi-Bicchierai is a Senior Writer at TechCrunch, where he covers hacking, cybersecurity, surveillance, and privacy. \nYou can contact or verify outreach from Lorenzo by emailing lorenzo@techcrunch.com, via encrypted message at +1 917 257 1382 on Signal, and @lorenzofb on Keybase/Telegram.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-07-17T19:22:00.000Z",
+    "description": "\nValar Atomics, a startup building small modular nuclear reactors (SMRs) — essentially miniaturized, factory-built power plants designed to be cheaper",
+    "body": "\nValar Atomics, a startup building small modular nuclear reactors (SMRs) — essentially miniaturized, factory-built power plants designed to be cheaper and faster to deploy than traditional reactors — is in talks to raise a new round of capital, according to three sources familiar with the company. The three-year-old company is seeking a valuation of about $6 billion, and Sequoia is expected to lead the deal, the people said.\nThe Information was the first to report the funding discussions, including that the El Segundo, California, startup is raising a $1 billion equity round.\nPart of that capital has been raised previously at a lower valuation, the people told TechCrunch. Specifically, Valar has raised $450 million — including $340 million in equity and $110 million in debt — at a $2 billion valuation, per a  Bloomberg report in March.  \nDeals structured in multiple installments at varying valuations, occasionally executed at different times, are becoming increasingly common in today’s AI-fueled fundraising environment. These deals can create the perception that capital was invested at a single, uniform valuation. In reality, investors in the same round can end up paying different prices for the same company —  a distinction that matters more than ever as outsiders try to benchmark red-hot startups against one another.\nSequoia and Valar Atomics declined to comment. \nEarlier this month, the company showed that its nuclear reactor provided a small amount of power to an Nvidia AI chip.  Concurrently with that proof-of-concept demonstration, Valar and Nvidia announced a partnership to explore the development of nuclear energy to power future AI data centers.\nValar’s rise is playing out against a broader demand crunch. Data center electricity needs are projected to grow sharply over the next several years, and utilities in many regions are years away from adding enough new capacity. That vacuum has turned nuclear power — long plagued by cost overruns and regulatory bottlenecks — into one of the more closely watched corners of the AI infrastructure boom. \nValar counts Palmer Luckey, the Anduril founder, and Shyam Sankar, Palantir’s chief technology officer, among its backers. Others chasing the opportunity include Kairos Power and TerraPower (backed by Bill Gates), which are building next-generation reactors aimed at tech and industrial customers, and NuScale Power, the only SMR developer with U.S. regulatory design approval. (Last year, it won approval for an upgraded, higher-output reactor design.)\nValar’s technology is based on a helium-cooled, high-temperature gas reactor. The company says it eventually plans to build hundreds of SMRs to power data centers. But while SMRs are theoretically cheaper to manufacture than traditional reactors, the technology is still nascent and it’s not at all clear how long it will take to be deployed at industrial scale.\nIn the background, Valar has taken an aggressive legal stance toward its regulator. Last year, it joined several states and rival startups in suing the Nuclear Regulatory Commission, arguing the agency wrongly applies the same lengthy licensing process to small test reactors that it uses for full-size commercial plants. (The case hasn’t been unresolved, with both sides repeatedly pausing litigation, which suggests some kind of settlement is in the works.)\nThe company was founded by Isaiah Taylor, who dropped out of high school when he was 16. The now-27-year-old has said he launched two startups before Valar and proudly shared that his great-grandfather worked as a nuclear physicist on the Manhattan Project.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tMarina Temkin is a venture capital and startups reporter at TechCrunch. Prior to joining TechCrunch, she wrote about VC for PitchBook and Venture Capital Journal. Earlier in her career, Marina was a financial analyst and earned a CFA charterholder designation.\r\nYou can contact or verify outreach from Marina by emailing marina.temkin@techcrunch.com or via encrypted message at +1 347-683-3909 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "FBI arrests man accused of using Steam games to drain victims’ crypto wallets",
+      "headline": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/02/piratefi-malware-steam-valve.png?w=150"
+        "https://techcrunch.com/wp-content/uploads/2025/02/Mockup-of-Valar-Atomics-site.jpg?w=150"
       ],
-      "datePublished": "2026-07-17T16:18:09.000Z",
-      "dateModified": "2026-07-17T16:18:09.000Z",
+      "datePublished": "2026-07-17T19:22:00.000Z",
+      "dateModified": "2026-07-17T19:22:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
+    "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/08/patreon-logo-v1.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-07-17T15:21:17.000Z",
+    "description": "\nPatreon, the membership platform for creators, is cracking down on AI scraping its content for training purposes. On Thursday, the company shared tha",
+    "body": "\nPatreon, the membership platform for creators, is cracking down on AI scraping its content for training purposes. On Thursday, the company shared that it’s working with internet infrastructure provider Cloudflare to directly block access to AI bots designed to train their AI models on creators’ work without permission.\nThe strengthened measures were necessary because AI scraping has become more sophisticated since it first put measures in place to deter AI crawlers in 2023, the company says. In addition, Patreon’s paywall has long locked much of creators’ content out of reach of crawlers. But more recently, the company introduced new discovery tools like a redesigned Home Feed and its tweet-like Quips, which could expose more content to crawlers.\nThe changes come about as more online publishers and content creators are coming to grips with how AI is ingesting their work for the purpose of making their AI models smarter. To combat this, Cloudflare now offers tools that allow website publishers to restrict AI bots, including a marketplace that lets websites charge AI bots for scraping, dubbed Pay Per Crawl. Earlier this month, it changed its policies so that “mixed-use” crawlers, meaning those that both index and train on a website’s content, are blocked by default on any pages that host ads.\nPatreon says that it’s extending its existing work with Cloudflare to use the company’s AI Crawl Control technology to update its AI policies and enforcement tools. The difference here is that instead of simply asking AI crawlers not to scrape content using the robots.txt files — a standard way to provide bots with instructions on how they can use its site — Patreon is now actively blocking AI training bots. \n“Consent shouldn’t depend on whether a scraper chooses to behave,” a Patreon blog post explains, referencing the stricter measures.\nWhen testing the features, individual AI training crawlers’ weekly attempts to access Patreon went from “thousands of attempts to zero,” the post noted. That indicates that the AI scrapers were ignoring Patreon’s robots.txt file and scraping the site anyway, despite its requests. \nHowever, the company said that it will allow bots that index pages and organize information that can be used to send users back to Patreon. \n“As AI agents become increasingly powerful and popular, creators deserve a meaningful say in how their work is used by AI companies,” remarked Patreon’s product chief Drew Rowny in the announcement. “On most of the Internet, creators have to accept AI training on their work just to reach and grow an audience. Patreon has a different vision: creators should be able to grow their audience and control how their work is used.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Patreon stops asking AI bots not to scrape — and starts blocking them",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2024/08/patreon-logo-v1.jpg?w=150"
+      ],
+      "datePublished": "2026-07-17T15:21:17.000Z",
+      "dateModified": "2026-07-17T15:21:17.000Z",
       "author": [
         {
           "@type": "Person",
@@ -350,6 +250,81 @@
     }
   },
   {
+    "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+    "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/General-Compute-Billboard.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-07-17T12:00:00.000Z",
+    "description": "\nGeneral Compute, an AI inference cloud startup, has landed a $400 million loan from Upper90, a tech investment firm. It might be the first deal to pu",
+    "body": "\nGeneral Compute, an AI inference cloud startup, has landed a $400 million loan from Upper90, a tech investment firm. It might be the first deal to put up inference-specific chips as collateral — chips built to run already trained AI models quickly and efficiently, rather than the more expensive chips used to build the models in the first place.\nThe financing is the latest signal that markets are responding to concerns over the price of AI tools and tokens by turning to infrastructure that runs open source models more cheaply than the newest LLMs from frontier labs.\nFounded by CEO Finn Puklowski and CTO Jason Goodison, General Compute raised a $15 million seed round in May to build an inference neocloud around silicon from SambaNova, an Intel-backed chipmaker. (Neoclouds are purpose-built for AI workloads, unlike the general-purpose infrastructure offered by traditional hyperscalers like AWS or Azure.)\nThe company’s SN50 chips are designed for inference. They’re power-efficient and don’t require expensive water-cooling systems, which means they can be deployed more quickly than GPUs across a larger variety of data centers. General Compute says the new chips will provide 16 times faster inference than GPU-based clouds.\nThe challenge is getting a lot of these chips, especially when you’re a brand-new company.\nUpper90 co-founder and CEO Billy Libby, a former Goldman Sachs quantitative trader, had a playbook for this: In 2021, his firm financed GPU purchases by Crusoe, the energy-focused data center startup, which he believes was the first loan against the value of advanced chips.\nTraditional lenders eschewed such deals at the time because of the risks and uncertainties around GPU depreciation. But as CoreWeave made chips-backed loans into a business model and then the basis of a blockbuster IPO, this kind of financing has become common.\n“When we financed Nvidia GPUs as the first group to do that, the market was inefficient,” Libby told TechCrunch. “We could really put together something as an early participant, and kind of get compensated for the risk.”\nNow that GPUs are comparatively well understood and perhaps over-bought, Upper90 is turning to companies like General Compute to ride the next wave of the AI boom. “We think open source models are going to be important, and we went and looked for a player last year that was in inference,” Libby said. “Everyone doesn’t need a supercomputer, but they do need inference and AI.”\nThat thesis has been growing stronger, with companies that provide access to open models, like OpenRouter and Fireworks, raising new rounds at huge valuations. New models like Kimi’s K3 have proven to compete with the latest releases from Anthropic and OpenAI on coding benchmarks. And new chipmakers like Groq and Cerebras have drawn interest from acquirers and public markets alike.\nGeneral Compute’s ability to access chips outside of Nvidia’s ecosystem matters for the same reason. TensorWave, another AI infrastructure company, is making a similar bet on a partnership with AMD. As more alternatives to Nvidia emerge, compute providers that aren’t locked into Nvidia deals may have an advantage in providing cost-efficient inference.\n“There are a bunch of chips that are starting to scale that have amazing [total cost of ownership], or that can operate much faster than Nvidia, but there’s not too many buyers for them,” Puklowski said. “By getting together with Upper90, this is not just, ‘a cool startup got some money to buy some compute.’ Like, this is the first signal of capital organizing itself and the fragmenting of Nvidia’s monopolistic dominance.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tTim Fernholz is a journalist who writes about technology, finance and public policy. He has closely covered the rise of the private space industry and is the author of  Rocket Billionaires: Elon Musk, Jeff Bezos and the New Space Race. Formerly, he was a senior reporter at Quartz, the global business news site, for more than a decade, and began his career as a political reporter in Washington, D.C. \nYou can contact or verify outreach from Tim by emailing tim.fernholz@techcrunch.com or via an encrypted message to tim_fernholz.21 on Signal.\r\n\t\n\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/07/General-Compute-Billboard.jpg?w=150"
+      ],
+      "datePublished": "2026-07-17T12:00:00.000Z",
+      "dateModified": "2026-07-17T12:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "FBI arrests man accused of using Steam games to drain victims’ crypto wallets",
+    "url": "https://techcrunch.com/2026/07/17/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/piratefi-malware-steam-valve.png?w=150",
+    "tag": "Tech",
+    "date": "2026-07-17T16:18:09.000Z",
+    "description": "\nU.S. prosecutors have accused a Florida man of uploading fake video games that contained malware to Steam, the popular PC games platform. Once victim",
+    "body": "\nU.S. prosecutors have accused a Florida man of uploading fake video games that contained malware to Steam, the popular PC games platform. Once victims downloaded and installed the games, the malware was designed to infect their computers, steal their passwords and other data, and drain their crypto wallets, according to a criminal complaint.\nOn Tuesday, the FBI arrested Zyaire Wilkins, a 21-year-old Florida resident and student. On Wednesday, prosecutors accused him and a number of unnamed co-conspirators of hacking crimes. Over the past two years, Wilkins and his partners allegedly published several malware-laden video games on Steam, including BlockBlasters, Dashverse, Lampy, Lunara, and PirateFi. Using that malware, says the FBI, Wilkins and his accomplices infected around 8,000 victims, and then hacked around 80 cryptocurrency wallets to steal at least $220,000 worth of crypto.\nWilkins and the others marketed their malicious video games on Discord, LinkedIn, and Telegram, according to the authorities.  \nWilkins’ lawyer did not respond to a request for comment. \nIn March, the FBI announced that it was investigating a hacker suspected of using malware-embedded video games published on Steam to hack victims. In the announcement, the bureau called for people who downloaded the malicious games, which included those named in this week’s complaint, to come forward and provide evidence to aid the investigation. \nIn the last year, Steam’s maker Valve has removed several video games from its platform after they were found to contain malware, including PirateFi. All the games were designed to look legitimate, to the point that players could install them and play them, but they all contained malware. \nAfter the FBI identified another person involved in the crimes, according to the complaint, federal agents interviewed them. The unnamed person said they worked with other people to raise money to launch and market the malicious games in return for sharing some of the stolen cryptocurrency. The FBI identified a specific crypto account involved in the scheme, and then traced cryptocurrency payments made with that account to buy several gift cards, including for Uber Eats. After subpoenaing Uber, the feds were able to see that the gift cards were linked to an account that made deliveries to Wilkins, who went by the nickname Sibel.eth online, according to the complaint. \nThe feds then got a search warrant for Wilkins’ residence, where they seized his MacBook laptop, cellphones, other devices, and digital wallets. According to the complaint, he refused to speak or answer any questions.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tLorenzo Franceschi-Bicchierai is a Senior Writer at TechCrunch, where he covers hacking, cybersecurity, surveillance, and privacy. \nYou can contact or verify outreach from Lorenzo by emailing lorenzo@techcrunch.com, via encrypted message at +1 917 257 1382 on Signal, and @lorenzofb on Keybase/Telegram.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "FBI arrests man accused of using Steam games to drain victims’ crypto wallets",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/02/piratefi-malware-steam-valve.png?w=150"
+      ],
+      "datePublished": "2026-07-17T16:18:09.000Z",
+      "dateModified": "2026-07-17T16:18:09.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "I replaced my space heater and ceiling fan with one Dyson appliance",
+    "url": "https://techcrunch.com/2026/07/17/i-replaced-my-space-heater-and-ceiling-fan-with-one-dyson-appliance/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/dyson-hf1.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-07-17T18:00:17.000Z",
+    "description": "\nThe Dyson Hot+Cool HF1 is a sleek 2-in-1 smart appliance that provides heating in the winter and cooling in the summer. Designed for year-round comfo",
+    "body": "\nThe Dyson Hot+Cool HF1 is a sleek 2-in-1 smart appliance that provides heating in the winter and cooling in the summer. Designed for year-round comfort, the $499 unit combines quiet operation and smart controls with Dyson’s signature bladeless design.\nI typically use a ceiling fan for the summer and a space heater for the winter. After three months of testing, the HF1 was a game changer for me, and not just because it replaced two appliances. It was HF1’s smart features that made this appliance particularly handy. Dyson provided the HF1 unit, which will be returned to the manufacturer.\nAlthough you can control the HF1 using the onboard controls or the included remote, you can also operate it from your smartphone with the MyDyson app. I found it especially convenient to turn the HF1 on or off from my phone — even when I wasn’t in the room — as well as set timers, adjust the oscillation, and create schedules so it would automatically turn on whenever I wanted. \nThe HF1 is quiet enough for bedrooms and home offices. In Sleep mode, it operates at just 26 decibels and automatically dims its display. I’m a light sleeper who prefers complete silence at night, and I was able to adjust the fan noise quickly.\nThe HF1 features an adjustable tilt that lets you direct airflow where you need it. For wider coverage, it can be adjusted to oscillate at 15, 40, or 70 degrees.\nImage Credits:Dyson\nThe HF1’s intelligent thermostat continuously monitors the room and automatically adjusts its heating output to reach and maintain your chosen temperature. One important caveat: The HF1’s cooling mode is essentially a high-powered fan, not an air conditioner, so it circulates air rather than lowering the room’s temperature.\nOne of my favorite features about the HF1 is its bladeless design, which makes it incredibly easy to clean. A quick wipe with a cloth is all it takes to remove dust, and unlike traditional fans and heaters, you don’t have to clean any grilles or blades. \nThe bladeless design also makes it a safer choice for homes with pets and children, as there are no exposed blades for curious hands or paws to get caught in. However, the metal casing around the front of the HF1 can get slightly hot to the touch while it’s in the heating mode.\nAnother nice safety feature is that the fan automatically shuts off if it’s tipped over. \nIn terms of size, the HF1 is compact and light, weighing just under six pounds and standing 23 inches tall. Its slim design made it easy to move from room to room without taking up too much space or looking out of place.\nWhile the HF1 comes with a premium price tag, it’s a worthwhile investment if you want a single appliance for year-round use. Its combination of heating, cooling, smart features, quiet operation, and easy maintenance makes it a compelling upgrade over a standard space heater or fan.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing aisha@techcrunch.com or via encrypted message at aisha_malik.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "I replaced my space heater and ceiling fan with one Dyson appliance",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/07/dyson-hf1.jpg?w=150"
+      ],
+      "datePublished": "2026-07-17T18:00:17.000Z",
+      "dateModified": "2026-07-17T18:00:17.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield",
     "url": "https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/stripe-x-battlefield_eventImage-site-crop.jpg?w=150",
@@ -366,6 +341,31 @@
       ],
       "datePublished": "2026-07-17T23:08:00.000Z",
       "dateModified": "2026-07-17T23:08:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco",
+    "url": "https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/waymo-robotaxi-sf-getty.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-07-16T23:25:22.000Z",
+    "description": "\nIt turns out that even San Francisco mayor Daniel Lurie, who once declared that the city should be a testbed for emerging tech, has his limits. Espec",
+    "body": "\nIt turns out that even San Francisco mayor Daniel Lurie, who once declared that the city should be a testbed for emerging tech, has his limits. Especially when that emerging tech creates a massive hours-long traffic jam that leaves thousands at a standstill.\nMayor Lurie has asked state regulators to bolster rules for autonomous vehicles nearly two weeks after Waymo robotaxis became immobile in heavy July 4 traffic, ran out of power, and blocked key streets, further compounding the gridlock. The traffic jam, which trapped municipal shuttles, became a citywide problem that affected thousands of people. \nIn his letter to the state Department of Transportation, which was viewed by TechCrunch, Lurie pointed to two events — a widespread power outage in December and the Golden Gate Bridge fireworks show on July 4 that attracted 100,000 spectators — both of which led to dozens of stranded Waymo vehicles and paralyzed traffic. The San Francisco Chronicle first reported on the letter.\nThe events, he said in the letter, “demonstrated that California’s current regulatory framework does not adequately address how autonomous vehicles operate during major incidents, planned or not. California’s challenge now is not just whether autonomous vehicles can operate safely under normal conditions, but also whether they can perform reliably during extraordinary ones.”\nLurie said autonomous vehicle manufacturers should be able to demonstrate four “core operational capabilities” and asked the California Department of Transportation to establish statewide standards to prevent future problems like the July 4 gridlock incident. Under Lurie’s vision, companies would be required to immediately remove or relocate robotaxis from active travel lanes to keep people moving and be required to be able to adapt in real time, adjusting their routes, service area, and pickup and drop-off locations. Companies would also have to share real-time operations data with local agencies, including service disruptions, the locations of immobile robotaxis, and recovery efforts as well as demonstrate through testing that they can handle large influxes of people and traffic.\nIn an emailed statement, Waymo spokesperson Katherine Barna noted the company has successfully supported numerous large events in the city.\n“We appreciate Mayor Lurie and the City of San Francisco for the ongoing partnership with Waymo, and keeping SF at the forefront of innovation,” the email reads. “Waymo has successfully supported some of the city’s biggest events, including FIFA World Cup games, this year’s Super Bowl and Fan Fast, and NBA All-Star Weekend. The City and Waymo share a mutual goal of providing safe and accessible transportation for visitors and residents alike. We will continue to partner with the City’s agencies, collaborating with them on the learnings based on the millions of rides we have provided in San Francisco.”\nAny company that wants to operate a robotaxi service in California has to successfully navigate two testing and deployment permit processes, one administered by the state’s Department of Motor Vehicles and the other by the Public Utilities Commission. California’s existing regulatory framework is stricter than that of other states like Texas and Arizona, but that hasn’t dissuaded companies from trying to operate there.\nSan Francisco and the wider area that stretches south into Silicon Valley have long been a testbed for autonomous vehicle technology. Six companies, including Nuro, Waymo, and Zoox, hold driverless testing permits, which allow the vehicles to drive without a human safety operator behind the wheel. \nBut the area has also become the launch point for commercial services, which requires other permits from the DMV and CPUC.\nWaymo is the largest, with an estimated 1,000 robotaxis operating in the Bay Area today. But there are plenty of others either testing or poised to launch commercial operations, including Amazon-owned Zoox as well as a premium robotaxi service that will be operated by Uber. Tesla has a branded robotaxi service but it doesn’t use driverless vehicles, nor does it have the permits to do so. Instead, Tesla has a charter transportation permit, which allows its own drivers to pick up and drop off riders throughout San Francisco in vehicles equipped with its advanced driver-assistance system rather than fully autonomous software.\nWaymo’s scale has made it the focal point for regulators in San Francisco and beyond. The company now operates in 11 cities and has said it completes more than 500,000 paid rides every week. In San Francisco, Lurie noted that Waymo had agreed to restrict its service on July 4 near the waterfront and had even assigned a representative to the city’s emergency center. But that wasn’t enough to keep the Waymos out of the heavy traffic that occurred outside of that district.\nLurie said these voluntary actions are no longer enough — a reflection of just how big Waymo’s fleet has become. He said the four proposed requirements “will not undermine autonomous vehicles; they will strengthen them.”\nThis article was updated Friday at 9 am PT to include a statement sent by Waymo. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tKirsten Korosec is a reporter and editor who has covered the future of transportation from EVs and autonomous vehicles to urban air mobility and in-car tech for more than a decade. She is currently the transportation editor at TechCrunch and co-host of TechCrunch’s Equity podcast. She is also co-founder and co-host of the podcast, “The Autonocast.” She previously wrote for Fortune, The Verge, Bloomberg, MIT Technology Review and CBS Interactive.\nYou can contact or verify outreach from Kirsten by emailing kirsten.korosec@techcrunch.com or via encrypted message at kkorosec.07 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/07/waymo-robotaxi-sf-getty.jpg?w=150"
+      ],
+      "datePublished": "2026-07-16T23:25:22.000Z",
+      "dateModified": "2026-07-16T23:25:22.000Z",
       "author": [
         {
           "@type": "Person",
