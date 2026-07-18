@@ -50,6 +50,31 @@
     }
   },
   {
+    "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
+    "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/08/patreon-logo-v1.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-07-17T15:21:17.000Z",
+    "description": "\nPatreon, the membership platform for creators, is cracking down on AI scraping its content for training purposes. On Thursday, the company shared tha",
+    "body": "\nPatreon, the membership platform for creators, is cracking down on AI scraping its content for training purposes. On Thursday, the company shared that it’s working with internet infrastructure provider Cloudflare to directly block access to AI bots designed to train their AI models on creators’ work without permission.\nThe strengthened measures were necessary because AI scraping has become more sophisticated since it first put measures in place to deter AI crawlers in 2023, the company says. In addition, Patreon’s paywall has long locked much of creators’ content out of reach of crawlers. But more recently, the company introduced new discovery tools like a redesigned Home Feed and its tweet-like Quips, which could expose more content to crawlers.\nThe changes come about as more online publishers and content creators are coming to grips with how AI is ingesting their work for the purpose of making their AI models smarter. To combat this, Cloudflare now offers tools that allow website publishers to restrict AI bots, including a marketplace that lets websites charge AI bots for scraping, dubbed Pay Per Crawl. Earlier this month, it changed its policies so that “mixed-use” crawlers, meaning those that both index and train on a website’s content, are blocked by default on any pages that host ads.\nPatreon says that it’s extending its existing work with Cloudflare to use the company’s AI Crawl Control technology to update its AI policies and enforcement tools. The difference here is that instead of simply asking AI crawlers not to scrape content using the robots.txt files — a standard way to provide bots with instructions on how they can use its site — Patreon is now actively blocking AI training bots. \n“Consent shouldn’t depend on whether a scraper chooses to behave,” a Patreon blog post explains, referencing the stricter measures.\nWhen testing the features, individual AI training crawlers’ weekly attempts to access Patreon went from “thousands of attempts to zero,” the post noted. That indicates that the AI scrapers were ignoring Patreon’s robots.txt file and scraping the site anyway, despite its requests. \nHowever, the company said that it will allow bots that index pages and organize information that can be used to send users back to Patreon. \n“As AI agents become increasingly powerful and popular, creators deserve a meaningful say in how their work is used by AI companies,” remarked Patreon’s product chief Drew Rowny in the announcement. “On most of the Internet, creators have to accept AI training on their work just to reach and grow an audience. Patreon has a different vision: creators should be able to grow their audience and control how their work is used.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Patreon stops asking AI bots not to scrape — and starts blocking them",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2024/08/patreon-logo-v1.jpg?w=150"
+      ],
+      "datePublished": "2026-07-17T15:21:17.000Z",
+      "dateModified": "2026-07-17T15:21:17.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Agility Robotics plants its flag in Tesla’s backyard",
     "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/1P1A6479-e1784319814141.jpg?w=115",
@@ -66,31 +91,6 @@
       ],
       "datePublished": "2026-07-17T20:19:49.000Z",
       "dateModified": "2026-07-17T20:19:49.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Apple and Google ordered to purge ‘nudify’ apps from App Stores",
-    "url": "https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2255009714.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-07-17T19:49:53.000Z",
-    "description": "\nThe city of San Francisco has ordered Apple and Google to remove dozens of “nudify” apps — — software programs that can digitally alter pictures to u",
-    "body": "\nThe city of San Francisco has ordered Apple and Google to remove dozens of “nudify” apps — — software programs that can digitally alter pictures to unclothe the people in them — from their app stores.\nCalifornia law criminalizes any activity that “knowingly facilitates” or “recklessly aids or abets” the creation of non-consensual deepfake pornography. In 2025, California also passed a law that allows victims to pursue civil actions against third-party facilitators of such material. The city says that, despite these well-known regulations, both tech companies have continued to host and make money from such programs.\n“Apple and Google are profiting off apps that exploit women and girls by generating nonconsensual intimate deepfakes,” San Francisco City Attorney David Chiu said in an emailed statement to TechCrunch. “While the companies cut ties with some problematic apps, Apple and Google have a responsibility to be proactive and vigilant to prevent sexual abuse.”\nLetters sent to Google and Apple by Chiu’s office, which were viewed by TechCrunch, note that the companies have “been on notice” for their role in “processing payments for illegal purchases for almost a year” but have, nevertheless, continued to do so.     \nAccording to the letters, both companies have been repeatedly warned that they are hosting these apps. In January and again in April, the Tech Transparency Project issued reports and sent letters to both companies noting that there were “dozens of apps” within their app stores that “sold deepfake NCII [non-consensual intimate images] in exchange for payments” from processed by the firms.\nTTP’s report from April said that Google and Apple had intentionally “steered” users towards such apps and called both companies “key participants in the spread of AI tools that can turn real people into sexualized images.”\nAdditionally, Chiu told Wired that both companies had likely made “millions of dollars in fees” from apps that offered such services.\nThe letters from Chiu’s office warn that Apple and Google could face civil penalties for violating the law and request that they contact the city within 28 days.\nWhen reached for comment by TechCrunch, an Apple spokesperson said that nudify apps were forbidden from appearing in its App Store, further noting: “We have removed three of the apps in question and are in the process of terminating their developer accounts from our program. We are in contact with four others that need to address policy violations or risk being removed as well.” \nA Google spokesperson claimed that all five Play apps referenced in Chiu’s letter had been suspended from Google Play. “When violations are reported to us, we investigate and take swift action, which in the case of these apps has included suspending hundreds of violating apps and restricting related search terms like ‘nudify’ on our store,” the spokesperson added. \nDeepfake pornography has largely been a problem for female celebrities, although nudify apps make it possible for anyone with a publicly available photo to be targeted.\nUpdate July 17: This article was updated to include statements from Google and Apple. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tLucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. \nYou can contact Lucas by emailing lucas.ropek@techcrunch.com.\t\n\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Apple and Google ordered to purge ‘nudify’ apps from App Stores",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2255009714.jpg?w=150"
-      ],
-      "datePublished": "2026-07-17T19:49:53.000Z",
-      "dateModified": "2026-07-17T19:49:53.000Z",
       "author": [
         {
           "@type": "Person",
@@ -125,22 +125,22 @@
     }
   },
   {
-    "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
-    "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?w=150",
+    "title": "Apple and Google ordered to purge ‘nudify’ apps from App Stores",
+    "url": "https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2255009714.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-07-17T17:45:46.000Z",
-    "description": "\n\t\t\n\nLoading the player…\n\nApple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern",
-    "body": "\n\t\t\n\nLoading the player…\n\nApple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief hardware officer and claims more than 400 former Apple employees now work at the company. OpenAI’s response so far has been carefully hedged, and the timing couldn’t be worse with the company reportedly eyeing an IPO as early as later this year. \nOn this episode of TechCrunch’s Equity podcast, hosts Kirsten Korosec, Anthony Ha, and Sean O’Kane dig into what the lawsuit could mean for OpenAI’s own hardware ambitions and IPO timeline, plus a bigger theme running through the week’s news: how much should anyone trust AI companies with their data? \nSubscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. You also can follow Equity on X and Threads, at @EquityPod. \n\n\t\t\n\tTopics\n\n\n\n\t\tTheresa Loconsolo is an audio producer at TechCrunch focusing on Equity, the network’s flagship podcast. Before joining TechCrunch in 2022, she was one of 2 producers at a four-station conglomerate where she wrote, recorded, voiced and edited content, and engineered live performances and interviews from guests like lovelytheband. Theresa is based in New Jersey and holds a bachelors degree in Communication from Monmouth University. You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n\n\t\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n",
+    "date": "2026-07-17T19:49:53.000Z",
+    "description": "\nThe city of San Francisco has ordered Apple and Google to remove dozens of “nudify” apps — — software programs that can digitally alter pictures to u",
+    "body": "\nThe city of San Francisco has ordered Apple and Google to remove dozens of “nudify” apps — — software programs that can digitally alter pictures to unclothe the people in them — from their app stores.\nCalifornia law criminalizes any activity that “knowingly facilitates” or “recklessly aids or abets” the creation of non-consensual deepfake pornography. In 2025, California also passed a law that allows victims to pursue civil actions against third-party facilitators of such material. The city says that, despite these well-known regulations, both tech companies have continued to host and make money from such programs.\n“Apple and Google are profiting off apps that exploit women and girls by generating nonconsensual intimate deepfakes,” San Francisco City Attorney David Chiu said in an emailed statement to TechCrunch. “While the companies cut ties with some problematic apps, Apple and Google have a responsibility to be proactive and vigilant to prevent sexual abuse.”\nLetters sent to Google and Apple by Chiu’s office, which were viewed by TechCrunch, note that the companies have “been on notice” for their role in “processing payments for illegal purchases for almost a year” but have, nevertheless, continued to do so.     \nAccording to the letters, both companies have been repeatedly warned that they are hosting these apps. In January and again in April, the Tech Transparency Project issued reports and sent letters to both companies noting that there were “dozens of apps” within their app stores that “sold deepfake NCII [non-consensual intimate images] in exchange for payments” from processed by the firms.\nTTP’s report from April said that Google and Apple had intentionally “steered” users towards such apps and called both companies “key participants in the spread of AI tools that can turn real people into sexualized images.”\nAdditionally, Chiu told Wired that both companies had likely made “millions of dollars in fees” from apps that offered such services.\nThe letters from Chiu’s office warn that Apple and Google could face civil penalties for violating the law and request that they contact the city within 28 days.\nWhen reached for comment by TechCrunch, an Apple spokesperson said that nudify apps were forbidden from appearing in its App Store, further noting: “We have removed three of the apps in question and are in the process of terminating their developer accounts from our program. We are in contact with four others that need to address policy violations or risk being removed as well.” \nA Google spokesperson claimed that all five Play apps referenced in Chiu’s letter had been suspended from Google Play. “When violations are reported to us, we investigate and take swift action, which in the case of these apps has included suspending hundreds of violating apps and restricting related search terms like ‘nudify’ on our store,” the spokesperson added. \nDeepfake pornography has largely been a problem for female celebrities, although nudify apps make it possible for anyone with a publicly available photo to be targeted.\nUpdate July 17: This article was updated to include statements from Google and Apple. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tLucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. \nYou can contact Lucas by emailing lucas.ropek@techcrunch.com.\t\n\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+      "headline": "Apple and Google ordered to purge ‘nudify’ apps from App Stores",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2255009714.jpg?w=150"
       ],
-      "datePublished": "2026-07-17T17:45:46.000Z",
-      "dateModified": "2026-07-17T17:45:46.000Z",
+      "datePublished": "2026-07-17T19:49:53.000Z",
+      "dateModified": "2026-07-17T19:49:53.000Z",
       "author": [
         {
           "@type": "Person",
@@ -175,22 +175,47 @@
     }
   },
   {
-    "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
-    "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/08/patreon-logo-v1.jpg?w=150",
+    "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+    "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/General-Compute-Billboard.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-07-17T15:21:17.000Z",
-    "description": "\nPatreon, the membership platform for creators, is cracking down on AI scraping its content for training purposes. On Thursday, the company shared tha",
-    "body": "\nPatreon, the membership platform for creators, is cracking down on AI scraping its content for training purposes. On Thursday, the company shared that it’s working with internet infrastructure provider Cloudflare to directly block access to AI bots designed to train their AI models on creators’ work without permission.\nThe strengthened measures were necessary because AI scraping has become more sophisticated since it first put measures in place to deter AI crawlers in 2023, the company says. In addition, Patreon’s paywall has long locked much of creators’ content out of reach of crawlers. But more recently, the company introduced new discovery tools like a redesigned Home Feed and its tweet-like Quips, which could expose more content to crawlers.\nThe changes come about as more online publishers and content creators are coming to grips with how AI is ingesting their work for the purpose of making their AI models smarter. To combat this, Cloudflare now offers tools that allow website publishers to restrict AI bots, including a marketplace that lets websites charge AI bots for scraping, dubbed Pay Per Crawl. Earlier this month, it changed its policies so that “mixed-use” crawlers, meaning those that both index and train on a website’s content, are blocked by default on any pages that host ads.\nPatreon says that it’s extending its existing work with Cloudflare to use the company’s AI Crawl Control technology to update its AI policies and enforcement tools. The difference here is that instead of simply asking AI crawlers not to scrape content using the robots.txt files — a standard way to provide bots with instructions on how they can use its site — Patreon is now actively blocking AI training bots. \n“Consent shouldn’t depend on whether a scraper chooses to behave,” a Patreon blog post explains, referencing the stricter measures.\nWhen testing the features, individual AI training crawlers’ weekly attempts to access Patreon went from “thousands of attempts to zero,” the post noted. That indicates that the AI scrapers were ignoring Patreon’s robots.txt file and scraping the site anyway, despite its requests. \nHowever, the company said that it will allow bots that index pages and organize information that can be used to send users back to Patreon. \n“As AI agents become increasingly powerful and popular, creators deserve a meaningful say in how their work is used by AI companies,” remarked Patreon’s product chief Drew Rowny in the announcement. “On most of the Internet, creators have to accept AI training on their work just to reach and grow an audience. Patreon has a different vision: creators should be able to grow their audience and control how their work is used.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-07-17T12:00:00.000Z",
+    "description": "\nGeneral Compute, an AI inference cloud startup, has landed a $400 million loan from Upper90, a tech investment firm. It might be the first deal to pu",
+    "body": "\nGeneral Compute, an AI inference cloud startup, has landed a $400 million loan from Upper90, a tech investment firm. It might be the first deal to put up inference-specific chips as collateral — chips built to run already trained AI models quickly and efficiently, rather than the more expensive chips used to build the models in the first place.\nThe financing is the latest signal that markets are responding to concerns over the price of AI tools and tokens by turning to infrastructure that runs open source models more cheaply than the newest LLMs from frontier labs.\nFounded by CEO Finn Puklowski and CTO Jason Goodison, General Compute raised a $15 million seed round in May to build an inference neocloud around silicon from SambaNova, an Intel-backed chipmaker. (Neoclouds are purpose-built for AI workloads, unlike the general-purpose infrastructure offered by traditional hyperscalers like AWS or Azure.)\nThe company’s SN50 chips are designed for inference. They’re power-efficient and don’t require expensive water-cooling systems, which means they can be deployed more quickly than GPUs across a larger variety of data centers. General Compute says the new chips will provide 16 times faster inference than GPU-based clouds.\nThe challenge is getting a lot of these chips, especially when you’re a brand-new company.\nUpper90 co-founder and CEO Billy Libby, a former Goldman Sachs quantitative trader, had a playbook for this: In 2021, his firm financed GPU purchases by Crusoe, the energy-focused data center startup, which he believes was the first loan against the value of advanced chips.\nTraditional lenders eschewed such deals at the time because of the risks and uncertainties around GPU depreciation. But as CoreWeave made chips-backed loans into a business model and then the basis of a blockbuster IPO, this kind of financing has become common.\n“When we financed Nvidia GPUs as the first group to do that, the market was inefficient,” Libby told TechCrunch. “We could really put together something as an early participant, and kind of get compensated for the risk.”\nNow that GPUs are comparatively well understood and perhaps over-bought, Upper90 is turning to companies like General Compute to ride the next wave of the AI boom. “We think open source models are going to be important, and we went and looked for a player last year that was in inference,” Libby said. “Everyone doesn’t need a supercomputer, but they do need inference and AI.”\nThat thesis has been growing stronger, with companies that provide access to open models, like OpenRouter and Fireworks, raising new rounds at huge valuations. New models like Kimi’s K3 have proven to compete with the latest releases from Anthropic and OpenAI on coding benchmarks. And new chipmakers like Groq and Cerebras have drawn interest from acquirers and public markets alike.\nGeneral Compute’s ability to access chips outside of Nvidia’s ecosystem matters for the same reason. TensorWave, another AI infrastructure company, is making a similar bet on a partnership with AMD. As more alternatives to Nvidia emerge, compute providers that aren’t locked into Nvidia deals may have an advantage in providing cost-efficient inference.\n“There are a bunch of chips that are starting to scale that have amazing [total cost of ownership], or that can operate much faster than Nvidia, but there’s not too many buyers for them,” Puklowski said. “By getting together with Upper90, this is not just, ‘a cool startup got some money to buy some compute.’ Like, this is the first signal of capital organizing itself and the fragmenting of Nvidia’s monopolistic dominance.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tTim Fernholz is a journalist who writes about technology, finance and public policy. He has closely covered the rise of the private space industry and is the author of  Rocket Billionaires: Elon Musk, Jeff Bezos and the New Space Race. Formerly, he was a senior reporter at Quartz, the global business news site, for more than a decade, and began his career as a political reporter in Washington, D.C. \nYou can contact or verify outreach from Tim by emailing tim.fernholz@techcrunch.com or via an encrypted message to tim_fernholz.21 on Signal.\r\n\t\n\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Patreon stops asking AI bots not to scrape — and starts blocking them",
+      "headline": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/08/patreon-logo-v1.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/07/General-Compute-Billboard.jpg?w=150"
       ],
-      "datePublished": "2026-07-17T15:21:17.000Z",
-      "dateModified": "2026-07-17T15:21:17.000Z",
+      "datePublished": "2026-07-17T12:00:00.000Z",
+      "dateModified": "2026-07-17T12:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+    "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-07-17T17:45:46.000Z",
+    "description": "\n\t\t\n\nLoading the player…\n\nApple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern",
+    "body": "\n\t\t\n\nLoading the player…\n\nApple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief hardware officer and claims more than 400 former Apple employees now work at the company. OpenAI’s response so far has been carefully hedged, and the timing couldn’t be worse with the company reportedly eyeing an IPO as early as later this year. \nOn this episode of TechCrunch’s Equity podcast, hosts Kirsten Korosec, Anthony Ha, and Sean O’Kane dig into what the lawsuit could mean for OpenAI’s own hardware ambitions and IPO timeline, plus a bigger theme running through the week’s news: how much should anyone trust AI companies with their data? \nSubscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. You also can follow Equity on X and Threads, at @EquityPod. \n\n\t\t\n\tTopics\n\n\n\n\t\tTheresa Loconsolo is an audio producer at TechCrunch focusing on Equity, the network’s flagship podcast. Before joining TechCrunch in 2022, she was one of 2 producers at a four-station conglomerate where she wrote, recorded, voiced and edited content, and engineered live performances and interviews from guests like lovelytheband. Theresa is based in New Jersey and holds a bachelors degree in Communication from Monmouth University. You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n\n\t\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?w=150"
+      ],
+      "datePublished": "2026-07-17T17:45:46.000Z",
+      "dateModified": "2026-07-17T17:45:46.000Z",
       "author": [
         {
           "@type": "Person",
@@ -241,31 +266,6 @@
       ],
       "datePublished": "2026-07-17T14:12:02.000Z",
       "dateModified": "2026-07-17T14:12:02.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
-    "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/General-Compute-Billboard.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-07-17T12:00:00.000Z",
-    "description": "\nGeneral Compute, an AI inference cloud startup, has landed a $400 million loan from Upper90, a tech investment firm. It might be the first deal to pu",
-    "body": "\nGeneral Compute, an AI inference cloud startup, has landed a $400 million loan from Upper90, a tech investment firm. It might be the first deal to put up inference-specific chips as collateral — chips built to run already trained AI models quickly and efficiently, rather than the more expensive chips used to build the models in the first place.\nThe financing is the latest signal that markets are responding to concerns over the price of AI tools and tokens by turning to infrastructure that runs open source models more cheaply than the newest LLMs from frontier labs.\nFounded by CEO Finn Puklowski and CTO Jason Goodison, General Compute raised a $15 million seed round in May to build an inference neocloud around silicon from SambaNova, an Intel-backed chipmaker. (Neoclouds are purpose-built for AI workloads, unlike the general-purpose infrastructure offered by traditional hyperscalers like AWS or Azure.)\nThe company’s SN50 chips are designed for inference. They’re power-efficient and don’t require expensive water-cooling systems, which means they can be deployed more quickly than GPUs across a larger variety of data centers. General Compute says the new chips will provide 16 times faster inference than GPU-based clouds.\nThe challenge is getting a lot of these chips, especially when you’re a brand-new company.\nUpper90 co-founder and CEO Billy Libby, a former Goldman Sachs quantitative trader, had a playbook for this: In 2021, his firm financed GPU purchases by Crusoe, the energy-focused data center startup, which he believes was the first loan against the value of advanced chips.\nTraditional lenders eschewed such deals at the time because of the risks and uncertainties around GPU depreciation. But as CoreWeave made chips-backed loans into a business model and then the basis of a blockbuster IPO, this kind of financing has become common.\n“When we financed Nvidia GPUs as the first group to do that, the market was inefficient,” Libby told TechCrunch. “We could really put together something as an early participant, and kind of get compensated for the risk.”\nNow that GPUs are comparatively well understood and perhaps over-bought, Upper90 is turning to companies like General Compute to ride the next wave of the AI boom. “We think open source models are going to be important, and we went and looked for a player last year that was in inference,” Libby said. “Everyone doesn’t need a supercomputer, but they do need inference and AI.”\nThat thesis has been growing stronger, with companies that provide access to open models, like OpenRouter and Fireworks, raising new rounds at huge valuations. New models like Kimi’s K3 have proven to compete with the latest releases from Anthropic and OpenAI on coding benchmarks. And new chipmakers like Groq and Cerebras have drawn interest from acquirers and public markets alike.\nGeneral Compute’s ability to access chips outside of Nvidia’s ecosystem matters for the same reason. TensorWave, another AI infrastructure company, is making a similar bet on a partnership with AMD. As more alternatives to Nvidia emerge, compute providers that aren’t locked into Nvidia deals may have an advantage in providing cost-efficient inference.\n“There are a bunch of chips that are starting to scale that have amazing [total cost of ownership], or that can operate much faster than Nvidia, but there’s not too many buyers for them,” Puklowski said. “By getting together with Upper90, this is not just, ‘a cool startup got some money to buy some compute.’ Like, this is the first signal of capital organizing itself and the fragmenting of Nvidia’s monopolistic dominance.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tTim Fernholz is a journalist who writes about technology, finance and public policy. He has closely covered the rise of the private space industry and is the author of  Rocket Billionaires: Elon Musk, Jeff Bezos and the New Space Race. Formerly, he was a senior reporter at Quartz, the global business news site, for more than a decade, and began his career as a political reporter in Washington, D.C. \nYou can contact or verify outreach from Tim by emailing tim.fernholz@techcrunch.com or via an encrypted message to tim_fernholz.21 on Signal.\r\n\t\n\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/07/General-Compute-Billboard.jpg?w=150"
-      ],
-      "datePublished": "2026-07-17T12:00:00.000Z",
-      "dateModified": "2026-07-17T12:00:00.000Z",
       "author": [
         {
           "@type": "Person",
