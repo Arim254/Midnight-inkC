@@ -175,31 +175,6 @@
     }
   },
   {
-    "title": "Sam Altman is ready to decelerate",
-    "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2226496284.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-07-28T20:17:08.000Z",
-    "description": "\nOpenAI CEO Sam Altman says that it may be time to “pace” AI development so the world will be ready for it.\n“We may have to pace the rate of AI develo",
-    "body": "\nOpenAI CEO Sam Altman says that it may be time to “pace” AI development so the world will be ready for it.\n“We may have to pace the rate of AI development to give ourselves enough time for society to harden around some of these new capability levels,” he told Patrick O’Shaughnessy, the host of the Invest Like the Best podcast, while also “trying to figure out how we do that in a way that does not feel like regulatory capture for anyone and also does not feel like collusion among the frontier labs.”\nBoth OpenAI and Anthropic came out in support of a petition circulated by employees at the frontier labs, calling on the US government to “support an international effort to develop the technical and governance tools needed to deliberately pace the frontier of automated AI development.” \nAltman has avoided signing on to past campaigns to slow AI progress, calling a 2023 open letter that proposed a similar slowdown “missing most technical nuance about where we need the pause.”\nApparently, he’s softened on the idea, thanks in part to the incident where one of OpenAI’s advanced models managed to break out of a secure computing environment and hack into Hugging Face, an online model database, using several zero-day exploits.\nOn the podcast, the OpenAI co-founder called it an “extremely sci-fi cyber incident…[t]his is the first security incident that I have felt very viscerally.”\nOpenAI researchers have paused training on that model while they work out how to keep their sandbox secure. But Altman said that as models become more powerful, the need to “pace” their development could become key to safe deployment.\nWhile model safety and alignment has always been a concern in the AI world, the arrival of Anthropic’s highly capable Mythos model earlier this year has turned hypotheticals into real-world problems.\nHowever, the industry has a trust problem, and challenging economics that give major players an incentive to play up the dangers of their systems in ways that experts disagree about — for example, whether or not Anthropic’s Fable model should have been briefly banned from use or not. Similarly, when Kimi K3, a large, open-weight model built in China, was released, OpenAI head of strategic futures Dean W. Ball said that it threatened the economics of frontier labs, making it difficult to separate their safety concerns from their financial interest.\n“I think a lot of the talk about safety concerns is well-founded, and then a lot of it is about people that just really, even if it’s slightly subconscious, want to concentrate power,” Altman mused, in what reads as a dig at his rival, Anthropic CEO Dario Amodei, who signed the petition. “I am terrified of a world where the very real fears of AI are used as a way to say, ‘Only this small group of people can have it because it’s too dangerous, and only they understand it, but don’t worry, like, they’re gonna make the right decisions for all of us.’ I don’t believe in that.”\nStill, OpenAI has pushed back against efforts to develop government rules for AI models, instead preferring an industry-led approach where AI labs would create ostensibly independent organizations that would evaluate the security of models and the safety approach of their makers. The challenge for both that approach to regulation and any efforts to slow AI development will be getting the various players in the industry on the same page, whether they are rival frontier labs in the U.S. or competitors in China.\nThis story was updated to include OpenAI and Anthropic’s support of the “Pacing the Frontier” petition.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tTim Fernholz is a journalist who writes about technology, finance and public policy. He has closely covered the rise of the private space industry and is the author of  Rocket Billionaires: Elon Musk, Jeff Bezos and the New Space Race. Formerly, he was a senior reporter at Quartz, the global business news site, for more than a decade, and began his career as a political reporter in Washington, D.C. \nYou can contact or verify outreach from Tim by emailing tim.fernholz@techcrunch.com or via an encrypted message to tim_fernholz.21 on Signal.\r\n\t\n\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Sam Altman is ready to decelerate",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2226496284.jpg?w=150"
-      ],
-      "datePublished": "2026-07-28T20:17:08.000Z",
-      "dateModified": "2026-07-28T20:17:08.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "HBO Max embraces vertical video with a new ‘Shorts’ feed",
     "url": "https://techcrunch.com/2026/07/28/hbo-max-embraces-vertical-video-with-a-new-shorts-feed/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/hbo-max-vertical-feed.jpg?w=150",
@@ -216,81 +191,6 @@
       ],
       "datePublished": "2026-07-28T17:57:57.000Z",
       "dateModified": "2026-07-28T17:57:57.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "eBay reaches $56M settlement with e-commerce newsletter writers it terrorized in 2019",
-    "url": "https://techcrunch.com/2026/07/28/ebay-reaches-56m-settlement-with-e-commerce-newsletter-writers-it-terrorized-in-2019/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1133588371-e1736345274842.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-07-28T18:35:29.000Z",
-    "description": "\nOne of the most bizarre episodes in e-commerce history has come to a close. eBay and several former eBay employees have agreed to pay $56 million to ",
-    "body": "\nOne of the most bizarre episodes in e-commerce history has come to a close. eBay and several former eBay employees have agreed to pay $56 million to a newsletter-writing couple who were targeted by the company’s former executives in a horrific targeted harassment campaign that took place in 2019.\nIna and David Steiner, a married couple and the co-authors of EcommerceBytes, inspired the ire of high-level eBay executives after occasionally criticizing the company in their newsletter. In 2019, a plot was concocted to intimidate the couple into halting their negative coverage.\nExecutives used sock puppet social media accounts to harass the couple, while also sending them anonymous threatening letters and bizarre items in the mail — including live spiders and cockroaches, pornographic magazines, a bloody pig mask, a funereal wreath, and a book about surviving the death of a spouse. \nAccording to previously released court documents, a plan that was attempted but never successfully carried out involved affixing a GPS tracking device to the couple’s car. Yet another internally broached plan involved sending a “Samoan gang” to the Steiners’ home.\nThe settlement this week resolves a 2021 civil case brought by the couple against eBay. The law office representing the Steiners writes that the settlement includes $46.15 million paid to the couple by eBay itself, as well as $2 million from former eBay executive CEO Devin Wenig.\nAdditionally, $500,000 will be paid out to the couple from former eBay executive Wendy Jones, as well as $50,000 from former eBay executive Steve Wymer. Additional funds are being paid to various non-profits. \nIn 2022, seven former eBay employees were criminally charged and pled guilty in relation to the plot, including the company’s former security chief, James Baugh — who was sentenced to nearly five years in prison. Others indicted by the U.S. Department of Justice include David Harville, Brian Gilbert, Stephanie Popp, Stephanie Stockwell, Philip Cooke, and former eBay contractor Veronica Zea.\nIn a statement published Tuesday, eBay disavowed its former employees’ behavior as “not representative of eBay’s culture” — which is comforting, I guess.\n“As we have long stated, what the Steiners were subjected to by former eBay employees in 2019 was wrong, reprehensible and should never have happened,” eBay continued. “We condemn, in the strongest terms possible, the employees who perpetrated and pled guilty to criminal charges for the misconduct against Ina and David Steiner.” \n“We continue to extend our deepest apologies to the Steiners. This agreement is consistent with our commitment to fairly compensate the Steiners and fulfills our efforts to make things right.”\n“This case was always about more than obtaining financial recovery,” said Christopher Murphy, one of the Steiners’ attorneys. “From the beginning, our clients wanted to uncover the truth, protect journalists and publishers, hold those responsible accountable, deter future corporate misconduct, and help ensure others would never have to endure what they experienced.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tLucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. \nYou can contact Lucas by emailing lucas.ropek@techcrunch.com.\t\n\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "eBay reaches $56M settlement with e-commerce newsletter writers it terrorized in 2019",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1133588371-e1736345274842.jpg?w=150"
-      ],
-      "datePublished": "2026-07-28T18:35:29.000Z",
-      "dateModified": "2026-07-28T18:35:29.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The robot NASA hired to lift a orbital telescope tumbled out of control",
-    "url": "https://techcrunch.com/2026/07/28/the-robot-nasa-hired-to-lift-a-orbital-telescope-is-tumbling-out-of-control/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Katalyst-LINK.avif?w=150",
-    "tag": "Tech",
-    "date": "2026-07-28T19:07:31.000Z",
-    "description": "\nA Katalyst Space robot that was launched to grab on to a space telescope and raise it to a higher orbit tumbled out of control after a series of fail",
-    "body": "\nA Katalyst Space robot that was launched to grab on to a space telescope and raise it to a higher orbit tumbled out of control after a series of failures, NASA and the company said today. \nThe company is trying to stabilize the spacecraft using back-up systems, before NASA will decide if the mission can continue.\nThis is the first time the space agency has hired a private company to lift one of its space telescopes to a higher orbit, allowing the observatory to continue operations beyond its expected lifespan.\nThe Neil Gehrels Swift Observatory was launched in 2004, with the ability to swiftly point at ephemeral space events like gamma ray bursts. The spacecraft has been pulled back toward Earth and needs to be pushed back up to a higher orbit to continue doing its job.\nThe LINK spacecraft was launched into space on July 3 on board a Northrop Grumman Pegasus rocket. Over the past several weeks, flight controllers have worked to commission the spacecraft, activating its various systems before it heads off to rendezvous with Swift.\nHowever, the spacecraft suffered issues controlling itself and began spinning over the weekend. According to NASA, the spinning has resulted in “sporadic communications” with the satellite, likely because its antenna flips away from the planet. Two of the three reaction wheels that control the spacecraft’s alignment have failed, and there are problems with one of the spacecraft’s thruster systems.\nFlight controllers are working to recover the spacecraft using another set of thrusters on the spacecraft to slow the spin, and they said in a statement that “we have already begun this series of burns and are seeing the intended effect.” Katalyst told TechCrunch that “this remains an active mission, and we continue to move forward with plans to rendezvous with Swift.”\nKatalyst’s Kieran Wilson, the principal investigator for the mission, told reporters ahead of the mission that the spacecraft had been built incredibly quickly because of the urgent need to raise Swift in the next few months.“All this is challenging and risky,” he said at the time. “There’re a lot of spacecraft that have had far longer development cycles with far more funding behind them that have failed for mundane reasons.”\nKatalyst raised a $12 million round in June to help support this mission, backed by investors Fortitude Ventures and Geodesic Capital. The company has also won funding from the U.S. military, which is interested in a dynamic vehicle that can service satellites or surveil rival spacecraft.\nThis story has been updated to include comment from Katalyst. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tTim Fernholz is a journalist who writes about technology, finance and public policy. He has closely covered the rise of the private space industry and is the author of  Rocket Billionaires: Elon Musk, Jeff Bezos and the New Space Race. Formerly, he was a senior reporter at Quartz, the global business news site, for more than a decade, and began his career as a political reporter in Washington, D.C. \nYou can contact or verify outreach from Tim by emailing tim.fernholz@techcrunch.com or via an encrypted message to tim_fernholz.21 on Signal.\r\n\t\n\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "The robot NASA hired to lift a orbital telescope tumbled out of control",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/07/Katalyst-LINK.avif?w=150"
-      ],
-      "datePublished": "2026-07-28T19:07:31.000Z",
-      "dateModified": "2026-07-28T19:07:31.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Saudi prince buys 5% stake in Lucid Motors",
-    "url": "https://techcrunch.com/2026/07/28/saudi-prince-buys-5-stake-in-lucid-motors/",
-    "image": "https://techcrunch.com/wp-content/uploads/2021/09/IMG_2580.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-07-28T17:33:51.000Z",
-    "description": "\nPrince Al Waleed bin Talal Al Saud, a member of the Saudi royal family, has purchased a 5% stake in Lucid Motors, increasing the Kingdom’s overall ow",
-    "body": "\nPrince Al Waleed bin Talal Al Saud, a member of the Saudi royal family, has purchased a 5% stake in Lucid Motors, increasing the Kingdom’s overall ownership of the electric vehicle company.\nA new filing with the U.S. Securities and Exchange Commission published Tuesday shows that the billionaire prince recently purchased a little more than 19 million shares. In a post on X, he wrote that his investment office made the purchase when Lucid’s market cap was below $2 billion.\nThat happened on July 14, when an electric vehicle blog published a report claiming that Lucid was considering either filing for bankruptcy protection or being taken private by Saudi Arabia’s sovereign wealth fund. Lucid strenuously denied the reports, and the company’s stock price has since rebounded.\n“We don’t comment on individual investments, but we are aware and appreciate the independent vote of confidence,” Lucid Motors’ chief communications officer Nick Twork said in a statement to TechCrunch.\nThe share purchase comes in the middle of a major restructuring effort kicked off by Lucid’s newly appointed CEO, Silvio Napoli, who cut 18% of the workforce in June in an effort to “simplify the company.” That followed a similarly large layoff earlier this year before Napoli took over.\nLucid Motors has been majority-owned by the wealth fund — known as the Public Investment Fund, or PIF — since its initial investment in 2018. That investment came after Saudi Arabia considered, but ultimately abandoned, plans to take Tesla private. The PIF has owned roughly 60% of Lucid Motors since the EV maker merged with a special purpose acquisition company in 2021, a transaction that brought it to public markets and raised $4 billion.\nThe Saudis have remained a major source of financial support for Lucid Motors since it went public, buying up shares and lending billions of dollars as the company has struggled to reach a mass market of EV buyers in the U.S. and abroad. \nPrince Al Waleed bin Talal has a history of investing in U.S. tech. Through his holding company, he was a major shareholder of Twitter when it was still public. In 2022, he initially balked at Elon Musk’s attempt to buy the social media company. But he quickly reversed course and cozied up to Musk and became the second-largest shareholder of Twitter after Musk took it private. (It’s unclear whether he has retained that stake through the company’s evolution into X and its subsequent merger with xAI, and now into SpaceX.)\nHe also owns stakes in Snap and Deezer and is often referred to as the “Arabian Warren Buffett,” according to his website.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Saudi prince buys 5% stake in Lucid Motors",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2021/09/IMG_2580.jpg?w=150"
-      ],
-      "datePublished": "2026-07-28T17:33:51.000Z",
-      "dateModified": "2026-07-28T17:33:51.000Z",
       "author": [
         {
           "@type": "Person",
@@ -325,6 +225,31 @@
     }
   },
   {
+    "title": "PayPal leaves the door open to a higher takeover offer following earnings beat",
+    "url": "https://techcrunch.com/2026/07/28/paypal-leaves-the-door-open-to-a-higher-takeover-offer-following-earnings-beat/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1584248812.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-07-28T15:10:10.000Z",
+    "description": "\nPayPal is seemingly still open to Stripe’s $53.4 billion takeover bid, just not at the price the latter had offered.\nOn the company’s Q2 2026 earning",
+    "body": "\nPayPal is seemingly still open to Stripe’s $53.4 billion takeover bid, just not at the price the latter had offered.\nOn the company’s Q2 2026 earnings call on Tuesday, PayPal CEO Enrique Lores didn’t fully shut down the idea of a deal, saying the company would consider a path that created “superior value” for its shareholders.\nWhile that’s not the same as saying, “PayPal’s not for sale,” it still suggests the company doesn’t believe Stripe and Advent International’s current offer of $60.50 per share values it correctly, especially after the company reported better-than-expected profit and revenue, and said it had made progress on its turnaround strategy.\nAn analysis from financial services firm Cantor valued PayPal at closer to $70 per share. The company’s shares are currently trading at around $58.\nPayPal reported adjusted profit of $1.38 per share, beating expectations of $1.28 per share. Revenue was up 5% year-over-year to $8.68 billion, above estimates of $8.47 billion. And adjusted free cash flow of $1.8 billion gives the company room to continue investing in its products and strategy.\nThat doesn’t mean PayPal would walk away from a takeover bid.\nWhile Lores didn’t directly address Stripe’s offer, saying PayPal doesn’t comment on potential mergers or market speculation, he did acknowledge that a viable M&A bid would not be dismissed outright.\n“If we see levers or a path that we believe would create superior value for our shareholders than executing our current strategy, we would, of course, carefully consider them,” he told investors on Tuesday.\nPayPal is still busy with its AI-focused turnaround, which included a restructuring exercise to streamline its operations into three segments: checkout solutions and PayPal; consumer financial services (and Venmo); and payment services and crypto. The company has said it will generate additional cost savings as it embraces AI in areas like coding, customer service, support operations, and risk management.\nLores offered an update on this strategy on Tuesday, saying the company was “making good progress” on its plan to deliver at least $1.5 billion in gross run-rate savings over the next two to three years. He also said PayPal is on track to remove three organizational layers across the company and is continuing to modernize its technology. This last bit includes migrating from its data center to the cloud, building a more modular and scalable architecture, and reducing platform complexity.\n“We believe that executing the transformation strategy I have outlined will create significant value for shareholders. That remains our focus,” Lores said. “While there is still significant work ahead, I have strong conviction in our direction and in our ability to execute.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "PayPal leaves the door open to a higher takeover offer following earnings beat",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1584248812.jpg?w=150"
+      ],
+      "datePublished": "2026-07-28T15:10:10.000Z",
+      "dateModified": "2026-07-28T15:10:10.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
     "url": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
     "image": "https://techcrunch.com/wp-content/uploads/2017/05/gettyimages-173791238.jpg?w=150",
@@ -350,22 +275,97 @@
     }
   },
   {
-    "title": "Waymo, robotaxi operators face fresh scrutiny over emergency response failures",
-    "url": "https://techcrunch.com/2026/07/28/waymo-robotaxi-operators-face-fresh-scrutiny-over-emergency-response-failures/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/waymo-fleet-getty.jpg?w=150",
+    "title": "Saudi prince buys 5% stake in Lucid Motors",
+    "url": "https://techcrunch.com/2026/07/28/saudi-prince-buys-5-stake-in-lucid-motors/",
+    "image": "https://techcrunch.com/wp-content/uploads/2021/09/IMG_2580.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-07-28T19:06:33.000Z",
-    "description": "\nWaymo and other robotaxi operators are facing increased scrutiny — and possible new federal requirements — over how their autonomous vehicles interac",
-    "body": "\nWaymo and other robotaxi operators are facing increased scrutiny — and possible new federal requirements — over how their autonomous vehicles interact with emergency responders, a regulatory risk that’s becoming harder for the industry to shrug off.\nRep. Kevin Mullin (D-Calif.) is the latest lawmaker to put pressure on the industry with a proposed bill that would direct federal regulators to establish minimum national safety standards for autonomous vehicle operators. The proposed legislation, expected to be introduced in Congress this week, follows a number of incidents in which autonomous vehicles have blocked ambulances and fire trucks, driven into active crime scenes, and failed to recognize safety signals such as traffic cones and flares. \nA TechCrunch investigation earlier this year identified a number of incidents in which Waymo relied on first responders to manually drive its vehicles when they encountered issues.\nThe legislation, called the AV Emergency Response Coordination Act, was unveiled Tuesday during a press conference in San Francisco, a hub of autonomous vehicle testing and where hundreds of Waymo robotaxis already give rides to paying customers. San Francisco mayor Daniel Lurie, San Francisco fire chief Dean Crispen, and Advocates for Highway and Auto Safety president Cathy Chase also spoke at the press conference.\n“We have seen disturbing, and frankly, an unacceptable number of incidents where autonomous vehicles inadvertently interfere with emergency responders,” Mullin said during the press conference.\nCrispen said that while the fire department has worked with AV operators, a number of incidents, and a pattern of continued behavior, shows changes need to be made. He noted that robotaxis are picking up and dropping off passengers directly in front of fire stations and ambulance deployment facilities, which obstructs emergency access.\nMullin’s bill proposes requiring AV companies to provide clear emergency protocols for first responders, establish a 24-hour hotline that gives public officials direct access to these companies, and directs the National Highway Traffic Safety Administration (NHTSA) to develop minimum national emergency response standards. The bill would also create a process allowing public officials to “geofence” AVs, a term referring to placing limits on where these vehicles can operate during emergencies or other ongoing safety hazards.\nFor AV operators, that geofencing provision could matter as much as the safety standards themselves: It would give city and public safety officials a real-time lever to restrict where robotaxis can drive, rather than waiting on companies to self-regulate.\nWaymo said in response that it has “long supported” a federal framework to establish standards for autonomous vehicles.\n“We similarly support efforts to standardize how AV developers engage with first responders,” Waymo said in a statement emailed to TechCrunch. “Our emergency response protocols, coupled with our extensive training with first responders, are a critical component of our operations around the U.S. Establishing minimum guidelines would provide the entire industry and public safety community with a consistent framework, ensuring emergency responders have the resources and certainty they need whenever they encounter an autonomous vehicle on the road.”\nMullin is hardly alone in criticizing autonomous vehicle operators. Over the past several weeks, elected officials and federal regulators have raised concerns about autonomous vehicles and how they’ve interfered with first responders.\nIn early July, NHTSA administrator Jonathan Morrison sent a letter to AV developers saying the agency had “identified a clear pattern of driverless AVs interfering with law enforcement and other first responders.” The letter demanded that AV developers present “solutions” to the problem by the end of the month — a deadline that has since passed, putting pressure on companies like Waymo, Zoox, and others to show progress or risk further federal action.\nMayor Lurie has asked California regulators to strengthen rules for autonomous vehicles following an hours-long July 4 traffic jam in San Francisco that was compounded by Waymo robotaxis that had run out of power, blocking key streets. Lurie has since pressed state regulators to establish new rules to prevent problems like the gridlock incident and a widespread power outage in December that led to dozens of stranded Waymo vehicles.\n“Residents and visitors should be able to take an AV, public transit, or bike around our city safely, and they must also trust that our police and fire departments can reach them in an emergency,” Lurie said, speaking in support of Mullin’s proposed bill during the press conference.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tKirsten Korosec is a reporter and editor who has covered the future of transportation from EVs and autonomous vehicles to urban air mobility and in-car tech for more than a decade. She is currently the transportation editor at TechCrunch and co-host of TechCrunch’s Equity podcast. She is also co-founder and co-host of the podcast, “The Autonocast.” She previously wrote for Fortune, The Verge, Bloomberg, MIT Technology Review and CBS Interactive.\nYou can contact or verify outreach from Kirsten by emailing kirsten.korosec@techcrunch.com or via encrypted message at kkorosec.07 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-07-28T17:33:51.000Z",
+    "description": "\nPrince Al Waleed bin Talal Al Saud, a member of the Saudi royal family, has purchased a 5% stake in Lucid Motors, increasing the Kingdom’s overall ow",
+    "body": "\nPrince Al Waleed bin Talal Al Saud, a member of the Saudi royal family, has purchased a 5% stake in Lucid Motors, increasing the Kingdom’s overall ownership of the electric vehicle company.\nA new filing with the U.S. Securities and Exchange Commission published Tuesday shows that the billionaire prince recently purchased a little more than 19 million shares. In a post on X, he wrote that his investment office made the purchase when Lucid’s market cap was below $2 billion.\nThat happened on July 14, when an electric vehicle blog published a report claiming that Lucid was considering either filing for bankruptcy protection or being taken private by Saudi Arabia’s sovereign wealth fund. Lucid strenuously denied the reports, and the company’s stock price has since rebounded.\n“We don’t comment on individual investments, but we are aware and appreciate the independent vote of confidence,” Lucid Motors’ chief communications officer Nick Twork said in a statement to TechCrunch.\nThe share purchase comes in the middle of a major restructuring effort kicked off by Lucid’s newly appointed CEO, Silvio Napoli, who cut 18% of the workforce in June in an effort to “simplify the company.” That followed a similarly large layoff earlier this year before Napoli took over.\nLucid Motors has been majority-owned by the wealth fund — known as the Public Investment Fund, or PIF — since its initial investment in 2018. That investment came after Saudi Arabia considered, but ultimately abandoned, plans to take Tesla private. The PIF has owned roughly 60% of Lucid Motors since the EV maker merged with a special purpose acquisition company in 2021, a transaction that brought it to public markets and raised $4 billion.\nThe Saudis have remained a major source of financial support for Lucid Motors since it went public, buying up shares and lending billions of dollars as the company has struggled to reach a mass market of EV buyers in the U.S. and abroad. \nPrince Al Waleed bin Talal has a history of investing in U.S. tech. Through his holding company, he was a major shareholder of Twitter when it was still public. In 2022, he initially balked at Elon Musk’s attempt to buy the social media company. But he quickly reversed course and cozied up to Musk and became the second-largest shareholder of Twitter after Musk took it private. (It’s unclear whether he has retained that stake through the company’s evolution into X and its subsequent merger with xAI, and now into SpaceX.)\nHe also owns stakes in Snap and Deezer and is often referred to as the “Arabian Warren Buffett,” according to his website.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Waymo, robotaxi operators face fresh scrutiny over emergency response failures",
+      "headline": "Saudi prince buys 5% stake in Lucid Motors",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/03/waymo-fleet-getty.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2021/09/IMG_2580.jpg?w=150"
       ],
-      "datePublished": "2026-07-28T19:06:33.000Z",
-      "dateModified": "2026-07-28T19:06:33.000Z",
+      "datePublished": "2026-07-28T17:33:51.000Z",
+      "dateModified": "2026-07-28T17:33:51.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Sam Altman is ready to decelerate",
+    "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2226496284.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-07-28T20:17:08.000Z",
+    "description": "\nOpenAI CEO Sam Altman says that it may be time to “pace” AI development so the world will be ready for it.\n“We may have to pace the rate of AI develo",
+    "body": "\nOpenAI CEO Sam Altman says that it may be time to “pace” AI development so the world will be ready for it.\n“We may have to pace the rate of AI development to give ourselves enough time for society to harden around some of these new capability levels,” he told Patrick O’Shaughnessy, the host of the Invest Like the Best podcast, while also “trying to figure out how we do that in a way that does not feel like regulatory capture for anyone and also does not feel like collusion among the frontier labs.”\nBoth OpenAI and Anthropic came out in support of a petition circulated by employees at the frontier labs, calling on the US government to “support an international effort to develop the technical and governance tools needed to deliberately pace the frontier of automated AI development.” \nAltman has avoided signing on to past campaigns to slow AI progress, calling a 2023 open letter that proposed a similar slowdown “missing most technical nuance about where we need the pause.”\nApparently, he’s softened on the idea, thanks in part to the incident where one of OpenAI’s advanced models managed to break out of a secure computing environment and hack into Hugging Face, an online model database, using several zero-day exploits.\nOn the podcast, the OpenAI co-founder called it an “extremely sci-fi cyber incident…[t]his is the first security incident that I have felt very viscerally.”\nOpenAI researchers have paused training on that model while they work out how to keep their sandbox secure. But Altman said that as models become more powerful, the need to “pace” their development could become key to safe deployment.\nWhile model safety and alignment has always been a concern in the AI world, the arrival of Anthropic’s highly capable Mythos model earlier this year has turned hypotheticals into real-world problems.\nHowever, the industry has a trust problem, and challenging economics that give major players an incentive to play up the dangers of their systems in ways that experts disagree about — for example, whether or not Anthropic’s Fable model should have been briefly banned from use or not. Similarly, when Kimi K3, a large, open-weight model built in China, was released, OpenAI head of strategic futures Dean W. Ball said that it threatened the economics of frontier labs, making it difficult to separate their safety concerns from their financial interest.\n“I think a lot of the talk about safety concerns is well-founded, and then a lot of it is about people that just really, even if it’s slightly subconscious, want to concentrate power,” Altman mused, in what reads as a dig at his rival, Anthropic CEO Dario Amodei, who signed the petition. “I am terrified of a world where the very real fears of AI are used as a way to say, ‘Only this small group of people can have it because it’s too dangerous, and only they understand it, but don’t worry, like, they’re gonna make the right decisions for all of us.’ I don’t believe in that.”\nStill, OpenAI has pushed back against efforts to develop government rules for AI models, instead preferring an industry-led approach where AI labs would create ostensibly independent organizations that would evaluate the security of models and the safety approach of their makers. The challenge for both that approach to regulation and any efforts to slow AI development will be getting the various players in the industry on the same page, whether they are rival frontier labs in the U.S. or competitors in China.\nThis story was updated to include OpenAI and Anthropic’s support of the “Pacing the Frontier” petition.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tTim Fernholz is a journalist who writes about technology, finance and public policy. He has closely covered the rise of the private space industry and is the author of  Rocket Billionaires: Elon Musk, Jeff Bezos and the New Space Race. Formerly, he was a senior reporter at Quartz, the global business news site, for more than a decade, and began his career as a political reporter in Washington, D.C. \nYou can contact or verify outreach from Tim by emailing tim.fernholz@techcrunch.com or via an encrypted message to tim_fernholz.21 on Signal.\r\n\t\n\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Sam Altman is ready to decelerate",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2226496284.jpg?w=150"
+      ],
+      "datePublished": "2026-07-28T20:17:08.000Z",
+      "dateModified": "2026-07-28T20:17:08.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "eBay reaches $56M settlement with e-commerce newsletter writers it terrorized in 2019",
+    "url": "https://techcrunch.com/2026/07/28/ebay-reaches-56m-settlement-with-e-commerce-newsletter-writers-it-terrorized-in-2019/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1133588371-e1736345274842.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-07-28T18:35:29.000Z",
+    "description": "\nOne of the most bizarre episodes in e-commerce history has come to a close. eBay and several former eBay employees have agreed to pay $56 million to ",
+    "body": "\nOne of the most bizarre episodes in e-commerce history has come to a close. eBay and several former eBay employees have agreed to pay $56 million to a newsletter-writing couple who were targeted by the company’s former executives in a horrific targeted harassment campaign that took place in 2019.\nIna and David Steiner, a married couple and the co-authors of EcommerceBytes, inspired the ire of high-level eBay executives after occasionally criticizing the company in their newsletter. In 2019, a plot was concocted to intimidate the couple into halting their negative coverage.\nExecutives used sock puppet social media accounts to harass the couple, while also sending them anonymous threatening letters and bizarre items in the mail — including live spiders and cockroaches, pornographic magazines, a bloody pig mask, a funereal wreath, and a book about surviving the death of a spouse. \nAccording to previously released court documents, a plan that was attempted but never successfully carried out involved affixing a GPS tracking device to the couple’s car. Yet another internally broached plan involved sending a “Samoan gang” to the Steiners’ home.\nThe settlement this week resolves a 2021 civil case brought by the couple against eBay. The law office representing the Steiners writes that the settlement includes $46.15 million paid to the couple by eBay itself, as well as $2 million from former eBay executive CEO Devin Wenig.\nAdditionally, $500,000 will be paid out to the couple from former eBay executive Wendy Jones, as well as $50,000 from former eBay executive Steve Wymer. Additional funds are being paid to various non-profits. \nIn 2022, seven former eBay employees were criminally charged and pled guilty in relation to the plot, including the company’s former security chief, James Baugh — who was sentenced to nearly five years in prison. Others indicted by the U.S. Department of Justice include David Harville, Brian Gilbert, Stephanie Popp, Stephanie Stockwell, Philip Cooke, and former eBay contractor Veronica Zea.\nIn a statement published Tuesday, eBay disavowed its former employees’ behavior as “not representative of eBay’s culture” — which is comforting, I guess.\n“As we have long stated, what the Steiners were subjected to by former eBay employees in 2019 was wrong, reprehensible and should never have happened,” eBay continued. “We condemn, in the strongest terms possible, the employees who perpetrated and pled guilty to criminal charges for the misconduct against Ina and David Steiner.” \n“We continue to extend our deepest apologies to the Steiners. This agreement is consistent with our commitment to fairly compensate the Steiners and fulfills our efforts to make things right.”\n“This case was always about more than obtaining financial recovery,” said Christopher Murphy, one of the Steiners’ attorneys. “From the beginning, our clients wanted to uncover the truth, protect journalists and publishers, hold those responsible accountable, deter future corporate misconduct, and help ensure others would never have to endure what they experienced.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tLucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. \nYou can contact Lucas by emailing lucas.ropek@techcrunch.com.\t\n\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "eBay reaches $56M settlement with e-commerce newsletter writers it terrorized in 2019",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1133588371-e1736345274842.jpg?w=150"
+      ],
+      "datePublished": "2026-07-28T18:35:29.000Z",
+      "dateModified": "2026-07-28T18:35:29.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Lyft and Baidu enter London’s robotaxi battleground as testing begins",
+    "url": "https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Freenow-by-Lyft-x-Baidu-Apollo-Go.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-07-28T08:00:00.000Z",
+    "description": "\nChinese tech giant Baidu has started testing autonomous vehicles in London as part of its partnership with Lyft and Freenow, the German taxi and mult",
+    "body": "\nChinese tech giant Baidu has started testing autonomous vehicles in London as part of its partnership with Lyft and Freenow, the German taxi and multi-mobility app that Lyft now owns. Baidu is the latest in a string of companies to test self-driving technology in the U.K. ahead of commercial robotaxi deployments.\nThe testing, which began Tuesday with human safety operators, comes nearly a year after the two companies struck a strategic partnership to deploy Baidu’s purpose-built Apollo Go RT6 robotaxi across key European markets through the Lyft platform. The vehicles will eventually be available through Freenow, which Lyft acquired in 2025 for about $197 million.\nThat deal gave Lyft a foothold in Europe’s ride-hailing market, where a handful of well-funded companies are now jockeying to be first to market with robotaxis.\nLondon in particular is shaping up to be a key battleground in the region. In April, Waymo began testing its autonomous vehicles with human safety operators in the city. Uber and its self-driving tech partner, Wayve, also announced plans to launch a robotaxi service in London this year. That initial service — which customers can now sign up for on an interest list — will have human safety operators behind the wheel before fully driverless operations begin later.\nBaidu and Freenow by Lyft (as the latter service is now called) said they expect to invite the public to hail their robotaxis in 2027. The companies, which didn’t provide a more detailed timeline, noted that the launch will depend on regulatory approval.\nFor now, dozens of test vehicles will operate within London’s borough of Brent. Lyft and Freenow said they continue discussions with safety and city officials, including Transport for London (TfL) and the Centre for Connected and Autonomous Vehicles (CCAV). The U.K. government is in the process of creating autonomous vehicle regulations and opened applications in May for companies interested in an AV pilot program that lets companies test self-driving vehicles under government oversight.\nWhen the service does launch, Freenow by Lyft said it will operate a hybrid network — employing the same language rival Uber has used — meaning human drivers operating taxis and private-hire vehicles will work alongside the robotaxis.\n“As a platform with deep roots in the taxi industry, our priority is ensuring that autonomous technology supports the professional drivers who keep London moving,” Thomas Zimmermann, CEO of Freenow by Lyft, said in a statement. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tKirsten Korosec is a reporter and editor who has covered the future of transportation from EVs and autonomous vehicles to urban air mobility and in-car tech for more than a decade. She is currently the transportation editor at TechCrunch and co-host of TechCrunch’s Equity podcast. She is also co-founder and co-host of the podcast, “The Autonocast.” She previously wrote for Fortune, The Verge, Bloomberg, MIT Technology Review and CBS Interactive.\nYou can contact or verify outreach from Kirsten by emailing kirsten.korosec@techcrunch.com or via encrypted message at kkorosec.07 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Lyft and Baidu enter London’s robotaxi battleground as testing begins",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/07/Freenow-by-Lyft-x-Baidu-Apollo-Go.jpg?w=150"
+      ],
+      "datePublished": "2026-07-28T08:00:00.000Z",
+      "dateModified": "2026-07-28T08:00:00.000Z",
       "author": [
         {
           "@type": "Person",
