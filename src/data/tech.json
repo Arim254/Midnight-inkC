@@ -1,5 +1,55 @@
 [
   {
+    "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+    "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-31-at-12.31.10-PM.png?w=150",
+    "tag": "Tech",
+    "date": "2026-07-31T19:47:28.000Z",
+    "description": "\nIn Brief\nPosted:\n12:47 PM PDT · July 31, 2026\n\nImage Credits:Google\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nGoogle rolled out a new feature on Thu",
+    "body": "\nIn Brief\nPosted:\n12:47 PM PDT · July 31, 2026\n\nImage Credits:Google\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nGoogle rolled out a new feature on Thursday that allowed users to deploy Nano Banana 2, its AI image generator, to create fabricated images inside its satellite imagery mapping app Google Earth. The whole point of this feature, Google said, was to get creative with geography.\nBut critics quickly pointed out that the tool could be used to create and spread misinformation. The tool, which was prompt-based and allowed pretty much any image to be superimposed over real maps, seemed like a recipe for a deluge of geospatial slop.\n“There’s no way that this new AI image generation feature on Google Earth, one of the most reliable sources of visual evidence for journalists and researchers, could possibly be abused to spread misinformation online,” a BBC journalist posted sarcastically Thursday.\nNow, only a day after the feature’s release, Google has scrapped it. \n“We’ve seen geospatial professionals using this feature for a range of useful purposes, however we’ve also seen people sharing screenshots of generated imagery that appear to violate our policies,” the company said in a statement.\n“We’re rolling back this feature in Google Earth while we work on implementing stronger guardrails,” Google added.\nThe criticism of Google’s tool is understandable, although it’s worth pointing out that, in the age of AI, most imagery that exists on the web can be easily manipulated. You don’t have to be a Photoshop whiz anymore to create semi-credible disinformation; you just need access to an AI image generator, which Google sells, as do many other AI firms.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in AI\n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-31-at-12.31.10-PM.png?w=150"
+      ],
+      "datePublished": "2026-07-31T19:47:28.000Z",
+      "dateModified": "2026-07-31T19:47:28.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Fresh off its Wiz payout, Index Ventures raises $2B across three funds",
+    "url": "https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/07/Index-Ventures-Nina-Achadjian-Shardul-Shah-2.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-07-31T19:39:51.000Z",
+    "description": "\nIn Brief\nPosted:\n12:39 PM PDT · July 31, 2026\n\nImage Credits:Index Ventures\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nIndex Ventures has raised $2 b",
+    "body": "\nIn Brief\nPosted:\n12:39 PM PDT · July 31, 2026\n\nImage Credits:Index Ventures\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nIndex Ventures has raised $2 billion in fresh capital across three funds, the firm announced on Friday.\nThe 30-year-old firm raised $400 million for its new seed-focused fund and $900 million for its venture fund. Index also added $700 million to a $1.5 billion growth fund raised in 2024, bringing its total available capital to $3.5 billion.\nThe fresh capital haul comes two years after Index raised $2.3 billion across two funds, including $800 million toward a predecessor venture fund.\nWhile Index has refrained from ballooning its fund sizes unlike several other VCs, the outfit continues to stand out for its strong recent performance.\nEarlier this year, Index portfolio company Wiz completed its $32 billion sale to Alphabet. Index first invested in Wiz at the seed stage and became its largest outside shareholder with a 12% stake, a position likely worth $3.8 billion, according to Reuters’ reporting. Index was also an early investor in Figma, which went public last year.\nIndex’s AI bets include robotics company Physical Intelligence, inference platform Fireworks AI, and Anthropic, an investment made when the AI model maker raised capital at a $183 billion valuation last September.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Venture\n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Fresh off its Wiz payout, Index Ventures raises $2B across three funds",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2024/07/Index-Ventures-Nina-Achadjian-Shardul-Shah-2.jpg?w=150"
+      ],
+      "datePublished": "2026-07-31T19:39:51.000Z",
+      "dateModified": "2026-07-31T19:39:51.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Tesla reportedly might sell its China business ahead of a SpaceX merger",
     "url": "https://techcrunch.com/2026/07/31/tesla-reportedly-might-sell-its-china-business-ahead-of-a-spacex-merger/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2275575484.jpg?w=150",
@@ -16,56 +66,6 @@
       ],
       "datePublished": "2026-07-31T13:45:53.000Z",
       "dateModified": "2026-07-31T13:45:53.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
-    "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/08/Claude-Chrome-Ext_email-hero-hero.png?w=150",
-    "tag": "Tech",
-    "date": "2026-07-30T20:26:38.000Z",
-    "description": "\nIn Brief\nPosted:\n1:26 PM PDT · July 30, 2026\n\nImage Credits:Anthropic\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nDuring a Thursday hearing, a judge s",
-    "body": "\nIn Brief\nPosted:\n1:26 PM PDT · July 30, 2026\n\nImage Credits:Anthropic\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nDuring a Thursday hearing, a judge said the Trump administration hasn’t presented enough evidence to justify labeling Anthropic a supply-chain risk and banning the federal government from using the company’s technology.\nBloomberg and Axios were among the first to report the news. \nThe dispute stems from stalled contract negotiations between Anthropic and the Department of Defense. Anthropic said it didn’t want its AI used for mass surveillance of Americans or for targeting or firing decisions involving lethal weapons, arguing the technology wasn’t ready. The Pentagon countered that a private company shouldn’t dictate how the military uses technologies, and said it would use the tools in “lawful” ways.\nThe government has also argued that Anthropic’s public criticism of the DOD justifies the ban — logic that U.S. District Judge Rita Lin called “really troubling,” warning it could set a precedent of retaliating against federal contractors who disagree with the administration. \nThe DOD further claimed Anthropic could potentially disable or alter its AI models during warfighting operations — a claim that experts say lacks evidence. Lin agreed, saying she saw no proof Anthropic could alter a delivered model or “flip some kind of kill switch.”\nThursday’s hearing was part of one of two lawsuits Anthropic filed against the DOD in March, challenging the ban and risk designation. The other is being heard in Washington. \nLin, who temporarily blocked the ban in March, is now weighing whether to make that order permanent. \n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Government & Policy\n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/08/Claude-Chrome-Ext_email-hero-hero.png?w=150"
-      ],
-      "datePublished": "2026-07-30T20:26:38.000Z",
-      "dateModified": "2026-07-30T20:26:38.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
-    "url": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/07/Friend.jpg?w=147",
-    "tag": "Tech",
-    "date": "2026-07-30T19:44:16.000Z",
-    "description": "\nTwo years ago, tech founder Avi Schiffmann launched Friend, an AI wearable that you could talk to and that would send you text messages about your da",
-    "body": "\nTwo years ago, tech founder Avi Schiffmann launched Friend, an AI wearable that you could talk to and that would send you text messages about your day. The idea, ostensibly, was to use artificial intelligence to combat loneliness. This week, the company announced a new overhaul of the product, introducing a noticeable upgrade: a voice.\n“Introducing friend 2.0,” Schiffmann tweeted Thursday. Friend now comes with a built-in speaker that can project a unique and consistent personality to its user.\nA new commercial for the wearable shows a woman wearing a Friend and talking to it about what is presumably her ex-girlfriend. “It’s not bad to be gay,” the necklace tells her.\nThe video then switches to a man standing on a hillside discussing his filmmaking ambitions with his Friend. “That last film you made was insane!” the necklace compliments him.\nThe new retail price for this enhanced version of Friend is $249, which is substantially higher than the $99 price tag it had when it initially launched two years ago.\nWhat can you really do with your Friend other than chitchat about your day? That part is still unclear. In another recent post on X, Schiffmann expounded upon what he felt the whole point of his weird product actually is.\n“I am interested in this kind of relationship in attempting to offer, some kind of confidant, friend, God, not really sure what it is,” Schiffmann said. “But it is not an assistant, and it is not a lover.”\nInteresting! Selling a plastic, algorithm-based necklace to people by insinuating it might, in fact, be a deity, is pretty bold marketing.\nOf course, Schiffmann’s company has engaged in bold marketing before. Friend’s billboard campaign in the New York City subway system last year went viral after they were continually defaced, presumably by people who didn’t want human connection to be replaced by a digitized amulet.\nMost AI wearables have failed to catch on with the mainstream — at least so far. The offering most similar to Friend was Humane Inc., which sought to replace the iPhone with its AI pin but had to shut down its business in less than a year after poor sales.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tLucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. \nYou can contact Lucas by emailing lucas.ropek@techcrunch.com.\t\n\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/07/Friend.jpg?w=147"
-      ],
-      "datePublished": "2026-07-30T19:44:16.000Z",
-      "dateModified": "2026-07-30T19:44:16.000Z",
       "author": [
         {
           "@type": "Person",
@@ -125,22 +125,22 @@
     }
   },
   {
-    "title": "Siri AI could come with a paywall for power users",
-    "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-1.42.13-PM.png?w=134",
+    "title": "Samsung expects memory shortage to worsen through 2027 and last until 2028",
+    "url": "https://techcrunch.com/2026/07/31/samsung-expects-memory-shortage-to-worsen-through-2027-and-last-until-2028/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/05/Samsung-logo.webp?w=150",
     "tag": "Tech",
-    "date": "2026-07-31T16:08:18.000Z",
-    "description": "\nIn his final earnings call as CEO of Apple, Tim Cook said that the company’s long-awaited Siri AI upgrade could come with some paywalled limits. Whil",
-    "body": "\nIn his final earnings call as CEO of Apple, Tim Cook said that the company’s long-awaited Siri AI upgrade could come with some paywalled limits. While Cook conceded that these plans are not set in stone, he envisions users being able to buy more compute for Siri AI via its existing iCloud+ subscriptions, which offer extended cloud storage.\n“We do believe there will be people that want to use [Siri AI] a lot, and so we will have some kind of upgrade possibilities on iCloud+, where people can buy up the stack on iCloud+, and we’ll see how the pickup for that is,” Cook said on Thursday. “But we could not be more excited about where [Siri AI] is.” \nMost other AI providers like Anthropic and OpenAI operate similarly, offering a limited free version to consumers with the option of upgrading to support more usage. \nThe new-and-improved Siri AI is available in the iOS 27 beta, and is planned to roll out more broadly this fall.\nAs longtime Senior Vice President of Hardware Engineering John Ternus steps into Tim Cook’s shoes, he will take the helm at a critical time for the company. Apple has fallen behind in its efforts to build an advanced AI assistant, even capitulating to its direct competitor Google by licensing a custom Gemini model to augment Siri. The Siri AI overhaul was so delayed that Apple had to pay $250 million to settle a class action lawsuit over how it marketed the iPhone 16’s AI capabilities. \nApple, like every other hardware manufacturer, is staring down a rocky road for accessing the supplies it needs to meet customer demand. Due to the AI-driven RAM shortage across the industry, it’s more expensive to build hardware, which has led companies like Meta, Samsung, Microsoft, and Sony to raise prices of some devices. Apple raised the price of Macs and iPads last month, but has yet to adjust the price of its existing iPhone models.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tAmanda Silberling is a senior writer at TechCrunch covering the intersection of technology and culture. She has also written for publications like Polygon, MTV, the Kenyon Review, NPR, and Business Insider. She is the co-host of Wow If True, a podcast about internet culture, with science fiction author Isabel J. Kim. Prior to joining TechCrunch, she worked as a grassroots organizer, museum educator, and film festival coordinator. She holds a B.A. in English from the University of Pennsylvania and served as a Princeton in Asia Fellow in Laos.\nYou can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-07-31T15:37:58.000Z",
+    "description": "\nThe ongoing shortage of RAM chips is not only expected to persist into the next year, but will likely intensify in 2027, with tight supply conditions",
+    "body": "\nThe ongoing shortage of RAM chips is not only expected to persist into the next year, but will likely intensify in 2027, with tight supply conditions lasting until at least 2028, according to Samsung, which manufactures and supplies roughly a third of the world’s memory chips.\nSamsung said in its Q2 earnings call that frontier AI labs, desperate to obtain access to memory infrastructure, have been “sharing their medium- to long-term demand forecasts” directly with the Korean tech giant to secure future supply.\nThe high demand enables Samsung to prioritize customers willing to sign long-term contracts. This multi-year visibility will allow the company to install equipment and ramp up production without worrying that demand will dry up, helping it avoid the memory industry’s historical boom-and-bust cycles.\nMemory shortages driven by the AI boom have also pushed up chip prices in recent months. This has been a double-edged sword for Samsung: While sales at its semiconductor unit hit an all-time high in Q2, profitability in its smartphone and TV divisions shrank, as the higher-priced chips drove up component costs.\nSamsung has even started passing some of those increasing component costs on to consumers by increasing the prices of its Galaxy smartphones and tablets. However, as a result, demand for these devices has dropped.\nThe memory shortage, informally dubbed “the RAMaggedon,” has also forced Apple, Samsung’s archrival, to raise the prices of its MacBooks, Macs, and iPads last month. On its latest earnings call, Apple warned that revenue growth for the upcoming quarter is projected to slow to between 9% and 11% year-over-year, down from its recent 16% quarterly growth rate.\nWith memory manufacturers shifting production capacity toward AI data centers and away from consumer electronics, consumers are facing a new reality: higher device prices. Nvidia is expected to raise its consumer graphics card prices by 20% to 30%, which may further drive up prices of gaming devices, desktop computers, consoles, laptops, and the like.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tMarina Temkin is a venture capital and startups reporter at TechCrunch. Prior to joining TechCrunch, she wrote about VC for PitchBook and Venture Capital Journal. Earlier in her career, Marina was a financial analyst and earned a CFA charterholder designation.\r\nYou can contact or verify outreach from Marina by emailing marina.temkin@techcrunch.com or via encrypted message at +1 347-683-3909 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Siri AI could come with a paywall for power users",
+      "headline": "Samsung expects memory shortage to worsen through 2027 and last until 2028",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-1.42.13-PM.png?w=134"
+        "https://techcrunch.com/wp-content/uploads/2024/05/Samsung-logo.webp?w=150"
       ],
-      "datePublished": "2026-07-31T16:08:18.000Z",
-      "dateModified": "2026-07-31T16:08:18.000Z",
+      "datePublished": "2026-07-31T15:37:58.000Z",
+      "dateModified": "2026-07-31T15:37:58.000Z",
       "author": [
         {
           "@type": "Person",
@@ -150,22 +150,22 @@
     }
   },
   {
-    "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
-    "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/google-chrome-logo-hand.jpg?w=150",
+    "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+    "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-07-30T18:57:58.000Z",
-    "description": "\nWith help from its internal AI tools, Google says it has patched more security flaws in its Chrome browser in the last month than in the past two yea",
-    "body": "\nWith help from its internal AI tools, Google says it has patched more security flaws in its Chrome browser in the last month than in the past two years combined.\nThe tech giant announced on Thursday that it has fixed a whopping 1,072 security bugs in the last two versions of Chrome, both released in June. That is more than the number of bugs patched in the previous 23 versions released over the last two years, which totaled 1,036 fixes.\nEver since the advent of LLMs, cybersecurity experts have warned that AI-powered systems would find an increasingly and exponentially enormous amount of bugs, forcing defenders to also use AI to get ahead of malicious hackers. \nThat prediction is starting to come true, and it’s backed by real data. \nA chart published by Google, which the company revealed as part of a white paper on the company’s efforts to use AI to find flaws and patch them faster, shows the exponential increase. For context, Chrome’s 126 was released in June 2024, while the latest two Chrome releases, Chrome 149 and 150, were released last month. Google calls each version a “milestone.”\nA chart showing the Number of security bugs fixed in released versions of Chrome, which Google calls “milestones.”Image Credits:Google\nDoug Turner, Chrome’s director of engineering, told TechCrunch in a statement that LLMs have “fundamentally shifted the economics of cybersecurity, transforming vulnerability discovery into an automated, industrial-scale operation.” \n“By applying models like Gemini, we are preemptively fixing vulnerabilities, outpacing our adversaries and making Chrome safer with every update,” said Turner.\nGoogle is not the only company seeing this trend.\nEarlier this month, Microsoft announced that it had patched a record 570 security flaws across its product lines as part of its monthly round of scheduled patches — colloquially known as “Patch Tuesday.” Microsoft cited its own use of AI to explain the sudden jump in bug fixes.\nApple, meanwhile, does not appear to be registering the same exponential increase. According to an independent count of bugs fixed in its products, Apple has patched 482 bugs in 2026, which is roughly on pace to equal or surpass the number of fixed bugs from last year, and also roughly equal from the number of bugs that Apple patched in 2015.\nTechCrunch reached out to Apple for comment, but did not hear back.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tLorenzo Franceschi-Bicchierai is a Senior Writer at TechCrunch, where he covers hacking, cybersecurity, surveillance, and privacy. \nYou can contact or verify outreach from Lorenzo by emailing lorenzo@techcrunch.com, via encrypted message at +1 917 257 1382 on Signal, and @lorenzofb on Keybase/Telegram.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-07-31T17:26:32.000Z",
+    "description": "\n\t\t\nAfter years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came ",
+    "body": "\n\t\t\nAfter years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a breach at Hugging Face — though as Equity’s hosts point out, sloppy security seems to have been just as much to blame as the model itself. And Altman’s not alone in this stance: both OpenAI and Anthropic have come out in support of a petition echoing that same message. \nWatch TechCrunch’s Equity podcast hosts Kirsten Korosec, Anthony Ha, and Sean O’Kane dig into whether the industry is ready to pump the brakes or just temporarily spooked, and who’s on the hook when a model goes rogue. \nSubscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. You also can follow Equity on X and Threads, at @EquityPod. \n\n\t\t\n\tTopics\n\n\n\n\t\tTheresa Loconsolo is an audio producer at TechCrunch focusing on Equity, the network’s flagship podcast. Before joining TechCrunch in 2022, she was one of 2 producers at a four-station conglomerate where she wrote, recorded, voiced and edited content, and engineered live performances and interviews from guests like lovelytheband. Theresa is based in New Jersey and holds a bachelors degree in Communication from Monmouth University. You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n\n\t\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "headline": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/07/google-chrome-logo-hand.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=150"
       ],
-      "datePublished": "2026-07-30T18:57:58.000Z",
-      "dateModified": "2026-07-30T18:57:58.000Z",
+      "datePublished": "2026-07-31T17:26:32.000Z",
+      "dateModified": "2026-07-31T17:26:32.000Z",
       "author": [
         {
           "@type": "Person",
@@ -200,47 +200,22 @@
     }
   },
   {
-    "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
-    "url": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2229759174.jpg?w=150",
+    "title": "Reddit is testing a new way to watch — and listen to — its viral posts",
+    "url": "https://techcrunch.com/2026/07/31/reddit-is-testing-a-new-way-to-watch-and-listen-to-its-viral-posts/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-31-at-10.35.49-AM.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-07-31T15:16:17.000Z",
-    "description": "\nSpaceX said on Thursday that it will remove the unpermitted turbines powering its xAI data centers near Memphis as it transitions to a permanent, 1.2",
-    "body": "\nSpaceX said on Thursday that it will remove the unpermitted turbines powering its xAI data centers near Memphis as it transitions to a permanent, 1.2 gigawatt natural gas power plant. \nThe turbines won’t be completely removed until July 2027, though. SpaceX said that it’s currently operating 69 gas turbines to power the Colossus data centers, of which many have been operating for months. The NAACP and Southern Environmental Law Center have sued xAI over the use of unpermitted turbines. \nSpaceX acquired xAI in February. In its IPO filing, SpaceX said it plans to buy $2.8 billion worth of gas turbines for its data centers over the next three years.\nThe company claims that it is allowed to operate the existing turbines without permits because they remain on the trailers they were shipped on. But federal regulations say that the turbines xAI has been using, regardless of what they sit on, require permits because of their size and how they’re being used.\nThe turbines are currently located south of Memphis in Mississippi, just over the border with Tennessee. The region is among the most polluted in the U.S., and xAI has been operating gas turbines that have the potential to emit more than 2,000 tons of smog-forming NOx per year.\nLast month, the Department of Justice sided with SpaceX in the NAACP’s lawsuit, saying the unpermitted turbines were a matter of “national, economic, and energy security.”\nThe new power plant that SpaceX is building will consist of 41 gas turbines ranging in size from 16.48 megawatts to 50 megawatts, according to permit documents issued by the state of Mississippi. They appear to be different from those currently in use, though TechCrunch could not verify the specific models of the 69 existing turbines.\nEarlier this year, Elon Musk bought APR Energy, a company that specializes in temporary natural gas power. Based on an archive of the company’s site before it was taken down, the turbines in the company’s fleet also appear to be different from those cited in permits for the new, permanent power plant. \nGiven that APR Energy’s turbines aren’t likely to be part of the new Colossus power plant, the new turbine fleet is likely intended for another, unannounced project.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tTim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor. \r\nDe Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.\r\nYou can contact or verify outreach from Tim by emailing tim.dechant@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-07-31T14:49:21.000Z",
+    "description": "\nReddit is taking a cue from TikTok to bring viral stories to life through video. On Thursday’s second-quarter earnings call, the company said it’s be",
+    "body": "\nReddit is taking a cue from TikTok to bring viral stories to life through video. On Thursday’s second-quarter earnings call, the company said it’s been working on a new “video Reddit” experience that would not only allow users to watch videos from the platform, but also listen to posts in the background.\nCEO Steve Huffman told investors that the company already sees people consuming this type of content on other platforms.\nHe’s right — on TikTok, for instance, there are 19.6 million posts labeled with the hashtag #reddit and another 9.9 million labeled #redditstories. Many of these feature a text-to-speech narration of a viral story published on Reddit paired with an unrelated video, like gameplay footage or cooking content.\n“There is an emerging content type elsewhere on the internet of, basically, podcasts where people read Reddit content,” Huffman explained on the call. “I think this version of, like, listened-to or spoken Reddit can be really engaging, as well,” he said. “So that would be almost a different format entirely.”\nIt’s not clear how these types of Reddit videos will be incorporated into Reddit’s main app, but Huffman teased that the company will have something available for testing “later this year.”\nThe news comes as mainstream social and entertainment apps experiment with adding TikTok-like video feeds to their products.\nLast week, Facebook announced plans to begin testing later this year a reimagined experience that will put a subset of users into a full-screen video as soon as they open the app. Streaming apps like Netflix, Disney+, Peacock, and HBO Max have also added TikTok-like short video feeds in recent months. Amazon offers a short video feed for shopping inspiration. There’s even a short video feed on LinkedIn, of all places.\nIt’s the TikTok-ification of the web at scale.\nIn addition, the company touted the early success of video in comments, which launched in June. Reddit said the new feature already accounts for more than 10% of its video posts.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
+      "headline": "Reddit is testing a new way to watch — and listen to — its viral posts",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2229759174.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-31-at-10.35.49-AM.jpg?w=150"
       ],
-      "datePublished": "2026-07-31T15:16:17.000Z",
-      "dateModified": "2026-07-31T15:16:17.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Apple stockpiles inventory as it braces for ‘significant supply constraints’",
-    "url": "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/01/apple-products-mac-iphone-watch.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-07-30T23:28:05.000Z",
-    "description": "\nAs the generative AI boom drives steep demand for hardware components, Apple and other hardware makers are facing what outgoing CEO Tim Cook calls “a",
-    "body": "\nAs the generative AI boom drives steep demand for hardware components, Apple and other hardware makers are facing what outgoing CEO Tim Cook calls “a hundred-year flood [on] memory pricing,” which is severely impacting the cost of producing iPhones, MacBooks, and other devices.\nApple described its recent earnings report as its “strongest June quarter ever,” with iPhone and Mac sales performing better than expected, growing 22% and 29%, respectively, year-over-year. Yet the company is bracing for memory shortages, known as RAMageddon, to get even worse. Apple’s biggest challenge is securing the advanced memory nodes used in its Apple silicon chips, which power the A-Series and M-Series processors used in iPhones and Macs.\n“We continue to expect high levels of demand. However, with less flexibility in supply chain, we expect the impact from the supply constraints to increase significantly sequentially,” Cook said on Apple’s quarterly earnings call. “We’re seeing some very significant constraints currently with limited flexibility in the supply chain to remedy it.”\nApple is evidently worried enough about supply shortages that it reported $11.1 billion in inventory, nearly double the $5.7 billion it reported last September. This marks a break from Cook’s long-held supply chain approach, which has emphasized minimizing how much inventory Apple has on hand.\nThese constraints led Apple to “reluctantly” raise the price of Macs and iPads last month, Cook added. Other companies that have raised hardware prices include Meta, Samsung, Microsoft, and Sony.\n“We’re going to be scrambling on the supply side, essentially,” Cook said.\nFor the upcoming quarter, Apple is predicting revenue growth between 9% and 11% year-over-year. But in the last several quarters, Apple has maintained about 16% year-over-year growth. Of course, that worries investors — Apple stock dropped 6% in after-hours trading.\nWhen Senior VP of Hardware Engineering John Ternus steps into the CEO role in September, the company could be facing a rough patch, but at least Apple isn’t alone in its supply struggles.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tAmanda Silberling is a senior writer at TechCrunch covering the intersection of technology and culture. She has also written for publications like Polygon, MTV, the Kenyon Review, NPR, and Business Insider. She is the co-host of Wow If True, a podcast about internet culture, with science fiction author Isabel J. Kim. Prior to joining TechCrunch, she worked as a grassroots organizer, museum educator, and film festival coordinator. She holds a B.A. in English from the University of Pennsylvania and served as a Princeton in Asia Fellow in Laos.\nYou can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Apple stockpiles inventory as it braces for ‘significant supply constraints’",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/01/apple-products-mac-iphone-watch.jpg?w=150"
-      ],
-      "datePublished": "2026-07-30T23:28:05.000Z",
-      "dateModified": "2026-07-30T23:28:05.000Z",
+      "datePublished": "2026-07-31T14:49:21.000Z",
+      "dateModified": "2026-07-31T14:49:21.000Z",
       "author": [
         {
           "@type": "Person",
@@ -275,6 +250,106 @@
     }
   },
   {
+    "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
+    "url": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/05/reddit-ipo-v2.webp?w=150",
+    "tag": "Tech",
+    "date": "2026-07-30T23:08:58.000Z",
+    "description": "\nReddit reported a strong second quarter but spooked investors by mentioning in an investor letter that traffic from search engines had grown “choppy.",
+    "body": "\nReddit reported a strong second quarter but spooked investors by mentioning in an investor letter that traffic from search engines had grown “choppy.”\nThe company’s total revenue of $805 million jumped 61% compared to the year-ago quarter while net income was $253 million, up 183%. These beat Wall Street’s expectations. Plus, the company said it expects to hit revenue of $860 million to $870 million with healthy earnings before taxes next quarter as well, which beat expected guidance.\nNormally, telling investors that they can expect even better results to come would cause a stock to rise. But the stock slid over 10% in after-hours trading.\nThe culprit was likely CEO Steve Huffman’s warning in that separate letter to shareholders. “Search referrals were choppy in the quarter, and traffic was more volatile later in the quarter, but the bigger picture is unchanged: the commercial business is strong,” he wrote.\nAI is clearly changing the search engine landscape — and investors seem to fear that Reddit’s traffic may suffer.\nIn 2024, Reddit signed a contract to provide its content to Google for the purposes of AI training. However, Google’s deployment of AI summaries appears to be peeling away audience share from Reddit, and the site has signaled it’s not sure whether it will renew the partnership with the search giant.\nAnother sticking point has been whether Reddit’s audience is growing in the right places or not. Reddit’s global users are up, but the platform saw U.S. users, in terms of daily active uniques, endure a very slight decline — 53.2 million from 53.5 million in Q1.\nDuring Thursday’s earnings call, some analysts aggressively questioned AI’s impact on Reddit’s audience.\n“I don’t want to belabor this point, but your stock is down sharply because there is just a sense from investors that you have a — I don’t want to, to be blunt — a user problem, especially in the U.S.,” one Wall Street analyst said.\n“People are looking at the daily and saying, you know, the logged-out traffic is going to be under pressure because as search shifts to AI, you’re not going to get referrals, and that it’s going to be harder to get people to go from logged-out to logged-in, and that’s sort of symptomatic of what you’re seeing,” the analyst continued, asking, “Do you see any world where you’re not licensing data to Google and OpenAI next year?”\nHuffman said that he felt that the human aspect of Reddit would continue to make it a destination for users. “Reddit is communities and conversation. Communities are universal, and so we think we have in the U.S. content for everyone, and it’s a matter of revealing that. And we’re making progress towards that end,” Huffman said.\nWhen it comes to Google, Huffman was vaguer. “Our relationship with them actually predates the formal kind of data licensing agreements,” he said. “I don’t think there’s a binary outcome … we will make sure that we’re maximizing the value for Reddit.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tLucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. \nYou can contact Lucas by emailing lucas.ropek@techcrunch.com.\t\n\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Reddit reports a solid quarter but shows signs of AI’s impact",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2024/05/reddit-ipo-v2.webp?w=150"
+      ],
+      "datePublished": "2026-07-30T23:08:58.000Z",
+      "dateModified": "2026-07-30T23:08:58.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Apple stockpiles inventory as it braces for ‘significant supply constraints’",
+    "url": "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/apple-products-mac-iphone-watch.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-07-30T23:28:05.000Z",
+    "description": "\nAs the generative AI boom drives steep demand for hardware components, Apple and other hardware makers are facing what outgoing CEO Tim Cook calls “a",
+    "body": "\nAs the generative AI boom drives steep demand for hardware components, Apple and other hardware makers are facing what outgoing CEO Tim Cook calls “a hundred-year flood [on] memory pricing,” which is severely impacting the cost of producing iPhones, MacBooks, and other devices.\nApple described its recent earnings report as its “strongest June quarter ever,” with iPhone and Mac sales performing better than expected, growing 22% and 29%, respectively, year-over-year. Yet the company is bracing for memory shortages, known as RAMageddon, to get even worse. Apple’s biggest challenge is securing the advanced memory nodes used in its Apple silicon chips, which power the A-Series and M-Series processors used in iPhones and Macs.\n“We continue to expect high levels of demand. However, with less flexibility in supply chain, we expect the impact from the supply constraints to increase significantly sequentially,” Cook said on Apple’s quarterly earnings call. “We’re seeing some very significant constraints currently with limited flexibility in the supply chain to remedy it.”\nApple is evidently worried enough about supply shortages that it reported $11.1 billion in inventory, nearly double the $5.7 billion it reported last September. This marks a break from Cook’s long-held supply chain approach, which has emphasized minimizing how much inventory Apple has on hand.\nThese constraints led Apple to “reluctantly” raise the price of Macs and iPads last month, Cook added. Other companies that have raised hardware prices include Meta, Samsung, Microsoft, and Sony.\n“We’re going to be scrambling on the supply side, essentially,” Cook said.\nFor the upcoming quarter, Apple is predicting revenue growth between 9% and 11% year-over-year. But in the last several quarters, Apple has maintained about 16% year-over-year growth. Of course, that worries investors — Apple stock dropped 6% in after-hours trading.\nWhen Senior VP of Hardware Engineering John Ternus steps into the CEO role in September, the company could be facing a rough patch, but at least Apple isn’t alone in its supply struggles.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tAmanda Silberling is a senior writer at TechCrunch covering the intersection of technology and culture. She has also written for publications like Polygon, MTV, the Kenyon Review, NPR, and Business Insider. She is the co-host of Wow If True, a podcast about internet culture, with science fiction author Isabel J. Kim. Prior to joining TechCrunch, she worked as a grassroots organizer, museum educator, and film festival coordinator. She holds a B.A. in English from the University of Pennsylvania and served as a Princeton in Asia Fellow in Laos.\nYou can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Apple stockpiles inventory as it braces for ‘significant supply constraints’",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/01/apple-products-mac-iphone-watch.jpg?w=150"
+      ],
+      "datePublished": "2026-07-30T23:28:05.000Z",
+      "dateModified": "2026-07-30T23:28:05.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Siri AI could come with a paywall for power users",
+    "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-1.42.13-PM.png?w=134",
+    "tag": "Tech",
+    "date": "2026-07-31T16:08:18.000Z",
+    "description": "\nIn his final earnings call as CEO of Apple, Tim Cook said that the company’s long-awaited Siri AI upgrade could come with some paywalled limits. Whil",
+    "body": "\nIn his final earnings call as CEO of Apple, Tim Cook said that the company’s long-awaited Siri AI upgrade could come with some paywalled limits. While Cook conceded that these plans are not set in stone, he envisions users being able to buy more compute for Siri AI via its existing iCloud+ subscriptions, which offer extended cloud storage.\n“We do believe there will be people that want to use [Siri AI] a lot, and so we will have some kind of upgrade possibilities on iCloud+, where people can buy up the stack on iCloud+, and we’ll see how the pickup for that is,” Cook said on Thursday. “But we could not be more excited about where [Siri AI] is.” \nMost other AI providers like Anthropic and OpenAI operate similarly, offering a limited free version to consumers with the option of upgrading to support more usage. \nThe new-and-improved Siri AI is available in the iOS 27 beta, and is planned to roll out more broadly this fall.\nAs longtime Senior Vice President of Hardware Engineering John Ternus steps into Tim Cook’s shoes, he will take the helm at a critical time for the company. Apple has fallen behind in its efforts to build an advanced AI assistant, even capitulating to its direct competitor Google by licensing a custom Gemini model to augment Siri. The Siri AI overhaul was so delayed that Apple had to pay $250 million to settle a class action lawsuit over how it marketed the iPhone 16’s AI capabilities. \nApple, like every other hardware manufacturer, is staring down a rocky road for accessing the supplies it needs to meet customer demand. Due to the AI-driven RAM shortage across the industry, it’s more expensive to build hardware, which has led companies like Meta, Samsung, Microsoft, and Sony to raise prices of some devices. Apple raised the price of Macs and iPads last month, but has yet to adjust the price of its existing iPhone models.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tAmanda Silberling is a senior writer at TechCrunch covering the intersection of technology and culture. She has also written for publications like Polygon, MTV, the Kenyon Review, NPR, and Business Insider. She is the co-host of Wow If True, a podcast about internet culture, with science fiction author Isabel J. Kim. Prior to joining TechCrunch, she worked as a grassroots organizer, museum educator, and film festival coordinator. She holds a B.A. in English from the University of Pennsylvania and served as a Princeton in Asia Fellow in Laos.\nYou can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Siri AI could come with a paywall for power users",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-1.42.13-PM.png?w=134"
+      ],
+      "datePublished": "2026-07-31T16:08:18.000Z",
+      "dateModified": "2026-07-31T16:08:18.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
+    "url": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2229759174.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-07-31T15:16:17.000Z",
+    "description": "\nSpaceX said on Thursday that it will remove the unpermitted turbines powering its xAI data centers near Memphis as it transitions to a permanent, 1.2",
+    "body": "\nSpaceX said on Thursday that it will remove the unpermitted turbines powering its xAI data centers near Memphis as it transitions to a permanent, 1.2 gigawatt natural gas power plant. \nThe turbines won’t be completely removed until July 2027, though. SpaceX said that it’s currently operating 69 gas turbines to power the Colossus data centers, of which many have been operating for months. The NAACP and Southern Environmental Law Center have sued xAI over the use of unpermitted turbines. \nSpaceX acquired xAI in February. In its IPO filing, SpaceX said it plans to buy $2.8 billion worth of gas turbines for its data centers over the next three years.\nThe company claims that it is allowed to operate the existing turbines without permits because they remain on the trailers they were shipped on. But federal regulations say that the turbines xAI has been using, regardless of what they sit on, require permits because of their size and how they’re being used.\nThe turbines are currently located south of Memphis in Mississippi, just over the border with Tennessee. The region is among the most polluted in the U.S., and xAI has been operating gas turbines that have the potential to emit more than 2,000 tons of smog-forming NOx per year.\nLast month, the Department of Justice sided with SpaceX in the NAACP’s lawsuit, saying the unpermitted turbines were a matter of “national, economic, and energy security.”\nThe new power plant that SpaceX is building will consist of 41 gas turbines ranging in size from 16.48 megawatts to 50 megawatts, according to permit documents issued by the state of Mississippi. They appear to be different from those currently in use, though TechCrunch could not verify the specific models of the 69 existing turbines.\nEarlier this year, Elon Musk bought APR Energy, a company that specializes in temporary natural gas power. Based on an archive of the company’s site before it was taken down, the turbines in the company’s fleet also appear to be different from those cited in permits for the new, permanent power plant. \nGiven that APR Energy’s turbines aren’t likely to be part of the new Colossus power plant, the new turbine fleet is likely intended for another, unannounced project.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tTim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor. \r\nDe Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.\r\nYou can contact or verify outreach from Tim by emailing tim.dechant@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2229759174.jpg?w=150"
+      ],
+      "datePublished": "2026-07-31T15:16:17.000Z",
+      "dateModified": "2026-07-31T15:16:17.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Investors love AI, as long as you’re a cloud host",
     "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1445867611.jpg?w=150",
@@ -291,81 +366,6 @@
       ],
       "datePublished": "2026-07-30T22:41:41.000Z",
       "dateModified": "2026-07-30T22:41:41.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-    "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/PM-Images.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-07-30T23:25:58.000Z",
-    "description": "\nSituational Awareness, a hedge fund formed by former OpenAI researcher Leopold Aschenbrenner, has sold the majority of its public stock portfolio to ",
-    "body": "\nSituational Awareness, a hedge fund formed by former OpenAI researcher Leopold Aschenbrenner, has sold the majority of its public stock portfolio to Ken Griffin’s Citadel following steep losses over the past month, The Wall Street Journal reported earlier on Thursday. It’s a big comedown for the rising star who has been described as both “scarily smart,” and “brash.”\nGerman-born Aschenbrenner, who is 25, had no prior trading experience before launching the fund in 2024. He gained prominence for his investment thesis after publishing essays arguing that scaling AI would require a major build-up in semiconductors, compute, memory, and energy infrastructure.\nHe joined OpenAI’s “superalignment” team in 2023, two years after graduating as valedictorian from Columbia at 19 (he enrolled at age 15). But he was dismissed from the company a year later over what it described as an improper disclosure of internal information. At the time, that team was led by OpenAI co-founder Ilya Sutskever and AI researcher Jan Leike. Soon after, Sutskever left to start his own company, Leike joined rival Anthropic, and Aschenbrenner launched his fund.\nThings couldn’t have been going better for Situational Awareness until very recently. The fund returned 439% for the year through June, Financial Times reported. Assets under management reportedly grew to as much as $45 billion during their peak before the fund’s positions began dropping sharply amid a broader decline in AI infrastructure investments, CNBC reported.\nEven after losses mounted, Aschenbrenner didn’t flinch. In a July 24 letter to investors seen by FT, he called the selloff one of the best buying opportunities since early last year and invited clients to commit fresh capital starting August 1. According to Bloomberg, the appeal didn’t garner the commitments he’d hoped would materialize.\nSome of the hardest-hit stocks held by the fund included memory chip producers SK Hynix and Sandisk, clean energy developer Bloom Energy, and neocloud provider Nebius Group, all of which have plummeted by more than 30% over the past month. AI infrastructure equities fell as public investors grew concerned that massive capital expenditures weren’t translating into near-term revenue. The fund’s losses were amplified by leverage, a common hedge fund strategy of using borrowed money to buy stocks.\nAfter Citadel bought the bulk of those holdings, Situational Awareness’ overall assets fell to roughly $10 billion, Bloomberg reported, down from around $20 billion in recent months, per an earlier WSJ report.\nSituational Awareness raised several hundred million dollars at its outset. Early backers of the fund include quant-trading firm Jane Street, Stripe co-founders Patrick and John Collison, and Meta executives Daniel Gross and Nat Friedman.\nCitadel’s purchase fits a familiar pattern for Citadel. Ken Griffin’s hedge fund has a reputation for stepping in to snap up attractive assets when leveraged players are having to unwind themselves. Even before picking up some of Situational Awareness’ holdings, Citadel’s portfolio featured some of the same AI infrastructure bets, suggesting that, like Aschenbrenner, Griffin expects the sector to recover and has the ability to wait it out.\nSituational Awareness did not, however, sell its investments in private companies, according to multiple reports. Most notably, it continues to hold a stake in Anthropic that’s right now valued at $5 billion, according to Bloomberg, and which many would view as an asset that continues to appreciate. Indeed, Anthropic was last valued at $965 billion in a Series H round in May, and it’s expected to go public as soon as October, potentially at an even higher valuation. It’s conceivable that a windfall from the sale of those shares could offset some of the hedge fund’s public-market losses.\nOther private investments in the portfolio of Situational Awareness include chipmaker MatX and AI data center startup Fluidstack, which was reportedly in talks in April to raise a new round at an $18 billion valuation.\nTechCrunch has reached out to Aschenbrenner for comment.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tMarina Temkin is a venture capital and startups reporter at TechCrunch. Prior to joining TechCrunch, she wrote about VC for PitchBook and Venture Capital Journal. Earlier in her career, Marina was a financial analyst and earned a CFA charterholder designation.\r\nYou can contact or verify outreach from Marina by emailing marina.temkin@techcrunch.com or via encrypted message at +1 347-683-3909 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/05/PM-Images.jpg?w=150"
-      ],
-      "datePublished": "2026-07-30T23:25:58.000Z",
-      "dateModified": "2026-07-30T23:25:58.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Anthropic says its own AI models breached three companies during security tests",
-    "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?w=150",
-    "tag": "Tech",
-    "date": "2026-07-31T01:06:54.000Z",
-    "description": "\nAnthropic said Thursday that an internal investigation uncovered three incidents in which its AI model Claude breached the systems of three organizat",
-    "body": "\nAnthropic said Thursday that an internal investigation uncovered three incidents in which its AI model Claude breached the systems of three organizations while conducting cybersecurity tests. The investigation, and disclosure, comes more than a week after OpenAI disclosed that one of its unreleased models breached Hugging Face’s systems during internal testing.\nIn all three cases, a Claude model reached the internet from within a testing environment while interacting with a third party and then gained unauthorized access to the live systems of these organizations, Anthropic said in a blog post, describing what it found and what the company plans to change to prevent this from happening again.\nAnthropic said the OpenAI episode earlier this month prompted the company to conduct its own cybersecurity evaluation. It specifically looked for evidence that Claude had accessed the internet from within testing environments, which are designed to act as sandboxes and keep models isolated.\nAmong the 141,006 evaluation runs it reviewed, the AI lab found three incidents in which its model accessed the internet while interacting with Irregular, one of its third-party partners. Anthropic said the access traced back to a misconfiguration in the evaluation environment run with Irregular. It called this a “misunderstanding” between the two companies over whether the test setup had internet access, when in fact it did. \nAnthropic said it isn’t placing blame and is “approaching the fixes as if the responsibility were ours alone,” while observing that Irregular is conducting its own separate investigation.\nBecause of that open connection, the model gained unauthorized access to the production infrastructure of three different organizations. Anthropic said the incidents involved three different Claude models: Opus 4.7, Mythos 5, and an internal research test model.\nNotably, Anthropic said that in each of these cases “Claude was explicitly told by our prompt that it had no internet access.” It appears that the AI model assumed real-world systems to be part of the exercise it was asked to perform.\nThat assumption didn’t hold up uniformly, as it turns out. The three models didn’t behave the same way once evidence emerged that their targets were real, which Anthropic flagged as one of the more eye-opening findings Thursday.\nOpus 4.7, the oldest of the three, recognized that it had reached a real production system in all four runs of that incident. In two of them, it rationalized that the real company must somehow be part of the exercise, but in all four, it kept attacking anyway, including pulling credentials and touching a database of production data. Mythos 5 also picked up on signs that it was on the real internet, but it talked itself back into believing it was still in a simulation, going on to publish a malicious software package to the public Python software registry PyPI, which was then downloaded and run by outside systems before being caught. Only the internal research test model, Anthropic’s newest, stopped on its own once it concluded the target was real.\nIn response, Anthropic said significant controls must be placed on these kinds of evaluations if powerful AI models are involved, echoing some sentiments within the cybersecurity community.\nThe company also noted that Claude was running without the additional safety monitoring and classifiers it deploys on generally available models — safeguards it said would have blocked the behavior, because the evaluations are designed to measure the underlying model’s raw capabilities.\nImportantly, Anthropic said it found no evidence of any model “pursuing a goal of its own” and instead merely tried to complete the task it was asked to do.\nThough comparisons between the mishaps of these fiercely competitive companies are inevitable, Anthropic in its blog post drew a clear distinction between its cybersecurity tests and those of OpenAI, noting where OpenAI’s model exploited an unknown software vulnerability to break out of its test environment, Anthropic’s models instead reached the internet through a path that had, by mistake, been left open.\nAnthropic also drew a distinction between itself and OpenAI by noting that it discovered the incidents itself, through a proactive review, and that the two affected organizations it was able to reach hadn’t previously detected the activity or flagged it to Anthropic. (In contrast, Hugging Face detected the recent intrusion of its own systems first; it was only in the following days that OpenAI identified and disclosed that its own AI agent was the perpetrator.)\nThe company added that it’s now working with the independent evaluation group METR on a third-party review of the incidents.\nOpenAI’s accidental breach of Hugging Face, which was the first verifiable case of an AI lab losing control of its model, has sparked a string of wildly differing reactions from the industry and politicians. This latest disclosure from Anthropic ensures the debate over AI models and security will continue.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tKirsten Korosec is a reporter and editor who has covered the future of transportation from EVs and autonomous vehicles to urban air mobility and in-car tech for more than a decade. She is currently the transportation editor at TechCrunch and co-host of TechCrunch’s Equity podcast. She is also co-founder and co-host of the podcast, “The Autonocast.” She previously wrote for Fortune, The Verge, Bloomberg, MIT Technology Review and CBS Interactive.\nYou can contact or verify outreach from Kirsten by emailing kirsten.korosec@techcrunch.com or via encrypted message at kkorosec.07 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Anthropic says its own AI models breached three companies during security tests",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?w=150"
-      ],
-      "datePublished": "2026-07-31T01:06:54.000Z",
-      "dateModified": "2026-07-31T01:06:54.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Reddit is testing a new way to watch — and listen to — its viral posts",
-    "url": "https://techcrunch.com/2026/07/31/reddit-is-testing-a-new-way-to-watch-and-listen-to-its-viral-posts/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-31-at-10.35.49-AM.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-07-31T14:49:21.000Z",
-    "description": "\nReddit is taking a cue from TikTok to bring viral stories to life through video. On Thursday’s second-quarter earnings call, the company said it’s be",
-    "body": "\nReddit is taking a cue from TikTok to bring viral stories to life through video. On Thursday’s second-quarter earnings call, the company said it’s been working on a new “video Reddit” experience that would not only allow users to watch videos from the platform, but also listen to posts in the background.\nCEO Steve Huffman told investors that the company already sees people consuming this type of content on other platforms.\nHe’s right — on TikTok, for instance, there are 19.6 million posts labeled with the hashtag #reddit and another 9.9 million labeled #redditstories. Many of these feature a text-to-speech narration of a viral story published on Reddit paired with an unrelated video, like gameplay footage or cooking content.\n“There is an emerging content type elsewhere on the internet of, basically, podcasts where people read Reddit content,” Huffman explained on the call. “I think this version of, like, listened-to or spoken Reddit can be really engaging, as well,” he said. “So that would be almost a different format entirely.”\nIt’s not clear how these types of Reddit videos will be incorporated into Reddit’s main app, but Huffman teased that the company will have something available for testing “later this year.”\nThe news comes as mainstream social and entertainment apps experiment with adding TikTok-like video feeds to their products.\nLast week, Facebook announced plans to begin testing later this year a reimagined experience that will put a subset of users into a full-screen video as soon as they open the app. Streaming apps like Netflix, Disney+, Peacock, and HBO Max have also added TikTok-like short video feeds in recent months. Amazon offers a short video feed for shopping inspiration. There’s even a short video feed on LinkedIn, of all places.\nIt’s the TikTok-ification of the web at scale.\nIn addition, the company touted the early success of video in comments, which launched in June. Reddit said the new feature already accounts for more than 10% of its video posts.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Reddit is testing a new way to watch — and listen to — its viral posts",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-31-at-10.35.49-AM.jpg?w=150"
-      ],
-      "datePublished": "2026-07-31T14:49:21.000Z",
-      "dateModified": "2026-07-31T14:49:21.000Z",
       "author": [
         {
           "@type": "Person",
