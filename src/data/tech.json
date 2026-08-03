@@ -1,12 +1,62 @@
 [
   {
+    "title": "The global memory shortage hits the MacBook Air",
+    "url": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/10/macbook-air-2024-update.png?w=150",
+    "tag": "Tech",
+    "date": "2026-08-02T21:33:59.000Z",
+    "description": "\nThe global memory chip shortage is affecting the availability of Apple’s most popular Mac, according to Bloomberg’s Mark Gurman.\nGurman said the shor",
+    "body": "\nThe global memory chip shortage is affecting the availability of Apple’s most popular Mac, according to Bloomberg’s Mark Gurman.\nGurman said the shortage — caused by the demands of chip-hungry AI companies — had already affected Apple’s more niche computers, the Mac mini and Mac Studio. But it seems the company is now struggling to keep the MacBook Air in stock, with retailers saying that supply seems to be more constrained than ever before.\nIndeed, anyone trying to buy a MacBook Air from the Apple website will have to wait until the back half of August — or for certain configurations, until September.\nGurman says Apple is working to address the issue by raising prices and sourcing memory from Chinese suppliers. Meanwhile, the company delayed its latest back-to-school promotion from June. And for the first time, the marketing material is more focused on the base model of the MacBook Pro. It even warns, “MacBook Air subject to availability.”\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "The global memory shortage hits the MacBook Air",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2024/10/macbook-air-2024-update.png?w=150"
+      ],
+      "datePublished": "2026-08-02T21:33:59.000Z",
+      "dateModified": "2026-08-02T21:33:59.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+    "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-07-31T22:47:26.000Z",
+    "description": "\nIn Brief\nPosted:\n3:47 PM PDT · July 31, 2026\n\nImage Credits:Samuel Boivin/NurPhoto / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nMuch has",
+    "body": "\nIn Brief\nPosted:\n3:47 PM PDT · July 31, 2026\n\nImage Credits:Samuel Boivin/NurPhoto / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nMuch has been made of the incident in which one of OpenAI’s agents broke out of its sandboxed test environment and proceeded to hack the AI hosting platform Hugging Face. OpenAI has since launched an investigation into how the incident occurred, which is still ongoing.\nNow, anonymous sources have told Reuters that more of OpenAI’s agents are believed to have escaped their sandboxes. However, one source downplayed the severity, saying that with those escapes, the agents didn’t appear to leave OpenAI’s network to hack into another company’s. TechCrunch reached out to OpenAI for more information.\nAI programs acting in bizarre ways has apparently become a weird, almost bragging point for companies. The same week, Anthropic also announced that it had discovered not one, but three instances in which its agents had escaped test environments and hacked other organizations.\nAI companies have also been accused of using such incidents for marketing purposes — as they generate considerable attention and may underscore how powerful the companies’ products are. The flip side of that is that these disclosures are also ramping up discussions of government regulations.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in AI\n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "OpenAI reportedly finds evidence that more of its agents ran amok",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=150"
+      ],
+      "datePublished": "2026-07-31T22:47:26.000Z",
+      "dateModified": "2026-07-31T22:47:26.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Fresh off its Wiz payout, Index Ventures raises $2B across three funds",
     "url": "https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/07/Index-Ventures-Nina-Achadjian-Shardul-Shah-2.jpg?w=150",
     "tag": "Tech",
     "date": "2026-07-31T19:39:51.000Z",
     "description": "\nIn Brief\nPosted:\n12:39 PM PDT · July 31, 2026\n\nImage Credits:Index Ventures\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nIndex Ventures has raised $2 b",
-    "body": "\nIn Brief\nPosted:\n12:39 PM PDT · July 31, 2026\n\nImage Credits:Index Ventures\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nIndex Ventures has raised $2 billion in fresh capital across three funds, the firm announced on Friday.\nThe 30-year-old firm raised $400 million for its new seed-focused fund and $900 million for its venture fund. Index also added $700 million to a $1.5 billion growth fund raised in 2024, bringing its total available capital to $3.5 billion.\nThe fresh capital haul comes two years after Index raised $2.3 billion across two funds, including $800 million toward a predecessor venture fund.\nWhile Index has refrained from ballooning its fund sizes unlike several other VCs, the outfit continues to stand out for its strong recent performance.\nEarlier this year, Index portfolio company Wiz completed its $32 billion sale to Alphabet. Index first invested in Wiz at the seed stage and became its largest outside shareholder with a 12% stake, a position likely worth $3.8 billion, according to Reuters’ reporting. Index was also an early investor in Figma, which went public last year.\nIndex’s AI bets include robotics company Physical Intelligence, inference platform Fireworks AI, and Anthropic, an investment made when the AI model maker raised capital at a $183 billion valuation last September.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nRelated\n\n\n\t\t\t\n\t\t\t\t\t\n\t\t\n\n\n\nLatest in Venture\n\n",
+    "body": "\nIn Brief\nPosted:\n12:39 PM PDT · July 31, 2026\n\nImage Credits:Index Ventures\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nIndex Ventures has raised $2 billion in fresh capital across three funds, the firm announced on Friday.\nThe 30-year-old firm raised $400 million for its new seed-focused fund and $900 million for its venture fund. Index also added $700 million to a $1.5 billion growth fund raised in 2024, bringing its total available capital to $3.5 billion.\nThe fresh capital haul comes two years after Index raised $2.3 billion across two funds, including $800 million toward a predecessor venture fund.\nWhile Index has refrained from ballooning its fund sizes unlike several other VCs, the outfit continues to stand out for its strong recent performance.\nEarlier this year, Index portfolio company Wiz completed its $32 billion sale to Alphabet. Index first invested in Wiz at the seed stage and became its largest outside shareholder with a 12% stake, a position likely worth $3.8 billion, according to Reuters’ reporting. Index was also an early investor in Figma, which went public last year.\nIndex’s AI bets include robotics company Physical Intelligence, inference platform Fireworks AI, and Anthropic, an investment made when the AI model maker raised capital at a $183 billion valuation last September.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Venture\n\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
@@ -50,22 +100,22 @@
     }
   },
   {
-    "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-    "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=150",
+    "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+    "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-31-at-12.31.10-PM.png?w=150",
     "tag": "Tech",
-    "date": "2026-07-31T22:47:26.000Z",
-    "description": "\nIn Brief\nPosted:\n3:47 PM PDT · July 31, 2026\n\nImage Credits:Samuel Boivin/NurPhoto / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nMuch has",
-    "body": "\nIn Brief\nPosted:\n3:47 PM PDT · July 31, 2026\n\nImage Credits:Samuel Boivin/NurPhoto / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nMuch has been made of the incident in which one of OpenAI’s agents broke out of its sandboxed test environment and proceeded to hack the AI hosting platform Hugging Face. OpenAI has since launched an investigation into how the incident occurred, which is still ongoing.\nNow, anonymous sources have told Reuters that more of OpenAI’s agents are believed to have escaped their sandboxes. However, one source downplayed the severity, saying that with those escapes, the agents didn’t appear to leave OpenAI’s network to hack into another company’s. TechCrunch reached out to OpenAI for more information.\nAI programs acting in bizarre ways has apparently become a weird, almost bragging point for companies. The same week, Anthropic also announced that it had discovered not one, but three instances in which its agents had escaped test environments and hacked other organizations.\nAI companies have also been accused of using such incidents for marketing purposes — as they generate considerable attention and may underscore how powerful the companies’ products are. The flip side of that is that these disclosures are also ramping up discussions of government regulations.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in AI\n\n",
+    "date": "2026-07-31T19:47:28.000Z",
+    "description": "\nIn Brief\nPosted:\n12:47 PM PDT · July 31, 2026\n\nImage Credits:Google\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nGoogle rolled out a new feature on Thu",
+    "body": "\nIn Brief\nPosted:\n12:47 PM PDT · July 31, 2026\n\nImage Credits:Google\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nGoogle rolled out a new feature on Thursday that allowed users to deploy Nano Banana 2, its AI image generator, to create fabricated images inside its satellite imagery mapping app Google Earth. The whole point of this feature, Google said, was to get creative with geography.\nBut critics quickly pointed out that the tool could be used to create and spread misinformation. The tool, which was prompt-based and allowed pretty much any image to be superimposed over real maps, seemed like a recipe for a deluge of geospatial slop.\n“There’s no way that this new AI image generation feature on Google Earth, one of the most reliable sources of visual evidence for journalists and researchers, could possibly be abused to spread misinformation online,” a BBC journalist posted sarcastically Thursday.\nNow, only a day after the feature’s release, Google has scrapped it. \n“We’ve seen geospatial professionals using this feature for a range of useful purposes, however we’ve also seen people sharing screenshots of generated imagery that appear to violate our policies,” the company said in a statement.\n“We’re rolling back this feature in Google Earth while we work on implementing stronger guardrails,” Google added.\nThe criticism of Google’s tool is understandable, although it’s worth pointing out that, in the age of AI, most imagery that exists on the web can be easily manipulated. You don’t have to be a Photoshop whiz anymore to create semi-credible disinformation; you just need access to an AI image generator, which Google sells, as do many other AI firms.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in AI\n\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "OpenAI reportedly finds evidence that more of its agents ran amok",
+      "headline": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-31-at-12.31.10-PM.png?w=150"
       ],
-      "datePublished": "2026-07-31T22:47:26.000Z",
-      "dateModified": "2026-07-31T22:47:26.000Z",
+      "datePublished": "2026-07-31T19:47:28.000Z",
+      "dateModified": "2026-07-31T19:47:28.000Z",
       "author": [
         {
           "@type": "Person",
@@ -100,31 +150,6 @@
     }
   },
   {
-    "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
-    "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-07-31T17:26:32.000Z",
-    "description": "\n\t\t\nAfter years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came ",
-    "body": "\n\t\t\nAfter years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a breach at Hugging Face — though as Equity’s hosts point out, sloppy security seems to have been just as much to blame as the model itself. And Altman’s not alone in this stance: both OpenAI and Anthropic have come out in support of a petition echoing that same message. \nWatch TechCrunch’s Equity podcast hosts Kirsten Korosec, Anthony Ha, and Sean O’Kane dig into whether the industry is ready to pump the brakes or just temporarily spooked, and who’s on the hook when a model goes rogue. \nSubscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. You also can follow Equity on X and Threads, at @EquityPod. \n\n\t\t\n\tTopics\n\n\n\n\t\tTheresa Loconsolo is an audio producer at TechCrunch focusing on Equity, the network’s flagship podcast. Before joining TechCrunch in 2022, she was one of 2 producers at a four-station conglomerate where she wrote, recorded, voiced and edited content, and engineered live performances and interviews from guests like lovelytheband. Theresa is based in New Jersey and holds a bachelors degree in Communication from Monmouth University. You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n\n\t\n\t\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\t\nRelated\n\n\n\t\t\t\n\t\t\t\t\t\n\t\t\n\n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=150"
-      ],
-      "datePublished": "2026-07-31T17:26:32.000Z",
-      "dateModified": "2026-07-31T17:26:32.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "This $9 key physically locks your most addictive apps",
     "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/AutonomousKey1.jpeg?w=150",
@@ -150,63 +175,13 @@
     }
   },
   {
-    "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-    "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-31-at-12.31.10-PM.png?w=150",
-    "tag": "Tech",
-    "date": "2026-07-31T19:47:28.000Z",
-    "description": "\nIn Brief\nPosted:\n12:47 PM PDT · July 31, 2026\n\nImage Credits:Google\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nGoogle rolled out a new feature on Thu",
-    "body": "\nIn Brief\nPosted:\n12:47 PM PDT · July 31, 2026\n\nImage Credits:Google\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nGoogle rolled out a new feature on Thursday that allowed users to deploy Nano Banana 2, its AI image generator, to create fabricated images inside its satellite imagery mapping app Google Earth. The whole point of this feature, Google said, was to get creative with geography.\nBut critics quickly pointed out that the tool could be used to create and spread misinformation. The tool, which was prompt-based and allowed pretty much any image to be superimposed over real maps, seemed like a recipe for a deluge of geospatial slop.\n“There’s no way that this new AI image generation feature on Google Earth, one of the most reliable sources of visual evidence for journalists and researchers, could possibly be abused to spread misinformation online,” a BBC journalist posted sarcastically Thursday.\nNow, only a day after the feature’s release, Google has scrapped it. \n“We’ve seen geospatial professionals using this feature for a range of useful purposes, however we’ve also seen people sharing screenshots of generated imagery that appear to violate our policies,” the company said in a statement.\n“We’re rolling back this feature in Google Earth while we work on implementing stronger guardrails,” Google added.\nThe criticism of Google’s tool is understandable, although it’s worth pointing out that, in the age of AI, most imagery that exists on the web can be easily manipulated. You don’t have to be a Photoshop whiz anymore to create semi-credible disinformation; you just need access to an AI image generator, which Google sells, as do many other AI firms.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in AI\n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-31-at-12.31.10-PM.png?w=150"
-      ],
-      "datePublished": "2026-07-31T19:47:28.000Z",
-      "dateModified": "2026-07-31T19:47:28.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "India is starting to pay for apps, not just download them",
-    "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/10/india-internet-users-getty.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-07-31T21:07:45.000Z",
-    "description": "\nFor years, India was the world’s largest app download market but one of its toughest places to make money. That is beginning to change as Indian cons",
-    "body": "\nFor years, India was the world’s largest app download market but one of its toughest places to make money. That is beginning to change as Indian consumers spend more on AI, entertainment, and other premium apps.\nIndia’s mobile app market generated a record $345 million in consumer spending during the second quarter of this year, up 35% from a year earlier, according to a new report by Sensor Tower. The app-market intelligence firm said the gains were increasingly driven by generative AI, streaming, and productivity apps rather than gaming, as Indian consumers became more willing to pay for digital subscriptions.\nThe record quarter builds on a broader trend of rising app monetization. India’s revenue per download has more than doubled over the past three and a half years, while quarterly app downloads have remained at around 6.3 billion since 2023.\n“We would describe India today as a rapidly evolving mobile market with a large user base and growing willingness to pay for digital services,” Eve Chen, an insights analyst at Sensor Tower, told TechCrunch. \nChen attributed the change to the wider adoption of digital payments, including India’s Unified Payments Interface (a system that lets people pay directly from their bank accounts) and digital wallets, which have reduced friction for in-app purchases, alongside growing acceptance of app-based subscriptions and premium digital services.\nThe trend also stands out globally. India’s app revenue saw its fastest growth in Q2 among major app markets, generating more than $200 million in quarterly consumer spending, per Sensor Tower’s data shared with TechCrunch. In contrast, Mexico grew 30% and Turkey 25%, while U.S. app revenue actually declined 3% over the same period.\n“These figures suggest that India is no longer just the world’s largest market by downloads, but is also emerging as one of the fastest-growing markets for app monetization,” Chen told TechCrunch.\nIndia still trails more mature app markets by a wide margin. Revenue per download stands at about $4.60 in the U.S., $3.90 in South Korea, and $6.10 in Japan, compared with a small fraction of that in India. Nonetheless, Chen said the trajectory matters more than the absolute level, with India’s steadily improving monetization suggesting significant room for long-term growth.\nGenerative AI has emerged as one of the fastest-growing segments, with OpenAI’s ChatGPT and Anthropic’s Claude together accounting for nearly 83% of India’s AI app revenue in Q2, according to Sensor Tower’s data shared with TechCrunch.\nMuch of India’s app revenue growth is also being driven by non-gaming apps. Non-gaming categories, Sensor Tower said, accounted for 68% of India’s mobile app revenue in the first half of 2026, up from 58% three years earlier.\nThe latest data also suggests global subscription apps continue to be among the biggest beneficiaries of rising app spending in India, with Google One becoming India’s highest-grossing mobile app during the quarter. Streaming platforms such as Amazon Prime Video, Crunchyroll, Sony LIV, and JioHotstar also saw growing consumer spending. Gaming also bucked the global trend, with revenue rising 3.7% from the previous quarter despite a worldwide decline, per Sensor Tower.\nImage Credits:Sensor Tower\nApp intelligence firm Appfigures also sees India’s app subscription market continuing to grow, although it says the pace has slowed after an AI-fueled surge over the past two years. Subscription revenue is still rising, but much of the initial excitement around AI has abated, Ariel Michaeli, the company’s founder and CEO, told TechCrunch.\n“The numbers are still staggering,” Michaeli added. Appfigures estimates that ChatGPT generates about $60,000 a day in India and attracted around 1.8 million downloads over the past month, although that’s down from roughly $80,000 a day last October.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tJagmeet covers startups, tech policy-related updates, and all other major tech-centric developments from India for TechCrunch. He previously worked as a principal correspondent at NDTV. \r\nYou can contact or verify outreach from Jagmeet by emailing mail@journalistjagmeet.com.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "India is starting to pay for apps, not just download them",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2023/10/india-internet-users-getty.jpg?w=150"
-      ],
-      "datePublished": "2026-07-31T21:07:45.000Z",
-      "dateModified": "2026-07-31T21:07:45.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
     "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1040458588.jpg?w=150",
     "tag": "Tech",
     "date": "2026-08-01T19:45:45.000Z",
     "description": "\nHank Green, a novelist, comedian, and YouTuber with 3.2 million subscribers, recently apologized to his audience for his growing reliance on AI chatb",
-    "body": "\nHank Green, a novelist, comedian, and YouTuber with 3.2 million subscribers, recently apologized to his audience for his growing reliance on AI chatbots.\nThe controversy started when, in the middle of a video posted on the educational channel Complexly, Green incongruously used the phrase “I appreciate the pushback,” leading viewers to speculate that he’d written the script with a chatbot — and, in the process, accidentally included its response to one of his prompts.\nIn a since-deleted post on X, Green acknowledged that he’d produced the video “under a ton of pressure” and used ChatGPT “for research on this script.” At the same time, he said the “pushback” line was actually a response to the episode’s guest. \nGreen then offered a more in-depth apology on Reddit, where he said he was “mortified” that he’d “let so many people down” and that he plans to reduce his video production as a result.\nGreen insisted that he’s only used ChatGPT to “locate papers and other resources for learning about topics,” and that the words and the “takes” have still been his. At the same time, he admitted it was fair to criticize him for “diluting” himself.\nHe also clarified that he’s “not a pure AI-hater,” while also listing a number of concerns about the technology, including its impact on climate change and “the speed at which these companies are trying to consolidate economic power.”\n“Ultimately, what I am most scared of is ruining myself for people, but I have not been managing my impulses well,” he said. “You need to know that my words are mine. I don’t think that this hasn’t been true, but I’ve been moving so fast that my own process isn’t actually clear to me and I want to have it be a guarantee moving forward.”\nIt sounds like Green is going to take some time to figure out how to make that guarantee a reality. In the meantime, he’ll be pausing or posting less frequently to his various YouTube channels. Green said he wants to do more work like a recent meditative video “where the writing was the whole thing and I felt it all the way down.” Green also said he’ll probably make more videos with his “dumb unscripted straight to camera thoughts.”\n “But mostly I need to come to terms with the fact that the level of dopamine I’ve been getting from interacting with LLMs…with doing more and more and more and more…is not healthy for me or good for the world,” Green said. “It is careless, and has disconnected me from where people are on this.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tAnthony Ha is TechCrunch’s weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local government reporter at the Hollister Free Lance, and vice president of content at a VC firm. He lives in New York City.\nYou can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
+    "body": "\nHank Green, a novelist, comedian, and YouTuber with 3.2 million subscribers, recently apologized to his audience for his growing reliance on AI chatbots.\nThe controversy started when, in the middle of a video posted on the educational channel Complexly, Green incongruously used the phrase “I appreciate the pushback,” leading viewers to speculate that he’d written the script with a chatbot — and, in the process, accidentally included its response to one of his prompts.\nIn response to a since-deleted post on X, Green acknowledged that he’d produced the video “under a ton of pressure” and used ChatGPT “for research on this script.” At the same time, he said the “pushback” line was actually a response to the episode’s guest. \nGreen then offered a more in-depth apology on Reddit, where he said he was “mortified” that he’d “let so many people down” and that he plans to reduce his video production as a result.\nGreen insisted that he’s only used ChatGPT to “locate papers and other resources for learning about topics,” and that the words and the “takes” have still been his. At the same time, he admitted it was fair to criticize him for “diluting” himself.\nHe also clarified that he’s “not a pure AI-hater,” while also listing a number of concerns about the technology, including its impact on climate change and “the speed at which these companies are trying to consolidate economic power.”\n“Ultimately, what I am most scared of is ruining myself for people, but I have not been managing my impulses well,” he said. “You need to know that my words are mine. I don’t think that this hasn’t been true, but I’ve been moving so fast that my own process isn’t actually clear to me and I want to have it be a guarantee moving forward.”\nIt sounds like Green is going to take some time to figure out how to make that guarantee a reality. In the meantime, he’ll be pausing or posting less frequently to his various YouTube channels. Green said he wants to do more work like a recent meditative video “where the writing was the whole thing and I felt it all the way down.” Green also said he’ll probably make more videos with his “dumb unscripted straight to camera thoughts.”\n “But mostly I need to come to terms with the fact that the level of dopamine I’ve been getting from interacting with LLMs…with doing more and more and more and more…is not healthy for me or good for the world,” Green said. “It is careless, and has disconnected me from where people are on this.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tAnthony Ha is TechCrunch’s weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local government reporter at the Hollister Free Lance, and vice president of content at a VC firm. He lives in New York City.\nYou can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
@@ -216,6 +191,31 @@
       ],
       "datePublished": "2026-08-01T19:45:45.000Z",
       "dateModified": "2026-08-01T19:45:45.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Rivian spinoff Also to start delivering e-bikes after months of delays",
+    "url": "https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/rj-scaringe-Getty.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-07-31T22:00:08.000Z",
+    "description": "\nRivian spinoff Also will finally start delivering its first e-bikes to customers next week, after months of delays related to unspecified supply chai",
+    "body": "\nRivian spinoff Also will finally start delivering its first e-bikes to customers next week, after months of delays related to unspecified supply chain issues.\nThe company told TechCrunch on Friday that the Launch Edition of its TM-B e-bike, which retails for $4,500, has started shipping from its manufacturer to its warehouse in the U.S. Also said it expects to deliver all Launch Edition bikes between next week and September. \nAlso began as a skunkworks project inside Rivian in 2022, after CEO RJ Scaringe started looking into making an e-bike to complement his portfolio of electric vehicles for the outdoorsy set. The company spent a few years tinkering with the idea, and even hired Jony Ive’s design firm LoveFrom to help with an early design, as TechCrunch first reported in 2025.\nIn March 2025, Rivian spun out Also as its own company, with $105 million in backing from Eclipse. The startup revealed its first e-bike, the TM-B, in October of last year. It originally targeted a “spring” 2026 ship date, but supply chain headaches got in the way, and the company pushed the delivery window to July.\n“The primary factor driving our updated summer timeline is current stress on global supply chains. A rapid, industry-wide spike in demand for raw materials and electronic components has impacted key parts required for the TM-B. This has temporarily delayed our planned manufacturing ramp-up and pushed our first delivery dates past our original spring window,” the company wrote in June on a support page. “Our engineering and production teams are working around the clock to minimize these constraints without cutting a single corner on safety or quality.”\nAlso declined to say what components, specifically, caused the delay.\nAlso has big plans beyond the TM-B. The startup mostly refers to itself as a “vehicle” company and has plans to make four-wheel pedal-assist cargo vehicles for Amazon. The company is working on an autonomous delivery vehicle for DoorDash, too.\nBut for now, Also needs to focus on delivering its first e-bikes while navigating the next set of headaches for a company shipping products like these: customer service. On Friday, the last day of July, a number of customers were venting in a thread in the r/ALSOmicromobility subreddit about the repeated delays.\n“I’m really frustrated by the lack of communication and the actual miscommunication/lies from Also regarding shipment timelines,” the original poster wrote. “Why do they keep making these promises about shipping timelines just to blow right past them without any communication or actual updates? It really makes no sense.”\n“Hey we’ve still got a few business hours left in July. Maybe we’ll get an email later this morning ☺️,” a different user responded.\nNot everyone was so patient. \n“Couldn’t wait any longer and canceled my reservation,” another wrote. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Rivian spinoff Also to start delivering e-bikes after months of delays",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/05/rj-scaringe-Getty.jpg?w=150"
+      ],
+      "datePublished": "2026-07-31T22:00:08.000Z",
+      "dateModified": "2026-07-31T22:00:08.000Z",
       "author": [
         {
           "@type": "Person",
@@ -250,22 +250,47 @@
     }
   },
   {
-    "title": "Rivian spinoff Also to start delivering e-bikes after months of delays",
-    "url": "https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/rj-scaringe-Getty.jpg?w=150",
+    "title": "India is starting to pay for apps, not just download them",
+    "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/10/india-internet-users-getty.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-07-31T22:00:08.000Z",
-    "description": "\nRivian spinoff Also will finally start delivering its first e-bikes to customers next week, after months of delays related to unspecified supply chai",
-    "body": "\nRivian spinoff Also will finally start delivering its first e-bikes to customers next week, after months of delays related to unspecified supply chain issues.\nThe company told TechCrunch on Friday that the Launch Edition of its TM-B e-bike, which retails for $4,500, has started shipping from its manufacturer to its warehouse in the U.S. Also said it expects to deliver all Launch Edition bikes between next week and September. \nAlso began as a skunkworks project inside Rivian in 2022, after CEO RJ Scaringe started looking into making an e-bike to complement his portfolio of electric vehicles for the outdoorsy set. The company spent a few years tinkering with the idea, and even hired Jony Ive’s design firm LoveFrom to help with an early design, as TechCrunch first reported in 2025.\nIn March 2025, Rivian spun out Also as its own company, with $105 million in backing from Eclipse. The startup revealed its first e-bike, the TM-B, in October of last year. It originally targeted a “spring” 2026 ship date, but supply chain headaches got in the way, and the company pushed the delivery window to July.\n“The primary factor driving our updated summer timeline is current stress on global supply chains. A rapid, industry-wide spike in demand for raw materials and electronic components has impacted key parts required for the TM-B. This has temporarily delayed our planned manufacturing ramp-up and pushed our first delivery dates past our original spring window,” the company wrote in June on a support page. “Our engineering and production teams are working around the clock to minimize these constraints without cutting a single corner on safety or quality.”\nAlso declined to say what components, specifically, caused the delay.\nAlso has big plans beyond the TM-B. The startup mostly refers to itself as a “vehicle” company and has plans to make four-wheel pedal-assist cargo vehicles for Amazon. The company is working on an autonomous delivery vehicle for DoorDash, too.\nBut for now, Also needs to focus on delivering its first e-bikes while navigating the next set of headaches for a company shipping products like these: customer service. On Friday, the last day of July, a number of customers were venting in a thread in the r/ALSOmicromobility subreddit about the repeated delays.\n“I’m really frustrated by the lack of communication and the actual miscommunication/lies from Also regarding shipment timelines,” the original poster wrote. “Why do they keep making these promises about shipping timelines just to blow right past them without any communication or actual updates? It really makes no sense.”\n“Hey we’ve still got a few business hours left in July. Maybe we’ll get an email later this morning ☺️,” a different user responded.\nNot everyone was so patient. \n“Couldn’t wait any longer and canceled my reservation,” another wrote. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-07-31T21:07:45.000Z",
+    "description": "\nFor years, India was the world’s largest app download market but one of its toughest places to make money. That is beginning to change as Indian cons",
+    "body": "\nFor years, India was the world’s largest app download market but one of its toughest places to make money. That is beginning to change as Indian consumers spend more on AI, entertainment, and other premium apps.\nIndia’s mobile app market generated a record $345 million in consumer spending during the second quarter of this year, up 35% from a year earlier, according to a new report by Sensor Tower. The app-market intelligence firm said the gains were increasingly driven by generative AI, streaming, and productivity apps rather than gaming, as Indian consumers became more willing to pay for digital subscriptions.\nThe record quarter builds on a broader trend of rising app monetization. India’s revenue per download has more than doubled over the past three and a half years, while quarterly app downloads have remained at around 6.3 billion since 2023.\n“We would describe India today as a rapidly evolving mobile market with a large user base and growing willingness to pay for digital services,” Eve Chen, an insights analyst at Sensor Tower, told TechCrunch. \nChen attributed the change to the wider adoption of digital payments, including India’s Unified Payments Interface (a system that lets people pay directly from their bank accounts) and digital wallets, which have reduced friction for in-app purchases, alongside growing acceptance of app-based subscriptions and premium digital services.\nThe trend also stands out globally. India’s app revenue saw its fastest growth in Q2 among major app markets, generating more than $200 million in quarterly consumer spending, per Sensor Tower’s data shared with TechCrunch. In contrast, Mexico grew 30% and Turkey 25%, while U.S. app revenue actually declined 3% over the same period.\n“These figures suggest that India is no longer just the world’s largest market by downloads, but is also emerging as one of the fastest-growing markets for app monetization,” Chen told TechCrunch.\nIndia still trails more mature app markets by a wide margin. Revenue per download stands at about $4.60 in the U.S., $3.90 in South Korea, and $6.10 in Japan, compared with a small fraction of that in India. Nonetheless, Chen said the trajectory matters more than the absolute level, with India’s steadily improving monetization suggesting significant room for long-term growth.\nGenerative AI has emerged as one of the fastest-growing segments, with OpenAI’s ChatGPT and Anthropic’s Claude together accounting for nearly 83% of India’s AI app revenue in Q2, according to Sensor Tower’s data shared with TechCrunch.\nMuch of India’s app revenue growth is also being driven by non-gaming apps. Non-gaming categories, Sensor Tower said, accounted for 68% of India’s mobile app revenue in the first half of 2026, up from 58% three years earlier.\nThe latest data also suggests global subscription apps continue to be among the biggest beneficiaries of rising app spending in India, with Google One becoming India’s highest-grossing mobile app during the quarter. Streaming platforms such as Amazon Prime Video, Crunchyroll, Sony LIV, and JioHotstar also saw growing consumer spending. Gaming also bucked the global trend, with revenue rising 3.7% from the previous quarter despite a worldwide decline, per Sensor Tower.\nImage Credits:Sensor Tower\nApp intelligence firm Appfigures also sees India’s app subscription market continuing to grow, although it says the pace has slowed after an AI-fueled surge over the past two years. Subscription revenue is still rising, but much of the initial excitement around AI has abated, Ariel Michaeli, the company’s founder and CEO, told TechCrunch.\n“The numbers are still staggering,” Michaeli added. Appfigures estimates that ChatGPT generates about $60,000 a day in India and attracted around 1.8 million downloads over the past month, although that’s down from roughly $80,000 a day last October.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tJagmeet covers startups, tech policy-related updates, and all other major tech-centric developments from India for TechCrunch. He previously worked as a principal correspondent at NDTV. \r\nYou can contact or verify outreach from Jagmeet by emailing mail@journalistjagmeet.com.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Rivian spinoff Also to start delivering e-bikes after months of delays",
+      "headline": "India is starting to pay for apps, not just download them",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/05/rj-scaringe-Getty.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2023/10/india-internet-users-getty.jpg?w=150"
       ],
-      "datePublished": "2026-07-31T22:00:08.000Z",
-      "dateModified": "2026-07-31T22:00:08.000Z",
+      "datePublished": "2026-07-31T21:07:45.000Z",
+      "dateModified": "2026-07-31T21:07:45.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Sam Altman and AI’s decel debate",
+    "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-08-02T20:54:22.000Z",
+    "description": "\nOpenAI CEO Sam Altman recently said that it may be time to “pace the rate of AI development” so that society can “harden around some of these new cap",
+    "body": "\nOpenAI CEO Sam Altman recently said that it may be time to “pace the rate of AI development” so that society can “harden around some of these new capability levels.”\nOn the latest episode of TechCrunch’s Equity podcast, Kirsten Korosec, Sean O’Kane, and I discussed how Altman’s comments were probably prompted by a recent hack in which an OpenAI agent breached Hugging Face’s systems. Sean noted that while a hack performed by an AI agent is novel, the hack itself was not  “some new advanced thing.”\n“It was more like Nixon’s people breaking into Watergate than some real stealthy cyber-op, because it didn’t need to be, and it wasn’t instructed to be,” Sean said. “Hopefully, this is a sign that these companies will take this forward and be more careful about that stuff.”\nAltman’s comments also gave me a chance to wonder about the usefulness of the whole accelerationist versus deceleration debate, because (yes, I’m about to quote myself) the framing “kind of suggests that there’s only one path” and “all we get to decide — inasmuch as we get to decide at all — is, do we speed up or do we slow down?”\nKeep reading for a preview of our conversation, edited for length and clarity.\nSean O’Kane: Maybe we’ve finally hit an inflection point here. I think a big driver of this has to be what we talked about last week, with one of OpenAI’s models breaking into Hugging Face’s data and apparently breaching a few other things around the internet, as well. \n[Altman’s] not calling for a pause, like we’ve seen some people in the tech industry try to do in the past. He was very careful with his words and saying, “Pace it.” And we’ll see how this holds. Any caution that we see some of these labs throw out there often gets reversed when the incentives push them forward to resume, full speed ahead. So I remain skeptical, big surprise.\nKirsten Korosec: Now I will say this — [Altman] might have been careful with his words, but OpenAI and Anthropic did [support] a petition that does reflect what he did talk about.\nAnd I do agree with you, I think that a lot of this was very much triggered by Hugging Face. It probably spooked him and certainly a lot of people in the industry. The hard thing here is: How do you thread the needle or how does OpenAI thread the needle of continuing to generate revenue, raise money, or have a successful IPO, and quote unquote “pace development.”\nI don’t know if they can do that. I’ll be curious to see if they manage both.\nAnthony Ha: One of the things I’ve been wrestling with is also this question of: Is acceleration [vs.] deceleration the right framework to be thinking about this? Because it kind of suggests that there’s only one path and we’re all stuck on this path. All we get to decide — inasmuch as we get to decide at all — is, do we speed up or do we slow down? As opposed to — again, I’m going to really torture this metaphor — but do we build different guardrails? Do we choose different paths? \nI’m just very resistant to this framework. As opposed to saying, “Okay, if we’re not happy about what models are doing right now, what else can we do? Is a slowdown, a pause, a stoppage, the only option?” And I don’t think it is.\nOne thing that I did want to emphasize again, because it’s been really interesting to see the level of alarm around this — this sense of, “What if we have these autonomous agents and models just running around hacking each other, trying to prevent hacks, it’s just all getting out of our control,” leading to all these broader debates about alignment that Rebecca Bellan did a great piece about.\nBut it’s worth coming back to one of the points that we also wrote about at TechCrunch, that this specific hack — yes, it was caused by an OpenAI model, but it sounds like they just didn’t secure the testing site properly. In theory, this model should not have been able to get online. Now, of course, if you have a powerful misaligned AI, the risks of that human error go up dramatically. But it does start from just the fact that they didn’t secure things the way they should have.\nSean: I think that’s right. I think your point is well taken in the sense of, we shouldn’t only think about this in some linear fashion and whether things are accelerating or decelerating. There’s a lot that could and should be said about just how responsible these companies are being. Lorenzo, one of our colleagues, also wrote a really good piece walking through how serious security researchers who pay attention to this stuff think that the hack really was. It really does seem like, on both sides of this hack, there were steps that probably should have been taken that would have prevented it. \nAnd one of the things that I found most interesting in that story was that some of the researchers were pointing out that what this model did was not some new advanced thing. It was really very human in the way that it thought about trying to break into trying — not to anthropomorphize, but the way that it thought about breaking into Hugging Face, and that it was also very loud and messy and wasn’t really trying to hide its tracks. It was more like Nixon’s people breaking into Watergate than some real stealthy cyber-op, because it didn’t need to be, and it wasn’t instructed to be.\nThat should have been more easily preventable. And hopefully, this is a sign that these companies will take this forward and be more careful about that stuff. \nI will say one other thing on the accel vs decel [debate.] I don’t know if this is the motivation, but you mentioned the IPO, Kirsten. I think it’s smart of Altman to be able to push this advantage that they have now, which is that [OpenAI is] not going to [the] markets next month, or two months from now. He’s even floated the idea of going in 2027 and that they only filed their confidential filing so that they have the option ready when they’re ready.\nSo if you believe all of that, he has the ability to talk this talk in a way that Anthropic can’t, because Anthropic’s already in conversation with a lot of the bankers and is headed towards a more near-term IPO and is therefore more restricted in what it can say and how it should be saying it and how the market is going to react to that.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Sam Altman and AI’s decel debate",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?w=150"
+      ],
+      "datePublished": "2026-08-02T20:54:22.000Z",
+      "dateModified": "2026-08-02T20:54:22.000Z",
       "author": [
         {
           "@type": "Person",
@@ -316,31 +341,6 @@
       ],
       "datePublished": "2026-07-31T22:00:00.000Z",
       "dateModified": "2026-07-31T22:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "VC-backed startups commit more fraud, and researchers think they know why  ",
-    "url": "https://techcrunch.com/2026/07/31/vc-backed-startups-commit-more-fraud-and-researchers-think-they-know-why/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1215016292.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-07-31T19:00:00.000Z",
-    "description": "\nA new report from the U.K.’s Imperial College and France’s Emlyon Business School has mapped out the ways Silicon Valley’s VC-backed founders commit ",
-    "body": "\nA new report from the U.K.’s Imperial College and France’s Emlyon Business School has mapped out the ways Silicon Valley’s VC-backed founders commit fraud — and the role investors play.\nFor the report, published online in June, researchers built a database of tech founders and companies who faced civil and criminal securities fraud prosecutions from the SEC and DOJ between 2000 and 2023. \nSome famous cases of tech founders being convicted of fraud over the past few years include Frank’s Charlie Javice, Kalder’s Gökçe Güven, Terraform Labs’ Do Kwon, and GameOn’s Alexander and Valerie Lau Beckman.\nAll over X, the tech industry’s social network of choice, the topic of fraud and its gentler word “scam” are discussed, as people debate the limits of ambition and success. “Fraud is much more common and normalized in the startup world than we are ready to admit and accept,” Tim Weiss, one of the authors of the report, told TechCrunch.\nHe pointed to another report from the University of Toronto (UT), also published in June, that looked at 654 fraud cases against U.S. VC-backed startups from 2000 to 2023. It found that fraud is rare overall but that companies with venture funding were more likely to face fraud charges compared to companies that didn’t take venture funding. It found that startups launched during overheated markets with weak oversight and investor due diligence are 19% more likely to later commit fraud. \n“The problem here is not just the founders but also those that set and reinforce, at times unreasonable, expectations of high growth,” Weiss said. He added that the current frothy AI startup environment is exactly the kind of conditions that tempt founders into fraud.\nWeiss’ paper, co-authored with Emlyon researcher Nevena Radoynovska, discusses what may happen when founders face a gap between how investors want their startups to perform and how they are actually performing. They may turn to “façading,” as the paper calls it, in three increasingly dishonest stages: surface, reinforced, and deep.  \nSurface façading is when founders lie about how successful the company is or is becoming. It’s common during the early stages of a company when it’s pitching its vision to investors. It’s a level of dishonesty higher than just pitching an aspirational vision or an astronomical total addressable market.\nAfter the surface façade, the founder may move into “reinforced façading,” according to the paper, which involves creating fake evidence to back up the lies told.\nThe paper gave the example of a mobile testing app that created fake customer contracts and invoices, recorded fake revenue, and used those fake documents to convince VCs to back it at a unicorn valuation.\nFrom there founders may enter “deep façading,” where they extend their lies to areas like making their tech seem more capable than it is, complete with fake demos. This involves entire “parallel realities” built on lies, Weiss said.\nBut investors aren’t always hapless victims, the researchers found. Beyond the outsized growth expectations that push founders toward fraud in the first place, some investors unwittingly “co-create fraud,” Weiss said, by continuing to back founders—sometimes the very same ones— who’ve previously been accused of fraud, thereby normalizing it to a certain extent. \nIn fact, the UT report found little evidence that alleged fraud prevents founders from raising funding for new startups, even when those fraud cases received major media attention. \n“New investors and the broader VC market do not penalize past misconduct,” the UT report said, which is “also consistent with the Silicon Valley culture that embraces failure regardless of the cause.”  \nThe study also found that startups whose boards were controlled by the founders were twice as likely to commit fraud compared to those with investor-controlled or shared-controlled boards.  \nEven more interesting, it reported that after VC-backed startups go public, they are more likely to face securities class-action lawsuits within two years compared with private equity-backed companies that go public.\nThe fact that companies are staying private longer also contributes. Public companies undergo more scrutiny than private ones. “Founders do not have a professional body or association that could govern or enforce rules of entrepreneurial and investor conduct on how to be a good founder and what reasonable growth expectations are,” Weiss said.Weiss proposes that the SEC routinely investigate and conduct formal audits on startups after they hit a large “investment threshold.” Currently, the SEC typically waits for something like a whistleblower complaint or a lawsuit from investors or former employees to trigger an investigation.\nWeiss’ paper also suggests that investors should take more accountability when pushing founders to hit extreme growth metrics.\n“Investors should be held liable for corporate governance failures and violating their fiduciary duties,” he said. He wants to see more research into “entrepreneur-investor dynamics” that could help prevent fraud and also “balance the overemphasis on the entrepreneur as the sole perpetrator of wrongdoing.”\nFraud is rarely a solo act, in other words, and until investors are held to account for the pressure they exert, founders will likely keep facing the temptation to fake it until they make it.\nThis piece was updated. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "VC-backed startups commit more fraud, and researchers think they know why  ",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1215016292.jpg?w=150"
-      ],
-      "datePublished": "2026-07-31T19:00:00.000Z",
-      "dateModified": "2026-07-31T19:00:00.000Z",
       "author": [
         {
           "@type": "Person",
