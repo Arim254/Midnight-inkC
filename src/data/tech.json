@@ -50,6 +50,31 @@
     }
   },
   {
+    "title": "Wispr Flow launches a Granola-styled meeting notetaker",
+    "url": "https://techcrunch.com/2026/08/05/wispr-flow-is-preparing-to-launch-a-meeting-notetaker-updated-terms-suggest/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/11/press_1200%C3%97675_logo-background-green.jpeg?w=150",
+    "tag": "Tech",
+    "date": "2026-08-05T07:15:49.000Z",
+    "description": "\nUpdate August 5, 12.10 am PT: Wispr Flow has officially launched its notetaker for Mac. The notetaker, similar to the one of Granola’s, uses system a",
+    "body": "\nUpdate August 5, 12.10 am PT: Wispr Flow has officially launched its notetaker for Mac. The notetaker, similar to the one of Granola’s, uses system audio to transcribe a meeting without joining one. It also cleans up transcripts, creates action items, and lets users query across meeting history with the help of AI. Users can see a live transcript and ask AI to catch them up as well.\nOur original reporting based on Wispr Flow’s terms change is below\nDictation app Wispr Flow is preparing to launch a meeting notetaker, according to the tool’s updated Terms of Service.\nThe company also sent an email to its customers about the change in both its terms and its privacy policy to accommodate related features.\nUpon investigation, the refreshed terms have added sections about the use of meeting data and the notetaker. The company said the notetaker will generate transcripts, summaries, actions, and insights, writing:\n\nFor Notetaker, Input may also include Meeting Data, including meeting audio, participant information, meeting metadata, speaker labels, meeting transcripts, and other information processed in connection with a meeting. Output may include AI-generated meeting transcripts, summaries, action items, meeting insights, speaker attribution, and other meeting-related content.\n\nWith the launch, the startup will take on other meeting notetakers such as Granola, Fireflies, Read AI, Otter, and Fathom. Wispr Flow’s co-founder Tanay Kothari had previously talked about building an AI assistant in interviews. With a meeting notetaker, Wispr Flow would gain additional context about its users and could automate more tasks beyond cleaning up spoken sentences.\nIt’s not clear if the startup wants to launch a Granola-style notetaker that relies on system audio and transcribes the meeting without keeping a recording, or build a full-fledged meeting recording tool. \nTo date, Wispr Flow has raised more than $81 million, with the company valued at $700 million at its last round. In May, Bloomberg reported that the company was in talks for a new round, valuing it at $2 billion.\nWispr Flow didn’t respond to our request for further comment. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Wispr Flow launches a Granola-styled meeting notetaker",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/11/press_1200%C3%97675_logo-background-green.jpeg?w=150"
+      ],
+      "datePublished": "2026-08-05T07:15:49.000Z",
+      "dateModified": "2026-08-05T07:15:49.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Take an extra $100 off your TechCrunch Disrupt 2026 pass: This week only!",
     "url": "https://techcrunch.com/2026/08/04/take-an-extra-100-off-your-techcrunch-disrupt-2026-pass-this-week-only/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/TCD26_Aug_Flash_Sale.png?w=150",
@@ -66,181 +91,6 @@
       ],
       "datePublished": "2026-08-04T17:20:54.000Z",
       "dateModified": "2026-08-04T17:20:54.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Android app developers may be unwittingly sharing their users’ location data with advertisers",
-    "url": "https://techcrunch.com/2026/08/04/android-app-developers-may-be-unwittingly-sharing-their-users-location-data-with-advertisers/",
-    "image": "https://techcrunch.com/wp-content/uploads/2021/10/stalkerware-leaked-location-2.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-08-04T20:26:53.000Z",
-    "description": "\nFor many apps, granting permission to access your device’s precise location makes sense. Your favorite weather app needs to know where you are to get",
-    "body": "\nFor many apps, granting permission to access your device’s precise location makes sense. Your favorite weather app needs to know where you are to get the day’s forecast, or your go-to fitness app for tracking your running route. \nBut some apps are also inadvertently sharing their users’ location data with third parties, including advertisers and data brokers, because the app developer may not know that this data-sharing setting is enabled by default.\nNew findings by the Electronic Frontier Foundation aim to warn app developers that some of the third-party code they place in their apps may also collect their users’ location data when they grant permission to the app. \nUnless the developer actively switches off the collection, the code snippet (known as software development kits, or SDKs) will inherit the app’s permissions and collect the user’s precise location data.\nThe EFF says many developers might not realize that they are sharing their users’ location data with third parties by default and urged app makers to disable unnecessary data collection whenever possible. \nWhile advertising SDKs are promoted as a way for developers to monetize their app, the trade-off is that the users’ location histories get fed to data brokers, who monetize that information, which then gets sold to militaries, governments, and intelligence agencies, like the FBI. The data is also a security and privacy risk if it gets hacked or stolen, which some data brokers have experienced.\nAmong the Android apps that the EFF identified that were quietly sharing users’ location data included two that had been downloaded a combined 60 million times to date.\nThe EFF ran its tests by analyzing the apps’ network traffic and seeing which services are receiving the users’ location data.\nBill Budington, a senior staff technologist at the EFF, told TechCrunch that the SDKs they examined account for a small percentage of the broader advertising ecosystem but nevertheless claim to reach billions of users over tens of thousands of apps. That gives some sense of the scale of this type of location data collection. \nThe EFF’s report said that there are “no SDK-specific location permissions,” meaning that once the user allows their location data to be shared with the app, their location data is also shared with advertisers. The entities offering those SDKs are generally commercially incentivized to get their customers to collect more data.\n“App-level location permissions alone cannot signal meaningful consent to location collection and sharing by third-party advertising SDKs,” wrote the EFF. “Advertising SDKs should not make sharing personal data the default, especially for data as sensitive as a person’s location.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tZack Whittaker is the security editor at TechCrunch. He also authors the weekly cybersecurity newsletter, this week in security. \nHe can be reached via encrypted message at zackwhittaker.1337 on Signal. You can also contact him by email, or to verify outreach, at zack.whittaker@techcrunch.com. \t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Android app developers may be unwittingly sharing their users’ location data with advertisers",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2021/10/stalkerware-leaked-location-2.jpg?w=150"
-      ],
-      "datePublished": "2026-08-04T20:26:53.000Z",
-      "dateModified": "2026-08-04T20:26:53.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "How to get the best hotel deals for TechCrunch Disrupt 2026 ",
-    "url": "https://techcrunch.com/2026/08/04/how-to-get-the-best-hotel-deals-for-techcrunch-disrupt-2026/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1145953370.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-08-04T22:18:30.000Z",
-    "description": "\nCongrats, you’re all set for TechCrunch Disrupt 2026! Or, you might still be on the fence and wondering about your accommodations. Either way, the re",
-    "body": "\nCongrats, you’re all set for TechCrunch Disrupt 2026! Or, you might still be on the fence and wondering about your accommodations. Either way, the reality is San Francisco can be an expensive place to stay, which is why we’ve partnered with hotels around Moscone West during Disrupt, taking place October 13 to 15, to secure the best prices available for attendees.  \nBefore diving into your options, there are a few key benefits to keep in mind: \n\nThese reservations can be canceled or modified without penalty. \n\n\nThere’s zero upfront cost to any of these reservations.\n\n\nYour rewards points and loyalty programs will work as expected. \n\n\nEach hotel is within walking distance of Moscone West, which means more time for that crucial pre-Disrupt coffee or more post-Disrupt networking.\n\nEach of these hotels provides a great mix of accessibility to Disrupt, and plenty of options for catering your San Francisco experience to your tastes. \nThe Hyatt Regency \nImage Credits:Smith Collection/Gado/Getty Images\nLocated right along the waterfront, the Hyatt Regency places you just a brief walk away from Disrupt and its many side events, and an even shorter distance from the city’s beloved Ferry Building. Hog Island Oyster Company or Gott’s Roadside make for great dining options, and if you’re extending your stay, you can take the ferry to scenic spots like Sausalito and Angel Island. \nHotel Zelos \nImage Credits:Smith Collection/Gado/Getty Images\nFor those with energy to spare after an exciting day at Disrupt, Hotel Zelos is a four-star hotel with a rooftop bar perfect for post-event conversations and meetups. Or for the urban explorers out there, it’s much easier to hop on public transportation if you want to have your post-Disrupt networking elsewhere in the city. \nInterContinental San Francisco \nImage Credits:Smith Collection/Gado/Getty Images\nYou can’t get any closer than the InterContinental, which sits right beside Moscone West and is the perfect home base for exploring the event and branching out into everything else. Within walking distance is the world-class San Francisco Museum of Modern Art and the Metreon theater — though we can’t promise its 70MM IMAX will still be playing the Odyssey… \nThe Grand Hyatt San Francisco \nImage Credits:Smith Collection/Gado/Getty Images\nThe Grand Hyatt towers over San Francisco, perched beside Union Square, where you can check out some of the city’s best restaurants or best shopping in your downtime. Explore old-school steak houses, new spins on Vietnamese cuisine, or one of the city’s most celebrated cocktail bars. Plus, it’s a quick walk from historic Chinatown and its many attractions. \nAnd if there’s a colleague you’d like to bring along, it’s not too late! Register a teammate and save on their pass while ensuring you both get the most out of the Disrupt experience. \nWith discounted hotel room blocks available for a limited time, we recommend booking early to secure your preferred hotel at the best price. Start getting your itinerary together right here. \nIf you remain on the fence, keep in mind that until 11:59 p.m. this Friday, August 7, we’re offering a limited-time flash sale on tickets, with this link giving you an extra $100 off founder, investor, or attendee tickets. And if you’re all set, we can’t wait to see you in San Francisco in October!  \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "How to get the best hotel deals for TechCrunch Disrupt 2026 ",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1145953370.jpg?w=150"
-      ],
-      "datePublished": "2026-08-04T22:18:30.000Z",
-      "dateModified": "2026-08-04T22:18:30.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Waymo opens up robotaxi service in Dallas to everyone",
-    "url": "https://techcrunch.com/2026/08/04/waymo-opens-up-robotaxi-service-in-dallas-to-everyone/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/09/waymo-robotaxi-fifth-gen.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-08-04T17:31:01.000Z",
-    "description": "\nAutonomous car maker Waymo has dropped the waitlist for its robotaxi service in Dallas, opening it up to all residents and visitors. This is the late",
-    "body": "\nAutonomous car maker Waymo has dropped the waitlist for its robotaxi service in Dallas, opening it up to all residents and visitors. This is the latest step in the Alphabet-owned company’s bid to scale its self-driving technology across Europe, the United Kingdom, and the United States.\nWaymo said Tuesday that anyone can now download the app and immediately hail one of its robotaxis in Dallas.\nFor now, riders won’t be able to hail a ride to Dallas Love Field Airport. The company said it continues to test its self-driving vehicles at the airport and expects to serve riders there “soon.”\nThe company has had a presence in Dallas since last year, when it began testing its technology on public streets and announced plans to launch the service there in 2026. At the time, the company said it would partner with Avis Budget Group to manage its fleet of all-electric autonomous Jaguar I-Pace vehicles. Avis handles general depot operations, including charging and maintaining the vehicles. \nWaymo opened the service to the public in February, but initially limited access through a waitlist. Waymo said about 150,000 riders used the Waymo app during this period. Waymo no longer has the waitlist, following a robotaxi playbook that it has used in every other market, including Phoenix, Los Angeles, and San Francisco.\nThe company’s entry into Dallas had some early hiccups. In May, Waymo paused its service in Dallas, Houston, and San Antonio, Texas, as well as Atlanta, due to problems with how its robotaxis handled heavy rain and flooded roads. \nWhile robotaxi services have resumed in these cities, Waymo said it may adjust or temporarily pause operations based on severe weather, flood warnings, and real-time conditions in the future. A Waymo spokesperson said riders can check the status of its service via the Waymo app.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tKirsten Korosec is a reporter and editor who has covered the future of transportation from EVs and autonomous vehicles to urban air mobility and in-car tech for more than a decade. She is currently the transportation editor at TechCrunch and co-host of TechCrunch’s Equity podcast. She is also co-founder and co-host of the podcast, “The Autonocast.” She previously wrote for Fortune, The Verge, Bloomberg, MIT Technology Review and CBS Interactive.\nYou can contact or verify outreach from Kirsten by emailing kirsten.korosec@techcrunch.com or via encrypted message at kkorosec.07 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Waymo opens up robotaxi service in Dallas to everyone",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/09/waymo-robotaxi-fifth-gen.jpg?w=150"
-      ],
-      "datePublished": "2026-08-04T17:31:01.000Z",
-      "dateModified": "2026-08-04T17:31:01.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
-    "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1241146892.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-08-04T21:07:26.000Z",
-    "description": "\n\t\n\t\tImage Credits:Nic Coury/Bloomberg / Getty Images\t\n\t\n\t\t\t\t\t\t2:07 PM PDT · August 4, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nSpaceX has ramped up purchases of Tesla Me",
-    "body": "\n\t\n\t\tImage Credits:Nic Coury/Bloomberg / Getty Images\t\n\t\n\t\t\t\t\t\t2:07 PM PDT · August 4, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nSpaceX has ramped up purchases of Tesla Megapack, spending $295 million on the battery storage devices in the second quarter and $329 million so far this year, according to the company’s earnings report released on Tuesday.\nThe purchase illustrates just how interconnected Elon Musk’s universe of companies are. Musk, who is the CEO and largest shareholder of SpaceX, also runs Tesla. Musk’s artificial intelligence business xAI acquired his social media platform, X, in 2025. Earlier this year, SpaceX gobbled up xAI.\nThe industrial-scale batteries are likely being deployed at the company’s xAI data centers. Before xAI merged with SpaceX, the AI company bought $430 million worth of Megapacks for its data centers. In the first quarter of this year, xAI had purchased only $34 million worth of the equipment. SpaceX also reported that as of December 2025, it had acquired $131 million worth of Tesla Cybertrucks at manufacturer’s suggested retail price, according to its regulatory filing. \nThough xAI has leaned heavily on natural gas to power its data centers — including dozens of unpermitted turbines at a site in Mississippi not far from the Colossus data center project — large batteries like the Megapack are still a critical part of data centers. \nIn addition to providing substantial backup power that can be tapped in a second or less, batteries can provide extra power to GPUs when they demand it. AI data centers don’t draw power consistently. Rather, their power demand ramps up and down depending on the demands of training AI models and running inference.\nSuch peaks can incur significant charges from a local utility or overwhelm on-site generators. Batteries help smooth out those peaks, lowering costs while ensuring that the data center can operate consistently.\n\n\t\t\t\n\tTopics\n\n\t\t\tWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\n\t\tTim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor. \r\nDe Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.\r\nYou can contact or verify outreach from Tim by emailing tim.dechant@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n\n\t\t",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1241146892.jpg?w=150"
-      ],
-      "datePublished": "2026-08-04T21:07:26.000Z",
-      "dateModified": "2026-08-04T21:07:26.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Host a Side Event during TechCrunch Founder Summit Week in Boston",
-    "url": "https://techcrunch.com/2026/08/04/host-a-side-event-during-techcrunch-founder-summit-week-in-boston/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/54963427938_23d9e50d14_o.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-08-04T15:00:00.000Z",
-    "description": "\n\t\n\t\tImage Credits:Slava Blazer Photography\t\n\t\n\t\t\t\t\t\t8:00 AM PDT · August 4, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nWant to tap into the energy of 1,100+ startup founde",
-    "body": "\n\t\n\t\tImage Credits:Slava Blazer Photography\t\n\t\n\t\t\t\t\t\t8:00 AM PDT · August 4, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nWant to tap into the energy of 1,100+ startup founders, investors, and tech leaders descending on Boston for the Founder Summit 2026 on November 4th? Host your own Side Event during “Founder Summit Week,” happening November 1-7!\nWhether it’s a networking mixer, workshop, morning run, fireside chat, or cocktail hour — you call the shots. Create a moment. Build your community. Increase brand visibility with a Side Event.\nWhy host a Side Event?\nAlong with extending the energy beyond the venue and the actual event, you’ll get:\n\nVisibility to the full TechCrunch audience.\nFeatured on the official agenda, Side Events page, and mobile app.\nHighlighted in attendee emails and articles.\nA community discount code for your team and guests.\n\nMust-know details about Side Events\nCheck out the full details on the Founder Summit 2026 page. As the host, you’ll handle the event details, and we’ll help spread the word. There’s no fee to be listed, and everything must be:\n\nIn-person and Boston-based.\nHeld November 1-7 (only post-5 p.m. ET events will be allowed on November 4).\n18+ only (21+ if there’s alcohol).\n\nApply now to make a brand impact at Founder Summit 2026\nLet’s make it happen! Hosting a Side Event is an easy way to grow your network and connect your brand to Boston’s startup crowd. Apply here to lock in your Side Event before the deadline. This is your moment to show up and stand out.\n\n\t\t\t\n\tTopics\n\n\t\t\tWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\t\t",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Host a Side Event during TechCrunch Founder Summit Week in Boston",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/03/54963427938_23d9e50d14_o.jpg?w=150"
-      ],
-      "datePublished": "2026-08-04T15:00:00.000Z",
-      "dateModified": "2026-08-04T15:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Texas halts new data centers as governor calls for audits",
-    "url": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2205417979.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-08-04T15:42:35.000Z",
-    "description": "\nTech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and se",
-    "body": "\nTech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply. Only Virginia hosts more data centers than Texas.\nBut even Texas can be pushed to the brink. Governor Greg Abbott announced Monday that all new data center projects will need to be audited by both the Public Utility Commission of Texas (PUCT) and the state’s grid operator, the Electric Reliability Council of Texas (ERCOT).\nThe size of ERCOT’s interconnection queue has grown dramatically this year. In January, ERCOT had 233 gigawatts of projects waiting to connect to its grid. In less than six months, that figure had more than doubled. Today, Abbott’s office said ERCOT is tracking 474 gigawatts of new connection requests. About 90% of those are data centers, according to the grid operator.\nSome of those projects are simply paper proposals at this point. Because queues for grid connections have grown so long, the first action many developers take is to get in line. Many projects fizzle out as they progress.\nIf even a fraction of those proposed projects come to fruition, they could overwhelm the Texas grid. The interconnection queue today represents more than five times ERCOT’s total peak demand. \nWhile many data center operators, including Google and Microsoft, have been drawn to Texas for its ample natural gas reserves, wind and solar have helped ERCOT keep pace with growing electricity demand, according to the Energy Information Administration (EIA). Utility-scale solar capacity grew fourfold between 2021 and 2025. Meanwhile, electricity prices declined over much of that time, according to a report from Amperon.\nElectricity prices in Texas are relatively affordable compared with other states, but they have been rising. Data centers and crypto-mining facilities have pushed prices higher, according to the EIA.\nAbbott clearly wants to head off that trend. The governor has directed PUCT and ERCOT to collect a range of information about proposed data centers, including their on- and off-site demand for electricity and water, noise-mitigation efforts, light controls, use of tax incentives, and ownership details.\nHistorically, Texas has favored lighter regulation than many other states when it comes to development. Houston famously lacks a zoning code, and the state has a business-friendly regulatory environment. But data centers have become a flash point across the country, including in Texas. Abbott had previously tried to coax data centers into providing more information through a voluntary survey. Most didn’t respond, so he’s taking a heavier hand to compel compliance. \nDepending on what emerges from the audits, Texas’ days as a data center mecca may be coming to a close.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tTim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor. \r\nDe Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.\r\nYou can contact or verify outreach from Tim by emailing tim.dechant@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Texas halts new data centers as governor calls for audits",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2205417979.jpg?w=150"
-      ],
-      "datePublished": "2026-08-04T15:42:35.000Z",
-      "dateModified": "2026-08-04T15:42:35.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
-    "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/jensen-ces-2026-getty.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-08-04T19:28:49.000Z",
-    "description": "\nThe week-old Open Secure AI Alliance (OSAA), an industry group spearheaded by Nvidia that has already grown to over 120 companies, has developed a cu",
-    "body": "\nThe week-old Open Secure AI Alliance (OSAA), an industry group spearheaded by Nvidia that has already grown to over 120 companies, has developed a cutely named working group, the Shared AI Findings Exchange, or SAFE. The group is already presenting proposals for open comment, and the Linux Foundation, a member of the group, is managing the proposals.\nThe group developed them while members gathered at the nexus of the cybersecurity world, the Black Hat conference, taking place this week in Las Vegas.\nThe guidelines are nothing terribly earth-shattering for now. The proposals cover areas like how to confidentially report AI cybersecurity incidents, alert those affected, and then do blame-free analysis so all can learn from them.\nAt the same time, members of the OSAA are also contributing and cataloging bits and pieces of their open source technology that might be useful. This may, as these types of industry organizations go, eventually coalesce into an open source means for an enterprise to secure their AI agents, or defend against rogue AI attackers, such as the OpenAI model that infiltrated Hugging Face. (Hugging Face is also a member of this group.)\nFor instance, Nvidia has noted that it offers an entire family of open models, as well as an open source LLM vulnerability scanner called Garak; Okta is working on agent identity tech; Red Hat is working on agent governance; and Amazon has contributed both an open agent building tool, Strands Agents, and an authorization language, Cedar. And there are many more examples.\nThe group now includes a host of big names, including Adobe, BlackRock, Cisco, Intel, Microsoft, and Visa, but there are some notable absences, like Anthropic, OpenAI, and Google.\nInterestingly, both OpenAI and Google signed the original open letter that spawned this group. The letter, published last week, urged the White House to support open source AI efforts, not squash them. It was championed by Nvidia and signed by over 200 tech companies.\nWhile Anthropic’s cold shoulder to the letter and the industry group to date is not a surprise, both OpenAI and Google have released open weight models of their own. Google is generally known as a big supporter of open source, too. We’ll see if they join as this group builds momentum.\nMeanwhile, the group is operating at AI speeds. It’s only been a couple of weeks since news broke that the Trump administration was considering banning Chinese open weight models, causing the industry consternation that resulted in the open letter.\nWhatever ultimately happens with Chinese open weight models in the U.S., the fast action by this heavyweight group appears to be a good thing for the U.S. open AI ecosystem. Some in the ecosystem, like the co-founder and chief technology officer of U.S. open weight AI lab Arcee, say that’s ultimately the way to best any threat — real or imagined — that Chinese AI labs pose to the United States.\n“Openness may be one of the most important paths to AI safety and security,” this industry group wrote in their letter. Looks like they are ready to immediately put their effort — and their tech — where their mouths are.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/01/jensen-ces-2026-getty.jpg?w=150"
-      ],
-      "datePublished": "2026-08-04T19:28:49.000Z",
-      "dateModified": "2026-08-04T19:28:49.000Z",
       "author": [
         {
           "@type": "Person",
@@ -275,22 +125,22 @@
     }
   },
   {
-    "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-    "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/tim-cook-sam-altman-GettyImages-2233062347.jpg?w=150",
+    "title": "Android app developers may be unwittingly sharing their users’ location data with advertisers",
+    "url": "https://techcrunch.com/2026/08/04/android-app-developers-may-be-unwittingly-sharing-their-users-location-data-with-advertisers/",
+    "image": "https://techcrunch.com/wp-content/uploads/2021/10/stalkerware-leaked-location-2.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-08-04T14:03:01.000Z",
-    "description": "\nApple is now seeking a preliminary injunction in its trade secrets case against OpenAI, which aims to stop the AI model maker from moving forward wit",
-    "body": "\nApple is now seeking a preliminary injunction in its trade secrets case against OpenAI, which aims to stop the AI model maker from moving forward with developing an AI device or other products based on Apple’s technology. The iPhone maker also claims that more of its former employees may be involved with the trade secrets theft.\nIn a new filing, Apple is requesting expedited discovery from the accused OpenAI employees, senior systems engineer Chang Liu and Chief Hardware Officer Tang Yew Tan; OpenAI, and its foundation; and io, the device startup co-founded by Apple’s former lead designer Jony Ive.\nApple also notes that its continued investigation has so far revealed 11 other former Apple employees beyond Liu and Tan may have been witnesses or otherwise involved in the case, and others who were previously named in the original complaint, like OpenAI employee Yu-Ting Peng.\nThe filing marks an escalation in Apple’s legal battle with OpenAI, as it suggests Apple has uncovered new evidence that the misconduct goes beyond the former employees named in the original complaint. \n“For example, another former Apple employee seems to have met with Mr. Liu and Ms. Peng in advance of Ms. Peng’s interview at OpenAI and discussed with them during that meeting Apple proprietary information relating to unannounced products,” the filing states. “Yet another former Apple employee took screenshots of confidential Apple documents relating to an unannounced Apple product before an interview at OpenAI.”\n“And, after Apple filed its complaint, multiple former Apple employees now working at OpenAI reached out to discuss returning Apple-issued work devices they kept when they left Apple,” Apple claims, suggesting there were more who were possibly involved with the scheme. \nApple is pushing the court to allow for expedited discovery because it believes it has good cause to suspect that there are others involved in the theft of its intellectual property. The company noted that its motion for a preliminary injunction is also pending.\nOpenAI responded publicly to Apple’s latest, saying in a blog post that Apple’s request for a preliminary injunction is “both based on false information and completely unnecessary because we do not have, nor want, any of their trade secrets.”\n“We’re much more interested in building innovative products and technologies that push the frontier,” OpenAI’s statement reads.\nThe AI model maker also pointed to earlier mistakes Apple made, which had been reported, including that Apple emailed the wrong person when it made contact with OpenAI after confusing two similar surnames. OpenAI also alleges that Apple lied about discussing matters with its general counsel. And, the company said that Apple didn’t admit to the claim that the “residual access” allowing former employees to access Apple’s system was the result of poor security procedures on Apple’s part.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-08-04T20:26:53.000Z",
+    "description": "\nFor many apps, granting permission to access your device’s precise location makes sense. Your favorite weather app needs to know where you are to get",
+    "body": "\nFor many apps, granting permission to access your device’s precise location makes sense. Your favorite weather app needs to know where you are to get the day’s forecast, or your go-to fitness app for tracking your running route. \nBut some apps are also inadvertently sharing their users’ location data with third parties, including advertisers and data brokers, because the app developer may not know that this data-sharing setting is enabled by default.\nNew findings by the Electronic Frontier Foundation aim to warn app developers that some of the third-party code they place in their apps may also collect their users’ location data when they grant permission to the app. \nUnless the developer actively switches off the collection, the code snippet (known as software development kits, or SDKs) will inherit the app’s permissions and collect the user’s precise location data.\nThe EFF says many developers might not realize that they are sharing their users’ location data with third parties by default and urged app makers to disable unnecessary data collection whenever possible. \nWhile advertising SDKs are promoted as a way for developers to monetize their app, the trade-off is that the users’ location histories get fed to data brokers, who monetize that information, which then gets sold to militaries, governments, and intelligence agencies, like the FBI. The data is also a security and privacy risk if it gets hacked or stolen, which some data brokers have experienced.\nAmong the Android apps that the EFF identified that were quietly sharing users’ location data included two that had been downloaded a combined 60 million times to date.\nThe EFF ran its tests by analyzing the apps’ network traffic and seeing which services are receiving the users’ location data.\nBill Budington, a senior staff technologist at the EFF, told TechCrunch that the SDKs they examined account for a small percentage of the broader advertising ecosystem but nevertheless claim to reach billions of users over tens of thousands of apps. That gives some sense of the scale of this type of location data collection. \nThe EFF’s report said that there are “no SDK-specific location permissions,” meaning that once the user allows their location data to be shared with the app, their location data is also shared with advertisers. The entities offering those SDKs are generally commercially incentivized to get their customers to collect more data.\n“App-level location permissions alone cannot signal meaningful consent to location collection and sharing by third-party advertising SDKs,” wrote the EFF. “Advertising SDKs should not make sharing personal data the default, especially for data as sensitive as a person’s location.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tZack Whittaker is the security editor at TechCrunch. He also authors the weekly cybersecurity newsletter, this week in security. \nHe can be reached via encrypted message at zackwhittaker.1337 on Signal. You can also contact him by email, or to verify outreach, at zack.whittaker@techcrunch.com. \t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Apple says more ex-employees may have taken confidential data to OpenAI",
+      "headline": "Android app developers may be unwittingly sharing their users’ location data with advertisers",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/07/tim-cook-sam-altman-GettyImages-2233062347.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2021/10/stalkerware-leaked-location-2.jpg?w=150"
       ],
-      "datePublished": "2026-08-04T14:03:01.000Z",
-      "dateModified": "2026-08-04T14:03:01.000Z",
+      "datePublished": "2026-08-04T20:26:53.000Z",
+      "dateModified": "2026-08-04T20:26:53.000Z",
       "author": [
         {
           "@type": "Person",
@@ -300,22 +150,47 @@
     }
   },
   {
-    "title": "SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth",
-    "url": "https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/gwynne-shotwell-spacex.jpg?w=150",
+    "title": "Host a Side Event during TechCrunch Founder Summit Week in Boston",
+    "url": "https://techcrunch.com/2026/08/04/host-a-side-event-during-techcrunch-founder-summit-week-in-boston/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/54963427938_23d9e50d14_o.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-08-04T20:36:30.000Z",
-    "description": "\nSpaceX doubled its revenue compared to last year, in large part thanks to the growth of its Starlink satellite internet service and deals it struck t",
-    "body": "\nSpaceX doubled its revenue compared to last year, in large part thanks to the growth of its Starlink satellite internet service and deals it struck to rent out computing power to Anthropic and Google, the company revealed in its first quarterly earnings since going public.\nTotal sales grew from $4 billion in the second quarter of 2025 to $7.8 billion in Q2 2026, a jump of 92%. Nearly $2 billion of that growth came from its AI division, while Starlink revenue also grew by $1.7 billion. The company still lost $541 million in the quarter, but that was down from $1 billion in the second quarter last year. \nSpaceX chief financial officer Bret Johnsen said on Tuesday that SpaceX has an additional $6.7 billion of cloud services revenue under contract “over a six month period that begins ramping starting in October of this year.” He also said he believes that, once it fully integrates AI startup Cursor, that it will reach a $100 billion annualized revenue run-rate [ARR] by the end of this year. (The company reported $18.67 billion in revenue in 2025.)\nCEO Elon Musk went even farther, saying: “the $100 billion ARR in December is not a question mark. That’s what we would achieve if we basically did nothing. So I think it may be higher than that. It probably will be higher than that.”\nAfter a successful post-IPO bond sale, the company now has a $100 billion war chest. And it’s not slowing its spending. It reported more than $28 billion in capital expenditures through the first half of this year, up from just $7 billion through the first six months of 2025.\nSpaceX’s first quarterly earnings report was released nearly two months after the company pulled off the largest IPO in history. SpaceX raised more than $85 billion and went public at a valuation of $1.75 trillion. \nThe company’s market cap rocketed up in the first few days of trading, briefly passing Amazon and nearly equaling Microsoft. But it has suffered since then, plunging below the IPO price of $135 per share reportedly set by CEO Elon Musk himself. The shares closed at just over $125 on Tuesday, but sank as much as 8% in after-hours trading.\nBoth of those compute deals were announced in the weeks before SpaceX’s IPO, and they represented a major pivot for the company. SpaceX’s AI division, which used to be Musk’s own startup xAI before it was absorbed into the rocket company, has been trying — but failing — to catch up to the leading labs like OpenAI and Anthropic and win over customers. These struggles were happening at the same time that xAI was creating repeated scandals, like when its Grok chatbot started calling itself “MechaHitler,” or how the tech was generating child sexual abuse material.\nThe company had already built out two data centers in and near Memphis, Tennessee to train xAI’s models, so it instead pivoted much of that capacity to be rented out to customers like Anthropic and Google. \n“The incremental revenue from new hosting deals generated high incremental EBITDA margins as we monetized available compute capacity,” Johnsen said on a conference call Tuesday.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-08-04T15:00:00.000Z",
+    "description": "\n\t\n\t\tImage Credits:Slava Blazer Photography\t\n\t\n\t\t\t\t\t\t8:00 AM PDT · August 4, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nWant to tap into the energy of 1,100+ startup founde",
+    "body": "\n\t\n\t\tImage Credits:Slava Blazer Photography\t\n\t\n\t\t\t\t\t\t8:00 AM PDT · August 4, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nWant to tap into the energy of 1,100+ startup founders, investors, and tech leaders descending on Boston for the Founder Summit 2026 on November 4th? Host your own Side Event during “Founder Summit Week,” happening November 1-7!\nWhether it’s a networking mixer, workshop, morning run, fireside chat, or cocktail hour — you call the shots. Create a moment. Build your community. Increase brand visibility with a Side Event.\nWhy host a Side Event?\nAlong with extending the energy beyond the venue and the actual event, you’ll get:\n\nVisibility to the full TechCrunch audience.\nFeatured on the official agenda, Side Events page, and mobile app.\nHighlighted in attendee emails and articles.\nA community discount code for your team and guests.\n\nMust-know details about Side Events\nCheck out the full details on the Founder Summit 2026 page. As the host, you’ll handle the event details, and we’ll help spread the word. There’s no fee to be listed, and everything must be:\n\nIn-person and Boston-based.\nHeld November 1-7 (only post-5 p.m. ET events will be allowed on November 4).\n18+ only (21+ if there’s alcohol).\n\nApply now to make a brand impact at Founder Summit 2026\nLet’s make it happen! Hosting a Side Event is an easy way to grow your network and connect your brand to Boston’s startup crowd. Apply here to lock in your Side Event before the deadline. This is your moment to show up and stand out.\n\n\t\t\t\n\tTopics\n\n\t\t\tWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\t\t",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth",
+      "headline": "Host a Side Event during TechCrunch Founder Summit Week in Boston",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/06/gwynne-shotwell-spacex.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/03/54963427938_23d9e50d14_o.jpg?w=150"
       ],
-      "datePublished": "2026-08-04T20:36:30.000Z",
-      "dateModified": "2026-08-04T20:36:30.000Z",
+      "datePublished": "2026-08-04T15:00:00.000Z",
+      "dateModified": "2026-08-04T15:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+    "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1241146892.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-08-04T21:07:26.000Z",
+    "description": "\n\t\n\t\tImage Credits:Nic Coury/Bloomberg / Getty Images\t\n\t\n\t\t\t\t\t\t2:07 PM PDT · August 4, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nSpaceX has ramped up purchases of Tesla Me",
+    "body": "\n\t\n\t\tImage Credits:Nic Coury/Bloomberg / Getty Images\t\n\t\n\t\t\t\t\t\t2:07 PM PDT · August 4, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nSpaceX has ramped up purchases of Tesla Megapack, spending $295 million on the battery storage devices in the second quarter and $329 million so far this year, according to the company’s earnings report released on Tuesday.\nThe purchase illustrates just how interconnected Elon Musk’s universe of companies are. Musk, who is the CEO and largest shareholder of SpaceX, also runs Tesla. Musk’s artificial intelligence business xAI acquired his social media platform, X, in 2025. Earlier this year, SpaceX gobbled up xAI.\nThe industrial-scale batteries are likely being deployed at the company’s xAI data centers. Before xAI merged with SpaceX, the AI company bought $430 million worth of Megapacks for its data centers. In the first quarter of this year, xAI had purchased only $34 million worth of the equipment. SpaceX also reported that as of December 2025, it had acquired $131 million worth of Tesla Cybertrucks at manufacturer’s suggested retail price, according to its regulatory filing. \nThough xAI has leaned heavily on natural gas to power its data centers — including dozens of unpermitted turbines at a site in Mississippi not far from the Colossus data center project — large batteries like the Megapack are still a critical part of data centers. \nIn addition to providing substantial backup power that can be tapped in a second or less, batteries can provide extra power to GPUs when they demand it. AI data centers don’t draw power consistently. Rather, their power demand ramps up and down depending on the demands of training AI models and running inference.\nSuch peaks can incur significant charges from a local utility or overwhelm on-site generators. Batteries help smooth out those peaks, lowering costs while ensuring that the data center can operate consistently.\n\n\t\t\t\n\tTopics\n\n\t\t\tWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\n\t\tTim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor. \r\nDe Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.\r\nYou can contact or verify outreach from Tim by emailing tim.dechant@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n\n\t\t",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1241146892.jpg?w=150"
+      ],
+      "datePublished": "2026-08-04T21:07:26.000Z",
+      "dateModified": "2026-08-04T21:07:26.000Z",
       "author": [
         {
           "@type": "Person",
@@ -350,22 +225,147 @@
     }
   },
   {
-    "title": "Open-weight AI models are catching up to the frontier. The safety gap remains. ",
-    "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Z.ai-GLM-5.2-chat.png?w=150",
+    "title": "TV Time co-founder launches Bingers to revive the beloved TV-tracking app",
+    "url": "https://techcrunch.com/2026/08/04/tv-time-co-founder-launches-bingers-to-revive-the-beloved-tv-tracking-app/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2158978689.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-08-04T20:05:26.000Z",
-    "description": "\nAs policymakers debate how to govern increasingly powerful AI systems like OpenAI’s GPT-5.6 Sol and Anthropic’s Mythos, a Chinese open-weight model h",
-    "body": "\nAs policymakers debate how to govern increasingly powerful AI systems like OpenAI’s GPT-5.6 Sol and Anthropic’s Mythos, a Chinese open-weight model has narrowed the gap with the industry’s leaders.  \nGLM-5.2, the open-weight AI model from China’s Z.ai, is only a few months behind OpenAI’s GPT-5.5 and Anthropic’s Claude Opus 4.7 on cyber and bio capabilities, according to a new report from AI safety nonprofit SaferAI. But the divide between frontier capabilities and safety practices is growing. \nAccording to SaferAI’s evaluation, which the nonprofit ran via Z.ai’s public API, GLM-5.2 refused none of the offensive cyber or dual-use biology tasks it was given. By comparison, Claude Opus 4.7 “refused so consistently that SaferAI could not complete CyberGym on it at all.” (CyberGym is a benchmark that evaluates cybersecurity capabilities. OpenAI used it in the evaluation that preceded last month’s Hugging Face breach.)\nIt’s a stark reminder of what some critics have warned for years: that open-weight AI models could put highly capable AI into the hands of potential attackers, with no way to police how they use the technology once they download the weights. With open-weight models rapidly approaching the capabilities of the world’s leading AI systems, the debate is moving from whether they can compete to how society manages risks once they are released. \n“The frontier of capability is not the frontier of risk, and so we do have to take into account the state of the mitigations as well to assess the risk properly,” Henry Papadatos, executive director of SaferAI, told TechCrunch.\nWhile Z.ai could apply safety measures to its hosted API, those protections become unenforceable once someone runs the weights on their own hardware, where they can remove or modify any safeguards, fine-tune the models, or change system prompts. \nFrontier developers like OpenAI and Anthropic tend to rely on safeguards like classifiers, refusal training, and API-level controls to limit dangerous cyber and biological assistance. \nThose measures are far from foolproof: jailbreaks routinely bypass protections on deployed models. Far.ai, an AI safety nonprofit, found hundreds of universal jailbreaks — defined as reusable keys that succeed on most harmful requests — in frontier models like xAI’s Grok 4.5 and Google DeepMind’s Gemini 3.1 Pro. According to the report, jailbreaks succeed when attackers combine multiple manipulation techniques — including roleplaying, authority impersonation, fake conversation history, and follow-up prompts — to amplify weak points in a model’s defenses. \nBut the safeguards in place for closed models don’t work at all on open-weight models, which are designed to run on any infrastructure with any set of safeguards — or lack thereof.\n“The objective should clearly be that the good capabilities — the safe ones — are accessible to anyone, and then we try to remove the bad ones, even in an open source fashion,” Papadatos said.\nOne technique Papadatos noted could help is called “pre-training data filtering,” which is when an AI company removes offensive cybersecurity information from their training data and then trains the model on the curated dataset. \nSome research suggests this can reduce hazardous biological knowledge without harming overall model performance. However, for cybersecurity, data filtering is much less practical. \nIt’s difficult to train a general model that excels at coding but isn’t also a good hacker. Because coding has become AI’s biggest moneymaker, developers face pressure to keep improving those capabilities even as they search for ways to limit misuse. \nBecause of that, frontier developers have increasingly relied on other mitigations instead. One approach has been to selectively restrict the kinds of cybersecurity assistance models will provide. Anthropic’s Opus 5, for example, can search for vulnerabilities in uncompiled source code, but not compiled software, per the model’s system card. The reasoning is that this makes it harder to use Opus 5 for offensive purposes. \nOthers include rigorous pre-deployment safety evaluations, publishing risk assessments, and withholding model weights if a system is perceived as too dangerous. \nIn GLM-5.2’s case, SaferAI says Z.ai didn’t publish a safety framework, pre-deployment testing commitments, or risk assessment for the model. TechCrunch has asked Z.ai whether it conducted internal or third-party frontier safety evaluations before release, but did not receive a response. \nChinese leaders have increasingly acknowledged the risks of advanced AI. At the World AI Conference last month, Chinese President Xi Jinping emphasized the importance of open-weight models, while also stressing the necessity of ensuring AI remains a tool under strict human control. \nGraham Webster, who studies Chinese AI policy at the Stanford Cyber Policy Center, told TechCrunch that China has robust regulations governing AI, but those rules have historically focused on politically sensitive content, misinformation, and social stability rather than catastrophic AI risks like offensive cyber capabilities and biological misuse. \n“U.S. AI thinkers are, in general, more concerned with this existential catastrophic [idea] than the Chinese community,” Webster said, adding that many Chinese policy researchers believe that if there’s truly going to be a novel frontier risk, American companies will likely encounter it first. \n“The Chinese system has confidence that they control the use of these technologies inside China,” Webster continued. “Being online in China is something you do attributed to your real name, and companies can be held accountable, users can be held accountable.”\nWebster mused that the same mechanism that model providers use for refusing to engage on certain political topics can potentially be tweaked to make sure models refuse to complete offensive cyber attacks or won’t deliver adverse biological engineering outcomes. He added that because Chinese companies tend to coordinate with regulators behind the scenes, it can be tough to know what internal testing they’re conducting before release.\nAdvocates of open-weight AI argue that releasing the weights is important for cybersecurity because it allows companies defend themselves against attacks — Hugging Face relied on GLM-5.2 to defend itself against OpenAI’s breach — and because it allows them to better prepare for future threats if they know what’s coming.\n“The same systems that helped stop an AI-powered cyberattack can now help defend against millions of cyberattacks every day, while helping us identify and fix vulnerabilities before attackers exploit them,” Clem Delangue, CEO of Hugging Face, said this week in a social media post.\nPapadatos said that benefit is often overstated, and doesn’t mean “we should open-source dangerous capabilities.” \n“The main point in my mind is that we shouldn’t just accept that dangerous capabilities are easily accessible by anyone anywhere,” he said, stressing that he believes the industry should be striving for only making the “good capabilities” easily accessible. By default attackers adopt new tools faster than defenders do. For example, a ransomware group can change its methods in a week. A hospital cannot.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "date": "2026-08-04T17:05:48.000Z",
+    "description": "\nBingers, a new TV show and movie-tracking app, has arrived to fill the hole that TV Time’s closure left. The new app is developed by one of TV Time’s",
+    "body": "\nBingers, a new TV show and movie-tracking app, has arrived to fill the hole that TV Time’s closure left. The new app is developed by one of TV Time’s original founders, Antonio Pinto, who said last month he would attempt to rebuild the best features of TV Time after its owner, Whip Media, decided to shut down the product to focus on AI efforts instead.\nWhip Media’s exit from the space surprised and upset TV Time’s loyal user base. The app had been installed more than 26.4 million times when it was shut down, decent traction for an app of this nature.\nAngered by the news of the closure, more than 28,000 users signed a petition begging Whip Media to save TV Time by offering support for crowdfunding donations or subscriptions. However, the app was shut down as planned.\nImage Credits:Bingers\nUnlike other trackers that let you simply mark whether you’ve watched a show or movie, users resonated with TV Time’s forum that let them socialize around the latest episode of their favorite content. That social element allowed users to make connections with other fans, leave posts and comments detailing their theories, make memes, and more.\n“I believe TV Time was a diamond in the rough that kind of lost its way,” Pinto told TechCrunch. “I was stunned to see that the community stayed so active and so big even after the app was neglected for years and received no updates. To me, that was the sign that TV Time had something unique that no other social platform has.”\nWith Bingers, Pinto aims to bring back that social element. It also offers a way to import data from TV Time’s archives. (TV Time provided a GDPR-compliant export tool before its removal from the app stores on July 15, 2026, which Bingers has offered to re-upload.)\nImage Credits:Bingers\nBingers has three main components: a tool that lets you track the shows and movies you watch or want to watch; a way to discover new things to watch; and a social network of sorts. \nLike TV Time, fans can create profiles and comment on shows and movies, including by adding media like photos and GIFs. They can also rate episodes, express their opinions with emojis, and vote on favorite characters — fun, interactive features that few TV trackers offer.\nMeanwhile, to address the issues around the financial costs that contributed to TV Time’s closure, Bingers has been designed to load users’ libraries on their phones, which allows the app to offload heavy processing, like your viewing calendar and watchlist, to users’ devices instead of the company’s servers, Pinto says.\nBingers will initially monetize by letting users contribute directly to aid with server costs, as they had petitioned TV Time to do. Longer term, Pinto has ideas around a business model that would bring people together in real life but isn’t sharing further details just yet.\nThe new app is available for both iOS and Android.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Open-weight AI models are catching up to the frontier. The safety gap remains. ",
+      "headline": "TV Time co-founder launches Bingers to revive the beloved TV-tracking app",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/08/Z.ai-GLM-5.2-chat.png?w=150"
+        "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2158978689.jpg?w=150"
       ],
-      "datePublished": "2026-08-04T20:05:26.000Z",
-      "dateModified": "2026-08-04T20:05:26.000Z",
+      "datePublished": "2026-08-04T17:05:48.000Z",
+      "dateModified": "2026-08-04T17:05:48.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "How to get the best hotel deals for TechCrunch Disrupt 2026 ",
+    "url": "https://techcrunch.com/2026/08/04/how-to-get-the-best-hotel-deals-for-techcrunch-disrupt-2026/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1145953370.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-08-04T22:18:30.000Z",
+    "description": "\nCongrats, you’re all set for TechCrunch Disrupt 2026! Or, you might still be on the fence and wondering about your accommodations. Either way, the re",
+    "body": "\nCongrats, you’re all set for TechCrunch Disrupt 2026! Or, you might still be on the fence and wondering about your accommodations. Either way, the reality is San Francisco can be an expensive place to stay, which is why we’ve partnered with hotels around Moscone West during Disrupt, taking place October 13 to 15, to secure the best prices available for attendees.  \nBefore diving into your options, there are a few key benefits to keep in mind: \n\nThese reservations can be canceled or modified without penalty. \n\n\nThere’s zero upfront cost to any of these reservations.\n\n\nYour rewards points and loyalty programs will work as expected. \n\n\nEach hotel is within walking distance of Moscone West, which means more time for that crucial pre-Disrupt coffee or more post-Disrupt networking.\n\nEach of these hotels provides a great mix of accessibility to Disrupt, and plenty of options for catering your San Francisco experience to your tastes. \nThe Hyatt Regency \nImage Credits:Smith Collection/Gado/Getty Images\nLocated right along the waterfront, the Hyatt Regency places you just a brief walk away from Disrupt and its many side events, and an even shorter distance from the city’s beloved Ferry Building. Hog Island Oyster Company or Gott’s Roadside make for great dining options, and if you’re extending your stay, you can take the ferry to scenic spots like Sausalito and Angel Island. \nHotel Zelos \nImage Credits:Smith Collection/Gado/Getty Images\nFor those with energy to spare after an exciting day at Disrupt, Hotel Zelos is a four-star hotel with a rooftop bar perfect for post-event conversations and meetups. Or for the urban explorers out there, it’s much easier to hop on public transportation if you want to have your post-Disrupt networking elsewhere in the city. \nInterContinental San Francisco \nImage Credits:Smith Collection/Gado/Getty Images\nYou can’t get any closer than the InterContinental, which sits right beside Moscone West and is the perfect home base for exploring the event and branching out into everything else. Within walking distance is the world-class San Francisco Museum of Modern Art and the Metreon theater — though we can’t promise its 70MM IMAX will still be playing the Odyssey… \nThe Grand Hyatt San Francisco \nImage Credits:Smith Collection/Gado/Getty Images\nThe Grand Hyatt towers over San Francisco, perched beside Union Square, where you can check out some of the city’s best restaurants or best shopping in your downtime. Explore old-school steak houses, new spins on Vietnamese cuisine, or one of the city’s most celebrated cocktail bars. Plus, it’s a quick walk from historic Chinatown and its many attractions. \nAnd if there’s a colleague you’d like to bring along, it’s not too late! Register a teammate and save on their pass while ensuring you both get the most out of the Disrupt experience. \nWith discounted hotel room blocks available for a limited time, we recommend booking early to secure your preferred hotel at the best price. Start getting your itinerary together right here. \nIf you remain on the fence, keep in mind that until 11:59 p.m. this Friday, August 7, we’re offering a limited-time flash sale on tickets, with this link giving you an extra $100 off founder, investor, or attendee tickets. And if you’re all set, we can’t wait to see you in San Francisco in October!  \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "How to get the best hotel deals for TechCrunch Disrupt 2026 ",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1145953370.jpg?w=150"
+      ],
+      "datePublished": "2026-08-04T22:18:30.000Z",
+      "dateModified": "2026-08-04T22:18:30.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+    "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/jensen-ces-2026-getty.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-08-04T19:28:49.000Z",
+    "description": "\nThe week-old Open Secure AI Alliance (OSAA), an industry group spearheaded by Nvidia that has already grown to over 120 companies, has developed a cu",
+    "body": "\nThe week-old Open Secure AI Alliance (OSAA), an industry group spearheaded by Nvidia that has already grown to over 120 companies, has developed a cutely named working group, the Shared AI Findings Exchange, or SAFE. The group is already presenting proposals for open comment, and the Linux Foundation, a member of the group, is managing the proposals.\nThe group developed them while members gathered at the nexus of the cybersecurity world, the Black Hat conference, taking place this week in Las Vegas.\nThe guidelines are nothing terribly earth-shattering for now. The proposals cover areas like how to confidentially report AI cybersecurity incidents, alert those affected, and then do blame-free analysis so all can learn from them.\nAt the same time, members of the OSAA are also contributing and cataloging bits and pieces of their open source technology that might be useful. This may, as these types of industry organizations go, eventually coalesce into an open source means for an enterprise to secure their AI agents, or defend against rogue AI attackers, such as the OpenAI model that infiltrated Hugging Face. (Hugging Face is also a member of this group.)\nFor instance, Nvidia has noted that it offers an entire family of open models, as well as an open source LLM vulnerability scanner called Garak; Okta is working on agent identity tech; Red Hat is working on agent governance; and Amazon has contributed both an open agent building tool, Strands Agents, and an authorization language, Cedar. And there are many more examples.\nThe group now includes a host of big names, including Adobe, BlackRock, Cisco, Intel, Microsoft, and Visa, but there are some notable absences, like Anthropic, OpenAI, and Google.\nInterestingly, both OpenAI and Google signed the original open letter that spawned this group. The letter, published last week, urged the White House to support open source AI efforts, not squash them. It was championed by Nvidia and signed by over 200 tech companies.\nWhile Anthropic’s cold shoulder to the letter and the industry group to date is not a surprise, both OpenAI and Google have released open weight models of their own. Google is generally known as a big supporter of open source, too. We’ll see if they join as this group builds momentum.\nMeanwhile, the group is operating at AI speeds. It’s only been a couple of weeks since news broke that the Trump administration was considering banning Chinese open weight models, causing the industry consternation that resulted in the open letter.\nWhatever ultimately happens with Chinese open weight models in the U.S., the fast action by this heavyweight group appears to be a good thing for the U.S. open AI ecosystem. Some in the ecosystem, like the co-founder and chief technology officer of U.S. open weight AI lab Arcee, say that’s ultimately the way to best any threat — real or imagined — that Chinese AI labs pose to the United States.\n“Openness may be one of the most important paths to AI safety and security,” this industry group wrote in their letter. Looks like they are ready to immediately put their effort — and their tech — where their mouths are.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/01/jensen-ces-2026-getty.jpg?w=150"
+      ],
+      "datePublished": "2026-08-04T19:28:49.000Z",
+      "dateModified": "2026-08-04T19:28:49.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth",
+    "url": "https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/gwynne-shotwell-spacex.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-08-04T20:36:30.000Z",
+    "description": "\nSpaceX doubled its revenue compared to last year, in large part thanks to the growth of its Starlink satellite internet service and deals it struck t",
+    "body": "\nSpaceX doubled its revenue compared to last year, in large part thanks to the growth of its Starlink satellite internet service and deals it struck to rent out computing power to Anthropic and Google, the company revealed in its first quarterly earnings since going public.\nTotal sales grew from $4 billion in the second quarter of 2025 to $7.8 billion in Q2 2026, a jump of 92%. Nearly $2 billion of that growth came from its AI division, while Starlink revenue also grew by $1.7 billion. The company still lost $541 million in the quarter, but that was down from $1 billion in the second quarter last year. \nSpaceX chief financial officer Bret Johnsen said on Tuesday that SpaceX has an additional $6.7 billion of cloud services revenue under contract “over a six month period that begins ramping starting in October of this year.” He also said he believes that, once it fully integrates AI startup Cursor, that it will reach a $100 billion annualized revenue run-rate [ARR] by the end of this year. (The company reported $18.67 billion in revenue in 2025.)\nCEO Elon Musk went even farther, saying: “the $100 billion ARR in December is not a question mark. That’s what we would achieve if we basically did nothing. So I think it may be higher than that. It probably will be higher than that.”\nAfter a successful post-IPO bond sale, the company now has a $100 billion war chest. And it’s not slowing its spending. It reported more than $28 billion in capital expenditures through the first half of this year, up from just $7 billion through the first six months of 2025.\nSpaceX’s first quarterly earnings report was released nearly two months after the company pulled off the largest IPO in history. SpaceX raised more than $85 billion and went public at a valuation of $1.75 trillion. \nThe company’s market cap rocketed up in the first few days of trading, briefly passing Amazon and nearly equaling Microsoft. But it has suffered since then, plunging below the IPO price of $135 per share reportedly set by CEO Elon Musk himself. The shares closed at just over $125 on Tuesday, but sank as much as 8% in after-hours trading.\nBoth of those compute deals were announced in the weeks before SpaceX’s IPO, and they represented a major pivot for the company. SpaceX’s AI division, which used to be Musk’s own startup xAI before it was absorbed into the rocket company, has been trying — but failing — to catch up to the leading labs like OpenAI and Anthropic and win over customers. These struggles were happening at the same time that xAI was creating repeated scandals, like when its Grok chatbot started calling itself “MechaHitler,” or how the tech was generating child sexual abuse material.\nThe company had already built out two data centers in and near Memphis, Tennessee to train xAI’s models, so it instead pivoted much of that capacity to be rented out to customers like Anthropic and Google. \n“The incremental revenue from new hosting deals generated high incremental EBITDA margins as we monetized available compute capacity,” Johnsen said on a conference call Tuesday.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/06/gwynne-shotwell-spacex.jpg?w=150"
+      ],
+      "datePublished": "2026-08-04T20:36:30.000Z",
+      "dateModified": "2026-08-04T20:36:30.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Waymo opens up robotaxi service in Dallas to everyone",
+    "url": "https://techcrunch.com/2026/08/04/waymo-opens-up-robotaxi-service-in-dallas-to-everyone/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/09/waymo-robotaxi-fifth-gen.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-08-04T17:31:01.000Z",
+    "description": "\nAutonomous car maker Waymo has dropped the waitlist for its robotaxi service in Dallas, opening it up to all residents and visitors. This is the late",
+    "body": "\nAutonomous car maker Waymo has dropped the waitlist for its robotaxi service in Dallas, opening it up to all residents and visitors. This is the latest step in the Alphabet-owned company’s bid to scale its self-driving technology across Europe, the United Kingdom, and the United States.\nWaymo said Tuesday that anyone can now download the app and immediately hail one of its robotaxis in Dallas.\nFor now, riders won’t be able to hail a ride to Dallas Love Field Airport. The company said it continues to test its self-driving vehicles at the airport and expects to serve riders there “soon.”\nThe company has had a presence in Dallas since last year, when it began testing its technology on public streets and announced plans to launch the service there in 2026. At the time, the company said it would partner with Avis Budget Group to manage its fleet of all-electric autonomous Jaguar I-Pace vehicles. Avis handles general depot operations, including charging and maintaining the vehicles. \nWaymo opened the service to the public in February, but initially limited access through a waitlist. Waymo said about 150,000 riders used the Waymo app during this period. Waymo no longer has the waitlist, following a robotaxi playbook that it has used in every other market, including Phoenix, Los Angeles, and San Francisco.\nThe company’s entry into Dallas had some early hiccups. In May, Waymo paused its service in Dallas, Houston, and San Antonio, Texas, as well as Atlanta, due to problems with how its robotaxis handled heavy rain and flooded roads. \nWhile robotaxi services have resumed in these cities, Waymo said it may adjust or temporarily pause operations based on severe weather, flood warnings, and real-time conditions in the future. A Waymo spokesperson said riders can check the status of its service via the Waymo app.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tKirsten Korosec is a reporter and editor who has covered the future of transportation from EVs and autonomous vehicles to urban air mobility and in-car tech for more than a decade. She is currently the transportation editor at TechCrunch and co-host of TechCrunch’s Equity podcast. She is also co-founder and co-host of the podcast, “The Autonocast.” She previously wrote for Fortune, The Verge, Bloomberg, MIT Technology Review and CBS Interactive.\nYou can contact or verify outreach from Kirsten by emailing kirsten.korosec@techcrunch.com or via encrypted message at kkorosec.07 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Waymo opens up robotaxi service in Dallas to everyone",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/09/waymo-robotaxi-fifth-gen.jpg?w=150"
+      ],
+      "datePublished": "2026-08-04T17:31:01.000Z",
+      "dateModified": "2026-08-04T17:31:01.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+    "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Great-British-Image.png?w=150",
+    "tag": "Tech",
+    "date": "2026-08-04T19:34:34.000Z",
+    "description": "\nA new app called Wrinkles uses your location to automatically surface stories about the places around you. Wrinkles, available on both iOS and Androi",
+    "body": "\nA new app called Wrinkles uses your location to automatically surface stories about the places around you. Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.\nThe idea behind the app is to allow you to move through the world while hearing the places around you come to life without having to stare at your phone. As you explore, Wrinkles can tell you the secrets behind a building, the history of a street, and other local lore. \nWrinkles was founded by David Stemler, a longtime advertising executive, and Ryan Hansan, who previously founded ScratchDC, a meal delivery service, and TasteLab, a shared commercial kitchen that helped independent food businesses launch and grow.\nThe pair have known each other since middle school and say travel has always been a defining part of their friendship. They began taking trips abroad together as teenagers and continue to travel together today, now with their families. Over the years, many of their business ideas have grown out of long conversations while traveling and questioning how the experiences around them could be improved. Wrinkles was born from that same curiosity.\nStemler came up with the idea for Wrinkles while visiting the British Museum in London and using its official app for a self-guided tour. Although he believed the app was well designed, Stemler found the experience frustrating.\n“I spent the entire visit heads-down, matching numbers on the walls to lists on my phone instead of taking in my surroundings while learning about them,” Stemler told TechCrunch in an email. At the end of his trip, he called Hansan from the airport and asked, ”If the phone in my pocket knows exactly where I am, shouldn’t the places in front of me be able speak?”\nImage Credits:Wrinkles\nThe startup has built a global foundation of 1.3 million Wrinkles, or points of interest, across 177 countries. Beyond this foundational content, historians, museums, creators, and brands can add their own stories and experiences to the map. Users can discover these stories as they move through the world or explore them remotely by searching and browsing the map.\nTo make the experience feel like a traditional tour, users can ask questions as they explore. For example, while learning about how the Trevi Fountain was built, you could ask a question like, “Where does this water actually come from?”\nThere’s also a social aspect to Wrinkles, as users can follow friends, family, creators, and organizations, then save and share Wrinkles or organize them into custom maps and guides.\nUsers can personalize their Wrinkles, too, by attaching family memories, photos, videos, and recordings to specific places. Families can collaborate on these histories to preserve stories tied to places like a childhood home, a first date location, or a hometown.\nHansan and Stemler see Wrinkles as more than a travel app. While it can help spontaneous travelers discover the stories behind new places, they believe it’s also designed for people who want to learn more about the buildings they pass every day or rediscover their own hometown.\n\n\n\n“The common thread isn’t travel — it’s curiosity,” Hansan said. “A travel app gets used on one trip a year. Wrinkles gets used on your commute, at the botanical garden, at the zoo with your kids, leaving a permanent legacy for a loved one, and on the trip to Spain.”\nWhile the duo has experimented with a freemium model, they say they’re committed to keeping the app free for users. Wrinkle’s revenue primarily comes from the supply side, with museums, tourism boards, universities, and hotels using Wrinkles to create location-based experiences for visitors without having to build their own apps.\nCreators and media partners can build sponsored place-based guides, while businesses can promote Wrinkles connected to their locations. Partners can also add links for users to book tours, reserve tables, buy tickets, or visit businesses, with Wrinkles earning a share of those transactions.\nAs for the company’s long-term vision, the duo sees Winkles becoming a normal part of how people navigate places, whether that means discovering the history of a college campus, learning more about their own city, exploring a map while planning a trip, or getting a deeper understanding of a city they’re visiting for the first time.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/08/Great-British-Image.png?w=150"
+      ],
+      "datePublished": "2026-08-04T19:34:34.000Z",
+      "dateModified": "2026-08-04T19:34:34.000Z",
       "author": [
         {
           "@type": "Person",
