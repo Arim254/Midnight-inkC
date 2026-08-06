@@ -1,21 +1,146 @@
 [
   {
-    "title": "Anthropic is hiring an AI chip design team",
-    "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-1484622878.jpeg?w=150",
+    "title": "Meta launches Muse Code, an AI agent for large code bases",
+    "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-2235448056.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-08-05T14:13:18.000Z",
-    "description": "\nIn Brief\nPosted:\n7:13 AM PDT · August 5, 2026\n\nImage Credits:MirageC / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nAnthropic is building ",
-    "body": "\nIn Brief\nPosted:\n7:13 AM PDT · August 5, 2026\n\nImage Credits:MirageC / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nAnthropic is building a team to design its own custom chips for AI usage.\nBusiness Insider was first to report on the news, but Anthropic has since confirmed with TechCrunch.\nThe Claude maker said it is planning to co-design hardware and models to help its technology run faster and more efficiently. Last month, The Information reported that Anthropic was scouting Samsung as a potential partner for building such chips.\nAnthropic’s decision to design its own chips comes as demand for Claude rises while AI companies snatch up as many AI infrastructure deals as they can. \nFor its part, Anthropic has inked deals with AWS, Google, Nvidia, and AMD to access AI computing hardware. But to really scale to meet the level of demand, relying on others clearly isn’t enough.\nAnthropic isn’t the first AI company to decide to build its own chip. In June, OpenAI unveiled its Broadcom-built Jalapeño chip, which is designed specifically for inference workloads. Google DeepMind has long relied on Alphabet’s TPU chips to power its AI models, while Meta has been developing its own MTIA accelerators for AI workloads. \nThe company is seeking engineers with experience in chip design for its “custom silicon team,” per a job listing.\nThis article has been updated to include confirmation from Anthropic. \n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in AI\n\n",
+    "date": "2026-08-05T21:21:28.000Z",
+    "description": "\nIn Brief\nPosted:\n2:21 PM PDT · August 5, 2026\n\nImage Credits:David Paul Morris/Bloomberg / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nMe",
+    "body": "\nIn Brief\nPosted:\n2:21 PM PDT · August 5, 2026\n\nImage Credits:David Paul Morris/Bloomberg / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nMeta, considered a bit of a straggler in the AI harnesses realm, is making strides to catch up. This week, the company released a new terminal coding agent aimed at programmers looking for assistance with complex tasks across large software code bases. \nMuse Code, which is currently available in beta, can accomplish “complete software engineering tasks across large repos,” Meta CEO Mark Zuckerberg said in a social media post on Wednesday. Those tasks include “planning changes, writing code, validating the results,” he added.\nCode, which can be installed with a single command, is powered by Meta’s previously released coding model, Muse Spark. It handles large projects by launching its own agents, which then work simultaneously.\n“When a job is big enough, it fans out to separate sub-agents working in parallel in isolated worktrees,” Zuckerberg explained. “Your working copy is never touched. In testing we had it build six features for a game simultaneously with no collisions.”\nThe move attempts to position Meta more competitively, and more affordably, with AI lab peers like OpenAI and its coding agent Codex, and Anthropic with Claude Code.\n“We think that for a lot of workflows and a lot of use cases, this can be an incredibly good option, especially from a cost perspective,” Alexandr Wang, Meta’s AI chief who leads Meta Superintelligence Labs, told the Wall Street Journal.\nMeta has been attempting to grow its AI presence by pouring money into development. In June, it expanded beyond its core focus of using AI to support its advertising business and entered the enterprise AI market with an agent aimed at customer service and support.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in AI\n\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Anthropic is hiring an AI chip design team",
+      "headline": "Meta launches Muse Code, an AI agent for large code bases",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-1484622878.jpeg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-2235448056.jpg?w=150"
       ],
-      "datePublished": "2026-08-05T14:13:18.000Z",
-      "dateModified": "2026-08-05T14:13:18.000Z",
+      "datePublished": "2026-08-05T21:21:28.000Z",
+      "dateModified": "2026-08-05T21:21:28.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Nikita Bier steps down as X’s head of product",
+    "url": "https://techcrunch.com/2026/08/05/nikita-bier-steps-down-as-xs-head-of-product/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/11/X-and-Threads-GettyImages-1763609384.jpeg?w=150",
+    "tag": "Tech",
+    "date": "2026-08-05T21:30:50.000Z",
+    "description": "\nIn Brief\nPosted:\n2:30 PM PDT · August 5, 2026\n\nImage Credits:Matt Cardy (opens in a new window) / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t",
+    "body": "\nIn Brief\nPosted:\n2:30 PM PDT · August 5, 2026\n\nImage Credits:Matt Cardy (opens in a new window) / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nNikita Bier has stepped down as head of product at X, Elon Musk’s social media platform, after a little more than a year in the role. \nBier wrote Wednesday that he thinks it’s “time to pass the torch and demote myself to my natural state: a poster,” adding that he’ll continue to advise the company. \nThe serial entrepreneur and Lightspeed venture partner took over the product lead role in July 2025. He wrote Wednesday that, while in the role, he oversaw the launch of 30 new products while “protecting the integrity of the town square.” \nOf course, Bier was also head of product during a number of scandals at X. Just a few days after he took the product lead role, the chatbot Grok — made by xAI, which was then a separate company owned by Musk — started calling itself “MechaHitler.” Grok has also been used by X users to generate nonconsensual nude imagery, including child sexual abuse material, which has gotten the platform in legal trouble.\n“X is, and will remain, the most important communication technology in history. But running this app is a 24/7 job and it’s now time for me to take a breather,” Bier wrote Wednesday.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Apps\n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Nikita Bier steps down as X’s head of product",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2023/11/X-and-Threads-GettyImages-1763609384.jpeg?w=150"
+      ],
+      "datePublished": "2026-08-05T21:30:50.000Z",
+      "dateModified": "2026-08-05T21:30:50.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Get up to $400 off your TechCrunch Disrupt 2026 pass until Friday",
+    "url": "https://techcrunch.com/2026/08/05/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/TCD26-Savings_400.png?w=150",
+    "tag": "Tech",
+    "date": "2026-08-05T22:55:43.000Z",
+    "description": "\nLet’s cut to the chase: Starting today, you can take an additional $100 off of our current $300 discount for your founder, investor, or attendee Tech",
+    "body": "\nLet’s cut to the chase: Starting today, you can take an additional $100 off of our current $300 discount for your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing. \nThis flash sale will run all week, up until Friday, August 7 at 11:59 p.m. PT. This discount will mark your last chance at a bonus deal before our next pricing tier kicks in on August 21. \nRegister with this link to lock in your extra $100 off.\nIf you need to learn more before locking in your plans, Disrupt takes over Moscone West from October 13–15, bringing more than 10,000 founders, VCs, tech industry innovators, and builders for three days built around one thing: creating momentum for future success. \nThis isn’t a passive conference you simply watch — it’s a curated itinerary of speakers, workshops, network opportunities and post-event excitement for those actively building, investing, and looking for what’s next. \nThe Disrupt Stage: The conversations everyone will be talking about \nThe Disrupt Stage is our flagship programming, and we just revealed the initial lineup. We’ll dig into the biggest shifts in tech right now, whether it’s a post-smartphone future with Amazon’s SVP of Devices and Services Panos Panay; the real implications of a world in which everyone can develop their own software, with Replit founder and CEO Amjad Masad; and much, much more. \nBut that’s just one stage. Disrupt 2026 also features the: \nAI Stage, covering the security gaps and business model shifts AI is forcing on every SaaS company.\nNew Smart Money Stage, tackling stablecoins, instant payments, and AI’s role in financial trust. \nNew Smart Systems Stage, with a perspective on fusion breakthroughs and grid strain powering AI’s next decade. \nBuilders Stage, the long-standing favorite stage where founders and investors get tactical about raising, hiring, and scaling. \nImage Credits:Slava Blazer Photography\nBeyond the stages \nMost Disrupt passes also unlock Startup Battlefield, where 200 startups will compete live for the Battlefield Cup. You’ll also get access to networking opportunities driven by your needs as a founder, investor, or learner, plus our Expo Hall, where hundreds of startups showcase their work. \nThis flash sale ends Friday \nAfter 11:59 p.m. PT on Friday, August 7, this extra $100 savings goes away. Regular discounted pricing ends on August 21. If Disrupt is on your radar for this year, this is the best deal you’ll get between now and the event. \nSave an extra $100 before Friday.\nWe’ll see you October 13–15 at Moscone West in San Francisco! \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Get up to $400 off your TechCrunch Disrupt 2026 pass until Friday",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/08/TCD26-Savings_400.png?w=150"
+      ],
+      "datePublished": "2026-08-05T22:55:43.000Z",
+      "dateModified": "2026-08-05T22:55:43.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Trump’s DOJ gains oversight of OpenAI’s green-card employee sponsorships",
+    "url": "https://techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-08-05T21:05:37.000Z",
+    "description": "\nThe Justice Department’s Civil Rights Division announced on Wednesday that OpenAI, and its once-subsidiary Statsig, signed a settlement that includes",
+    "body": "\nThe Justice Department’s Civil Rights Division announced on Wednesday that OpenAI, and its once-subsidiary Statsig, signed a settlement that includes three years of oversight over the AI lab’s hiring practices.\nThe DOJ has alleged that these companies used various tactics to prevent U.S. citizens from applying for jobs held by immigrant employees when the companies were sponsoring those workers for permanent U.S. residence. The companies did not admit to wrongdoing, although they did agree to pay $3.2 million. Of that, $1.2 million is a fine and the remaining $2 million is being set aside to pay restitution to U.S. citizens who applied to those jobs, should the DOJ find any who were harmed.\nThe DOJ alleged that OpenAI and Statsig broke provisions of the Immigration and Nationality Act (INA) by not truly looking for qualified U.S. citizens for these jobs before pursuing permanent residence applications (PERM) as the INA requires. The DOJ said they didn’t list roles on public job boards, advertised on the radio late at night, and required paper applications rather than electronic ones.\nWhile there were fewer than 10 roles at issue, the DOJ said that as part of the settlement, the companies must pay the fine and submit to oversight by the department over their PERM roles. Oversight includes items such as drafting and obtaining approval for their PERM-role hiring policies and submitting semiannual reports. Those reports must include how many applications for foreign employees they pursued, how many U.S. citizens they interviewed, and other statistics.\nOpenAI acquired AI A/B testing company Statsig in September 2025 and later divested at least part of the business in May 2026. The DOJ, however, says it began investigating both companies separately before the acquisition, in August 2025, including five cases at OpenAI between 2023 and 2025, and one at Statsig.\nThe DOJ says that this settlement is part of its increased crackdown on companies over the matter. However, the INA, a law passed in 1952, has been enforced by other administrations against other Big Tech companies. During Biden’s administration, for instance, both Facebook and Apple signed similar settlements, though in both of those cases the DOJ alleged that the violations were widespread and systematic.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Trump’s DOJ gains oversight of OpenAI’s green-card employee sponsorships",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=150"
+      ],
+      "datePublished": "2026-08-05T21:05:37.000Z",
+      "dateModified": "2026-08-05T21:05:37.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Moove raises $250M to become the backbone of the robotaxi industry",
+    "url": "https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/08/6D76F699-3990-44C1-ABE5-7E1EFD99011E.jpeg?w=150",
+    "tag": "Tech",
+    "date": "2026-08-05T20:50:45.000Z",
+    "description": "\nMoove’s evolution from a vehicle financing startup to ride-hailing and deliveries in Africa to one that also owns autonomous vehicles may seem like a",
+    "body": "\nMoove’s evolution from a vehicle financing startup to ride-hailing and deliveries in Africa to one that also owns autonomous vehicles may seem like a leap. But co-founder and co-CEO Ladi Delano said the experience in financing and human-driven ride-hailing fleets was the ideal training ground for its latest pursuit.\nAnd now it has raised $250 million at a $2.1 billion valuation to scale that business.\nThe company, founded in 2020 in Nigeria and now headquartered in Dubai, said Mubadala Investment Company led this latest Series C round, with Woven Capital and Ion Pacific as co-leads.\nMoove is still very much in the human-driven ride-hailing business. It owns and operates a 42,000-vehicle ride-hailing fleet across 14 countries. The company, which employs 3,300 people globally, also still provides vehicle financing to gig drivers.\nIts expansion into autonomous vehicles started in early 2023 after evaluating the industry and its four main players in this nascent ecosystem: the AV developers, vehicle manufacturers, marketplaces like Uber, and the consumer. None of these players want to “own the metal,” Delano told TechCrunch, referring to the vehicles.\n“In this world, who owns the vehicle? Who operates the vehicle? Who orchestrates the vehicle? Who does the servicing, the maintenance? Who does the lost property? Who does the cleaning?” Delano asked. It became clear, he added, that Moove’s experience managing large fleets and providing financing could translate to autonomous vehicle operations. \n“Let’s create a product where we own, operate, and orchestrate autonomous vehicles, and let’s go and find partners to do it with — and that’s essentially what we did,” Delano said. “In 2023, we started talking to every single AV company you could imagine, and as you know — God would have it, luck would have it — we managed to partner with Waymo first.”\nMoove is the fleet operator for Waymo in Phoenix, Miami, and Las Vegas, and in the future, London. The company doesn’t own the Waymo vehicles, but it plans to. Moove intends to use debt financing to purchase the robotaxis. Delano didn’t share a timeline for when Moove will start buying Waymo robotaxis. He did say Moove already owns robotaxi vehicles from another AV developer, although he wouldn’t disclose which company.\n“Ultimately our vision is to own, you know, hundreds of thousands of vehicles,” he said, referring to robotaxis.\nThis latest funding will be used to scale the company’s autonomous vehicle fleet management business, including hiring about 350 people. (Delano said its traditional mobility business is set to achieve full profitability this year.) Some of the capital will also go toward developing automated depots that it calls “nests.” These “nests” will be able to operate around the clock and use robotics to automate vehicle charging, maintenance, and servicing.\nMoove has about 15 depots that are in some stage of development. Delano wouldn’t say when its automated, “lights-out” depots would come online, noting that this is a future product. \nOther backers in the round include BlueCrest Capital Management, Sona Asset Management, and Raptor Group, BlackRock, MUFG, Franklin Templeton, Uber, Left Lane, Silverbacks Holdings, Square Associates, The Latest Ventures, Endeavor Catalyst, and the Ontario Power Generation Pension Plan. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tKirsten Korosec is a reporter and editor who has covered the future of transportation from EVs and autonomous vehicles to urban air mobility and in-car tech for more than a decade. She is currently the transportation editor at TechCrunch and co-host of TechCrunch’s Equity podcast. She is also co-founder and co-host of the podcast, “The Autonocast.” She previously wrote for Fortune, The Verge, Bloomberg, MIT Technology Review and CBS Interactive.\nYou can contact or verify outreach from Kirsten by emailing kirsten.korosec@techcrunch.com or via encrypted message at kkorosec.07 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Moove raises $250M to become the backbone of the robotaxi industry",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2023/08/6D76F699-3990-44C1-ABE5-7E1EFD99011E.jpeg?w=150"
+      ],
+      "datePublished": "2026-08-05T20:50:45.000Z",
+      "dateModified": "2026-08-05T20:50:45.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+    "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-05-at-8.53.41-PM.png?w=150",
+    "tag": "Tech",
+    "date": "2026-08-05T20:05:00.000Z",
+    "description": "\nPublicly traded e-commerce marketing automation platform Klaviyo has agreed to acquire Agency, a three-year-old AI-powered customer success startup f",
+    "body": "\nPublicly traded e-commerce marketing automation platform Klaviyo has agreed to acquire Agency, a three-year-old AI-powered customer success startup founded by serial entrepreneur Elias Torres. The terms of the deal were not disclosed.\nFounded in 2023, Agency had raised $32 million from investors, including Sequoia, Menlo Ventures, and Felicis prior to the acquisition.\nAs part of the deal, Torres (pictured left) will join Klaviyo as chief product officer, leading Agency’s 25-person team to accelerate the development and expansion of Klaviyo’s AI agents: Composer, which builds marketing campaigns, and Customer Agent, which handles post-sale support like returns and order tracking.\n“Elias and the team built a great product with Agency,” Klaviyo co-founder and CEO Andrew Bialecki (pictured right) told TechCrunch. “We’re going to take that and combine it with our agent products and try to bring that to 200,000 businesses — and hopefully to millions more over the next couple of years.”\nFor Torres, joining Klaviyo brings his career full circle. He is no stranger to M&A exits, having co-founded Performable (acquired by HubSpot in 2011) and later Drift, where he served as CTO for eight years until its $1.2 billion sale to Vista Equity in 2021.\nBack in 2010 at Performable, Torres hired Bialecki, who had graduated from Harvard two years earlier, as one of that startup’s first engineers. Torres mentored Bialecki on early-stage startup dynamics. “He soaked it up in a short amount of time,” Torres recalled of their time working together.\nBialecki co-founded Klaviyo, which he initially bootstrapped, shortly after leaving Performable. When Klaviyo raised its first outside capital in 2015, Bialecki invited Torres to back the seed round as an angel investor.Klaviyo went on to complete a high-profile IPO in September 2023 at a $9.2 billion valuation.\nWhile Klaviyo’s stock has taken a hit alongside other SaaS companies, Torres and Bialecki believe the platform’s years of customer data give its AI agents an advantage over competitors like Decagon and Sierra.\n“Elias and I coalesced on the mission of how we provide agents for businesses that they can give to their customers,” Bialecki said, adding that he is excited to work with Torres again, as he did at the beginning of the cloud era. “It’s the next Big Tech revolution: agents. Let’s get the band back together, and let’s go build.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tMarina Temkin is a venture capital and startups reporter at TechCrunch. Prior to joining TechCrunch, she wrote about VC for PitchBook and Venture Capital Journal. Earlier in her career, Marina was a financial analyst and earned a CFA charterholder designation.\r\nYou can contact or verify outreach from Marina by emailing marina.temkin@techcrunch.com or via encrypted message at +1 347-683-3909 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-05-at-8.53.41-PM.png?w=150"
+      ],
+      "datePublished": "2026-08-05T20:05:00.000Z",
+      "dateModified": "2026-08-05T20:05:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -75,17 +200,42 @@
     }
   },
   {
-    "title": "How Lightspeed found their newest hire… via Instagram DM",
-    "url": "https://techcrunch.com/2026/08/05/how-lightspeed-found-their-newest-hire-via-instagram-dm/",
+    "title": "Zoox to start charging for robotaxi rides in Las Vegas",
+    "url": "https://techcrunch.com/2026/08/05/zoox-to-start-charging-for-robotaxi-rides-in-las-vegas/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Zoox-Robotaxi-Vegas-traffic.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-08-05T15:06:42.000Z",
+    "description": "\nNearly a year ago, Zoox opened its robotaxi service to the public in Las Vegas. Now, it is ready to start charging for those rides.\nThe Amazon-owned ",
+    "body": "\nNearly a year ago, Zoox opened its robotaxi service to the public in Las Vegas. Now, it is ready to start charging for those rides.\nThe Amazon-owned autonomous vehicle technology company said that it will start charging for rides in Las Vegas starting August 10, marking the launch of its commercial operations. The company has spent years working toward this moment.\nThe Silicon Valley startup was founded in 2014 with a plan to develop a custom-built electric vehicle and the self-driving stack that would drive it, as well as an on-demand ridesharing app. The company was acquired by Amazon in 2020, and later that year unveiled its robotaxi, a cube-like vehicle equipped with a self-driving system, loads of sensors, and a moonroof, but no steering wheel or pedals. Zoox has spent the past six years testing the vehicle and updating the hardware.\nZoox has faced a number of hurdles over its 12 years, spanning funding, technical development, securing the proper permits for testing, and even several recalls. One major obstacle was lifted last week when federal safety regulators gave Zoox a temporary exemption from certain federal motor vehicle safety standards.\nThe exemption, issued by the National Highway Traffic Safety Administration (NHTSA), allows the company to charge customers for rides in its robotaxis. Because Zoox vehicles lack many of the traditional controls required under federal law, it needed an exemption in order to operate.\nZoox received an exemption last year that allowed it to demonstrate its robotaxis, but not charge. The commercial exemption, which lasts two years and allows Zoox to deploy up to 2,500 vehicles, spans eight federal motor vehicle standards, including windshield defrosting and light vehicle braking systems.\nThe startup also offers robotaxis in other markets, such as San Francisco and Austin, but it will have to offer them for free for now. In California, Zoox still needs two more permits to operate commercially.\nZoox said robotaxi fares will be calculated based on a base fare, plus distance and time traveled from pick-up to drop-off. The company said the final fee will be calculated based on the best route, and be visible before booking. That fare will not change even if the Zoox robotaxi ends up taking a different route.\nDestination fees, such as trips to or from the airport, or a high-traffic event at the Sphere or T-Mobile Arena, may also be included in the pricing, the company said. Zoox said it is trying to be competitive with the “comfort” pricing levels offered by traditional ride-hail services.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tKirsten Korosec is a reporter and editor who has covered the future of transportation from EVs and autonomous vehicles to urban air mobility and in-car tech for more than a decade. She is currently the transportation editor at TechCrunch and co-host of TechCrunch’s Equity podcast. She is also co-founder and co-host of the podcast, “The Autonocast.” She previously wrote for Fortune, The Verge, Bloomberg, MIT Technology Review and CBS Interactive.\nYou can contact or verify outreach from Kirsten by emailing kirsten.korosec@techcrunch.com or via encrypted message at kkorosec.07 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Zoox to start charging for robotaxi rides in Las Vegas",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/08/Zoox-Robotaxi-Vegas-traffic.jpg?w=150"
+      ],
+      "datePublished": "2026-08-05T15:06:42.000Z",
+      "dateModified": "2026-08-05T15:06:42.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "How Lightspeed found its newest hire … via Instagram DM",
+    "url": "https://techcrunch.com/2026/08/05/how-lightspeed-found-its-newest-hire-via-instagram-dm/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/Jpeg.jpg?w=150",
     "tag": "Tech",
     "date": "2026-08-05T20:48:56.000Z",
     "description": "\nEarlier this year, Lightspeed made headlines when it announced that Claire Zau, an investor and popular tech content creator, would join the venture ",
-    "body": "\nEarlier this year, Lightspeed made headlines when it announced that Claire Zau, an investor and popular tech content creator, would join the venture firm. She has more than 100,000 followers on TikTok and over 250,000 followers on Instagram, where she breaks down the day’s biggest tech trends. \nLightspeed partners Josh Machiz and Zau stopped by the Equity studio to talk about the strategy behind their growing social media presence, their podcast, Lightwork, and how it all started with a direct message on Instagram. \n“A lot of people want to participate in the future and are excited about technology,” Zau told Equity. “They just don’t have the facts presented to them in an accessible way. So that’s hopefully the role I feel very lucky and privileged to play.” \nZau, in many ways, is part of a new class of venture operators using social media to connect with new audiences, whether that’s people who are simply tech curious or future founders who may then turn to Lightspeed for a check.\nThe podcast she co-hosts with Machitz, Lightspeed’s CMO, is part of the new media trend that many venture firms are embracing, where firms take on a greater role in helping their portfolio companies share their stories with the world. \n“There’s less and less traditional journalism out there because of layoffs and the consolidation in media,” Machitz said. “If you’re a startup, it’s harder to get your story out there. There are less places to go to get it out. There’s now pretty heavy bars to get your funding story out. And so we hope to also be able to provide in the new media world another opportunity to tell your story.” \nSo far, the duo — and the firm — see some benefits to expanding the Lightspeed media empire. Connecting with early founders is the main one, but being online also helps them get real-time feedback on investments and new technology. For example, Zau talked about how, within the Silicon Valley bubble, everyone was so excited to cut a check for a new AI startup, but then she would talk about the investment online and get the sense that Gen Z was actually quite anti-AI. \n“It was, I would even say, humbling,” she said of the direct feedback she would get to some of her videos. “It’s so helpful to have basically real-time visibility into how people are using these technologies and what kinds of narratives are hitting.” \nMachiz and Zau also spoke to Equity about what comes next for them. Another podcast? A TV show one day? “Our goal is to be the place where hopefully future founders learn about venture, understand the ecosystem,” Machiz said. “We’re still early days.” \nListen to hear more of the conversation — and what Machiz and Zau have planned next. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tDominic-Madori Davis is a senior venture capital and startup reporter at TechCrunch. She is based in New York City.\r\nYou can contact or verify outreach from Dominic by emailing dominic.davis@techcrunch.com or via encrypted message at +1 646 831-7565 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "body": "\nEarlier this year, Lightspeed made headlines when it announced that Claire Zau, an investor and popular tech content creator, would join the venture firm. She has more than 100,000 followers on TikTok and over 250,000 followers on Instagram, where she breaks down the day’s biggest tech trends. \nLightspeed partners Josh Machiz and Zau stopped by the Equity studio to talk about the strategy behind their growing social media presence; their podcast, Lightwork; and how it all started with a direct message on Instagram.\n“A lot of people want to participate in the future and are excited about technology,” Zau told Equity. “They just don’t have the facts presented to them in an accessible way. So that’s hopefully the role I feel very lucky and privileged to play.” \nZau, in many ways, is part of a new class of venture operators using social media to connect with new audiences, whether that’s people who are simply tech curious or future founders who may then turn to Lightspeed for a check.\nThe podcast she co-hosts with Machiz, Lightspeed’s CMO, is part of the new media trend that many venture firms are embracing, where firms take on a greater role in helping their portfolio companies share their stories with the world. \n“There’s less and less traditional journalism out there because of layoffs and the consolidation in media,” Machiz said. “If you’re a startup, it’s harder to get your story out there. There are less places to go to get it out. There’s now pretty heavy bars to get your funding story out. And so we hope to also be able to provide in the new media world another opportunity to tell your story.” \nSo far, the duo — and the firm — see some benefits to expanding the Lightspeed media empire. Connecting with early founders is the main one, but being online also helps them get real-time feedback on investments and new technology. For example, Zau talked about how, within the Silicon Valley bubble, everyone was so excited to cut a check for a new AI startup, but then she would talk about the investment online and get the sense that Gen Z was actually quite anti-AI. \n“It was, I would even say, humbling,” she said of the direct feedback she would get to some of her videos. “It’s so helpful to have basically real-time visibility into how people are using these technologies and what kinds of narratives are hitting.” \nMachiz and Zau also spoke to Equity about what comes next for them. Another podcast? A TV show one day? “Our goal is to be the place where hopefully future founders learn about venture, understand the ecosystem,” Machiz said. “We’re still early days.” \nListen to hear more of the conversation — and what Machiz and Zau have planned next. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tDominic-Madori Davis is a senior venture capital and startup reporter at TechCrunch. She is based in New York City.\r\nYou can contact or verify outreach from Dominic by emailing dominic.davis@techcrunch.com or via encrypted message at +1 646 831-7565 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "How Lightspeed found their newest hire… via Instagram DM",
+      "headline": "How Lightspeed found its newest hire … via Instagram DM",
       "image": [
         "https://techcrunch.com/wp-content/uploads/2026/08/Jpeg.jpg?w=150"
       ],
@@ -125,156 +275,6 @@
     }
   },
   {
-    "title": "Disney+ looks to TikTok creators to bring fan content to its short-form video feed",
-    "url": "https://techcrunch.com/2026/08/05/disney-looks-to-tiktok-creators-to-bring-fan-content-to-its-short-form-video-feed/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1233058211.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-08-05T13:21:43.000Z",
-    "description": "\nDisney is partnering with TikTok to bring Disney-focused fan content directly into the Disney+ app. The companies are starting with a pilot program i",
-    "body": "\nDisney is partnering with TikTok to bring Disney-focused fan content directly into the Disney+ app. The companies are starting with a pilot program in the U.S. in the coming months, and plan to expand to additional markets later on.\nAs part of the agreement, fan-made videos on TikTok about Pixar, Marvel, Star Wars, and other franchises will be featured in the “Verts” section of Disney+, the streamer’s short-form video feed that rolled out a few months ago. \nDisney has been working to flesh out the amount and variety of content on the video feed. The company late last year committed to making a significant $1 billion investment in OpenAI as part of a three-year licensing deal that would let people create short videos using Disney characters on the AI lab’s video generation platform, Sora. However, those plans fell through after OpenAI suddenly decided to shut down Sora in March.\nThis partnership with TikTok seems like a natural progression of that, especially as many streaming platforms are competing with social platforms for users’ attention. This competition is partly why Disney launched the Verts feature in the first place, along with Netflix, HBO Max, and Prime Video. \nThe deal also indicates that Disney is acknowledging that the next generation of talent is on social media. The company said that, through the newly launched Disney Creator Ambassador Program, TikTok creators will gain access to the media giant’s vast library of content, as well as opportunities to earn rewards, increase visibility, attend exclusive events, and pursue career opportunities. \nOther streaming services, such as Tubi and Peacock, have collaborated with TikTok creators to produce original long-form content for their platforms.\nThe timing of the announcement aligns with Disney’s Q3 results. The company reported its subscription video-on-demand (SVOD) operating income more than doubled to $712 million from $329 million a year earlier. Plus, in a restructuring move, Disney has decided to shift its consumer products business from the Experiences division to Studios.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tLauren covers media, streaming, apps and platforms at TechCrunch.\nYou can contact or verify outreach from Lauren by emailing laurenf.techcrunch@gmail.com or via encrypted message at laurenforris22.25 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Disney+ looks to TikTok creators to bring fan content to its short-form video feed",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1233058211.jpg?w=150"
-      ],
-      "datePublished": "2026-08-05T13:21:43.000Z",
-      "dateModified": "2026-08-05T13:21:43.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
-    "url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/MacPaw-x-Liquid-AI.png?w=150",
-    "tag": "Tech",
-    "date": "2026-08-05T12:28:38.000Z",
-    "description": "\nUkraine-based app developer MacPaw has partnered with Liquid AI to power its products with locally hosted AI models, and eventually make the tech sta",
-    "body": "\nUkraine-based app developer MacPaw has partnered with Liquid AI to power its products with locally hosted AI models, and eventually make the tech stack available to developers. The company is also preparing its SetApp app store for AI apps with credit-based plans for users.\nMacPaw is currently working on its AI assistant Eney, which it unveiled last year, and now plans to build a locally hosted version, for which it has roped in Liquid AI to develop an on-device inference system called Elix as well as a local memory system.\n“Before training our models, we select an architecture that is different and tailored to the hardware. That allows us to really have the most efficient version of intelligence that runs directly on the device, with benefits like privacy and security,” Liquid AI’s co-founder and CEO Ramin Hasani told TechCrunch.\nMacPaw’s CEO Oleksandr Kosovan said locally hosted AI models will also give users the ability to run assistants and agentic workflows offline.\nNotably, Apple already provides its own local models to developers. But Hasani maintains that Liquid AI’s models focus on performance for different capabilities.\n“We are also building a customization stack around models. This means that with user input, the models can use the data and improve. We want our models to be adaptable and become more intelligent over time,”  Hasani said.\nMacPaw plans to focus more on AI apps for its subscription-based app store, SetApp, which has over 150,000 paying users.\nOnce it locks in the local processing architecture with Liquid AI, MacPaw wants to make the tech available to developers so they can use on-device inference with their apps. Kosovan said the platform will also provide access to other cloud models from companies like Google, acting as a one-stop shop for developers. \nMacPaw is already experimenting with credit-based pricing for the app store, where users can perform a certain number of AI operations based on the credits they have and the complexity of the task.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/08/MacPaw-x-Liquid-AI.png?w=150"
-      ],
-      "datePublished": "2026-08-05T12:28:38.000Z",
-      "dateModified": "2026-08-05T12:28:38.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Robinhood to list a fund that lets anyone back Y Combinator startups",
-    "url": "https://techcrunch.com/2026/08/05/robinhood-to-list-a-fund-that-lets-anyone-back-y-combinator-startups/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1331294668-e1717675852775.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-08-05T12:23:52.000Z",
-    "description": "\nRobinhood this week unveiled a financial instrument that lets anyone feel like they, too, can make money by backing Y Combinator startups.\nRobinhood ",
-    "body": "\nRobinhood this week unveiled a financial instrument that lets anyone feel like they, too, can make money by backing Y Combinator startups.\nRobinhood Venture Fund II (RVII) is expected to become a publicly traded fund on August 13 at an opening price of $25 per share.\nThe fund intends to raise as much as $200 million, Reuters reports, and use that money to invest in startups founded by current and former Y Combinator participants, should those startups agree to sell their shares.\nWhile any retail investor can buy shares in the fund, they will not directly hold any shares in the startups. Investors will be able to trade their shares in the fund, but it’s unclear how much profit they can expect to make should the YC companies manage big exits.\nThe fund intends to pay the 2/20 fees typical in the VC world to another entity owned by Robinhood, plus tack on extra fees. That means Robinhood’s unit will collect 2% of the net returns as a management fee, plus other fees, taking the total to just over 4%, the company said. The fund will also pay the Robinhood unit 20% “carried interest” (commonly called “carry”). That means if enough Y Combinator companies have good exits for the fund to make money, that Robinhood unit will get 20% of the resulting returns.\nBut RVII doesn’t appear to have an end date for returning its remaining profits to investors, unlike VC funds, which typically tend to run for about 10 years. Nor does RVII appear to promise regular distributions of cash profits. It may issue such distributions, but investors may largely have to bank on returns from the fund’s rising stock price. (We’ve asked Robinhood for more information about this.)\nIt’s certainly possible to make money by trading the fund’s shares. Robinhood Ventures Fund I (NYSE: RVI), which was also founded to buy shares in hot private companies like Databricks, Mercor, and OpenAI, routinely trades above its IPO price of $21.\nIt’s equally possible to lose money: After peaking at over $56 in May, RVI’s stock now trades at around $28 per share.\nRobinhood has also gotten some pushback on other schemes that tried to tie financial products to the names of valuable private companies. In 2025, it sold crypto assets described as tokenized shares of OpenAI and SpaceX. OpenAI condemned these, saying it wasn’t involved, and that the tokens did not represent any holdings in the company.\nThis fund, however, appears to operate more akin to a special purpose vehicle than to that 2025 crypto vehicle. It is buying actual shares. So, for anyone that likes the idea of betting on the YC pedigree, this is certainly a very Silicon Valley way to go.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Robinhood to list a fund that lets anyone back Y Combinator startups",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1331294668-e1717675852775.jpg?w=150"
-      ],
-      "datePublished": "2026-08-05T12:23:52.000Z",
-      "dateModified": "2026-08-05T12:23:52.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
-    "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-05-at-8.53.41-PM.png?w=150",
-    "tag": "Tech",
-    "date": "2026-08-05T20:05:00.000Z",
-    "description": "\nPublicly traded e-commerce marketing automation platform Klaviyo has agreed to acquire Agency, a three-year-old AI-powered customer success startup f",
-    "body": "\nPublicly traded e-commerce marketing automation platform Klaviyo has agreed to acquire Agency, a three-year-old AI-powered customer success startup founded by serial entrepreneur Elias Torres. The terms of the deal were not disclosed.\nFounded in 2023, Agency had raised $32 million from investors including Sequoia, Menlo Ventures, and Felicis prior to the acquisition.\nAs part of the deal, Torres (pictured left) will join Klaviyo as chief product officer (CPO), leading Agency’s 25-person team to accelerate the development and expansion of Klaviyo’s AI agents: Composer, which builds marketing campaigns, and Customer Agent, which handles post-sale support like returns and order tracking\n“Elias and the team built a great product with Agency,” Klaviyo co-founder and CEO Andrew Bialecki (pictured right) told TechCrunch. “We’re going to take that and combine it with our agent products and try to bring that to 200,000 businesses—and hopefully to millions more over the next couple of years.”\nFor Torres, joining Klaviyo brings his career full circle. He is no stranger to M&A exits, having co-founded Performable (acquired by HubSpot in 2011) and later Drift, where he served as CTO for eight years until its $1.2 billion sale to Vista Equity in 2021.\nBack in 2010 at Performable, Torres hired Bialecki, who had graduated from Harvard two years earlier, as one of that startup’s first engineers. Torres mentored Bialecki on early-stage startup dynamics. “He soaked it up in a short amount of time,” Torres recalled of their time working together.\nBialecki co-founded Klaviyo, which he initially bootstrapped, shortly after leaving Performable. When Klaviyo raised its first outside capital in 2015, Bialecki invited Torres to back the seed round as an angel investor.Klaviyo went on to complete a high-profile IPO in September 2023 at a $9.2 billion valuation.\nWhile Klaviyo’s stock has taken a hit alongside other SaaS companies, Torres and Bialecki believe the platform’s years of customer data give its AI agents an advantage over competitors like Decagon and Sierra.\n“Elias and I coalesced on the mission of how we provide agents for businesses that they can give to their customers,” Bialecki said, adding that he is excited to work with Torres again as he did at the beginning of the cloud era. “It’s the next big tech revolution: agents. Let’s get the band back together, and let’s go build.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tMarina Temkin is a venture capital and startups reporter at TechCrunch. Prior to joining TechCrunch, she wrote about VC for PitchBook and Venture Capital Journal. Earlier in her career, Marina was a financial analyst and earned a CFA charterholder designation.\r\nYou can contact or verify outreach from Marina by emailing marina.temkin@techcrunch.com or via encrypted message at +1 347-683-3909 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-05-at-8.53.41-PM.png?w=150"
-      ],
-      "datePublished": "2026-08-05T20:05:00.000Z",
-      "dateModified": "2026-08-05T20:05:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Zoox to start charging for robotaxi rides in Las Vegas",
-    "url": "https://techcrunch.com/2026/08/05/zoox-to-start-charging-for-robotaxi-rides-in-las-vegas/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Zoox-Robotaxi-Vegas-traffic.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-08-05T15:06:42.000Z",
-    "description": "\nNearly a year ago, Zoox opened its robotaxi service to the public in Las Vegas. Now, it is ready to start charging for those rides.\nThe Amazon-owned ",
-    "body": "\nNearly a year ago, Zoox opened its robotaxi service to the public in Las Vegas. Now, it is ready to start charging for those rides.\nThe Amazon-owned autonomous vehicle technology company said that it will start charging for rides in Las Vegas starting August 10, marking the launch of its commercial operations. The company has spent years working toward this moment.\nThe Silicon Valley startup was founded in 2014 with a plan to develop a custom-built electric vehicle and the self-driving stack that would drive it, as well as an on-demand ridesharing app. The company was acquired by Amazon in 2020, and later that year unveiled its robotaxi, a cube-like vehicle equipped with a self-driving system, loads of sensors, and a moonroof, but no steering wheel or pedals. Zoox has spent the past six years testing the vehicle and updating the hardware.\nZoox has faced a number of hurdles over its 12 years, spanning funding, technical development, securing the proper permits for testing, and even several recalls. One major obstacle was lifted last week when federal safety regulators gave Zoox a temporary exemption from certain federal motor vehicle safety standards.\nThe exemption, issued by the National Highway Traffic Safety Administration (NHTSA), allows the company to charge customers for rides in its robotaxis. Because Zoox vehicles lack many of the traditional controls required under federal law, it needed an exemption in order to operate.\nZoox received an exemption last year that allowed it to demonstrate its robotaxis, but not charge. The commercial exemption, which lasts two years and allows Zoox to deploy up to 2,500 vehicles, spans eight federal motor vehicle standards, including windshield defrosting and light vehicle braking systems.\nThe startup also offers robotaxis in other markets, such as San Francisco and Austin, but it will have to offer them for free for now. In California, Zoox still needs two more permits to operate commercially.\nZoox said robotaxi fares will be calculated based on a base fare, plus distance and time traveled from pick-up to drop-off. The company said the final fee will be calculated based on the best route, and be visible before booking. That fare will not change even if the Zoox robotaxi ends up taking a different route.\nDestination fees, such as trips to or from the airport, or a high-traffic event at the Sphere or T-Mobile Arena, may also be included in the pricing, the company said. Zoox said it is trying to be competitive with the “comfort” pricing levels offered by traditional ride-hail services.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tKirsten Korosec is a reporter and editor who has covered the future of transportation from EVs and autonomous vehicles to urban air mobility and in-car tech for more than a decade. She is currently the transportation editor at TechCrunch and co-host of TechCrunch’s Equity podcast. She is also co-founder and co-host of the podcast, “The Autonocast.” She previously wrote for Fortune, The Verge, Bloomberg, MIT Technology Review and CBS Interactive.\nYou can contact or verify outreach from Kirsten by emailing kirsten.korosec@techcrunch.com or via encrypted message at kkorosec.07 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Zoox to start charging for robotaxi rides in Las Vegas",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/08/Zoox-Robotaxi-Vegas-traffic.jpg?w=150"
-      ],
-      "datePublished": "2026-08-05T15:06:42.000Z",
-      "dateModified": "2026-08-05T15:06:42.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Moove raises $250M to become the backbone of the robotaxi industry",
-    "url": "https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/08/6D76F699-3990-44C1-ABE5-7E1EFD99011E.jpeg?w=150",
-    "tag": "Tech",
-    "date": "2026-08-05T20:50:45.000Z",
-    "description": "\nMoove’s evolution from a vehicle financing startup to ride-hailing and deliveries in Africa to one that also owns and autonomous vehicles may seem li",
-    "body": "\nMoove’s evolution from a vehicle financing startup to ride-hailing and deliveries in Africa to one that also owns and autonomous vehicles may seem like a leap. But co-founder and co-CEO Ladi Delano said the experience in financing and human-driven ride-hailing fleets was the ideal training ground for its latest pursuit.\nAnd now, it has raised $250 million at a $2.1 billion valuation to scale that business.\nThe company, founded in 2020 in Nigeria and now headquartered in Dubai, said Mubadala Investment Company led this latest, Series C round with Woven Capital and Ion Pacific as co-leads. \nMoove is still very much in the human-driven ride-hailing business. It owns and operates a 42,000-vehicle ride-hailing fleet across 14 countries. The company, which employs 3,300 people globally, also still provides vehicle financing to gig drivers.\nIts expansion into autonomous vehicles started in early 2023 after evaluating the industry and its four main players in this nascent ecosystem: the AV developers, vehicle manufacturers, marketplaces like Uber, and the consumer. None of these players want to “own the metal,” Delano told TechCrunch, referring to the vehicles.\n“In this world, who owns the vehicle? Who operates the vehicle? Who orchestrates the vehicle? Who does the servicing, the maintenance? Who does the lost property? Who does the cleaning?” Delano asked. It became clear, he added, that Moove’s experience managing large fleets and providing financing could translate to autonomous vehicle operations. \n“Let’s create a product where we own, operate, and orchestrate autonomous vehicles, and let’s go and find partners to do it with — and that’s essentially what we did,” Delano said. “In 2023, we started talking to every single AV company you could imagine, and as you know — God would have it, luck would have it — we managed to partner with Waymo first.”\nMoove is the fleet operator for Waymo in Phoenix, Miami, and Las Vegas, and in the future, London. The company doesn’t own the Waymo vehicles, but it plans to. Moove plans to use debt financing to purchase the robotaxis. Delano didn’t share a timeline for when Moove will start buying Waymo robotaxis. He did say Moove already owns robotaxi vehicles from another AV developer, although he wouldn’t disclose which company. \n“Ultimately our vision is to own, you know hundreds of thousands of vehicles,” he said, referring to robotaxis.\nThis latest funding will be used to scale the company’s autonomous vehicle fleet management business, including hiring about 350 people. (Delano said its traditional mobility business is set to achieve full profitability this year.) Some of the capital will also go toward developing automated depots that it calls “Nests.” These “nests” will be able to operate around the clock and use robotics to automate vehicle charging, maintenance, and servicing.\nMoove has about 15 depots that are in some stage of development. Delano wouldn’t say when its automated, “lights-out” depots would come online, noting that this is a future product. \nOther backers in the round include BlueCrest Capital Management, Sona Asset Management and The Raptor Group, BlackRock, MUFG, Franklin Templeton, Uber, Left Lane, Silverbacks Holdings, Square Associates, The Latest Ventures, Endeavor Catalyst, and the Ontario Power Generation Pension Plan. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tKirsten Korosec is a reporter and editor who has covered the future of transportation from EVs and autonomous vehicles to urban air mobility and in-car tech for more than a decade. She is currently the transportation editor at TechCrunch and co-host of TechCrunch’s Equity podcast. She is also co-founder and co-host of the podcast, “The Autonocast.” She previously wrote for Fortune, The Verge, Bloomberg, MIT Technology Review and CBS Interactive.\nYou can contact or verify outreach from Kirsten by emailing kirsten.korosec@techcrunch.com or via encrypted message at kkorosec.07 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Moove raises $250M to become the backbone of the robotaxi industry",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2023/08/6D76F699-3990-44C1-ABE5-7E1EFD99011E.jpeg?w=150"
-      ],
-      "datePublished": "2026-08-05T20:50:45.000Z",
-      "dateModified": "2026-08-05T20:50:45.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Why Lightspeed is going all-in on creator-led venture capital",
     "url": "https://techcrunch.com/video/why-lightspeed-is-going-all-in-on-creator-led-venture-capital/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/Lightspeed-Josh.jpg?w=150",
@@ -300,22 +300,22 @@
     }
   },
   {
-    "title": "Reddit aims to make ‘karma’ less important for first-time posters with shift to AI moderation tools",
-    "url": "https://techcrunch.com/2026/08/05/reddit-aims-to-make-karma-less-important-for-first-time-posters-with-shift-to-ai-moderation-tools/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1048288996.jpg?w=150",
+    "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals ",
+    "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Real-World-AI-Stage-Site-1.png?w=150",
     "tag": "Tech",
-    "date": "2026-08-05T18:00:40.000Z",
-    "description": "\nReddit on Wednesday announced a series of changes to its infrastructure and tools, designed to make it easier for people to participate on its site, ",
-    "body": "\nReddit on Wednesday announced a series of changes to its infrastructure and tools, designed to make it easier for people to participate on its site, protect against scraping and spam, and aid in the moderation of its online communities. In addition to providing a new suite of moderation tools, the company said it’s working on more advanced abuse prevention systems that could eventually help communities move away from using things like account age and “karma” to determine who’s allowed to post.\nKarma, Reddit’s digital reputation system, allows users to raise their score by posting and commenting helpful, friendly, or funny responses that lead to upvotes. Originally designed to weed out spam, bots, and trolls, many communities came to rely on karma and other account-age restrictions that make it difficult for legitimate newcomers to participate in their communities. Reddit says it now wants to shift to stronger, built-in abuse prevention systems to do more of the moderation work, so communities can be more open to new users.\nReddit didn’t say karma would go away entirely with these coming changes, but it did suggest that its importance could dwindle in the future. \n“This will make it easier for genuine new users to participate and easier for mods to welcome them with confidence,” Reddit’s announcement stated.\nRelated to this, the company said it’s expanding the test of its new suite of AI-powered moderation tools, the Rules Hub, which helps moderators by choosing when to automatically enforce certain community rules and what action should be taken when doing so. Initially used by 700-plus communities, Reddit says that all new communities can now test the tool. Later this year, the tool will be widely available to all communities, both new and existing.\nWith Rules Hub, Reddit uses large language models (LLMs) to determine whether a post or comment matches the intent of a rule, which the company says allows it to “better handle nuance,” natural language, and edge cases. \nReddit also expanded the capabilities of other tools, including one that helps moderators inform users about their community’s rules when posting and commenting, and another that helps members set their flair — a custom tag users append to their name that only appears in the community they’re posting in.   \n“Today, new users can encounter invisible barriers like account age and karma thresholds, unclear removals, and poor community discovery,” Reddit explained. “We want new users around the world to be able to easily find relevant communities, understand their rules and norms, and make useful contributions.”\nThe company also said it would make changes to its legacy desktop site, Old Reddit, by shifting its moderator workflows to its new stack and migrating other critical bots.\nOn Reddit’s second-quarter earnings call with investors last week, company executives stressed that one of Reddit’s near-term goals was to convert its half-billion weekly active users to daily users through product updates. The company had crushed earnings with revenue of $805 million and earnings per share of $1.25, above estimates, but still saw its stock sink because of what Reddit CEO Steve Huffman described as “choppy” search referral traffic.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-08-05T15:05:00.000Z",
+    "description": "\nAt our past TechCrunch Disrupt events, AI has taken center stage, both throughout our programming and in a stage of its own. This year, the technolog",
+    "body": "\nAt our past TechCrunch Disrupt events, AI has taken center stage, both throughout our programming and in a stage of its own. This year, the technology, implications, and players are so rapidly developing and widespread that we’re expanding the single AI stage into two!\nThe AI Stage will continue as you’d expect, with a rundown of sessions and speakers available for review right here. But the Real World AI Stage is brand-new for TechCrunch Disrupt 2026.\nOn this stage, we’ll be focusing on that intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two, as autonomous hardware goes beyond self-driving cars and enters public spaces, battlefields, our homes, and even potentially helps extinct species reenter Earth.\nIt’s a packed lineup featuring speakers from Shield AI, Colossal Biosciences, FieldAI, Foxglove, and more still to come.\nYou can join in on all the excitement October 13 to 15 at San Francisco’s Moscone West. As a bonus, if you’re catching this before 11:59 p.m. PT on August 7, you can get an extra $100 off your ticket by following this link. \nHere’s the first breakdown of our Real World AI Stage lineup:\nBuilding AI Systems When Failure Is Not an Option \nWith Nate Michael, CTO, Shield AI\nWhen AI enters the physical world, the consequences of failure change. A mistake could lead to a grounded aircraft, a vehicle crash, or a compromised mission.\nIn this session, leaders who are building autonomous vehicles, defense technologies, and industrial systems will talk about one of the toughest questions that every hard tech founder must face: How do you know when your system is ready to be safely deployed?  \nWe’ll dig into how founders can create a safety culture, test and validate AI, navigate regulatory hurdles, and build companies that can earn trust when the stakes are high.   \nCan We Engineer Nature’s Comeback? \nWith Ben Lamm, CEO, Colossal Biosciences\nBen Lamm has built one of the most controversial companies in tech by turning de-extinction from science fiction into a billion-dollar business. In this fireside chat, the Colossal Biosciences CEO will discuss the technologies used to revive extinct species, the role AI plays in modern biology, and the growing debate over whether engineering nature is a conservation breakthrough or a distraction from protecting what’s already here.\nOperating at the Edge: How AI Works When the Cloud Doesn’t \nWith Dr. Ali Agha, CEO and founder of FieldAI; Michelle Lee, CEO and founder, Medra; and Aidan Madigan-Curtis, partner, Eclipse Ventures\nThe most valuable AI deployments in the world operate where the cloud can’t reach. And building for them requires a different technological playbook.  \nThis session brings together leaders from defense, space, and industrial AI who will share how they have tackled the challenge of making AI work at the edge — where latency matters, connectivity is limited, and failure isn’t an option. Expect practical lessons on architectural principles, design decisions, and trade-offs that make AI-centric systems work in the real world.   \nFrom Prototype to Production: Can it scale in reality? \nWith John Mackey, CEO, co-founder, MBRYONICS; Boris Sofman, co-founder and CEO, Bedrock Robotics; and Adrian Macneil, CEO, Foxglove\nA prototype that works is not a product. A product that ships is not a scaled business. The gap between each of those stages is where most deep tech startups die. Founders might have the right team and tech, but they fail to understand what it takes to bring a prototype into production and eventually scale to higher, profitable volumes.  \nThis session brings together founders who have crossed that gap in space hardware, humanoid robotics, and autonomous systems. They’ll share what they got wrong, what they’d do earlier, and what the prototype-to-production journey looks like when supply chains and manufacturing realities replace lab conditions.\n\nThere’s plenty more in store for you at Disrupt 2026 — after all, that’s just one stage’s worth of programming! For a sense of what else you’ll get to access, we’ve also announced the:\n\nDisrupt Stage, featuring top speakers from Replit, Amazon, Tether, and more.\n\n\nAI Stage, digging into the security gaps and business model shifts AI is forcing on every SaaS company. \n\n\nSmart Money Stage, covering stablecoins, instant payments, and AI’s role in financial trust.\n\n\nSmart Systems Stage, tackling the fusion breakthroughs and grid strain powering AI’s next decade. \n\n\nBuilders Stage, where founders and investors get tactical about raising, hiring, and scaling.\n\nBe part of Disrupt 2026 in San Francisco from October 13–15, where more than 10,000 startup, tech, and VC leaders come together for three days of insights, Startup Battlefield, unparalleled networking, and access to every stage and the exhibition floor.  \nRegister today! \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Reddit aims to make ‘karma’ less important for first-time posters with shift to AI moderation tools",
+      "headline": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals ",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1048288996.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/08/Real-World-AI-Stage-Site-1.png?w=150"
       ],
-      "datePublished": "2026-08-05T18:00:40.000Z",
-      "dateModified": "2026-08-05T18:00:40.000Z",
+      "datePublished": "2026-08-05T15:05:00.000Z",
+      "dateModified": "2026-08-05T15:05:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -350,22 +350,22 @@
     }
   },
   {
-    "title": "As Gen Z reconsiders dating apps, Tinder’s IRL events expand to dozens more cities",
-    "url": "https://techcrunch.com/2026/08/05/as-gen-z-reconsiders-dating-apps-tinders-irl-events-expand-to-dozens-more-cities/",
-    "image": "https://techcrunch.com/wp-content/uploads/2019/09/tinder-icon-ios.jpg?w=150",
+    "title": "Reddit aims to make ‘karma’ less important for first-time posters with shift to AI moderation tools",
+    "url": "https://techcrunch.com/2026/08/05/reddit-aims-to-make-karma-less-important-for-first-time-posters-with-shift-to-ai-moderation-tools/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1048288996.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-08-05T14:45:06.000Z",
-    "description": "\nAs Gen Z rethinks the point of online dating, Tinder is trying to stay in the game by expanding its in-person events to dozens of new cities by Septe",
-    "body": "\nAs Gen Z rethinks the point of online dating, Tinder is trying to stay in the game by expanding its in-person events to dozens of new cities by September, the company told analysts on its second-quarter earnings call on Tuesday.\nMatch Group (Tinder’s owner) reported its flagship dating app saw revenue decline in the quarter, which sent the company’s stock down by over 10% in after-hours trading. Nevertheless, Match still appeared to be bullish on its Tinder turnaround efforts.\nCEO Spencer Rascoff spoke of narrowing Tinder’s declines in monthly active users, which were down 7% in Q2, slightly better than last quarter’s 8% decline. He also said he believed Tinder’s daily active user growth would once again lean positive “any day now.” The app has not reported positive user growth in more than three years.\nStill, Match, which also runs Hinge, OkCupid, Match, PlentyofFish and other dating apps, is planning for a future where online dating itself may become passé.\nNumerous reports have suggested that younger Gen Z users are increasingly turning to real-world experiences that get them off their phones and out of the house as they seek to connect with others.\nNow, Match’s own internal data is backing this up.\n“Our internal research shows that nearly half of singles aged 18 to 29 want to share in-person experiences with people who could become closer connections,” Rascoff said. “Yet, for a generation that grew up online, making that transition into real life can still feel hard. That is why we are doubling down on more social, lower-pressure ways for users to connect in real life,” he told analysts on the call. \nIn March, Tinder introduced in-person events, starting in Los Angeles, that are featured in a dedicated Events tab in Tinder’s mobile app.\nThis tab features curated local events that are held at speakeasies, bowling alleys, raves, and pottery classes, among others, and Rascoff said 71% of Tinder’s active users in LA, aged 18 to 24, had engaged with the new sections.\nThat suggested “especially strong adoption” among Gen Z users, the company said. Since its March debut, the company has featured over 60 events.\nNow, Tinder is expanding its events efforts beyond LA’s initial beta test. Since March, the Events tab has been launched in nine additional U.S. and European cities, and it will reach 26 cities globally by the end of September. By the end of 2026, Tinder expects to launch the feature in 75 cities.\nRascoff told analysts on the call that Events was being scaled via a “low-cost model built primarily around partnerships with leading event providers” — in other words, Tinder itself isn’t directly running the events; it’s just making them discoverable via its app. However, this strategy could provide the company with valuable data if it wanted to invest more directly in such events.\n“We see the value of events extending far beyond those who attend,” the CEO noted. “Bringing more real-world connection into the experience can help shift perception of Tinder and the category more broadly, giving singles a reason to reconsider and try the app. Early signals support that potential. Roughly three in five people who do not use Tinder today say events would make them more likely to do so, and a similar share say it would make connecting feel easier,” Rascoff added.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-08-05T18:00:40.000Z",
+    "description": "\nReddit on Wednesday announced a series of changes to its infrastructure and tools, designed to make it easier for people to participate on its site, ",
+    "body": "\nReddit on Wednesday announced a series of changes to its infrastructure and tools, designed to make it easier for people to participate on its site, protect against scraping and spam, and aid in the moderation of its online communities. In addition to providing a new suite of moderation tools, the company said it’s working on more advanced abuse prevention systems that could eventually help communities move away from using things like account age and “karma” to determine who’s allowed to post.\nKarma, Reddit’s digital reputation system, allows users to raise their score by posting and commenting helpful, friendly, or funny responses that lead to upvotes. Originally designed to weed out spam, bots, and trolls, many communities came to rely on karma and other account-age restrictions that make it difficult for legitimate newcomers to participate in their communities. Reddit says it now wants to shift to stronger, built-in abuse prevention systems to do more of the moderation work, so communities can be more open to new users.\nReddit didn’t say karma would go away entirely with these coming changes, but it did suggest that its importance could dwindle in the future. \n“This will make it easier for genuine new users to participate and easier for mods to welcome them with confidence,” Reddit’s announcement stated.\nRelated to this, the company said it’s expanding the test of its new suite of AI-powered moderation tools, the Rules Hub, which helps moderators by choosing when to automatically enforce certain community rules and what action should be taken when doing so. Initially used by 700-plus communities, Reddit says that all new communities can now test the tool. Later this year, the tool will be widely available to all communities, both new and existing.\nWith Rules Hub, Reddit uses large language models (LLMs) to determine whether a post or comment matches the intent of a rule, which the company says allows it to “better handle nuance,” natural language, and edge cases. \nReddit also expanded the capabilities of other tools, including one that helps moderators inform users about their community’s rules when posting and commenting, and another that helps members set their flair — a custom tag users append to their name that only appears in the community they’re posting in.   \n“Today, new users can encounter invisible barriers like account age and karma thresholds, unclear removals, and poor community discovery,” Reddit explained. “We want new users around the world to be able to easily find relevant communities, understand their rules and norms, and make useful contributions.”\nThe company also said it would make changes to its legacy desktop site, Old Reddit, by shifting its moderator workflows to its new stack and migrating other critical bots.\nOn Reddit’s second-quarter earnings call with investors last week, company executives stressed that one of Reddit’s near-term goals was to convert its half-billion weekly active users to daily users through product updates. The company had crushed earnings with revenue of $805 million and earnings per share of $1.25, above estimates, but still saw its stock sink because of what Reddit CEO Steve Huffman described as “choppy” search referral traffic.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "As Gen Z reconsiders dating apps, Tinder’s IRL events expand to dozens more cities",
+      "headline": "Reddit aims to make ‘karma’ less important for first-time posters with shift to AI moderation tools",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2019/09/tinder-icon-ios.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1048288996.jpg?w=150"
       ],
-      "datePublished": "2026-08-05T14:45:06.000Z",
-      "dateModified": "2026-08-05T14:45:06.000Z",
+      "datePublished": "2026-08-05T18:00:40.000Z",
+      "dateModified": "2026-08-05T18:00:40.000Z",
       "author": [
         {
           "@type": "Person",
