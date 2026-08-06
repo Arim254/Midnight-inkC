@@ -50,6 +50,56 @@
     }
   },
   {
+    "title": "Omilia raises $67M to scale its customer support platform",
+    "url": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Self-Learning-Agents-Vertical.jpeg?w=150",
+    "tag": "Tech",
+    "date": "2026-08-06T12:00:00.000Z",
+    "description": "\nThe customer support industry has seen a massive influx of startups like Sierra, Decagon and Parloa trying to infuse AI into automating customer call",
+    "body": "\nThe customer support industry has seen a massive influx of startups like Sierra, Decagon and Parloa trying to infuse AI into automating customer calls, chat and messages so companies can handle more queries at scale.\nBut according to Athens-based Omilia, which has been working on automating voice calls and customer support since 2002, throwing AI at every process can be wasteful. The company’s CEO Dimitris Vassos says that a large proportion of incoming customer support queries involve basic information, such as account balances, and there’s little need to deploy large language models for such tasks.\n“We will use any available weapon to win the battle for customer service. Companies like Sierra, Decagon, etc. identify as generative AI companies. Their sole purpose is to deploy generative AI and limit themselves. You may have a bazooka, but if your enemy is near you, you need a knife. This is the reality of the contact center, where you need multiple tools,” he said.\nOmilia itself has expanded its operations to building self-learning agents that can work across different customer contact points. To build that out, the company has now raised a $67 million Series B led by Expedition Growth Capital. \nThis round is the company’s second time raising capital after it raised $20 million from Grafton Capital in 2020. Since then, it has managed to increase its annual recurring revenue by 10x to $60 million. \nVassos says Omilia’s key differentiation lies in having great unit economics for both itself and its customers, and thanks to this approach, it hasn’t needed large cash infusions as compared to its competitors. \n“In the next few years, we will see the companies that can offer real ROI prevail. We don’t mind that we’re not as sexy as ElevenLabs and Sierra on LinkedIn right now. We care about growing steadily and building the foundations for a billion-dollar revenue company in the next three years,” Vassos said.\nOmilia’s clients include Capital One, Discover, RBC, DWP, and PSEG, and Vassos said quick-service restaurants that have adopted voice-based ordering are now a big focus. The company already has Taco Bell as a client, and has deployed its tech across more than 1,000 outlets. Vassos said that it is in talks with two more quick-service restaurants in the U.S.\nBut AI deployments can be quite hit or miss. In Taco Bell’s case, a snafu in its ordering system reportedly allowed a customer to order 18,000 cups of water last year.\nVassos maintains this incident never took place, and Omilia’s logs didn’t show it. We have reached out to Taco Bell to clarify, and we will update our story if we hear back.\nOmilia will use the fresh cash to open a new office in the U.S., a market that accounts for a significant chunk of its revenue. It will also bolster its go-to-market team, and is hiring a chief revenue officer, chief marketing officer, and a VP of revenue operations. \nThe company has around 500 employees at the moment and expects its headcount to reach 600 by the end of the year.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Omilia raises $67M to scale its customer support platform",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/08/Self-Learning-Agents-Vertical.jpeg?w=150"
+      ],
+      "datePublished": "2026-08-06T12:00:00.000Z",
+      "dateModified": "2026-08-06T12:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Trump’s DOJ gains oversight of OpenAI’s green-card employee sponsorships",
+    "url": "https://techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-08-05T21:05:37.000Z",
+    "description": "\nThe Justice Department’s Civil Rights Division announced on Wednesday that OpenAI, and its once-subsidiary Statsig, signed a settlement that includes",
+    "body": "\nThe Justice Department’s Civil Rights Division announced on Wednesday that OpenAI, and its once-subsidiary Statsig, signed a settlement that includes three years of oversight over the AI lab’s hiring practices.\nThe DOJ has alleged that these companies used various tactics to prevent U.S. citizens from applying for jobs held by immigrant employees when the companies were sponsoring those workers for permanent U.S. residence. The companies did not admit to wrongdoing, although they did agree to pay $3.2 million. Of that, $1.2 million is a fine and the remaining $2 million is being set aside to pay restitution to U.S. citizens who applied to those jobs, should the DOJ find any who were harmed.\nThe DOJ alleged that OpenAI and Statsig broke provisions of the Immigration and Nationality Act (INA) by not truly looking for qualified U.S. citizens for these jobs before pursuing permanent residence applications (PERM) as the INA requires. The DOJ said they didn’t list roles on public job boards, advertised on the radio late at night, and required paper applications rather than electronic ones.\nWhile there were fewer than 10 roles at issue, the DOJ said that as part of the settlement, the companies must pay the fine and submit to oversight by the department over their PERM roles. Oversight includes items such as drafting and obtaining approval for their PERM-role hiring policies and submitting semiannual reports. Those reports must include how many applications for foreign employees they pursued, how many U.S. citizens they interviewed, and other statistics.\nOpenAI acquired AI A/B testing company Statsig in September 2025 and later divested at least part of the business in May 2026. The DOJ, however, says it began investigating both companies separately before the acquisition, in August 2025, including five cases at OpenAI between 2023 and 2025, and one at Statsig.\nThe DOJ says that this settlement is part of its increased crackdown on companies over the matter. However, the INA, a law passed in 1952, has been enforced by other administrations against other Big Tech companies. During Biden’s administration, for instance, both Facebook and Apple signed similar settlements, though in both of those cases the DOJ alleged that the violations were widespread and systematic.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Trump’s DOJ gains oversight of OpenAI’s green-card employee sponsorships",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=150"
+      ],
+      "datePublished": "2026-08-05T21:05:37.000Z",
+      "dateModified": "2026-08-05T21:05:37.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Get up to $400 off your TechCrunch Disrupt 2026 pass until Friday",
     "url": "https://techcrunch.com/2026/08/05/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/TCD26-Savings_400.png?w=150",
@@ -66,6 +116,206 @@
       ],
       "datePublished": "2026-08-05T22:55:43.000Z",
       "dateModified": "2026-08-05T22:55:43.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Moove raises $250M to become the backbone of the robotaxi industry",
+    "url": "https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/08/6D76F699-3990-44C1-ABE5-7E1EFD99011E.jpeg?w=150",
+    "tag": "Tech",
+    "date": "2026-08-05T20:50:45.000Z",
+    "description": "\nMoove’s evolution from a vehicle financing startup to ride-hailing and deliveries in Africa to one that also owns autonomous vehicles may seem like a",
+    "body": "\nMoove’s evolution from a vehicle financing startup to ride-hailing and deliveries in Africa to one that also owns autonomous vehicles may seem like a leap. But co-founder and co-CEO Ladi Delano said the experience in financing and human-driven ride-hailing fleets was the ideal training ground for its latest pursuit.\nAnd now it has raised $250 million at a $2.1 billion valuation to scale that business.\nThe company, founded in 2020 in Nigeria and now headquartered in Dubai, said Mubadala Investment Company led this latest Series C round, with Woven Capital and Ion Pacific as co-leads.\nMoove is still very much in the human-driven ride-hailing business. It owns and operates a 42,000-vehicle ride-hailing fleet across 14 countries. The company, which employs 3,300 people globally, also still provides vehicle financing to gig drivers.\nIts expansion into autonomous vehicles started in early 2023 after evaluating the industry and its four main players in this nascent ecosystem: the AV developers, vehicle manufacturers, marketplaces like Uber, and the consumer. None of these players want to “own the metal,” Delano told TechCrunch, referring to the vehicles.\n“In this world, who owns the vehicle? Who operates the vehicle? Who orchestrates the vehicle? Who does the servicing, the maintenance? Who does the lost property? Who does the cleaning?” Delano asked. It became clear, he added, that Moove’s experience managing large fleets and providing financing could translate to autonomous vehicle operations. \n“Let’s create a product where we own, operate, and orchestrate autonomous vehicles, and let’s go and find partners to do it with — and that’s essentially what we did,” Delano said. “In 2023, we started talking to every single AV company you could imagine, and as you know — God would have it, luck would have it — we managed to partner with Waymo first.”\nMoove is the fleet operator for Waymo in Phoenix, Miami, and Las Vegas, and in the future, London. The company doesn’t own the Waymo vehicles, but it plans to. Moove intends to use debt financing to purchase the robotaxis. Delano didn’t share a timeline for when Moove will start buying Waymo robotaxis. He did say Moove already owns robotaxi vehicles from another AV developer, although he wouldn’t disclose which company.\n“Ultimately our vision is to own, you know, hundreds of thousands of vehicles,” he said, referring to robotaxis.\nThis latest funding will be used to scale the company’s autonomous vehicle fleet management business, including hiring about 350 people. (Delano said its traditional mobility business is set to achieve full profitability this year.) Some of the capital will also go toward developing automated depots that it calls “nests.” These “nests” will be able to operate around the clock and use robotics to automate vehicle charging, maintenance, and servicing.\nMoove has about 15 depots that are in some stage of development. Delano wouldn’t say when its automated, “lights-out” depots would come online, noting that this is a future product. \nOther backers in the round include BlueCrest Capital Management, Sona Asset Management, and Raptor Group, BlackRock, MUFG, Franklin Templeton, Uber, Left Lane, Silverbacks Holdings, Square Associates, The Latest Ventures, Endeavor Catalyst, and the Ontario Power Generation Pension Plan. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tKirsten Korosec is a reporter and editor who has covered the future of transportation from EVs and autonomous vehicles to urban air mobility and in-car tech for more than a decade. She is currently the transportation editor at TechCrunch and co-host of TechCrunch’s Equity podcast. She is also co-founder and co-host of the podcast, “The Autonocast.” She previously wrote for Fortune, The Verge, Bloomberg, MIT Technology Review and CBS Interactive.\nYou can contact or verify outreach from Kirsten by emailing kirsten.korosec@techcrunch.com or via encrypted message at kkorosec.07 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Moove raises $250M to become the backbone of the robotaxi industry",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2023/08/6D76F699-3990-44C1-ABE5-7E1EFD99011E.jpeg?w=150"
+      ],
+      "datePublished": "2026-08-05T20:50:45.000Z",
+      "dateModified": "2026-08-05T20:50:45.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
+    "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2202707012.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-08-06T12:30:00.000Z",
+    "description": "\nGoogle announced on Thursday that Google Maps’ “Ask Maps” feature is gaining a slew of new agentic capabilities, including the ability to order food,",
+    "body": "\nGoogle announced on Thursday that Google Maps’ “Ask Maps” feature is gaining a slew of new agentic capabilities, including the ability to order food, book hotels, and find event tickets. The tech giant is also bringing Personal Intelligence to Ask Maps, allowing the AI tool to personalize its responses by drawing on information from a user’s Gmail and Google Calendar.\nThe launch of the new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that’s capable of helping users complete real-world tasks.\nWith the new agentic food ordering capabilities, users can open Ask Maps in Google Maps and ask a question like, “Where can I order vegan avocado toast and an oat milk latte near home?” The tool will then surface nearby restaurants that have what they’re looking for. \nImage Credits:Google /\nAfter selecting a restaurant, users can tap the “Order online” option to place an order through supported platforms such as Square, Toast, or Uber Eats. Ask Maps will add the items to a cart. Users can choose to add more items to their cart, then pay for the order on the supported platform.\nAdditionally, users can use Ask Maps to find a hotel for their next trip by entering a query like, “For next weekend’s conference in downtown Miami, find me a decently priced, top-rated hotel with an artsy vibe within walking distance from a gym and restaurants.” Ask Maps will then compare prices and check availability before providing a list of options. Once users find an option they like, they can click through to the partner’s website to book the stay.\nUsers can also ask questions like “what are some comedy shows or live music this evening near work” to get a list of options along with links to buy tickets. \nThe new agentic features are rolling out to users in the U.S. \nImage Credits:Google /\nWith the addition of Personal Intelligence, Ask Maps will be able to give users personalized answers to their questions about upcoming flights, dinner reservations, hotels, and more. For example, users could ask, “What time will I land in Vancouver on my upcoming flight?” or “Can you recommend where to eat and what to do near my hotel?” Ask Maps will then pull information from a user’s emails and calendar to provide tailored responses.\nIt’s worth noting that Personal Intelligence is off by default.\nAsk Maps will now also remember prior conversations, allowing users to pick up where they left off. Now, users can ask things like, “What activities had you suggested for my trip to Seattle?” and continue planning without having to start from scratch.\nGoogle is also launching a live transit widget in Ask Maps that will allow users to stay up to date on delays and conditions as they change in real time.\nPersonal Intelligence and the live transit widget in Ask Maps are rolling out to all markets where Ask Maps is available. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing aisha@techcrunch.com or via encrypted message at aisha_malik.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Google Maps adds agentic features, including food ordering and hotel bookings",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2202707012.jpg?w=150"
+      ],
+      "datePublished": "2026-08-06T12:30:00.000Z",
+      "dateModified": "2026-08-06T12:30:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
+    "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Malachyte.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-08-06T13:00:00.000Z",
+    "description": "\nSidd Motwani, Ian Anderson and Shivaditya Sinha spent years building the behavioral intelligence infrastructure behind Spotify’s recommendation engin",
+    "body": "\nSidd Motwani, Ian Anderson and Shivaditya Sinha spent years building the behavioral intelligence infrastructure behind Spotify’s recommendation engine. Called Vector AI, the system is designed to predict a person’s intent and next actions instead of relying only on their past behavior. It powers about 90% of Spotify’s recommendations to its 800 million users. \nNow, the three are bringing a similar system to e-commerce with their new startup, Malachyte. The company on Thursday said it had raised $10 million in seed funding to scale distribution and hire more product and commercial leaders.\nMalachyte was formed from the belief that most online stores treat shoppers the same way: Personalization is largely dictated by historical purchases, demographic segmentation, or logged-in customer profiles. That means first-time visitors often see the same generic storefront as everyone else, while existing shoppers receive recommendations based primarily on what they bought previously rather than what they need today.\nThe startup wants to change that by building real-time, intent-aware shopping experiences. Its platform uses what it calls “two-headed Vector AI” to predict what product a shopper wants next, learn their general taste, and fine-tune continuously based on what they do in real time. \n“[Our] system starts forming before the first click, using the context available the moment the page loads. Within a single session, we build a real read on both preferences and what someone is trying to accomplish right now,” Motwani, Malachyte’s CEO, told TechCrunch. \n“A search for ‘heavy-duty boot’ followed by two clicks on steel-toed boots is enough to move work pants and gloves up the page and push dress shoes down, with no account or history required. Every additional action sharpens the profile, so the experience gets more relevant the longer someone stays, and again on their next visit.”\nMotwani argues that retailers already possess their most valuable source of customer intelligence, but rarely take advantage of it in real time.\n“Every hover, click, scroll, search refinement and add-to-cart is a signal, and most systems either never act on it in the moment or aggregate it into a segment overnight. We read it continuously, so each action makes the user’s vector more confident about both preference and current intent,” he added. \nHe also believes contextual signals remain significantly underutilized.\n“A phone visitor at 11 p.m. from an email link is in a different state of mind than the same person on a laptop mid-morning, and most systems treat them identically,” Motwani said. \nThe company has been developing and testing its technology since 2024, and worked with more than 20 enterprise customers across travel, grocery and retail before ultimately focusing on e-commerce. \nIts platform first went live in the fall of 2025 with Fun.com. Since June 2026, it has been generally available to Shopify merchants through a native integration, while larger retailers can integrate the technology through its API.\nLooking ahead, Motwani says the bigger opportunity is in bringing merchandising and marketing together around the same understanding of customer behavior.\nThe funding round was co-led by Bessemer Venture Partners and Gradient, with participation from Harpoon Ventures.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tLauren covers media, streaming, apps and platforms at TechCrunch.\nYou can contact or verify outreach from Lauren by emailing laurenf.techcrunch@gmail.com or via encrypted message at laurenforris22.25 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/08/Malachyte.jpg?w=150"
+      ],
+      "datePublished": "2026-08-06T13:00:00.000Z",
+      "dateModified": "2026-08-06T13:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "How Lightspeed found its newest hire … via Instagram DM",
+    "url": "https://techcrunch.com/2026/08/05/how-lightspeed-found-its-newest-hire-via-instagram-dm/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Jpeg.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-08-05T20:48:56.000Z",
+    "description": "\nEarlier this year, Lightspeed made headlines when it announced that Claire Zau, an investor and popular tech content creator, would join the venture ",
+    "body": "\nEarlier this year, Lightspeed made headlines when it announced that Claire Zau, an investor and popular tech content creator, would join the venture firm. She has more than 100,000 followers on TikTok and over 250,000 followers on Instagram, where she breaks down the day’s biggest tech trends. \nLightspeed partners Josh Machiz and Zau stopped by the Equity studio to talk about the strategy behind their growing social media presence; their podcast, Lightwork; and how it all started with a direct message on Instagram.\n“A lot of people want to participate in the future and are excited about technology,” Zau told Equity. “They just don’t have the facts presented to them in an accessible way. So that’s hopefully the role I feel very lucky and privileged to play.” \nZau, in many ways, is part of a new class of venture operators using social media to connect with new audiences, whether that’s people who are simply tech curious or future founders who may then turn to Lightspeed for a check.\nThe podcast she co-hosts with Machiz, Lightspeed’s CMO, is part of the new media trend that many venture firms are embracing, where firms take on a greater role in helping their portfolio companies share their stories with the world. \n“There’s less and less traditional journalism out there because of layoffs and the consolidation in media,” Machiz said. “If you’re a startup, it’s harder to get your story out there. There are less places to go to get it out. There’s now pretty heavy bars to get your funding story out. And so we hope to also be able to provide in the new media world another opportunity to tell your story.” \nSo far, the duo — and the firm — see some benefits to expanding the Lightspeed media empire. Connecting with early founders is the main one, but being online also helps them get real-time feedback on investments and new technology. For example, Zau talked about how, within the Silicon Valley bubble, everyone was so excited to cut a check for a new AI startup, but then she would talk about the investment online and get the sense that Gen Z was actually quite anti-AI. \n“It was, I would even say, humbling,” she said of the direct feedback she would get to some of her videos. “It’s so helpful to have basically real-time visibility into how people are using these technologies and what kinds of narratives are hitting.” \nMachiz and Zau also spoke to Equity about what comes next for them. Another podcast? A TV show one day? “Our goal is to be the place where hopefully future founders learn about venture, understand the ecosystem,” Machiz said. “We’re still early days.” \nListen to hear more of the conversation — and what Machiz and Zau have planned next. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tDominic-Madori Davis is a senior venture capital and startup reporter at TechCrunch. She is based in New York City.\r\nYou can contact or verify outreach from Dominic by emailing dominic.davis@techcrunch.com or via encrypted message at +1 646 831-7565 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "How Lightspeed found its newest hire … via Instagram DM",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/08/Jpeg.jpg?w=150"
+      ],
+      "datePublished": "2026-08-05T20:48:56.000Z",
+      "dateModified": "2026-08-05T20:48:56.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Amid legal battles, Suno says it will start watermarking songs",
+    "url": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/mikey-shulman-2159558534.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-08-06T13:31:57.000Z",
+    "description": "\nSuno, the service that allows users to create AI-generated songs, today announced new tools to mark tracks made on its platform, limit downloads, and",
+    "body": "\nSuno, the service that allows users to create AI-generated songs, today announced new tools to mark tracks made on its platform, limit downloads, and update community guidelines to prevent copycat songs. The changes come as Suno faces numerous lawsuits from labels and artist bodies. \nIn a blog post, co-founder and CEO Mikey Shulman shared core principles and said that the platform wants to promote original creation while enabling more people to make music with its AI tools.\nOne of the key points of contention involved users uploading AI-generated songs on other streaming platforms and gaming the system to earn revenue. Suno said that now it will use audio watermarking and fingerprinting to prevent misuse on other streaming platforms. It’s not clear if Suno will use an existing system like Google’s Synth ID or adopt a new one, and the company did not say when contacted by TechCrunch about this.\nThe startup also signed an agreement with lyrics provider Musixmatch to use its Sentinal system for copyright detection, the blog post said. \n“These tools are designed to be durable and resistant to tampering, without affecting the listening experience. They are also not intended to pass judgment on whether a song is good, meaningful, or sufficiently human,” said Shulman in the blog. “Ultimately, we believe it should be up to artists and platforms to decide what they want to disclose. Our role is to build tools that give them transparency options and make it easier to collaborate across the industry.”\nThe company added that it plans to add a new download policy to bar mass distribution on streaming platforms, but the company declined to provide details.\nSuno has also changed its community guidelines to explicitly prohibit “deceptive audio presented as real” and “using a real person’s voice or likeness without permission” to prevent copycats.\nThe company, which raised $400 million in a Series D funding round in June, is fighting legal battles on many fronts. The startup is in a lawsuit with the Universal Music Group (UMG) and Sony Music Group in a case co-ordinated by the Recording Industry Association of America (RIAA). \nLate last month, a German court ruled in favor of a government-mandated licensing agency, GEMA, and said Suno was breaking copyright rules.\nSeparately, 404 Media reported that Suno experienced a data breach in November 2025, which revealed that the platform scraped YouTube, Deezer, and Genius to train its models. Later, data breach notification service Have I Been Pwned said that the data breach affected 55 million users. The startup now faces a class action lawsuit in Massachusetts, which alleges that the company overlooked security measures to focus on profit.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Amid legal battles, Suno says it will start watermarking songs",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/07/mikey-shulman-2159558534.jpg?w=150"
+      ],
+      "datePublished": "2026-08-06T13:31:57.000Z",
+      "dateModified": "2026-08-06T13:31:57.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+    "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2266466589.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-08-06T13:00:00.000Z",
+    "description": "\nAI lab Mirendil has signed a multi-year partnership with Google Cloud to source compute capacity for its self-improving AI research, TechCrunch has e",
+    "body": "\nAI lab Mirendil has signed a multi-year partnership with Google Cloud to source compute capacity for its self-improving AI research, TechCrunch has exclusively learned. \nThe deal mirrors two trends shaping the AI industry: cloud giants are courting startups with huge infrastructure commitments, and AI companies are snatching up as many compute deals as they can to secure access as they scale. \nThe deal is worth upwards of $100 million, Mirendil’s co-founder and CEO, Benham Neyshabur, told TechCrunch. That’s roughly half of what Mirendil raised in seed funding at a $1 billion valuation in late June. \nThe deal gives the startup access to both Google’s TPUs and Nvidia GPUs, as well as managed training clusters with which Mirendil will work on its self-improving AI. The startup hopes its AI will eventually be able to take on the work of an entire frontier AI lab.\nSelf-improving AI, also known as recursive self-improvement, refers to AI systems that iteratively improve themselves. It’s a concept that major labs like Anthropic, where Mirendil’s co-founders hail from, have been working on. A handful of startups like Recursive Superintelligence and Ricursive Intelligence have also recently sprung up around achieving that goal. \nMirendil believes this process will automate a lot of scientific and AI research, helping scientists make progress in fields like medicine, biology, and materials science. \nNeyshabur thinks AI can mimic how human scientists can learn more about new domains, accumulate knowledge and expertise, and gradually improve their performance. “You can have a self-improving AI where you can point a problem at it and it keeps getting better with time,” he said.\n“How can we have an AI system that keeps doing research, keeps improving its own knowledge and performance when it comes to Alzheimer’s disease?” he continued. “This technology allows us to set goals that are ambitious for AI, and the AI would keep making progress.”\nTraining self-improving AI, however, requires enormous amounts of computing power. The lab’s co-founder Harsh Mehta said training is increasingly about matching the right workloads to the right hardware. \n“These models are really good at working with different workloads and chips, and assigning the right workloads to the right chips,” Mehta said. “[Google] provides multiple kinds of chips […] this flexibility allows us to ultimately mix and match workloads with the right kind of accelerators, and then lower the cost not just for us, but also for our customers using our systems.”\nThat flexibility is central to Google’s AI infrastructure pitch. Amin Vahdat, SVP and chief technologist of AI and infrastructure at Google, said in a statement that AI advancement isn’t just about chip-level performance anymore, “but how we orchestrate entire systems of intelligence and break through the physical constraints of scaling.”\nNeyshabur said Mirendil’s software and systems layer help customers get more out of Google’s hardware, giving the cloud giant another potential leg up in the race against its competition. In return, Google gets a strategic partner building frontier recursive self-improving AI — technology that it can eventually shop around to enterprise customers. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tRebecca Bellan is a senior reporter at TechCrunch where she covers the business, policy, and emerging trends shaping artificial intelligence. Her work has also appeared in Forbes, Bloomberg, The Atlantic, The Daily Beast, and other publications. \r\nYou can contact or verify outreach from Rebecca by emailing rebecca.bellan@techcrunch.com or via encrypted message at rebeccabellan.491 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2266466589.jpg?w=150"
+      ],
+      "datePublished": "2026-08-06T13:00:00.000Z",
+      "dateModified": "2026-08-06T13:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Ford’s new electric truck, ‘Fathom’, starts at $28,350",
+    "url": "https://techcrunch.com/2026/08/06/fords-new-electric-truck-fathom-starts-at-28350/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Ford-Fathom-Hero-Still-16x9_v2.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-08-06T13:01:25.000Z",
+    "description": "\nFord’s next-generation electric truck will be called Fathom, and it will start at $28,350 when it goes on sale in 2027, the company said on Thursday.",
+    "body": "\nFord’s next-generation electric truck will be called Fathom, and it will start at $28,350 when it goes on sale in 2027, the company said on Thursday.\nA “destination and delivery” fee will bring that price up to $29,945, putting the Fathom just below the $30,000 mark that Ford has targeted since it first started talking more openly about the project in 2025.\nThe truck, when it arrives next year, represents a major bet for Ford. It’s the automaker’s second all-electric truck after the F-150 Lightning (third, if you count the limited-run Ranger EV from the late 1990s). But like many of its peers, the company has dramatically pulled back on its once-ambitious plans to build electric vehicles.\nThe Fathom is the first vehicle Ford is building on its new “Universal EV Platform,” or UEV, which will power a number of different EVs and involves a brand-new assembly line process meant to cut costs. It’s an attempt by CEO Jim Farley to try and catch up to category leader Tesla, as well as the many Chinese EVs that he’s argued against allowing into the U.S. market — all while building the truck in Louisville, Kentucky.\nDeliveries begin in “fall 2027,” and Ford said on Thursday that it won’t reveal the truck until “early 2027,” which is when it will start taking pre-orders.\nWe do have some details, though. Ford has already said the Fathom will have Apple Maps built into its operating system, and on Thursday, the company said the truck will support Android Auto and Apple CarPlay. Notably, it will not support Apple’s next-generation CarPlay Ultra. \nThe Fathom will have five seats, which is more interior space than a Toyota Rav4; a “large, high-resolution touch screen,” and a “digital car key.” It will be capable of bidirectional power, much like the Lightning and the hybrid F-150.\nEvery Fathom will also be “BlueCruise-capable,” meaning it will come with the tech integrated, but buyers will likely have to pay extra to enable Ford’s hands-free advanced driver assistance system. The truck is supposed to have a newer, more powerful version of BlueCruise that Ford says will eventually be capable of handling supervised driving from starting point to destination. Eyes-off driving is expected in 2028.\nThe Fathom’s starting price also only includes the “standard range” lithium iron phosphate battery pack. Ford hasn’t yet said how many miles the truck can drive on a single charge.\nFord said the name represents “a deep understanding of the person who would drive” the truck, and how their “motivations look a little different from the traditional truck customer’s.”\n“[T]he name had to do more than sound good. It had to capture a mindset, shifting the focus from specs to a spirit of adaptability,” the company wrote.\nElectric trucks have not done terribly well in the U.S.. The Lightning only moved a little more than 10,000 units in its best quarter, and though Tesla’s Cybertruck had a higher peak, it has since crashed out. \nFord is gambling by choosing the truck form factor for its first UEV platform vehicle. But there are some inherent upsides: The Fathom and other vehicles built on the platform will be the first that Ford has designed from the ground up to use electric powertrains. That should mean fewer tradeoffs on range, efficiency, and overall packaging of the vehicle.\nBoth the Fathom and UEV have been in the works for a few years. It started as a skunkworks project that Farley tasked former Tesla exec Alan Clarke with leading, as TechCrunch first reported in 2024. The team is flush with talent from Rivian, Tesla and Apple’s now-defunct car project, and has purportedly been working in isolation in Los Angeles, separated from the bureaucracy of the rest of the company.\nAll of this likely contributed to getting the Fathom’s starting price to just under $30,000, a major accomplishment in a market where the average new car costs $50,000. The truck won’t have a lot of competition in that range — it’s essentially going up against just the spartan, Jeff Bezos-backed Slate pickup, and a few non-truck EVs like the Chevy Bolt.\nFord has found a ton of success with its small, low-cost Maverick pickup, which comes in both internal combustion and hybrid powertrain variants. The Fathom is an attempt to bottle that lightning, without going the way of the Lightning.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Ford’s new electric truck, ‘Fathom’, starts at $28,350",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/08/Ford-Fathom-Hero-Still-16x9_v2.jpg?w=150"
+      ],
+      "datePublished": "2026-08-06T13:01:25.000Z",
+      "dateModified": "2026-08-06T13:01:25.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO",
+    "url": "https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/travis-kalanick-fii.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-08-05T21:26:40.000Z",
+    "description": "\nAnother former Uber executive is joining Travis Kalanick’s robotics and industrial AI startup Atoms, just a few weeks after it raised $1.7 billion.\nG",
+    "body": "\nAnother former Uber executive is joining Travis Kalanick’s robotics and industrial AI startup Atoms, just a few weeks after it raised $1.7 billion.\nGautam Gupta, the former finance chief under Kalanick, said in social media posts on Wednesday that he has joined Atoms as chief financial officer. Gupta spent more than four years at Uber until he left in July 2017, just a few weeks after Kalanick resigned as CEO. (Gupta had announced his intention to leave that May.)\nHiring Gupta continues a trend of Kalanick getting the Uber band back together at Atoms. Earlier this year, Atoms acquired mining autonomy startup Pronto, which is run by former Uber (and former Google) self-driving engineer Anthony Levandowski. According to LinkedIn, a number of former top Uber employees who worked with Kalanick also work at Atoms, which was previously called CloudKitchens.\n“On many levels, this round is a bit of unfinished business. Fuel to complete the bits-to-atoms story arc we started at Uber, continued at CloudKitchens, and will now finish at Atoms,” Kalanick wrote when he announced the $1.7 billion funding round last month.\nUber even joined the round as an investor, reuniting the company with the founder it pushed out in 2017 after a series of scandals and complaints of widespread sexual harassment and discrimination. Uber hasn’t disclosed how much it contributed. The Information reported $100 million, a figure that TechCrunch has also been able to confirm.\nKalanick has said he wants Atoms to work on mining, food, and transportation, though his posts to date about the startup have been less about specifics and more about wanting to “go up against the final boss, Nature and its fierce resistance to change.”\nGupta invested in Uber in 2012 when he was a vice president at Goldman Sachs, and then joined the company in 2013. \n“[T]he single biggest reason I joined was — Travis. I believed he possessed a magical mix of genius and intensity that made me want to bet on the person, not the market,” Gupta wrote Wednesday. “First one in, last one out, every day. Breaking down walls of regulations, unions, city bureaucracies, etc. Had he not pioneered ridesharing, I don’t think anyone else had the fortitude to fight through one adversity after another to create a whole new market worth hundreds of billions out of nothing.”\nGupta wrote Wednesday that A*, the VC firm he co-founded in 2020 after three years at Opendoor, invested in Atoms in what was the “largest investment in the history of our fund.” Gupta is stepping down from A* to take on the CFO role at Atoms, according to his LinkedIn profile.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/08/travis-kalanick-fii.jpg?w=150"
+      ],
+      "datePublished": "2026-08-05T21:26:40.000Z",
+      "dateModified": "2026-08-05T21:26:40.000Z",
       "author": [
         {
           "@type": "Person",
@@ -116,256 +366,6 @@
       ],
       "datePublished": "2026-08-05T16:52:29.000Z",
       "dateModified": "2026-08-05T16:52:29.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
-    "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1197130647.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-08-05T19:30:19.000Z",
-    "description": "\nJeff Dean, one of the longest-serving and most influential executives at Google, is stepping down from the search giant to launch his own AI startup.",
-    "body": "\nJeff Dean, one of the longest-serving and most influential executives at Google, is stepping down from the search giant to launch his own AI startup.\nComing with him as co-founders are several other top researchers at the company, including Sanjay Ghemawat, a top engineer and senior fellow at Google; Quoc Le, a key AI researcher and founding member of Google Brain; and Oriol Vinyals, a senior research scientist at Google DeepMind. Dean reportedly plans to serve as CEO.\nTogether, the group is starting Discovery Loop, a public benefit corporation that seeks to use AI to turbo-charge scientific research. \nDiscovery Loop says it plans to use high-octane algorithms to initiate and iterate thousands of experiments simultaneously, with the goal of partially automating the research process and expanding the scale at which experimentation can be conducted.\nThe startup is also interested in using AI to help create more powerful AI (a process known as recursive self-improvement), which would cut human iteration out of the loop entirely.\n“While science and engineering have tremendously advanced society over past centuries, progress has traditionally relied on slow, sequential human iterations, creating a significant bottleneck,” the company said in a press release. “Discovery Loop is developing advanced AI systems that leverage massive computational scale to fundamentally transform the speed and efficiency of innovation by automating complete experimental loops.”\nUsing AI to accelerate scientific discovery has been a key interest of the science and tech communities for many years, but until recently, it remained a largely experimental field with limited commercial application.\nThe company has received financial support from a number of different sources, including Google’s parent company Alphabet. The initial funding round is being co-led by Radical Ventures and Khosla Ventures, the company announced Wednesday. Kleiner Perkins, Lightspeed, and Doerr Capital also participated.\n“The next great frontier for AI is to go beyond answering questions and to begin making discoveries,” the founding team said in a joint statement. “By fundamentally accelerating how engineering and scientific discovery are conducted, we can deliver the benefits of transformative technologies to the world far sooner.”\nDean has worked at Google since 1999 and was Google’s 30th employee. Over the years, he has contributed to Google search’s core infrastructure, including its crawling and indexing system and its query-serving system. He has also had a significant impact on Google Gemini’s multimodal models and played a leading role in the company’s early AI research.\n“We think there is opportunity for AI to more fully automate what has traditionally been a very human-intensive experimental loop,” Dean told the New York Times. “You will get both a higher quantity and a higher quality of experiments, and that will lead to scientific breakthroughs and advances.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tLucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. \nYou can contact Lucas by emailing lucas.ropek@techcrunch.com.\t\n\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1197130647.jpg?w=150"
-      ],
-      "datePublished": "2026-08-05T19:30:19.000Z",
-      "dateModified": "2026-08-05T19:30:19.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Hark previews its browser use agent for completing tasks",
-    "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-05-at-8.10.59-PM.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-08-05T15:46:27.000Z",
-    "description": "\nHark, a startup that raised $700 million in Series A funding in May, today launched its agent Hark Handoff, which can use a browser efficiently to co",
-    "body": "\nHark, a startup that raised $700 million in Series A funding in May, today launched its agent Hark Handoff, which can use a browser efficiently to complete tasks.\nThe company claims that Handoff can easily navigate websites that have no official APIs, including Target, Walmart, OpenTable, and LinkedIn. It said that the Handoff agent looks at website structure and visual data to understand if it needs to click buttons or type information.\nThe premise is similar to tons of browser-based agents released before. Issue a command, and it will complete tasks for you, including ordering food or coffee, booking travel tickets, filing returns, shopping for essentials, reserving a table at a restaurant, or researching on your behalf by looking at various sources.\nIn a video demo, the company’s CEO, Brett Adcock, showed that the assistant can take a command to build a bouquet with flowers users specify, along with accommodating fuzzy terms like “some of the florist’s choice.” Notably, the video shows only part of the process, so we can’t really gauge its effectiveness.\n\n\n\nThe company said that for this release, it’s using a post-trained model, and plans to pre-train later this year. Hark said that, with this approach, it can refine its data pipeline, training infrastructure, and techniques more quickly. Hark also claims that, unlike large language models (LLMs) predicting the next token, its model can predict the next action — which could be a clock or a keyboard input at a specific place.\nThere are many companies working on computer-use agents, including Google, OpenAI, and Anthropic, with VC-funded startups working on browser-based task automation, such as Browser Use, Polar, Strawberry, and Aside. \nHark said that its Handoff agent is faster than the competition and also costs much less than other models like GPT 5.5 and Opus 4.8. The startup has opened a waitlist for its platform and plans to release it by the end of the summer.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Hark previews its browser use agent for completing tasks",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-05-at-8.10.59-PM.jpg?w=150"
-      ],
-      "datePublished": "2026-08-05T15:46:27.000Z",
-      "dateModified": "2026-08-05T15:46:27.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Trump’s DOJ gains oversight of OpenAI’s green-card employee sponsorships",
-    "url": "https://techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-08-05T21:05:37.000Z",
-    "description": "\nThe Justice Department’s Civil Rights Division announced on Wednesday that OpenAI, and its once-subsidiary Statsig, signed a settlement that includes",
-    "body": "\nThe Justice Department’s Civil Rights Division announced on Wednesday that OpenAI, and its once-subsidiary Statsig, signed a settlement that includes three years of oversight over the AI lab’s hiring practices.\nThe DOJ has alleged that these companies used various tactics to prevent U.S. citizens from applying for jobs held by immigrant employees when the companies were sponsoring those workers for permanent U.S. residence. The companies did not admit to wrongdoing, although they did agree to pay $3.2 million. Of that, $1.2 million is a fine and the remaining $2 million is being set aside to pay restitution to U.S. citizens who applied to those jobs, should the DOJ find any who were harmed.\nThe DOJ alleged that OpenAI and Statsig broke provisions of the Immigration and Nationality Act (INA) by not truly looking for qualified U.S. citizens for these jobs before pursuing permanent residence applications (PERM) as the INA requires. The DOJ said they didn’t list roles on public job boards, advertised on the radio late at night, and required paper applications rather than electronic ones.\nWhile there were fewer than 10 roles at issue, the DOJ said that as part of the settlement, the companies must pay the fine and submit to oversight by the department over their PERM roles. Oversight includes items such as drafting and obtaining approval for their PERM-role hiring policies and submitting semiannual reports. Those reports must include how many applications for foreign employees they pursued, how many U.S. citizens they interviewed, and other statistics.\nOpenAI acquired AI A/B testing company Statsig in September 2025 and later divested at least part of the business in May 2026. The DOJ, however, says it began investigating both companies separately before the acquisition, in August 2025, including five cases at OpenAI between 2023 and 2025, and one at Statsig.\nThe DOJ says that this settlement is part of its increased crackdown on companies over the matter. However, the INA, a law passed in 1952, has been enforced by other administrations against other Big Tech companies. During Biden’s administration, for instance, both Facebook and Apple signed similar settlements, though in both of those cases the DOJ alleged that the violations were widespread and systematic.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Trump’s DOJ gains oversight of OpenAI’s green-card employee sponsorships",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=150"
-      ],
-      "datePublished": "2026-08-05T21:05:37.000Z",
-      "dateModified": "2026-08-05T21:05:37.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "How Lightspeed found its newest hire … via Instagram DM",
-    "url": "https://techcrunch.com/2026/08/05/how-lightspeed-found-its-newest-hire-via-instagram-dm/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Jpeg.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-08-05T20:48:56.000Z",
-    "description": "\nEarlier this year, Lightspeed made headlines when it announced that Claire Zau, an investor and popular tech content creator, would join the venture ",
-    "body": "\nEarlier this year, Lightspeed made headlines when it announced that Claire Zau, an investor and popular tech content creator, would join the venture firm. She has more than 100,000 followers on TikTok and over 250,000 followers on Instagram, where she breaks down the day’s biggest tech trends. \nLightspeed partners Josh Machiz and Zau stopped by the Equity studio to talk about the strategy behind their growing social media presence; their podcast, Lightwork; and how it all started with a direct message on Instagram.\n“A lot of people want to participate in the future and are excited about technology,” Zau told Equity. “They just don’t have the facts presented to them in an accessible way. So that’s hopefully the role I feel very lucky and privileged to play.” \nZau, in many ways, is part of a new class of venture operators using social media to connect with new audiences, whether that’s people who are simply tech curious or future founders who may then turn to Lightspeed for a check.\nThe podcast she co-hosts with Machiz, Lightspeed’s CMO, is part of the new media trend that many venture firms are embracing, where firms take on a greater role in helping their portfolio companies share their stories with the world. \n“There’s less and less traditional journalism out there because of layoffs and the consolidation in media,” Machiz said. “If you’re a startup, it’s harder to get your story out there. There are less places to go to get it out. There’s now pretty heavy bars to get your funding story out. And so we hope to also be able to provide in the new media world another opportunity to tell your story.” \nSo far, the duo — and the firm — see some benefits to expanding the Lightspeed media empire. Connecting with early founders is the main one, but being online also helps them get real-time feedback on investments and new technology. For example, Zau talked about how, within the Silicon Valley bubble, everyone was so excited to cut a check for a new AI startup, but then she would talk about the investment online and get the sense that Gen Z was actually quite anti-AI. \n“It was, I would even say, humbling,” she said of the direct feedback she would get to some of her videos. “It’s so helpful to have basically real-time visibility into how people are using these technologies and what kinds of narratives are hitting.” \nMachiz and Zau also spoke to Equity about what comes next for them. Another podcast? A TV show one day? “Our goal is to be the place where hopefully future founders learn about venture, understand the ecosystem,” Machiz said. “We’re still early days.” \nListen to hear more of the conversation — and what Machiz and Zau have planned next. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tDominic-Madori Davis is a senior venture capital and startup reporter at TechCrunch. She is based in New York City.\r\nYou can contact or verify outreach from Dominic by emailing dominic.davis@techcrunch.com or via encrypted message at +1 646 831-7565 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "How Lightspeed found its newest hire … via Instagram DM",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/08/Jpeg.jpg?w=150"
-      ],
-      "datePublished": "2026-08-05T20:48:56.000Z",
-      "dateModified": "2026-08-05T20:48:56.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Zoox to start charging for robotaxi rides in Las Vegas",
-    "url": "https://techcrunch.com/2026/08/05/zoox-to-start-charging-for-robotaxi-rides-in-las-vegas/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Zoox-Robotaxi-Vegas-traffic.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-08-05T15:06:42.000Z",
-    "description": "\nNearly a year ago, Zoox opened its robotaxi service to the public in Las Vegas. Now, it is ready to start charging for those rides.\nThe Amazon-owned ",
-    "body": "\nNearly a year ago, Zoox opened its robotaxi service to the public in Las Vegas. Now, it is ready to start charging for those rides.\nThe Amazon-owned autonomous vehicle technology company said that it will start charging for rides in Las Vegas starting August 10, marking the launch of its commercial operations. The company has spent years working toward this moment.\nThe Silicon Valley startup was founded in 2014 with a plan to develop a custom-built electric vehicle and the self-driving stack that would drive it, as well as an on-demand ridesharing app. The company was acquired by Amazon in 2020, and later that year unveiled its robotaxi, a cube-like vehicle equipped with a self-driving system, loads of sensors, and a moonroof, but no steering wheel or pedals. Zoox has spent the past six years testing the vehicle and updating the hardware.\nZoox has faced a number of hurdles over its 12 years, spanning funding, technical development, securing the proper permits for testing, and even several recalls. One major obstacle was lifted last week when federal safety regulators gave Zoox a temporary exemption from certain federal motor vehicle safety standards.\nThe exemption, issued by the National Highway Traffic Safety Administration (NHTSA), allows the company to charge customers for rides in its robotaxis. Because Zoox vehicles lack many of the traditional controls required under federal law, it needed an exemption in order to operate.\nZoox received an exemption last year that allowed it to demonstrate its robotaxis, but not charge. The commercial exemption, which lasts two years and allows Zoox to deploy up to 2,500 vehicles, spans eight federal motor vehicle standards, including windshield defrosting and light vehicle braking systems.\nThe startup also offers robotaxis in other markets, such as San Francisco and Austin, but it will have to offer them for free for now. In California, Zoox still needs two more permits to operate commercially.\nZoox said robotaxi fares will be calculated based on a base fare, plus distance and time traveled from pick-up to drop-off. The company said the final fee will be calculated based on the best route, and be visible before booking. That fare will not change even if the Zoox robotaxi ends up taking a different route.\nDestination fees, such as trips to or from the airport, or a high-traffic event at the Sphere or T-Mobile Arena, may also be included in the pricing, the company said. Zoox said it is trying to be competitive with the “comfort” pricing levels offered by traditional ride-hail services.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tKirsten Korosec is a reporter and editor who has covered the future of transportation from EVs and autonomous vehicles to urban air mobility and in-car tech for more than a decade. She is currently the transportation editor at TechCrunch and co-host of TechCrunch’s Equity podcast. She is also co-founder and co-host of the podcast, “The Autonocast.” She previously wrote for Fortune, The Verge, Bloomberg, MIT Technology Review and CBS Interactive.\nYou can contact or verify outreach from Kirsten by emailing kirsten.korosec@techcrunch.com or via encrypted message at kkorosec.07 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Zoox to start charging for robotaxi rides in Las Vegas",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/08/Zoox-Robotaxi-Vegas-traffic.jpg?w=150"
-      ],
-      "datePublished": "2026-08-05T15:06:42.000Z",
-      "dateModified": "2026-08-05T15:06:42.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
-    "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/05/ShopifyIPO2-e1683204509217.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-08-05T15:56:14.000Z",
-    "description": "\nE-commerce software maker Shopify seems to be benefiting handily from people using AI to search. \nOn the company’s second-quarter earnings call, Shop",
-    "body": "\nE-commerce software maker Shopify seems to be benefiting handily from people using AI to search. \nOn the company’s second-quarter earnings call, Shopify President Harley Finkelstein said AI has become a “complement to search, rather than a substitute for it,” and had particularly benefited the long tail of e-commerce, including the smaller merchants that make up the majority of its customer base. Indeed, the company credited its earnings beat and soaring revenue to AI search, at least partly.\nThis is quite different from how AI is impacting online publishing, where AI summaries have led to a measurable drop in click-through rates, which lowers traffic and consequently eats into advertising revenues.\nInstead, Shopify believes that AI is a boon to its business. The company noted that AI-driven traffic and orders to Shopify stores had tripled year-over-year in the second quarter. \nAnd, this was not a result of AI taking share from search. “In fact, search remains one of our largest sources of buyer traffic to our merchants, and it’s still growing,” Finkelstein told analysts on the call. “Traditional search sessions are up 1.3x over the past two years, holding roughly a third of all storefront sessions.”\nThe e-commerce platform reported strong results in the quarter, with revenue rising 36% to $3.6 billion from a year earlier, outstripping Wall Street’s forecast of $3.4 billion. Gross operating profit rose 31% to $1.71 billion, also ahead of analysts’ expectations of $1.63 billion.\nThe company went into further detail about why AI search was working for its business.\n“While search engines rank by popularity against a handful of keywords, AI agents make multiple calls into Shopify’s catalog, working with richer structured data to match products with the buyer’s specific intent, rather than just keywords,” Finkelstein explained. \n“When a buyer asks an AI assistant for the best car seat that fits three across a sedan, traditional search focuses on the keyword ‘car seat.’ An agent, however, understands the actual need, the dimensions, the vehicle type, and the fact that they need three. It searches across all of those constraints at once to find the product that actually works, not just the one that ranks highest,” he said.\nIn other words, AI’s capability to search across many dimensions to find the best product for users is resulting in better conversions for merchants.\n“Buyers’ shopping journeys are being compressed as half of all AI-referred sessions are landing directly on a product description page. That is 2.5 times more than what we see with traditional search,” Finkelstein added. \nPlus, the company said 75% of AI-attributed purchases in Q2 happened outside the top 100 categories, or what Shopify called its “sweet spot.”\nIn addition, the company suggested Shopify stands to benefit from AI playing a larger role in transactions thanks to its trusted checkout experience.\nThe company pointed out that it’s also working with AI tools and agents, having built connectors to Claude, ChatGPT, Perplexity, Manus, Replit, and Vercel, as well as vibe-coding platforms like Lovable that let merchants build on Shopify however they choose.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Shopify says AI search is driving more traffic and sales, not replacing Google",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2023/05/ShopifyIPO2-e1683204509217.jpg?w=150"
-      ],
-      "datePublished": "2026-08-05T15:56:14.000Z",
-      "dateModified": "2026-08-05T15:56:14.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Moove raises $250M to become the backbone of the robotaxi industry",
-    "url": "https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/08/6D76F699-3990-44C1-ABE5-7E1EFD99011E.jpeg?w=150",
-    "tag": "Tech",
-    "date": "2026-08-05T20:50:45.000Z",
-    "description": "\nMoove’s evolution from a vehicle financing startup to ride-hailing and deliveries in Africa to one that also owns autonomous vehicles may seem like a",
-    "body": "\nMoove’s evolution from a vehicle financing startup to ride-hailing and deliveries in Africa to one that also owns autonomous vehicles may seem like a leap. But co-founder and co-CEO Ladi Delano said the experience in financing and human-driven ride-hailing fleets was the ideal training ground for its latest pursuit.\nAnd now it has raised $250 million at a $2.1 billion valuation to scale that business.\nThe company, founded in 2020 in Nigeria and now headquartered in Dubai, said Mubadala Investment Company led this latest Series C round, with Woven Capital and Ion Pacific as co-leads.\nMoove is still very much in the human-driven ride-hailing business. It owns and operates a 42,000-vehicle ride-hailing fleet across 14 countries. The company, which employs 3,300 people globally, also still provides vehicle financing to gig drivers.\nIts expansion into autonomous vehicles started in early 2023 after evaluating the industry and its four main players in this nascent ecosystem: the AV developers, vehicle manufacturers, marketplaces like Uber, and the consumer. None of these players want to “own the metal,” Delano told TechCrunch, referring to the vehicles.\n“In this world, who owns the vehicle? Who operates the vehicle? Who orchestrates the vehicle? Who does the servicing, the maintenance? Who does the lost property? Who does the cleaning?” Delano asked. It became clear, he added, that Moove’s experience managing large fleets and providing financing could translate to autonomous vehicle operations. \n“Let’s create a product where we own, operate, and orchestrate autonomous vehicles, and let’s go and find partners to do it with — and that’s essentially what we did,” Delano said. “In 2023, we started talking to every single AV company you could imagine, and as you know — God would have it, luck would have it — we managed to partner with Waymo first.”\nMoove is the fleet operator for Waymo in Phoenix, Miami, and Las Vegas, and in the future, London. The company doesn’t own the Waymo vehicles, but it plans to. Moove intends to use debt financing to purchase the robotaxis. Delano didn’t share a timeline for when Moove will start buying Waymo robotaxis. He did say Moove already owns robotaxi vehicles from another AV developer, although he wouldn’t disclose which company.\n“Ultimately our vision is to own, you know, hundreds of thousands of vehicles,” he said, referring to robotaxis.\nThis latest funding will be used to scale the company’s autonomous vehicle fleet management business, including hiring about 350 people. (Delano said its traditional mobility business is set to achieve full profitability this year.) Some of the capital will also go toward developing automated depots that it calls “nests.” These “nests” will be able to operate around the clock and use robotics to automate vehicle charging, maintenance, and servicing.\nMoove has about 15 depots that are in some stage of development. Delano wouldn’t say when its automated, “lights-out” depots would come online, noting that this is a future product. \nOther backers in the round include BlueCrest Capital Management, Sona Asset Management, and Raptor Group, BlackRock, MUFG, Franklin Templeton, Uber, Left Lane, Silverbacks Holdings, Square Associates, The Latest Ventures, Endeavor Catalyst, and the Ontario Power Generation Pension Plan. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tKirsten Korosec is a reporter and editor who has covered the future of transportation from EVs and autonomous vehicles to urban air mobility and in-car tech for more than a decade. She is currently the transportation editor at TechCrunch and co-host of TechCrunch’s Equity podcast. She is also co-founder and co-host of the podcast, “The Autonocast.” She previously wrote for Fortune, The Verge, Bloomberg, MIT Technology Review and CBS Interactive.\nYou can contact or verify outreach from Kirsten by emailing kirsten.korosec@techcrunch.com or via encrypted message at kkorosec.07 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Moove raises $250M to become the backbone of the robotaxi industry",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2023/08/6D76F699-3990-44C1-ABE5-7E1EFD99011E.jpeg?w=150"
-      ],
-      "datePublished": "2026-08-05T20:50:45.000Z",
-      "dateModified": "2026-08-05T20:50:45.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Why Lightspeed is going all-in on creator-led venture capital",
-    "url": "https://techcrunch.com/video/why-lightspeed-is-going-all-in-on-creator-led-venture-capital/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Lightspeed-Josh.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-08-05T20:48:54.000Z",
-    "description": "\n\t\t\n\nLoading the player…\n\nVenture firms are turning to creators to build trust with the next generation of founders before a check is ever written. It",
-    "body": "\n\t\t\n\nLoading the player…\n\nVenture firms are turning to creators to build trust with the next generation of founders before a check is ever written. It’s a trend that’s been building with a16z’s acquisition of Erik Torenberg’s Turpentine podcast and OpenAI’s acquisition of TBPN. Lightspeed Venture Partners just made its own notable hire in that vein, bringing on Claire Zau, a seed investor with a major following on Instagram and TikTok, to source deals and co-host the firm’s new show, Lightwork, alongside CMO Josh Machiz. \nOn this episode of TechCrunch’s Equity podcast, Dominic-Madori Davis is joined by Zau and Machiz to dive deep into whether the “creator-investor” is becoming a real function in venture or just something firms are still trying to figure out. \nSubscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. You also can follow Equity on X and Threads, at @EquityPod. \n\n\t\t\n\tTopics\n\n\n\n\t\tTheresa Loconsolo is an audio producer at TechCrunch focusing on Equity, the network’s flagship podcast. Before joining TechCrunch in 2022, she was one of 2 producers at a four-station conglomerate where she wrote, recorded, voiced and edited content, and engineered live performances and interviews from guests like lovelytheband. Theresa is based in New Jersey and holds a bachelors degree in Communication from Monmouth University. You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n\n\t\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Why Lightspeed is going all-in on creator-led venture capital",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/08/Lightspeed-Josh.jpg?w=150"
-      ],
-      "datePublished": "2026-08-05T20:48:54.000Z",
-      "dateModified": "2026-08-05T20:48:54.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Trump EPA wrongly canceled $20B in climate funds, appeals court rules",
-    "url": "https://techcrunch.com/2026/08/05/trump-epa-wrongly-canceled-20b-in-climate-funds-appeals-court-rules/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2201520437.jpeg?w=150",
-    "tag": "Tech",
-    "date": "2026-08-05T14:40:13.000Z",
-    "description": "\nThe Trump administration did not have the authority to terminate and claw back funding that had already been disbursed to climate nonprofits, an appe",
-    "body": "\nThe Trump administration did not have the authority to terminate and claw back funding that had already been disbursed to climate nonprofits, an appeals court ruled on Tuesday.\nEight nonprofit groups have been seeking to regain access to billions of dollars that had been deposited in their bank accounts after EPA Administrator Lee Zeldin, along with the FBI and the Treasury Department, ordered Citibank to freeze their accounts in February 2025.\nThe decision gives the groups access to their funding while the EPA decides whether to appeal to the U.S. Supreme Court. However, many of the organizations have had to enact significant cuts while their accounts were frozen.\nThe judgment upholds an injunction preventing the EPA from taking back money that had already been disbursed to the nonprofits’ bank accounts. Six of 10 judges on the U.S. Circuit Court of Appeals for the District of Columbia Circuit supported lifting the injunction.\nThe judges said that the EPA was attempting to claw back the funding “solely on a policy disagreement.” The move unlawfully withheld funding that had been appropriated by the Inflation Reduction Act (IRA) to create the Greenhouse Gas Reduction Fund, a $20 billion program to spur clean energy development. \nMuch of the funding would have created debt facilities that would help businesses and communities wean themselves off fossil fuels. Such loans have delinquency rates similar to those of commercial lenders.\nThe Trump EPA had argued that it had the authority to claw back funding because the One Big Beautiful Bill Act (OBBBA) repealed the part of the IRA that created the Greenhouse Gas Reduction Fund.\nBut the assenting judges said that because funds were already obligated and disbursed into the nonprofits’ accounts, the OBBBA didn’t have grounds to claw back the money. In other words, the government can’t make a new law to take back money it had already sent out.\nWhile nonprofits celebrated the decision, it might be too little, too late for some of them.\nClimate United’s CEO left in March and hasn’t been replaced, while Power Forward Communities only has two employees left, The New York Times reported. Others have had to lay off workers.\nThe EPA has seven days to file an appeal to the Supreme Court.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tTim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor. \r\nDe Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.\r\nYou can contact or verify outreach from Tim by emailing tim.dechant@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Trump EPA wrongly canceled $20B in climate funds, appeals court rules",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2201520437.jpeg?w=150"
-      ],
-      "datePublished": "2026-08-05T14:40:13.000Z",
-      "dateModified": "2026-08-05T14:40:13.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals ",
-    "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Real-World-AI-Stage-Site-1.png?w=150",
-    "tag": "Tech",
-    "date": "2026-08-05T15:05:00.000Z",
-    "description": "\nAt our past TechCrunch Disrupt events, AI has taken center stage, both throughout our programming and in a stage of its own. This year, the technolog",
-    "body": "\nAt our past TechCrunch Disrupt events, AI has taken center stage, both throughout our programming and in a stage of its own. This year, the technology, implications, and players are so rapidly developing and widespread that we’re expanding the single AI stage into two!\nThe AI Stage will continue as you’d expect, with a rundown of sessions and speakers available for review right here. But the Real World AI Stage is brand-new for TechCrunch Disrupt 2026.\nOn this stage, we’ll be focusing on that intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two, as autonomous hardware goes beyond self-driving cars and enters public spaces, battlefields, our homes, and even potentially helps extinct species reenter Earth.\nIt’s a packed lineup featuring speakers from Shield AI, Colossal Biosciences, FieldAI, Foxglove, and more still to come.\nYou can join in on all the excitement October 13 to 15 at San Francisco’s Moscone West. As a bonus, if you’re catching this before 11:59 p.m. PT on August 7, you can get an extra $100 off your ticket by following this link. \nHere’s the first breakdown of our Real World AI Stage lineup:\nBuilding AI Systems When Failure Is Not an Option \nWith Nate Michael, CTO, Shield AI\nWhen AI enters the physical world, the consequences of failure change. A mistake could lead to a grounded aircraft, a vehicle crash, or a compromised mission.\nIn this session, leaders who are building autonomous vehicles, defense technologies, and industrial systems will talk about one of the toughest questions that every hard tech founder must face: How do you know when your system is ready to be safely deployed?  \nWe’ll dig into how founders can create a safety culture, test and validate AI, navigate regulatory hurdles, and build companies that can earn trust when the stakes are high.   \nCan We Engineer Nature’s Comeback? \nWith Ben Lamm, CEO, Colossal Biosciences\nBen Lamm has built one of the most controversial companies in tech by turning de-extinction from science fiction into a billion-dollar business. In this fireside chat, the Colossal Biosciences CEO will discuss the technologies used to revive extinct species, the role AI plays in modern biology, and the growing debate over whether engineering nature is a conservation breakthrough or a distraction from protecting what’s already here.\nOperating at the Edge: How AI Works When the Cloud Doesn’t \nWith Dr. Ali Agha, CEO and founder of FieldAI; Michelle Lee, CEO and founder, Medra; and Aidan Madigan-Curtis, partner, Eclipse Ventures\nThe most valuable AI deployments in the world operate where the cloud can’t reach. And building for them requires a different technological playbook.  \nThis session brings together leaders from defense, space, and industrial AI who will share how they have tackled the challenge of making AI work at the edge — where latency matters, connectivity is limited, and failure isn’t an option. Expect practical lessons on architectural principles, design decisions, and trade-offs that make AI-centric systems work in the real world.   \nFrom Prototype to Production: Can it scale in reality? \nWith John Mackey, CEO, co-founder, MBRYONICS; Boris Sofman, co-founder and CEO, Bedrock Robotics; and Adrian Macneil, CEO, Foxglove\nA prototype that works is not a product. A product that ships is not a scaled business. The gap between each of those stages is where most deep tech startups die. Founders might have the right team and tech, but they fail to understand what it takes to bring a prototype into production and eventually scale to higher, profitable volumes.  \nThis session brings together founders who have crossed that gap in space hardware, humanoid robotics, and autonomous systems. They’ll share what they got wrong, what they’d do earlier, and what the prototype-to-production journey looks like when supply chains and manufacturing realities replace lab conditions.\n\nThere’s plenty more in store for you at Disrupt 2026 — after all, that’s just one stage’s worth of programming! For a sense of what else you’ll get to access, we’ve also announced the:\n\nDisrupt Stage, featuring top speakers from Replit, Amazon, Tether, and more.\n\n\nAI Stage, digging into the security gaps and business model shifts AI is forcing on every SaaS company. \n\n\nSmart Money Stage, covering stablecoins, instant payments, and AI’s role in financial trust.\n\n\nSmart Systems Stage, tackling the fusion breakthroughs and grid strain powering AI’s next decade. \n\n\nBuilders Stage, where founders and investors get tactical about raising, hiring, and scaling.\n\nBe part of Disrupt 2026 in San Francisco from October 13–15, where more than 10,000 startup, tech, and VC leaders come together for three days of insights, Startup Battlefield, unparalleled networking, and access to every stage and the exhibition floor.  \nRegister today! \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals ",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/08/Real-World-AI-Stage-Site-1.png?w=150"
-      ],
-      "datePublished": "2026-08-05T15:05:00.000Z",
-      "dateModified": "2026-08-05T15:05:00.000Z",
       "author": [
         {
           "@type": "Person",
