@@ -25,6 +25,56 @@
     }
   },
   {
+    "title": "Talks to sell PayPal to Stripe and Advent are heating up",
+    "url": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1584248812.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-08-14T22:43:24.000Z",
+    "description": "\nIn Brief\nPosted:\n3:43 PM PDT · August 14, 2026\n\nImage Credits:CFOTO/Future Publishing / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nPayPa",
+    "body": "\nIn Brief\nPosted:\n3:43 PM PDT · August 14, 2026\n\nImage Credits:CFOTO/Future Publishing / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nPayPal CEO Enrique Lores’ turnaround plan for the fintech company could include a sale — of itself. \nThe prospect first popped in July when Stripe and private equity giant Advent offered to buy PayPal for $60.50 a share in a deal that would have valued it at $53 billion, the Wall Street Journal reported at the time. \nPayPal balked. But apparently, negotiations never stopped and a deal could come together in the coming weeks, according to new reporting by the WSJ, which cited unnamed sources. \nPayPal declined to comment on the report. A Stripe spokesperson said the company doesn’t “comment on rumors or speculation.”\nThe negotiations are taking place as Lores attempts to save the company from its lagging trajectory. \nLores joined PayPal in March, after spending years at HP. In April, Lores made the first moves in his turnaround plan, including an executive shuffle and splitting the business into three operating models: checkout solutions and PayPal, consumer financial services (and Venmo), and payment services and crypto. A month later, Lores told investors that PayPal would recommit to the fundamentals,” which included “becoming a technology company again.” \nPayPal’s turnaround will also include a cost-saving plans, which is expected to reduce its workforce by 20% over the next two to three years.\nPayPal was founded in 1998 by a number of men who went on to be Silicon Valley luminaries, including Peter Thiel, Elon Musk, Max Levchin, Luke Nosek, and others. The company has struggled in recent years, after ballooning during the pandemic due to an e-commerce boom. \n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Fintech\n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Talks to sell PayPal to Stripe and Advent are heating up",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1584248812.jpg?w=150"
+      ],
+      "datePublished": "2026-08-14T22:43:24.000Z",
+      "dateModified": "2026-08-14T22:43:24.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Google will now allow users to remove visible watermark from its AI generations",
+    "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-08-14T16:13:40.000Z",
+    "description": "\nIn Brief\nPosted:\n9:13 AM PDT · August 14, 2026\n\nImage Credits:Matteo Della Torre/NurPhoto / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nG",
+    "body": "\nIn Brief\nPosted:\n9:13 AM PDT · August 14, 2026\n\nImage Credits:Matteo Della Torre/NurPhoto / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nGoogle announced on Friday that it will now allow users to remove a visible watermark from its AI generations, including images, videos, and songs. The company specified that this won’t affect the invisible SynthID watermark and C2PA standard-related metadata.\nJosh Woodward, the company’s VP for Gemini, said in a post on X that this toggle will be available for Nano Banana, Omni, and Lyria models. He specified that the setting to turn the visible watermark off will be available in Gemini and Google’s video editor, Flow, with support for Search coming soon.\nThe change reflects an evolving approach to labeling AI-generated media, as visible watermarks can often make content less useful for professional and creative work, but the need to identify AI-generated content remains. \n“We’re striking a balance here between creative control and safety: while the visible watermarks are now optional, invisible SynthID watermarks and C2PA metadata are still being used for transparency. So you can still use Gemini or Search to see if an image was AI-generated,” he wrote.\nThe feature is rolling out in the coming days, and once available, users will be able to go to Settings > Media Watermark to turn the visible mark on or off.\nGoogle is also open sourcing a new library called Credentio to let developers embed a local validation mechanism in their apps.\nThis comes after Anthropic’s hotly debated move to include a watermark in text and files generated by Claude to comply with EU regulations. \n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in AI\n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Google will now allow users to remove visible watermark from its AI generations",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=150"
+      ],
+      "datePublished": "2026-08-14T16:13:40.000Z",
+      "dateModified": "2026-08-14T16:13:40.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
     "url": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2202517874.jpg?w=150",
@@ -66,56 +116,6 @@
       ],
       "datePublished": "2026-08-13T19:22:40.000Z",
       "dateModified": "2026-08-13T19:22:40.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Google will now allow users to remove visible watermark from its AI generations",
-    "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-08-14T16:13:40.000Z",
-    "description": "\nIn Brief\nPosted:\n9:13 AM PDT · August 14, 2026\n\nImage Credits:Matteo Della Torre/NurPhoto / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nG",
-    "body": "\nIn Brief\nPosted:\n9:13 AM PDT · August 14, 2026\n\nImage Credits:Matteo Della Torre/NurPhoto / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nGoogle announced on Friday that it will now allow users to remove a visible watermark from its AI generations, including images, videos, and songs. The company specified that this won’t affect the invisible SynthID watermark and C2PA standard-related metadata.\nJosh Woodward, the company’s VP for Gemini, said in a post on X that this toggle will be available for Nano Banana, Omni, and Lyria models. He specified that the setting to turn the visible watermark off will be available in Gemini and Google’s video editor, Flow, with support for Search coming soon.\nThe change reflects an evolving approach to labeling AI-generated media, as visible watermarks can often make content less useful for professional and creative work, but the need to identify AI-generated content remains. \n“We’re striking a balance here between creative control and safety: while the visible watermarks are now optional, invisible SynthID watermarks and C2PA metadata are still being used for transparency. So you can still use Gemini or Search to see if an image was AI-generated,” he wrote.\nThe feature is rolling out in the coming days, and once available, users will be able to go to Settings > Media Watermark to turn the visible mark on or off.\nGoogle is also open sourcing a new library called Credentio to let developers embed a local validation mechanism in their apps.\nThis comes after Anthropic’s hotly debated move to include a watermark in text and files generated by Claude to comply with EU regulations. \n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in AI\n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Google will now allow users to remove visible watermark from its AI generations",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=150"
-      ],
-      "datePublished": "2026-08-14T16:13:40.000Z",
-      "dateModified": "2026-08-14T16:13:40.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Talks to sell PayPal to Stripe and Advent are heating up",
-    "url": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1584248812.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-08-14T22:43:24.000Z",
-    "description": "\nIn Brief\nPosted:\n3:43 PM PDT · August 14, 2026\n\nImage Credits:CFOTO/Future Publishing / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nPayPa",
-    "body": "\nIn Brief\nPosted:\n3:43 PM PDT · August 14, 2026\n\nImage Credits:CFOTO/Future Publishing / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nPayPal CEO Enrique Lores’ turnaround plan for the fintech company could include a sale — of itself. \nThe prospect first popped in July when Stripe and private equity giant Advent offered to buy PayPal for $60.50 a share in a deal that would have valued it at $53 billion, the Wall Street Journal reported at the time. \nPayPal balked. But apparently, negotiations never stopped and a deal could come together in the coming weeks, according to new reporting by the WSJ, which cited unnamed sources. \nPayPal declined to comment on the report. A Stripe spokesperson said the company doesn’t “comment on rumors or speculation.”\nThe negotiations are taking place as Lores attempts to save the company from its lagging trajectory. \nLores joined PayPal in March, after spending years at HP. In April, Lores made the first moves in his turnaround plan, including an executive shuffle and splitting the business into three operating models: checkout solutions and PayPal, consumer financial services (and Venmo), and payment services and crypto. A month later, Lores told investors that PayPal would recommit to the fundamentals,” which included “becoming a technology company again.” \nPayPal’s turnaround will also include a cost-saving plans, which is expected to reduce its workforce by 20% over the next two to three years.\nPayPal was founded in 1998 by a number of men who went on to be Silicon Valley luminaries, including Peter Thiel, Elon Musk, Max Levchin, Luke Nosek, and others. The company has struggled in recent years, after ballooning during the pandemic due to an e-commerce boom. \n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Fintech\n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Talks to sell PayPal to Stripe and Advent are heating up",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1584248812.jpg?w=150"
-      ],
-      "datePublished": "2026-08-14T22:43:24.000Z",
-      "dateModified": "2026-08-14T22:43:24.000Z",
       "author": [
         {
           "@type": "Person",
@@ -200,6 +200,81 @@
     }
   },
   {
+    "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+    "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/09/May-Habib-Disrupt-2023.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-08-13T21:13:24.000Z",
+    "description": "\nAcross the AI industry, users are becoming more conscious of just how expensive their deployments can be —and feeling a new urgency to cut costs. But",
+    "body": "\nAcross the AI industry, users are becoming more conscious of just how expensive their deployments can be —and feeling a new urgency to cut costs. But while open source models offer significantly lower per-token costs, it can be difficult to find the right model for a given job.\nOn Thursday, Writer, which offers AI tools and agents for marketers, launched a new flagship model called Palmyra X6, aimed at solving that problem for its users. Built as a post-training variation on Z.ai’s open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price. The company estimates the new model, combined with changes to the companies harness infrastructure, will cut costs for its customers by as much as 50% for basic tasks.\nTogether with the new model, the company also released significant upgrades to its standard agentic harness. Both features will be available to Writer clients starting Thursday.\n“I think the enterprise is absolutely sick of chasing the next benchmark,” CEO May Habib told TechCrunch. “They want flattening cost, and it seems like nobody can deliver that.”\nThe new approach puts particular emphasis on complex, multi-step tasks, executed faster and with fewer tokens. And Writer sees harness optimization as a crucial lever toward making that happen.\nA recent paper from Writer researchers lends credence to this approach, testing small changes in harness efficiency across multiple different models. The research found that, in many cases, changes in the harness were a more reliable way to reduce costs than model choice, with costs falling an average of 40% across their testing.\n“The harness is the one component whose efficiency multiplies across every model an organization runs—present and future,” the researchers wrote.\nFor Writer’s clients, the experience is still model-agnostic: Palmyra X6 will sit alongside other Writer models or outside models imported through Azure or Amazon Bedrock. But Habib also sees the push to cut costs as driving a broader distrust toward major AI labs, which have a financial incentive to drive up token use.\n“The cost explosion here is just unprecedented for customers, and so is the degree to which CIOs are giving up on the labs,” Habib told TechCrunch, adding that the AI labs “don’t deeply understand right how to help an enterprise get benefit from AI.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tRussell Brandom has been covering the tech industry since 2012, with a focus on platform policy and emerging technologies. He previously worked at The Verge and Rest of World, and has written for Wired, The Awl and MIT’s Technology Review.\r\n He can be reached at russell.brandom@techcrunch.com or on Signal at 412-401-5489.\t\n\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Writer introduces new AI model and upgraded harness to contain token costs",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2023/09/May-Habib-Disrupt-2023.jpg?w=150"
+      ],
+      "datePublished": "2026-08-13T21:13:24.000Z",
+      "dateModified": "2026-08-13T21:13:24.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+    "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+    "image": "https://techcrunch.com/wp-content/uploads/2021/04/Ali_Ghodsi.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-08-13T20:14:39.000Z",
+    "description": "\nThere’s a funny kind of game that the latest of late-stage startups must play when raising money. They often have to sell more shares than they want ",
+    "body": "\nThere’s a funny kind of game that the latest of late-stage startups must play when raising money. They often have to sell more shares than they want or risk offending some of their existing VCs.\nThis scenario recently played out with AI big-data company Databricks and its latest $5 billion raise announced Thursday, co-founder and CEO Ali Ghodsi (pictured above) told TechCrunch.\n“We wanted to raise $1 billion, but then The Information printed this article saying that Databricks is doing a big fundraise. They did that in the middle of our conference. We were heads down with our conference, and we were not actually at all focused on fundraising,” Ghodsi recalled, referring to a conference that took place in June.\n“As soon as that article went out, there was a long line of investors that started calling. My phone blew up. It was like the worst timing for us because we were busy with our conference,” he said. \nIt was an enviable problem that turned the news report into a self-fulfilling prophecy.\n“The interest level was just insane. Just from this select group of investors that we looked at, there was $15 billion of interest,” he said.\nWhen there’s that much desire to get into a deal, telling some long-term backers no is a recipe for hard feelings. Databricks decided to issue more stock, and in July, sent out a press release announcing it had closed its new round at a $188 billion valuation. (The company didn’t disclose at the time how much it had raised.)\nOn Thursday, Databricks shared it raised $5 billion from a paragraph worth of VCs that it let in on the deal and that its valuation pushed higher to a nice round $190 billion. The $5 billion round was led by Coatue and several others, including Blackstone, MGX, various accounts associated with various arms of T. Rowe Price, and new investor Sixth Street Growth. (Sixth Street is the firm founded by former Goldman Sachs chief investment officer Alan Waxman.) About two dozen VCs were named as participants.\nWhy were they all so eager? Databricks seems like a sure bet.\nGhodsi said his company has hit $7 billion of annualized run rate revenue, which is currently growing at 80% and is cash-flow positive. Its core product, a cloud data warehouse, is $1.5 billion of that run rate, and still growing at 100% year-over-year, he said.\nPlus, Databricks has the magic AI pixie dust. Its database for agents, Lakebase, launched in June, 2025, and has hit $100 million revenue run rate. Its AI chatbot tool Genie, that can do business analysis on the spot, “is insanely popular,” he said.\nSo, if the business is doing so well, why raise more capital? The company had already raised $20 billion over the past 20 months. \nAI is expensive, Ghodsi said. Databricks has multibillion-dollar cloud commitments with all three of the major hyperscalers. On top of that, “AI research is very expensive,” he said, adding that the company has an AI research team of 100 people, a highly competitive area.\nPlus, Databricks is shopping. “We do a lot of M&A.” Ghodsi said, referencing an acquisition the company announced this week of Electric, the company that makes the lightweight Postgres database PGlite, a means for agents to spin up databases (terms undisclosed). In June, it bought AI cybersecurity company Panther; in March, it bought two startups.\nThere was a time when a $1 billion round was considered a massive and difficult raise. In this age of AI spending, where startups are raising $1 billion for a seed/Series A right out of the gate, that amount is now a pittance. \nStill, Databricks’ private fundraising, instead of going public, has become something of a meme among the Valley. When it announced this round last month, people joked online that it has raised so many, it was running out of letters of the alphabet. \nGhodsi told CNBC that he still wants to take the company public one day. With such a giant roster of investors who will want to cash out one day, how can he promise anything else?\nBut today, he wants to focus on investing in AI, he said. Given the expenses involved in that, perhaps doing so out of the public eye is a wise idea.\nPlus, when he can command an instant $15 billion of interest, and on his own terms, what’s the rush?\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2021/04/Ali_Ghodsi.jpg?w=150"
+      ],
+      "datePublished": "2026-08-13T20:14:39.000Z",
+      "dateModified": "2026-08-13T20:14:39.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "IBM partners with OpenAI to bolster enterprise AI push",
+    "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1127480719.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-08-13T19:19:49.000Z",
+    "description": "\nIBM on Thursday announced its partnership with OpenAI to bring the AI company’s models and tools to more enterprise customers, opening another avenue",
+    "body": "\nIBM on Thursday announced its partnership with OpenAI to bring the AI company’s models and tools to more enterprise customers, opening another avenue for OpenAI to connect with some of the world’s largest companies through IBM’s global consulting business as competition for corporate AI spending intensifies.\nThe deal, terms of which were not disclosed, comes less than a year after IBM announced a similar alliance with Anthropic. OpenAI and IBM will jointly market AI offerings and develop industry-specific solutions for sectors including financial services, government, telecommunications, and retail, IBM said.\nUnder the agreement, IBM will establish a dedicated OpenAI practice within IBM Consulting and train and certify tens of thousands of consultants — primarily retraining existing employees — on OpenAI’s technologies over the next several months, Mike Healy, managing partner at IBM Consulting, told TechCrunch.\nThe training will focus on OpenAI’s Codex, API, cybersecurity, and consultative solution credentials. IBM will also create a group of specialized “Forward Deployed Experts” trained through OpenAI’s Partner Network, Healy said.\nIBM said that it would integrate OpenAI’s latest models, including GPT-5.6, Codex, and ChatGPT Work, into IBM Consulting Advantage, its AI platform for consultants, to help clients deploy AI across core business operations.\nThe partnership is the latest in OpenAI’s push to expand its enterprise business through consulting firms and technology partners, as competition among AI model developers increasingly shifts from building more capable models to winning corporate customers and large-scale deployments. The company has previously announced partnerships with IT services firms, including Infosys and Tata Consultancy Services, underscoring a strategy of working with large global systems integrators to bring its AI products to enterprise customers.\nFor IBM, OpenAI’s agreement expands its range of frontier AI partnerships as the company pursues a model-agnostic strategy that combines its own Granite family of AI models with offerings from third-party developers. The company has increasingly positioned itself as an integrator of multiple AI models through its watsonx platform and global consulting business.\nThe partnership also comes as IBM looks to accelerate growth in its AI business after lowering its 2026 revenue forecast last month following weaker-than-expected quarterly results. During its last earnings call, Chief Executive Arvind Krishna maintained that AI remains a long-term growth driver. He stated that AI adoption was complementing, rather than replacing, demand for IBM’s mainframe business.\nIn June, IBM and OpenAI partnered for the cybersecurity-focused OpenAI Daybreak Cyber Partner Program. The new deal expands that relationship by integrating OpenAI’s AI models with IBM Autonomous Security, the company’s multi-agent-powered cybersecurity service.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tJagmeet covers startups, tech policy-related updates, and all other major tech-centric developments from India for TechCrunch. He previously worked as a principal correspondent at NDTV. \r\nYou can contact or verify outreach from Jagmeet by emailing mail@journalistjagmeet.com.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "IBM partners with OpenAI to bolster enterprise AI push",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1127480719.jpg?w=150"
+      ],
+      "datePublished": "2026-08-13T19:19:49.000Z",
+      "dateModified": "2026-08-13T19:19:49.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously",
     "url": "https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/ios-notification-threat-apple-hero.jpg?w=150",
@@ -250,97 +325,22 @@
     }
   },
   {
-    "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-    "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-    "image": "https://techcrunch.com/wp-content/uploads/2021/04/Ali_Ghodsi.jpg?w=150",
+    "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+    "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2239280474.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-08-13T20:14:39.000Z",
-    "description": "\nThere’s a funny kind of game that the latest of late-stage startups must play when raising money. They often have to sell more shares than they want ",
-    "body": "\nThere’s a funny kind of game that the latest of late-stage startups must play when raising money. They often have to sell more shares than they want or risk offending some of their existing VCs.\nThis scenario recently played out with AI big-data company Databricks and its latest $5 billion raise announced Thursday, co-founder and CEO Ali Ghodsi (pictured above) told TechCrunch.\n“We wanted to raise $1 billion, but then The Information printed this article saying that Databricks is doing a big fundraise. They did that in the middle of our conference. We were heads down with our conference, and we were not actually at all focused on fundraising,” Ghodsi recalled, referring to a conference that took place in June.\n“As soon as that article went out, there was a long line of investors that started calling. My phone blew up. It was like the worst timing for us because we were busy with our conference,” he said. \nIt was an enviable problem that turned the news report into a self-fulfilling prophecy.\n“The interest level was just insane. Just from this select group of investors that we looked at, there was $15 billion of interest,” he said.\nWhen there’s that much desire to get into a deal, telling some long-term backers no is a recipe for hard feelings. Databricks decided to issue more stock, and in July, sent out a press release announcing it had closed its new round at a $188 billion valuation. (The company didn’t disclose at the time how much it had raised.)\nOn Thursday, Databricks shared it raised $5 billion from a paragraph worth of VCs that it let in on the deal and that its valuation pushed higher to a nice round $190 billion. The $5 billion round was led by Coatue and several others, including Blackstone, MGX, various accounts associated with various arms of T. Rowe Price, and new investor Sixth Street Growth. (Sixth Street is the firm founded by former Goldman Sachs chief investment officer Alan Waxman.) About two dozen VCs were named as participants.\nWhy were they all so eager? Databricks seems like a sure bet.\nGhodsi said his company has hit $7 billion of annualized run rate revenue, which is currently growing at 80% and is cash-flow positive. Its core product, a cloud data warehouse, is $1.5 billion of that run rate, and still growing at 100% year-over-year, he said.\nPlus, Databricks has the magic AI pixie dust. Its database for agents, Lakebase, launched in June, 2025, and has hit $100 million revenue run rate. Its AI chatbot tool Genie, that can do business analysis on the spot, “is insanely popular,” he said.\nSo, if the business is doing so well, why raise more capital? The company had already raised $20 billion over the past 20 months. \nAI is expensive, Ghodsi said. Databricks has multibillion-dollar cloud commitments with all three of the major hyperscalers. On top of that, “AI research is very expensive,” he said, adding that the company has an AI research team of 100 people, a highly competitive area.\nPlus, Databricks is shopping. “We do a lot of M&A.” Ghodsi said, referencing an acquisition the company announced this week of Electric, the company that makes the lightweight Postgres database PGlite, a means for agents to spin up databases (terms undisclosed). In June, it bought AI cybersecurity company Panther; in March, it bought two startups.\nThere was a time when a $1 billion round was considered a massive and difficult raise. In this age of AI spending, where startups are raising $1 billion for a seed/Series A right out of the gate, that amount is now a pittance. \nStill, Databricks’ private fundraising, instead of going public, has become something of a meme among the Valley. When it announced this round last month, people joked online that it has raised so many, it was running out of letters of the alphabet. \nGhodsi told CNBC that he still wants to take the company public one day. With such a giant roster of investors who will want to cash out one day, how can he promise anything else?\nBut today, he wants to focus on investing in AI, he said. Given the expenses involved in that, perhaps doing so out of the public eye is a wise idea.\nPlus, when he can command an instant $15 billion of interest, and on his own terms, what’s the rush?\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "date": "2026-08-14T15:43:28.000Z",
+    "description": "\n\t\t\n\nLoading the player…\n\nMeta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to M",
+    "body": "\n\t\t\n\nLoading the player…\n\nMeta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s hosts point out, the vision comes with some asterisks. \nOn this episode of TechCrunch’s Equity podcast, Kirsten Korosec, Anthony Ha, and Rebecca Bellan take a look at Glimmer, Zuckerberg’s 6,500-word manifesto, and more of the week’s headlines, from the true cost of the AI industry’s energy needs to a $250M acquisition gone very wrong. \nSubscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. You also can follow Equity on X and Threads, at @EquityPod. \n\n\t\t\n\tTopics\n\n\n\n\t\tTheresa Loconsolo is an audio producer at TechCrunch focusing on Equity, the network’s flagship podcast. Before joining TechCrunch in 2022, she was one of 2 producers at a four-station conglomerate where she wrote, recorded, voiced and edited content, and engineered live performances and interviews from guests like lovelytheband. Theresa is based in New Jersey and holds a bachelors degree in Communication from Monmouth University. You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n\n\t\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+      "headline": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2021/04/Ali_Ghodsi.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2239280474.jpg?w=150"
       ],
-      "datePublished": "2026-08-13T20:14:39.000Z",
-      "dateModified": "2026-08-13T20:14:39.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-    "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/09/May-Habib-Disrupt-2023.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-08-13T21:13:24.000Z",
-    "description": "\nAcross the AI industry, users are becoming more conscious of just how expensive their deployments can be —and feeling a new urgency to cut costs. But",
-    "body": "\nAcross the AI industry, users are becoming more conscious of just how expensive their deployments can be —and feeling a new urgency to cut costs. But while open source models offer significantly lower per-token costs, it can be difficult to find the right model for a given job.\nOn Thursday, Writer, which offers AI tools and agents for marketers, launched a new flagship model called Palmyra X6, aimed at solving that problem for its users. Built as a post-training variation on Z.ai’s open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price. The company estimates the new model, combined with changes to the companies harness infrastructure, will cut costs for its customers by as much as 50% for basic tasks.\nTogether with the new model, the company also released significant upgrades to its standard agentic harness. Both features will be available to Writer clients starting Thursday.\n“I think the enterprise is absolutely sick of chasing the next benchmark,” CEO May Habib told TechCrunch. “They want flattening cost, and it seems like nobody can deliver that.”\nThe new approach puts particular emphasis on complex, multi-step tasks, executed faster and with fewer tokens. And Writer sees harness optimization as a crucial lever toward making that happen.\nA recent paper from Writer researchers lends credence to this approach, testing small changes in harness efficiency across multiple different models. The research found that, in many cases, changes in the harness were a more reliable way to reduce costs than model choice, with costs falling an average of 40% across their testing.\n“The harness is the one component whose efficiency multiplies across every model an organization runs—present and future,” the researchers wrote.\nFor Writer’s clients, the experience is still model-agnostic: Palmyra X6 will sit alongside other Writer models or outside models imported through Azure or Amazon Bedrock. But Habib also sees the push to cut costs as driving a broader distrust toward major AI labs, which have a financial incentive to drive up token use.\n“The cost explosion here is just unprecedented for customers, and so is the degree to which CIOs are giving up on the labs,” Habib told TechCrunch, adding that the AI labs “don’t deeply understand right how to help an enterprise get benefit from AI.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tRussell Brandom has been covering the tech industry since 2012, with a focus on platform policy and emerging technologies. He previously worked at The Verge and Rest of World, and has written for Wired, The Awl and MIT’s Technology Review.\r\n He can be reached at russell.brandom@techcrunch.com or on Signal at 412-401-5489.\t\n\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Writer introduces new AI model and upgraded harness to contain token costs",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2023/09/May-Habib-Disrupt-2023.jpg?w=150"
-      ],
-      "datePublished": "2026-08-13T21:13:24.000Z",
-      "dateModified": "2026-08-13T21:13:24.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "IBM partners with OpenAI to bolster enterprise AI push",
-    "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1127480719.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-08-13T19:19:49.000Z",
-    "description": "\nIBM on Thursday announced its partnership with OpenAI to bring the AI company’s models and tools to more enterprise customers, opening another avenue",
-    "body": "\nIBM on Thursday announced its partnership with OpenAI to bring the AI company’s models and tools to more enterprise customers, opening another avenue for OpenAI to connect with some of the world’s largest companies through IBM’s global consulting business as competition for corporate AI spending intensifies.\nThe deal, terms of which were not disclosed, comes less than a year after IBM announced a similar alliance with Anthropic. OpenAI and IBM will jointly market AI offerings and develop industry-specific solutions for sectors including financial services, government, telecommunications, and retail, IBM said.\nUnder the agreement, IBM will establish a dedicated OpenAI practice within IBM Consulting and train and certify tens of thousands of consultants — primarily retraining existing employees — on OpenAI’s technologies over the next several months, Mike Healy, managing partner at IBM Consulting, told TechCrunch.\nThe training will focus on OpenAI’s Codex, API, cybersecurity, and consultative solution credentials. IBM will also create a group of specialized “Forward Deployed Experts” trained through OpenAI’s Partner Network, Healy said.\nIBM said that it would integrate OpenAI’s latest models, including GPT-5.6, Codex, and ChatGPT Work, into IBM Consulting Advantage, its AI platform for consultants, to help clients deploy AI across core business operations.\nThe partnership is the latest in OpenAI’s push to expand its enterprise business through consulting firms and technology partners, as competition among AI model developers increasingly shifts from building more capable models to winning corporate customers and large-scale deployments. The company has previously announced partnerships with IT services firms, including Infosys and Tata Consultancy Services, underscoring a strategy of working with large global systems integrators to bring its AI products to enterprise customers.\nFor IBM, OpenAI’s agreement expands its range of frontier AI partnerships as the company pursues a model-agnostic strategy that combines its own Granite family of AI models with offerings from third-party developers. The company has increasingly positioned itself as an integrator of multiple AI models through its watsonx platform and global consulting business.\nThe partnership also comes as IBM looks to accelerate growth in its AI business after lowering its 2026 revenue forecast last month following weaker-than-expected quarterly results. During its last earnings call, Chief Executive Arvind Krishna maintained that AI remains a long-term growth driver. He stated that AI adoption was complementing, rather than replacing, demand for IBM’s mainframe business.\nIn June, IBM and OpenAI partnered for the cybersecurity-focused OpenAI Daybreak Cyber Partner Program. The new deal expands that relationship by integrating OpenAI’s AI models with IBM Autonomous Security, the company’s multi-agent-powered cybersecurity service.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tJagmeet covers startups, tech policy-related updates, and all other major tech-centric developments from India for TechCrunch. He previously worked as a principal correspondent at NDTV. \r\nYou can contact or verify outreach from Jagmeet by emailing mail@journalistjagmeet.com.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "IBM partners with OpenAI to bolster enterprise AI push",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1127480719.jpg?w=150"
-      ],
-      "datePublished": "2026-08-13T19:19:49.000Z",
-      "dateModified": "2026-08-13T19:19:49.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "US courts will start publishing how often the government uses spyware",
-    "url": "https://techcrunch.com/2026/08/14/us-courts-will-start-publishing-how-often-the-government-uses-spyware/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/04/spyware-phone-leak.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-08-14T13:29:04.000Z",
-    "description": "\nThe FBI has been using hacking techniques and tools, such as spyware, since at least 1998, but to date there is no public data counting how often the",
-    "body": "\nThe FBI has been using hacking techniques and tools, such as spyware, since at least 1998, but to date there is no public data counting how often the feds were deploying them. That’s about to change — at least for the use of spyware for tapping into someone’s real-time communications.\nStarting in 2029, U.S. judiciary will publicly disclose precisely how many times judges authorized the use of wiretaps to be carried out with hacking tools and spyware, which fall under the category of what the feds call network investigating techniques, or NITs.\nFor almost two decades, the Administrative Office of the U.S. Courts, which coordinates operations across the judiciary, has issued annual Wiretap Reports. These reports detail how many wiretaps were authorized every year, breaking the numbers down by whether federal or state judges ordered them, in which states the wiretaps were conducted, what type of crime was investigated, and other data. \nWiretaps allow police to gain real-time access to people’s calls, messages, and other communications. Given how invasive wiretaps can be to a person’s privacy, law enforcement have to present a high bar of evidence that a crime is being committed before a judge will authorize the use of a live tap. As such, wiretaps are generally issued in far fewer numbers than search warrants, but can still sweep up a large amount of people’s communications. Years ago, for example, one wiretap allowed a massive surveillance operation that collected millions of text messages over the course of three months.\nThe annual wiretap reports break down the type of wiretaps authorized during the year: from audio wiretaps that can collect real-time voice from phone calls; oral taps that rely on using real-world microphones and other eavesdropping techniques; and, the electronic tapping of text messages, emails, and other messages as they pass through a provider’s network.\nThe Administrative Office of the U.S. Courts told Democratic senator Ron Wyden this week that it will begin tracking the new “spyware/hacking” surveillance category starting in the 2028 Wiretap Report, which will be published the following year. \nA spokesperson for the Administrative Office of the U.S. Courts confirmed the change in an email to TechCrunch: “The Wiretap Report is compiled from individual forms submitted from throughout the country and throughout the year. Before the new data can appear in the annual report, reporting forms and procedures need to be updated to accommodate the new categories,” the spokesperson said. \nIt’s important to note that this statistic will only reveal when authorities have used spyware to intercept communications, such as Signal and WhatsApp calls and messages, and not when they use tools to remotely hack into a phone and extract data stored inside of it, such as images, files, and their location. The first is a wiretap, and the latter is a search, which is an altogether different kind of legal process and not relevant here.\nWyden, who has criticized “the unnecessary secrecy around electronic surveillance orders” and has called for this kind of data to be published since 2017, celebrated the change.\n“The American people remain largely in the dark about the different ways that the government is spying on them,” Wyden said in a statement to TechCrunch. “I am thankful that the federal courts agreed to collect and publish data about hacking, but Congress must go further and pass my Government Surveillance Transparency Act,” a draft bill that Wyden and others reintroduced earlier this year.\nGetting this kind of transparency, according to privacy experts, is a huge win.\n“Up until now, we have only been able to guess at the size of the problem,” said Eva Galperin, the director of cybersecurity at the Electronic Frontier Foundation and an expert on government spyware. \nGalperin said that once these statistics become public, it will help hold the U.S. government accountable when there are abusive uses of spyware, as it will be harder for the authorities to deny that the tools were used. \n“Being able to point to a report saying that spyware was used X number of times will help with accountability, especially if it turns out that number is quite high,” Galperin added. “It’s hard to say that you’re using spyware as a surgical tool when you’ve deployed it tens of thousands of times.”\nBrett Max Kaufman, a senior counsel in the American Civil Liberties Union’s Center for Democracy, said the change is “an important and long-overdue step forward for transparency around government hacking and should lead to better-informed policy and law around these issues going forward.”\nOther countries, such as Italy, already publish detailed data on the use of spyware. For example, in 2023, spyware was used against 4,321 targets in the country, according to publicly available data.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tLorenzo Franceschi-Bicchierai is a Senior Writer at TechCrunch, where he covers hacking, cybersecurity, surveillance, and privacy. \nYou can contact or verify outreach from Lorenzo by emailing lorenzo@techcrunch.com, via encrypted message at +1 917 257 1382 on Signal, and @lorenzofb on Keybase/Telegram.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "US courts will start publishing how often the government uses spyware",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/04/spyware-phone-leak.jpg?w=150"
-      ],
-      "datePublished": "2026-08-14T13:29:04.000Z",
-      "dateModified": "2026-08-14T13:29:04.000Z",
+      "datePublished": "2026-08-14T15:43:28.000Z",
+      "dateModified": "2026-08-14T15:43:28.000Z",
       "author": [
         {
           "@type": "Person",
