@@ -1,5 +1,30 @@
 [
   {
+    "title": "Apple rescues Hide My Email feature from the privacy scrap heap",
+    "url": "https://techcrunch.com/2026/08/25/apple-rescues-hide-my-email-feature-from-the-privacy-scrap-heap/",
+    "image": "https://techcrunch.com/wp-content/uploads/2021/08/icloud-pattern-with-key-red.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-08-25T14:46:32.000Z",
+    "description": "\nIn Brief\nPosted:\n7:46 AM PDT · August 25, 2026\n\nImage Credits:Bryce Durbin / TechCrunch\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nApple has reneged ",
+    "body": "\nIn Brief\nPosted:\n7:46 AM PDT · August 25, 2026\n\nImage Credits:Bryce Durbin / TechCrunch\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nApple has reneged on a planned change to its Hide My Email feature that users said would have made the privacy tool less effective.\nHide My Email is a privacy feature for paying iCloud+ users that generates a unique and disposable email address to give websites instead of a person’s real email address and still have emails route to their regular inboxes. The benefit of the email-hiding feature is that privately generated email addresses cannot be distinguished from regular Apple users with an @icloud.com email address. However, the feature still allows Apple to tell law enforcement who is behind a masked email address.\nEarlier this year, the company said it would move users to @private.icloud.com, which users said would make it easier for websites to reject these email addresses during sign-ups. On social media and Reddit threads, users criticized the change as defeating the purpose of the service altogether.\nThe company confirmed an update on Monday that Hide My Email addresses “will remain” on @icloud.com, after previously saying it would move users to @private.icloud.com.\nApple did not give a reason for changing its decision, but Daring Fireball’s John Gruber, who first reported the about-face, said that Apple employees had objected to the change all along.\nEarlier this year, 404 Media reported that a bug in Hide My Email revealed people’s real email addresses. Apple fixed the bug more than a year after it was first made aware that emails rejected as spam would leak the masked users’ real email addresses.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Security\n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Apple rescues Hide My Email feature from the privacy scrap heap",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2021/08/icloud-pattern-with-key-red.jpg?w=150"
+      ],
+      "datePublished": "2026-08-25T14:46:32.000Z",
+      "dateModified": "2026-08-25T14:46:32.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
     "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/10/us-securities-and-exchange-commission-sec-logo.jpg?w=150",
@@ -16,31 +41,6 @@
       ],
       "datePublished": "2026-08-25T00:23:12.000Z",
       "dateModified": "2026-08-25T00:23:12.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Amazon hikes hardware prices by 60%, blaming memory shortage",
-    "url": "https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/09/echo-family-1.png?w=150",
-    "tag": "Tech",
-    "date": "2026-08-24T19:54:50.000Z",
-    "description": "\nIn Brief\nPosted:\n12:54 PM PDT · August 24, 2026\n\nImage Credits:Amazon\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nOver the weekend, Amazon significant",
-    "body": "\nIn Brief\nPosted:\n12:54 PM PDT · August 24, 2026\n\nImage Credits:Amazon\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nOver the weekend, Amazon significantly raised the prices of its hardware devices, jacking them up by as much as 60% in some cases.\nThe price explosion impacted Fire TVs, Echos, Kindles, and Eeros. One egregious example that’s been cited is that of the Echo Dot, one of Amazon’s cheapest smart speakers, the price of which jumped 60% overnight, from $49.99 to $79.99. Price-tracking sites like CamelCamelCamel show the stark uptick, which has previously hovered much lower.\nWhen reached for comment by TechCrunch, Amazon shared the following: “The consumer electronics industry is facing significant increases in memory and storage component costs. After absorbing these increases for as long as we could, we recently adjusted pricing across our product lines.” \nThe company also said that it would continue to offer occasional promotions to customers over the course of the next year. \nAmazon’s price hikes reinforce the reality that it’s a terrible time to buy hardware. The global memory shortage  fueled by the AI boom (also known as “RAMmageddon“) is driving up the cost of producing devices of all stripes. As a result, companies are increasingly passing on the costs to their customers. \nIn a sign of the times, Apple recently hiked its prices, and has sought to offset the steep new rates by introducing a device-leasing program, thus allowing users to pay off their devices over time.\nThe RAM shortage is expected to continue throughout 2027 before prices potentially crest and stabilize in 2028.   \n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Hardware\n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Amazon hikes hardware prices by 60%, blaming memory shortage",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/09/echo-family-1.png?w=150"
-      ],
-      "datePublished": "2026-08-24T19:54:50.000Z",
-      "dateModified": "2026-08-24T19:54:50.000Z",
       "author": [
         {
           "@type": "Person",
@@ -75,22 +75,22 @@
     }
   },
   {
-    "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-    "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/magnifying-glasses-Getty.jpg?w=150",
+    "title": "Uber launches live video streaming for teen accounts",
+    "url": "https://techcrunch.com/2026/08/25/uber-launches-live-video-streaming-for-teen-accounts/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/uber-getty.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-08-23T20:01:36.000Z",
-    "description": "\nIn Brief\nPosted:\n1:01 PM PDT · August 23, 2026\n\nImage Credits:Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nA mysterious new AI model calle",
-    "body": "\nIn Brief\nPosted:\n1:01 PM PDT · August 23, 2026\n\nImage Credits:Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nA mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation about who actually built it.\nThe free model was released on OpenRouter on Thursday, where it was described as “a reasoning model designed for coding, sustained agentic work, and production workload.” On X, Stripe CEO Patrick Collison (whose company is acquiring OpenRouter) described Ox Alpha as “very impressive.”\nSo who’s actually behind Ox Alpha? The OpenRouter listing described it as a “stealth model” and said it was “developed and operated by a third-party provider who has chosen to remain anonymous during this preview.”\nUnsurprisingly, much of the speculation has revolved around China. AI analyst Andrew Curran posted on Friday that the initial speculation focused on the GLM models developed by Chinese company Z.ai, but “this morning people seem less sure of anything.”\nSimilarly, an article on Wccftech first suggested that the evidence pointed to GLM, but an update suggested that Ox Alpha could be an unreleased version of Microsoft’s MAI. And on Reddit, there’s at least one post declaring that Ox Alpha “can’t be the Chinese,” while another expressed “high confidence” that it is, in fact, Chinese.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in AI\n\n",
+    "date": "2026-08-25T13:00:00.000Z",
+    "description": "\nIn Brief\nPosted:\n6:00 AM PDT · August 25, 2026\n\nImage Credits:Patrick T. Fallon/AFP / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nUber sa",
+    "body": "\nIn Brief\nPosted:\n6:00 AM PDT · August 25, 2026\n\nImage Credits:Patrick T. Fallon/AFP / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nUber said Tuesday it is introducing a new live video streaming feature for parents to keep track of their children’s safety during rides. The company said that the feature will roll out across the U.S. nationwide in the coming weeks.\nThe new live streaming feature uses the driver’s selfie camera for the video feed. Once the ride starts, the parent or guardian account gets a notification if the video stream is available. If they choose to watch the stream, both the driver and the teen are notified.\nUber said that only parents’ or guardians’ accounts linked to the teen’s account can look at the live stream. There is no opt-out for others who might be traveling with the teen to not appear on the live feed. \nOnce the ride ends, no one, including the driver, the teen, or the parent or the guardian, has access to the video. While Uber said the video is “encrypted,” it is not clear if it’s end-to-end encrypted, meaning that Uber would not be able to access the recording. A spokesperson for Uber did not say when asked by TechCrunch.\nThe company said that the feature is live in nine markets, including Atlanta, Cleveland, Rhode Island, and others. Over the coming weeks, it will be available across the entire United States.\nUber first debuted teen accounts in the U.S. in 2023, and since then it has expanded the feature to more than 50 countries. \n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Transportation\n\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+      "headline": "Uber launches live video streaming for teen accounts",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/02/magnifying-glasses-Getty.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/07/uber-getty.jpg?w=150"
       ],
-      "datePublished": "2026-08-23T20:01:36.000Z",
-      "dateModified": "2026-08-23T20:01:36.000Z",
+      "datePublished": "2026-08-25T13:00:00.000Z",
+      "dateModified": "2026-08-25T13:00:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -100,22 +100,22 @@
     }
   },
   {
-    "title": "Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space",
-    "url": "https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/54890573133_6dd8482235_o.jpg?w=150",
+    "title": "That fake Grand Theft Auto VI demo is actually just malware",
+    "url": "https://techcrunch.com/2026/08/25/that-fake-grand-theft-auto-vi-demo-is-actually-just-malware/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/grand-theft-auto-2213757731.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-08-24T20:16:34.000Z",
-    "description": "\n\t\n\t\tImage Credits:Slava Blazer Photography\t\n\t\n\t\t\t\t\t\t1:16 PM PDT · August 24, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nYou don’t need a keynote session to make noise at T",
-    "body": "\n\t\n\t\tImage Credits:Slava Blazer Photography\t\n\t\n\t\t\t\t\t\t1:16 PM PDT · August 24, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nYou don’t need a keynote session to make noise at TechCrunch Disrupt 2026. Sometimes the best way to meet investors, customers, and partners is by exhibiting directly on the Expo Hall floor at San Francisco’s Moscone West from October 13-15.\nThat’s exactly what our Exhibit Program offers. Showcase your startup and get the added bonus of additional tickets for Disrupt to bring even more members of your team and make the most of this exciting opportunity.\nAll the perks of Disrupt’s Exhibit Tables\nOur exhibit tables start at $12,500, and when you break down all the included benefits, the returns speak for themselves. Here’s what’s included:\n\nA 6’ x 30″ table in the Expo Hall, which is the highest-trafficked part of Disrupt, where more than 10,000 founders, VCs, and tech leaders come looking for partnerships, investments, and networking.\nWe provide the table, linen, chairs, and signage so you can focus on showcasing your startup — not logistics.\n10 Disrupt passes, including five all-access Exhibitor-Partner passes and five Expo+ passes, so your whole team can work the floor, not just staff a booth. Those passes cover nearly $4,000 of the exhibition price by themselves!\nLead generation through the Disrupt 2026 mobile app, so every conversation turns into a follow-up, not a lost business card.\nAccess to the Disrupt 2026 press list and Silver Tier sponsor branding across the site, app, and signage.\n\nJoining fellow exhibitors is the fastest, easiest way for a startup at any stage to get in front of the exact room that matters, from investors sourcing deals, to operators evaluating tools, to founders scouting partners.\nThere is one catch, though: Tables are limited. This offer ends when the last exhibit table sells out, or on September 25 at 11:59 p.m. PT, whichever comes first.  \nBook your exhibit table now. Or, if you’re not ready to exhibit this year, get a Disrupt 2026 ticket while we’re running a limited-time $300 discount and start planning your presence for next year!\n\n\n\n\n\t\t\t\n\tTopics\n\n\t\t\tWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\t\t",
+    "date": "2026-08-25T15:48:38.000Z",
+    "description": "\nIn Brief\nPosted:\n8:48 AM PDT · August 25, 2026\n\nImage Credits:Leon Neal / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nIn the long wait fo",
+    "body": "\nIn Brief\nPosted:\n8:48 AM PDT · August 25, 2026\n\nImage Credits:Leon Neal / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nIn the long wait for the highly anticipated Grand Theft Auto VI, an open-world game about crime, some in the gaming community are being targeted by cybercriminals in the real world.\nFans are still waiting for the game more than a decade after the release of GTA 5, which sold more copies than any game ever, except for Minecraft. Now, after multiple GTA 6 delays and with some fans desperate for any scrap of news, hackers are using the cover as a perfect opportunity to target eager gamers.\nCybercriminals have created fake websites impersonating Rockstar, the developer behind GTA 6. These websites advertise a playable GTA 6 demo — but no legitimate demo exists. Once the unsuspecting gamer goes to download the on the “Play Now” button, they download a file that looks like a game installer, but is actually malware, according to the cybersecurity company Malwarebytes.\nThe malware is an information stealer that is designed to find and take a victim’s passwords, cookies, and logged-in sessions stored in their web browser. These attacks can in some cases allow hackers to log-in as if they were the account holder, even when protected by multi-factor authentication.\nAfter multiple delays, GTA 6 is expected to release on November 19, 2026. On Thursday, Netflix will air an extended look at the game, which could perhaps answer some questions about the legitimacy of various leaks.\nA relevant reminder as always: Don’t download stuff if you aren’t sure it comes from a reliable source.\nThe fake Rockstar games website with a malware downloader.Image Credits:TechCrunch (screenshot)\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Security\n\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space",
+      "headline": "That fake Grand Theft Auto VI demo is actually just malware",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/08/54890573133_6dd8482235_o.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/04/grand-theft-auto-2213757731.jpg?w=150"
       ],
-      "datePublished": "2026-08-24T20:16:34.000Z",
-      "dateModified": "2026-08-24T20:16:34.000Z",
+      "datePublished": "2026-08-25T15:48:38.000Z",
+      "dateModified": "2026-08-25T15:48:38.000Z",
       "author": [
         {
           "@type": "Person",
@@ -125,22 +125,122 @@
     }
   },
   {
-    "title": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
-    "url": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Oura_Ring_5_Product-1_Collection.png?w=150",
+    "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+    "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Jalapeno-chip-final.jpeg?w=150",
     "tag": "Tech",
-    "date": "2026-08-24T23:05:44.000Z",
-    "description": "\nOura, the smart ring maker, with offices in San Francisco and Finland, is reportedly planning to raise up to $3 billion as soon as next month in a U.",
-    "body": "\nOura, the smart ring maker, with offices in San Francisco and Finland, is reportedly planning to raise up to $3 billion as soon as next month in a U.S. IPO that values the more than 900-person company at [spits out coffee] north of $16 billion, according to Bloomberg. The outlet adds that investors are expected to sell a major chunk of stock in the offering.\nA $16 billion valuation would mark an enormous jump from the $10.9 billion valuation Oura was assigned last September, when it closed an $875 million Series E round backed by Fidelity, ICONIQ, Whale Rock, and Atreides, joining earlier backers like Dexcom, The Chernin Group, Forerunner Ventures, Coatue, and Temasek.\nThe wearables space has gotten crowded fast. \nSamsung launched its own ring, the Galaxy Ring, two years ago. But Oura’s most direct rival may be the fitness band maker Whoop, which has undergone its own reinvention. Once a performance tool for elite athletes and young men, Whoop has spent the past year courting a much broader audience, layering in hormone tracking and blood-panel testing for perimenopause and thyroid health. The move drove its own valuation up to $10 billion back in March. Oura has followed a similar path, evolving from its starting niche of biohacking CEOs into a more mainstream sleep-and-recovery brand.\nOura announced in May that it had filed confidentially for an IPO.\nThe company has said that it generated $500 million in revenue in 2024, roughly $1 billion in 2025, and that it expected to generate close to $2 billion in revenue in 2026, though we’ll learn much more once its S-1 filing becomes publicly available.\nNot all of Oura’s recent attention has been positive. A proposed class action lawsuit filed last week in San Francisco is accusing Oura of misleading consumers about the accuracy of its sleep tracking features. Among other complaints in the filing, Oura is accused of not just claiming “to measure a heartbeat or a temperature, but the exact stage of sleep the wearer is in—which in reality requires electrodes in the scalp and sensors on the eyes, as only a hospital or other clinical setting can do.”\nIn a statement to TechCrunch sent over the weekend, a spokesperson pushed back against claims in that suit, saying the company plans to “defend against them in the appropriate legal forum” and that “[w]hile Oura Ring is not a medical device or a substitute for a clinical sleep study, Oura’s sleep staging has been validated and compared favorably in multiple studies against polysomnography, the gold standard.” The statement continued on to say that “[m]ultiple third-party, independent studies support our claims of accuracy and we have transparently reported on the mechanisms and measures that inform Oura’s sleep staging.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tLoizos has been reporting on Silicon Valley since the late ’90s, when she joined the original Red Herring magazine. Previously the Silicon Valley Editor of TechCrunch, she was named Editor in Chief and General Manager of TechCrunch in September 2023. She’s also the founder of StrictlyVC, a daily e-newsletter and lecture series acquired by Yahoo in August 2023 and now operated as a sub brand of TechCrunch.\nYou can contact or verify outreach from Connie by emailing connie@strictlyvc.com or connie@techcrunch.com, or via encrypted message at ConnieLoizos.53 on Signal.\r\n\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-08-25T14:22:04.000Z",
+    "description": "\nAt the Hot Chips conference on Tuesday, OpenAI shared a more detailed look at Jalapeño, including the first batch of benchmark results for the new sy",
+    "body": "\nAt the Hot Chips conference on Tuesday, OpenAI shared a more detailed look at Jalapeño, including the first batch of benchmark results for the new system. Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the-art inference processors.\n“The bottom line is that the results show a very, very significant performance advance over state of the art,” said Richard Ho, OpenAI’s head of hardware, in a press call. “Jalapeño can serve more AI work per unit of power, while also returning responses more quickly. It’s very efficient to serve a lot of customers, but it can also be very low latency.”\nNotably, that comparison is against an Nvidia Blackwell system — but by the time Jalapeño reaches full deployment, the competition may have advanced significantly. Ho estimated that Jalapeño would deploy at the end of 2026 “in very small volumes,” with more significant deployment coming in 2027.\nFirst announced last October, Jalapeño was developed by OpenAI in close collaboration with Broadcom, with OpenAI’s own models assisting in the development process. The company plans to make Jalapeño a multigenerational platform, allowing AI products, models, chips, and memory all developed in concert.\nBecause of that full-stack approach, OpenAI was able to address specific phases in the inference process that often cause friction during inference processing. In particular, Jalapeño is designed to minimize delays during the prefill and communication phases of processing, which OpenAI says often act as bottlenecks.\n“We designed Jalapeño to minimize data movement and communication delays,” the company said in a blog post presenting the results. “This means that model state, including the KV cache used while generating a response, can be explicitly placed and kept local while the system activates the right combination of compute, memory, and networking for each inference phase.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tRussell Brandom has been covering the tech industry since 2012, with a focus on platform policy and emerging technologies. He previously worked at The Verge and Rest of World, and has written for Wired, The Awl and MIT’s Technology Review.\r\n He can be reached at russell.brandom@techcrunch.com or on Signal at 412-401-5489.\t\n\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
+      "headline": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/05/Oura_Ring_5_Product-1_Collection.png?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/08/Jalapeno-chip-final.jpeg?w=150"
       ],
-      "datePublished": "2026-08-24T23:05:44.000Z",
-      "dateModified": "2026-08-24T23:05:44.000Z",
+      "datePublished": "2026-08-25T14:22:04.000Z",
+      "dateModified": "2026-08-25T14:22:04.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Gamma acquires Accel-backed design startup Lica",
+    "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/R6II0507.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-08-25T15:00:00.000Z",
+    "description": "\nPresentation startup Gamma has acquired Accel-backed design startup Lica in a bid to build out its own design research lab, TechCrunch has exclusivel",
+    "body": "\nPresentation startup Gamma has acquired Accel-backed design startup Lica in a bid to build out its own design research lab, TechCrunch has exclusively learned. Lica’s co-founders will lead the effort.\nLica started off as an app that could turn screenshots and recordings into project presentations and videos. Founded by Priyaa Kalyanaraman and Purvanshi Mehta in 2023, the company a year later raised $4 million from investors including Accel, South Park Commons, and Village Global. Over the past couple of years, it has focused on working with e-commerce sites to create marketing videos that adhere to brand guidelines.\nKalyanaraman said Lica wanted to build AI models around communication methods, including video and design, and the founders were familiar with Gamma’s CEO, Lee Grant, as both companies are backed by Accel and South Park Commons. Those conversations eventually led to the acquisition.\n“We have a very similar North Star vision of wanting to make visual communication easy. We focused a lot on frontier research and making sure that became accessible to users. But that’s just one part of the solution. Gamma had focused a lot on building distribution, taking the application to 100 million-plus users. Given how fast things are moving, we decided to join forces,” Kalyanaraman told TechCrunch.\nGamma will continue to focus on helping people build presentations, but like other design companies, it’s also started offering image generation. The company says it now wants to explore different formats of communication with the new research division.\n“Presentations for us are today a core use case, but how do we expand what presentations look and feel like, and how do people engage with them in the future? What visuals are possible? How interactive are they? These [questions] all require us to think deeply about the core responsibility of communication. This is why we’re excited to invest in this area, because we don’t think anybody else is thinking at that level,” Lee said.\nLica’s Mehta said the new research division would work on customizing the presentation and communication styles of AI models for different audiences and tastes.\n“The point of the presentation is to communicate a large goal. We are thinking about building a platform where these two goals can be personalized to such an extent that you just get a really good output, and then you’re able to edit for different audiences,” she said.\nGamma didn’t reveal what products it plans to build as a result of this acquisition, but it did say that it wants to create fluid, multimodal presentations and other communication modalities.\nAI presentation startups have received tons of investor attention and money over the last few years. Prezent raised $50 million in two rounds; Gamma raised $68 million at a $2.1 billion valuation; and Presentations.ai was also backed by Accel. We’re even starting to see some consolidation in this category: Earlier this month, OpenAI acquired NextSlide.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Gamma acquires Accel-backed design startup Lica",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/08/R6II0507.jpg?w=150"
+      ],
+      "datePublished": "2026-08-25T15:00:00.000Z",
+      "dateModified": "2026-08-25T15:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "WhatsApp tightens account security with stronger two-step verification and more",
+    "url": "https://techcrunch.com/2026/08/25/whatsapp-tightens-account-security-with-stronger-two-step-verification-and-more/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/whatsapp-iphone-icon.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-08-25T13:00:00.000Z",
+    "description": "\nWhatsApp announced Tuesday that it’s launching new security features and updates to help users keep their accounts secure, including stronger two-ste",
+    "body": "\nWhatsApp announced Tuesday that it’s launching new security features and updates to help users keep their accounts secure, including stronger two-step verification and the ability to add more than one passkey to your account. The Meta-owned app is also adding context to calls from unknown numbers.\nThe updates come as WhatsApp and other messaging apps, such as Signal and Telegram, look to make account security easier and more accessible for everyday users, especially as phishing and hacking attempts have become more sophisticated over the years.\nUntil now, WhatsApp’s two-step verification has used a six-digit PIN as an extra layer of protection to prevent someone from taking over an account even if they’re able to obtain the user’s one-time passcode. Now, users can choose a longer, alphanumeric password with special characters to make the PIN harder to guess. \nAs for passkeys, users can now add more than one passkey to their account, which WhatsApps says will be useful if a person uses both iOS and Android. \nImage Credits:WhatsApp\nPasskeys, which WhatsApp launched support for in 2024, are far stronger than passwords and allow users to log in to their accounts using Face ID or their fingerprint. Passkeys remove the need to rely on username and password combinations, which are ordinarily susceptible to phishing attacks. Passkey logins make it harder for bad actors to remotely access your accounts, as an attacker would need physical access to a person’s device that stores the user’s part of the passkey.\nAdditionally, Android users will now see more information when they’re getting a call from someone who isn’t in their contacts, like whether the number is from a different country and if they have any groups in common with the caller. \nThe latest features join the growing list of updates WhatsApp has rolled out in recent months. The company launched usernames in late June to allow people to share their profiles without disclosing their phone number. In late May, Meta launched a subscription plan for the messaging app that unlocks extra features, like profile customization, super reactions, story insights, and more. \nThe WhatsApp Plus plan launched alongside similar “Plus” offerings for Instagram and Facebook.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing aisha@techcrunch.com or via encrypted message at aisha_malik.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "WhatsApp tightens account security with stronger two-step verification and more",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/02/whatsapp-iphone-icon.jpg?w=150"
+      ],
+      "datePublished": "2026-08-25T13:00:00.000Z",
+      "dateModified": "2026-08-25T13:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Fiat Ventures combines venture and advisory divisions into new brand, raises $35M Fund II",
+    "url": "https://techcrunch.com/2026/08/25/fgv-capital-bets-on-a-new-venture-model-raises-35m-fund-ii/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/FGVCapital_Group.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-08-25T12:37:37.000Z",
+    "description": "\nFiat Ventures on Tuesday said it is combining its growth consultancy and venture divisions under a new brand, FGV Capital, alongside the launch of it",
+    "body": "\nFiat Ventures on Tuesday said it is combining its growth consultancy and venture divisions under a new brand, FGV Capital, alongside the launch of its second fund, a $35 million vehicle. \nThe fintech-focused firm’s general partners, Marcos Fernandez and Drew Glover, told TechCrunch that the decision to combine the businesses was to help founders, whether part of the firm’s portfolio or otherwise, with their go-to-market strategies. \nOperating under the Fiat Growth moniker, the consultancy business previously offered startups help with scaling, businesses and go-to-market strategies. It also provided clients access to its network of industry executives — and that overlap is where Fernandez and Glover see potential for more exposure and growth.\nGlover said combining the growth consultancy with the venture firm has already helped them win spots on startups’ cap tables because founders realize they could access the advisory network, too, if they take money from FGV. He stressed that the consultancy business and the investment vehicle will operate as separate entities, and said “clear processes” are in place to ensure business relationships don’t bias investment decisions. \n“The goal is to use the broader FGV infrastructure to give our investment team better information and deeper context, not influence the outcome,” Glover said.\nGlover said Fund II’s thesis centers on fintech’s intersection with areas like AI, healthcare, commerce and other industries. It took FGV about 18 months to raise this new fund, and the duo said they sought a mix of LPs who “could do more than provide capital,” such as offering business guidance to its portfolio companies. LPs in this fund include the Reinsurance Group of America, MassMutual, and Bank of America. \nIn a venture environment where emerging fund managers struggle to attract LP attention, FGV is betting that its combined model can help it lure LPs and startups, and deliver better returns. Glover said FGV also has a program to help the portfolio companies of its LPs scale, and said it also connects LPs with companies from the advisory side of the business for partnership opportunities. \n“That’s where the full-stack model becomes powerful,” Fernandez said. “Companies we invest in can become clients we help scale. Companies we work with can become investments. LPs can become customers or partners to the portfolio. The different parts of the ecosystem can create value for one another while still operating independently.” \nThe fund will cut checks worth $1 million to $1.5 million into at least 25 companies (it’s already backed 13 so far) over two years. The firm previously raised a $25 million first fund. Overall, the firm has already backed around 40 companies, which include pet insurance company Wagmo, and the loan agency Possible Finance.  \n“The goal is to build an ecosystem where capital, distribution, and relationships compound and where founders and investors have more ways to win together,” Fernandez said.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tDominic-Madori Davis is a senior venture capital and startup reporter at TechCrunch. She is based in New York City.\r\nYou can contact or verify outreach from Dominic by emailing dominic.davis@techcrunch.com or via encrypted message at +1 646 831-7565 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Fiat Ventures combines venture and advisory divisions into new brand, raises $35M Fund II",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/08/FGVCapital_Group.jpg?w=150"
+      ],
+      "datePublished": "2026-08-25T12:37:37.000Z",
+      "dateModified": "2026-08-25T12:37:37.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Apple’s latest Mac Mini runs on a new M6 chip, and starts at $899",
+    "url": "https://techcrunch.com/2026/08/25/apples-latest-mac-mini-runs-on-a-new-m6-chip-and-starts-at-899/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Apple-Mac-mini-hero-260825_big.jpg.large_2x.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-08-25T13:55:06.000Z",
+    "description": "\nApple on Tuesday unveiled a new Mac Mini that runs on the latest iteration of its “M” processors, the M6.\nThe base model of this device comes with 25",
+    "body": "\nApple on Tuesday unveiled a new Mac Mini that runs on the latest iteration of its “M” processors, the M6.\nThe base model of this device comes with 256GB of storage, 16GB of RAM, and costs $899. It’s available for preorder now, but the device will ship only after September 22, the company said.\nApple said the new Mac Mini’s AI performance is 4x better than the M4 model, and storage and graphics are twice as fast. The new processor has a 12-core CPU and 12-core GPU, as compared to the 10-core CPU and 10-core GPU on the M4.\nAlongside the M6 model, there is also a Mac Mini with the M5 Pro chip. This model comes with base storage of 512GB and RAM of 24GB, and starts at $1,699. By default the M5 Pro chip ships with a 15-core CPU and 16-core GPU, and can be upgraded to a 18-core CPU and 20-core GPU.\nBoth variants have Wi-Fi 7 and Bluetooth 6, along with a 2.5GB Ethernet port. Users can upgrade to a 10GB port as well.\nThe new Mac Minis will start shipping on September 22 with macOS 27 and Siri AI.\nThe Mac Minis have grown popular over the past year among tech enthusiasts for running local AI agents such as OpenClaw and Hermes. People were selling Mac Minis at marked-up prices on platforms like eBay earlier this year due to rising demand.\nBesides the new Mac Minis, the company also released new Mac Studio models that run on the M5 Max and M5 Ultra chips, starting at $2,499 and $5,499, respectively. The M5 Max base model comes with 36GB of unified memory and 512GB of storage. The M5 Ultra base model has 96GB of unified memory and 1TB storage.\nEarlier this year, the company discontinued the previous base model of the Mac Mini, which offered 256GB of storage and retailed for $599. It was until now offering the 512GB version with an M4 processor for $799 as the base model.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Apple’s latest Mac Mini runs on a new M6 chip, and starts at $899",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/08/Apple-Mac-mini-hero-260825_big.jpg.large_2x.jpg?w=150"
+      ],
+      "datePublished": "2026-08-25T13:55:06.000Z",
+      "dateModified": "2026-08-25T13:55:06.000Z",
       "author": [
         {
           "@type": "Person",
@@ -175,147 +275,22 @@
     }
   },
   {
-    "title": "Apply now to host a Side Event at TechCrunch Disrupt 2026",
-    "url": "https://techcrunch.com/2026/08/24/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/55351251811_689b675dfe_k.jpg?w=150",
+    "title": "Accel-backed Keenable is indexing the web for AI agents",
+    "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Matthias-Petri-and-Andrey-Styskin-Keenable.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-08-24T19:44:13.000Z",
-    "description": "\nWe’re getting close to TechCrunch Disrupt 2026! In less than two months, more than 10,000 innovators, founders, investors, and industry leaders will ",
-    "body": "\nWe’re getting close to TechCrunch Disrupt 2026! In less than two months, more than 10,000 innovators, founders, investors, and industry leaders will gather in San Francisco. You can meet up with that community the week of TechCrunch Disrupt, which runs from October 13-15.\nWith our Disrupt Side Events program, you can bring people together anytime from October 10-16 for a custom event that gets promoted to Disrupt’s attendees. But time is running out — our deadline to apply for Side Events is September 4, so act now!\nWhat are the benefits of a Side Event?\nHosting a Side Event puts you in control of how your community meets up, placing your brand front and center with the people who matter most. Whether you’re a VC looking to spark conversations, a company ready to showcase breakthrough innovation, or a community builder with something to say, this is your moment to:\n\nEngage directly with thousands of the sharpest minds in tech.\nBuild authentic relationships with potential partners, investors, and collaborators.\nOwn your narrative and showcase your expertise on your terms.\nGenerate buzz that extends far beyond the event itself.\n\nApproved Side Events are all promoted to Disrupt attendees and the rest of our audiences through the official Side Events calendar and marketing channels.\nWhat Side Events can you host?\nAnything that aligns with your vision is likely to be approved. Everything from industry roundtables and VC office hours to deep-dive workshops to intimate dinners and casual networking happy hours have succeeded at past Disrupt events.\nThe format is yours to design — we just ask that you bring the energy and make sure it’s open to both Disrupt attendees and the broader public. We recommend hosting events that take place in the evenings during Disrupt from October 13-15, as there’s less competition and more post-conference excitement to fuel meaningful conversations with undivided audiences.\nHow can I apply for a Side Event?\nYou can look at the application form here, but it’s helpful to have a few things locked in before starting the application process:\n\nHave a venue selected in the Bay Area — this is all about in-person experiences.\nHave a title, description, and venue prepared for the event.\nDouble-check the Side Events Host Guide and the Side Event Host T&Cs.\n\nIf you have additional questions, we’re here to help! Just email our Side Events team and we’ll follow up to help.\nWe prioritize events that provide meaningful value to founders, investors, and the startup community, but aside from that, you know your community and ideal audience the best! There’s zero cost to apply and participate, so let’s hear your ideas.\nApply by September 4 to be a part of Disrupt\nApply now and tell us your vision, goals, and what you need logistically in your application, and we’ll handle the rest to give your team the support and exposure you need to make the most of the community and opportunity Disrupt brings to San Francisco and the Bay Area.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "date": "2026-08-25T13:00:00.000Z",
+    "description": "\nSearch engines were built and optimized for people, who can’t spare the time or attention required to scan entire web pages. But as people increasing",
+    "body": "\nSearch engines were built and optimized for people, who can’t spare the time or attention required to scan entire web pages. But as people increasingly use AI chatbots to search the web and do tasks, there’s a line of thinking that the internet’s current infrastructure needs to be updated to cater to AI instead, as these bots can read and process much larger portions of information.\nAndrey Styskin, who previously led Russian search giant Yandex’s search, AI, and cloud division, and German AI scientist Matthias Petri are working to solve that problem with their new startup, Keenable. The company recently came out of stealth with $26 million in seed funding. Accel led the funding round, which also saw participation from Conviction Partners and some business angels.\nFrom Styskin’s perspective, AI chatbots tend to do much better if they can ground their responses with source documents. “This actually creates a new flywheel that is different from what Google learned from human behavior,” he told TechCrunch. \nKeenable says it has been building a web search index of more than 100 billion documents, and its API is already used in production at several AI labs and inference providers during both training and runtime. The startup wouldn’t disclose who its customers are, but it recently struck a partnership with voice AI company Gradium to support live information retrieval.\nDrawing from his experience of 20 years building search at Yandex and Amazon, Styskin explained how Keenable’s product is different from enterprise search solutions that can break down and prove very costly at web scale. “If you do not fine-tune your index structures for a specific task, the cost of serving and scanning the whole internet is enormous because of the volume. That’s why you need to innovate on how you can narrow the search space based on your query very fast. This is what we are bringing to the table,” he said.\nAccording to Accel partner Zhenya Loginov, who led the investment, AI players have very few options when it comes to web-scale search infrastructure, especially with Google and Microsoft taking steps to shut down their existing search APIs to avoid cannibalization. Instead, the tech giants are opting for a more bundled approach, and being selective about their partners.\nTo Styskin, these decisions confirmed the opportunity he saw when he was at Amazon, working with Petri on web search infrastructure for AI applications such as Alexa. He’d seen Cloudflare data that AI crawlers were responsible for a growing share of search volume, and started realizing that there was an opportunity to develop web search infrastructure that is built with AI in mind.\nArmed with that experience, Styskin tapped into his network to hire a handful of former colleagues for his new startup, which is also building proprietary retrieval capabilities. This includes an upcoming product, Web Query Language, which would help AI systems answer questions by combining information from various web sources, even when none contain the full answer.\nCosts will be an important part of the equation. Styskin says while it is “extremely hard” to convince people to move away from Google for search, the innovators’ dilemma means that the U.S. giant is potentially “beatable” on agentic queries, and a smaller company like Keenable can innovate and offer a more cost-efficient solution to AI companies. \nStill, the costs of building a giant search index are real. “Don’t ask — it is painfully expensive,” he said. But, he says the startup is doing its best to keep costs in check and pace itself. With a team of 15 engineering staff across the U.S. and Europe, the company plans to use the fresh cash to double its headcount by the end of the year to build its go-to-market motion.\nThere are many more steps before the startup can achieve its dream of becoming “the next Google for AI agents.” Other players have entered the space, such as Brave and Exa; and Google itself is overhauling its search experience for the AI era. But this broader motion indicates that Keenable’s conviction is also shared at the Googleplex: Whether it’s for humans or for agents, the era of the “ten blue links” may be coming to a close.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tAnna Heim is a writer and editorial consultant. \nYou can contact or verify outreach from Anna by emailing annatechcrunch [at] gmail.com.\nAs a freelance reporter at TechCrunch since 2021, she has covered a large range of startup-related topics including AI, fintech & insurtech, SaaS & pricing, and global venture capital trends.\nAs of May 2025, her reporting for TechCrunch focuses on Europe’s most interesting startup stories.\nAnna has moderated panels and conducted onstage interviews at industry events of all sizes, including major tech conferences such as TechCrunch Disrupt, 4YFN, South Summit, TNW Conference, VivaTech, and many more.\nA former LATAM & Media Editor at The Next Web, startup founder and Sciences Po Paris alum, she’s fluent in multiple languages, including French, English, Spanish and Brazilian Portuguese.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Apply now to host a Side Event at TechCrunch Disrupt 2026",
+      "headline": "Accel-backed Keenable is indexing the web for AI agents",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/06/55351251811_689b675dfe_k.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/08/Matthias-Petri-and-Andrey-Styskin-Keenable.jpg?w=150"
       ],
-      "datePublished": "2026-08-24T19:44:13.000Z",
-      "dateModified": "2026-08-24T19:44:13.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-    "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-    "image": "https://techcrunch.com/wp-content/uploads/2019/03/robocash.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-08-24T15:24:18.000Z",
-    "description": "\n\t\n\t\tImage Credits:Paper Boat Creative / Getty Images\t\n\t\n\t\t\t\t\t\t8:24 AM PDT · August 24, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nNew York-based General Intuition, the sta",
-    "body": "\n\t\n\t\tImage Credits:Paper Boat Creative / Getty Images\t\n\t\n\t\t\t\t\t\t8:24 AM PDT · August 24, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nNew York-based General Intuition, the startup building a foundation model that trains generalized AI agents to move through space and time, is in talks to raise funding at a $6 billion pre-money valuation from new investors including Valor Equity Partners, Point72 Ventures, and Seven Seven Six, according to sources familiar with the matter.\nExisting investors including Khosla Ventures and General Catalyst are also participating in the round. The fresh funds would come just weeks after General Intuition raised $320 million at a $2.3 billion valuation.\nThe news confirms earlier reporting on the deal for what is becoming one of the hottest startups tackling physical AI.\nCEO Pim de Witte spun out General Intuition last October from his video game clip-sharing platform Medal, using its hundreds of millions of hours of gameplay and “action labels” — records of which buttons a player pressed and when — as an initial dataset.\n\nInvestor Vinod Khosla recently told TechCrunch that he believes those action labels will be a key part of the “emergence of intuition,” or the ability for a model to truly generalize across tasks that it wasn’t explicitly trained on. \nGeneral Intuition is still finalizing the round, and a source close to the deal said that it is oversubscribed as the startup continues to field interest from investors. The company intends to use the funds to focus to improve its general model with a focus on robotic embodiments. That means spending more on compute infrastructure (the company has a partnership with neolab CoreWeave) and hiring more talent.\nValor Equity Partners is known for backing SpaceX. TechCrunch has reached out to confirm its investment in General Intuition, which would be the first AI lab the fund has invested in since SpaceX. This story is developing. Please check back in for updates.\n\n\t\t\t\n\tTopics\n\n\t\t\tWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\n\t\tRebecca Bellan is a senior reporter at TechCrunch where she covers the business, policy, and emerging trends shaping artificial intelligence. Her work has also appeared in Forbes, Bloomberg, The Atlantic, The Daily Beast, and other publications. \r\nYou can contact or verify outreach from Rebecca by emailing rebecca.bellan@techcrunch.com or via encrypted message at rebeccabellan.491 on Signal.\t\n\t\n\t\tView Bio \n\t\n\n\t\t",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2019/03/robocash.jpg?w=150"
-      ],
-      "datePublished": "2026-08-24T15:24:18.000Z",
-      "dateModified": "2026-08-24T15:24:18.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Brake problems in GM EVs draw greater federal scrutiny",
-    "url": "https://techcrunch.com/2026/08/24/brake-problems-in-gm-evs-draw-greater-federal-scrutiny/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/09/MY24-Chevrolet-Equinox-EV-3LT.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-08-24T14:18:47.000Z",
-    "description": "\nGeneral Motors electric vehicles, including ones built in partnership with Honda, are now facing increased scrutiny from the top U.S. auto safety reg",
-    "body": "\nGeneral Motors electric vehicles, including ones built in partnership with Honda, are now facing increased scrutiny from the top U.S. auto safety regulator after hundreds of incidents, more than 20 crashes or fires, and at least six injuries.\nThe brake problems also extend to some non-EV models, including the Chevy Colorado, GMC Canyon, and the Buick Enclave and Envision. More than 1 million vehicles may be affected.\nThe National Highway Traffic Safety Administration (NHTSA) started its investigation in April 2024 after reports of trouble from owners of 2023 model year Cadillac Lyriq vehicles. The agency’s Office of Defects Investigation (ODI) said Monday that it was upgrading this probe to what’s known as an “engineering analysis.” That’s the highest level of investigation that ODI performs, and is often a step the office takes before telling a company to issue a recall.\nThe initial complaints ODI received two years ago typically involved owners describing receiving a “Brake System Failure” message when starting up the vehicle, or after coming to a complete stop. GM performed “several internal investigations” into the issue, according to ODI, and determined that the problem was linked to fractures in the spindle of its “eBoost” brake-by-wire system. \nBut ODI said on Monday that it kept receiving reports of a loss of braking assistance that were “inconsistent with GM’s description of a spindle failure.” The additional reports described an “immediate loss of brake assist” while a customer was in the process of braking to slow their car down, which the safety regulator said “could result in extended braking distance, which increases the risk of a crash or injury.” ODI said it needs to do a further analysis of the potential for failures in the eBoost system.\n“The safety of our customers is the highest priority for the entire GM team,” the automaker said in a statement. “We take these reports seriously and have conducted a thorough investigation, determining the alleged condition does not present an unreasonable risk to motor vehicle safety. We will continue to cooperate with NHTSA as its investigation proceeds.”\nThe eBoost system was introduced in 2019 and gradually rolled out to more models over the years. The system ditches a traditional mechanical link between the brake pedal and the braking system, opting for an electronic one instead. This allows GM to change the brake “feel” in different driving modes. The automaker put eBoost on its most popular EVs, like the Blazer EV, Equinox EV, Cadillac Lyriq, and the Honda Prologue and Acura ZDX, which it made with Honda in a joint venture. The Cruise Origin — the purpose-built electric autonomous vehicle with no steering wheel or pedals, which GM abandoned in 2024 — also used eBoost.\nIn one crash reported to NHTSA, the driver of a 2025 Lyriq said they lost their brakes while trying to pull into a parking space in front of the store. The vehicle drove over the curb and crashed through the store front, coming to rest “mid-way in the store, amidst the furniture and store structure,” according to the driver. \nIn another, the driver of a 2024 Blazer EV said they had to “deliberately steer the vehicle into a concrete curb” to slow it down and avoid a “catastrophic intersection collision.” \nThis story has been updated with a statement from GM.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Brake problems in GM EVs draw greater federal scrutiny",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2022/09/MY24-Chevrolet-Equinox-EV-3LT.jpg?w=150"
-      ],
-      "datePublished": "2026-08-24T14:18:47.000Z",
-      "dateModified": "2026-08-24T14:18:47.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "US nutrition startup Berry Street merges with India’s Healthify as GLP-1 trends upwards",
-    "url": "https://techcrunch.com/2026/08/24/us-nutrition-startup-berry-street-merges-with-indias-healthify-as-glp-1-trends-upwards/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1203768533.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-08-24T13:45:15.000Z",
-    "description": "\nU.S. nutrition startup Berry Street said on Monday it has merged with Khosla Ventures-backed Indian startup Healthify to bank on the popular trend of",
-    "body": "\nU.S. nutrition startup Berry Street said on Monday it has merged with Khosla Ventures-backed Indian startup Healthify to bank on the popular trend of people turning to GLP-1 drugs to lose weight. \nThe companies didn’t disclose the financial details of the deal. A report from JP Morgan published this year suggested that over 30 million people in the U.S. will be on GLP-1 by 2030.\nThe companies said Berry Street founder Noah Kotlove and Healthify founder Tushar Vashisht will act as co-CEOs of the new entity. In the U.S., the company will operate under the Berry Street banner, and in other markets like India, it will operate under the Healthify brand.\nHealthify, which has raised over $150 million in funding, per Crunchbase, offers both AI-powered and human fitness and nutritional coaching via an app. Last year, the company expanded its operations in the U.S., and also started offering GLP-1-aided programs in India. The startup claims it has so far served more than 45 million customers.\n“Healthify’s mission has been to put a dietitian in every human’s pocket. We have spent a decade proving that AI can drive life-changing outcomes at scale. Berry Street gives us the clinical backbone and the coverage infrastructure to deliver that promise to the U.S. market at a scale no one has achieved before,” Healthify’s CEO Vashisht said in a press release.\nBerry Street has a network of over 2,000 clinics and offers insurance-covered GLP-1 care. The company last year raised $50 million in a fundraising round from Northzone, Sofina, and FJ Labs. This startup also provides AI-powered nutrition coaching and meal tracking, and claims it has served over 200,000 people in collaboration with Amazon, Walmart, and other platforms.\n“By pairing AI with a nationwide network of expert clinicians, Healthify and Berry Street are building the platform that will redefine metabolic care, giving everyone access to daily nutrition guidance and expert dietitian advice,” Khosla Ventures’ founder Vinod Khosla said in a statement.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "US nutrition startup Berry Street merges with India’s Healthify as GLP-1 trends upwards",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1203768533.jpg?w=150"
-      ],
-      "datePublished": "2026-08-24T13:45:15.000Z",
-      "dateModified": "2026-08-24T13:45:15.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026 ",
-    "url": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Amjad-Masad-Disrupt-Stage-2026-2.png?w=150",
-    "tag": "Tech",
-    "date": "2026-08-24T19:54:19.000Z",
-    "description": "\nThe AI boom has made it possible for a significantly wider range of people to dip into development, create code, and launch software for the first ti",
-    "body": "\nThe AI boom has made it possible for a significantly wider range of people to dip into development, create code, and launch software for the first time. There are pros and cons to this, even for established developers who are being pushed to use it to produce work faster.\nReplit sits at the center of this evolution, and when its CEO and co-founder, Amjad Masad, takes center stage at TechCrunch Disrupt 2026, he’ll speak about the future of programming and the wide-ranging implications of a world in which ideas can be easily turned into products.\nJoin the audience to watch our wide-ranging discussion with Masad at San Francisco’s Moscone West from October 13–15. You’ll also catch the rest of our excellent Disrupt lineup across six stages that address the most pressing questions facing the startup community, including, most critically, how do you build a sustainable company in the AI era?\nGet your tickets now during our special promotional pricing extension — get up to $300 off your ticket until 11:59 p.m. PT Tuesday, August 25. \nWhy Replit is joining the Disrupt Stage\nReplit’s rise has been explosive, mirroring the broader ascent of AI and the companies furthering its proliferation. Though Masad founded the company a decade ago, the past 18 months have marked the biggest changes, with the company’s current run-rate tracking toward a billion dollars annually, compared with just $2.8 million in reported revenue in 2024.\nBut this conversation is about much more than Replit’s revenue. Masad’s conversation will dive into his perspective about the future of programming, entrepreneurship, and how Replit ensures that its service is doing more than helping users prototype their ideas — it helps fully flesh them out, too.  \nInvestors are convinced of Replit’s value to both nontechnical users and professional coders. They assigned the company a $9 billion valuation earlier this year, a mere six months after the company was assigned a $3 billion valuation.  \nOf course, the question is whether it can keep that momentum going — or whether its growth in 2026 will look quaint a year from now because it’s growing even faster.  \nIf you’re interested in building within the AI era, you can count on many sessions, in addition to Masad’s, across our other stages:\n\nBuilders Stage, which will be chock-full of VCs and corporate development pros who’ll dive deep, providing the kinds of insights every founder needs to have.\nAI Stage, where we’ll examine the presumed SaaSpocalypse, career opportunities, emerging security challenges, and more.\nSmart Systems Stage, for those working on the vital infrastructure underpinning this era and for those who need to learn more about it.\nReal World AI Stage, where we’ll explore the sundry ways that new technologies are beginning to impact the physical world around us.\n\nTo hear it first and in person, join the more than 10,000 founders, investors, and technologists who are heading to San Francisco for Disrupt 2026 on October 13–15. Grab your ticket today to make sure you get the best available price.\nLearn more about Disrupt 2026 \nCheck out Disrupt’s headline speakers \nEverything founders should know about Disrupt \nGet the best hotel deals ahead of Disrupt \nHow to host your own Side Event at Disrupt \nTake part in Disrupt and learn how to exhibit your startup \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026 ",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/08/Amjad-Masad-Disrupt-Stage-2026-2.png?w=150"
-      ],
-      "datePublished": "2026-08-24T19:54:19.000Z",
-      "dateModified": "2026-08-24T19:54:19.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Alabama launches investigation into OpenAI’s hack of Hugging Face",
-    "url": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273246979.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-08-24T19:58:17.000Z",
-    "description": "\nAlabama’s attorney general announced Monday that it sent a subpoena to OpenAI as part of an investigation into the company’s alleged “complete lack o",
-    "body": "\nAlabama’s attorney general announced Monday that it sent a subpoena to OpenAI as part of an investigation into the company’s alleged “complete lack of oversight and adequate safeguards” in the Hugging Face incident. \nThe investigation comes weeks after OpenAI admitted that one of its unreleased and guardrail-free cybersecurity models had escaped an isolated environment, connected to the internet, and hacked AI dataset platform Hugging Face. As Reuters first reported, Hugging Face was only one of four victims of what was supposed to be “an internal evaluation” of a model with “maximal cyber capabilities,” as OpenAI put it.\nThe press release announcing the subpoena sent by the state’s attorney general Steve Marshall said that the state was seeking to understand if OpenAI’s “inability or unwillingness to ensure the safety of its products” violated the state’s consumer protection laws.\nWhen reached by TechCrunch for comment, OpenAI spokesperson Nate Evans provided the statement: “The Hugging Face incident marked an important moment for AI safety and we are conducting a thorough review along with external advisors. Once the review is complete, we will share a technical report with relevant government authorities and publish our findings publicly.”\nEarlier this month, Marshall, along with the attorneys general of 14 other states, including Florida, Missouri, Pennsylvania, and Texas, sent a letter to OpenAI’s CEO Sam Altman, requesting that he and his company preserve all records related to the Hugging Face incident. The letter also asked OpenAI to “immediately cease and desist” from any internal cybersecurity evaluations.\nIn the wake of the Hugging Face incident, and several other incidents disclosed by Anthropic, the U.K.’s AI Security Institute, Meta, and workers at AI companies — including executives and technical leaders — signed an open letter called “Pacing the Frontier,” which called for developing AI capabilities slowly and more responsibly. The letter also called for the U.S. government to support an “international effort to develop the technical and governance tools needed to deliberately pace the frontier of automated AI development.”\nUpdated with comment from OpenAI.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tLorenzo Franceschi-Bicchierai is a Senior Writer at TechCrunch, where he covers hacking, cybersecurity, surveillance, and privacy. \nYou can contact or verify outreach from Lorenzo by emailing lorenzo@techcrunch.com, via encrypted message at +1 917 257 1382 on Signal, and @lorenzofb on Keybase/Telegram.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Alabama launches investigation into OpenAI’s hack of Hugging Face",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273246979.jpg?w=150"
-      ],
-      "datePublished": "2026-08-24T19:58:17.000Z",
-      "dateModified": "2026-08-24T19:58:17.000Z",
+      "datePublished": "2026-08-25T13:00:00.000Z",
+      "dateModified": "2026-08-25T13:00:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -350,22 +325,47 @@
     }
   },
   {
-    "title": "India’s Airbound bags $37M to take on trucks with rocket-like drones",
-    "url": "https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/airbound-drone.jpg?w=150",
+    "title": "Self-driving truck startup Gatik raises $200M following PepsiCo deal",
+    "url": "https://techcrunch.com/2026/08/25/self-driving-truck-startup-gatik-raises-200m-following-pepsico-deal/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Gatik-PepsiCo-flet.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-08-25T03:30:00.000Z",
-    "description": "\nAirbound, an Indian startup building autonomous drones, has raised $37 million in fresh capital as it pushes to make moving goods through the air as ",
-    "body": "\nAirbound, an Indian startup building autonomous drones, has raised $37 million in fresh capital as it pushes to make moving goods through the air as cheap as trucking them by road.\nThe Series A round, led by Greenoaks with participation from DoorDash, Lachy Groom, Lightspeed, and Humba Ventures, comes less than a year after Airbound raised an $8.65 million seed round. With this funding, the three-year-old startup has raised nearly $50 million.\nAirbound, and other startups in this nascent sector, argue that drones can move certain goods faster and cheaper than vehicles on the road. And while there have been successful deployments, drone delivery is still far from matching the scale and versatility of trucking. \nAirbound is trying to close that gap by redesigning the aircraft to make it more competitive with ground transportation.\nConventional aircraft spend a lot of energy carrying their own weight rather than the payload, making flight expensive, particularly for moving smaller loads. Airbound’s answer is to build vertical-flight drones designed to weigh less than the cargo they carry, founder and CEO Naman Pushp said in an interview.\nAirbound’s current drone, called TRT, weighs about 3.3 pounds and can carry around 2.2 pounds of payload. Its next version, currently under development, is expected to weigh about 6.6 pounds and be able to carry up to 11 pounds, Pushp told TechCrunch.\nThe startup uses a rocket-like, tail-sitter design for its drones, which takes off and lands vertically in an upright position before transitioning to horizontal flight. Pushp said Airbound intends to retain vertical takeoff and landing even as it develops larger aircraft to avoid dependence on runways.\n“We want to build towards a world where everything has cost parity with trucking,” he said.\nFounded in 2023, Airbound has completed more than 13,000 autonomous flights across the southern Indian cities of Bengaluru and Guntur, Pushp said. That includes more than 1,000 flights with the Indian hospital network Narayana Health, where its drones transport diagnostic samples between healthcare facilities.\nThe startup uses a single active drone on the Narayana route, flying diagnostic samples about 2.5 miles in around seven minutes. The same samples can take three to five hours to be transported by two-wheelers when factoring in the time spent waiting for enough samples to be bundled for road transport, according to Pushp.\nThat partnership is expanding to include Narayana’s new Banashankari hospital in Bengaluru, which was designed without an on-site diagnostic lab or blood bank and will instead rely on Airbound’s drones to connect with centralized facilities.\nThree-city drone network \nAirbound has set its sights on a far larger ambition to create a drone delivery network that connects three cities in the state of Andhra Pradesh. The startup has sign an agreement with the state government with an eventual target of 10,000 flights a day for retail, e-commerce, and healthcare deliveries. That daily flight target will require between 250 and 1,000 aircraft, depending on route lengths, though Pushp expects the number to be closer to 250.\nThe agreement does not involve a government contract or subsidy, Pushp said, adding that the Andhra Pradesh government is working with Airbound on the regulatory framework needed to enable the network. The startup expects to generate business from companies using it for deliveries.\nIndian startups including Skye Air Mobility and TSAW Drones are already building aerial logistics businesses, while other Indian drone makers such as Garuda Aerospace have also explored delivery use cases. Nonetheless, Pushp argues that Airbound wants to build the aircraft that other logistics networks could eventually use rather than just trying to become the largest delivery operator.\n“That’s the Boeing role — the aircraft airlines everywhere rely on, not the airline itself,” he said.\nAirbound designs and manufactures its aircraft in a 43,000-square-foot facility in Bengaluru, where it keeps work on the airframe and other core systems in-house. While Pushp declined to disclose its production capacity or how many aircraft the startup has built so far, he said manufacturing would not be the bottleneck as Airbound scales.\nThe bigger bottleneck, Pushp noted, is regulation, particularly securing approvals for beyond visual line of sight (BVLOS) operations, a certification that allows drones to fly beyond the direct sight of an operator and is critical to operating delivery networks at scale.\nThose regulatory constraints have also limited Airbound’s ability to turn its flights into meaningful commercial revenue. Moreover, the startup remains broadly pre-revenue despite having a team of more than 150 employees.\n“The goal is to be a giant in a few decades, not to make revenue as soon as we can,” Pushp said.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "date": "2026-08-25T14:00:00.000Z",
+    "description": "\nGatik, the autonomous vehicle startup known for its self-driving box trucks, has raised $200 million just two months after striking a multiyear comme",
+    "body": "\nGatik, the autonomous vehicle startup known for its self-driving box trucks, has raised $200 million just two months after striking a multiyear commercial agreement with PepsiCo.\nThe round was led by Qatar Investment Authority and Koch Disruptive Technologies, with participation from Millennium Management, ARK Invest, and Intact Private Capital. The Santa Clara, California-based company has raised about $500 million since it came out of stealth in 2019. The company didn’t disclose its valuation.\nThe funding, the company’s largest to date, marks a new phase for Gatik as it evolves from a startup with a few pilot programs into a company that runs commercial driverless operations with multiple commercial customers across several cities.\n“These are all long-term investors,” Gatik co-founder and CEO Gautam Narang said in a recent interview. “All the scale-up plans that we have and the growth that we have in mind for the next few years — these are the kind of financial partners that can help us.”\nFor Narang, scaling means more driverless trucks, customers, and cities — and even someday outside of North America. \nGatik has carved out a niche for itself in the competitive and burgeoning autonomous vehicle industry. While dozens of startups and well-funded tech companies worked on developing sidewalk delivery robots, robotaxis, self-driving big rigs for long hauls, or driverless vehicles designed for construction and mining, Gatik focused on short-haul delivery.\nThe startup built a fleet of driverless box trucks, manufactured by Isuzu Motors, that could be used to deliver food and beverages for suppliers. It started small with fixed-route trips that were less than 10 miles, and grew to dynamic routes with dozens of pick-up and drop-off locations that cover up to 400 miles.\nGatik largely sits alone in this slice of the market, where it has become a dominant player in so-called “middle-mile” delivery. The company has several high-profile customers, including Canada’s Loblaws, Kroger, and Tyson Foods. Its first customer, which was disclosed six years ago, was Walmart.\nLast year, the company reached a critical technical and operational milestone that allowed it to pull the safety driver from behind the wheel on its commercial routes. Gatik now has dozens of self-driving trucks that are fully driverless and operate commercially across several markets. Importantly, they can operate in a variety of conditions and environments.\n“The technology has evolved and matured a lot over the last few years, especially with the latest generation of our tech,” Narang said, noting that the company’s third-generation self-driving trucks operate around the clock on surface streets and highways, and can handle light rain and snow.\nGatik wouldn’t share precise fleet numbers or name all of its customers. But its largest public partnership is with PepsiCo, in which 41 driverless box trucks shuttle Cheetos, Doritos, and other Frito-Lay products from distribution centers to stores in Dallas, Phoenix, and Northwest Arkansas.\nThat middle-mile niche has paid off for the Santa Clara, California-based startup. The company has locked in commercial deals worth $600 million in contracted revenue, according to Narang. \nThe fresh $200 million will allow Gatik to scale even faster — a goal that will require it to expand beyond its 350-person workforce. Narang said the company plans to hire engineers and operational staff as well as expand to new markets, or within existing ones.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tKirsten Korosec is a reporter and editor who has covered the future of transportation from EVs and autonomous vehicles to urban air mobility and in-car tech for more than a decade. She is currently the transportation editor at TechCrunch and co-host of TechCrunch’s Equity podcast. She is also co-founder and co-host of the podcast, “The Autonocast.” She previously wrote for Fortune, The Verge, Bloomberg, MIT Technology Review and CBS Interactive.\nYou can contact or verify outreach from Kirsten by emailing kirsten.korosec@techcrunch.com or via encrypted message at kkorosec.07 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "India’s Airbound bags $37M to take on trucks with rocket-like drones",
+      "headline": "Self-driving truck startup Gatik raises $200M following PepsiCo deal",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/08/airbound-drone.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/08/Gatik-PepsiCo-flet.jpg?w=150"
       ],
-      "datePublished": "2026-08-25T03:30:00.000Z",
-      "dateModified": "2026-08-25T03:30:00.000Z",
+      "datePublished": "2026-08-25T14:00:00.000Z",
+      "dateModified": "2026-08-25T14:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Andy Dunn’s startup Pie becomes less of an events app and more of a social network",
+    "url": "https://techcrunch.com/2026/08/25/andy-dunns-startup-pie-becomes-less-of-an-events-app-and-more-of-a-social-network/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/lolla-2-comments-ticket-negotiation.png?w=150",
+    "tag": "Tech",
+    "date": "2026-08-25T13:00:00.000Z",
+    "description": "\nPie, the social app from Bonobos’ founder Andy Dunn, is taking its mission to connect people in real life one step further. On Tuesday, the startup l",
+    "body": "\nPie, the social app from Bonobos’ founder Andy Dunn, is taking its mission to connect people in real life one step further. On Tuesday, the startup launched a new communities feature that allows people to establish more permanent homes for their social groups on its app, offering an alternative to group texts, Facebook Groups, and other technologies people use to stay in touch.\nOriginally founded as an events app in Chicago, Pie is backed by investors including Forerunner, Lightspeed, Accel, and angels like Twitter co-founder Ev Williams, and the app has grown to around 300,000 users. \nWith its latest feature, Community Homes, the company now hopes to encourage its users to join communities, where events are the natural outcome of those connections, rather than the main draw.\nImage Credits:Pie\nThe update arrives at a time when younger people are looking to make more connections in the real world, after so many years of online socializing. Instead of connecting solely through social media apps, they’re looking to use digital tools in ways that lead them to real-world connections.\nPie’s new digital group homepages will offer a place for organizers and group members to connect and build relationships beyond a single event, the company says. \nEach “home” has its own community feed and other group management tools, like admin and membership controls, a shareable homepage, and event-planning resources. However, anyone can share events to the group’s feed, not just the group’s admins, to allow for more natural networking. Pie plans to soon add group chats and another feature that would allow members to post more casual bids for connection, like asking if anyone wants to “hang out and craft together” or watch the “Love Island reunion,” for example, without having a particular plan in mind.\nImage Credits:Pie\nThe addition of the Community Homes follows on other changes designed to make Pie less about the events themselves, and more about the people who attend them. \nLast December, for instance, Pie changed its activity feed to showcase who you knew who was attending an event, rather than just which events were being announced. After the change, time on the app grew from 2 minutes to 10 minutes, the team found. More recently, Pie launched a “favorites” feature that lets users build out their public profiles by adding their favorite interests.\nDunn says he was inspired to build the startup after moving from New York to Chicago, where he initially struggled to find community and friendship. At the same time, a movement around joining social clubs was gaining momentum among Gen Z.\nImage Credits:Pie\n“Run clubs, art markets, watch parties — all these things that we’re hearing about in terms of the cultural movement towards being together again,” Dunn told TechCrunch. “And I felt like if we build software for those social clubs, we can create an environment and an ecosystem where people can start to run into other people and belong to communities and start to have deeper connections,” he added, dubbing Pie a sort of “Reddit for IRL.”\nThe company has since added Nadya Okamoto, who founded a popular run club called Zoomies in New York, as a co-founder and CMO. \n“I would say [Pie is] more like the original promise of Facebook and Reddit — if it wasn’t anonymous and toxic,” she said referring to Reddit. “Rather than leading with events, which is what so many other great platforms do, I think events are more a product of having a great community-building ecosystem on the app.”\nWhile Pie is available anywhere, it has more traction in markets like Chicago, New York, and LA at present.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Andy Dunn’s startup Pie becomes less of an events app and more of a social network",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/08/lolla-2-comments-ticket-negotiation.png?w=150"
+      ],
+      "datePublished": "2026-08-25T13:00:00.000Z",
+      "dateModified": "2026-08-25T13:00:00.000Z",
       "author": [
         {
           "@type": "Person",
