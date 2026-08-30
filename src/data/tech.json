@@ -25,31 +25,6 @@
     }
   },
   {
-    "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
-    "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-1.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-08-29T18:41:59.000Z",
-    "description": "\nIn Brief\nPosted:\n11:41 AM PDT · August 29, 2026\n\nImage Credits:Ruhani Kaur/Bloomberg / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nSony M",
-    "body": "\nIn Brief\nPosted:\n11:41 AM PDT · August 29, 2026\n\nImage Credits:Ruhani Kaur/Bloomberg / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nSony Music Publishing, Warner Chappell and numerous other music publishers have sued Anthropic and co-founders Dario Amodei and Benjamin Mann, alleging the AI lab conducted a “brazen campaign of illegally torrenting, scraping, and downloading copyrighted works.” \nThe lawsuit, which was filed late Friday in the U.S. District Court for the Northern District of California, was first reported by Music Business Worldwide. The publishers accuse Anthropic of “blatant theft” by using thousands of copyrighted works to train its AI model Claude. \nAnthropic could not be reached for comment prior to publication. TechCrunch will update this article if the company responds. \nThis isn’t the first intellectual property lawsuit Anthropic has faced. Some of the same lawyers behind this lawsuit also represent Concord Music Group and Universal Music Group in a case filed in January and led the Bartz v. Anthropic case, in which a group of authors accused Anthropic of using copyrighted works to train products like Claude. Anthropic was ordered to pay $1.5 billion in the landmark Bartz case after a judge ruled that while it was legal for the AI lab to use copyrighted works, it was not legal to acquire that content through piracy.\nWhile the cases make similar arguments, there are key differences. This latest lawsuit is particularly broad and builds off the other cases, including by accusing Anthropic of “flagrant piracy” through illegal torrenting to obtain millions of copies of books, including those that contain lyrics and sheet music. \n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in AI\n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-1.jpg?w=150"
-      ],
-      "datePublished": "2026-08-29T18:41:59.000Z",
-      "dateModified": "2026-08-29T18:41:59.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Neocloud Lambda secures $1B in debt to buy more chips",
     "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/Chip-chips-dollar-signs-money.png?w=150",
@@ -66,31 +41,6 @@
       ],
       "datePublished": "2026-08-28T20:24:11.000Z",
       "dateModified": "2026-08-28T20:24:11.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "a16z creates a $1.1B ‘Machine Age’ fund to ‘accelerate the physical buildout of AI’",
-    "url": "https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/andreessen-horowitz-office.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-08-28T13:24:43.000Z",
-    "description": "\nAndreessen Horowitz has launched a new “Machine Age” fund with $1.1 billion raised. The firm’s aim with the new fund is to “open the throttle and acc",
-    "body": "\nAndreessen Horowitz has launched a new “Machine Age” fund with $1.1 billion raised. The firm’s aim with the new fund is to “open the throttle and accelerate the physical buildout of AI.”\nThe fund will focus on hardware, bucking the firm’s typical focus on the scaling power of software. In a post on the venture capital firm’s website, a16z says the fund will focus on investing in the infrastructure that powers AI — a swath that includes everything from computer chips and memory to data centers and robots.\n“We need faster, more efficient systems. We need cheaper and higher-bandwidth memory across the memory hierarchy. We need faster and more scalable interconnects between nodes and systems. We need power efficient edge devices for AI to explore and interact with the world. And of course we need all the cooling, materials, electrical, and real estate build out to support them,” the post reads.\nAI is the “strongest tool ever developed for solving problems and bestowing abundance,” the firm writes, calling its advancement a “social and national imperative.”\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "a16z creates a $1.1B ‘Machine Age’ fund to ‘accelerate the physical buildout of AI’",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/08/andreessen-horowitz-office.jpg?w=150"
-      ],
-      "datePublished": "2026-08-28T13:24:43.000Z",
-      "dateModified": "2026-08-28T13:24:43.000Z",
       "author": [
         {
           "@type": "Person",
@@ -125,22 +75,22 @@
     }
   },
   {
-    "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-    "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2287646148.jpg?w=150",
+    "title": "a16z creates a $1.1B ‘Machine Age’ fund to ‘accelerate the physical buildout of AI’",
+    "url": "https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/andreessen-horowitz-office.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-08-28T19:30:38.000Z",
-    "description": "\nTraining AI models with other AI models has become a very popular goal for neolabs — and now, a researcher in Anthropic’s fellows program has given u",
-    "body": "\nTraining AI models with other AI models has become a very popular goal for neolabs — and now, a researcher in Anthropic’s fellows program has given us an early look at what it might look like in practice.\nOn Friday, Anthropic published a new paper titled “Automated Researchers Can Reliably Mitigate Alignment Failures,” detailing how AI systems could reliably improve a model’s performance on a set of alignment benchmarks. When given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.\nLed by Anthropic fellow Chen Yueh-Han, the system replicates much of the traditional approach to research. Each automated system searches the available literature, proposes a method, and trains the model using that method for 30 minutes, gradually increasing the benchmark over several iterations. Effective methods are preserved while ineffective ones are discarded, allowing the system to operate quickly and at a great scale.\n“Overall, these results provide early evidence that automated alignment post-training could become practical in the near term,” the paper reads.\nThe paper is a step toward recursive self-improvement, which many see as the next significant step in AI progress. If models can improve their own alignment training, it’s plausible they could improve training practices more broadly — at which point, human AI researchers might soon become obsolete.\nThe paper isn’t shy about addressing this idea, explicitly comparing the Automated Alignment Researcher (AAR) to its human equivalent. “The best AAR method beats what experienced humans propose, on average within six hours,” the paper reads. “Human guided research directions do not lead to stronger performance.”\nThere’s even a cost comparison, in case anyone wasn’t convinced. “An AAR costs roughly $4 per hour in API inference against the $150 per hour we pay our human researchers.”\nIn fairness, the paper also points out a few limitations to this approach. The automated system only works insofar as the benchmarks reflect the actual alignment goals, and even then there’s significant work to be done in establishing and maintaining those benchmarks — not to mention maintaining and expanding on the literature the automated researchers are drawn from.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tRussell Brandom has been covering the tech industry since 2012, with a focus on platform policy and emerging technologies. He previously worked at The Verge and Rest of World, and has written for Wired, The Awl and MIT’s Technology Review.\r\n He can be reached at russell.brandom@techcrunch.com or on Signal at 412-401-5489.\t\n\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-08-28T13:24:43.000Z",
+    "description": "\nAndreessen Horowitz has launched a new “Machine Age” fund with $1.1 billion raised. The firm’s aim with the new fund is to “open the throttle and acc",
+    "body": "\nAndreessen Horowitz has launched a new “Machine Age” fund with $1.1 billion raised. The firm’s aim with the new fund is to “open the throttle and accelerate the physical buildout of AI.”\nThe fund will focus on hardware, bucking the firm’s typical focus on the scaling power of software. In a post on the venture capital firm’s website, a16z says the fund will focus on investing in the infrastructure that powers AI — a swath that includes everything from computer chips and memory to data centers and robots.\n“We need faster, more efficient systems. We need cheaper and higher-bandwidth memory across the memory hierarchy. We need faster and more scalable interconnects between nodes and systems. We need power efficient edge devices for AI to explore and interact with the world. And of course we need all the cooling, materials, electrical, and real estate build out to support them,” the post reads.\nAI is the “strongest tool ever developed for solving problems and bestowing abundance,” the firm writes, calling its advancement a “social and national imperative.”\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "headline": "a16z creates a $1.1B ‘Machine Age’ fund to ‘accelerate the physical buildout of AI’",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2287646148.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/08/andreessen-horowitz-office.jpg?w=150"
       ],
-      "datePublished": "2026-08-28T19:30:38.000Z",
-      "dateModified": "2026-08-28T19:30:38.000Z",
+      "datePublished": "2026-08-28T13:24:43.000Z",
+      "dateModified": "2026-08-28T13:24:43.000Z",
       "author": [
         {
           "@type": "Person",
@@ -150,47 +100,22 @@
     }
   },
   {
-    "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-    "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=150",
+    "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+    "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-1.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-08-28T12:21:06.000Z",
-    "description": "\nMeta’s India and Southeast Asia vice president, Sandhya Devanathan, is leaving the social media giant to join OpenAI, the ChatGPT maker told TechCrun",
-    "body": "\nMeta’s India and Southeast Asia vice president, Sandhya Devanathan, is leaving the social media giant to join OpenAI, the ChatGPT maker told TechCrunch.\nDevanathan will be based in Singapore and report to OpenAI’s Asia-Pacific managing director, Kiran Mani. She will oversee consumer growth, enterprise adoption and partnerships, regulatory engagement, and operations across Southeast Asia and Australia, OpenAI said.\nThe executive is leaving Meta after more than a decade at the company, which has been the subject of growing scrutiny over issues such as online safety and content moderation. Devanathan was involved in the company’s decision process in the country, a person familiar with the matter said.\nDevanathan’s appointment comes days after Prabhjeet Singh joined OpenAI as its India head. Singh had spent more than a decade at Uber, where he led its India and South Asia business.\nOpenAI has been expanding its presence across the Asia Pacific, opening offices in Singapore, Tokyo, Seoul, Sydney, and Delhi over the past two years.\nFollowing Devanathan’s departure, Meta’s India managing director, Arun Srinivas, will report directly to Benjamin Joe, the company’s vice president for Asia Pacific, a person familiar with the matter told TechCrunch.\nDevanathan joined Meta in 2016 and held several leadership roles at the company, including leading its Asia Pacific gaming business, before being appointed vice president for India and Southeast Asia in June last year.\nMeta has faced growing pressure from Indian authorities in recent weeks. Earlier this month, the company apologized after Instagram mistakenly restricted a post by Prime Minister Narendra Modi in July. The Indian government summoned Meta executives, including its chief global affairs officer, Joel Kaplan, over the incident.\nNew Delhi has also raised concerns over child sexual abuse material on the company’s platforms. Last month, the Indian government sought an explanation from the company after a BBC report found Instagram advertisements that allegedly offered access to such content. \nMeta said in a blog post at the time that it had removed violating ads and accounts, and rejected suggestions that it knowingly targeted such advertisements at users based on inappropriate interests. The company also noted that it had removed 160,000 accounts in India over six months based on signals indicating child-exploitative activity.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tJagmeet covers startups, tech policy-related updates, and all other major tech-centric developments from India for TechCrunch. He previously worked as a principal correspondent at NDTV. \r\nYou can contact or verify outreach from Jagmeet by emailing mail@journalistjagmeet.com.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-08-29T18:41:59.000Z",
+    "description": "\nIn Brief\nPosted:\n11:41 AM PDT · August 29, 2026\n\nImage Credits:Ruhani Kaur/Bloomberg / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nSony M",
+    "body": "\nIn Brief\nPosted:\n11:41 AM PDT · August 29, 2026\n\nImage Credits:Ruhani Kaur/Bloomberg / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nSony Music Publishing, Warner Chappell and numerous other music publishers have sued Anthropic and co-founders Dario Amodei and Benjamin Mann, alleging the AI lab conducted a “brazen campaign of illegally torrenting, scraping, and downloading copyrighted works.” \nThe lawsuit, which was filed late Friday in the U.S. District Court for the Northern District of California, was first reported by Music Business Worldwide. The publishers accuse Anthropic of “blatant theft” by using thousands of copyrighted works to train its AI model Claude. \n“We disagree with the publishers’ claims and we intend to defend ourselves robustly in court,” an Anthropic spokesperson wrote in an emailed statement sent to TechCrunch. \nThis isn’t the first intellectual property lawsuit Anthropic has faced. Some of the same lawyers behind this lawsuit also represent Concord Music Group and Universal Music Group in a case filed in January and led the Bartz v. Anthropic case, in which a group of authors accused Anthropic of using copyrighted works to train products like Claude. Anthropic was ordered to pay $1.5 billion in the landmark Bartz case after a judge ruled that while it was legal for the AI lab to use copyrighted works, it was not legal to acquire that content through piracy.\nWhile the cases make similar arguments, there are key differences. This latest lawsuit is particularly broad and builds off the other cases, including by accusing Anthropic of “flagrant piracy” through illegal torrenting to obtain millions of copies of books, including those that contain lyrics and sheet music. \nArticle was updated to include Anthropic’s comment. \n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in AI\n\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+      "headline": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-1.jpg?w=150"
       ],
-      "datePublished": "2026-08-28T12:21:06.000Z",
-      "dateModified": "2026-08-28T12:21:06.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Brave’s browser one-ups Chrome with its new support for email aliases",
-    "url": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/08/brave-browser.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-08-28T18:50:00.000Z",
-    "description": "\nChrome alternative Brave just added a good reason to make the switch to its browser: email aliases. The feature, announced this week, allows Brave’s ",
-    "body": "\nChrome alternative Brave just added a good reason to make the switch to its browser: email aliases. The feature, announced this week, allows Brave’s users to sign up for websites and other online services without having to share their personal email addresses.\nTo use the feature, you first need to create an account with Brave, where you can provide your real email address. Then, once logged into the browser, you’ll see a pop-up appear when clicking an email field on a website, offering the option to use an alias instead. (If the pop-up doesn’t appear, just right-click on the field to access the option.) The email alias will be filled in on the website’s form, and any emails coming to that address will be forwarded to your primary email account.\nImage Credits:Brave\nThe company explains that using an alias can protect your privacy, particularly because websites use your email as a personal identifier, allowing them to target you for ads. Ad tech giants like Meta are also able to match the email you provided to a retailer’s website, for instance, with the address they have on file for you, allowing these companies to track what you bought or viewed.\nPlus, if any website where you shared your email gets hacked, the hackers will then know your primary email address, and this information can be leaked and shared with data brokers.\nBrave says it built the new feature to plug this privacy hole, adding that it doesn’t read the contents of emails sent to an alias — it only processes them for spam and virus filtering. After the email is forwarded, Brave deletes it from its servers. All data in users’ Brave accounts is also encrypted at rest, and any notes you save alongside an alias are stored locally on your device, unless you turn on the sync option. If syncing is enabled, notes will be encrypted end-to-end.\nAs the email alias feature is still new, Brave cautioned that some of the forwarded mail may initially go to your spam folder, but this should improve as Brave builds up its reputation score as a mail provider. \nFor the time being, Brave users are being offered five free email aliases. More will be available for Premium plan users in the future. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Brave’s browser one-ups Chrome with its new support for email aliases",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/08/brave-browser.jpg?w=150"
-      ],
-      "datePublished": "2026-08-28T18:50:00.000Z",
-      "dateModified": "2026-08-28T18:50:00.000Z",
+      "datePublished": "2026-08-29T18:41:59.000Z",
+      "dateModified": "2026-08-29T18:41:59.000Z",
       "author": [
         {
           "@type": "Person",
@@ -225,22 +150,72 @@
     }
   },
   {
-    "title": "The Theragun Sense makes everyday recovery surprisingly easy",
-    "url": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/theragun-sense.png?w=150",
+    "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+    "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2287646148.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-08-29T14:00:00.000Z",
-    "description": "\nAs my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little",
-    "body": "\nAs my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little too far can cause aches and pains. I’ve always been somewhat skeptical of massage guns, mostly because I’ve tried a few off-brand ones and just assumed they’d eventually end up collecting dust in a drawer.\nBut after a few weeks of testing the Therabody Theragun Sense (2nd Gen), I was surprised. Turns out massage guns aren’t as gimmicky as I had thought.\nThe Theragun Sense, which retails for $299, is a wellness-focused massage gun that’s designed for everyday aches, muscle tension, relaxation, and soreness. It’s more of a gentle massaging and relaxation tool rather than a hardcore recovery massage gun.\nIf you’re looking for more of a deep-tissue massage, it might be worth checking out the Theragun PRO or Prime. But if you don’t need a super heavy-duty massage gun with features like heated therapy and deep- tissue capabilities, the Theragun Sense is a great option for everyday use. \nMy favorite thing about the massage gun is that it features built-in visually guided routines. The device comes with four routines, and you can access additional routines through the Therabody app and sync your favorite ones to the device using Bluetooth.\nImage Credits:Therabody /\nThe Theragun Sense has an LCD screen that walks you through routines step by step. Once you select a routine, the screen shows you exactly where to use the massage gun, how long to spend on each area, and how much pressure to apply.\nAs someone who never really had an idea of what to do with a massage gun other than pointing it to a sore muscle and hoping for the best, I liked that the Therabody Sense takes a lot of the guesswork out of using a massage gun. \nMy favorite routine was the six-minute “Sleep” routine that’s essentially a quick full-body massage to get you ready for the night. The app lets you choose from many other routines, like “Pre-Walk Warm-up,” “Desk Relief,” “Lower Back Recovery,” and more. \nThe massage gun features five speeds to fine-tune pressure to allow for a more relaxing touch, moderate pressure, or a deeper tension release. I liked having the flexibility to change the intensity depending on how sore I was feeling that day.\nSince the device is designed to be lightweight, I found it easy to hold and get to those spots on my back and shoulders that are harder to reach.\nImage Credits:Therabody /\nFor people who want more personalization, the Therabody app takes the guided experience a step further with Coach, the company’s AI feature that creates personalized recovery recommendations based on your goals and activity. Coach can recommend which part of your body to target, which settings or attachments to use, and when to fit a recovery session into your day. \nThe relatively quiet motor was another feature I appreciated, as I could easily use the device while watching TV or relaxing without the sound of the massage gun acting as a distraction. \nThe Theragun Sense comes with a USB-C charging cable, a travel pouch, and two massage attachments: the Standard Ball and the Dampener, which is designed to target knots and tender areas. Separately, you can purchase the “Supersoft” attachment for $35 for extra sensitive areas on the body. \nOverall, the Theragun Sense (2nd Gen) won me over. It’s easy to use, comfortable to hold, and notably takes the guesswork out of using a massage gun. At $299, it isn’t cheap, but I think it’s a great option for people who want an everyday wellness device that can help them relax and recover. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing aisha@techcrunch.com or via encrypted message at aisha_malik.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-08-28T19:30:38.000Z",
+    "description": "\nTraining AI models with other AI models has become a very popular goal for neolabs — and now, a researcher in Anthropic’s fellows program has given u",
+    "body": "\nTraining AI models with other AI models has become a very popular goal for neolabs — and now, a researcher in Anthropic’s fellows program has given us an early look at what it might look like in practice.\nOn Friday, Anthropic published a new paper titled “Automated Researchers Can Reliably Mitigate Alignment Failures,” detailing how AI systems could reliably improve a model’s performance on a set of alignment benchmarks. When given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.\nLed by Anthropic fellow Chen Yueh-Han, the system replicates much of the traditional approach to research. Each automated system searches the available literature, proposes a method, and trains the model using that method for 30 minutes, gradually increasing the benchmark over several iterations. Effective methods are preserved while ineffective ones are discarded, allowing the system to operate quickly and at a great scale.\n“Overall, these results provide early evidence that automated alignment post-training could become practical in the near term,” the paper reads.\nThe paper is a step toward recursive self-improvement, which many see as the next significant step in AI progress. If models can improve their own alignment training, it’s plausible they could improve training practices more broadly — at which point, human AI researchers might soon become obsolete.\nThe paper isn’t shy about addressing this idea, explicitly comparing the Automated Alignment Researcher (AAR) to its human equivalent. “The best AAR method beats what experienced humans propose, on average within six hours,” the paper reads. “Human guided research directions do not lead to stronger performance.”\nThere’s even a cost comparison, in case anyone wasn’t convinced. “An AAR costs roughly $4 per hour in API inference against the $150 per hour we pay our human researchers.”\nIn fairness, the paper also points out a few limitations to this approach. The automated system only works insofar as the benchmarks reflect the actual alignment goals, and even then there’s significant work to be done in establishing and maintaining those benchmarks — not to mention maintaining and expanding on the literature the automated researchers are drawn from.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tRussell Brandom has been covering the tech industry since 2012, with a focus on platform policy and emerging technologies. He previously worked at The Verge and Rest of World, and has written for Wired, The Awl and MIT’s Technology Review.\r\n He can be reached at russell.brandom@techcrunch.com or on Signal at 412-401-5489.\t\n\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "The Theragun Sense makes everyday recovery surprisingly easy",
+      "headline": "An Anthropic researcher just gave us a peek at self-improving AI",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/08/theragun-sense.png?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2287646148.jpg?w=150"
       ],
-      "datePublished": "2026-08-29T14:00:00.000Z",
-      "dateModified": "2026-08-29T14:00:00.000Z",
+      "datePublished": "2026-08-28T19:30:38.000Z",
+      "dateModified": "2026-08-28T19:30:38.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
+    "url": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/xpeng-robot-Getty.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-08-28T23:24:27.000Z",
+    "description": "\nThe hype around humanoid robots isn’t particularly new. Thank Tesla CEO Elon Musk and his Optimus robot, as well as the myriad videos of Boston Dynam",
+    "body": "\nThe hype around humanoid robots isn’t particularly new. Thank Tesla CEO Elon Musk and his Optimus robot, as well as the myriad videos of Boston Dynamics’ Atlas robot, for that. \nBehind that hype, though, there is real progress. The physical capabilities of robots continue to improve, and researchers now believe that the AI techniques behind large language models can make complex robots capable of learning nearly any task.\nThose tailwinds have encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And many of the latest entrants are Chinese automakers. \nEarlier this week, Xpeng’s robotics unit raised more than $900 million at a post-money valuation of more than $6.3 billion. The round, led by IDG Capital with participation from Gaorong Ventures, Tencent, and Alibaba, was described by the company as the largest single-round private financing ever recorded in China’s “embodied AI” industry (AI systems built directly into physical machines).\nThis month, AiMOGA, the robotics unit of China’s Chery Automobile, reportedly began preparing for an IPO, while BYD unveiled a humanoid robot called Xiao Di. Other Chinese automakers, including Changan, GAC, Li Auto, SAIC, and Seres, are also developing humanoid robots.\nAmong all of them, Xpeng is the Chinese automaker that most closely watches and follows Tesla’s initiatives, according to Michael Dunne, CEO of San Diego- and Singapore-based advisory firm Dunne Insights.\n“It’s the most focused on autonomy, it’s the first to commit in a big way to humanoid robots,” Dunne told TechCrunch, adding that Xpeng founder He Xiaopeng is a tech billionaire known for his agility and quick adjustments. “He sees razor-thin profit in cars on the near horizon. Robots look much more promising.”\nXiaopeng and Xpeng co-president Brian Gu are bullish enough that they’ve put their own funds behind the robotics unit. According to the Wall Street Journal, the pair invested about $100 million into the recent fundraising round.\nXpeng’s bet is on Iron, a humanoid robot with a realistic human shape that is built for commercial deployment. \nChinese automakers like Xpeng do bring a manufacturing edge. \n“They have all the hardware to get the job done,” Dunne said. “Question is if they can catch Tesla on the AI side of the equation.”\nThere are, of course, many other companies developing humanoid robots, including Agility Robotics, Apptronik, and Figure, all chasing the same goal: commercial deployment at scale.\nHyundai-owned Boston Dynamics is getting closer to that goal. Hyundai plans to bring Boston Dynamics’ Atlas humanoid robot to its Georgia factory this year and eventually deploy the robots for tasks like parts sequencing by 2028. The Korean automaker, which partnered with Google’s AI research lab DeepMind to speed up the development of Atlas, is opening a U.S. facility this year called a Robot Metaplant Application Center, which will teach robots how to map movements like lifts and turns.\nOther automotive companies are also jumping, including supplier Mobileye, which acquired humanoid robot startup Mentee Robotics earlier this year for $900 million. Even Rivian is dabbling in robots with its Mind Robotics spinout — although its robots are not expected to look quite like the humanoids in development elsewhere.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tKirsten Korosec is a reporter and editor who has covered the future of transportation from EVs and autonomous vehicles to urban air mobility and in-car tech for more than a decade. She is currently the transportation editor at TechCrunch and co-host of TechCrunch’s Equity podcast. She is also co-founder and co-host of the podcast, “The Autonocast.” She previously wrote for Fortune, The Verge, Bloomberg, MIT Technology Review and CBS Interactive.\nYou can contact or verify outreach from Kirsten by emailing kirsten.korosec@techcrunch.com or via encrypted message at kkorosec.07 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/08/xpeng-robot-Getty.jpg?w=150"
+      ],
+      "datePublished": "2026-08-28T23:24:27.000Z",
+      "dateModified": "2026-08-28T23:24:27.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Nvidia’s AI advantage is moving beyond the GPU",
+    "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/jense-nvidi-chip-GettyImages-2266485392.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-08-29T13:00:00.000Z",
+    "description": "\nBefore this week, the dominant story about Nvidia went something like this: For the first few years of the AI boom, Nvidia was the only source for st",
+    "body": "\nBefore this week, the dominant story about Nvidia went something like this: For the first few years of the AI boom, Nvidia was the only source for state-of-the-art GPUs, which became immensely profitable as the industry scaled out. In the last few years, hyperscalers like Amazon and Google have started building their own chips, and Nvidia is no longer the only game in town, leading many investors to wonder how durable its advantage really is.\nIt’s a compelling story, and mostly true. After growing its market cap 10x between the start of 2023 and mid-2025, Nvidia shares have been on a more modest trajectory for the past year, driven by concerns about GPU competition.\nA new narrative has taken shape since the company’s earnings on Wednesday and investors are starting to realize that Nvidia’s advantage goes far beyond GPUs. As AI’s compute grows into the gigawatt scale, orchestration has become an increasingly complex task. Not surprisingly, Nvidia has built much of the state-of-the-art hardware needed to handle it, giving the company a huge advantage in the systems that surround the GPU even as it sees increased competition on the GPUs themselves. \nFor all the talk of compute as a commodity, it’s still incredibly difficult to operate a megascale data center at peak efficiency — and as deployments get bigger and faster, that challenge is only growing.\nRack by Rack\nYou can see some of this just by looking at the details of what Nvidia is actually selling. The company is currently rolling out its Vera Rubin architecture, which pairs the Rubin GPU with a collection of other units, including the Vera CPU, the Groq 3 LPX inference accelerator and similar racks for storage and networking.\nOver the past week, I’ve been talking to folks at Nvidia about what those systems actually do, and the results have been surprising. Like the Rubin GPU itself, they’re extremely specialized systems, but instead of churning through tokens, they’re making sure everything outside the GPU works as efficiently as possible. If the GPU is the engine, these are the rest of the car.\nThe Vera CPU in particular is focused on the problem of orchestrating data. “Vera is important because there’s only so much memory that you can put in a single server or any sort of compute platform,” Jason Hardy, Nvidia’s VP of storage technology, told me. \nAs data centers have scaled up computing power, memory capacity has scaled up too, which is why companies like Micron have gotten rich in the second wave of the infrastructure boom. But getting that data to the GPU at the right time isn’t straightforward — and as companies look to drive tokens-per-watt lower and lower, they’re realizing how important that kind of traffic direction is.\n“We saw upwards of 3x improvement in these operations, where the Vera CPU is allowing for acceleration,” Hardy said. “So now we can use our flash to its fullest potential, because we can get all that performance out of it without bottlenecking.”\nYou can see versions of the same problem outside of Nvidia. When OpenAI developed its Jalapeño chip, a major focus was avoiding these challenges entirely by minimizing the amount of data that needs to be moved around.\n“We designed Jalapeño to minimize data movement and communication delays,” the company said in a blog post earlier this month. “Its large domain allows the entire workload to remain within one connected system, minimizing data movement and helping the complete request stay fast and efficient from beginning to end.”\nIt’s a different approach, avoiding data movement entirely by conducting a workload within one integrated chip. But the overall logic is the same, increasing efficiency with smarter traffic control instead of just more processor cycles. That in turn opens up a whole new layer of infrastructure for companies to compete over.\nThis new focus on data orchestration isn’t automatically a win for Nvidia. The company will have to compete with rival chipmakers and hyperscalers just as it has with GPUs. But the competition has moved to a new layer, where building a rival GPU matters less than being able to make the entire system work efficiently. \nAnd at least in the early stages, Nvidia looks to have a commanding lead.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tRussell Brandom has been covering the tech industry since 2012, with a focus on platform policy and emerging technologies. He previously worked at The Verge and Rest of World, and has written for Wired, The Awl and MIT’s Technology Review.\r\n He can be reached at russell.brandom@techcrunch.com or on Signal at 412-401-5489.\t\n\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Nvidia’s AI advantage is moving beyond the GPU",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/08/jense-nvidi-chip-GettyImages-2266485392.jpg?w=150"
+      ],
+      "datePublished": "2026-08-29T13:00:00.000Z",
+      "dateModified": "2026-08-29T13:00:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -275,6 +250,31 @@
     }
   },
   {
+    "title": "The Theragun Sense makes everyday recovery surprisingly easy",
+    "url": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/theragun-sense.png?w=150",
+    "tag": "Tech",
+    "date": "2026-08-29T14:00:00.000Z",
+    "description": "\nAs my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little",
+    "body": "\nAs my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little too far can cause aches and pains. I’ve always been somewhat skeptical of massage guns, mostly because I’ve tried a few off-brand ones and just assumed they’d eventually end up collecting dust in a drawer.\nBut after a few weeks of testing the Therabody Theragun Sense (2nd Gen), I was surprised. Turns out massage guns aren’t as gimmicky as I had thought.\nThe Theragun Sense, which retails for $299, is a wellness-focused massage gun that’s designed for everyday aches, muscle tension, relaxation, and soreness. It’s more of a gentle massaging and relaxation tool rather than a hardcore recovery massage gun.\nIf you’re looking for more of a deep-tissue massage, it might be worth checking out the Theragun PRO or Prime. But if you don’t need a super heavy-duty massage gun with features like heated therapy and deep- tissue capabilities, the Theragun Sense is a great option for everyday use. \nMy favorite thing about the massage gun is that it features built-in visually guided routines. The device comes with four routines, and you can access additional routines through the Therabody app and sync your favorite ones to the device using Bluetooth.\nImage Credits:Therabody /\nThe Theragun Sense has an LCD screen that walks you through routines step by step. Once you select a routine, the screen shows you exactly where to use the massage gun, how long to spend on each area, and how much pressure to apply.\nAs someone who never really had an idea of what to do with a massage gun other than pointing it to a sore muscle and hoping for the best, I liked that the Therabody Sense takes a lot of the guesswork out of using a massage gun. \nMy favorite routine was the six-minute “Sleep” routine that’s essentially a quick full-body massage to get you ready for the night. The app lets you choose from many other routines, like “Pre-Walk Warm-up,” “Desk Relief,” “Lower Back Recovery,” and more. \nThe massage gun features five speeds to fine-tune pressure to allow for a more relaxing touch, moderate pressure, or a deeper tension release. I liked having the flexibility to change the intensity depending on how sore I was feeling that day.\nSince the device is designed to be lightweight, I found it easy to hold and get to those spots on my back and shoulders that are harder to reach.\nImage Credits:Therabody /\nFor people who want more personalization, the Therabody app takes the guided experience a step further with Coach, the company’s AI feature that creates personalized recovery recommendations based on your goals and activity. Coach can recommend which part of your body to target, which settings or attachments to use, and when to fit a recovery session into your day. \nThe relatively quiet motor was another feature I appreciated, as I could easily use the device while watching TV or relaxing without the sound of the massage gun acting as a distraction. \nThe Theragun Sense comes with a USB-C charging cable, a travel pouch, and two massage attachments: the Standard Ball and the Dampener, which is designed to target knots and tender areas. Separately, you can purchase the “Supersoft” attachment for $35 for extra sensitive areas on the body. \nOverall, the Theragun Sense (2nd Gen) won me over. It’s easy to use, comfortable to hold, and notably takes the guesswork out of using a massage gun. At $299, it isn’t cheap, but I think it’s a great option for people who want an everyday wellness device that can help them relax and recover. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing aisha@techcrunch.com or via encrypted message at aisha_malik.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "The Theragun Sense makes everyday recovery surprisingly easy",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/08/theragun-sense.png?w=150"
+      ],
+      "datePublished": "2026-08-29T14:00:00.000Z",
+      "dateModified": "2026-08-29T14:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "How Sweden built one of Europe’s hottest startup ecosystems ",
     "url": "https://techcrunch.com/2026/08/28/how-sweden-built-one-of-europes-hottest-startup-ecosystems/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2178323206.jpg?w=150",
@@ -300,22 +300,22 @@
     }
   },
   {
-    "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-    "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?w=150",
+    "title": "Brave’s browser one-ups Chrome with its new support for email aliases",
+    "url": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/08/brave-browser.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-08-28T12:46:12.000Z",
-    "description": "\nA federal judge in California ruled on Thursday evening that the Trump administration’s designation of Anthropic as a supply-chain risk was illegal. ",
-    "body": "\nA federal judge in California ruled on Thursday evening that the Trump administration’s designation of Anthropic as a supply-chain risk was illegal. \nU.S. District Judge Rita Lin said in her ruling that Defense Secretary Pete Hegseth’s labeling of Anthropic as a risk to national security signified “unlawful retaliation” in violation of the First Amendment, and said the decision was “arbitrary and capricious.” Lin also said Anthropic was denied due process, as required under the Fifth Amendment. \nEarlier this year, Hegseth and President Donald Trump labeled Anthropic a supply-chain risk and ordered all federal agencies, even those outside of defense, to stop working with the Claude maker.\nThe dispute stemmed from Anthropic setting hard lines on certain safety guardrails that would allow the Pentagon to use its models for fully autonomous weapons and mass surveillance of American citizens. The Pentagon denied that it would use Anthropic models for anything but lawful purposes, and alleged that Anthropic could try to control the military’s use of the models it bought and paid for. \nIn her ruling, Lin said that the government’s “words and deeds confirm that the challenged actions were based on a desire to make a public example out of Anthropic for its ‘arrogance’ in criticizing the government.” \nShe pointed out the disconnect between the supply-chain label and other actions from the government, like Hegseth’s proposition to apply the Defense Production Act to Anthropic, “which would mean the company was essential to national security rather than a threat to it.” She also pointed to the Department of Defense continuing to pursue a contract with the company, and the government collaborating with the company’s new model, Mythos, for cybersecurity.\nLin also said it’s clear that Anthropic “undisputedly lacks” any backdoor access to its technology once it hands it over to the DOD. \n“Though the Department of War is undisputedly free to select the AI vendor of its choice, the evidence demonstrates that the broad measures imposed on Anthropic were illegal and baseless,” Lin wrote. “The empty invocation of national security is not a blank check to punish and retaliate against government critics,” she added.\n“We welcome the court’s ruling that this supply chain risk designation was unlawful,” an Anthropic spokesperson said in a statement shared with TechCrunch. “We remain focused on working productively with the government to harness AI for our national security so all Americans benefit from this technology.”\nAnthropic filed two complaints against the DOD in March in California and Washington, D.C. The D.C. suit is still ongoing. \nTechCrunch has reached out to the DOD for comment.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tRebecca Bellan is a senior reporter at TechCrunch where she covers the business, policy, and emerging trends shaping artificial intelligence. Her work has also appeared in Forbes, Bloomberg, The Atlantic, The Daily Beast, and other publications. \r\nYou can contact or verify outreach from Rebecca by emailing rebecca.bellan@techcrunch.com or via encrypted message at rebeccabellan.491 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-08-28T18:50:00.000Z",
+    "description": "\nChrome alternative Brave just added a good reason to make the switch to its browser: email aliases. The feature, announced this week, allows Brave’s ",
+    "body": "\nChrome alternative Brave just added a good reason to make the switch to its browser: email aliases. The feature, announced this week, allows Brave’s users to sign up for websites and other online services without having to share their personal email addresses.\nTo use the feature, you first need to create an account with Brave, where you can provide your real email address. Then, once logged into the browser, you’ll see a pop-up appear when clicking an email field on a website, offering the option to use an alias instead. (If the pop-up doesn’t appear, just right-click on the field to access the option.) The email alias will be filled in on the website’s form, and any emails coming to that address will be forwarded to your primary email account.\nImage Credits:Brave\nThe company explains that using an alias can protect your privacy, particularly because websites use your email as a personal identifier, allowing them to target you for ads. Ad tech giants like Meta are also able to match the email you provided to a retailer’s website, for instance, with the address they have on file for you, allowing these companies to track what you bought or viewed.\nPlus, if any website where you shared your email gets hacked, the hackers will then know your primary email address, and this information can be leaked and shared with data brokers.\nBrave says it built the new feature to plug this privacy hole, adding that it doesn’t read the contents of emails sent to an alias — it only processes them for spam and virus filtering. After the email is forwarded, Brave deletes it from its servers. All data in users’ Brave accounts is also encrypted at rest, and any notes you save alongside an alias are stored locally on your device, unless you turn on the sync option. If syncing is enabled, notes will be encrypted end-to-end.\nAs the email alias feature is still new, Brave cautioned that some of the forwarded mail may initially go to your spam folder, but this should improve as Brave builds up its reputation score as a mail provider. \nFor the time being, Brave users are being offered five free email aliases. More will be available for Premium plan users in the future. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+      "headline": "Brave’s browser one-ups Chrome with its new support for email aliases",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2024/08/brave-browser.jpg?w=150"
       ],
-      "datePublished": "2026-08-28T12:46:12.000Z",
-      "dateModified": "2026-08-28T12:46:12.000Z",
+      "datePublished": "2026-08-28T18:50:00.000Z",
+      "dateModified": "2026-08-28T18:50:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -325,22 +325,22 @@
     }
   },
   {
-    "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
-    "url": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/xpeng-robot-Getty.jpg?w=150",
+    "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+    "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-08-28T23:24:27.000Z",
-    "description": "\nThe hype around humanoid robots isn’t particularly new. Thank Tesla CEO Elon Musk and his Optimus robot, as well as the myriad videos of Boston Dynam",
-    "body": "\nThe hype around humanoid robots isn’t particularly new. Thank Tesla CEO Elon Musk and his Optimus robot, as well as the myriad videos of Boston Dynamics’ Atlas robot, for that. \nBehind that hype, though, there is real progress. The physical capabilities of robots continue to improve, and researchers now believe that the AI techniques behind large language models can make complex robots capable of learning nearly any task.\nThose tailwinds have encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And many of the latest entrants are Chinese automakers. \nEarlier this week, Xpeng’s robotics unit raised more than $900 million at a post-money valuation of more than $6.3 billion. The round, led by IDG Capital with participation from Gaorong Ventures, Tencent, and Alibaba, was described by the company as the largest single-round private financing ever recorded in China’s “embodied AI” industry (AI systems built directly into physical machines).\nThis month, AiMOGA, the robotics unit of China’s Chery Automobile, reportedly began preparing for an IPO, while BYD unveiled a humanoid robot called Xiao Di. Other Chinese automakers, including Changan, GAC, Li Auto, SAIC, and Seres, are also developing humanoid robots.\nAmong all of them, Xpeng is the Chinese automaker that most closely watches and follows Tesla’s initiatives, according to Michael Dunne, CEO of San Diego- and Singapore-based advisory firm Dunne Insights.\n“It’s the most focused on autonomy, it’s the first to commit in a big way to humanoid robots,” Dunne told TechCrunch, adding that Xpeng founder He Xiaopeng is a tech billionaire known for his agility and quick adjustments. “He sees razor-thin profit in cars on the near horizon. Robots look much more promising.”\nXiaopeng and Xpeng co-president Brian Gu are bullish enough that they’ve put their own funds behind the robotics unit. According to the Wall Street Journal, the pair invested about $100 million into the recent fundraising round.\nXpeng’s bet is on Iron, a humanoid robot with a realistic human shape that is built for commercial deployment. \nChinese automakers like Xpeng do bring a manufacturing edge. \n“They have all the hardware to get the job done,” Dunne said. “Question is if they can catch Tesla on the AI side of the equation.”\nThere are, of course, many other companies developing humanoid robots, including Agility Robotics, Apptronik, and Figure, all chasing the same goal: commercial deployment at scale.\nHyundai-owned Boston Dynamics is getting closer to that goal. Hyundai plans to bring Boston Dynamics’ Atlas humanoid robot to its Georgia factory this year and eventually deploy the robots for tasks like parts sequencing by 2028. The Korean automaker, which partnered with Google’s AI research lab DeepMind to speed up the development of Atlas, is opening a U.S. facility this year called a Robot Metaplant Application Center, which will teach robots how to map movements like lifts and turns.\nOther automotive companies are also jumping, including supplier Mobileye, which acquired humanoid robot startup Mentee Robotics earlier this year for $900 million. Even Rivian is dabbling in robots with its Mind Robotics spinout — although its robots are not expected to look quite like the humanoids in development elsewhere.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tKirsten Korosec is a reporter and editor who has covered the future of transportation from EVs and autonomous vehicles to urban air mobility and in-car tech for more than a decade. She is currently the transportation editor at TechCrunch and co-host of TechCrunch’s Equity podcast. She is also co-founder and co-host of the podcast, “The Autonocast.” She previously wrote for Fortune, The Verge, Bloomberg, MIT Technology Review and CBS Interactive.\nYou can contact or verify outreach from Kirsten by emailing kirsten.korosec@techcrunch.com or via encrypted message at kkorosec.07 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-08-28T12:21:06.000Z",
+    "description": "\nMeta’s India and Southeast Asia vice president, Sandhya Devanathan, is leaving the social media giant to join OpenAI, the ChatGPT maker told TechCrun",
+    "body": "\nMeta’s India and Southeast Asia vice president, Sandhya Devanathan, is leaving the social media giant to join OpenAI, the ChatGPT maker told TechCrunch.\nDevanathan will be based in Singapore and report to OpenAI’s Asia-Pacific managing director, Kiran Mani. She will oversee consumer growth, enterprise adoption and partnerships, regulatory engagement, and operations across Southeast Asia and Australia, OpenAI said.\nThe executive is leaving Meta after more than a decade at the company, which has been the subject of growing scrutiny over issues such as online safety and content moderation. Devanathan was involved in the company’s decision process in the country, a person familiar with the matter said.\nDevanathan’s appointment comes days after Prabhjeet Singh joined OpenAI as its India head. Singh had spent more than a decade at Uber, where he led its India and South Asia business.\nOpenAI has been expanding its presence across the Asia Pacific, opening offices in Singapore, Tokyo, Seoul, Sydney, and Delhi over the past two years.\nFollowing Devanathan’s departure, Meta’s India managing director, Arun Srinivas, will report directly to Benjamin Joe, the company’s vice president for Asia Pacific, a person familiar with the matter told TechCrunch.\nDevanathan joined Meta in 2016 and held several leadership roles at the company, including leading its Asia Pacific gaming business, before being appointed vice president for India and Southeast Asia in June last year.\nMeta has faced growing pressure from Indian authorities in recent weeks. Earlier this month, the company apologized after Instagram mistakenly restricted a post by Prime Minister Narendra Modi in July. The Indian government summoned Meta executives, including its chief global affairs officer, Joel Kaplan, over the incident.\nNew Delhi has also raised concerns over child sexual abuse material on the company’s platforms. Last month, the Indian government sought an explanation from the company after a BBC report found Instagram advertisements that allegedly offered access to such content. \nMeta said in a blog post at the time that it had removed violating ads and accounts, and rejected suggestions that it knowingly targeted such advertisements at users based on inappropriate interests. The company also noted that it had removed 160,000 accounts in India over six months based on signals indicating child-exploitative activity.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tJagmeet covers startups, tech policy-related updates, and all other major tech-centric developments from India for TechCrunch. He previously worked as a principal correspondent at NDTV. \r\nYou can contact or verify outreach from Jagmeet by emailing mail@journalistjagmeet.com.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
+      "headline": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/08/xpeng-robot-Getty.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=150"
       ],
-      "datePublished": "2026-08-28T23:24:27.000Z",
-      "dateModified": "2026-08-28T23:24:27.000Z",
+      "datePublished": "2026-08-28T12:21:06.000Z",
+      "dateModified": "2026-08-28T12:21:06.000Z",
       "author": [
         {
           "@type": "Person",
