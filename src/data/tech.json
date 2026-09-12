@@ -50,31 +50,6 @@
     }
   },
   {
-    "title": "Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers",
-    "url": "https://techcrunch.com/2026/09/10/proxima-fusion-bets-e140m-on-a-critical-fusion-ingredient-dominated-by-asian-suppliers/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Proxima-Manufacturing-7.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-09-10T18:38:00.000Z",
-    "description": "\nIn Brief\nPosted:\n11:38 AM PDT · September 10, 2026\n\nImage Credits:Proxima Fusion\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nProxima Fusion is betting",
-    "body": "\nIn Brief\nPosted:\n11:38 AM PDT · September 10, 2026\n\nImage Credits:Proxima Fusion\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nProxima Fusion is betting on a critical ingredient for its fusion reactors: superconducting tape.\nProxima Fusion said Wednesday it plans to build a €140 million ($162.6 million) factory to produce fusion-grade high-temperature superconducting (HTS) tape, which will provide the startup with key component to its reactor design.\nThe move comes months after Proxima raised €411 million in a round that catapulted the company up the ranks of the best-funded fusion startups. The Germany-based fusion startup plans to use a mix of public and private funding to complete the factory, with the state of Lower Saxony chipping in €21 million. \nProxima will use HTS tape to generate powerful magnetic fields to contain the plasma required to spark fusion reactions. \nThe startup’s demonstration plant will use 20,000 kilometers of HTS tape, while its commercial power plant will need twice as much. Today, the vast majority of HTS tape is made in China and Japan.\nHTS tape emerged a little over a decade ago as one of the fundamental breakthroughs that enabled the current generation of fusion power startups. Because it can generate strong magnetic fields at relatively high temperatures, HTS tape enables smaller and more efficient reactor designs.\nWhile fusion power is expected to consume a large portion of the world’s HTS tape production, other companies like Veir are using it to boost the efficiency and power density of data centers.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Climate\n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/09/Proxima-Manufacturing-7.jpg?w=150"
-      ],
-      "datePublished": "2026-09-10T18:38:00.000Z",
-      "dateModified": "2026-09-10T18:38:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
     "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-Exhibit.jpg?w=150",
@@ -125,22 +100,22 @@
     }
   },
   {
-    "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-    "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?w=150",
+    "title": "OpenAI’s feud with mathematicians is only escalating",
+    "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-09-11T20:59:47.000Z",
-    "description": "\nWhen it comes to Chinese AI labs using distillation techniques to extract knowledge from frontier model makers, Y Combinator CEO Garry Tan is hoping ",
-    "body": "\nWhen it comes to Chinese AI labs using distillation techniques to extract knowledge from frontier model makers, Y Combinator CEO Garry Tan is hoping regulators stay out of it. In fact, he thinks U.S. AI labs should perhaps play the same game.\n“I would do nothing,” he told CNBC in an interview earlier this week. “We could argue that there should be an American distillation regime.”\nHe elaborated to TechCrunch that this means he wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.\nDistillation is when a model maker extensively prompts another model in order to learn how it works and reasons. It is commonly, and legitimately, used by AI labs to help train new models.\nAnthropic this week released its second report alleging that Chinese labs are engaged in “illicit distillation attacks,” hiding their identities to distill without permission and relying on fraud and stolen credentials to do so. Anthropic CEO Dario Amodei had previously publicly called on U.S. regulators to crack down on distillation.\nIt’s notable that the commander of Silicon Valley’s prestigious and prolific startup accelerator doesn’t agree.\nTo be clear, Tan isn’t advocating for American AI labs to use stolen credentials to distill. He wants them to be free to come in the front door. In fact, his argument is twofold. He feels it’s an overreach for AI labs to dictate what their customers can do with the information their models share with them.\nHe also notes that the proprietary AI labs didn’t ask permission when they vacuumed up as much human knowledge as they could to train their models. They famously ingested plenty of copyrighted material without the permission of those intellectual property holders.\n“Controlling what users and customers do with API calls to closed weight models feels constraining, and there’s a role government can play here to normalize the fact that access to intelligence that was trained on broad public access data should itself also be more a form of a public good than something locked away behind restrictive terms of service,” he told TechCrunch when asked why American labs should be free to distill, too.\nTan, who is himself such an avid AI user that he once described himself as having cyber psychosis, wants to see a balance between open-weight AI labs and frontier labs.\n“They are at the frontier and driving it forward. We want that to be fundable, and be a great business model ongoing,” he told CNBC. “You want open weight models to give people freedom and access.”\nTo him, the true AI doomer scenario is for all the immense power of frontier AI to wind up in the hands of a single powerful, proprietary provider. “The nightmare scenario, the doomer scenario for AI is that there’s just one company,” he said. “It has the best access to capital. It has the best AI researchers. It runs away with it and suddenly there’s one company that’s monolithic. And that would be bad.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "date": "2026-09-11T20:57:36.000Z",
+    "description": "\nTwenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work as they seek to one-up each oth",
+    "body": "\nTwenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work as they seek to one-up each other with solutions to famous math problems. Each signatory has been awarded the Fields Medal, considered the most prestigious prize in mathematics.\nThis week, NYU professor Tristan Buckmaster accused OpenAI of pressuring him not to credit a collaborator who works for Anthropic for solving an important math problem, and wondered if the company had used their work with Codex to produce its own groundbreaking proof over a marathon weekend of inference.\nOn Thursday, OpenAI withdrew its sponsorship of a math event at CalTech after the company was criticized by researchers at the university.\nWhile the ability of AI models to solve the world’s outstanding mathematical challenges could be a boon to humanity, the signatories of the new letter argue that will only be the case if those solutions can be understood and communicated by the math community and, ultimately, the rest of the world.\n“Often these solutions are announced in a rush, leaving no time for a proper writeup, the isolation of new methods and ideas, and citing relevant previous work of others,” they wrote — and OpenAI’s proof remains unverified. “As in all creative professions, this raises severe attribution and plagiarism questions. Moreover, without the willing mathematicians who must take care of their development and integration into the mathematical canon, AI-conceived ideas would never become fully alive and the crucial human transmission chain between mathematicians would be lost.”\nWith other mathematicians growing paranoid and wondering if their Codex use was in turn fed into OpenAI’s new models, there is real fear that the culture of open research will be threatened. Today, if frontier labs see a useful path to a discovery, they can spend tens of millions of dollars using LLMs to beat the original researchers to a proof — a dynamic that will incentivize secrecy.\nThis letter follows the Leiden Declaration, released by a working group of mathematicians in June. That document also grapples with the ways that LLM proofs will change their work and offers a set of recommendations for mathematicians, institutions, and policymakers.\nAs with software engineering and other areas where AI tools are changing workflows, mathematicians find a justification in the work around the work: The value in math isn’t just the proofs and who gets credit, but the intellectual super-structure that nourishes students, finds new questions and ideas, and integrates them into broader human civilization.\nAnd if you don’t particularly care about the cutthroat world of high-stakes mathematical proofs, don’t forget: Your field of interest is next.\n“The issues the mathematical community faces now are similar to issues that other scientific and creative professions are facing, and indicate issues that all of humanity might face: how to make sure that, as AI changes the way work is done, we do not lose sight of what that work was meant to achieve in the first place,” they wrote. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tTim Fernholz is a journalist who writes about technology, finance and public policy. He has closely covered the rise of the private space industry and is the author of  Rocket Billionaires: Elon Musk, Jeff Bezos and the New Space Race. Formerly, he was a senior reporter at Quartz, the global business news site, for more than a decade, and began his career as a political reporter in Washington, D.C. \nYou can contact or verify outreach from Tim by emailing tim.fernholz@techcrunch.com or via an encrypted message to tim_fernholz.21 on Signal.\r\n\t\n\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+      "headline": "OpenAI’s feud with mathematicians is only escalating",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?w=150"
       ],
-      "datePublished": "2026-09-11T20:59:47.000Z",
-      "dateModified": "2026-09-11T20:59:47.000Z",
+      "datePublished": "2026-09-11T20:57:36.000Z",
+      "dateModified": "2026-09-11T20:57:36.000Z",
       "author": [
         {
           "@type": "Person",
@@ -175,31 +150,6 @@
     }
   },
   {
-    "title": "Roblox is making it easier to build games with AI — and play them outside Roblox",
-    "url": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Build_Flow_16x9-EN.jpeg?w=150",
-    "tag": "Tech",
-    "date": "2026-09-11T19:00:00.000Z",
-    "description": "\nAt its annual Roblox Developer Conference (RDC), the company behind the popular gaming platform announced several new features, including new game-cr",
-    "body": "\nAt its annual Roblox Developer Conference (RDC), the company behind the popular gaming platform announced several new features, including new game-creation tools, expanded NPC (non-player character) capabilities, and the ability to make games available across platforms, including the web. The company is also launching a dedicated Roblox Card and Roblox Wallet for creators.\nIn addition, Roblox is rolling out its generative AI game creation more broadly. First announced in July, the feature called “Build” lets Roblox users create games using natural language prompts. Initially, it was available only in New Zealand. Now the company is expanding it to Serbia and Singapore. Build is also gaining desktop access for big-screen creation, a new asset library, and iterative control. Later this year, it will also get a new prompt-based scene-generation feature, which will extend to Roblox Studio.\nThe gaming platform is making sure that all these newly created games are available to play in more places. The company said creators will soon be able to make their games available as separate apps on mobile, PC, and consoles, with Roblox being the game engine behind that. By year-end, players will be able to join a game in-browser through a link.\nThe announcements indicate Roblox is now focused not only on bringing people to Roblox, but also on expanding the reach of what developers build, while also making building easier and more accessible.\nBesides the new creation tools, the company is adding new capabilities to NPCs, including ones that can playtest a game, later this year. Creators will also be able to add an offline mode in their games, allowing people to continue playing when they’re in an area with a weak network connection.\n\nLoading the player…\n\nIn addition, players will get a new Friends chat tab that moves across the game with them, with voice typing support.\nMeanwhile, an improved discovery algorithm will suggest shorter-format games to younger users and games with a longer playtime to older users.\nThrough its game engine, Roblox is also debuting the ability to create 2D games with an orthographic camera, animated image containers, and direct sprite-sheet import for animation. It also added that within its Moments vertical feed, players can soon tap on any avatar in a clip and purchase items.\nRoblox Wallet overview.Image Credits:Roblox\nRoblox said that since 2013, game makers have earned more than $5 billion on the platform, with earnings for the last 12 months reaching $1.7 billion. Now the company is launching financial products to let creators have different tools to use their earnings.\nFirst is a Roblox Wallet where creators can get paid in real money by the end of each business day. Users can also transfer their money to other bank accounts. The company is partnering with Airwallex to provide wallet services to U.S. users aged 18 and older, with plans for future global expansion.\nThe gaming service also teased a Roblox Card, launching next year, that would let users spend their earnings at places that accept the card.\nRoblox is looking to drum up engagement time on its platform and beyond. The company’s founder and CEO, David Baszucki, said that in the last quarter, players spent over 29 billion hours cumulatively across 180 countries.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Roblox is making it easier to build games with AI — and play them outside Roblox",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/09/Build_Flow_16x9-EN.jpeg?w=150"
-      ],
-      "datePublished": "2026-09-11T19:00:00.000Z",
-      "dateModified": "2026-09-11T19:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
     "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2287646148.jpg?w=150",
@@ -225,47 +175,22 @@
     }
   },
   {
-    "title": "OpenAI’s feud with mathematicians is only escalating",
-    "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?w=150",
+    "title": "Revolut confirms customer data breach through fake government requests",
+    "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/11/revolut.png?w=150",
     "tag": "Tech",
-    "date": "2026-09-11T20:57:36.000Z",
-    "description": "\nTwenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work as they seek to one-up each oth",
-    "body": "\nTwenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work as they seek to one-up each other with solutions to famous math problems. Each signatory has been awarded the Fields Medal, considered the most prestigious prize in mathematics.\nThis week, NYU professor Tristan Buckmaster accused OpenAI of pressuring him not to credit a collaborator who works for Anthropic for solving an important math problem, and wondered if the company had used their work with Codex to produce its own groundbreaking proof over a marathon weekend of inference.\nOn Thursday, OpenAI withdrew its sponsorship of a math event at CalTech after the company was criticized by researchers at the university.\nWhile the ability of AI models to solve the world’s outstanding mathematical challenges could be a boon to humanity, the signatories of the new letter argue that will only be the case if those solutions can be understood and communicated by the math community and, ultimately, the rest of the world.\n“Often these solutions are announced in a rush, leaving no time for a proper writeup, the isolation of new methods and ideas, and citing relevant previous work of others,” they wrote — and OpenAI’s proof remains unverified. “As in all creative professions, this raises severe attribution and plagiarism questions. Moreover, without the willing mathematicians who must take care of their development and integration into the mathematical canon, AI-conceived ideas would never become fully alive and the crucial human transmission chain between mathematicians would be lost.”\nWith other mathematicians growing paranoid and wondering if their Codex use was in turn fed into OpenAI’s new models, there is real fear that the culture of open research will be threatened. Today, if frontier labs see a useful path to a discovery, they can spend tens of millions of dollars using LLMs to beat the original researchers to a proof — a dynamic that will incentivize secrecy.\nThis letter follows the Leiden Declaration, released by a working group of mathematicians in June. That document also grapples with the ways that LLM proofs will change their work and offers a set of recommendations for mathematicians, institutions, and policymakers.\nAs with software engineering and other areas where AI tools are changing workflows, mathematicians find a justification in the work around the work: The value in math isn’t just the proofs and who gets credit, but the intellectual super-structure that nourishes students, finds new questions and ideas, and integrates them into broader human civilization.\nAnd if you don’t particularly care about the cutthroat world of high-stakes mathematical proofs, don’t forget: Your field of interest is next.\n“The issues the mathematical community faces now are similar to issues that other scientific and creative professions are facing, and indicate issues that all of humanity might face: how to make sure that, as AI changes the way work is done, we do not lose sight of what that work was meant to achieve in the first place,” they wrote. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tTim Fernholz is a journalist who writes about technology, finance and public policy. He has closely covered the rise of the private space industry and is the author of  Rocket Billionaires: Elon Musk, Jeff Bezos and the New Space Race. Formerly, he was a senior reporter at Quartz, the global business news site, for more than a decade, and began his career as a political reporter in Washington, D.C. \nYou can contact or verify outreach from Tim by emailing tim.fernholz@techcrunch.com or via an encrypted message to tim_fernholz.21 on Signal.\r\n\t\n\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-09-12T14:40:00.000Z",
+    "description": "\nBritish fintech Revolut confirmed that it disclosed sensitive customer information to an unauthorized third party after receiving fraudulent requests",
+    "body": "\nBritish fintech Revolut confirmed that it disclosed sensitive customer information to an unauthorized third party after receiving fraudulent requests sent from a legitimate government agency email domain.\nThe exposed data included customers’ identity and contact details, including their birth date, postal and email addresses, and phone numbers, as well as copies of their identity documents including passports and driver’s licenses, according to a notification emailed to affected customers and reviewed by TechCrunch. The data may have also included verification selfies, account statements, and transaction histories, the firm said in its notification.\nA Revolut spokesperson confirmed to TechCrunch that a “limited” number of customers were impacted and said the company had contacted those customers directly. Revolut, however, did not disclose the exact number of impacted individuals. It also did not answer whether the incident was limited to a specific market and declined to disclose the government agency involved.\n“Revolut recently identified a sophisticated external impersonation scam where an unauthorised third party utilised a legitimate government agency domain email to submit fraudulent requests for information,” the spokesperson said. \nRevolut told TechCrunch that it blocked the email address after discovering the scam from the unauthorized third party and alerted the relevant government agency, law enforcement, and relevant regulators, adding, “Revolut systems and customer funds are unaffected.”\nLondon-based Revolut has more than 80 million customers globally and operates as a bank in more than 30 countries, per its website. The fintech recently expanded its presence in markets including India, Mexico, France, and the UAE. Moreover, earlier this month, the U.S. Office of the Comptroller of the Currency granted a conditional approval to Revolut to set up a national bank in the country, which the firm expects to launch in the first half of 2027.\nWell-known crypto security researcher ZachXBT posted about Revolut’s email to its affected customers late on Friday. The researcher said the incident appeared to have been targeted at high net worth users.\nThe incident comes as Revolut reportedly weighs a potential public listing that could value it at as much as $200 billion, up from its $75 billion private valuation in November. The fintech has also been expanding its banking footprint in Europe and globally, securing banking licenses in France and the UK in recent months.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tJagmeet covers startups, tech policy-related updates, and all other major tech-centric developments from India for TechCrunch. He previously worked as a principal correspondent at NDTV. \r\nYou can contact or verify outreach from Jagmeet by emailing mail@journalistjagmeet.com.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "OpenAI’s feud with mathematicians is only escalating",
+      "headline": "Revolut confirms customer data breach through fake government requests",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2025/11/revolut.png?w=150"
       ],
-      "datePublished": "2026-09-11T20:57:36.000Z",
-      "dateModified": "2026-09-11T20:57:36.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
-    "url": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Keith-Rabois.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-09-11T21:19:05.000Z",
-    "description": "\nKeith Rabois has spent most of his 13-year career in venture capital associated with Khosla Ventures’ longtime home in Menlo Park, California. But th",
-    "body": "\nKeith Rabois has spent most of his 13-year career in venture capital associated with Khosla Ventures’ longtime home in Menlo Park, California. But that’s changing. Speaking Thursday night at TechCrunch’s StrictlyVC event in New York’s West Village, Rabois confirmed that Khosla Ventures is opening its first-ever office outside Sand Hill Road. The new outpost will be in New York, on 14th Street, and is expected to open this fall.\n“It’s actually allegedly being built out now,” said Rabois, who has clearly dealt with a missed construction timeline or two. “We’ll see. This fall opening date is very vague in my mind.”\nThe move is notable partly because of how unusual it is for Khosla Ventures specifically. “We don’t even have an SF office, so this is a very big step for us,” said Rabois.\nThe office will house a handful of Khosla investors, Rabois among them, but its more unusual feature is what he called an “executive briefing center.” That will be a space where the firm will bring 10 or 12 portfolio companies at a time to meet with a Fortune 500 company, four days a week. “The portfolio companies love this,” he told attendees. “They get pilots and customers, and so it’s going to be a very vibrant office because of that.”\nThe announcement comes months after Rabois himself relocated to the East Coast, moving to be closer to his husband, Jacob Helberg, the Under Secretary of State for Economic Growth, Energy, and the Environment, and their children, who are currently based in Washington, D.C.\nThat move prompted an obvious question from this editor, which is whether he thinks New York has the density of talent that he has spent his career recruiting from in the Bay Area. He paused, then said it depends on seniority.\nAt the junior end, Rabois was unequivocal. “Individual contributor level, right out of school, absolutely,” he said, pointing to Ramp, the fintech company he has backed repeatedly, as proof. “We’ve been tapping into right-out-of-school graduates and been able to create a critical density of talent from the intern class [onward] that is extraordinary.”\nSenior technical talent is a different story. “Senior engineers, architect-level — no, I think that’s a challenge,” he said, adding: “Fortunately, maybe in the modern age, you need less of these people per company than you have historically.”\nBut the biggest pain point for companies is talented senior executives, Rabois said, explaining that it has less to do with supply than with geography and lifestyle. “If you have an in-office culture, most of the more senior people that live and reside in the New York area live outside the city, and the commute in and out of the city for an office environment can be very painful,” said Rabois, who grew up in a New York commuter suburb himself. “We were like a 32-minute express train into the city, but many people live two concentric circles further away. When you need to recruit proven executive talent, and you really believe in an in-office culture, [that has] been very challenging.”\nRamp’s solution, he said, has been to mostly opt out of that problem entirely. “We don’t hire senior people. We just build from the bottom up, ground up. It’s been a very conscious strategy, very intentionally, for the last three years,” he said. “That can work,” he continued. “But if you need a CFO, an SVP of sales, someone who’s got a lot of gravitas and experience, it’s really hard to have them in the office five days a week, because unless they’re very independently wealthy, they really can’t afford to raise a family right in the middle of the city.”\nKhosla’s move puts it in a small but, potentially, growing club. Other major Bay Area venture firms have maintained a New York presence for years, though typically a modest one. For example, Sequoia Capital and Andreessen Horowitz both employ New York-based partners, if in comparatively small numbers relative to the Bay Area.\nIt also comes on the heels of a report released last month by commercial real estate services firm CBRE that found New York has narrowly overtaken the San Francisco Bay Area in total tech talent headcount for the first time in the 13 years CBRE has tracked the data. This has been driven largely by finance firms hiring aggressively for AI talent while Bay Area tech employers cut staff.\nCould it be coincidence? Judging by the room Thursday night, plenty of New Yorkers aren’t ready to believe the headline yet. \n“I heard about that study,” said one attendee. “I don’t buy it.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/09/Keith-Rabois.jpg?w=150"
-      ],
-      "datePublished": "2026-09-11T21:19:05.000Z",
-      "dateModified": "2026-09-11T21:19:05.000Z",
+      "datePublished": "2026-09-12T14:40:00.000Z",
+      "dateModified": "2026-09-12T14:40:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -300,6 +225,81 @@
     }
   },
   {
+    "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+    "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-09-11T20:59:47.000Z",
+    "description": "\nWhen it comes to Chinese AI labs using distillation techniques to extract knowledge from frontier model makers, Y Combinator CEO Garry Tan is hoping ",
+    "body": "\nWhen it comes to Chinese AI labs using distillation techniques to extract knowledge from frontier model makers, Y Combinator CEO Garry Tan is hoping regulators stay out of it. In fact, he thinks U.S. AI labs should perhaps play the same game.\n“I would do nothing,” he told CNBC in an interview earlier this week. “We could argue that there should be an American distillation regime.”\nHe elaborated to TechCrunch that this means he wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.\nDistillation is when a model maker extensively prompts another model in order to learn how it works and reasons. It is commonly, and legitimately, used by AI labs to help train new models.\nAnthropic this week released its second report alleging that Chinese labs are engaged in “illicit distillation attacks,” hiding their identities to distill without permission and relying on fraud and stolen credentials to do so. Anthropic CEO Dario Amodei had previously publicly called on U.S. regulators to crack down on distillation.\nIt’s notable that the commander of Silicon Valley’s prestigious and prolific startup accelerator doesn’t agree.\nTo be clear, Tan isn’t advocating for American AI labs to use stolen credentials to distill. He wants them to be free to come in the front door. In fact, his argument is twofold. He feels it’s an overreach for AI labs to dictate what their customers can do with the information their models share with them.\nHe also notes that the proprietary AI labs didn’t ask permission when they vacuumed up as much human knowledge as they could to train their models. They famously ingested plenty of copyrighted material without the permission of those intellectual property holders.\n“Controlling what users and customers do with API calls to closed weight models feels constraining, and there’s a role government can play here to normalize the fact that access to intelligence that was trained on broad public access data should itself also be more a form of a public good than something locked away behind restrictive terms of service,” he told TechCrunch when asked why American labs should be free to distill, too.\nTan, who is himself such an avid AI user that he once described himself as having cyber psychosis, wants to see a balance between open-weight AI labs and frontier labs.\n“They are at the frontier and driving it forward. We want that to be fundable, and be a great business model ongoing,” he told CNBC. “You want open weight models to give people freedom and access.”\nTo him, the true AI doomer scenario is for all the immense power of frontier AI to wind up in the hands of a single powerful, proprietary provider. “The nightmare scenario, the doomer scenario for AI is that there’s just one company,” he said. “It has the best access to capital. It has the best AI researchers. It runs away with it and suddenly there’s one company that’s monolithic. And that would be bad.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?w=150"
+      ],
+      "datePublished": "2026-09-11T20:59:47.000Z",
+      "dateModified": "2026-09-11T20:59:47.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
+    "url": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Keith-Rabois.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-09-11T21:19:05.000Z",
+    "description": "\nKeith Rabois has spent most of his 13-year career in venture capital associated with Khosla Ventures’ longtime home in Menlo Park, California. But th",
+    "body": "\nKeith Rabois has spent most of his 13-year career in venture capital associated with Khosla Ventures’ longtime home in Menlo Park, California. But that’s changing. Speaking Thursday night at TechCrunch’s StrictlyVC event in New York’s West Village, Rabois confirmed that Khosla Ventures is opening its first-ever office outside Sand Hill Road. The new outpost will be in New York, on 14th Street, and is expected to open this fall.\n“It’s actually allegedly being built out now,” said Rabois, who has clearly dealt with a missed construction timeline or two. “We’ll see. This fall opening date is very vague in my mind.”\nThe move is notable partly because of how unusual it is for Khosla Ventures specifically. “We don’t even have an SF office, so this is a very big step for us,” said Rabois.\nThe office will house a handful of Khosla investors, Rabois among them, but its more unusual feature is what he called an “executive briefing center.” That will be a space where the firm will bring 10 or 12 portfolio companies at a time to meet with a Fortune 500 company, four days a week. “The portfolio companies love this,” he told attendees. “They get pilots and customers, and so it’s going to be a very vibrant office because of that.”\nThe announcement comes months after Rabois himself relocated to the East Coast, moving to be closer to his husband, Jacob Helberg, the Under Secretary of State for Economic Growth, Energy, and the Environment, and their children, who are currently based in Washington, D.C.\nThat move prompted an obvious question from this editor, which is whether he thinks New York has the density of talent that he has spent his career recruiting from in the Bay Area. He paused, then said it depends on seniority.\nAt the junior end, Rabois was unequivocal. “Individual contributor level, right out of school, absolutely,” he said, pointing to Ramp, the fintech company he has backed repeatedly, as proof. “We’ve been tapping into right-out-of-school graduates and been able to create a critical density of talent from the intern class [onward] that is extraordinary.”\nSenior technical talent is a different story. “Senior engineers, architect-level — no, I think that’s a challenge,” he said, adding: “Fortunately, maybe in the modern age, you need less of these people per company than you have historically.”\nBut the biggest pain point for companies is talented senior executives, Rabois said, explaining that it has less to do with supply than with geography and lifestyle. “If you have an in-office culture, most of the more senior people that live and reside in the New York area live outside the city, and the commute in and out of the city for an office environment can be very painful,” said Rabois, who grew up in a New York commuter suburb himself. “We were like a 32-minute express train into the city, but many people live two concentric circles further away. When you need to recruit proven executive talent, and you really believe in an in-office culture, [that has] been very challenging.”\nRamp’s solution, he said, has been to mostly opt out of that problem entirely. “We don’t hire senior people. We just build from the bottom up, ground up. It’s been a very conscious strategy, very intentionally, for the last three years,” he said. “That can work,” he continued. “But if you need a CFO, an SVP of sales, someone who’s got a lot of gravitas and experience, it’s really hard to have them in the office five days a week, because unless they’re very independently wealthy, they really can’t afford to raise a family right in the middle of the city.”\nKhosla’s move puts it in a small but, potentially, growing club. Other major Bay Area venture firms have maintained a New York presence for years, though typically a modest one. For example, Sequoia Capital and Andreessen Horowitz both employ New York-based partners, if in comparatively small numbers relative to the Bay Area.\nIt also comes on the heels of a report released last month by commercial real estate services firm CBRE that found New York has narrowly overtaken the San Francisco Bay Area in total tech talent headcount for the first time in the 13 years CBRE has tracked the data. This has been driven largely by finance firms hiring aggressively for AI talent while Bay Area tech employers cut staff.\nCould it be coincidence? Judging by the room Thursday night, plenty of New Yorkers aren’t ready to believe the headline yet. \n“I heard about that study,” said one attendee. “I don’t buy it.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/09/Keith-Rabois.jpg?w=150"
+      ],
+      "datePublished": "2026-09-11T21:19:05.000Z",
+      "dateModified": "2026-09-11T21:19:05.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Matt Mullenweg tells (trolls?) Automattic staff, saying he’s back in control after CEO ouster",
+    "url": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/10/matt-mullenweg-disrupt.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-09-11T15:19:00.000Z",
+    "description": "\nMatt Mullenweg has posted a message to Automattic’s Slack, claiming he is back in control as CEO of the WordPress.com parent company, according to a ",
+    "body": "\nMatt Mullenweg has posted a message to Automattic’s Slack, claiming he is back in control as CEO of the WordPress.com parent company, according to a screenshot of the message seen by TechCrunch, which was confirmed by multiple employee sources. The post arrives only days after Automattic’s board voted to oust Mullenweg as CEO for unknown reasons. \nAutomattic has been asked to confirm if Mullenweg’s statement is true, but has not yet responded to repeated requests for comment.  Mullenweg responded to our inquiry, saying a blog post is forthcoming. When it dropped, it was about him buying a houseboat.\nFriday afternoon, Mary Hubbard, the Executive Director of WordPress.org, wrote on X that she was “relieved and pleased to see Matt Mullenweg return as CEO of Automattic.”\nThis story is still developing.\n\nFounder advice: If you don't have a coup attempt every few years, you're not hiring strong enough leaders.— Matt Mullenweg (@photomatt) September 11, 2026\n\nOn Wednesday, the WordPress founder and a key advocate for the open source community told his team via Slack that Automattic’s board members had “conspired” behind his back by voting to put him on a paid leave of absence. The company’s chief financial officer, Mark Davies, was made interim CEO in the process, Mullenweg said.\nAt the time, a spokesperson from Automattic confirmed to TechCrunch that Mullenweg was on leave and Davies was interim CEO.\nEarly Friday morning, Mullenweg shared the following new message on Automattic’s Slack: \n\n“(Don’t call it a comeback…) Howdy everybody! Happy to announce the board is back in agreement, and I’m in control of Automattic. A lot happened in the past 48 hours that we need to sort out, and I hope much of it was a misunderstanding, because I have huge respect and regard for those involved.” \n\nHe also posted a link to the YouTube video for LL Cool J’s “Mama Said Knock You Out.”\nAs of the time of writing, no one at Automattic had heard a confirmation from the board. Mark Davies’ Slack account was also deactivated, sources said.\nHowever, TechCrunch heard yesterday that Mullenweg had removed all Slack admins from the Automattic Slack and made an odd post about being a “pirate” in which he cursed. (Mullenweg famously does not curse). \nGiven this situation, it’s hard to know if he’s now trolling or if legitimate changes have been made. \nWe asked Mullenweg if he was trolling on Slack, and he replied, “I’m not a troll I’m a pirate, obviously.” \nAfter his surprise removal as CEO this week, Mullenweg’s public and private social media posts suggested he wasn’t done fighting the decision. On Reddit, he told those speculating what this meant for the open source community that they didn’t know what they were talking about after initially replying, “Hey y’all. I’m here, just fine,” to a Reddit post linking to the 404 Media article that first broke the news.\nOn X, Mullenweg also posted that “Things are different than they appear,” and said he was in need of sysadmins and security researchers to help him move some of his stuff hosted at Automattic elsewhere, even though he supported Davies as CEO.\nIn both places, he suggested that Silver Lake, the PE firm that’s the majority owner of the hosting company WP Engine, which is currently embroiled in a lawsuit with Mullenweg and Automattic, was involved in this plan to “destroy” his life.\nOn Friday morning, Mullenweg posted on X, “Boards are never boring,” followed by a laughing/crying emoji.\n\n This story was updated after its initial publication with additional comments and links to social media posts. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Matt Mullenweg tells (trolls?) Automattic staff, saying he’s back in control after CEO ouster",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2024/10/matt-mullenweg-disrupt.jpg?w=150"
+      ],
+      "datePublished": "2026-09-11T15:19:00.000Z",
+      "dateModified": "2026-09-11T15:19:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
     "url": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/DC-United.jpg?w=150",
@@ -325,31 +325,6 @@
     }
   },
   {
-    "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-    "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-getty.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-09-10T21:51:59.000Z",
-    "description": "\nFounder, CEO, and tireless Nvidia hype man Jensen Huang told attendees at the Goldman Sachs Communacopia + Technology conference on Thursday why his ",
-    "body": "\nFounder, CEO, and tireless Nvidia hype man Jensen Huang told attendees at the Goldman Sachs Communacopia + Technology conference on Thursday why his company’s AI domination — and revenues — will continue its record-breaking growth streak through the end of next year.\nHe can see the future. \nThere’s been endless hand-wringing over whether Nvidia’s party will end as it faces increasing competition for GPUs and AI chips from all directions: the hyperscalers (Amazon, Microsoft, and Google, each building their own) and the AI labs (Anthropic and OpenAI, which are building their own), as well as from newly public competitor Cerebras and startups such as Etched.\n“Most people think Nvidia builds a chip. I mean, you need airplanes to ship what we build,” Huang said, adding that the company continues to battle a perception from its early days. Nvidia invented the GPU, which back then were largely sold to consumers to improve PC gaming. “One GPU now is not $399. It’s $8.5 million dollars. That’s one GPU, all connected with NVLink, 2 million parts, right? 250,000 kilowatts. That’s a GPU, and we ship thousands of them.”\nHe added that orders for just one product, a computer system that combines 36 Grace CPUs with 72 Blackwell GPUs, is currently experiencing 27% month-to-month sales growth.\nHuang didn’t limit his bullish view to current sales though. He took the opportunity to reiterate Nvidia’s revenue outlook for next year — guidance the company provided last month when it reported yet another record-breaking revenue quarter. That’s when he first said revenue could grow by 70% next year.\n“I think we could grow 70% year over year. We’re confident about that,” Huang said again on Thursday. Analysts expect the company to end its current fiscal year at about $400 billion in revenue. So 70% growth would mean around $680 billion next year.  \nHuang explained why he’s confident: His company is so embedded in every area of AI that he believes he can see the future.\n“Nvidia runs every model. Every single lab can use us,” the CEO said, mentioning that this includes models from Anthropic, OpenAI, and Google, as well as open-weight offerings. “We are a foundational platform of the AI ecosystem, foundational platform of the AI industry.”\nNvidia’s fingers extend all the way from its suppliers, such as memory chip makers, to data center projects and startups. \n“We’re tracking every single gigawatt of land, power, shell around the world. Literally everything on the planet,” he said. (“Shell” refers to the shell of a data center building before it is outfitted with computers).\n“I mean, just think about all my partners. How many neoclouds are reporting back to us? How many OEMs are reporting back to us? How many clouds are reporting back to us? How many AI-native companies are reporting back to us? We’re working with everybody, and so we kind of know where everything is,” he said.\nThat comment led to inevitable questions about Nvidia’s so-called circular deals, in which it invests in companies that turn around and buy its wares. Such schemes famously contributed to the downfall of a previous generation of internet build-out suppliers like Lucent Technologies.\nHuang had a simple, albeit cheeky, response. “Well, it’s not circular because we put a little bit of money in, and a lot of money comes back.” He went on to joke, “I look at the spreadsheet, we put in $1 and $100 comes back in. Is that circular? If that is, let’s do more of that.”\nQuips aside, he insisted that before any of these companies gets an investment, Nvidia makes sure it has real contracts generating revenue from customers. All told, he said he’s seen $100 billion worth of such contracts, “I’m not taking any risks. … I need a sure thing.”\nTime will tell whether Nvidia’s stronghold on AI can really persist long term. If there’s one golden rule of the tech industry, it’s that all big things get disrupted. Right now, even Huang admits that much of AI’s growth is coming from AI-native startups that are raising vast sums and spending most of that cash on their own AI use. As the AI industry matures, expect companies to become more efficient in how they use infrastructure and tokens.\nBut for now, Nvidia has its finger in every pie and sees another year of plenty in its future.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-getty.jpg?w=150"
-      ],
-      "datePublished": "2026-09-10T21:51:59.000Z",
-      "dateModified": "2026-09-10T21:51:59.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Furo’s founders left Silicon Valley — and it’s paying off",
     "url": "https://techcrunch.com/2026/09/10/furos-founders-left-silicon-valley-and-its-paying-off/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/furo-cofounders.jpg?w=150",
@@ -366,6 +341,31 @@
       ],
       "datePublished": "2026-09-10T20:48:00.000Z",
       "dateModified": "2026-09-10T20:48:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Roblox is making it easier to build games with AI — and play them outside Roblox",
+    "url": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Build_Flow_16x9-EN.jpeg?w=150",
+    "tag": "Tech",
+    "date": "2026-09-11T19:00:00.000Z",
+    "description": "\nAt its annual Roblox Developer Conference (RDC), the company behind the popular gaming platform announced several new features, including new game-cr",
+    "body": "\nAt its annual Roblox Developer Conference (RDC), the company behind the popular gaming platform announced several new features, including new game-creation tools, expanded NPC (non-player character) capabilities, and the ability to make games available across platforms, including the web. The company is also launching a dedicated Roblox Card and Roblox Wallet for creators.\nIn addition, Roblox is rolling out its generative AI game creation more broadly. First announced in July, the feature called “Build” lets Roblox users create games using natural language prompts. Initially, it was available only in New Zealand. Now the company is expanding it to Serbia and Singapore. Build is also gaining desktop access for big-screen creation, a new asset library, and iterative control. Later this year, it will also get a new prompt-based scene-generation feature, which will extend to Roblox Studio.\nThe gaming platform is making sure that all these newly created games are available to play in more places. The company said creators will soon be able to make their games available as separate apps on mobile, PC, and consoles, with Roblox being the game engine behind that. By year-end, players will be able to join a game in-browser through a link.\nThe announcements indicate Roblox is now focused not only on bringing people to Roblox, but also on expanding the reach of what developers build, while also making building easier and more accessible.\nBesides the new creation tools, the company is adding new capabilities to NPCs, including ones that can playtest a game, later this year. Creators will also be able to add an offline mode in their games, allowing people to continue playing when they’re in an area with a weak network connection.\n\nLoading the player…\n\nIn addition, players will get a new Friends chat tab that moves across the game with them, with voice typing support.\nMeanwhile, an improved discovery algorithm will suggest shorter-format games to younger users and games with a longer playtime to older users.\nThrough its game engine, Roblox is also debuting the ability to create 2D games with an orthographic camera, animated image containers, and direct sprite-sheet import for animation. It also added that within its Moments vertical feed, players can soon tap on any avatar in a clip and purchase items.\nRoblox Wallet overview.Image Credits:Roblox\nRoblox said that since 2013, game makers have earned more than $5 billion on the platform, with earnings for the last 12 months reaching $1.7 billion. Now the company is launching financial products to let creators have different tools to use their earnings.\nFirst is a Roblox Wallet where creators can get paid in real money by the end of each business day. Users can also transfer their money to other bank accounts. The company is partnering with Airwallex to provide wallet services to U.S. users aged 18 and older, with plans for future global expansion.\nThe gaming service also teased a Roblox Card, launching next year, that would let users spend their earnings at places that accept the card.\nRoblox is looking to drum up engagement time on its platform and beyond. The company’s founder and CEO, David Baszucki, said that in the last quarter, players spent over 29 billion hours cumulatively across 180 countries.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Roblox is making it easier to build games with AI — and play them outside Roblox",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/09/Build_Flow_16x9-EN.jpeg?w=150"
+      ],
+      "datePublished": "2026-09-11T19:00:00.000Z",
+      "dateModified": "2026-09-11T19:00:00.000Z",
       "author": [
         {
           "@type": "Person",
