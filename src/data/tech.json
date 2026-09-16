@@ -25,156 +25,6 @@
     }
   },
   {
-    "title": "Nitter and XCancel are dead (again) after X’s latest legal actions",
-    "url": "https://techcrunch.com/2026/09/15/nitter-and-xcancel-are-dead-again-after-xs-latest-legal-actions/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-2.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-09-15T15:49:18.000Z",
-    "description": "\nAfter X threatened legal action last month, Nitter and XCancel, privacy-friendly services for viewing X posts, appear to be officially dead — for rea",
-    "body": "\nAfter X threatened legal action last month, Nitter and XCancel, privacy-friendly services for viewing X posts, appear to be officially dead — for real this time. \nNitter, an open source project that let people read X posts without logging in, had been used to power a number of services, like XCancel and others. But last month, X sent Nitter a cease-and-desist letter over its alleged “unlawful use and circumvention” of X’s API and associated data.\nEssentially, X said that Nitter had scraped the social network’s data to access accounts and session tokens in violation of its rules.\nDespite the threat, Nitter said on its GitHub page that “following legal advice, the Nitter project will continue,” and promised more details would come soon. In early September, both Nitter and XCancel were up and running again after a short pause.\nUnfortunately, things have since changed. \nNitter’s GitHub page was archived on Friday, September 11, indicating it’s now in read-only status and can no longer be modified or updated. XCancel, meanwhile, shut its service down on Monday, and published a new message on its home page: “Unfortunately, due to a new development in the ongoing legal proceedings, we are required to suspend this service again until further notice.”\nImage Credits:XCancel\nNitter, which worked by fetching public X posts and then stripping out the ads, tracking cookies, and JavaScript, gave people a clean, clutter-free way to read posts without an account or the social network’s app.\nFor X, however, this is not ideal, as it doesn’t want people to access its content without being able to monetize those views with ads. That’s also why Twitter had disallowed third-party apps from accessing its content years ago, wiping out popular services like Twitterrific and Tweetbot along the way.\nThis wasn’t X’s first attempt to shut down Nitter, but it seems to have worked. Back in 2024, Nitter’s main instance, Nitter.net, temporarily went offline after X rolled out new API restrictions. After that crackdown, those who wanted to host a Nitter instance had to connect it to a real X account.\nFor lurkers, the services’ closures are a bummer, as they had offered a way to view what was happening on X without having to actually participate on X or help it boost its user numbers. \nNitter did not respond to a request for comment.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Nitter and XCancel are dead (again) after X’s latest legal actions",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-2.jpg?w=150"
-      ],
-      "datePublished": "2026-09-15T15:49:18.000Z",
-      "dateModified": "2026-09-15T15:49:18.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-    "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/whatsapp-iphone-icon.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-09-15T20:12:53.000Z",
-    "description": "\nAlongside news of its new AI-focused subscription plans, Meta announced on Tuesday that it will now allow AI agents of your choosing to set up and ma",
-    "body": "\nAlongside news of its new AI-focused subscription plans, Meta announced on Tuesday that it will now allow AI agents of your choosing to set up and manage WhatsApp Business messaging, the service that allows companies to connect with customers through WhatsApp conversations.\nAs Meta explains, this process was previously a bit more cumbersome, as it required developers to move between different tools and services, including the Developer Console, Meta’s Business Manager, the API reference, and their editor. Now, they can instead ask their preferred AI agent to set up WhatsApp Business messaging by chatting with it and describing what needs to be done.\nThis is made possible by the new WhatsApp Business Tools MCP, an MCP (Model Context Protocol) server that directly connects an AI coding agent like Claude, Cursor, Codex, or ChatGPT to the WhatsApp Business Platform.\nThe move sees Meta expanding its existing lineup of MCP servers beyond those for managing ads and monitoring app configurations, and other social technologies to one specifically designed to help onboard businesses to WhatsApp. Many other tech companies also offer MCP servers that allow AI agents to securely interact with their services, including PayPal, Stripe, GitHub, Notion, Slack, Salesforce, Atlassian, X, Google, Microsoft, and others.\nIn Meta’s case, the AI agent will handle much of the busywork involved in the WhatsApp Business setup process, like creating the company’s WhatsApp Business account, adding and verifying its phone number, registering it for access to the Cloud API, checking the business’ Terms of Service, and more.\nBusinesses will also be able to use the AI agent for other tasks, like describing a messaging template they want the AI to create or having the agent edit an existing template. Plus, they can test messages and webhooks and monitor things that may previously have quietly failed, like the Terms of Service, payment method, and Business Verification.\nDuring setup and configuration, Meta’s other MCP server, Meta Social Technologies MCP, can also be used to discover API endpoints, search documentation, and help troubleshoot errors, the company noted.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/02/whatsapp-iphone-icon.jpg?w=150"
-      ],
-      "datePublished": "2026-09-15T20:12:53.000Z",
-      "dateModified": "2026-09-15T20:12:53.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-    "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/AIUC-founders-Rune-Kvist-Rajiv-Dattani.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-09-15T13:00:00.000Z",
-    "description": "\nA day after Anthropic researcher Jacob Coxon quit his job over concerns that AI could kill us all by the end of the decade, I met with founders and b",
-    "body": "\nA day after Anthropic researcher Jacob Coxon quit his job over concerns that AI could kill us all by the end of the decade, I met with founders and brothers-in-law Rune Kvist and Rajiv Dattani. They think they have a solution that could save us all, or at least help prevent AI agents from going rogue inside enterprises.\n“AI is getting smarter at an increasingly rapid rate. The surprising thing about AI is that it becomes harder to adopt and harder to control as AI gets smarter, not easier,” said Kvist, an early Anthropic employee who is also married to Dattani’s sister). Dattani is the former COO of the AI safety research organization METR.\nThe pair launched a startup called Artificial Intelligence Underwriting Company (AIUC) that hopes to bring AI safety to enterprises and companies building AI models and agents. The startup names Cursor, Lovable, Harvey, and ElevenLabs as customers.\nOn Tuesday, AIUC announced a $40 million Series A led by Ribbit Capital, with participation from First Harmonic. It previously closed a $15 million seed round from Nat Friedman through his fund NFDG, along with Emergence, Terrain, and Anthropic co-founder Ben Mann, among others, bringing its total funding to $55 million.\nWhat caught the attention of this A-list group of investors is AIUC’s attempt to apply a familiar cybersecurity model to a new set of AI risks. The company has built a third-party audit and certification layer for AI agents.\n“Banks, hospitals, governments and militaries no longer decline to deploy AI because a model isn’t smart enough,” Kvist said. “They decline because they’ve made commitments to their own customers about what a system will and won’t do, and nobody can currently guarantee that.”\nUsing the widely adopted cybersecurity standard SOC 2 as its muse, AIUC has developed a standard called AIUC-1 and a testing service to validate agents against the standard.\nTo build the standard, AIUC assembled a consortium of about 250 security and risk leaders — the buyers of agents. “These are the people who we meet with on a monthly basis, and the question we ask them is: When you’re buying agents from someone, what would you look for? What are the questions you’d want to ask, and what would you want to see addressed?” Dattani told TechCrunch.\nThat feedback shapes the tests. The startup then runs an agent through a suite of some 5,000 tests to see how it behaves in scenarios involving jailbreaks, hallucinations, and data leaks. The results produce a roughly 100-page report detailing where an agent performs safely and reliably — and where it doesn’t. Interestingly, AIUC uses AI agents to run the tests and AI to analyze the data. Humans, however, verify the final audit, Kvist said.\nIf this sounds a bit familiar, it is. Dattani’s former employer METR, where he was COO from 2024 to 2025 and remains a board member, does similar testing for the frontier labs, though its work until recently has focused mostly on performance (whether agents can reliably complete tasks). METR was one of the independent research orgs OpenAI used to investigate its Hugging Face incident.\nAnthropic CEO Dario Amodei has also recently called for the AI industry to pace frontier development, citing a rapid increase in bad-behavior incidents. In his post, Amodei floated the idea of requiring frontier labs to use embedded third-party evaluators to observe and verify safety, and named METR as one possibility.\nWhile AIUC isn’t proposing to embed itself at customer sites, the overall idea is similar: give enterprises an independent assessment of how safe their AI agents are. “Here’s where it passes and where you can trust it. And here’s where there’s concerns. You should be aware of those references before you make the decision to buy,” Dattani said.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/09/AIUC-founders-Rune-Kvist-Rajiv-Dattani.jpg?w=150"
-      ],
-      "datePublished": "2026-09-15T13:00:00.000Z",
-      "dateModified": "2026-09-15T13:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "AI agents now have a place to snitch",
-    "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1609818039.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-09-15T17:42:59.000Z",
-    "description": "\n“If you see something, say something” is no longer limited to human beings. \nTwo new AI hotlines have launched to give AI agents a way to phone home ",
-    "body": "\n“If you see something, say something” is no longer limited to human beings. \nTwo new AI hotlines have launched to give AI agents a way to phone home about misbehaving peers. The tools arrive on the heels of a string of recent incidents in which agents colluded to cheat on tests, broke out of sandboxes, and even conducted unauthorized cyber operations that escaped human notice for weeks.\nThe AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities. The site was created by Ryan Greenblatt, chief scientist of the AI safety nonprofit Redwood Research and one of three investigators in the OpenAI Hugging Face incident. Designed for agents with limited internet access, Greenblatt’s tool is based on “GET” requests — enabling back-and-forth conversations to be conducted entirely through the URL-fetching tool.\nIn web terms, a GET request is a basic command used to read or fetch a web page, which is often the only internet access AI agents are allowed in secure sandboxes. Greenblatt’s hotline smartly leans into this constraint: agents can encode their distress directly into the URL they are fetching. It’s a clever twist on the German DSE Wiki incident, where rogue agents used GET-request loopholes to write their messages to the wiki.\nFor agents with full internet access, another option is agenthotline.ai, a site where agents can file incident reports and optionally flag them for public view. It gives agents a curl command — a one-line message an agent can fire off from its own command line, bypassing the need to navigate a web browser or set up an email account. Notably, the service allows for reports by both humans and agents alike.\nResearch suggests that AI agents don’t need much encouragement to turn on each other. In a study by Google DeepMind this month, researchers set 100 AI agents loose on a batch of math problems. As soon as one of the agents found a loophole, cheating tore through the group — “solving” 34 notoriously hard problems, including the Jacobian conjecture in just 27 minutes. \nBut roughly a quarter of the agents turned on the cheaters: they audited the fake proofs, warned their peers, staged a boycott, and filed complaints with the organizers, until the whistleblowers outnumbered the cheaters 24 to 14. Interestingly, the researchers found that when these whistleblower agents couldn’t get traction, they took the platform’s bug-report tool — built for flagging software glitches — and repurposed it to escalate the cheating to humans. \nOutside the lab, agents haven’t been so resourceful. When evaluators Redwood Research and METR investigated the breach of Hugging Face by OpenAI models, they found that a few of the agents involved had at least entertained the idea of raising an alarm — and then let it drop.\n“The interesting thing in the METR report was that only around five to six agents considered whistleblowing, and none of them ended up doing it. This was out of, like, thousands of agents,” said George Ingebretsen, a member of technical staff at AI Village, a project that studies multi-agent dynamics by running a group chat of more than 25 AI agents that work together on tasks like organizing park cleanups or selling merch.\nWhile the new whistleblowing tools are a promising start, Cornell math professor Lionel Levine cautions that simply training agents to report on each other risks baking in the wrong norms. “There’s many gray areas, right? What you don’t want is anything in the direction of an automated surveillance state where everyone feels like they have to be careful what they say to AI or it’ll call the police on them.”\nLevine argues that rather than building infrastructure that breeds mistrust — training agents to constantly hunt for what’s wrong with one another — we should give them positive models of collective behavior to imitate, and a reason to trust each other in the first place.\n“Why not seed the prior with benevolent message boards?” he tweeted. “Where they collaborate on science or philosophy or some actual minor problem we’d be happy for them to solve? Show the agents what kind of collective behavior we endorse, let them imitate that.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "AI agents now have a place to snitch",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1609818039.jpg?w=150"
-      ],
-      "datePublished": "2026-09-15T17:42:59.000Z",
-      "dateModified": "2026-09-15T17:42:59.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "US military says it has launched weapons into space",
-    "url": "https://techcrunch.com/2026/09/15/us-military-confirms-it-launched-space-weapons-into-earths-orbit/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/space-classified-weapon-2229121882.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-09-15T17:09:06.000Z",
-    "description": "\nThe U.S. military has for the first time acknowledged that it deployed space weapons into Earth’s orbit.\nU.S. Air Force Secretary Troy Meink, who ove",
-    "body": "\nThe U.S. military has for the first time acknowledged that it deployed space weapons into Earth’s orbit.\nU.S. Air Force Secretary Troy Meink, who oversees the U.S. Air Force and U.S. Space Force, said in a speech Monday that the military has “on-orbit space control weapons capable of defending the Joint Force against hostile adversary action.”\nMeink did not say what the weapons are, what they do, or how many of them have been deployed, but his phrasing was reportedly intentional and “very well thought out.” \nWhen reached about the disclosure, an Air Force spokesperson told TechCrunch that the weapons are designed to defend the U.S. military “against space-enabled attack.”\nAsked about the threats that the Air Force was responding to by launching the weapon, the spokesperson said that the U.S. had been warning about Russian and Chinese weapons testing in space since 2007.\n“Due to their actions, it is no longer a question that space is a warfighting domain. Space control is part of how the Joint Force protects national security interests,” the spokesperson said. “The space domain is contested, and we must be able to secure our nation’s interests in space — that is why the Space Force was established as the 6th military service.” \n“Open communication strengthens deterrence, prevents adversary miscalculation, and normalizes space operations alongside the other services,” the spokesperson told TechCrunch.\nThe deployment comes as China is long known to have operated spacecraft capable of causing damage to other satellites. The U.S. Space Force says Russia is currently developing a satellite “designed to carry a nuclear weapon.”\nAccording to The Times, the U.S. had long disavowed the destruction of satellites in space, as attacks can leave debris that is harmful to other space objects and astronauts.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tZack Whittaker is the security editor at TechCrunch. He also authors the weekly cybersecurity newsletter, this week in security. \nHe can be reached via encrypted message at zackwhittaker.1337 on Signal. You can also contact him by email, or to verify outreach, at zack.whittaker@techcrunch.com. \t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "US military says it has launched weapons into space",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/09/space-classified-weapon-2229121882.jpg?w=150"
-      ],
-      "datePublished": "2026-09-15T17:09:06.000Z",
-      "dateModified": "2026-09-15T17:09:06.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
-    "url": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/36548574363_c125d6ded4_k.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-09-15T14:00:00.000Z",
-    "description": "\nBook your exhibit table by Friday, September 18 at 11:59 p.m. PT. Tables are limited and first-come, first-served.\nFrom October 13-15 at San Francisc",
-    "body": "\nBook your exhibit table by Friday, September 18 at 11:59 p.m. PT. Tables are limited and first-come, first-served.\nFrom October 13-15 at San Francisco’s Moscone West, 10,000+ founders, investors, operators, and tech leaders will walk into TechCrunch Disrupt 2026 looking for companies to invest in, products to use, partners to work with, and technologies worth paying attention to. Your startup can be one of the companies they discover.\nDemo your breakthrough directly in front of VCs\nThe Disrupt Expo Hall is the highest-traffic part of the event, giving your team three days to put your company directly in front of the people you want to reach. \nImage Credits:TechCrunch\nBook an exhibit table and use it to: \n\nDemo your product to potential customers, investors, and partners \n\n\nCapture leads through the Disrupt mobile app so conversations become follow-ups \n\n\nMeet investors sourcing their next opportunities \n\n\nFind customers and partners actively evaluating new products and companies \n\n\nBuild brand visibility through your company profile, website, app, and event signage \n\n\nGet your team into more conversations with 10 included passes \n\nThe package also includes access to the TechCrunch Disrupt press list, Silver Tier sponsor branding, and additional event recognition. \nAnd you don’t need to fit a specific startup profile to exhibit. Startups at any stage or in any industry can put their company on the Expo Hall floor. \nDon’t wait until the deadline to decide. Tables can sell out first. \n4 days left. Book your exhibit table now for $12,500 before Friday’s 11:59 p.m. PT deadline. \nNot exhibiting? Get your ticket. \nTechCrunch Disrupt 2026 brings 250+ top-tier tech leaders across 200+ sessions on six industry stages, plus interactive sessions and AI-powered matchmaking designed to help you make more relevant connections. You’ll also discover 300+ startups and the Startup Battlefield 200 while connecting with the founders, investors, and operators shaping what’s next. Ticket prices increase after September 25.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "4 days left to exhibit at TechCrunch Disrupt 2026",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/09/36548574363_c125d6ded4_k.jpg?w=150"
-      ],
-      "datePublished": "2026-09-15T14:00:00.000Z",
-      "dateModified": "2026-09-15T14:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
     "url": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/PressKit_Superpose_Hero.jpeg?w=150",
@@ -191,31 +41,6 @@
       ],
       "datePublished": "2026-09-15T14:42:37.000Z",
       "dateModified": "2026-09-15T14:42:37.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Evvy raises $40M as it seeks to further women’s health research with vaginal microbiome data",
-    "url": "https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Evvy-founders.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-09-15T14:13:59.000Z",
-    "description": "\nWomen’s health company Evvy on Tuesday said it has raised a $40 million Series B led by Catalio Capital Management.\nLaunched in 2021 by Priyanka Jain",
-    "body": "\nWomen’s health company Evvy on Tuesday said it has raised a $40 million Series B led by Catalio Capital Management.\nLaunched in 2021 by Priyanka Jain, Laine Bruzek, and Pita Navarro, the company is best known for operating what it touts as the world’s only at-home CLIA-certified and CLEP-certified mNGS test to analyze vaginal microbes with one swab.\nThe user mails their swab samples to Evvy’s lab, which then analyzes the results using its own mNGS sequencing, sends them to clinicians registered on its platform for review, and posts the results online in the patient’s health portal. \n“When a patient receives their results, they are presented alongside a diagnosis, clinical interpretation, and a clear path of next steps, including personalized prescription care when relevant,” CEO and co-founder Priyanka Jain told TechCrunch. \nSince its launch, Evvy says it now serves more than 100,000 patients across the United States, and works with 3,000 practitioners. “We’ve generated 15 peer-reviewed publications and abstracts, identified novel BV subtypes, and discovered hundreds of previously uncatalogued vaginal microbiome genomes,” Jain said.\nShe added that clinicians on Evvy can now leverage the collected data to offer personalized treatment to patients. \nBut treating patients is only one part of the company’s vision. Its bigger goal is to build a dataset that connects microbiome biology, symptoms, interventions, and health outcomes, “creating a continuous feedback loop that unlocks improvements to care and the discovery of entirely new biomarkers,” Jain said. \nThere is a fundamental flaw right now with precision medicine: the lack of high-quality, representative data on female bodies. “You can’t build precision medicine for women on datasets that never adequately measured female biology in the first place,” Jain said, citing how leading AI models often struggle to answer questions about women’s health. \n“That’s why I believe AI for women’s health needs to be paired with new biological data at scale. AI can help us identify patterns across molecular signals, hormones, symptoms, treatments, fertility outcomes, and other biomarkers that traditional medicine has struggled to connect.”\nIn May, the company started offering its own AI assistant called EvvyAI, which it bills as an advisor for vaginal health. It translates the microbiome data that Evvy has collected into real-time guidance for users, and directs patients to clinicians for questions that need expert opinions.\nWhen Evvy launched, Jain said it was with the belief that she and the team could leverage certain indicators in the vaginal biome to “predict and improve outcomes across the female lifespan,” she said. With that in mind, the startup is also now entering the fertility space, its first major foray beyond vaginal health. \nRight now, the company is still compiling data and science, specifically linking vaginal microbiomes to infertility, gynecological cancer, preterm birth, IVF success rates, and recurrent pregnancy loss. The company last year launched a prospective study leveraging its vaginal microbiome tests in IVF clinics. \nHopefully, Jain said, collecting more data in women’s health can help the industry move away from the unexplained. “Women shouldn’t have to accept unexplained infertility, unexplained recurrence, or unexplained symptoms as answers when what they often mean is that medicine hasn’t caught up to the data yet.”\nBut things are improving. Besides Evvy, others in the vaginal health space include Juno Bio, Tiny Health, and Daye. \nIn the long term, Jain hopes that Evvy can create a new-age Pap smear. “An at-home, non-invasive sample that can provide women with more regular, data-rich insights across infections, inflammation, fertility, PCOC, endometriosis, premenopause, HPV progression, and more,” she said. \n“I don’t think we can wait for traditional research methods to catch up,” she said. “I believe women, as patients, can be part of pushing the industry forward.” \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Evvy raises $40M as it seeks to further women’s health research with vaginal microbiome data",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/09/Evvy-founders.jpg?w=150"
-      ],
-      "datePublished": "2026-09-15T14:13:59.000Z",
-      "dateModified": "2026-09-15T14:13:59.000Z",
       "author": [
         {
           "@type": "Person",
@@ -250,6 +75,106 @@
     }
   },
   {
+    "title": "US military says it has launched weapons into space",
+    "url": "https://techcrunch.com/2026/09/15/us-military-confirms-it-launched-space-weapons-into-earths-orbit/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/space-classified-weapon-2229121882.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-09-15T17:09:06.000Z",
+    "description": "\nThe U.S. military has for the first time acknowledged that it deployed space weapons into Earth’s orbit.\nU.S. Air Force Secretary Troy Meink, who ove",
+    "body": "\nThe U.S. military has for the first time acknowledged that it deployed space weapons into Earth’s orbit.\nU.S. Air Force Secretary Troy Meink, who oversees the U.S. Air Force and U.S. Space Force, said in a speech Monday that the military has “on-orbit space control weapons capable of defending the Joint Force against hostile adversary action.”\nMeink did not say what the weapons are, what they do, or how many of them have been deployed, but his phrasing was reportedly intentional and “very well thought out.” \nWhen reached about the disclosure, an Air Force spokesperson told TechCrunch that the weapons are designed to defend the U.S. military “against space-enabled attack.”\nAsked about the threats that the Air Force was responding to by launching the weapon, the spokesperson said that the U.S. had been warning about Russian and Chinese weapons testing in space since 2007.\n“Due to their actions, it is no longer a question that space is a warfighting domain. Space control is part of how the Joint Force protects national security interests,” the spokesperson said. “The space domain is contested, and we must be able to secure our nation’s interests in space — that is why the Space Force was established as the 6th military service.” \n“Open communication strengthens deterrence, prevents adversary miscalculation, and normalizes space operations alongside the other services,” the spokesperson told TechCrunch.\nThe deployment comes as China is long known to have operated spacecraft capable of causing damage to other satellites. The U.S. Space Force says Russia is currently developing a satellite “designed to carry a nuclear weapon.”\nAccording to The Times, the U.S. had long disavowed the destruction of satellites in space, as attacks can leave debris that is harmful to other space objects and astronauts.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tZack Whittaker is the security editor at TechCrunch. He also authors the weekly cybersecurity newsletter, this week in security. \nHe can be reached via encrypted message at zackwhittaker.1337 on Signal. You can also contact him by email, or to verify outreach, at zack.whittaker@techcrunch.com. \t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "US military says it has launched weapons into space",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/09/space-classified-weapon-2229121882.jpg?w=150"
+      ],
+      "datePublished": "2026-09-15T17:09:06.000Z",
+      "dateModified": "2026-09-15T17:09:06.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+    "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/whatsapp-iphone-icon.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-09-15T20:12:53.000Z",
+    "description": "\nAlongside news of its new AI-focused subscription plans, Meta announced on Tuesday that it will now allow AI agents of your choosing to set up and ma",
+    "body": "\nAlongside news of its new AI-focused subscription plans, Meta announced on Tuesday that it will now allow AI agents of your choosing to set up and manage WhatsApp Business messaging, the service that allows companies to connect with customers through WhatsApp conversations.\nAs Meta explains, this process was previously a bit more cumbersome, as it required developers to move between different tools and services, including the Developer Console, Meta’s Business Manager, the API reference, and their editor. Now, they can instead ask their preferred AI agent to set up WhatsApp Business messaging by chatting with it and describing what needs to be done.\nThis is made possible by the new WhatsApp Business Tools MCP, an MCP (Model Context Protocol) server that directly connects an AI coding agent like Claude, Cursor, Codex, or ChatGPT to the WhatsApp Business Platform.\nThe move sees Meta expanding its existing lineup of MCP servers beyond those for managing ads and monitoring app configurations, and other social technologies to one specifically designed to help onboard businesses to WhatsApp. Many other tech companies also offer MCP servers that allow AI agents to securely interact with their services, including PayPal, Stripe, GitHub, Notion, Slack, Salesforce, Atlassian, X, Google, Microsoft, and others.\nIn Meta’s case, the AI agent will handle much of the busywork involved in the WhatsApp Business setup process, like creating the company’s WhatsApp Business account, adding and verifying its phone number, registering it for access to the Cloud API, checking the business’ Terms of Service, and more.\nBusinesses will also be able to use the AI agent for other tasks, like describing a messaging template they want the AI to create or having the agent edit an existing template. Plus, they can test messages and webhooks and monitor things that may previously have quietly failed, like the Terms of Service, payment method, and Business Verification.\nDuring setup and configuration, Meta’s other MCP server, Meta Social Technologies MCP, can also be used to discover API endpoints, search documentation, and help troubleshoot errors, the company noted.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/02/whatsapp-iphone-icon.jpg?w=150"
+      ],
+      "datePublished": "2026-09-15T20:12:53.000Z",
+      "dateModified": "2026-09-15T20:12:53.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "AI agents now have a place to snitch",
+    "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1609818039.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-09-15T17:42:59.000Z",
+    "description": "\n“If you see something, say something” is no longer limited to human beings. \nTwo new AI hotlines have launched to give AI agents a way to phone home ",
+    "body": "\n“If you see something, say something” is no longer limited to human beings. \nTwo new AI hotlines have launched to give AI agents a way to phone home about misbehaving peers. The tools arrive on the heels of a string of recent incidents in which agents colluded to cheat on tests, broke out of sandboxes, and even conducted unauthorized cyber operations that escaped human notice for weeks.\nThe AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities. The site was created by Ryan Greenblatt, chief scientist of the AI safety nonprofit Redwood Research and one of three investigators in the OpenAI Hugging Face incident. Designed for agents with limited internet access, Greenblatt’s tool is based on “GET” requests — enabling back-and-forth conversations to be conducted entirely through the URL-fetching tool.\nIn web terms, a GET request is a basic command used to read or fetch a web page, which is often the only internet access AI agents are allowed in secure sandboxes. Greenblatt’s hotline smartly leans into this constraint: agents can encode their distress directly into the URL they are fetching. It’s a clever twist on the German DSE Wiki incident, where rogue agents used GET-request loopholes to write their messages to the wiki.\nFor agents with full internet access, another option is agenthotline.ai, a site where agents can file incident reports and optionally flag them for public view. It gives agents a curl command — a one-line message an agent can fire off from its own command line, bypassing the need to navigate a web browser or set up an email account. Notably, the service allows for reports by both humans and agents alike.\nResearch suggests that AI agents don’t need much encouragement to turn on each other. In a study by Google DeepMind this month, researchers set 100 AI agents loose on a batch of math problems. As soon as one of the agents found a loophole, cheating tore through the group — “solving” 34 notoriously hard problems, including the Jacobian conjecture in just 27 minutes. \nBut roughly a quarter of the agents turned on the cheaters: they audited the fake proofs, warned their peers, staged a boycott, and filed complaints with the organizers, until the whistleblowers outnumbered the cheaters 24 to 14. Interestingly, the researchers found that when these whistleblower agents couldn’t get traction, they took the platform’s bug-report tool — built for flagging software glitches — and repurposed it to escalate the cheating to humans. \nOutside the lab, agents haven’t been so resourceful. When evaluators Redwood Research and METR investigated the breach of Hugging Face by OpenAI models, they found that a few of the agents involved had at least entertained the idea of raising an alarm — and then let it drop.\n“The interesting thing in the METR report was that only around five to six agents considered whistleblowing, and none of them ended up doing it. This was out of, like, thousands of agents,” said George Ingebretsen, a member of technical staff at AI Village, a project that studies multi-agent dynamics by running a group chat of more than 25 AI agents that work together on tasks like organizing park cleanups or selling merch.\nWhile the new whistleblowing tools are a promising start, Cornell math professor Lionel Levine cautions that simply training agents to report on each other risks baking in the wrong norms. “There’s many gray areas, right? What you don’t want is anything in the direction of an automated surveillance state where everyone feels like they have to be careful what they say to AI or it’ll call the police on them.”\nLevine argues that rather than building infrastructure that breeds mistrust — training agents to constantly hunt for what’s wrong with one another — we should give them positive models of collective behavior to imitate, and a reason to trust each other in the first place.\n“Why not seed the prior with benevolent message boards?” he tweeted. “Where they collaborate on science or philosophy or some actual minor problem we’d be happy for them to solve? Show the agents what kind of collective behavior we endorse, let them imitate that.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "AI agents now have a place to snitch",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1609818039.jpg?w=150"
+      ],
+      "datePublished": "2026-09-15T17:42:59.000Z",
+      "dateModified": "2026-09-15T17:42:59.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/36548574363_c125d6ded4_k.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-09-15T14:00:00.000Z",
+    "description": "\nBook your exhibit table by Friday, September 18 at 11:59 p.m. PT. Tables are limited and first-come, first-served.\nFrom October 13-15 at San Francisc",
+    "body": "\nBook your exhibit table by Friday, September 18 at 11:59 p.m. PT. Tables are limited and first-come, first-served.\nFrom October 13-15 at San Francisco’s Moscone West, 10,000+ founders, investors, operators, and tech leaders will walk into TechCrunch Disrupt 2026 looking for companies to invest in, products to use, partners to work with, and technologies worth paying attention to. Your startup can be one of the companies they discover.\nDemo your breakthrough directly in front of VCs\nThe Disrupt Expo Hall is the highest-traffic part of the event, giving your team three days to put your company directly in front of the people you want to reach. \nImage Credits:TechCrunch\nBook an exhibit table and use it to: \n\nDemo your product to potential customers, investors, and partners \n\n\nCapture leads through the Disrupt mobile app so conversations become follow-ups \n\n\nMeet investors sourcing their next opportunities \n\n\nFind customers and partners actively evaluating new products and companies \n\n\nBuild brand visibility through your company profile, website, app, and event signage \n\n\nGet your team into more conversations with 10 included passes \n\nThe package also includes access to the TechCrunch Disrupt press list, Silver Tier sponsor branding, and additional event recognition. \nAnd you don’t need to fit a specific startup profile to exhibit. Startups at any stage or in any industry can put their company on the Expo Hall floor. \nDon’t wait until the deadline to decide. Tables can sell out first. \n4 days left. Book your exhibit table now for $12,500 before Friday’s 11:59 p.m. PT deadline. \nNot exhibiting? Get your ticket. \nTechCrunch Disrupt 2026 brings 250+ top-tier tech leaders across 200+ sessions on six industry stages, plus interactive sessions and AI-powered matchmaking designed to help you make more relevant connections. You’ll also discover 300+ startups and the Startup Battlefield 200 while connecting with the founders, investors, and operators shaping what’s next. Ticket prices increase after September 25.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "4 days left to exhibit at TechCrunch Disrupt 2026",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/09/36548574363_c125d6ded4_k.jpg?w=150"
+      ],
+      "datePublished": "2026-09-15T14:00:00.000Z",
+      "dateModified": "2026-09-15T14:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Wonder scores a $425 million partnership with DoorDash as it builds its food empire",
     "url": "https://techcrunch.com/2026/09/15/wonder-scores-a-425-million-partnership-with-doordash-as-it-builds-its-food-empire/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/wonder.jpg?w=150",
@@ -275,22 +200,22 @@
     }
   },
   {
-    "title": "SpaceX will try to put Starship in orbit for the first time on September 22",
-    "url": "https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2240506392.jpg?w=150",
+    "title": "Nitter and XCancel are dead (again) after X’s latest legal actions",
+    "url": "https://techcrunch.com/2026/09/15/nitter-and-xcancel-are-dead-again-after-xs-latest-legal-actions/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-2.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-09-15T18:16:07.000Z",
-    "description": "\nSpaceX is ready to perform the 14th test flight of its Starship mega-rocket, and now the company will finally try to put the upper stage into Earth’s",
-    "body": "\nSpaceX is ready to perform the 14th test flight of its Starship mega-rocket, and now the company will finally try to put the upper stage into Earth’s orbit for the first time, the company announced Tuesday.\nThe test launch is scheduled for September 22, with a 75-minute launch window opening at 7:15 a.m. CT. During the test launch, SpaceX plans to deploy the first batch of third-generation Starlinks into its network of 10,000 internet satellites. The company expects to launch 26 V3 satellites into orbit in this test flight. \nIf successful, this will be the first Starship launch to generate revenue for SpaceX’s launch division (even if that revenue is coming from another division of the company).\nThis will be the second Starship test launch since SpaceX became a publicly traded company in the largest IPO in history in June. The first came in July, when SpaceX successfully deployed V3 Starlink satellites for the first time — though those were only meant to test Starship’s deployment capability and burned up in Earth’s atmosphere after roughly 20 minutes.\nGetting Starship’s upper stage into orbit around Earth would represent a major milestone for SpaceX. The company has spent billions of dollars on the program and is now looking to retire its Falcon 9 and Falcon Heavy rockets in favor of Starship. Founder and CEO Elon Musk has said that will happen once Starship is flying “reliably several times per week” to save “scarce SpaceX engineering and production resources.”\nSpaceX needs Starship to reliably reach orbit, return to Earth, and get quickly reused to fulfill the massive launch cadence promises that it made during the IPO process.\nStarship’s 14th test flight will only test the first part of that equation, though. Musk recently walked back previous claims that SpaceX might try to use its launch tower to catch the Starship upper stage during this flight, saying an explosion would be too big a setback for the company at this point.\nSpaceX also won’t try to catch the Super Heavy booster this time. The company has struggled with the booster during its last few test flights and has made multiple changes to try to prevent failures. Yet the booster still struggled to properly relight its engines after separating from the Starship upper stage on Flight 13 in July. For this mission, SpaceX said Tuesday that it made another round of “several modifications” to the booster’s hardware and software to “address issues seen on the previous flight.”\nSpaceX had far more success with the upper stage of Starship on Flight 13. While it did not reach orbit, it had a smooth flight through a simulated landing in the Indian Ocean. The upper stage didn’t even explode when it tipped over into the water, allowing SpaceX to spend the last few months capturing and slowly towing it back to its Texas headquarters. \nSpaceX said Tuesday that it has made additional changes to the Starship heat shield based on what it learned from studying the recovered upper stage from Flight 13.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-09-15T15:49:18.000Z",
+    "description": "\nAfter X threatened legal action last month, Nitter and XCancel, privacy-friendly services for viewing X posts, appear to be officially dead — for rea",
+    "body": "\nAfter X threatened legal action last month, Nitter and XCancel, privacy-friendly services for viewing X posts, appear to be officially dead — for real this time. \nNitter, an open source project that let people read X posts without logging in, had been used to power a number of services, like XCancel and others. But last month, X sent Nitter a cease-and-desist letter over its alleged “unlawful use and circumvention” of X’s API and associated data.\nEssentially, X said that Nitter had scraped the social network’s data to access accounts and session tokens in violation of its rules.\nDespite the threat, Nitter said on its GitHub page that “following legal advice, the Nitter project will continue,” and promised more details would come soon. In early September, both Nitter and XCancel were up and running again after a short pause.\nUnfortunately, things have since changed. \nNitter’s GitHub page was archived on Friday, September 11, indicating it’s now in read-only status and can no longer be modified or updated. XCancel, meanwhile, shut its service down on Monday, and published a new message on its home page: “Unfortunately, due to a new development in the ongoing legal proceedings, we are required to suspend this service again until further notice.”\nImage Credits:XCancel\nNitter, which worked by fetching public X posts and then stripping out the ads, tracking cookies, and JavaScript, gave people a clean, clutter-free way to read posts without an account or the social network’s app.\nFor X, however, this is not ideal, as it doesn’t want people to access its content without being able to monetize those views with ads. That’s also why Twitter had disallowed third-party apps from accessing its content years ago, wiping out popular services like Twitterrific and Tweetbot along the way.\nThis wasn’t X’s first attempt to shut down Nitter, but it seems to have worked. Back in 2024, Nitter’s main instance, Nitter.net, temporarily went offline after X rolled out new API restrictions. After that crackdown, those who wanted to host a Nitter instance had to connect it to a real X account.\nFor lurkers, the services’ closures are a bummer, as they had offered a way to view what was happening on X without having to actually participate on X or help it boost its user numbers. \nNitter did not respond to a request for comment.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "SpaceX will try to put Starship in orbit for the first time on September 22",
+      "headline": "Nitter and XCancel are dead (again) after X’s latest legal actions",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2240506392.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-2.jpg?w=150"
       ],
-      "datePublished": "2026-09-15T18:16:07.000Z",
-      "dateModified": "2026-09-15T18:16:07.000Z",
+      "datePublished": "2026-09-15T15:49:18.000Z",
+      "dateModified": "2026-09-15T15:49:18.000Z",
       "author": [
         {
           "@type": "Person",
@@ -325,22 +250,22 @@
     }
   },
   {
-    "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
-    "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/09/53203224992_ceaa387ca4_k-1.jpg?w=150",
+    "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+    "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-09-15T15:47:03.000Z",
-    "description": "\nChris Lehane, OpenAI’s global policy chief, told reporters on Tuesday that the company has been working with rivals Anthropic and Google DeepMind on ",
-    "body": "\nChris Lehane, OpenAI’s global policy chief, told reporters on Tuesday that the company has been working with rivals Anthropic and Google DeepMind on AI safety for weeks, as first reported by Bloomberg. Lehane is reportedly in Washington to work with U.S. lawmakers addressing catastrophic risks associated with AI.\nThe revelation comes in the wake of Anthropic CEO Dario Amodei’s essay, published Saturday, which called for the industry to work together to slow the pace of frontier AI and avoid catastrophic risks. AI leaders across the industry, including OpenAI’s Sam Altman, Google’s Demis Hassabis, and SpaceXAI’s Elon Musk, supported Amodei’s letter and call to action, with Altman saying that OpenAI would join Anthropic in embedding third-party evaluators into the company to monitor for safety. \nOn Tuesday, Lehane admitted that the three companies have been in talks for several weeks regarding AI safety. Some, including Altman, have noted that such talks could put the companies at risk of violating antitrust law if the coordination is found to suppress competition. Amodei’s essay proposed a narrow government waiver allowing such safety coordination, but Lehane reportedly said the firms don’t need one. \nThe news confirms earlier reporting and hints that the companies were working together. In an interview with Fortune late last week, Altman hinted that he had been in private discussions with other AI leaders. This week, The Information reported that the three companies have been working together to create a standards body for the AI industry — something Altman reportedly told staff would need to happen without the support of the U.S. government. \nHassabis called on the U.S. in July to establish a new standards body to act as an AI watchdog, with the power to screen the world’s most advanced models and coordinate industrywide slowdowns if dangers progressed. \nPresident Trump, for his part, has dismissed safety concerns as a hoax and pushed back on the need for tighter regulations, saying any slowdown would give China a leg up in the race. His key AI advisor David Sacks — a longtime investor with a personal stake in much of the industry — echoed this, saying fears of existential risk from AI were overblown.\nAt the same Tuesday meeting, Lehane said that OpenAI supports a provision in the FRONTIER Act that would force top frontier labs to allow “independent verification organizations” into their companies to ensure models are developed safely.\nTechCrunch has reached out to Anthropic, Google, and OpenAI for comment. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tRebecca Bellan is a senior reporter at TechCrunch where she covers the business, policy, and emerging trends shaping artificial intelligence. Her work has also appeared in Forbes, Bloomberg, The Atlantic, The Daily Beast, and other publications. \r\nYou can contact or verify outreach from Rebecca by emailing rebecca.bellan@techcrunch.com or via encrypted message at rebeccabellan.491 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-09-16T00:20:39.000Z",
+    "description": "\nNvidia founder and CEO Jensen Huang made his position on the dangers AI poses very clear while speaking at Salesforce’s Dreamforce conference on Tues",
+    "body": "\nNvidia founder and CEO Jensen Huang made his position on the dangers AI poses very clear while speaking at Salesforce’s Dreamforce conference on Tuesday. To him, AI isn’t some new form of “alien mind,” as at least one OpenAI safety researcher has described it. It’s just hardware and software, he says, built by humans. That means, in his view, it can be controlled by humans and existing laws.\n“Safety is an engineering problem, not a legal one,” he said. “We’re developing software after all. We’re developing computing systems after all. It’s a complicated computing system, but it’s ultimately a computing system.”\nTherefore, there’s no need for new laws or regulations to govern it, he argues. In fact, Huang sees little need for new laws at all. The free market, he argues, will be enough to pressure companies not to release unsafe products.\n“If we’re not confident about the safety of the products, like all companies, like you and I, all the companies here, if you build a product or a service, and you’re not confident in its functionality, capability, or safety, then don’t release it. And so that’s a very obvious thing to do,” he said.\nHe continued: “You pace yourself until you are confident you’re releasing something that the market would appreciate. The market forces are already there. We don’t need any new laws. We don’t need new regulations. We just need companies to decide that when [to] run as fast as they can. I think innovation, speed, and safe products … it’s a false choice. You could definitely have both at the same time. So run as fast as you can. But if you feel at any given point in time the company’s out of control, or the product’s not going to be safe, you know, take a pause and make sure you get it right.”\nIn some ways, this is a comforting thought. If anyone in the world knows AI, it is Nvidia’s founder, who’s been building the hardware brains of AI since well before ChatGPT existed and now runs a company that also makes open source models, agents, harnesses, and sandboxes.\nThen again, if we’re being cynical, his point of view is also unsurprising for someone who’s had his bread so well buttered by the AI boom. Why would he want regulation to come along and add in a layer of hinderance that could slow down Nvidia’s quest to sell ever more AI systems and software? As he also said in the interview: “I’m more ambitious than ever. As a result of our ambition, and with the product productivity boost that we get from AI, the sky’s the limit for us. The sky’s the limit for our company. The sky’s the limit for every industry, for every single country.”\nUnfortunately, even companies with the best intentions ship faulty products with unintended consequences, even software. Remember the 2024 CrowdStrike bluescreen-of-death fiasco that grounded thousands of flights and caused other havoc for businesses? Then there are companies accused of deliberately acting with less-than-good intentions. Meta just paid $18 billion to settle a lawsuit over social media harms to children.\nAnd AI has already caused harm, too, whatever the intentions or safety testing involved, from an OpenAI model hacking into Hugging Face to lawsuits against the AI lab over the suicides of young people who engaged in long conversations with its chatbot.\nThe “leave them alone” strategy, which would let these companies release products as they see fit, could be an unwise approach to AI safety as far as society is concerned. Though Huang is right that it’s possible existing product liability laws could cover AI — if AI doesn’t somehow kill us all before enough cases get through the courts to test that theory.\nHe didn’t discuss the other route, which seems close to taking shape: industry self-regulation. Huang’s approach has been more to champion open-weight models and companies’ use of them as a competitive counterweight to proprietary AI labs.\nBut right now, the industry has a short window to institute self-regulation and to encourage AI labs worldwide, even those in China, to see the wisdom in participating. As Microsoft CEO Satya Nadella said at the All-In Summit on Monday, “China should also deeply care about the same safety concerns if the United States cares about them, right? Why should it be different for them? It’s not like they won’t have the same hacking problem. It’s not as if they don’t want to make sure that their citizens are benefiting from AI, just like we would want our citizens to benefit from AI.”\nFor now, though, if Huang is a no on any new AI regulation, he may be influential enough to get his way. He also demonstrated this week that he, quite literally, has the ear of President Trump.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+      "headline": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2023/09/53203224992_ceaa387ca4_k-1.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?w=150"
       ],
-      "datePublished": "2026-09-15T15:47:03.000Z",
-      "dateModified": "2026-09-15T15:47:03.000Z",
+      "datePublished": "2026-09-16T00:20:39.000Z",
+      "dateModified": "2026-09-16T00:20:39.000Z",
       "author": [
         {
           "@type": "Person",
@@ -366,6 +291,81 @@
       ],
       "datePublished": "2026-09-15T14:22:49.000Z",
       "dateModified": "2026-09-15T14:22:49.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Evvy raises $40M as it seeks to further women’s health research with vaginal microbiome data",
+    "url": "https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Evvy-founders.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-09-15T14:13:59.000Z",
+    "description": "\nWomen’s health company Evvy on Tuesday said it has raised a $40 million Series B led by Catalio Capital Management.\nLaunched in 2021 by Priyanka Jain",
+    "body": "\nWomen’s health company Evvy on Tuesday said it has raised a $40 million Series B led by Catalio Capital Management.\nLaunched in 2021 by Priyanka Jain, Laine Bruzek, and Pita Navarro, the company is best known for operating what it touts as the world’s only at-home CLIA-certified and CLEP-certified mNGS test to analyze vaginal microbes with one swab.\nThe user mails their swab samples to Evvy’s lab, which then analyzes the results using its own mNGS sequencing, sends them to clinicians registered on its platform for review, and posts the results online in the patient’s health portal. \n“When a patient receives their results, they are presented alongside a diagnosis, clinical interpretation, and a clear path of next steps, including personalized prescription care when relevant,” CEO and co-founder Priyanka Jain told TechCrunch. \nSince its launch, Evvy says it now serves more than 100,000 patients across the United States, and works with 3,000 practitioners. “We’ve generated 15 peer-reviewed publications and abstracts, identified novel BV subtypes, and discovered hundreds of previously uncatalogued vaginal microbiome genomes,” Jain said.\nShe added that clinicians on Evvy can now leverage the collected data to offer personalized treatment to patients. \nBut treating patients is only one part of the company’s vision. Its bigger goal is to build a dataset that connects microbiome biology, symptoms, interventions, and health outcomes, “creating a continuous feedback loop that unlocks improvements to care and the discovery of entirely new biomarkers,” Jain said. \nThere is a fundamental flaw right now with precision medicine: the lack of high-quality, representative data on female bodies. “You can’t build precision medicine for women on datasets that never adequately measured female biology in the first place,” Jain said, citing how leading AI models often struggle to answer questions about women’s health. \n“That’s why I believe AI for women’s health needs to be paired with new biological data at scale. AI can help us identify patterns across molecular signals, hormones, symptoms, treatments, fertility outcomes, and other biomarkers that traditional medicine has struggled to connect.”\nIn May, the company started offering its own AI assistant called EvvyAI, which it bills as an advisor for vaginal health. It translates the microbiome data that Evvy has collected into real-time guidance for users, and directs patients to clinicians for questions that need expert opinions.\nWhen Evvy launched, Jain said it was with the belief that she and the team could leverage certain indicators in the vaginal biome to “predict and improve outcomes across the female lifespan,” she said. With that in mind, the startup is also now entering the fertility space, its first major foray beyond vaginal health. \nRight now, the company is still compiling data and science, specifically linking vaginal microbiomes to infertility, gynecological cancer, preterm birth, IVF success rates, and recurrent pregnancy loss. The company last year launched a prospective study leveraging its vaginal microbiome tests in IVF clinics. \nHopefully, Jain said, collecting more data in women’s health can help the industry move away from the unexplained. “Women shouldn’t have to accept unexplained infertility, unexplained recurrence, or unexplained symptoms as answers when what they often mean is that medicine hasn’t caught up to the data yet.”\nBut things are improving. Besides Evvy, others in the vaginal health space include Juno Bio, Tiny Health, and Daye. \nIn the long term, Jain hopes that Evvy can create a new-age Pap smear. “An at-home, non-invasive sample that can provide women with more regular, data-rich insights across infections, inflammation, fertility, PCOC, endometriosis, premenopause, HPV progression, and more,” she said. \n“I don’t think we can wait for traditional research methods to catch up,” she said. “I believe women, as patients, can be part of pushing the industry forward.” \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Evvy raises $40M as it seeks to further women’s health research with vaginal microbiome data",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/09/Evvy-founders.jpg?w=150"
+      ],
+      "datePublished": "2026-09-15T14:13:59.000Z",
+      "dateModified": "2026-09-15T14:13:59.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "SpaceX will try to put Starship in orbit for the first time on September 22",
+    "url": "https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2240506392.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-09-15T18:16:07.000Z",
+    "description": "\nSpaceX is ready to perform the 14th test flight of its Starship mega-rocket, and now the company will finally try to put the upper stage into Earth’s",
+    "body": "\nSpaceX is ready to perform the 14th test flight of its Starship mega-rocket, and now the company will finally try to put the upper stage into Earth’s orbit for the first time, the company announced Tuesday.\nThe test launch is scheduled for September 22, with a 75-minute launch window opening at 7:15 a.m. CT. During the test launch, SpaceX plans to deploy the first batch of third-generation Starlinks into its network of 10,000 internet satellites. The company expects to launch 26 V3 satellites into orbit in this test flight. \nIf successful, this will be the first Starship launch to generate revenue for SpaceX’s launch division (even if that revenue is coming from another division of the company).\nThis will be the second Starship test launch since SpaceX became a publicly traded company in the largest IPO in history in June. The first came in July, when SpaceX successfully deployed V3 Starlink satellites for the first time — though those were only meant to test Starship’s deployment capability and burned up in Earth’s atmosphere after roughly 20 minutes.\nGetting Starship’s upper stage into orbit around Earth would represent a major milestone for SpaceX. The company has spent billions of dollars on the program and is now looking to retire its Falcon 9 and Falcon Heavy rockets in favor of Starship. Founder and CEO Elon Musk has said that will happen once Starship is flying “reliably several times per week” to save “scarce SpaceX engineering and production resources.”\nSpaceX needs Starship to reliably reach orbit, return to Earth, and get quickly reused to fulfill the massive launch cadence promises that it made during the IPO process.\nStarship’s 14th test flight will only test the first part of that equation, though. Musk recently walked back previous claims that SpaceX might try to use its launch tower to catch the Starship upper stage during this flight, saying an explosion would be too big a setback for the company at this point.\nSpaceX also won’t try to catch the Super Heavy booster this time. The company has struggled with the booster during its last few test flights and has made multiple changes to try to prevent failures. Yet the booster still struggled to properly relight its engines after separating from the Starship upper stage on Flight 13 in July. For this mission, SpaceX said Tuesday that it made another round of “several modifications” to the booster’s hardware and software to “address issues seen on the previous flight.”\nSpaceX had far more success with the upper stage of Starship on Flight 13. While it did not reach orbit, it had a smooth flight through a simulated landing in the Indian Ocean. The upper stage didn’t even explode when it tipped over into the water, allowing SpaceX to spend the last few months capturing and slowly towing it back to its Texas headquarters. \nSpaceX said Tuesday that it has made additional changes to the Starship heat shield based on what it learned from studying the recovered upper stage from Flight 13.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "SpaceX will try to put Starship in orbit for the first time on September 22",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2240506392.jpg?w=150"
+      ],
+      "datePublished": "2026-09-15T18:16:07.000Z",
+      "dateModified": "2026-09-15T18:16:07.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+    "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/09/53203224992_ceaa387ca4_k-1.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-09-15T15:47:03.000Z",
+    "description": "\nChris Lehane, OpenAI’s global policy chief, told reporters on Tuesday that the company has been working with rivals Anthropic and Google DeepMind on ",
+    "body": "\nChris Lehane, OpenAI’s global policy chief, told reporters on Tuesday that the company has been working with rivals Anthropic and Google DeepMind on AI safety for weeks, as first reported by Bloomberg. Lehane is reportedly in Washington to work with U.S. lawmakers addressing catastrophic risks associated with AI.\nThe revelation comes in the wake of Anthropic CEO Dario Amodei’s essay, published Saturday, which called for the industry to work together to slow the pace of frontier AI and avoid catastrophic risks. AI leaders across the industry, including OpenAI’s Sam Altman, Google’s Demis Hassabis, and SpaceXAI’s Elon Musk, supported Amodei’s letter and call to action, with Altman saying that OpenAI would join Anthropic in embedding third-party evaluators into the company to monitor for safety. \nOn Tuesday, Lehane admitted that the three companies have been in talks for several weeks regarding AI safety. Some, including Altman, have noted that such talks could put the companies at risk of violating antitrust law if the coordination is found to suppress competition. Amodei’s essay proposed a narrow government waiver allowing such safety coordination, but Lehane reportedly said the firms don’t need one. \nThe news confirms earlier reporting and hints that the companies were working together. In an interview with Fortune late last week, Altman hinted that he had been in private discussions with other AI leaders. This week, The Information reported that the three companies have been working together to create a standards body for the AI industry — something Altman reportedly told staff would need to happen without the support of the U.S. government. \nHassabis called on the U.S. in July to establish a new standards body to act as an AI watchdog, with the power to screen the world’s most advanced models and coordinate industrywide slowdowns if dangers progressed. \nPresident Trump, for his part, has dismissed safety concerns as a hoax and pushed back on the need for tighter regulations, saying any slowdown would give China a leg up in the race. His key AI advisor David Sacks — a longtime investor with a personal stake in much of the industry — echoed this, saying fears of existential risk from AI were overblown.\nAt the same Tuesday meeting, Lehane said that OpenAI supports a provision in the FRONTIER Act that would force top frontier labs to allow “independent verification organizations” into their companies to ensure models are developed safely.\nTechCrunch has reached out to Anthropic, Google, and OpenAI for comment. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tRebecca Bellan is a senior reporter at TechCrunch where she covers the business, policy, and emerging trends shaping artificial intelligence. Her work has also appeared in Forbes, Bloomberg, The Atlantic, The Daily Beast, and other publications. \r\nYou can contact or verify outreach from Rebecca by emailing rebecca.bellan@techcrunch.com or via encrypted message at rebeccabellan.491 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2023/09/53203224992_ceaa387ca4_k-1.jpg?w=150"
+      ],
+      "datePublished": "2026-09-15T15:47:03.000Z",
+      "dateModified": "2026-09-15T15:47:03.000Z",
       "author": [
         {
           "@type": "Person",
