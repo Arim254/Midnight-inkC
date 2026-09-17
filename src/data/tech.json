@@ -25,56 +25,6 @@
     }
   },
   {
-    "title": "Hackers publish thousands of drivers’ data after breaching Florida motor vehicle database",
-    "url": "https://techcrunch.com/2026/09/16/hackers-publish-thousands-of-drivers-data-after-breaching-florida-motor-vehicle-database/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2159359986.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-09-16T18:00:54.000Z",
-    "description": "\nIn Brief\nPosted:\n11:00 AM PDT · September 16, 2026\n\nImage Credits:Different_Brian / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nThe Shiny",
-    "body": "\nIn Brief\nPosted:\n11:00 AM PDT · September 16, 2026\n\nImage Credits:Different_Brian / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nThe ShinyHunters hacking group has published hundreds of thousands of files from a Florida state database of vehicles and driver information. The hackers said they published the stolen data on its leak site “because the victim did not pay a ransom or cooperate and comply” with the hackers’ demands.\nThe hackers said they breached the database, known as DAVID, earlier in September and posted as evidence a screenshot purporting to be a record associated with the deceased sex offender Jeffrey Epstein, who had a residence in the state.\nThe Florida motor vehicle agency, FLHSMV, confirmed a data breach in a statement last week and after the hackers obtained a police officer’s credentials that were stored on a personal device. An agency spokesperson did not respond to TechCrunch’s request for comment on Wednesday about the published data.\nAccording to a copy of the stolen data, which TechCrunch has seen, the hackers stole hundreds of thousands of certificates of vehicle ownership records, which contained vehicle owners’ names and addresses of buyers and sellers. The records also contained vehicle identification numbers.\nA smaller number of files included Social Security numbers and other government-issued documents, such as non-U.S. passports and immigration papers but did not appear to contain driver’s licenses or people’s photos.\nThe driver’s license database breach comes in the same month that a monster hack at identity verification company IDScan allowed hackers to steal over 150 million images of driver’s licenses.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Security\n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Hackers publish thousands of drivers’ data after breaching Florida motor vehicle database",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2159359986.jpg?w=150"
-      ],
-      "datePublished": "2026-09-16T18:00:54.000Z",
-      "dateModified": "2026-09-16T18:00:54.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Google says some Pixel phone owners were hacked in zero-day attacks",
-    "url": "https://techcrunch.com/2026/09/16/google-says-some-pixel-phone-owners-were-hacked-in-zero-day-attacks/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/08/IMG_3163.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-09-16T14:47:07.000Z",
-    "description": "\nGoogle says that a bug in its Pixel smartphones’ software was exploited in limited and targeted cyberattacks. The company said Tuesday that the bug, ",
-    "body": "\nGoogle says that a bug in its Pixel smartphones’ software was exploited in limited and targeted cyberattacks. The company said Tuesday that the bug, tracked as CVE-2026-58704, has now been patched. \nAccording to the limited details about the vulnerability, the bug was found in Pixel phones’ modem, which lets the device connect to the internet. Exploiting the bug could allow an attacker to gain access beyond the sandboxed walls of the modem and into the broader phone’s data, a vulnerability known as privilege escalation.\nThe bug can be exploited silently and without any interaction from the phone owner in what’s known as a “zero-click” attack, meaning a victim does not need to click on a link or open a file.\nGoogle did not say who was exploiting the bug, and a spokesperson for Google did not return a request for comment. It’s not uncommon for bugs like this one to be abused by surveillance vendors, such as spyware makers, who sell access to their data-stealing software to governments and law enforcement agencies.\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Google says some Pixel phone owners were hacked in zero-day attacks",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/08/IMG_3163.jpg?w=150"
-      ],
-      "datePublished": "2026-09-16T14:47:07.000Z",
-      "dateModified": "2026-09-16T14:47:07.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Musk’s long-time backer is giving SpaceX stock to its investors",
     "url": "https://techcrunch.com/2026/09/16/musks-long-time-backer-is-giving-spacex-stock-to-its-investors/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-1973276988.jpg?w=150",
@@ -125,22 +75,22 @@
     }
   },
   {
-    "title": "May Mobility is going public in a $1.4B SPAC deal",
-    "url": "https://techcrunch.com/2026/09/16/may-mobility-is-going-public-in-a-1-4b-spac-deal/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/05/May_Uber-copy.jpg?w=150",
+    "title": "Hackers publish thousands of drivers’ data after breaching Florida motor vehicle database",
+    "url": "https://techcrunch.com/2026/09/16/hackers-publish-thousands-of-drivers-data-after-breaching-florida-motor-vehicle-database/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2159359986.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-09-16T15:27:13.000Z",
-    "description": "\nAutonomous vehicle company May Mobility is merging with a special purpose acquisition company (SPAC) and will become a publicly traded company. It’s ",
-    "body": "\nAutonomous vehicle company May Mobility is merging with a special purpose acquisition company (SPAC) and will become a publicly traded company. It’s a deal that could raise more than $300 million for May Mobility at a valuation of $1.4 billion, the company said Wednesday.\nOnce the merger is complete, May Mobility said it will be the first public company in the U.S. that is focused entirely on autonomous ride-hailing vehicles. This is meant to differentiate it from a number of other public companies working on autonomy, including Tesla, Rivian, Alphabet (with Waymo), and trucking-focused Aurora and Kodiak.\nThe move sets up May Mobility to be a test of the stock market’s appetite for pure-play robotaxi ventures.\nIt will also be a test of May Mobility’s approach to autonomy, which it pitches as “asset-light” and “partnership-first.” Instead of owning and operating the robotaxis, May Mobility’s business revolves around selling its autonomous vehicles to its fleet partners over time while maintaining control of any remote supervision and software updates. In exchange, May Mobility receives either fixed fees or per-trip licensing fees.\nFounded in 2017, May Mobility currently operates autonomous Toyota Siennas in three locations in the U.S. It has a partnership with Lyft in Atlanta, and offers rides in two cities — Eden Prairie and Grand Rapids — in Minnesota.\nThese deployments helped May Mobility generate around $10 million in revenue last year, with a cash burn of around $93 million. It has offered more than 550,000 paid autonomous rides to date, covering more than 1 million miles. The company recently spun up its first trial deployment in Japan and is planning commercial launches in Arlington, Texas, with Uber, at the end of this year or in early 2027.\nMay Mobility is merging with ACP Holdings Acquisition Corp., a special purpose acquisition company established by Houston, Texas-based investment management company Atlas Credit Partners. The merger will involve a $120 million “private investment in public equity” transaction, and up to $217 million from a trust account maintained by ACP Holdings — though shareholders in the SPAC may choose to redeem their stock at the time of the merger, which could reduce the amount of money going to May Mobility.\nMay Mobility said Wednesday that it will use the proceeds to fund more research and development, especially around removing its safety drivers, as well as supply-chain investments to reduce its bill-of-materials costs. The company is also targeting new geographic deployments, some of which it expects to announce later this year.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "date": "2026-09-16T18:00:54.000Z",
+    "description": "\nIn Brief\nPosted:\n11:00 AM PDT · September 16, 2026\n\nImage Credits:Different_Brian / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nThe Shiny",
+    "body": "\nIn Brief\nPosted:\n11:00 AM PDT · September 16, 2026\n\nImage Credits:Different_Brian / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nThe ShinyHunters hacking group has published hundreds of thousands of files from a Florida state database of vehicles and driver information. The hackers said they published the stolen data on its leak site “because the victim did not pay a ransom or cooperate and comply” with the hackers’ demands.\nThe hackers said they breached the database, known as DAVID, earlier in September and posted as evidence a screenshot purporting to be a record associated with the deceased sex offender Jeffrey Epstein, who had a residence in the state.\nThe Florida motor vehicle agency, FLHSMV, confirmed a data breach in a statement last week and after the hackers obtained a police officer’s credentials that were stored on a personal device. An agency spokesperson did not respond to TechCrunch’s request for comment on Wednesday about the published data.\nAccording to a copy of the stolen data, which TechCrunch has seen, the hackers stole hundreds of thousands of certificates of vehicle ownership records, which contained vehicle owners’ names and addresses of buyers and sellers. The records also contained vehicle identification numbers.\nA smaller number of files included Social Security numbers and other government-issued documents, such as non-U.S. passports and immigration papers but did not appear to contain driver’s licenses or people’s photos.\nThe driver’s license database breach comes in the same month that a monster hack at identity verification company IDScan allowed hackers to steal over 150 million images of driver’s licenses.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Security\n\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "May Mobility is going public in a $1.4B SPAC deal",
+      "headline": "Hackers publish thousands of drivers’ data after breaching Florida motor vehicle database",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/05/May_Uber-copy.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2159359986.jpg?w=150"
       ],
-      "datePublished": "2026-09-16T15:27:13.000Z",
-      "dateModified": "2026-09-16T15:27:13.000Z",
+      "datePublished": "2026-09-16T18:00:54.000Z",
+      "dateModified": "2026-09-16T18:00:54.000Z",
       "author": [
         {
           "@type": "Person",
@@ -150,22 +100,22 @@
     }
   },
   {
-    "title": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly ",
-    "url": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Fortell-Cofounders-Window2-Landscape-6000x3375-1.png?w=150",
+    "title": "Noise wants to help everyday people  become paid content creators",
+    "url": "https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/NOISE.png?w=150",
     "tag": "Tech",
-    "date": "2026-09-16T16:00:00.000Z",
-    "description": "\n\t\t\n\nLoading the player…\n\n“Why do I have to beg my grandparents to put on their hearing aids, but no one has ever needed to ask me to put on my glasse",
-    "body": "\n\t\t\n\nLoading the player…\n\n“Why do I have to beg my grandparents to put on their hearing aids, but no one has ever needed to ask me to put on my glasses?” \nThat’s the question that drove Matthew de Jonge to spend six years building Fortell, an AI hearing aid startup that recently raised $163 million from the likes of Founders Fund, Thrive Capital, and Valor Equity Partners CEO Antonio Gracias. The buzzy startup aims to build hearing aids that understand the sounds around you in real time, figure out what’s important and turn down the rest — instead of turning everything up at the same time, as most hearing aids do.  \nOn this episode of TechCrunch’s Equity Equity podcast, Rebecca Bellan is joined by de Jonge to break down what it takes to disrupt a decades-old industry where five companies make 97% of the products, insurance won’t cover the cost, and innovation has been slow to arrive. \nSubscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. You also can follow Equity on X and Threads, at @EquityPod. \n\n\t\t\n\tTopics\n\n\n\n\t\tTheresa Loconsolo is an audio producer at TechCrunch focusing on Equity, the network’s flagship podcast. Before joining TechCrunch in 2022, she was one of 2 producers at a four-station conglomerate where she wrote, recorded, voiced and edited content, and engineered live performances and interviews from guests like lovelytheband. Theresa is based in New Jersey and holds a bachelors degree in Communication from Monmouth University. You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n\n\t\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n",
+    "date": "2026-09-16T21:35:00.000Z",
+    "description": "\nMarketing platform Noise aims to connect brands with content creators at a much lower cost than hiring traditional influencers or running standard ad",
+    "body": "\nMarketing platform Noise aims to connect brands with content creators at a much lower cost than hiring traditional influencers or running standard ad campaigns. \nThat’s because many creators on the Noise platform are everyday people — anyone can download the app, regardless of follower count — and Noise presents them with campaigns they can join and create content for on their platforms of choice (TikTok, Instagram, Facebook, YouTube). It then pays them per view rather than a flat fee. Brands, meanwhile, sign up for Noise to share their content brief requests and budget. From there, Noise makes it easy to handle the rest, so brands can scale without the operational headaches of sourcing content creators, managing client relationships one by one, or managing payments. Noise lets them run campaigns simultaneously across thousands of content creators. \nOn Wednesday, Noise announced a $5.5 million seed led by Capital Midwest, M25, and Grishin Robotics, bringing its total raise to $7.2 million. Others in the round include Capitalize VC and operators from companies like DoorDash.\nThe startup is tapping into the ever-expanding influencer market, in which 57% of young people and just a little over 40% of U.S. adults overall now want to take part. It joins other content creator infrastructure companies like Billo and JoinBrands.\nDiego Kafie, Stu Feldt, and Nic Weber launched Noise in 2025 after spending two years building a mobile game app called Playbite, and it now touts 1.5 million creators on the platform. \nCEO Kafie said the company’s top creators make more than six figures a year, and the platform takes a fee from what brands pay creators once views are delivered.\n“Our top brands work with several thousand creators on autopilot,” he said. Right now, many of its customers are mobile apps, those working with startup budgets that want to employ influencer marketers. The goal is to one day work with companies of all sizes.\n“They are the most interested in reaching a really wide range of potential customers, making them the prime users for something like Noise, where they can easily recruit a small army of people to become their biggest users and advocates,” Kafie said. “This gives brands unprecedented level of content diversity and reach at a fraction of the cost of other traditional marketing playbooks.” \nKafie, Feldt, and Weber came to this idea from their experiences at Playbite. “We tried a bunch of different creative marketing strategies,” Kafie said of how they tried to scale Playbite. For example, they attempted to recruit their own gamers and teach them how to create social content that promoted the app. “We started with five, ten, 25, then 100 people,” he continued. “Before we knew it, our installs were skyrocketing as this small army of people went to places like TikTok and posted engaging content daily about mobile games and our app specifically.”\nMost importantly, he noted, this happened “at a fraction of the cost of traditional marketing playbooks,” because they were teaching regular people how to be content creators from scratch. “Had we gone to established creators with big followings and clout, their rates would’ve been cost-prohibitive for our scrappy startup budget.” \nThat gave them the idea for Noise. The fresh capital will be used to expand product capabilities and to hire. Noise also just launched its Organic-to-Ads program, letting brands take the videos that Noise creators make and run them as paid ads on Meta and TikTok, in addition to the creators’ posts. \n“The creators still post to platforms,” he said. “But in addition, the brands can now put paid ads spend behind those creatives to reach more people.” \nHe pushed back when asked if this was a way to pay creators less than they could make on their own if a brand approached them. He said that brands will name their rates and creators can decide whether to say yes or no. He also emphasized that the platform specializes in working with “everyday people and turning them into brand-new creators.”\nIt’s harder to become an influencer these days, so this, Kafie believes, could be a way for many people to get around the stress, time, and money it takes to make it big in content creation on their own. \nHe said when a user first joins the platform, they take Noise creator training modules that teach them how to create content for brands. Those early creators can access only certain campaigns, but as they do more training and get hired for more work, higher-paid opportunities can come to them, Kafie said. \n“By democratizing ‘becoming a creator’ to literally anyone with a smartphone,” he said, “we’re bringing costs down for brands, but enabling millions of people to make their first dollar on the internet.” \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly ",
+      "headline": "Noise wants to help everyday people  become paid content creators",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/09/Fortell-Cofounders-Window2-Landscape-6000x3375-1.png?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/09/NOISE.png?w=150"
       ],
-      "datePublished": "2026-09-16T16:00:00.000Z",
-      "dateModified": "2026-09-16T16:00:00.000Z",
+      "datePublished": "2026-09-16T21:35:00.000Z",
+      "dateModified": "2026-09-16T21:35:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -200,81 +150,6 @@
     }
   },
   {
-    "title": "Hear why Science Corp CEO Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
-    "url": "https://techcrunch.com/2026/09/16/hear-why-science-corp-ceo-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Max-Hodak-speaking.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-09-16T18:45:35.000Z",
-    "description": "\nWhen you imagine working with a computer, you likely think of keyboards, clicks, or typing on your phone. Science Corporation CEO Max Hodak has spent",
-    "body": "\nWhen you imagine working with a computer, you likely think of keyboards, clicks, or typing on your phone. Science Corporation CEO Max Hodak has spent the last several months advancing a different vision. His company has enlisted a top neurobiologist to lead the first U.S. human trials for its biohybrid brain-computer interface. Hodak shares what his company has discovered so far with the 10,000+ tech leaders, founders, and investors at TechCrunch Disrupt 2026.\nAt his Beyond Screens session on the Disrupt Stage, Hodak will make the case for why the next era of technology could be built upon a different kind of interface, one that adapts to us from brain-computer interactions to create new ways of engaging with machines.\nImage Credits:TechCrunch\nJoin Disrupt as it returns to Moscone West in San Francisco on October 13-15, bringing together more than 10,000 founders, investors, and startup community members across more than 250 sessions. This year, we have a particular focus on building sustainable AI companies, with AI-centric programming extending across six industry stages.\nSecure your Disrupt pass today to save up to $200 on your ticket and hear one of Silicon Valley’s most ambitious founders explore a post-screen future.\nHodak’s path toward reinventing interfaces\nHodak’s career reads like a running bet that the interface between humans and machines has plenty of room for improvement. Having started programming at six years old, he studied biomedical engineering at Duke Pratt School of Engineering, and worked his way into Miguel Nicolelis’ brain-computer interface lab, interests that inform his work to this day.\nHe originally co-founded Transcriptic, a robotic cloud laboratory for the life sciences. But most famously, he co-founded Neuralink in 2016 and served as its initial president, helping build the company that put brain implants into the public imagination. Then in 2021, he founded Science Corporation to develop advanced neural engineering and brain-computer interface technology. The company has a particular focus on applications to aid those in need of help with vision, cognition, and mobility.\nAnd it’s not all speculation: Science Corp’s PRIMA implant has already restored eyesight in people with severe vision loss, using a pair of glasses with a tiny camera that beams a captured scene onto a chip implanted in the retina. Since its founding, it’s raised $230 million in a Series C round at a $1.5 billion valuation, and the company’s ambitions go beyond interfaces. Hodak sees additional applications of Science Corp’s brain-implanted sensors helping heal damaged brain cells, warning about seizures, and maybe even helping treat conditions as severe as Parkinson’s disease.\nHear from one of Silicon Valley’s most ambitious founders, only at Disrupt\nThis is your best chance to learn how Hodak thinks the interface between people and machines is about to change, and the many ways that could impact your startup, your role, and maybe your life.\nTake a look at the Disrupt agenda and choose your Disrupt ticket before savings of up to $200 expire September 25. Save up to 30% if you register as a group.\nImage Credits:TechCrunch\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Hear why Science Corp CEO Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/09/Max-Hodak-speaking.jpg?w=150"
-      ],
-      "datePublished": "2026-09-16T18:45:35.000Z",
-      "dateModified": "2026-09-16T18:45:35.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Anthropic merges Claude chat and Cowork in one interface",
-    "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Claude-1920x1080-1.jpeg?w=150",
-    "tag": "Tech",
-    "date": "2026-09-16T16:30:00.000Z",
-    "description": "\nAnthropic is merging its front end for Claude chat and Cowork, making it less confusing for people to decide which tab to use for different tasks.\nTh",
-    "body": "\nAnthropic is merging its front end for Claude chat and Cowork, making it less confusing for people to decide which tab to use for different tasks.\nThe unified interface lets users access chat, Cowork, and Artifacts (Claude’s interactive workspace feature) within one window. Claude Design, which was introduced in April for website and prototype design, also works anywhere within Claude.\nBefore this rollout, the company said customers often struggled to choose the right tab for the right task. With the new design, Claude automatically routes requests without having to switch tabs or windows. The idea is to remove confusion about which feature to pick and use just one front end to route work to different parts of the app.\nHopefully, OpenAI also takes a cue from this rollout and fixes ChatGPT’s interface across the platforms.\nImage Credits:Anthropic\nAnthropic is also adding dedicated features for making presentations and documents. Users can ask the AI assistant to create, edit, and present slides, and it can also download the generated presentation as a PDF or PowerPoint.\nSimilarly, with the Docs feature, users can work alongside Claude to create sections, ask questions, and comment on completed parts. Users can share generated documents or slides with a link and edit them on their phone.\nUsers can also ask Claude to start creating a document on desktop, and they can check the progress of the task using the mobile app.\nThese features are rolling out to Claude’s Pro and Max plans first, on the web, desktop, and mobile over the coming weeks. The company plans to extend them to the free and team tiers later.\nThe update comes in the wake of an upgrade of Cowork’s memory layer, which helps Claude remember user context across chats.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Anthropic merges Claude chat and Cowork in one interface",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/09/Claude-1920x1080-1.jpeg?w=150"
-      ],
-      "datePublished": "2026-09-16T16:30:00.000Z",
-      "dateModified": "2026-09-16T16:30:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Your AI agents can now control your Google Home devices",
-    "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Google-Home-Speaker-Multi.png?w=150",
-    "tag": "Tech",
-    "date": "2026-09-16T17:00:00.000Z",
-    "description": "\nSmart home owners will soon be able to control their devices connected to Google Home via an AI agent. On Wednesday, Google rolled out early access t",
-    "body": "\nSmart home owners will soon be able to control their devices connected to Google Home via an AI agent. On Wednesday, Google rolled out early access to its Model Context Protocol (MCP) server for its Google Home ecosystem, which will allow any AI agent that supports MCP — like Claude, Hermes, OpenClaw, ChatGPT, and Google Antigravity — to securely work with their smart home devices and access their event history.\nThis update will allow people to use natural language instructions to do things like review their camera summaries, monitor smart home activity, control their connected devices, and build their own custom smart home dashboards.\nTo get the connection set up, users will need to create a Google Cloud project and configure it to use Home MCP. They will then provide the MCP configuration details to their agent of choice and ask it to set it up. The agent will then ask them to sign in and grant permissions. (A setup guide will also be offered in the Google Home Developer Center.)\nThe system will support any device in the Google Home ecosystem, including Google Nest doorbells and thermostats and “Works with Google Home” (or Matter) devices, like light bulbs.\nGoogle already supports MCP in other areas of its business, including in its Google Cloud and data platforms, developer tools, and Google Workspace, for instance. Support for Google Home is targeted more directly at consumers who are experimenting with AI agents designed to handle everyday tasks.\nThe company said access to the MCP will roll out starting today and continuing over the coming weeks to subscribers who pay for Google Home Premium Advanced in the U.S. This is the more expensive, $20-per-month subscription tier that provides features like longer event-based video history, descriptive notifications and detailed alerts, tools to search video history, daily summaries, and more.\nGoogle wouldn’t comment on if or when the MCP would roll out more broadly, such as to other subscription tiers or markets.\nGoogle is also soliciting feedback from early adopters during this period by way of its Smart Home for Developers Community, it says.\nAn earlier version of this post misstated the rollout’s start. It is today, Wednesday, not Tuesday. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Your AI agents can now control your Google Home devices",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/06/Google-Home-Speaker-Multi.png?w=150"
-      ],
-      "datePublished": "2026-09-16T17:00:00.000Z",
-      "dateModified": "2026-09-16T17:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "US automakers could soon be forced to include AM radio for free",
     "url": "https://techcrunch.com/2026/09/16/us-automakers-could-soon-be-forced-to-include-am-radio-for-free/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/am-radio-getty.jpg?w=150",
@@ -291,6 +166,31 @@
       ],
       "datePublished": "2026-09-16T22:37:08.000Z",
       "dateModified": "2026-09-16T22:37:08.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+    "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Treble-Physical-AI-PR-image_no-brand-1.jpeg?w=150",
+    "tag": "Tech",
+    "date": "2026-09-17T05:00:00.000Z",
+    "description": "\nVoice AI has emerged as one of the hottest sectors in AI, with investors pouring in billions of dollars to serve use cases ranging from automating cu",
+    "body": "\nVoice AI has emerged as one of the hottest sectors in AI, with investors pouring in billions of dollars to serve use cases ranging from automating customer support and sales calls to creating meeting notetakers and developing AI smart glasses that use voice as the primary interaction surface. \nMeanwhile, AI labs are quickly releasing models, and hardware makers are trying to create the best experience for consumers to interact with devices. \nAll of this new technology needs testing and a feedback loop for improvement. An Iceland-based startup, Treble, is positioning itself to be at the center of the voice AI industry by creating a simulation platform that can cater to model makers, robotics companies, and consumer hardware makers.\nThe company, founded in 2020 by acoustic engineers Finnur Pind and Jesper Pedersen, has raised $18 million in an extension of its Series A funding led by Paladin Capital Group, with participation from existing investors KOMPAS VC, Frumtak Ventures, EIC, and Omega ehf. It received an investment of $12 million in 2024, bringing its total raise to date to over $40 million. The startup counts Amazon and Logitech as customers.\nTreble co-founder Finnur Pind Image Credits: Treble  Image Credits:Treble\nTreble has a few verticals related to simulation and data. For voice AI companies, it has a synthetic data generation platform that could be used for speech enhancement, noise suppression, and model training. It also evaluates voice AI models in different conditions to provide feedback to labs. Earlier this year, it partnered with Hugging Face to launch a benchmark for speech recognition models across different realistic conditions. \n“Audio AI is really a data challenge, and this is where the most opportunities to enable next-generation models and hardware lie. To date, pretty much all sound-related AI has been made from recordings and data scraped from the internet. We believe that accurate physics simulation can be an alternative way to create data for sound,” Pind told TechCrunch. \nThe startup also focuses on hardware design and testing from a voice perspective. For instance, it works with headphone and speaker companies for virtual prototyping to help them understand how their product might sound. It could also test how a smart speaker can understand commands based on the positioning of the speaker. Lately, Treble has ventured into providing simulation testing for smart glasses and AI devices.\nPind said that the company is excited to work on wearables that could enhance hearing for users. \n“I’m really excited about the next generation of these devices like headphones and smart glasses that can enable [a feature like] superhuman hearing. That’s an area where you can really just hear better in challenging acoustic environments. Maybe you are in a restaurant, and you only want to hear people within two meters of range, or you are in a seminar, and want to mute people around you,” he said.\nTreble aims to increase its focus in the physical AI space, including robotics, automotive, and drone companies, to enable sound-based functions for them through testing and simulation.\nFrancois Ruether, VP of Paladin Capital Group, told TechCrunch that Treble’s platform, which simulates different models and devices, stands out; the platform’s importance will increase as it gets involved in more areas.\n“Our thesis is that, as more products depend on understanding sound, this infrastructure becomes increasingly valuable across voice AI, wearables, robotics, and physical AI. Customers retain ownership of their models, products, and development workflows, while benefiting from a shared foundation of a simulation-native acoustic infrastructure layer,” Ruether said.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Iceland-based Treble raises $18 million for its voice simulation platform",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/09/Treble-Physical-AI-PR-image_no-brand-1.jpeg?w=150"
+      ],
+      "datePublished": "2026-09-17T05:00:00.000Z",
+      "dateModified": "2026-09-17T05:00:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -325,22 +225,22 @@
     }
   },
   {
-    "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
-    "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-AI-Stage.jpg?w=150",
+    "title": "Anthropic merges Claude chat and Cowork in one interface",
+    "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Claude-1920x1080-1.jpeg?w=150",
     "tag": "Tech",
-    "date": "2026-09-16T15:00:00.000Z",
-    "description": "\nThe world hasn’t been the same since ChatGPT made its debut in November 2022, when seemingly out of nowhere, a means of engaging with large language ",
-    "body": "\nThe world hasn’t been the same since ChatGPT made its debut in November 2022, when seemingly out of nowhere, a means of engaging with large language models propelled AI beyond hype and into day-to-day reality.\nRobotics, like AI, has been discussed, built upon, and in some ways adopted for a long time now, but it’s yet to have that big breakthrough moment. And at TechCrunch Disrupt 2026, Nvidia Inception’s Global Head of Physical AI, Les Karpas, will dive into why that is and what could change that in his session on the Real World AI Stage, Robots Are Waiting for Their ChatGPT Moment. Here Is What Is Standing in the Way.\nImage Credits:TechCrunch\nAfter all, anyone who’s seen Nvidia CEO Jensen Huang’s keynotes the past few years knows the company is bullish about the robotics field. And you can get the opportunity to listen as Karpas details the limitations and opportunities in the AI and robotics spaces firsthand at Disrupt. From October 13-15 at San Francisco’s Moscone West, you and 10,000+ tech leaders, founders, and investors can catch Karpas and the rest of our extensive AI-focused lineup, which ranges from building companies to building in the real world.\nAct now and get your ticket to save up to $200 before September 25, after which our prices increase. Save up to 30% when you bring a group, since the Disrupt experience is meant to be shared.\nThe all-too-real problem facing robotics\nKarpas’ POV on the core limitation facing general-purpose robots is simple to understand but wildly complicated to resolve. Nobody has an internet-wide dataset for physical AI in the way OpenAI, Anthropic, and others had for language. Even self-driving fleets from Waymo and its competitors were able to build datasets through years of accumulated road miles, datasets that are still expanding market by market.\nA growing ecosystem of startups is now trying to manufacture that scale artificially through simulation, synthetic data, and foundation models trained across many robot forms simultaneously. And that challenge of bridging the digital and physical is why we created the Real World AI Stage. Karpas will be joined by founders from Shield AI, Colossal Biosciences, FieldAI, and Foxglove, as they walk through the unique challenges and opportunities they face.\nNvidia’s unique perspective comes to Disrupt\nKarpas is one of the best-positioned people in the world to answer the question his session presents. As Nvidia Inception’s Global Head of Physical AI, he coordinates the company’s relationship with the wide-ranging startup ecosystem stretching across robotics, automotive, manufacturing, mobility, smart cities, and much more. The same companies trying to solve that data gap are the ones he regularly interfaces with.\nAnd his path to getting there is one that speaks to the cross-disciplinary skills the robotics industry demands. Across roles at Stanley Black & Decker, Intellectual Ventures, Herman Miller, iRobot, Cirque du Soleil, and more, he’s been an architect, manufacturing engineer, startup CEO, venture studio executive, and corporate venture capitalist.\nCreate your own breakthroughs at Disrupt\nThis is your chance to hear firsthand how Nvidia is thinking about the single biggest bottleneck in physical AI, and what it’ll take to clear it. That kind of insight could give you a leg up on your competition or spark an idea that could fuel your next startup venture. That kind of inspiration is what Disrupt is all about, and you can get it only by being in the room and making connections during the event.\nAct swiftly to get the ticket that gives you the kind of access you need, whether it’s new sources of fundraising or new startups to invest in. Lock in your trip before prices increase on September 25. Bring a group and save up to 30% on bundle passes.\nImage Credits:Slava Blazer Photography / Flickr (opens in a new window)\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "date": "2026-09-16T16:30:00.000Z",
+    "description": "\nAnthropic is merging its front end for Claude chat and Cowork, making it less confusing for people to decide which tab to use for different tasks.\nTh",
+    "body": "\nAnthropic is merging its front end for Claude chat and Cowork, making it less confusing for people to decide which tab to use for different tasks.\nThe unified interface lets users access chat, Cowork, and Artifacts (Claude’s interactive workspace feature) within one window. Claude Design, which was introduced in April for website and prototype design, also works anywhere within Claude.\nBefore this rollout, the company said customers often struggled to choose the right tab for the right task. With the new design, Claude automatically routes requests without having to switch tabs or windows. The idea is to remove confusion about which feature to pick and use just one front end to route work to different parts of the app.\nHopefully, OpenAI also takes a cue from this rollout and fixes ChatGPT’s interface across the platforms.\nImage Credits:Anthropic\nAnthropic is also adding dedicated features for making presentations and documents. Users can ask the AI assistant to create, edit, and present slides, and it can also download the generated presentation as a PDF or PowerPoint.\nSimilarly, with the Docs feature, users can work alongside Claude to create sections, ask questions, and comment on completed parts. Users can share generated documents or slides with a link and edit them on their phone.\nUsers can also ask Claude to start creating a document on desktop, and they can check the progress of the task using the mobile app.\nThese features are rolling out to Claude’s Pro and Max plans first, on the web, desktop, and mobile over the coming weeks. The company plans to extend them to the free and team tiers later.\nThe update comes in the wake of an upgrade of Cowork’s memory layer, which helps Claude remember user context across chats.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+      "headline": "Anthropic merges Claude chat and Cowork in one interface",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-AI-Stage.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/09/Claude-1920x1080-1.jpeg?w=150"
       ],
-      "datePublished": "2026-09-16T15:00:00.000Z",
-      "dateModified": "2026-09-16T15:00:00.000Z",
+      "datePublished": "2026-09-16T16:30:00.000Z",
+      "dateModified": "2026-09-16T16:30:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -350,22 +250,122 @@
     }
   },
   {
-    "title": "Noise wants to help everyday people  become paid content creators",
-    "url": "https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/NOISE.png?w=150",
+    "title": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly ",
+    "url": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Fortell-Cofounders-Window2-Landscape-6000x3375-1.png?w=150",
     "tag": "Tech",
-    "date": "2026-09-16T21:35:00.000Z",
-    "description": "\nMarketing platform Noise aims to connect brands with content creators at a much lower cost than hiring traditional influencers or running standard ad",
-    "body": "\nMarketing platform Noise aims to connect brands with content creators at a much lower cost than hiring traditional influencers or running standard ad campaigns. \nThat’s because many creators on the Noise platform are everyday people — anyone can download the app, regardless of follower count — and Noise presents them with campaigns they can join and create content for on their platforms of choice (TikTok, Instagram, Facebook, YouTube). It then pays them per view rather than a flat fee. Brands, meanwhile, sign up for Noise to share their content brief requests and budget. From there, Noise makes it easy to handle the rest, so brands can scale without the operational headaches of sourcing content creators, managing client relationships one by one, or managing payments. Noise lets them run campaigns simultaneously across thousands of content creators. \nOn Wednesday, Noise announced a $5.5 million seed led by Capital Midwest, M25, and Grishin Robotics, bringing its total raise to $7.2 million. Others in the round include Capitalize VC and operators from companies like DoorDash.\nThe startup is tapping into the ever-expanding influencer market, in which 57% of young people and just a little over 40% of U.S. adults overall now want to take part. It joins other content creator infrastructure companies like Billo and JoinBrands.\nDiego Kafie, Stu Feldt, and Nic Weber launched Noise in 2025 after spending two years building a mobile game app called Playbite, and it now touts 1.5 million creators on the platform. \nCEO Kafie said the company’s top creators make more than six figures a year, and the platform takes a fee from what brands pay creators once views are delivered.\n“Our top brands work with several thousand creators on autopilot,” he said. Right now, many of its customers are mobile apps, those working with startup budgets that want to employ influencer marketers. The goal is to one day work with companies of all sizes.\n“They are the most interested in reaching a really wide range of potential customers, making them the prime users for something like Noise, where they can easily recruit a small army of people to become their biggest users and advocates,” Kafie said. “This gives brands unprecedented level of content diversity and reach at a fraction of the cost of other traditional marketing playbooks.” \nKafie, Feldt, and Weber came to this idea from their experiences at Playbite. “We tried a bunch of different creative marketing strategies,” Kafie said of how they tried to scale Playbite. For example, they attempted to recruit their own gamers and teach them how to create social content that promoted the app. “We started with five, ten, 25, then 100 people,” he continued. “Before we knew it, our installs were skyrocketing as this small army of people went to places like TikTok and posted engaging content daily about mobile games and our app specifically.”\nMost importantly, he noted, this happened “at a fraction of the cost of traditional marketing playbooks,” because they were teaching regular people how to be content creators from scratch. “Had we gone to established creators with big followings and clout, their rates would’ve been cost-prohibitive for our scrappy startup budget.” \nThat gave them the idea for Noise. The fresh capital will be used to expand product capabilities and to hire. Noise also just launched its Organic-to-Ads program, letting brands take the videos that Noise creators make and run them as paid ads on Meta and TikTok, in addition to the creators’ posts. \n“The creators still post to platforms,” he said. “But in addition, the brands can now put paid ads spend behind those creatives to reach more people.” \nHe pushed back when asked if this was a way to pay creators less than they could make on their own if a brand approached them. He said that brands will name their rates and creators can decide whether to say yes or no. He also emphasized that the platform specializes in working with “everyday people and turning them into brand-new creators.”\nIt’s harder to become an influencer these days, so this, Kafie believes, could be a way for many people to get around the stress, time, and money it takes to make it big in content creation on their own. \nHe said when a user first joins the platform, they take Noise creator training modules that teach them how to create content for brands. Those early creators can access only certain campaigns, but as they do more training and get hired for more work, higher-paid opportunities can come to them, Kafie said. \n“By democratizing ‘becoming a creator’ to literally anyone with a smartphone,” he said, “we’re bringing costs down for brands, but enabling millions of people to make their first dollar on the internet.” \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "date": "2026-09-16T16:00:00.000Z",
+    "description": "\n\t\t\n\nLoading the player…\n\n“Why do I have to beg my grandparents to put on their hearing aids, but no one has ever needed to ask me to put on my glasse",
+    "body": "\n\t\t\n\nLoading the player…\n\n“Why do I have to beg my grandparents to put on their hearing aids, but no one has ever needed to ask me to put on my glasses?” \nThat’s the question that drove Matthew de Jonge to spend six years building Fortell, an AI hearing aid startup that recently raised $163 million from the likes of Founders Fund, Thrive Capital, and Valor Equity Partners CEO Antonio Gracias. The buzzy startup aims to build hearing aids that understand the sounds around you in real time, figure out what’s important and turn down the rest — instead of turning everything up at the same time, as most hearing aids do.  \nOn this episode of TechCrunch’s Equity Equity podcast, Rebecca Bellan is joined by de Jonge to break down what it takes to disrupt a decades-old industry where five companies make 97% of the products, insurance won’t cover the cost, and innovation has been slow to arrive. \nSubscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. You also can follow Equity on X and Threads, at @EquityPod. \n\n\t\t\n\tTopics\n\n\n\n\t\tTheresa Loconsolo is an audio producer at TechCrunch focusing on Equity, the network’s flagship podcast. Before joining TechCrunch in 2022, she was one of 2 producers at a four-station conglomerate where she wrote, recorded, voiced and edited content, and engineered live performances and interviews from guests like lovelytheband. Theresa is based in New Jersey and holds a bachelors degree in Communication from Monmouth University. You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com.\t\n\t\n\t\tView Bio \n\t\n\n\t\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Noise wants to help everyday people  become paid content creators",
+      "headline": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly ",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/09/NOISE.png?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/09/Fortell-Cofounders-Window2-Landscape-6000x3375-1.png?w=150"
       ],
-      "datePublished": "2026-09-16T21:35:00.000Z",
-      "dateModified": "2026-09-16T21:35:00.000Z",
+      "datePublished": "2026-09-16T16:00:00.000Z",
+      "dateModified": "2026-09-16T16:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Hear why Science Corp CEO Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/09/16/hear-why-science-corp-ceo-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Max-Hodak-speaking.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-09-16T18:45:35.000Z",
+    "description": "\nWhen you imagine working with a computer, you likely think of keyboards, clicks, or typing on your phone. Science Corporation CEO Max Hodak has spent",
+    "body": "\nWhen you imagine working with a computer, you likely think of keyboards, clicks, or typing on your phone. Science Corporation CEO Max Hodak has spent the last several months advancing a different vision. His company has enlisted a top neurobiologist to lead the first U.S. human trials for its biohybrid brain-computer interface. Hodak shares what his company has discovered so far with the 10,000+ tech leaders, founders, and investors at TechCrunch Disrupt 2026.\nAt his Beyond Screens session on the Disrupt Stage, Hodak will make the case for why the next era of technology could be built upon a different kind of interface, one that adapts to us from brain-computer interactions to create new ways of engaging with machines.\nImage Credits:TechCrunch\nJoin Disrupt as it returns to Moscone West in San Francisco on October 13-15, bringing together more than 10,000 founders, investors, and startup community members across more than 250 sessions. This year, we have a particular focus on building sustainable AI companies, with AI-centric programming extending across six industry stages.\nSecure your Disrupt pass today to save up to $200 on your ticket and hear one of Silicon Valley’s most ambitious founders explore a post-screen future.\nHodak’s path toward reinventing interfaces\nHodak’s career reads like a running bet that the interface between humans and machines has plenty of room for improvement. Having started programming at six years old, he studied biomedical engineering at Duke Pratt School of Engineering, and worked his way into Miguel Nicolelis’ brain-computer interface lab, interests that inform his work to this day.\nHe originally co-founded Transcriptic, a robotic cloud laboratory for the life sciences. But most famously, he co-founded Neuralink in 2016 and served as its initial president, helping build the company that put brain implants into the public imagination. Then in 2021, he founded Science Corporation to develop advanced neural engineering and brain-computer interface technology. The company has a particular focus on applications to aid those in need of help with vision, cognition, and mobility.\nAnd it’s not all speculation: Science Corp’s PRIMA implant has already restored eyesight in people with severe vision loss, using a pair of glasses with a tiny camera that beams a captured scene onto a chip implanted in the retina. Since its founding, it’s raised $230 million in a Series C round at a $1.5 billion valuation, and the company’s ambitions go beyond interfaces. Hodak sees additional applications of Science Corp’s brain-implanted sensors helping heal damaged brain cells, warning about seizures, and maybe even helping treat conditions as severe as Parkinson’s disease.\nHear from one of Silicon Valley’s most ambitious founders, only at Disrupt\nThis is your best chance to learn how Hodak thinks the interface between people and machines is about to change, and the many ways that could impact your startup, your role, and maybe your life.\nTake a look at the Disrupt agenda and choose your Disrupt ticket before savings of up to $200 expire September 25. Save up to 30% if you register as a group.\nImage Credits:TechCrunch\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Hear why Science Corp CEO Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/09/Max-Hodak-speaking.jpg?w=150"
+      ],
+      "datePublished": "2026-09-16T18:45:35.000Z",
+      "dateModified": "2026-09-16T18:45:35.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Your AI agents can now control your Google Home devices",
+    "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Google-Home-Speaker-Multi.png?w=150",
+    "tag": "Tech",
+    "date": "2026-09-16T17:00:00.000Z",
+    "description": "\nSmart home owners will soon be able to control their devices connected to Google Home via an AI agent. On Wednesday, Google rolled out early access t",
+    "body": "\nSmart home owners will soon be able to control their devices connected to Google Home via an AI agent. On Wednesday, Google rolled out early access to its Model Context Protocol (MCP) server for its Google Home ecosystem, which will allow any AI agent that supports MCP — like Claude, Hermes, OpenClaw, ChatGPT, and Google Antigravity — to securely work with their smart home devices and access their event history.\nThis update will allow people to use natural language instructions to do things like review their camera summaries, monitor smart home activity, control their connected devices, and build their own custom smart home dashboards.\nTo get the connection set up, users will need to create a Google Cloud project and configure it to use Home MCP. They will then provide the MCP configuration details to their agent of choice and ask it to set it up. The agent will then ask them to sign in and grant permissions. (A setup guide will also be offered in the Google Home Developer Center.)\nThe system will support any device in the Google Home ecosystem, including Google Nest doorbells and thermostats and “Works with Google Home” (or Matter) devices, like light bulbs.\nGoogle already supports MCP in other areas of its business, including in its Google Cloud and data platforms, developer tools, and Google Workspace, for instance. Support for Google Home is targeted more directly at consumers who are experimenting with AI agents designed to handle everyday tasks.\nThe company said access to the MCP will roll out starting today and continuing over the coming weeks to subscribers who pay for Google Home Premium Advanced in the U.S. This is the more expensive, $20-per-month subscription tier that provides features like longer event-based video history, descriptive notifications and detailed alerts, tools to search video history, daily summaries, and more.\nGoogle wouldn’t comment on if or when the MCP would roll out more broadly, such as to other subscription tiers or markets.\nGoogle is also soliciting feedback from early adopters during this period by way of its Smart Home for Developers Community, it says.\nAn earlier version of this post misstated the rollout’s start. It is today, Wednesday, not Tuesday. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Your AI agents can now control your Google Home devices",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/06/Google-Home-Speaker-Multi.png?w=150"
+      ],
+      "datePublished": "2026-09-16T17:00:00.000Z",
+      "dateModified": "2026-09-16T17:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "May Mobility is going public in a $1.4B SPAC deal",
+    "url": "https://techcrunch.com/2026/09/16/may-mobility-is-going-public-in-a-1-4b-spac-deal/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/05/May_Uber-copy.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-09-16T15:27:13.000Z",
+    "description": "\nAutonomous vehicle company May Mobility is merging with a special purpose acquisition company (SPAC) and will become a publicly traded company. It’s ",
+    "body": "\nAutonomous vehicle company May Mobility is merging with a special purpose acquisition company (SPAC) and will become a publicly traded company. It’s a deal that could raise more than $300 million for May Mobility at a valuation of $1.4 billion, the company said Wednesday.\nOnce the merger is complete, May Mobility said it will be the first public company in the U.S. that is focused entirely on autonomous ride-hailing vehicles. This is meant to differentiate it from a number of other public companies working on autonomy, including Tesla, Rivian, Alphabet (with Waymo), and trucking-focused Aurora and Kodiak.\nThe move sets up May Mobility to be a test of the stock market’s appetite for pure-play robotaxi ventures.\nIt will also be a test of May Mobility’s approach to autonomy, which it pitches as “asset-light” and “partnership-first.” Instead of owning and operating the robotaxis, May Mobility’s business revolves around selling its autonomous vehicles to its fleet partners over time while maintaining control of any remote supervision and software updates. In exchange, May Mobility receives either fixed fees or per-trip licensing fees.\nFounded in 2017, May Mobility currently operates autonomous Toyota Siennas in three locations in the U.S. It has a partnership with Lyft in Atlanta, and offers rides in two cities — Eden Prairie and Grand Rapids — in Minnesota.\nThese deployments helped May Mobility generate around $10 million in revenue last year, with a cash burn of around $93 million. It has offered more than 550,000 paid autonomous rides to date, covering more than 1 million miles. The company recently spun up its first trial deployment in Japan and is planning commercial launches in Arlington, Texas, with Uber, at the end of this year or in early 2027.\nMay Mobility is merging with ACP Holdings Acquisition Corp., a special purpose acquisition company established by Houston, Texas-based investment management company Atlas Credit Partners. The merger will involve a $120 million “private investment in public equity” transaction, and up to $217 million from a trust account maintained by ACP Holdings — though shareholders in the SPAC may choose to redeem their stock at the time of the merger, which could reduce the amount of money going to May Mobility.\nMay Mobility said Wednesday that it will use the proceeds to fund more research and development, especially around removing its safety drivers, as well as supply-chain investments to reduce its bill-of-materials costs. The company is also targeting new geographic deployments, some of which it expects to announce later this year.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "May Mobility is going public in a $1.4B SPAC deal",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/05/May_Uber-copy.jpg?w=150"
+      ],
+      "datePublished": "2026-09-16T15:27:13.000Z",
+      "dateModified": "2026-09-16T15:27:13.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Snap tries to make the case again for its $2,200 smart glasses",
+    "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/SPECS26_Home-Menu.png?w=150",
+    "tag": "Tech",
+    "date": "2026-09-17T00:58:49.000Z",
+    "description": "\nWhen Snap debuted its long-awaited smart glasses, Specs, earlier this year, the reveal was not only underwhelming but also a genuine disaster. The gl",
+    "body": "\nWhen Snap debuted its long-awaited smart glasses, Specs, earlier this year, the reveal was not only underwhelming but also a genuine disaster. The glasses — which cost a whopping $2,200 and are vaguely reminiscent of scuba gear — inspired jeers online and calls for the company’s CEO, Evan Spiegel, to resign. The company’s stock subsequently nosedived.\nSince then, Snap has clearly been looking for an opportunity to explain why Specs — a heavy, expensive piece of hardware that most casual consumers will probably be unable to afford — deserves to exist. \nThis week, the company had its chance to make that argument. At an event in Los Angeles, Spiegel and other Snap executives unveiled a variety of new features and services connected to Specs. The new updates seem clearly designed to help integrate the glasses into a broader array of digital activities and, in doing so, give Specs a clearer sense of purpose.\nImage Credits:Snap (screenshot)\nDuring Wednesday’s event, Spiegel shared details about a number of the new features. After a trippy promotional video that vaguely brought to mind an ayahuasca hallucination, the CEO took the stage and began a series of live demos.\nNew entertainment options — Specs can now connect with HBO Max and Spotify — provide a baseline of interactive fun that smart glasses have largely lacked until now.\nYet perhaps the biggest announcement was the launch of Specs Intelligence, which the company calls a new “anticipatory AI” system designed to pair not only with the company’s glasses but also with user devices — including iPhones and Macs. Snap claims that this new system “builds an understanding of your goals, priorities, relationships, and routines from the apps and tools you choose to connect, helping you focus on what matters now while making progress towards your longer-term goals.”\nImage Credits:Snap (screenshot)\nSpiegel called this system an “AI native operating system with intelligence designed around your projects” that helps users “connect the dots across Lenses,” Snap’s term for its AR camera effects, available on both phones and Specs, “so you can get things done while focusing on what matters to you.” In practice, it seems to function more like an AI productivity app that can be used with Snap’s glasses but doesn’t require them.\nSnap has also announced a new program called Specs for Enterprise, which allows the device to be integrated into corporate workflows. On Wednesday, the company announced partnerships with a number of different tech companies — including Amazon, Salesforce, Nvidia, and other firms — in an effort to make the device useful to staff at those companies.\nWhat is the real-world utility of this, and who is this service really for? Apparently, the answer is IT technicians. While the actual scenarios in which Specs can be used are a little vague, a demo video played at the event showed an IT technician repairing some hardware with the help of Snap’s new glasses.\n“We’re building out mobile device management, security controls, and ways to deploy and manage stacks across teams with the world’s most trusted providers, bringing peace of mind to IT departments,” Spiegel said.  \nOther announced features were slightly more head-scratching. For instance, one of the new experiences is an app, developed through a partnership with the NBA and WNBA, that allows users to practice basketball and improve their shot via the glasses’ AR capabilities. But, realistically, who is really going to play basketball while wearing heavy goggles on their head?\nAlso announced Wednesday was a new connectivity package for anyone who wants to use Specs on the go, away from Wi-Fi — like outside the home or office. Sold separately, the package includes a charging case with built-in cellular connectivity. That connectivity, which is being made available via a partnership with Verizon, costs $10 a month for Verizon customers and $20 a month for non-Verizon customers.\nSpiegel ultimately framed Specs as a new way to engage with computing in a more human-centric format. “I will say it’s an interesting time to be launching a new computer because things in tech are pretty weird right now,” Spiegel said. “We’re being told that AI will take our jobs, that virtual worlds will replace the real one. Well, no, thank you. We do not accept that future. Making people irrelevant is not progress, and computers should make us more important, not less.”\nSnap has repeatedly justified the product’s cringe-inducing cost by characterizing the device as a computer — albeit one you wear on your face. Whether consumers will go for that or not remains to be seen. The company has announced that it is hosting a Specs pop-up in Los Angeles in October before the devices ultimately ship later this fall.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tLucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. \nYou can contact Lucas by emailing lucas.ropek@techcrunch.com.\t\n\n\t\n\t\tView Bio \n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Snap tries to make the case again for its $2,200 smart glasses",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/09/SPECS26_Home-Menu.png?w=150"
+      ],
+      "datePublished": "2026-09-17T00:58:49.000Z",
+      "dateModified": "2026-09-17T00:58:49.000Z",
       "author": [
         {
           "@type": "Person",
