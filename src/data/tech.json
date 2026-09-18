@@ -1,5 +1,30 @@
 [
   {
+    "title": "Waymo restarts San Antonio service 5 months after flooding troubles",
+    "url": "https://techcrunch.com/2026/09/17/waymo-restarts-san-antonio-service-five-months-after-flooding-troubles/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Waymo-parking-charging-getty.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-09-17T18:30:30.000Z",
+    "description": "\nWaymo has restarted its robotaxi service in San Antonio, Texas, five months after one of its vehicles was swept away during a flash flood.\nMultiple W",
+    "body": "\nWaymo has restarted its robotaxi service in San Antonio, Texas, five months after one of its vehicles was swept away during a flash flood.\nMultiple Waymo robotaxis got stuck during the heavy flooding in April. The vehicles slowed but did not stop as they approached waterlogged streets. Waymo ultimately issued a recall in May, and the company restricted its robotaxis from driving in areas with elevated risk of flooding.\nWaymo briefly paused operations around the same time in other cities in Texas but has since resumed those services. The company is now offering paid rides in 15 U.S. cities.\nThe resumed service in San Antonio will involve dozens of vehicles covering a 60-mile area that includes downtown and the San Antonio International Airport, according to the San Antonio Express-News, which was first to report on Waymo starting back up. Waymo told the paper that it has made changes to its software that will help the robotaxis better detect and avoid standing water in the future.\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Waymo restarts San Antonio service 5 months after flooding troubles",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/01/Waymo-parking-charging-getty.jpg?w=150"
+      ],
+      "datePublished": "2026-09-17T18:30:30.000Z",
+      "dateModified": "2026-09-17T18:30:30.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
     "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/04/NYC_Archer_United_3.png?w=150",
@@ -41,31 +66,6 @@
       ],
       "datePublished": "2026-09-17T15:50:29.000Z",
       "dateModified": "2026-09-17T15:50:29.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Waymo restarts San Antonio service 5 months after flooding troubles",
-    "url": "https://techcrunch.com/2026/09/17/waymo-restarts-san-antonio-service-five-months-after-flooding-troubles/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Waymo-parking-charging-getty.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-09-17T18:30:30.000Z",
-    "description": "\nWaymo has restarted its robotaxi service in San Antonio, Texas, five months after one of its vehicles was swept away during a flash flood.\nMultiple W",
-    "body": "\nWaymo has restarted its robotaxi service in San Antonio, Texas, five months after one of its vehicles was swept away during a flash flood.\nMultiple Waymo robotaxis got stuck during the heavy flooding in April. The vehicles slowed but did not stop as they approached waterlogged streets. Waymo ultimately issued a recall in May, and the company restricted its robotaxis from driving in areas with elevated risk of flooding.\nWaymo briefly paused operations around the same time in other cities in Texas but has since resumed those services. The company is now offering paid rides in 15 U.S. cities.\nThe resumed service in San Antonio will involve dozens of vehicles covering a 60-mile area that includes downtown and the San Antonio International Airport, according to the San Antonio Express-News, which was first to report on Waymo starting back up. Waymo told the paper that it has made changes to its software that will help the robotaxis better detect and avoid standing water in the future.\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Waymo restarts San Antonio service 5 months after flooding troubles",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/01/Waymo-parking-charging-getty.jpg?w=150"
-      ],
-      "datePublished": "2026-09-17T18:30:30.000Z",
-      "dateModified": "2026-09-17T18:30:30.000Z",
       "author": [
         {
           "@type": "Person",
@@ -125,31 +125,6 @@
     }
   },
   {
-    "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
-    "url": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/10/Mazama-oregon.jpeg?w=150",
-    "tag": "Tech",
-    "date": "2026-09-18T00:02:36.000Z",
-    "description": "\nGeothermal startup Mazama Energy raised $135 million in an oversubscribed Series B, the startup said Thursday.\nThe fresh funding will help the compan",
-    "body": "\nGeothermal startup Mazama Energy raised $135 million in an oversubscribed Series B, the startup said Thursday.\nThe fresh funding will help the company develop horizontal wells in super-hot rocks capable of generating 15 megawatts of electricity per well. \nMazama plans to start generating electricity sometime next year and said its first site in Oregon is capable of producing 10 gigawatts of electricity. That’s a sharp upward revision from the company’s estimate last year, when investor Vinod Khosla said the site had the potential to produce 5 gigawatts.\nEnhanced geothermal startups are shaping up to be the dark horse in the battle to power AI data centers and other large loads on the grid. While tech companies and data center developers have been throwing their weight behind natural gas, geothermal startups have been quickly advancing their technology.\nUnlike previous geothermal projects, enhanced geothermal startups are targeting deeper and hotter rock. Mazama, for example, has drilled past 10,000 feet in 15 days on its way to about 15,000 feet deep. At those depths, the company can access 750˚ F (400˚ C) heat, which at high pressures turns water into a “supercritical” fluid that’s neither fully liquid nor fully gas — a state that lets it absorb far more energy than ordinary steam. Mazama said that will allow each well to produce up to 10 times more power than traditional geothermal technologies.\nGiven the depths Mazama is targeting, the potential payoff is significant. Tapping just 1% of super-hot rock worldwide could generate more than 63 terawatts of electricity, according to the University of Twente and the Clean Air Task Force.\nWhile work at its Oregon site is still in the early stages, the startup has already secured land for a second development. Mazama aims to complete development of the first site by 2030, at which point it says it should generate 200 megawatts of electricity.\nThe new round was led by Centaurus Capital and Doerr Capital, with participation from ConocoPhillips and Shell Ventures. Existing investors including Khosla Ventures and Gates Frontier returned, and new investors SiteGround Capital, H. Barton Asset Management, and the Jeffrey and Marieke Rothschild Foundation also joined the round. \nMazama was incubated at Khosla Ventures.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tTim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor. \r\nDe Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.\r\nYou can contact or verify outreach from Tim by emailing tim.dechant@techcrunch.com.\t\n\n\tView Bio \n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/10/Mazama-oregon.jpeg?w=150"
-      ],
-      "datePublished": "2026-09-18T00:02:36.000Z",
-      "dateModified": "2026-09-18T00:02:36.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Google DeepMind launches institute to widen the AGI debate",
     "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
     "image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1481927442.jpg?w=150",
@@ -200,22 +175,22 @@
     }
   },
   {
-    "title": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
-    "url": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Restyle_dopamine.png?w=150",
+    "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
+    "url": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/Mazama-oregon.jpeg?w=150",
     "tag": "Tech",
-    "date": "2026-09-17T17:15:00.000Z",
-    "description": "\nPinterest is turning to AI to help consumers move from searching for product inspiration to actually being able to imagine what it might be like to r",
-    "body": "\nPinterest is turning to AI to help consumers move from searching for product inspiration to actually being able to imagine what it might be like to redesign a space or compare home decor options as they’d appear in their own rooms. On Thursday, the company said it’s launching a new consumer-facing feature called “Restyle” in beta in the U.S. and Canada, powered by Pinterest Intelligence.\nThe foundation of Pinterest Intelligence combines Nvidia Blackwell GPUs and Nvidia Dynamo with open source models and Pinterest-built technology, the company shared on Monday. The partnership will improve the Pinterest Assistant’s ability to handle visual search requests, turn people’s searches into signals for AI discovery and shopping, and more.\nImage Credits:Pinterest\nWith Restyle, users will be able to take a photo of their space, then test and compare different options in their own homes by prompting the AI to do things like add wall art, furniture, accessories, or other home decor, including items from images they found on Pinterest, or change the lighting, paint color, plants, and more. They can also click on individual items in the room to swap them out, erase them from the image, or make further edits. Alternatively, they can ask the AI to visualize their room in a completely different style, like “bohemian,” “industrial,” “whimsical,” “dopamine,” or other trendy looks.\nThough it’s not a novel idea — restyling rooms has been a popular consumer use case for AI assistants — adding the feature directly to Pinterest could allow people to do more with the items they’ve saved for inspiration and design ideas. By seeing items in their own spaces, people may be more likely to buy the items they’ve saved to their boards, completing the funnel from pinning to purchase.\nThe feature was teased at Pinterest’s annual Pinterest Presents event, where the company introduced new visual search ads, app promotion features, and other tools for advertisers.\nRestyle is initially available only as an early preview but will roll out more broadly next month.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\n\tView Bio \n\n",
+    "date": "2026-09-18T00:02:36.000Z",
+    "description": "\nGeothermal startup Mazama Energy raised $135 million in an oversubscribed Series B, the startup said Thursday.\nThe fresh funding will help the compan",
+    "body": "\nGeothermal startup Mazama Energy raised $135 million in an oversubscribed Series B, the startup said Thursday.\nThe fresh funding will help the company develop horizontal wells in super-hot rocks capable of generating 15 megawatts of electricity per well. \nMazama plans to start generating electricity sometime next year and said its first site in Oregon is capable of producing 10 gigawatts of electricity. That’s a sharp upward revision from the company’s estimate last year, when investor Vinod Khosla said the site had the potential to produce 5 gigawatts.\nEnhanced geothermal startups are shaping up to be the dark horse in the battle to power AI data centers and other large loads on the grid. While tech companies and data center developers have been throwing their weight behind natural gas, geothermal startups have been quickly advancing their technology.\nUnlike previous geothermal projects, enhanced geothermal startups are targeting deeper and hotter rock. Mazama, for example, has drilled past 10,000 feet in 15 days on its way to about 15,000 feet deep. At those depths, the company can access 750˚ F (400˚ C) heat, which at high pressures turns water into a “supercritical” fluid that’s neither fully liquid nor fully gas — a state that lets it absorb far more energy than ordinary steam. Mazama said that will allow each well to produce up to 10 times more power than traditional geothermal technologies.\nGiven the depths Mazama is targeting, the potential payoff is significant. Tapping just 1% of super-hot rock worldwide could generate more than 63 terawatts of electricity, according to the University of Twente and the Clean Air Task Force.\nWhile work at its Oregon site is still in the early stages, the startup has already secured land for a second development. Mazama aims to complete development of the first site by 2030, at which point it says it should generate 200 megawatts of electricity.\nThe new round was led by Centaurus Capital and Doerr Capital, with participation from ConocoPhillips and Shell Ventures. Existing investors including Khosla Ventures and Gates Frontier returned, and new investors SiteGround Capital, H. Barton Asset Management, and the Jeffrey and Marieke Rothschild Foundation also joined the round. \nMazama was incubated at Khosla Ventures.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tTim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor. \r\nDe Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.\r\nYou can contact or verify outreach from Tim by emailing tim.dechant@techcrunch.com.\t\n\n\tView Bio \n\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
+      "headline": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/09/Restyle_dopamine.png?w=150"
+        "https://techcrunch.com/wp-content/uploads/2025/10/Mazama-oregon.jpeg?w=150"
       ],
-      "datePublished": "2026-09-17T17:15:00.000Z",
-      "dateModified": "2026-09-17T17:15:00.000Z",
+      "datePublished": "2026-09-18T00:02:36.000Z",
+      "dateModified": "2026-09-18T00:02:36.000Z",
       "author": [
         {
           "@type": "Person",
@@ -241,6 +216,31 @@
       ],
       "datePublished": "2026-09-17T16:09:58.000Z",
       "dateModified": "2026-09-17T16:09:58.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
+    "url": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Restyle_dopamine.png?w=150",
+    "tag": "Tech",
+    "date": "2026-09-17T17:15:00.000Z",
+    "description": "\nPinterest is turning to AI to help consumers move from searching for product inspiration to actually being able to imagine what it might be like to r",
+    "body": "\nPinterest is turning to AI to help consumers move from searching for product inspiration to actually being able to imagine what it might be like to redesign a space or compare home decor options as they’d appear in their own rooms. On Thursday, the company said it’s launching a new consumer-facing feature called “Restyle” in beta in the U.S. and Canada, powered by Pinterest Intelligence.\nThe foundation of Pinterest Intelligence combines Nvidia Blackwell GPUs and Nvidia Dynamo with open source models and Pinterest-built technology, the company shared on Monday. The partnership will improve the Pinterest Assistant’s ability to handle visual search requests, turn people’s searches into signals for AI discovery and shopping, and more.\nImage Credits:Pinterest\nWith Restyle, users will be able to take a photo of their space, then test and compare different options in their own homes by prompting the AI to do things like add wall art, furniture, accessories, or other home decor, including items from images they found on Pinterest, or change the lighting, paint color, plants, and more. They can also click on individual items in the room to swap them out, erase them from the image, or make further edits. Alternatively, they can ask the AI to visualize their room in a completely different style, like “bohemian,” “industrial,” “whimsical,” “dopamine,” or other trendy looks.\nThough it’s not a novel idea — restyling rooms has been a popular consumer use case for AI assistants — adding the feature directly to Pinterest could allow people to do more with the items they’ve saved for inspiration and design ideas. By seeing items in their own spaces, people may be more likely to buy the items they’ve saved to their boards, completing the funnel from pinning to purchase.\nThe feature was teased at Pinterest’s annual Pinterest Presents event, where the company introduced new visual search ads, app promotion features, and other tools for advertisers.\nRestyle is initially available only as an early preview but will roll out more broadly next month.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\n\tView Bio \n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/09/Restyle_dopamine.png?w=150"
+      ],
+      "datePublished": "2026-09-17T17:15:00.000Z",
+      "dateModified": "2026-09-17T17:15:00.000Z",
       "author": [
         {
           "@type": "Person",
