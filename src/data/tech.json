@@ -1,96 +1,21 @@
 [
   {
-    "title": "Waymo restarts San Antonio service 5 months after flooding troubles",
-    "url": "https://techcrunch.com/2026/09/17/waymo-restarts-san-antonio-service-five-months-after-flooding-troubles/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Waymo-parking-charging-getty.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-09-17T18:30:30.000Z",
-    "description": "\nWaymo has restarted its robotaxi service in San Antonio, Texas, five months after one of its vehicles was swept away during a flash flood.\nMultiple W",
-    "body": "\nWaymo has restarted its robotaxi service in San Antonio, Texas, five months after one of its vehicles was swept away during a flash flood.\nMultiple Waymo robotaxis got stuck during the heavy flooding in April. The vehicles slowed but did not stop as they approached waterlogged streets. Waymo ultimately issued a recall in May, and the company restricted its robotaxis from driving in areas with elevated risk of flooding.\nWaymo briefly paused operations around the same time in other cities in Texas but has since resumed those services. The company is now offering paid rides in 15 U.S. cities.\nThe resumed service in San Antonio will involve dozens of vehicles covering a 60-mile area that includes downtown and the San Antonio International Airport, according to the San Antonio Express-News, which was first to report on Waymo starting back up. Waymo told the paper that it has made changes to its software that will help the robotaxis better detect and avoid standing water in the future.\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Waymo restarts San Antonio service 5 months after flooding troubles",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/01/Waymo-parking-charging-getty.jpg?w=150"
-      ],
-      "datePublished": "2026-09-17T18:30:30.000Z",
-      "dateModified": "2026-09-17T18:30:30.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The FAA’s plan to fix air traffic? $875 million worth of AI",
+    "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
     "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/04/NYC_Archer_United_3.png?w=150",
     "tag": "Tech",
     "date": "2026-09-17T22:14:59.000Z",
     "description": "\nIn Brief\nPosted:\n3:14 PM PDT · September 17, 2026\n\nImage Credits:Archer Aviation\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nThe Federal Aviation Admi",
-    "body": "\nIn Brief\nPosted:\n3:14 PM PDT · September 17, 2026\n\nImage Credits:Archer Aviation\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nThe Federal Aviation Administration has been struggling to manage an air traffic control shortage throughout the country. The reasons for the shortage are diverse, but the government has made it known that it’s on the lookout for innovative solutions to the problem. \nOne of those solutions appears to be an $875 million AI software program that is expected to help air traffic controllers manage their workflows and more safely navigate flight routes.\nThe Wall Street Journal reports that the FAA will soon launch Smart, which stands for Strategic Management of Airspace, Routes and Trajectories — an automated software program designed to help streamline air traffic operations.\nA one-page readout on the program describes Smart as “a cloud-based platform system that enhances existing FAA air traffic management systems.” It adds that the program uses AI to assess “airline schedules, weather, airport capacity, airspace conditions, and operational constraints to predict traffic flows and identify potential conflicts before they occur.”\nSmart, the product of a firm called Air Space Intelligence, will cost the government that amount over a 12-year period, the outlet writes. The software will roll out in the Washington, D.C., metropolitan area first before expanding to other regions, it says.\nEarlier this year, the FAA also announced a “bold, new” hiring plan that the agency said would “erase the longstanding staffing shortage,” and the government is separately engaged in a broad effort to modernize the nation’s aging air traffic systems.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in AI\n\n",
+    "body": "\nIn Brief\nPosted:\n3:14 PM PDT · September 17, 2026\n\nImage Credits:Archer Aviation\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nThe Federal Aviation Administration has been struggling to manage an air traffic control shortage throughout the country. The reasons for the shortage are diverse, but the government has made it known that it’s on the lookout for innovative solutions to the problem.\nOne of those solutions appears to be an $875 million AI software program that is expected to help air traffic controllers manage their workflows and more safely navigate flight routes.\nThe Wall Street Journal reports that the FAA will soon launch SMART, which stands for Strategic Management of Airspace, Routes, and Trajectories — an automated software program designed to help streamline air traffic operations.\nA one-page readout on the program describes SMART as “a cloud-based platform system that enhances existing FAA air traffic management systems.” It adds that the program uses AI to assess “airline schedules, weather, airport capacity, airspace conditions, and operational constraints to predict traffic flows and identify potential conflicts before they occur.”\nSMART, the product of a firm called Air Space Intelligence, will cost the government that amount over a 12-year period, the outlet writes. The software will roll out in the Washington, D.C., metropolitan area first before expanding to other regions, it says.\nEarlier this year, the FAA also announced a “bold, new” hiring plan that the agency said would “erase the longstanding staffing shortage,” and the government is separately engaged in a broad effort to modernize the nation’s aging air traffic systems.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in AI\n\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "The FAA’s plan to fix air traffic? $875 million worth of AI",
+      "headline": "The FAA’s plan to fix air traffic? $875M worth of AI",
       "image": [
         "https://techcrunch.com/wp-content/uploads/2025/04/NYC_Archer_United_3.png?w=150"
       ],
       "datePublished": "2026-09-17T22:14:59.000Z",
       "dateModified": "2026-09-17T22:14:59.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Last call: Disrupt volunteer application closes soon ",
-    "url": "https://techcrunch.com/2026/09/17/last-call-disrupt-volunteer-application-closes-soon/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/TechCrunch-Disrupt-Volunteers.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-09-17T15:02:00.000Z",
-    "description": "\n\t\n\t\tImage Credits:Slava Blazer Photography\t\n\t\n\t\t\t\t\t\t8:02 AM PDT · September 17, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nIf you’ve been on the fence about volunteering a",
-    "body": "\n\t\n\t\tImage Credits:Slava Blazer Photography\t\n\t\n\t\t\t\t\t\t8:02 AM PDT · September 17, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nIf you’ve been on the fence about volunteering at TechCrunch Disrupt 2026, this is your sign to stop deliberating and start applying. \nSpots are filling up fast. And honestly? This is one of those rare opportunities you don’t want to miss. \nHere’s what you’re walking away from if you don’t apply \nWith three days inside one of the most strategically important tech events of the year, you’ll see how founders pitch billion-dollar ideas. You’ll watch the best operators and VCs at work. You’ll understand the mechanics of how the startup ecosystem actually functions — the kind of insider knowledge that shapes every decision you make in tech, whether you’re building a company or investing in one. \nMost people pay thousands of dollars for a ticket and still don’t get what you will as a volunteer: direct access, behind-the-scenes perspective, and real working relationships with the people making things happen. \nThe founders who built their networks at events like Disrupt didn’t just attend — they also understood how it all worked from the inside. \nThis is about more than free admission \nYes, you get a free three-day pass (October 13–15). But you’re also getting: \n\nA masterclass in event strategy and execution — experience you can only learn by doing.\n\n\nDirect connections with operators, founders, and investors — the people building and funding the next wave of startups.\n\n\nAn insider’s understanding of how the tech ecosystem actually works — knowledge most professionals spend years trying to acquire. \n\n\nA front-row seat to announcements and breakthroughs — moments that define industry trends. \n\nApplications close soon \nThe application deadline is Tuesday, September 22. Once spots are full, they’re full. And unlike regular tickets (which you can always buy), volunteer positions don’t open up again until next year. \nIf you’ve been thinking about this, the time to act is now. \nWhat you need to commit \n\nAt least 12 hours before or during the conference \n\n\nIn-person orientation on Monday, October 12 (afternoon) \n\n\nMust be 18 years or older \n\n\n(Local to SF preferred, but not required) \n\nApply today \nThe people who understand how the startup world works? They didn’t learn it from the audience. They learned it from the inside. \nDon’t miss your chance. Secure your volunteer spot at Disrupt 2026. \n\n\t\t\t\n\tTopics\n\n\t\t\tWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\t\t",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Last call: Disrupt volunteer application closes soon ",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/09/TechCrunch-Disrupt-Volunteers.jpg?w=150"
-      ],
-      "datePublished": "2026-09-17T15:02:00.000Z",
-      "dateModified": "2026-09-17T15:02:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Lucid Motors has a potential robotaxi partner for Europe",
-    "url": "https://techcrunch.com/2026/09/17/lucid-motors-has-a-potential-robotaxi-partner-for-europe/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/04/Luicid-Gravity-interior-9.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-09-17T13:26:32.000Z",
-    "description": "\nLucid Motors has entered into a partnership with European mobility platform Bolt that could bring robotaxis made by the California company to the con",
-    "body": "\nLucid Motors has entered into a partnership with European mobility platform Bolt that could bring robotaxis made by the California company to the continent.\nThe two companies announced Thursday that Bolt “aims to deploy at least 25,000 fully autonomous vehicles” built on Lucid’s upcoming mid-size EV architecture, which is supposed to be smaller and cheaper than its current offerings.\nThe announcement follows a major restructuring at Lucid Motors under its new CEO, Silvio Napoli, who recently laid off nearly 20% of the company’s workforce and delayed the launch of the first vehicle to be built on the mid-size platform by almost a year to the second half of 2027.\nLucid Motors has yet to deploy a commercial robotaxi version of either of its two existing vehicles. The company has spent the last year working in partnership with Uber and autonomous vehicle firm Nuro to launch a robotaxi version of its Gravity SUV. That is supposed to happen by the end of 2026.\nNapoli has said he believes the business of becoming a robotaxi provider would have margins that “vastly” exceed those of “the traditional retail model.” \nBolt intends to own and operate the fleet, according to a press release. The two companies “will work together from the product-development stage on an autonomous driving system (ADS)-ready vehicle platform,” it says.\nThe vehicles will use Nvidia’s autonomous vehicle compute and sensing architecture (called Hyperion), but the companies did not say which company (or companies) will provide the autonomous driving software. Lucid declined to offer any more information beyond what was in the press release.\nNo money has changed hands, and Bolt has not placed an order for the vehicles. There is also no public timeline for deployment — only that Bolt considers this a “major step toward” its “ambition of 100,000 autonomous vehicles on its platform by 2035.” \n“Autonomous driving in Europe requires data, software, vehicles, and operations to work as one system built for European roads and regulation,” Markus Villig, founder and CEO of Bolt, said in a statement. “Lucid brings a world-class platform, and together, we will co-design the vehicle and software based on our data and more than a decade of operating experience across more than 850 cities. No one is better placed to operate autonomous mobility services efficiently at scale.”\nNapoli, in a statement, said, “Bolt’s reach and operating expertise make it an ideal partner to scale autonomous mobility across Europe.” .\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\n\tView Bio \n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Lucid Motors has a potential robotaxi partner for Europe",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/04/Luicid-Gravity-interior-9.jpg?w=150"
-      ],
-      "datePublished": "2026-09-17T13:26:32.000Z",
-      "dateModified": "2026-09-17T13:26:32.000Z",
       "author": [
         {
           "@type": "Person",
@@ -125,47 +50,22 @@
     }
   },
   {
-    "title": "Apple will let EU apps use less-alarming tracking-consent screens",
-    "url": "https://techcrunch.com/2026/09/17/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/07/app-store-ios-2022.jpg?w=150",
+    "title": "Waymo restarts San Antonio service 5 months after flooding troubles",
+    "url": "https://techcrunch.com/2026/09/17/waymo-restarts-san-antonio-service-five-months-after-flooding-troubles/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Waymo-parking-charging-getty.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-09-17T16:09:58.000Z",
-    "description": "\nAs a result of a multi-year antitrust probe by Germany’s federal competition regulator and others, Apple has agreed to modify the requirements for ap",
-    "body": "\nAs a result of a multi-year antitrust probe by Germany’s federal competition regulator and others, Apple has agreed to modify the requirements for apps on its platforms that ask for consent to track the user across other apps or websites.\nRegulators said this system, known as App Tracking Transparency, or ATT, had favored Apple over third-party apps, since Apple allows its own apps to use consumers’ data from its ecosystem without requiring a consent screen.\nThe new agreements with select European competition authorities don’t do away with the need to prompt users, or when that prompt is to be shown. Instead, they allow app developers whose software is distributed in the EU to display an alternative consent screen that includes modified formatting, language, and the option to link out to “additional information” about why the app is requesting this permission, among other things.\nApple’s compliance involves over half-a-dozen changes that attempt to make these ATT consent screens less scary to end users. This includes showing them as full-page screens, not pop-ups; removing the word “track”; changing the choice buttons to “Allow” and “Reject” instead of “Allow” and “Ask App Not to Track”; changing the colors and formatting; and more. Plus, developers can offer users more detailed information through a clickable link, explaining how they use this data and why it’s being requested.\nThe iPhone maker says that, due to legal requirements, only the alternative version of the system prompt will be available to apps distributed in Germany, France, Italy, Poland, and Romania.\nUsers typically respond to consent screens by asking apps not to track them, which hurts ad-supported businesses, like Meta, while boosting Apple’s own. In short, the apps asking for such permissions do so because it lets them show personalized advertising, which generates more revenue, helping the app developer to make money.\nApple, however, argued that these consent screens help protect consumer privacy, even though it permits its own apps to display personalized ads based on the data they collect from its ecosystem.\nThe company said it will now allow app developers distributing to the EU to re-prompt their EU users one year after the user’s previous choice in their ATT consent screen.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\n\tView Bio \n\n",
+    "date": "2026-09-17T18:30:30.000Z",
+    "description": "\nWaymo has restarted its robotaxi service in San Antonio, Texas, five months after one of its vehicles was swept away during a flash flood.\nMultiple W",
+    "body": "\nWaymo has restarted its robotaxi service in San Antonio, Texas, five months after one of its vehicles was swept away during a flash flood.\nMultiple Waymo robotaxis got stuck during the heavy flooding in April. The vehicles slowed but did not stop as they approached waterlogged streets. Waymo ultimately issued a recall in May, and the company restricted its robotaxis from driving in areas with elevated risk of flooding.\nWaymo briefly paused operations around the same time in other cities in Texas but has since resumed those services. The company is now offering paid rides in 15 U.S. cities.\nThe resumed service in San Antonio will involve dozens of vehicles covering a 60-mile area that includes downtown and the San Antonio International Airport, according to the San Antonio Express-News, which was first to report on Waymo starting back up. Waymo told the paper that it has made changes to its software that will help the robotaxis better detect and avoid standing water in the future.\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Apple will let EU apps use less-alarming tracking-consent screens",
+      "headline": "Waymo restarts San Antonio service 5 months after flooding troubles",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2022/07/app-store-ios-2022.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/01/Waymo-parking-charging-getty.jpg?w=150"
       ],
-      "datePublished": "2026-09-17T16:09:58.000Z",
-      "dateModified": "2026-09-17T16:09:58.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "2 days left to exhibit at TechCrunch Disrupt 2026 ",
-    "url": "https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/08/Disrupt-2024-Exhibitors.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-09-17T14:00:00.000Z",
-    "description": "\nYour last chance to get your startup on the Expo Hall floor is almost here. \nBook your exhibit table at TechCrunch Disrupt 2026 by tomorrow, Friday, ",
-    "body": "\nYour last chance to get your startup on the Expo Hall floor is almost here. \nBook your exhibit table at TechCrunch Disrupt 2026 by tomorrow, Friday, September 18 at 11:59 p.m. PT. After that, the exhibit table deadline is closed. Tables are limited and may sell out before the deadline. \nOn October 13–15 at Moscone West in San Francisco, 10,000+ founders, investors, operators, and tech leaders will be looking for startups, products, partnerships, and investment opportunities. \nPut your startup in the room where deals start \nA 6′ × 30″ exhibit table gives your team three days on the Expo Hall floor to put your product directly in front of the Disrupt audience. \nUse your table to: \n\nDemo your product to VCs actively looking for new opportunities \n\n\nGenerate high-value leads through the Disrupt mobile app \n\n\nMeet potential customers and partners face-to-face \n\n\nGet your brand in front of 10,000+ attendees \n\n\nBuild relationships with founders, operators, and investors moving through the Expo Hall \n\nYour package also includes 10 team passes, website and app branding, press-list access, Silver Tier sponsor branding, and more. Founders can also tap into additional networking opportunities including AI-powered matchmaking, the Deal Flow Café, and Investor-to-Founder Networking. \nNetworking at the Deal Flow Cafe, TechCrunch Disrupt 2024Image Credits:Kimberly White/Getty Images for TechCrunch\nTwo days to get in. Then it’s gone. \nThe startups exhibiting at Disrupt will have three days to turn demos into conversations, conversations into leads, and leads into potential deals. \nIf you wait, you may miss your chance to put your startup on the Expo Hall floor at Disrupt 2026. \nBook your exhibit table before September 18 at 11:59 p.m. PT.\nNot exhibiting? Get in the room anyway. \nGet your TechCrunch Disrupt 2026 ticket and connect with 250+ top-tier tech leaders across 200+ sessions and six industry stages. Meet potential investors, partners, customers, and collaborators through interactive programming and AI-powered matchmaking, and discover 300+ startups plus Startup Battlefield 200. \nSecure your pass by September 25 and save up to $200 before prices increase. \n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "2 days left to exhibit at TechCrunch Disrupt 2026 ",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/08/Disrupt-2024-Exhibitors.jpg?w=150"
-      ],
-      "datePublished": "2026-09-17T14:00:00.000Z",
-      "dateModified": "2026-09-17T14:00:00.000Z",
+      "datePublished": "2026-09-17T18:30:30.000Z",
+      "dateModified": "2026-09-17T18:30:30.000Z",
       "author": [
         {
           "@type": "Person",
@@ -200,6 +100,106 @@
     }
   },
   {
+    "title": "Last call: Disrupt volunteer application closes soon ",
+    "url": "https://techcrunch.com/2026/09/17/last-call-disrupt-volunteer-application-closes-soon/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/TechCrunch-Disrupt-Volunteers.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-09-17T15:02:00.000Z",
+    "description": "\n\t\n\t\tImage Credits:Slava Blazer Photography\t\n\t\n\t\t\t\t\t\t8:02 AM PDT · September 17, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nIf you’ve been on the fence about volunteering a",
+    "body": "\n\t\n\t\tImage Credits:Slava Blazer Photography\t\n\t\n\t\t\t\t\t\t8:02 AM PDT · September 17, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nIf you’ve been on the fence about volunteering at TechCrunch Disrupt 2026, this is your sign to stop deliberating and start applying. \nSpots are filling up fast. And honestly? This is one of those rare opportunities you don’t want to miss. \nHere’s what you’re walking away from if you don’t apply \nWith three days inside one of the most strategically important tech events of the year, you’ll see how founders pitch billion-dollar ideas. You’ll watch the best operators and VCs at work. You’ll understand the mechanics of how the startup ecosystem actually functions — the kind of insider knowledge that shapes every decision you make in tech, whether you’re building a company or investing in one. \nMost people pay thousands of dollars for a ticket and still don’t get what you will as a volunteer: direct access, behind-the-scenes perspective, and real working relationships with the people making things happen. \nThe founders who built their networks at events like Disrupt didn’t just attend — they also understood how it all worked from the inside. \nThis is about more than free admission \nYes, you get a free three-day pass (October 13–15). But you’re also getting: \n\nA masterclass in event strategy and execution — experience you can only learn by doing.\n\n\nDirect connections with operators, founders, and investors — the people building and funding the next wave of startups.\n\n\nAn insider’s understanding of how the tech ecosystem actually works — knowledge most professionals spend years trying to acquire. \n\n\nA front-row seat to announcements and breakthroughs — moments that define industry trends. \n\nApplications close soon \nThe application deadline is Tuesday, September 22. Once spots are full, they’re full. And unlike regular tickets (which you can always buy), volunteer positions don’t open up again until next year. \nIf you’ve been thinking about this, the time to act is now. \nWhat you need to commit \n\nAt least 12 hours before or during the conference \n\n\nIn-person orientation on Monday, October 12 (afternoon) \n\n\nMust be 18 years or older \n\n\n(Local to SF preferred, but not required) \n\nApply today \nThe people who understand how the startup world works? They didn’t learn it from the audience. They learned it from the inside. \nDon’t miss your chance. Secure your volunteer spot at Disrupt 2026. \n\n\t\t\t\n\tTopics\n\n\t\t\tWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\t\t",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Last call: Disrupt volunteer application closes soon ",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/09/TechCrunch-Disrupt-Volunteers.jpg?w=150"
+      ],
+      "datePublished": "2026-09-17T15:02:00.000Z",
+      "dateModified": "2026-09-17T15:02:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
+    "url": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/Mazama-oregon.jpeg?w=150",
+    "tag": "Tech",
+    "date": "2026-09-18T00:02:36.000Z",
+    "description": "\nGeothermal startup Mazama Energy raised $135 million in an oversubscribed Series B, the startup said Thursday.\nThe fresh funding will help the compan",
+    "body": "\nGeothermal startup Mazama Energy raised $135 million in an oversubscribed Series B, the startup said Thursday.\nThe fresh funding will help the company develop horizontal wells in super-hot rocks capable of generating 15 megawatts of electricity per well. \nMazama plans to start generating electricity sometime next year and said its first site in Oregon is capable of producing 10 gigawatts of electricity. That’s a sharp upward revision from the company’s estimate last year, when investor Vinod Khosla said the site had the potential to produce 5 gigawatts.\nEnhanced geothermal startups are shaping up to be the dark horse in the battle to power AI data centers and other large loads on the grid. While tech companies and data center developers have been throwing their weight behind natural gas, geothermal startups have been quickly advancing their technology.\nUnlike previous geothermal projects, enhanced geothermal startups are targeting deeper and hotter rock. Mazama, for example, has drilled past 10,000 feet in 15 days on its way to about 15,000 feet deep. At those depths, the company can access 750˚ F (400˚ C) heat, which at high pressures turns water into a “supercritical” fluid that’s neither fully liquid nor fully gas — a state that lets it absorb far more energy than ordinary steam. Mazama said that will allow each well to produce up to 10 times more power than traditional geothermal technologies.\nGiven the depths Mazama is targeting, the potential payoff is significant. Tapping just 1% of super-hot rock worldwide could generate more than 63 terawatts of electricity, according to the University of Twente and the Clean Air Task Force.\nWhile work at its Oregon site is still in the early stages, the startup has already secured land for a second development. Mazama aims to complete development of the first site by 2030, at which point it says it should generate 200 megawatts of electricity.\nThe new round was led by Centaurus Capital and Doerr Capital, with participation from ConocoPhillips and Shell Ventures. Existing investors including Khosla Ventures and Gates Frontier returned, and new investors SiteGround Capital, H. Barton Asset Management, and the Jeffrey and Marieke Rothschild Foundation also joined the round. \nMazama was incubated at Khosla Ventures.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tTim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor. \r\nDe Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.\r\nYou can contact or verify outreach from Tim by emailing tim.dechant@techcrunch.com.\t\n\n\tView Bio \n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/10/Mazama-oregon.jpeg?w=150"
+      ],
+      "datePublished": "2026-09-18T00:02:36.000Z",
+      "dateModified": "2026-09-18T00:02:36.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Google DeepMind launches institute to widen the AGI debate",
+    "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1481927442.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-09-17T23:21:17.000Z",
+    "description": "\nGoogle and Google DeepMind researchers launched the DeepMind Institute on Wednesday to advance the conversation around artificial general intelligenc",
+    "body": "\nGoogle and Google DeepMind researchers launched the DeepMind Institute on Wednesday to advance the conversation around artificial general intelligence (AGI). The institute lists DeepMind co-founder Shane Legg, Google executive James Manyika, and Google DeepMind chair Demis Hassabis as directors, with Legg serving as managing editor. \nThe new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. “They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier,” the announcement read.\nThe inaugural collection of four essays covers a range of topics: economic policies for managing potential AGI disruption, preserving human-readable model reasoning, principles for human flourishing, and a framework for evaluating frontier AI models. \nOne essay, by DeepMind safety researchers Rohin Shah and Anca Dragan, argues that AI’s shrinking window of transparency — the ability to see and check a model’s step-by-step reasoning — is not inevitable. As new architectures make the most powerful models harder to monitor, the authors say developers and regulators should confront the safety trade-offs directly. That could mean limiting “opaque serial depth”— the amount of sequential computation a model can perform without producing a readable reasoning trace — or requiring developers to demonstrate that less transparent systems remain just as monitorable.\nIn another essay, Hassabis proposes a U.S.-led frontier AI standards body to evaluate the most advanced AI models. Under his framework, developers would initially submit models voluntarily for review up to 30 days before release. Once the evaluation system has proved effective, passing its tests could become a requirement for deploying frontier models in the United States.\nThe body would at first design assessments in consultation with AI companies but would eventually develop independent, undisclosed evaluations — what the essay calls “held-out” tests — to prevent labs from tailoring their models to known evaluations. Hassabis said the framework could be “ratcheted up if the seriousness of the situation demands,” potentially including a coordinated slowdown among frontier AI developers. \nThe essays arrive as the industry’s safety debate shifts from broad statements of concern toward concrete proposals for disclosure, outside scrutiny, and, if safeguards fall behind, coordinated slowdowns. That shift accelerated this week as industry leaders endorsed elements of Anthropic CEO Dario Amodei’s call to “pace” frontier AI development.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Google DeepMind launches institute to widen the AGI debate",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1481927442.jpg?w=150"
+      ],
+      "datePublished": "2026-09-17T23:21:17.000Z",
+      "dateModified": "2026-09-17T23:21:17.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+    "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/crusoe-ceo-getty.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-09-17T23:25:52.000Z",
+    "description": "\nData center developer Crusoe said Thursday it raised $3.9 billion in a Series F round that pushes its valuation to $30.9 billion. The massive round w",
+    "body": "\nData center developer Crusoe said Thursday it raised $3.9 billion in a Series F round that pushes its valuation to $30.9 billion. The massive round was co-led by Atreides Management, Mubadala Capital, and Valor Equity Partners. Founders Fund, GIC, Nvidia, Qatar Investment Authority (QIA), Radical Ventures, and TPG also participated, according to Crusoe.\nCrusoe also announced three new board members, including Cloudflare CFO Thomas Seifert; Bill Stein, partner and CIO at Primary Digital Infrastructure; and Redwood Materials founder and CEO JB Straubel, who also sits on Tesla’s board. Straubel already has ties to Crusoe; he personally invested in the company in 2021, and Crusoe later became the first customer of Redwood’s energy storage business.\nThe eight-year-old company’s fresh capital infusion will help finance existing data center projects, including a large site in Abilene, Texas, used by OpenAI, as well as smaller, modular AI factories that can be transported by truck and connected to large power sources almost anywhere.\nBy manufacturing these modular data centers, called Spark, at its own facilities, Crusoe can deploy compute capacity quickly and without the need for large construction workforces. The smaller centers could also help Crusoe sidestep, at least in part, another major obstacle facing data center developers: backlash from local communities protesting massive complexes near their neighborhoods.\nCrusoe co-founder and CEO Chase Lochmiller, who is pictured above, said in a statement he believes AI will usher in an era of abundance, but to get there will mean “controlling the infrastructure from electrons to tokens, and we’re grateful to have investors who share that conviction.”\nThe company makes money by leasing data center space to customers that bring their own GPUs, by renting out its own GPUs, and by selling compute power used to run AI models, known as inference.\nThis three-pronged business model has helped make Crusoe one of the most valuable AI infrastructure companies. Crusoe recently signed a massive $13 billion, five-year cloud contract to supply quantitative trading firm Jane Street with GPUs and AI infrastructure, Bloomberg reported.\nThe company recently met with investment bankers, including Goldman Sachs and Morgan Stanley, to discuss a potential  IPO in the near future, Axios reported last month. \nThe fresh fundraise comes 10 months after Crusoe raised $1.38 billion at a $10 billion valuation last October.\nThe company was founded in 2018 as a crypto mining operation powered by flared natural gas, but pivoted to AI infrastructure as demand for computing power skyrocketed. Crusoe’s customers include Meta, Microsoft, and Oracle.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tMarina Temkin is a venture capital and startups reporter at TechCrunch. Prior to joining TechCrunch, she wrote about VC for PitchBook and Venture Capital Journal. Earlier in her career, Marina was a financial analyst and earned a CFA charterholder designation.\r\nYou can contact or verify outreach from Marina by emailing marina.temkin@techcrunch.com or via encrypted message at +1 347-683-3909 on Signal.\t\n\n\tView Bio \n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/09/crusoe-ceo-getty.jpg?w=150"
+      ],
+      "datePublished": "2026-09-17T23:25:52.000Z",
+      "dateModified": "2026-09-17T23:25:52.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
     "url": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/Restyle_dopamine.png?w=150",
@@ -225,22 +225,22 @@
     }
   },
   {
-    "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
-    "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/02/20230228_162746.jpg?w=150",
+    "title": "Apple will let EU apps use less-alarming tracking-consent screens",
+    "url": "https://techcrunch.com/2026/09/17/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/07/app-store-ios-2022.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-09-17T14:06:14.000Z",
-    "description": "\nHuawei is moving up the launch of its next-generation Ascend 960DT AI chip to the first quarter of 2027, as it races to challenge Nvidia, the company",
-    "body": "\nHuawei is moving up the launch of its next-generation Ascend 960DT AI chip to the first quarter of 2027, as it races to challenge Nvidia, the company said on Thursday at its Huawei Connect conference.\nThe Chinese tech giant had previously planned to launch the chip in Q3 of 2027, a Huawei spokesperson told TechCrunch.\n“The Ascend 960DT is expected to be ready in Q1 2027. Ascend 960 chips are launching ahead of schedule, doubling performance and advancing year by year,” the spokesperson said, adding that David Wang, Huawei’s rotating and acting chairman, announced the updated timeline at Huawei Connect on Thursday.\nThe announcement comes just a week before U.S. President Trump and Chinese President Xi Jinping are set to meet on September 24 in Washington, DC.\nHuawei is trying to turn hundreds of thousands, and eventually millions, of AI chips into one giant computer. The Chinese tech firm calls the approach its Peerium Computing Architecture. It relies on UnifiedBus, Huawei’s technology for linking processors with memory, storage, and networking hardware. Eric Xu, Huawei’s rotating chairman, said in the company’s statement that it is using its new Peerium Computing Architecture to build larger AI computing systems designed for both training and inference.\nHuawei’s Atlas 950 SuperPoD and SuperCluster are the first systems based on the architecture. The company says an Atlas 950 SuperCluster can connect up to 256,000 accelerator cards.\nThe accelerated chip timeline comes with some questions about Huawei’s broader AI systems, however. China tech analyst Rui Ma said on X that Huawei had previously said its Atlas 960 SuperPoD would scale to 15,488 Ascend 960 chips, while this week’s announcement referred to a system with 4,096 chips. “The chip itself is coming WAY earlier, but the SuperPoD they announced is much smaller than what they originally laid out,” Ma wrote.\nHuawei has continued to advance its chip ambitions despite U.S. restrictions on China’s access to advanced semiconductor technology. Ma said that those restrictions are unlikely to stop China from pursuing its own semiconductor technology.\n“I think it’s futile to stop China’s development in semiconductors because the stakes for self-sufficiency are just too high at this point,” she wrote.\nTrump has pushed back against calls from AI industry leaders to slow the development of the technology over safety concerns, arguing that the U.S. needs to maintain its lead over China. Meanwhile, Xu argued that China needs to accelerate AI development to catch up with the U.S., saying Chinese companies need to advance further before they can fully understand and address the risks posed by more powerful AI systems, according to Financial Times.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\tKate Park is a reporter at TechCrunch, with a focus on technology, startups and venture capital in Asia. She previously was a financial journalist at Mergermarket covering M&A, private equity and venture capital.\n\n\n\tView Bio \n\n",
+    "date": "2026-09-17T16:09:58.000Z",
+    "description": "\nAs a result of a multi-year antitrust probe by Germany’s federal competition regulator and others, Apple has agreed to modify the requirements for ap",
+    "body": "\nAs a result of a multi-year antitrust probe by Germany’s federal competition regulator and others, Apple has agreed to modify the requirements for apps on its platforms that ask for consent to track the user across other apps or websites.\nRegulators said this system, known as App Tracking Transparency, or ATT, had favored Apple over third-party apps, since Apple allows its own apps to use consumers’ data from its ecosystem without requiring a consent screen.\nThe new agreements with select European competition authorities don’t do away with the need to prompt users, or when that prompt is to be shown. Instead, they allow app developers whose software is distributed in the EU to display an alternative consent screen that includes modified formatting, language, and the option to link out to “additional information” about why the app is requesting this permission, among other things.\nApple’s compliance involves over half-a-dozen changes that attempt to make these ATT consent screens less scary to end users. This includes showing them as full-page screens, not pop-ups; removing the word “track”; changing the choice buttons to “Allow” and “Reject” instead of “Allow” and “Ask App Not to Track”; changing the colors and formatting; and more. Plus, developers can offer users more detailed information through a clickable link, explaining how they use this data and why it’s being requested.\nThe iPhone maker says that, due to legal requirements, only the alternative version of the system prompt will be available to apps distributed in Germany, France, Italy, Poland, and Romania.\nUsers typically respond to consent screens by asking apps not to track them, which hurts ad-supported businesses, like Meta, while boosting Apple’s own. In short, the apps asking for such permissions do so because it lets them show personalized advertising, which generates more revenue, helping the app developer to make money.\nApple, however, argued that these consent screens help protect consumer privacy, even though it permits its own apps to display personalized ads based on the data they collect from its ecosystem.\nThe company said it will now allow app developers distributing to the EU to re-prompt their EU users one year after the user’s previous choice in their ATT consent screen.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\n\tView Bio \n\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
+      "headline": "Apple will let EU apps use less-alarming tracking-consent screens",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2023/02/20230228_162746.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2022/07/app-store-ios-2022.jpg?w=150"
       ],
-      "datePublished": "2026-09-17T14:06:14.000Z",
-      "dateModified": "2026-09-17T14:06:14.000Z",
+      "datePublished": "2026-09-17T16:09:58.000Z",
+      "dateModified": "2026-09-17T16:09:58.000Z",
       "author": [
         {
           "@type": "Person",
@@ -250,22 +250,22 @@
     }
   },
   {
-    "title": "I tried Tovala’s smart oven for two weeks — here’s whether it beats takeout",
-    "url": "https://techcrunch.com/2026/09/17/i-tried-tovalas-smart-oven-for-two-weeks-heres-whether-it-beats-takeout/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/smart-oven-tovala.png?w=150",
+    "title": "Amazon-owned Zoox’s 100-robotaxi limit in Nevada is about to disappear",
+    "url": "https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Zoox-Robotaxi-Vegas-traffic.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-09-17T15:00:00.000Z",
-    "description": "\nI tried Tovala’s smart oven for two weeks to see if it could actually make dinner as easy as the company promises. It won’t replace the quality of a ",
-    "body": "\nI tried Tovala’s smart oven for two weeks to see if it could actually make dinner as easy as the company promises. It won’t replace the quality of a good home-cooked meal, and some dishes turned out better than others, but it’s hard to beat the convenience on days when you absolutely don’t want to cook.\nThis was exactly the challenge that Tovala co-founder and CEO David Rabie aimed to address. \n“The idea originated from my own struggles in business school. I was often busy and sought a solution as convenient as takeout or frozen meals, yet still wanted the experience of a genuine home-cooked dish,” Rabie told TechCrunch via email. \n“One afternoon, I was making a meal using several different appliances and realized that I was mostly just pressing buttons,” he said. “That’s what led to the idea for an end-to-end system: fresh, mostly prepped meals paired with a connected oven that could cook them automatically. The challenge became figuring out how to remove all that friction without sacrificing the experience of eating food that was actually cooked fresh at home.”\nThe idea is pretty simple: Tovala sends you meals with the ingredients already portioned out, and its smart oven handles the cooking.\nInstead of chopping vegetables, measuring ingredients, figuring out cooking temperatures, and standing over a stove, you mostly just unwrap everything, follow simple instructions like adding packets of seasoning, put everything in the provided trays, scan a QR code using the companion app, and let the oven do the rest. \nThe countertop-sized oven follows the cooking instructions automatically, switching temperatures and cooking modes throughout the process. It can bake, broil, air fry, toast, and reheat. The regular oven costs $299, while the Smart Oven Pro costs $349 and adds a steam function.\nImage Credits:Tovala\nAs for the meal-delivery side, there are more than 45 meals to choose from each week. For instance, steak and garlic mashed potatoes, salmon with vegetables, butternut squash soup, pasta dishes, and more. \nThere are also plenty of options when it comes to how much food you want delivered. Meal plans include 4, 6, 8, 10, 12, or 16 meals per week. You can skip deliveries, pause your plan, or cancel if you don’t need meals that week. \nThe meals aren’t exactly cheap, though. Single-serving meals start at $13.99, and two-serving meals start at around $8.99 per serving — $17.98 total — plus a $10.99 shipping fee. The company also recently launched family-sized meals, starting at $35.96. Unlike meal-delivery rivals like HelloFresh, Tovala is essentially betting that you’re willing to pay for the added convenience of having most of the cooking handled for you. \nTaste and quality were the parts I was most skeptical about going in. I’m not a professional chef by any means, but I’ve recently gotten much more interested in cooking. Once you start learning how to properly sear meat, roast vegetables, and build flavor yourself, it’s hard not to be suspicious of a machine that promises to do all of that for you.\nThe biggest downside for me was the texture of the meats and how they cooked in the oven. I like a steak with a nice crust, so I finished mine in a steel pan for some extra browning. The steak was much better afterward, but that obviously defeats the point of a process that’s supposed to be mostly hands-off.\nNot every dish had that problem, though. One of my favorites was the pineapple shrimp stir-fry. The rice was well cooked, and the sauce had plenty of flavor. It wasn’t necessarily something I’d rave about compared with a great restaurant meal, but it was easy, satisfying, and required very little effort.\nImage Credits:Tovala\nWhat I  appreciated most, however, was the grocery-food feature that gives the oven some use beyond cooking Tovala-branded meals. The oven can recognize certain grocery-store products, so instead of guessing how long your frozen waffles need to toast, you can scan the barcode and let the oven automatically select the appropriate settings.\nThat’s what makes Tovala feel more like a genuinely smart oven, not just a machine built to cook its own meal kits. Even if you stop ordering Tovala meals, you can still use the oven with compatible grocery products.\nOverall, if your alternative to cooking is ordering takeout because you’re too tired to cook, Tovala makes a pretty compelling case for itself.\nTovala is available on the company’s website and Amazon. It ships to most U.S. states, but it doesn’t currently ship to Alaska or Hawaii.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "date": "2026-09-17T23:08:24.000Z",
+    "description": "\nA regulatory cap limiting Zoox to 100 robotaxis in Nevada is set to expire this month, clearing the way for the Amazon-owned company to expand its co",
+    "body": "\nA regulatory cap limiting Zoox to 100 robotaxis in Nevada is set to expire this month, clearing the way for the Amazon-owned company to expand its commercial fleet of custom-built robotaxis in Las Vegas just as competition heats up. \nThe Nevada Transportation Authority (NTA) permit that imposed the 100-vehicle cap is set to expire September 25, TechCrunch has learned. An NTA official and a Zoox spokesperson confirmed the change, which is also outlined in an updated permit.\nThis doesn’t mean Las Vegas is about to be inundated with hundreds of Zoox robotaxis. But it does give Zoox more freedom to grow — and at a critical moment. Waymo recently launched a commercial service in Las Vegas, while Tesla and Uber have secured their own driverless ride-hailing permits. \nToday, Zoox has about 100 custom-built robotaxis — cube-like vehicles that lack steering wheels and pedals — spread across four U.S. cities, including Austin and Miami. The bulk of the fleet is in Las Vegas and San Francisco. And for now, Las Vegas remains the only city where Zoox is charging for rides. Zoox must still obtain another permit from California regulators before it can charge for passengers there. \nZoox began charging for robotaxi rides in Las Vegas last month after receiving a temporary exemption from certain federal motor vehicle safety standards from the National Highway Traffic Safety Administration (NHTSA).\nThat exemption was crucial for Zoox because unlike Waymo, its robotaxis were designed without a steering wheel, pedals, or other traditional and federally mandated controls. The commercial exemption allows Zoox to deploy up to 2,500 vehicles per year for the next two years.\nIt’s unclear how quickly Zoox will take advantage of its newfound freedom in Nevada. A Zoox spokesperson declined to say how many robotaxis the company plans to add to its Las Vegas fleet or even how many are in operation there today. Robotaxi Tracker, which collects data on autonomous vehicles, estimates Zoox has more than 30 vehicles operating in the city. \nThe spokesperson told TechCrunch that Zoox plans to steadily increase the size of its robotaxi fleet over the next several months “to meet the high demand in Las Vegas and other markets.” \nZoox will have lots of company, no matter how fast it expands. In August, the NTA approved three permits that will allow Tesla, Uber, and Waymo to operate commercial robotaxi services in Clark County, home to Las Vegas. Together, the permits could bring up to 7,000 robotaxis to the area over the next 12 months.\nWaymo has wasted little time acting on that permit. The company opened its robotaxi service to customers in Las Vegas earlier this month. Waymo told TechCrunch at the time that it would start with “dozens” of its new Ojai minivan robotaxis in a 23-square-mile area that includes the Strip south of Highway 589 and into Boulder Junction.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tKirsten Korosec is a reporter and editor who has covered the future of transportation from EVs and autonomous vehicles to urban air mobility and in-car tech for more than a decade. She is currently the transportation editor at TechCrunch and co-host of TechCrunch’s Equity podcast. She is also co-founder and co-host of the podcast, “The Autonocast.” She previously wrote for Fortune, The Verge, Bloomberg, MIT Technology Review and CBS Interactive.\nYou can contact or verify outreach from Kirsten by emailing kirsten.korosec@techcrunch.com or via encrypted message at kkorosec.07 on Signal.\t\n\n\tView Bio \n\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "I tried Tovala’s smart oven for two weeks — here’s whether it beats takeout",
+      "headline": "Amazon-owned Zoox’s 100-robotaxi limit in Nevada is about to disappear",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/09/smart-oven-tovala.png?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/08/Zoox-Robotaxi-Vegas-traffic.jpg?w=150"
       ],
-      "datePublished": "2026-09-17T15:00:00.000Z",
-      "dateModified": "2026-09-17T15:00:00.000Z",
+      "datePublished": "2026-09-17T23:08:24.000Z",
+      "dateModified": "2026-09-17T23:08:24.000Z",
       "author": [
         {
           "@type": "Person",
@@ -300,6 +300,56 @@
     }
   },
   {
+    "title": "PrismML hopes its tiny LLM will change how we all use AI",
+    "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/LLMs-on-smartphones.png?w=150",
+    "tag": "Tech",
+    "date": "2026-09-17T22:34:09.000Z",
+    "description": "\nIf AI lab PrismML isn’t on your radar yet, it should be — not because it’s raised gobs of money (it hasn’t yet, just a $22.25 million seed round), bu",
+    "body": "\nIf AI lab PrismML isn’t on your radar yet, it should be — not because it’s raised gobs of money (it hasn’t yet, just a $22.25 million seed round), but because of the technical minds involved and the potentially industry-changing tech it’s developing.\nPrismML is betting that capable, high-performing, reasoning large language models don’t, in fact, have to be large.\nIt is making reasoning models so small they can fit on PCs and smartphones. (It’s even rumored to be in talks with Apple, though CEO Babak Hassibi declined to comment on that to TechCrunch.)\nOn Thursday, PrismML released Bonsai 2 27B, its latest in a family of models, which compresses Qwen3.8 27B, a widely used open source model from Alibaba, down to 5.9 GB. That’s small enough to fit on a PC and, possibly, a high-end smartphone. It’s a 9x to 10x reduction in memory versus the original.\nPrismML was founded by a group of Caltech researchers and is led by Hassibi, a Caltech professor and an expert in compression technologies. The startup also counts Ion Stoica as an adviser. Stoica is a co-founder of Databricks (and other companies) and the director of Berkeley’s famed Sky Computing Lab, which has birthed many technologies and startups, from Letta to SGLang.\nPrismML is also backed by investors Khosla Ventures, Cerberus Capital, and Caltech.\nThis startup is certainly not the only company working on LLM compression tech. Multiverse Computing, founded by a well-known professor from Spain’s Donostia International Physics Center, is another. (And Multiverse Computing has raised gobs of cash.)\nBut Hassibi says that PrismML’s compression tech is unique because its LLMs have lost virtually no performance compared with the originals. Bonsai 2 matches 98% of Qwen’s aggregate benchmark scores. That’s up from the first Bonsai, released a couple of months ago in March, that matched 95%. That original model has already been downloaded over 11 million times, and PrismML’s even smaller models have been downloaded another 2.6 million times, the company says.\nSo this shows that PrismML’s compression results have improved from one release to the next. Whether it could ever get to 100% benchmark performance parity is a question that remains to be seen. Compression will likely always have some impact, Hassibi says.\nStill, perfect benchmark parity is fairly academic anyway. LLMs are not so accurate in their uncompressed form, and benchmarks not so perfectly reflective of actual tasks, that a 2% degradation would likely meaningfully affect how a model performs in actual use. (Plus, the surrounding software — the harness a model runs inside of — matters a lot when it comes to accuracy, too.)\nPrismML says it achieves this by shrinking the “weights” that make up a model — weights are, essentially, the information a model learns and stores during training. Normally, each weight requires 16 bits. PrismML’s approach, called “ternary” weights, simplifies that down to three: +1, −1, or 0. With far smaller values to store for each weight, the model takes up dramatically less space. (For a deeper dive on the compression technique, here’s the project’s Hugging Face page.)\nThe startup’s next goal is to apply this compression technique to even bigger models. “The next models that we will release, hopefully in the next couple of months, will be in the several-hundred-billion-parameter range, and I expect it will be easier to retain the intelligence there,” Hassibi told TechCrunch.\nAs model size grows, he added, “There is more room to be able to compress them without losing the intelligence. So I would just say, as a general trend, for larger models, it’s easier to get to 100%.”\nStoica tells us that he’s excited for this tech because it’s making it possible for advanced models to run on users’ devices. “You are going to have intelligence at your fingertips, and it’s going to be free because it’s going to run on the device you already bought. It’s also going to be private, because you’re not going to send it to the cloud.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "PrismML hopes its tiny LLM will change how we all use AI",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/09/LLMs-on-smartphones.png?w=150"
+      ],
+      "datePublished": "2026-09-17T22:34:09.000Z",
+      "dateModified": "2026-09-17T22:34:09.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "UN turns to Google to make its global data ready for AI agents",
+    "url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2196352264.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-09-17T20:00:00.000Z",
+    "description": "\nThe United Nations on Thursday announced that it is working with Google to make its vast collection of global statistics easier for AI systems to acc",
+    "body": "\nThe United Nations on Thursday announced that it is working with Google to make its vast collection of global statistics easier for AI systems to access and use.\nCalled the UN System Data Commons, the new system is built on Google’s open source Data Commons platform and lets people search for statistics from across UN agencies using natural-language queries. It replaces the existing UNData portal, where users largely had to browse and search for statistics through a more traditional database interface. The new platform also supports the Model Context Protocol (MCP), a standard that allows AI systems to connect directly to external data sources.\nUsers increasingly turn to AI tools for answers, but many systems still struggle to reliably surface authoritative data. A UNICEF benchmark of six large language models across more than 133,000 responses to questions about global development indicators produced an average accuracy score of just 21.2%, João Pedro Azevedo, the agency’s chief statistician, told reporters in a virtual briefing.\nThe test covered OpenAI’s GPT-4o and GPT-4o-mini, Anthropic’s Claude Sonnet 4.5 and Haiku 4.5, and Google’s Gemini 2.5 Flash and Gemini 2.0 Flash, Azevedo told TechCrunch.\nAbout three in five responses did not provide a usable number at all, often because the models hedged their answers, Azevedo said. However, when the same questions were run again on the same model versions about two days later, models that provided a number both times returned the identical number only about half the time.\nThe study is a UNICEF working paper being prepared for journal submission and has not yet been peer-reviewed. The organization said it plans to release its methodology, code, and data alongside the paper.\nUNICEF has also seen a sharp rise this year in traffic from generative AI assistants to its data website, which receives more than 6 million visits a month and is among the agency’s most popular websites. Visits from users clicking links in ChatGPT answers to the site rose 67% year-over-year between January 1 and September 14, Azevedo told TechCrunch. Such referrals accounted for 6.4% of all sessions this year, while UNICEF estimates that AI assistants overall now account for about one in 10 visits.\nThe UN said 26 of its entities have committed to the Data Commons, with data from nearly 20 available at launch. Moreover, it aims to bring 80% of the UN system’s statistical datasets onto the platform by 2027.\nUN System Data Commons.Image Credits:Google\n“We are orders of magnitude more advanced in scale, scope, and flexibility, connecting for the first time across so many agencies across the UN system,” said Shantanu Mukherjee, acting director of the UN Statistics Division. “And [we are] taking this moment to also make our data AI-ready.”\nGoogle.org provided $2 million in capacity-building funding and technical support to establish the platform’s core infrastructure. Prem Ramaswami, who leads Google’s Data Commons team, told TechCrunch that the system is hosted on a UN-governed instance and is intended to eventually be maintained, operated, and scaled independently by the UN.\n“We have taken a “train-the-trainer” approach throughout the rollout, and we have already seen the UN system team ramp up quickly,” Ramaswami said.\nGoogle launched Data Commons in 2018 as an effort to organize public datasets from different sources into a common framework. Last year, it added support for MCP, allowing AI agents to directly query Data Commons for statistics and their sources.\nThe UN’s platform also keeps track of where each statistic comes from, so people can trace data retrieved by an AI system back to the original UN source. Azevedo told reporters that it was important as more people rely on AI tools to find and interpret information.\nAlongside enabling AI agents to retrieve individual statistics, Google demonstrated how an AI system connected to the UN data through MCP could pull together multiple indicators and use them to generate dashboards, charts, and written analysis without a user having to manually find and combine the underlying datasets.\nIn one demonstration, Google asked an AI system to find the impact of the U.S. President’s Emergency Plan for AIDS Relief in Africa. The system identified relevant UN statistics on measures such as HIV infections, AIDS mortality, and life expectancy, and used them to produce an infographic.\nHowever, giving an AI system authoritative data does not necessarily make its conclusions authoritative. “Because models can misinterpret nuance, a human should always review the outputs before citing or publishing them,” Ramaswami said.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "UN turns to Google to make its global data ready for AI agents",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2196352264.jpg?w=150"
+      ],
+      "datePublished": "2026-09-17T20:00:00.000Z",
+      "dateModified": "2026-09-17T20:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Even the king of England has his hesitations about AI",
     "url": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/JONATHAN-BRADY.jpg?w=150",
@@ -316,56 +366,6 @@
       ],
       "datePublished": "2026-09-17T17:26:25.000Z",
       "dateModified": "2026-09-17T17:26:25.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
-    "url": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
-    "image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-937980652.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-09-17T13:46:16.000Z",
-    "description": "\nText-based AI assistants are a hot market, with Instinct, Wajo, Town, Ollie, and Meta’s Muse agent, which launched last week, vying for users’ attent",
-    "body": "\nText-based AI assistants are a hot market, with Instinct, Wajo, Town, Ollie, and Meta’s Muse agent, which launched last week, vying for users’ attention and tasks. San Francisco-based Instinct is one of the most popular of the lot, attracting huge investor interest at what is reportedly a $10 billion valuation.\nInstinct’s popularity may now grow even further, as it’s added a new calling feature that lets your agent place calls and act as a concierge. Meta’s Muse, another serious contender in this battle, has also done the same. \nInstinct’s founder Noah Shinn announced on X that the buzzy startup’s new calling feature, Instinct Concierge, can do things like book restaurants that don’t take online reservations, get on your dentist’s cancellation list, or sort out problems with your cable bill. The feature is rolling out in early access to some users, with plans to expand to all users in time, he said.\n\nYour Instinct can now handle phone calls.Introducing Instinct Concierge – a white glove service meant to handle high-touch cases, such as making phone calls, high-end service booking, and more. You’ll be able to book the restaurant that doesn’t take online reservations, get on… pic.twitter.com/vGVnAJ1MF1— Noah Shinn (@noahrshinn) September 16, 2026\n\nThough Instinct is shipping fast, Meta’s Muse AI assistant is keeping up. It also just gained the ability to place calls to U.S. businesses. The tech giant said the feature will first roll out to users who ask Muse to make a call. (This essentially serves as a feature request mechanism, and Meta said that whenever Muse launches new features, they’ll be available first to people who ask Muse about them.)\nThese calling features arrive as a number of rivals had been touting their ability to make calls as an advantage over Instinct; but with Instinct’s Concierge feature rollout, they’re all now in parity with each other on this front. \n\nwe just expanded the @Muse beta for outbound calls to US businesses, prioritizing folks who'd asked their Muse to let us know they wanted it first :)if you're in, give it a shot and tell us what you think. phone calling was one of our top requests and your feedback helped make…— Ryan Fox (@wailord) September 16, 2026\n\nLast week, Instinct also rolled out email addresses to let Instinct handle account sign-up and management. The company additionally now allows its users’ assistants to contact other people’s assistants for managing certain tasks, by adding those users to a trusted network.\nBoth Instinct and Muse have seen great traction over the last few weeks. Instinct raised $350 million at a $2.5 billion valuation last month, and it is reportedly in talks to raise $1 billion at a $10 billion valuation, with investors showing heavy interest in text-based assistants that can navigate different surfaces for users.\nAnalytics firm Sensor Tower noted that Muse outgrew the Meta AI app launch in the first few days. The app garnered over 730,000 downloads in the U.S., compared to the Meta AI app, which was downloaded 707,000 times post-launch in the first five days. The app even reached the No. 2 position in the top charts at one point.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\n\tView Bio \n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-937980652.jpg?w=150"
-      ],
-      "datePublished": "2026-09-17T13:46:16.000Z",
-      "dateModified": "2026-09-17T13:46:16.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
-    "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/12/Energy-sector-Getty.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-09-17T13:38:33.000Z",
-    "description": "\nGrid software unicorn Emerald AI has formed a coalition with Google and Nvidia that will use the startup’s technology to secure space on the grid for",
-    "body": "\nGrid software unicorn Emerald AI has formed a coalition with Google and Nvidia that will use the startup’s technology to secure space on the grid for more data centers.\nThe AI Energy Management Alliance (AEMA) hopes to make demand response — a paradigm in which data centers temporarily reduce their electricity use — an integral part of data center development. Pausing noncritical tasks and shifting some compute loads, AEMA says, could allow an additional 100 gigawatts of data centers to connect to the grid.\nThe founding trio is joined by Anthropic, and a range of utilities including AES, Constellation, National Grid, and NRG Energy.\nDemand response is an old concept that has been used by utilities for decades. It works because the grid is designed with peak loads in mind. For much of the year, demand is well below the maximum the grid can support.\nTraditionally, demand response covered large electricity users like factories, which in times of high demand would agree to reduce their usage, typically by pausing production or switching to backup generators. In exchange, the utility would pay them for the service, often handsomely.\nToday, data centers can also take advantage of those programs, usually by turning on backup generators. \nEmerald AI has been proposing an alternative to dirty diesel generators. The company’s software coordinates requests from utilities with data centers, which can pause noncritical tasks or shift loads to other data centers where the grid has some headroom. \nThe startup isn’t the only one working on such technology. Google has been developing its own tools, and Enel X lets data centers tap their uninterruptible power supplies to round off peaks in power demand. Limiting max grid usage to 90% for a few hours at a time could let data centers free up 76 gigawatts of capacity, according to a study by Goldman Sachs published last year.\nEmerald AI does have an advantage, though. Its software connects utilities directly to data centers, which should allow data centers to respond quickly to requests, much like batteries. The startup also recently raised $150 million in a Series A led by Energize Capital and DCVC, giving it the sort of funding needed to roll out the technology on a wider scale. \nGiven the peaky nature of AI compute loads, and data centers’ ability to quickly ramp up and down, the creation of something like AEMA is overdue. The coalition also promises to help tech companies and utilities find new sites for data centers, an effort that hasn’t been easy for either party.\nDespite its promise, more sophisticated demand response won’t solve all of the grid’s problems today. Ayse Coskun, Emerald AI’s chief scientist, told TechCrunch that her company’s technology promises to blunt the industry’s need for new generating sources, but it won’t eliminate it entirely.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tTim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor. \r\nDe Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.\r\nYou can contact or verify outreach from Tim by emailing tim.dechant@techcrunch.com.\t\n\n\tView Bio \n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/12/Energy-sector-Getty.jpg?w=150"
-      ],
-      "datePublished": "2026-09-17T13:38:33.000Z",
-      "dateModified": "2026-09-17T13:38:33.000Z",
       "author": [
         {
           "@type": "Person",
