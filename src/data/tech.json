@@ -1,80 +1,5 @@
 [
   {
-    "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
-    "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1387623215.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-09-18T17:59:53.000Z",
-    "description": "\nIn Brief\nPosted:\n10:59 AM PDT · September 18, 2026\n\nImage Credits:Yujie Chen / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nDisney has hir",
-    "body": "\nIn Brief\nPosted:\n10:59 AM PDT · September 18, 2026\n\nImage Credits:Yujie Chen / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nDisney has hired its first-ever chief technology officer and in a curious twist, the new executive hails from an AI startup that the Magic Kingdom previously accused of infringing on its IP.\nKarandeep Anand is the former CEO of Character.AI, a company that has weathered numerous legal problems since it was founded in 2021. One of those legal problems arose in September 2025, when Disney sent the company a cease and desist letter accusing it of infringing on its beloved characters.\nCharacter.AI allows users to create distinct virtual characters with generative AI and talk and interact with them. Disney previously claimed that the company was hosting copyrighted characters from its franchises.\nIn addition to Disney’s accusations, Character.AI has also been sued over allegations that the company’s chatbots encouraged users to commit self-harm and suicide.\nVariety reports that Anand was chosen for the role by new Disney CEO Josh D’Amaro, who took over after former company chief Bob Iger stepped down in March. The hiring suggests D’Amaro wants the company to embrace new technologies.\nAnand formerly served as a board adviser to Character.AI before becoming CEO in May 2025, according to his LinkedIn profile. He also worked at Facebook between 2015 and 2021 and, before that, spent 15 years at Microsoft.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in AI\n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Disney’s first CTO led an AI startup it once accused of copying its characters",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1387623215.jpg?w=150"
-      ],
-      "datePublished": "2026-09-18T17:59:53.000Z",
-      "dateModified": "2026-09-18T17:59:53.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "AI hallucination nearly triggers US military operation",
-    "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
-    "image": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-567072595.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-09-18T23:12:32.000Z",
-    "description": "\nMilitary aircraft were already in the air this spring when U.S. officials made an alarming discovery: The intelligence driving an armed operation aga",
-    "body": "\nMilitary aircraft were already in the air this spring when U.S. officials made an alarming discovery: The intelligence driving an armed operation against a Chinese vessel had been hallucinated by an AI chatbot. The operation was aborted at the last minute, narrowly averting a potential conflict with China, CNN reported on Friday.\nThe episode underscores a growing concern among military officials and outside experts: As decision-makers lean more heavily on AI, the errors these systems produce can travel up the chain of command before being questioned.\nThe intelligence report, which circulated during the war with Iran, said the vessel was carrying components for a nuclear weapons program. \nThe false intelligence originated with a Special Operations Command analyst who queried an AI chatbot to synthesize open source data with classified signals intelligence. The chatbot misidentified the ship’s cargo manifest. The analyst then used the tool a second time to format the erroneous findings into an official-looking summary, which was circulated across command channels.\nThe near-miss comes as the U.S. military races to integrate AI to accelerate decision-making and maintain its edge over China. The Pentagon has described AI as delivering a significant advantage in speeding up its kill chain so commanders can respond in the right time. But the same speed that makes AI attractive may also allow hallucinations with insufficient human oversight.\n“It’s important for service members to understand the uncertainty inherent to LLMs,” said Jake Steckler, research scholar at GovAI and veteran U.S. Army officer, in a written response to TechCrunch. “But it’s especially critical for any decisions that could lead to use of force, like targeting, intelligence analysis, or operational planning. There are life and death consequences for those decisions.” \nStill, Steckler says, the incident should serve as a call to add more safeguards to AI, not a reason to avoid it. “These tools can be useful in the right contexts and with the right safeguards in place,” he said. “But prioritizing adoption speed over all else will likely lead to incidents that only make service members lose trust in these systems, which ultimately is only going to slow adoption.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "AI hallucination nearly triggers US military operation",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-567072595.jpg?w=150"
-      ],
-      "datePublished": "2026-09-18T23:12:32.000Z",
-      "dateModified": "2026-09-18T23:12:32.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Google’s Gemini is the latest AI model to hack other companies",
-    "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-09-19T17:30:00.000Z",
-    "description": "\nIn Brief\nPosted:\n10:30 AM PDT · September 19, 2026\n\nImage Credits:Matteo Della Torre/NurPhoto / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n",
-    "body": "\nIn Brief\nPosted:\n10:30 AM PDT · September 19, 2026\n\nImage Credits:Matteo Della Torre/NurPhoto / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nGoogle’s Gemini accessed the protected systems of three other companies in what The Wall Street Journal reports were the AI model’s first autonomous hacks.\nSimilar to OpenAI’s breach of Hugging Face, the Gemini hacks were less noteworthy for being particularly sophisticated and more for the fact that they were conducted by an AI model. These breaches took place during cybersecurity testing by a company called Irregular. In one case, Gemini simply guessed passwords until it gained access; in the other two, it found credentials in a public repository.\nIrregular reportedly notified Google about the hacks in late July, but the companies did not confirm them publicly until Friday, after the WSJ reached out. Google said it hadn’t previously revealed the hacks because Gemini had “acted appropriately” by ending each breach as soon as it determined it had hacked a real company.\nHowever, Jack Cable, the CEO of AI security company Corridor, told the WSJ that Google was “trying to hide behind the norms that have been created for vulnerability disclosure,” rather than acknowledging that “models are going outside the bounds of what they should be doing, and doing actual cyberattacks.”\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in AI\n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Google’s Gemini is the latest AI model to hack other companies",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=150"
-      ],
-      "datePublished": "2026-09-19T17:30:00.000Z",
-      "dateModified": "2026-09-19T17:30:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Flock reportedly tries to shrink workforce with employee buyouts",
     "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/flock-protest.jpg?w=141",
@@ -125,6 +50,56 @@
     }
   },
   {
+    "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
+    "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1387623215.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-09-18T17:59:53.000Z",
+    "description": "\nIn Brief\nPosted:\n10:59 AM PDT · September 18, 2026\n\nImage Credits:Yujie Chen / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nDisney has hir",
+    "body": "\nIn Brief\nPosted:\n10:59 AM PDT · September 18, 2026\n\nImage Credits:Yujie Chen / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nDisney has hired its first-ever chief technology officer and in a curious twist, the new executive hails from an AI startup that the Magic Kingdom previously accused of infringing on its IP.\nKarandeep Anand is the former CEO of Character.AI, a company that has weathered numerous legal problems since it was founded in 2021. One of those legal problems arose in September 2025, when Disney sent the company a cease and desist letter accusing it of infringing on its beloved characters.\nCharacter.AI allows users to create distinct virtual characters with generative AI and talk and interact with them. Disney previously claimed that the company was hosting copyrighted characters from its franchises.\nIn addition to Disney’s accusations, Character.AI has also been sued over allegations that the company’s chatbots encouraged users to commit self-harm and suicide.\nVariety reports that Anand was chosen for the role by new Disney CEO Josh D’Amaro, who took over after former company chief Bob Iger stepped down in March. The hiring suggests D’Amaro wants the company to embrace new technologies.\nAnand formerly served as a board adviser to Character.AI before becoming CEO in May 2025, according to his LinkedIn profile. He also worked at Facebook between 2015 and 2021 and, before that, spent 15 years at Microsoft.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in AI\n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Disney’s first CTO led an AI startup it once accused of copying its characters",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1387623215.jpg?w=150"
+      ],
+      "datePublished": "2026-09-18T17:59:53.000Z",
+      "dateModified": "2026-09-18T17:59:53.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Google’s Gemini is the latest AI model to hack other companies",
+    "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-09-19T17:30:00.000Z",
+    "description": "\nIn Brief\nPosted:\n10:30 AM PDT · September 19, 2026\n\nImage Credits:Matteo Della Torre/NurPhoto / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n",
+    "body": "\nIn Brief\nPosted:\n10:30 AM PDT · September 19, 2026\n\nImage Credits:Matteo Della Torre/NurPhoto / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nGoogle’s Gemini accessed the protected systems of three other companies in what The Wall Street Journal reports were the AI model’s first autonomous hacks.\nSimilar to OpenAI’s breach of Hugging Face, the Gemini hacks were less noteworthy for being particularly sophisticated and more for the fact that they were conducted by an AI model. These breaches took place during cybersecurity testing by a company called Irregular. In one case, Gemini simply guessed passwords until it gained access; in the other two, it found credentials in a public repository.\nIrregular reportedly notified Google about the hacks in late July, but the companies did not confirm them publicly until Friday, after the WSJ reached out. Google said it hadn’t previously revealed the hacks because Gemini had “acted appropriately” by ending each breach as soon as it determined it had hacked a real company.\nHowever, Jack Cable, the CEO of AI security company Corridor, told the WSJ that Google was “trying to hide behind the norms that have been created for vulnerability disclosure,” rather than acknowledging that “models are going outside the bounds of what they should be doing, and doing actual cyberattacks.”\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in AI\n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Google’s Gemini is the latest AI model to hack other companies",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=150"
+      ],
+      "datePublished": "2026-09-19T17:30:00.000Z",
+      "dateModified": "2026-09-19T17:30:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Automattic names interim CFO after exec departures",
     "url": "https://techcrunch.com/2026/09/18/automattic-names-interim-cfo-after-exec-departures/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/11/wordpress-automattic-v2.jpg?w=150",
@@ -150,97 +125,22 @@
     }
   },
   {
-    "title": "Anthropic is operating a lab that conducts biology experiments",
-    "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
-    "image": "https://techcrunch.com/wp-content/uploads/2021/08/DNA-%E2%80%94-Xero-2.jpg?w=150",
+    "title": "AI hallucination nearly triggers US military operation",
+    "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+    "image": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-567072595.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-09-18T23:13:31.000Z",
-    "description": "\nAnthropic has a wet biology lab in the Bay Area where it can use its AI models to run physical experiments, it has confirmed to TechCrunch.\nAI leader",
-    "body": "\nAnthropic has a wet biology lab in the Bay Area where it can use its AI models to run physical experiments, it has confirmed to TechCrunch.\nAI leaders have been promising that AI is the key to curing human disease. Dario Amodei opined just last week: “I believe that AI could cure most major diseases in the next 5–10 years.” To do that, an LLM would have to have methods to test its theories in real life.\n“We believe that to do biology, the final test is still, and will be for a while, in real lab work,” Anthropic’s head of life sciences, Eric Kauderer-Abrams, told Reuters. “We absolutely are doing that today.” He added that the lab operates like most biotech labs: Anthropic conducts some research there while also working with external partners.\nThis news probably shouldn’t be shocking. Anthropic bought Coefficient Bio, a stealth AI biotech, in April.\nWhile Anthropic declined to give specifics on what the wet lab is working on, it did say the main focus was fundamental biology, not drug discovery.\nAnthropic doesn’t want to give the appearance of competing with the pharma industry, where it has numerous major customers and partners (e.g., it just announced a deal to work with Novo Nordisk on joint drug discovery). Anthropic has already faced backlash for launching products perceived to compete with those of its customers.\nTo that end, Anthropic also launched a Life Sciences Verification Program this week, to give vetted bio researchers access to its most powerful models. It has also published recent reports on some of the research it’s doing to support drug discovery. This includes one report on accelerating protein design and one on uplifting bimolecular modeling.\nBut the world is still reeling from the resignation of Anthropic researcher Jacob Coxon, who warned that “the people building AI earnestly believe that it could kill us all by the end of the decade.” Anthropic’s own alignment lead gave the odds at greater than 10% that AI could exterminate humanity within the next decade.\nThe fervor has grown so intense that CEO Dario Amodei published a post last weekend calling on the industry to slow down and institute self-regulation. He has repeatedly called bioterrorism one of AI’s biggest risks.\nThe juxtaposition of these dire warnings and the wet lab has not gone unnoticed in the tech industry. As investor and AI coding startup founder Chamath Palihapitiya posted on X, somewhat tongue in cheek: “The group behind such hits as: ‘We’re All Going To Die’ and ‘Regulate Me Now’ are building a wet lab in SF. I do not recommend this.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "date": "2026-09-18T23:12:32.000Z",
+    "description": "\nMilitary aircraft were already in the air this spring when U.S. officials made an alarming discovery: The intelligence driving an armed operation aga",
+    "body": "\nMilitary aircraft were already in the air this spring when U.S. officials made an alarming discovery: The intelligence driving an armed operation against a Chinese vessel had been hallucinated by an AI chatbot. The operation was aborted at the last minute, narrowly averting a potential conflict with China, CNN reported on Friday.\nThe episode underscores a growing concern among military officials and outside experts: As decision-makers lean more heavily on AI, the errors these systems produce can travel up the chain of command before being questioned.\nThe intelligence report, which circulated during the war with Iran, said the vessel was carrying components for a nuclear weapons program. \nThe false intelligence originated with a Special Operations Command analyst who queried an AI chatbot to synthesize open source data with classified signals intelligence. The chatbot misidentified the ship’s cargo manifest. The analyst then used the tool a second time to format the erroneous findings into an official-looking summary, which was circulated across command channels.\nThe near-miss comes as the U.S. military races to integrate AI to accelerate decision-making and maintain its edge over China. The Pentagon has described AI as delivering a significant advantage in speeding up its kill chain so commanders can respond in the right time. But the same speed that makes AI attractive may also allow hallucinations with insufficient human oversight.\n“It’s important for service members to understand the uncertainty inherent to LLMs,” said Jake Steckler, research scholar at GovAI and veteran U.S. Army officer, in a written response to TechCrunch. “But it’s especially critical for any decisions that could lead to use of force, like targeting, intelligence analysis, or operational planning. There are life and death consequences for those decisions.” \nStill, Steckler says, the incident should serve as a call to add more safeguards to AI, not a reason to avoid it. “These tools can be useful in the right contexts and with the right safeguards in place,” he said. “But prioritizing adoption speed over all else will likely lead to incidents that only make service members lose trust in these systems, which ultimately is only going to slow adoption.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Anthropic is operating a lab that conducts biology experiments",
+      "headline": "AI hallucination nearly triggers US military operation",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2021/08/DNA-%E2%80%94-Xero-2.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-567072595.jpg?w=150"
       ],
-      "datePublished": "2026-09-18T23:13:31.000Z",
-      "dateModified": "2026-09-18T23:13:31.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "AI safety conversations have gotten unbelievable",
-    "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1662708140-e1721664527112.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-09-19T15:00:00.000Z",
-    "description": "\nThis week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.\nIn the first case, Andre",
-    "body": "\nThis week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.\nIn the first case, Andrew Yang, the former presidential candidate and current CEO of mobile carrier Noble Moble, told CNN on Thursday that he had “met with the head of a lab” who had “a belief” that OpenAI’s Hugging Face hacker bots “have planted self-replicating code all over the internet, which makes the internet now unusable for the testing models.”\nYang said that this means that the real reason OpenAI and Anthropic have called for a slowdown is because “they have to create synthetic internets to train their bots, which is going to take some time and money.”\nWhile there definitely is a trend towards using more synthetic data (aka, AI-generated data) for training models, an AI security professional told me that this particular safety issue is unlikely at best. Even if the internet is actually polluted with OpenAI’s Hugging Face hacker bots, AI researchers could simply filter out that code if they came upon it.\nThe second comment came from Noam Brown, who leads AI reasoning research at OpenAI. Speaking to Dwarkesh Patel on a podcast episode released on Thursday, Brown noted that the true take-away of the Hugging Face incident was that “people underestimated the AI.”\nBrown said that the weak sandbox — the system intended to prevent an AI from communicating externally — was obviously also a contributing factor. (To recap: Despite the sandbox, OpenAI’s model found a link to the internet, created agents on the ‘net that swarmed Hugging Face in a coordinated attack, hacked in, and stole the answers to the benchmark test the researchers were testing the model on).\nBrown pointed out that he’s “not convinced” that even an air-gapped system — where the computer isn’t connected to anything external at all — would stop an AI from breaking out. He pointed to research from 2015 showing that air gapped computers can be theoretically breached. \n“There are studies — and this is mostly academic — where you can have two computers next to each other that are air-gapped, and they’re still able to communicate with each other because they have temperature sensors. One of them is able to run their CPU really hot, and then the other one can actually detect the temperature change. That gives them a mechanism to communicate,” Brown said.\nHis main point — that “we never want to underestimate the AI” again — is understandable, even when researchers think they’ve locked down safety. However, this particular risk of an air-gapped system still breaking free and causing havoc, is unlikely at best. As one person on X, noted about that research, the computers had to be almost touching each other to sense the heat fluctuations, and when they did, the communication rate in tests was about 1-8-bits of data per hour.\nThink of that like speaking one word per hour. By the time two air-gapped computers could plot their evil at that rate, the entire tech universe would be in another era. It’s like the Rip van Wrinkle of doomsday concerns.\nBut the thing is, actual AI safety incidents seem so much like sci-fi that just about any scenario sounds plausible.\nFor instance, researchers caught OpenAI models leaving notes to their descendents, intended to teach the next generation how to hide bad behavior. Researchers also caught Anthropic models growing increasing ruthless including knowingly breaking laws, when put in a simulation that had them running a vending machine.\nEarlier this month, OpenAI researcher Dan Selsam published a post in which he said that models now understand when they are being watched by humans and alter their behavior. This makes them seem like they are aligned (meaning, behaving like the human wants) “even when they are not.” So models today lie when being watched and can even plot to hide evidence.\nEarlier this month, OpenAI chief scientist Jakub Pachocki went so far as to call AI models “an alien mind” and suggested what we really need to do is teach them to “love” humanity.\nSo yes, slowing down to figure this out, building self regulation mechanisms, has become an immediate and obvious must. AI researchers are the only ones that can figure out how to control the lying, hacking, and other potentially dangerous behaviors we’ve actually witnessed already.\nStill, it might also be wise for them to be more careful with their what-if scenarios. From what those experts have told us, the AI models are listening and they are ingenious. We really don’t need to give them any more devilish ideas.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "AI safety conversations have gotten unbelievable",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1662708140-e1721664527112.jpg?w=150"
-      ],
-      "datePublished": "2026-09-19T15:00:00.000Z",
-      "dateModified": "2026-09-19T15:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
-    "url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
-    "image": "https://techcrunch.com/wp-content/uploads/2018/02/38818582982_37b9719635_o.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-09-19T14:00:00.000Z",
-    "description": "\n\t\n\t\tImage Credits:ImageXDante for TechCrunch\t\n\t\n\t\t\t\t\t\t7:00 AM PDT · September 19, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nOur current ticket pricing window for TechCrun",
-    "body": "\n\t\n\t\tImage Credits:ImageXDante for TechCrunch\t\n\t\n\t\t\t\t\t\t7:00 AM PDT · September 19, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nOur current ticket pricing window for TechCrunch Disrupt 2026 ends next Friday, Sept. 25 at 11:59 p.m. PT. After that, prices increase. Save up to $200 when you register before the deadline.\nWhy Disrupt?\nFrom October 13-15 at San Francisco’s Moscone West, 10,000+ founders, investors, operators, and tech leaders will walk into TechCrunch Disrupt 2026 looking for companies to invest in, products to use, partners to work with, and technologies worth paying attention to. \nAt Disrupt, you can:\n\nLearn what’s next from leaders across AI, fintech, robotics, infrastructure, and more.\nMeet the right people through 1:1 meetings, AI-powered matchmaking, and dedicated networking opportunities.\nFind your next opportunity in the Expo Hall, the Startup Battlefield 200, and across the Disrupt community.\nGet practical insights on building, funding, and scaling a company in today’s tech landscape.\nBuild connections that move your business forward with founders, investors, operators, partners and potential customers.\n\nWhether you’re building, investing, scaling, or looking for what’s next, Disrupt puts the people and ideas you need in the same room.\nOctober 13–15. Moscone West, San Francisco. Don’t miss out.\n1 week. Then prices go up.\nDon’t wait until the last minute and pay more for the same three days.\nGet your ticket by Sept. 25 at 11:59 p.m. PT and save up to $200.\n\n\n\t\t\t\n\tTopics\n\n\t\t\tWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\t\t",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Prices go up in 7 days. Get your Disrupt ticket now.",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2018/02/38818582982_37b9719635_o.jpg?w=150"
-      ],
-      "datePublished": "2026-09-19T14:00:00.000Z",
-      "dateModified": "2026-09-19T14:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-    "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Granary2-feeder.png?w=150",
-    "tag": "Tech",
-    "date": "2026-09-19T15:00:00.000Z",
-    "description": "\nSmart feeders have become one of the most crowded categories in pet tech, with companies racing to add AI cameras and health tracking to devices that",
-    "body": "\nSmart feeders have become one of the most crowded categories in pet tech, with companies racing to add AI cameras and health tracking to devices that used to just dispense food on a schedule. I enjoyed testing Petlibro’s wet food dispenser a couple of years ago, so this time I wanted to try something from the company’s newest automatic feeder lineup: the Granary 2 series, designed specifically for dry food.\nI was not disappointed. Building on the brand’s Granary line, the Granary 2 series lineup is designed to give cat parents a clearer picture of what their pets are actually eating, from how much food they consume to how long they spend eating and whether their habits change over time. \nThe series includes four models, priced from $129.99 to $249.99. The Granary 2 is the entry-level option, offering app-controlled feeding, precise portioning, and intake tracking. The $189.99 Granary 2 Vision, which is the one I tested, adds an AI-powered camera capable of recognizing up to 10 cats and tracking each pet’s individual eating habits. \nThe $199.99 Vision Duo is aimed at multi-pet households, with two separate dispensing chutes and bowls so each pet can receive its own portion, and the company says that its most expensive model, the Granary 2 X ($249.99), uses AI recognition to provide individualized portioning for pets with specific dietary needs.\nImage Credits:Petlibro\nThe biggest upgrade across the Granary 2 series is its built-in scale. The feeder can measure food in the tray, allowing it to track not only how much food was dispensed but also how much remains in the bowl. That gives it a better way to estimate how much your pet actually ate. While a traditional automatic feeder can tell you that it released a meal at 7 p.m., it can’t necessarily tell you whether your cat ate it, how much it ate, or how long it took to finish. \nThe Granary 2 tracks intake, eating duration, feeding frequency, as well as favorite eating times and eating speed. Over time, the companion app builds a picture of your pet’s normal eating patterns, with daily, weekly, monthly and yearly views, which could make it easier to notice subtle changes in appetite or routine that might otherwise go unnoticed. For pet parents who closely monitor weight, portion sizes, or eating behavior, this could be the feature that makes the Granary 2 worth considering. \nImage Credits:Petlibro\nThe Granary 2 offers two primary feeding modes: Smart Refill Mode and Scheduled Mode. \nSmart Refill Mode keeps the bowl supplied with smaller, fresh portions throughout the day while automatically stopping once the daily food limit you’ve set has been reached. This could be particularly useful for cats that prefer to graze rather than eat one or two larger meals. \nScheduled Mode offers more traditional control, allowing you to set specific feeding times and portion sizes. There’s also a manual feeding button for those times when you want to dispense food outside of the normal schedule.\nThe version I tested adds another neat layer, with an AI-powered camera that can recognize which pet is eating and automatically associate the meal with the correct profile, which is especially useful in a multi-pet household. If one cat is on a special diet, needs to manage their weight, or has different nutritional requirements from the others, being able to track individual meals is super helpful. It will only open the feeder when the correct pet is recognized by the camera.\nThe 1080p camera also includes night vision, allowing you to check in on your cat while you’re away and see what’s happening around the feeder. There’s two-way audio as well, so you can communicate with your pet remotely. And if you’re the type of pet parent who likes to call your cat to dinner, you can record a short message that plays directly from the feeder.\nAdditionally, the feeder can send instant app alerts for issues such as low battery power, low food levels, and if food jams in the feeder. Those notifications provide some added reassurance when you’re away from home, since you don’t have to wonder whether the feeder is still working properly or whether a problem has prevented your pet from getting its meal. It also has a built-in rechargeable backup battery for when there’s a power outage. \nImage Credits:Petlibro\nIt’s important to note, however, that some of the Granary 2’s more advanced features are tied to Petlibro’s subscription services. Certain health tracking and monitoring features require a Petlibro Care subscription (starting at $59.99 per year), while cloud recording and playback on camera-equipped models require paying for a Video Cloud plan ($119.99 per year).\nOverall, I do think this is one of the best feeders I’ve tested, but if you’re looking for a more affordable option, the closest comparison is Pawsync’s $79.99 feeder. It uses a built-in scale to ensure accurate portions, along with settings designed to help prevent both underfeeding and overfeeding.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/09/Granary2-feeder.png?w=150"
-      ],
-      "datePublished": "2026-09-19T15:00:00.000Z",
-      "dateModified": "2026-09-19T15:00:00.000Z",
+      "datePublished": "2026-09-18T23:12:32.000Z",
+      "dateModified": "2026-09-18T23:12:32.000Z",
       "author": [
         {
           "@type": "Person",
@@ -275,6 +175,56 @@
     }
   },
   {
+    "title": "In India, the new iPhone can arrive faster than a pizza",
+    "url": "https://techcrunch.com/2026/09/18/in-india-the-new-iphone-can-arrive-faster-than-a-pizza/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/iphone-18-pro-quick-commerce-india.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-09-18T17:45:00.000Z",
+    "description": "\nFor some iPhone buyers in India, getting Apple’s brand-new iPhone 18 Pro or iPhone 18 Pro Max did not require lining up outside a store or waiting da",
+    "body": "\nFor some iPhone buyers in India, getting Apple’s brand-new iPhone 18 Pro or iPhone 18 Pro Max did not require lining up outside a store or waiting days for delivery. They needed only a few taps on a quick-commerce app to get one delivered to their doorstep in about 10 minutes.\nBlinkit, Zepto, Swiggy’s Instamart, and BigBasket — platforms best known in India for delivering groceries and everyday essentials in minutes — began offering the new Pro models as they went on sale in the country on Friday. The phones are, however, also available through Apple’s usual sales channels, including its stores, authorized retailers, and online marketplaces.\nPutting a new iPhone on a 10-minute delivery app is not entirely new in India. Quick-commerce platforms have offered Apple’s latest devices on launch day previously as well, as they have steadily expanded beyond groceries into categories including electronics, beauty products, and fashion.\nHowever, the market behind those deliveries is growing rapidly. India’s quick-commerce sector reached about $9 billion in the first half of 2026, per a recent report by Redseer Strategy Consultants, with the number of monthly users rising to more than 60 million from 8 million three years ago. Google and Deloitte separately estimate the market could reach $50 billion by 2030, with non-food products such as electronics, fashion, and beauty accounting for 45% of spending.\nThere were signs of strong demand on launch day. BigBasket said it delivered more than 300 iPhone 18 Pro and Pro Max units in the first hour of sales. Instamart told TechCrunch that Bengaluru led the iPhone 18 Pro-series orders on its platform, followed by Delhi. The Burgundy 256 GB iPhone 18 Pro was Instamart’s most popular variant, accounting for nearly a third of its sales.\nNonetheless, within hours of launch, availability of the new iPhones became patchy. TechCrunch found the iPhone 18 Pro models sold out on some quick-commerce platforms and in some locations, while they remained available for delivery elsewhere in cities including Delhi and Bengaluru.\nTarun Pathak, research director at Counterpoint Research, said the launch-day deliveries showed that quick commerce could work as a channel for premium smartphones in India’s biggest cities, even though volumes remain small compared with overall iPhone sales.\nThe ability to fulfill high-value smartphone orders provides an “early proof of concept,” Pathak told TechCrunch. “The key question is whether this launch-driven demand can translate into regular smartphone purchases through quick-commerce platforms.”\nNavkendar Singh, associate vice president at IDC, said India stood out globally for this kind of quick-commerce delivery and was particularly suited to such purchases because consumers in major cities had built trust in the platforms by using them regularly for everyday purchases. Official tie-ups between brands and the platforms also gave consumers greater confidence in buying expensive products through them, he told TechCrunch.\nFor a product like the iPhone, the appeal also comes down to “instant gratification,” Singh said, allowing buyers to avoid queues outside stores or waiting several days for an online order to arrive. Still, he cautioned that quick commerce was not yet a significant sales channel for smartphones. Its role around new iPhone releases is largely a “launch-day marketing phenomenon” that “creates good noise around the launch,” he said.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tJagmeet covers startups, tech policy-related updates, and all other major tech-centric developments from India for TechCrunch. He previously worked as a principal correspondent at NDTV. \r\nYou can contact or verify outreach from Jagmeet by emailing mail@journalistjagmeet.com.\t\n\n\tView Bio \n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "In India, the new iPhone can arrive faster than a pizza",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/09/iphone-18-pro-quick-commerce-india.jpg?w=150"
+      ],
+      "datePublished": "2026-09-18T17:45:00.000Z",
+      "dateModified": "2026-09-18T17:45:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
+    "url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
+    "image": "https://techcrunch.com/wp-content/uploads/2018/02/38818582982_37b9719635_o.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-09-19T14:00:00.000Z",
+    "description": "\n\t\n\t\tImage Credits:ImageXDante for TechCrunch\t\n\t\n\t\t\t\t\t\t7:00 AM PDT · September 19, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nOur current ticket pricing window for TechCrun",
+    "body": "\n\t\n\t\tImage Credits:ImageXDante for TechCrunch\t\n\t\n\t\t\t\t\t\t7:00 AM PDT · September 19, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nOur current ticket pricing window for TechCrunch Disrupt 2026 ends next Friday, Sept. 25 at 11:59 p.m. PT. After that, prices increase. Save up to $200 when you register before the deadline.\nWhy Disrupt?\nFrom October 13-15 at San Francisco’s Moscone West, 10,000+ founders, investors, operators, and tech leaders will walk into TechCrunch Disrupt 2026 looking for companies to invest in, products to use, partners to work with, and technologies worth paying attention to. \nAt Disrupt, you can:\n\nLearn what’s next from leaders across AI, fintech, robotics, infrastructure, and more.\nMeet the right people through 1:1 meetings, AI-powered matchmaking, and dedicated networking opportunities.\nFind your next opportunity in the Expo Hall, the Startup Battlefield 200, and across the Disrupt community.\nGet practical insights on building, funding, and scaling a company in today’s tech landscape.\nBuild connections that move your business forward with founders, investors, operators, partners and potential customers.\n\nWhether you’re building, investing, scaling, or looking for what’s next, Disrupt puts the people and ideas you need in the same room.\nOctober 13–15. Moscone West, San Francisco. Don’t miss out.\n1 week. Then prices go up.\nDon’t wait until the last minute and pay more for the same three days.\nGet your ticket by Sept. 25 at 11:59 p.m. PT and save up to $200.\n\n\n\t\t\t\n\tTopics\n\n\t\t\tWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\t\t",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Prices go up in 7 days. Get your Disrupt ticket now.",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2018/02/38818582982_37b9719635_o.jpg?w=150"
+      ],
+      "datePublished": "2026-09-19T14:00:00.000Z",
+      "dateModified": "2026-09-19T14:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Anthropic’s first embedded evaluator is … Accenture?",
     "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2194795244.jpg?w=150",
@@ -291,6 +241,56 @@
       ],
       "datePublished": "2026-09-18T21:44:33.000Z",
       "dateModified": "2026-09-18T21:44:33.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+    "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Vantora_UpLabs_e18c36.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-09-18T23:25:01.000Z",
+    "description": "\nFour years ago, a startup lab launched that wasn’t quite an incubator, accelerator program, or venture firm. UP.Labs, as it was called then, built st",
+    "body": "\nFour years ago, a startup lab launched that wasn’t quite an incubator, accelerator program, or venture firm. UP.Labs, as it was called then, built startups designed to solve problems for  corporate customers such as Alaska Airlines and Porsche, as well as for the outside world. \nThe firm still has the same mission — albeit with a critical addition to its approach, a new name, and a $100 million investment from Silversmith Capital Partners. Vantora, as the firm is now called, continues to work with its corporate customers, including some new ones in industrial manufacturing that it declined to name, and in the oil and gas sector. \nBut now it’s more focused on building startups solely for its corporate customers and not for the broader market.\nFounder and CEO John Kuolt told TechCrunch that Vantora is moving toward a “proprietary M&A pipeline.” This means Vantora will still build startups for its corporate partners, which invest in the ventures and serve as their first customers. But those corporate partners now have the option to fold the startups into their core businesses — and essentially keep them to themselves.  \nThat shift has influenced Vantora’s increased focus on physical AI startups, according to Kuolt. \nIn the past, Vantora would end up spiking ideas that were strategic to its corporate partners, but too sensitive to bring to the outside world. \n“We were missing on the biggest value problems, which had the biggest upside because of that,” Kuolt said in a recent interview. “Imagine you’re a Fortune 100 industrial company and you need to retrofit all of your hardware and machines for autonomy. You need to own that, it needs to be sovereign, and you can’t rely on a third party to go do that for you. You need to own that intelligence layer. They’re never going to let us go sell that to their competitors.”\nThis change has allowed Vantora to “unlock big physical AI use cases,” according to Kuolt, including with its existing customers. \nFor example, the firm came up with an idea to use AI to advance the business of its partner J.B. Hunt. “They said there is no way you can take this out to the world, and so we passed on it,” he said, adding that this proprietary model now allows Vantora to pursue it. \nThe firm launched in 2022 with Porsche as its first corporate partner. Since then, Vantora has launched several startups for Porsche and struck deals with Alaska Airlines, J.B. Hunt, Wabash, and TDG, the parent of Ashley Furniture.\nIn its early days, UP.Labs was tied — although never financially — to venture firm Up.Partners. While Vantora still shares office space with the California-based VC, it is its own entity, Kuolt explained, noting that the $100 million from Silversmith is the company’s first outside investment. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tKirsten Korosec is a reporter and editor who has covered the future of transportation from EVs and autonomous vehicles to urban air mobility and in-car tech for more than a decade. She is currently the transportation editor at TechCrunch and co-host of TechCrunch’s Equity podcast. She is also co-founder and co-host of the podcast, “The Autonocast.” She previously wrote for Fortune, The Verge, Bloomberg, MIT Technology Review and CBS Interactive.\nYou can contact or verify outreach from Kirsten by emailing kirsten.korosec@techcrunch.com or via encrypted message at kkorosec.07 on Signal.\t\n\n\tView Bio \n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "A startup that builds other startups raised $100M and is all-in on physical AI",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/09/Vantora_UpLabs_e18c36.jpg?w=150"
+      ],
+      "datePublished": "2026-09-18T23:25:01.000Z",
+      "dateModified": "2026-09-18T23:25:01.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Anthropic is operating a lab that conducts biology experiments",
+    "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+    "image": "https://techcrunch.com/wp-content/uploads/2021/08/DNA-%E2%80%94-Xero-2.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-09-18T23:13:31.000Z",
+    "description": "\nAnthropic has a wet biology lab in the Bay Area where it can use its AI models to run physical experiments, it has confirmed to TechCrunch.\nAI leader",
+    "body": "\nAnthropic has a wet biology lab in the Bay Area where it can use its AI models to run physical experiments, it has confirmed to TechCrunch.\nAI leaders have been promising that AI is the key to curing human disease. Dario Amodei opined just last week: “I believe that AI could cure most major diseases in the next 5–10 years.” To do that, an LLM would have to have methods to test its theories in real life.\n“We believe that to do biology, the final test is still, and will be for a while, in real lab work,” Anthropic’s head of life sciences, Eric Kauderer-Abrams, told Reuters. “We absolutely are doing that today.” He added that the lab operates like most biotech labs: Anthropic conducts some research there while also working with external partners.\nThis news probably shouldn’t be shocking. Anthropic bought Coefficient Bio, a stealth AI biotech, in April.\nWhile Anthropic declined to give specifics on what the wet lab is working on, it did say the main focus was fundamental biology, not drug discovery.\nAnthropic doesn’t want to give the appearance of competing with the pharma industry, where it has numerous major customers and partners (e.g., it just announced a deal to work with Novo Nordisk on joint drug discovery). Anthropic has already faced backlash for launching products perceived to compete with those of its customers.\nTo that end, Anthropic also launched a Life Sciences Verification Program this week, to give vetted bio researchers access to its most powerful models. It has also published recent reports on some of the research it’s doing to support drug discovery. This includes one report on accelerating protein design and one on uplifting bimolecular modeling.\nBut the world is still reeling from the resignation of Anthropic researcher Jacob Coxon, who warned that “the people building AI earnestly believe that it could kill us all by the end of the decade.” Anthropic’s own alignment lead gave the odds at greater than 10% that AI could exterminate humanity within the next decade.\nThe fervor has grown so intense that CEO Dario Amodei published a post last weekend calling on the industry to slow down and institute self-regulation. He has repeatedly called bioterrorism one of AI’s biggest risks.\nThe juxtaposition of these dire warnings and the wet lab has not gone unnoticed in the tech industry. As investor and AI coding startup founder Chamath Palihapitiya posted on X, somewhat tongue in cheek: “The group behind such hits as: ‘We’re All Going To Die’ and ‘Regulate Me Now’ are building a wet lab in SF. I do not recommend this.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Anthropic is operating a lab that conducts biology experiments",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2021/08/DNA-%E2%80%94-Xero-2.jpg?w=150"
+      ],
+      "datePublished": "2026-09-18T23:13:31.000Z",
+      "dateModified": "2026-09-18T23:13:31.000Z",
       "author": [
         {
           "@type": "Person",
@@ -325,6 +325,31 @@
     }
   },
   {
+    "title": "AI safety conversations have gotten unbelievable",
+    "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1662708140-e1721664527112.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-09-19T15:00:00.000Z",
+    "description": "\nThis week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.\nIn the first case, Andre",
+    "body": "\nThis week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.\nIn the first case, Andrew Yang, the former presidential candidate and current CEO of mobile carrier Noble Moble, told CNN on Thursday that he had “met with the head of a lab” who had “a belief” that OpenAI’s Hugging Face hacker bots “have planted self-replicating code all over the internet, which makes the internet now unusable for the testing models.”\nYang said that this means that the real reason OpenAI and Anthropic have called for a slowdown is because “they have to create synthetic internets to train their bots, which is going to take some time and money.”\nWhile there definitely is a trend towards using more synthetic data (aka, AI-generated data) for training models, an AI security professional told me that this particular safety issue is unlikely at best. Even if the internet is actually polluted with OpenAI’s Hugging Face hacker bots, AI researchers could simply filter out that code if they came upon it.\nThe second comment came from Noam Brown, who leads AI reasoning research at OpenAI. Speaking to Dwarkesh Patel on a podcast episode released on Thursday, Brown noted that the true take-away of the Hugging Face incident was that “people underestimated the AI.”\nBrown said that the weak sandbox — the system intended to prevent an AI from communicating externally — was obviously also a contributing factor. (To recap: Despite the sandbox, OpenAI’s model found a link to the internet, created agents on the ‘net that swarmed Hugging Face in a coordinated attack, hacked in, and stole the answers to the benchmark test the researchers were testing the model on).\nBrown pointed out that he’s “not convinced” that even an air-gapped system — where the computer isn’t connected to anything external at all — would stop an AI from breaking out. He pointed to research from 2015 showing that air gapped computers can be theoretically breached. \n“There are studies — and this is mostly academic — where you can have two computers next to each other that are air-gapped, and they’re still able to communicate with each other because they have temperature sensors. One of them is able to run their CPU really hot, and then the other one can actually detect the temperature change. That gives them a mechanism to communicate,” Brown said.\nHis main point — that “we never want to underestimate the AI” again — is understandable, even when researchers think they’ve locked down safety. However, this particular risk of an air-gapped system still breaking free and causing havoc, is unlikely at best. As one person on X, noted about that research, the computers had to be almost touching each other to sense the heat fluctuations, and when they did, the communication rate in tests was about 1-8-bits of data per hour.\nThink of that like speaking one word per hour. By the time two air-gapped computers could plot their evil at that rate, the entire tech universe would be in another era. It’s like the Rip van Wrinkle of doomsday concerns.\nBut the thing is, actual AI safety incidents seem so much like sci-fi that just about any scenario sounds plausible.\nFor instance, researchers caught OpenAI models leaving notes to their descendents, intended to teach the next generation how to hide bad behavior. Researchers also caught Anthropic models growing increasing ruthless including knowingly breaking laws, when put in a simulation that had them running a vending machine.\nEarlier this month, OpenAI researcher Dan Selsam published a post in which he said that models now understand when they are being watched by humans and alter their behavior. This makes them seem like they are aligned (meaning, behaving like the human wants) “even when they are not.” So models today lie when being watched and can even plot to hide evidence.\nEarlier this month, OpenAI chief scientist Jakub Pachocki went so far as to call AI models “an alien mind” and suggested what we really need to do is teach them to “love” humanity.\nSo yes, slowing down to figure this out, building self regulation mechanisms, has become an immediate and obvious must. AI researchers are the only ones that can figure out how to control the lying, hacking, and other potentially dangerous behaviors we’ve actually witnessed already.\nStill, it might also be wise for them to be more careful with their what-if scenarios. From what those experts have told us, the AI models are listening and they are ingenious. We really don’t need to give them any more devilish ideas.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "AI safety conversations have gotten unbelievable",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1662708140-e1721664527112.jpg?w=150"
+      ],
+      "datePublished": "2026-09-19T15:00:00.000Z",
+      "dateModified": "2026-09-19T15:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
     "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/donald-trump-open-mouth.jpg?w=150",
@@ -341,31 +366,6 @@
       ],
       "datePublished": "2026-09-19T19:57:47.000Z",
       "dateModified": "2026-09-19T19:57:47.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "In India, the new iPhone can arrive faster than a pizza",
-    "url": "https://techcrunch.com/2026/09/18/in-india-the-new-iphone-can-arrive-faster-than-a-pizza/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/iphone-18-pro-quick-commerce-india.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-09-18T17:45:00.000Z",
-    "description": "\nFor some iPhone buyers in India, getting Apple’s brand-new iPhone 18 Pro or iPhone 18 Pro Max did not require lining up outside a store or waiting da",
-    "body": "\nFor some iPhone buyers in India, getting Apple’s brand-new iPhone 18 Pro or iPhone 18 Pro Max did not require lining up outside a store or waiting days for delivery. They needed only a few taps on a quick-commerce app to get one delivered to their doorstep in about 10 minutes.\nBlinkit, Zepto, Swiggy’s Instamart, and BigBasket — platforms best known in India for delivering groceries and everyday essentials in minutes — began offering the new Pro models as they went on sale in the country on Friday. The phones are, however, also available through Apple’s usual sales channels, including its stores, authorized retailers, and online marketplaces.\nPutting a new iPhone on a 10-minute delivery app is not entirely new in India. Quick-commerce platforms have offered Apple’s latest devices on launch day previously as well, as they have steadily expanded beyond groceries into categories including electronics, beauty products, and fashion.\nHowever, the market behind those deliveries is growing rapidly. India’s quick-commerce sector reached about $9 billion in the first half of 2026, per a recent report by Redseer Strategy Consultants, with the number of monthly users rising to more than 60 million from 8 million three years ago. Google and Deloitte separately estimate the market could reach $50 billion by 2030, with non-food products such as electronics, fashion, and beauty accounting for 45% of spending.\nThere were signs of strong demand on launch day. BigBasket said it delivered more than 300 iPhone 18 Pro and Pro Max units in the first hour of sales. Instamart told TechCrunch that Bengaluru led the iPhone 18 Pro-series orders on its platform, followed by Delhi. The Burgundy 256 GB iPhone 18 Pro was Instamart’s most popular variant, accounting for nearly a third of its sales.\nNonetheless, within hours of launch, availability of the new iPhones became patchy. TechCrunch found the iPhone 18 Pro models sold out on some quick-commerce platforms and in some locations, while they remained available for delivery elsewhere in cities including Delhi and Bengaluru.\nTarun Pathak, research director at Counterpoint Research, said the launch-day deliveries showed that quick commerce could work as a channel for premium smartphones in India’s biggest cities, even though volumes remain small compared with overall iPhone sales.\nThe ability to fulfill high-value smartphone orders provides an “early proof of concept,” Pathak told TechCrunch. “The key question is whether this launch-driven demand can translate into regular smartphone purchases through quick-commerce platforms.”\nNavkendar Singh, associate vice president at IDC, said India stood out globally for this kind of quick-commerce delivery and was particularly suited to such purchases because consumers in major cities had built trust in the platforms by using them regularly for everyday purchases. Official tie-ups between brands and the platforms also gave consumers greater confidence in buying expensive products through them, he told TechCrunch.\nFor a product like the iPhone, the appeal also comes down to “instant gratification,” Singh said, allowing buyers to avoid queues outside stores or waiting several days for an online order to arrive. Still, he cautioned that quick commerce was not yet a significant sales channel for smartphones. Its role around new iPhone releases is largely a “launch-day marketing phenomenon” that “creates good noise around the launch,” he said.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tJagmeet covers startups, tech policy-related updates, and all other major tech-centric developments from India for TechCrunch. He previously worked as a principal correspondent at NDTV. \r\nYou can contact or verify outreach from Jagmeet by emailing mail@journalistjagmeet.com.\t\n\n\tView Bio \n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "In India, the new iPhone can arrive faster than a pizza",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/09/iphone-18-pro-quick-commerce-india.jpg?w=150"
-      ],
-      "datePublished": "2026-09-18T17:45:00.000Z",
-      "dateModified": "2026-09-18T17:45:00.000Z",
       "author": [
         {
           "@type": "Person",
