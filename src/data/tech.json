@@ -1,5 +1,30 @@
 [
   {
+    "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+    "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/06/220509-Enveda-1038.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-09-23T19:31:28.000Z",
+    "description": "\nEnveda, a biotech startup that uses AI to discover new drugs in the natural world, has raised a $311 million Series E at a $2 billion valuation. The ",
+    "body": "\nEnveda, a biotech startup that uses AI to discover new drugs in the natural world, has raised a $311 million Series E at a $2 billion valuation. The fresh funding, which was led by Catalio Capital Management, with participation from Iconiq and others, doubles the valuation Enveda achieved 12 months ago.\nThe idea behind Enveda is that powerful medicines could be harnessed from plants and microbes, rather than synthesized from scratch in a lab. Viswa Colluru, an early employee of Recursion Pharmaceuticals, founded Enveda in 2019 to speed up the process of discovering these new drugs using AI and other techniques.\nWhile AI hasn’t yet produced any FDA-approved drugs, Enveda is among the wave of companies advancing AI-discovered candidates into human clinical trials. The startup is currently testing several drugs in patients, including one targeting severe skin conditions and another designed to help maintain weight loss after stopping GLP-1s.\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2024/06/220509-Enveda-1038.jpg?w=150"
+      ],
+      "datePublished": "2026-09-23T19:31:28.000Z",
+      "dateModified": "2026-09-23T19:31:28.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "ChatGPT mobile app gets voice-based agentic features",
     "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?w=150",
@@ -25,6 +50,81 @@
     }
   },
   {
+    "title": "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
+    "url": "https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=150",
+    "tag": "Tech",
+    "date": "2026-09-23T20:35:17.000Z",
+    "description": "\nIn Brief\nPosted:\n1:35 PM PDT · September 23, 2026\n\nImage Credits:TechCrunch (AI-generated)\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nBessemer Ventur",
+    "body": "\nIn Brief\nPosted:\n1:35 PM PDT · September 23, 2026\n\nImage Credits:TechCrunch (AI-generated)\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nBessemer Venture Partners announced on Wednesday that it has raised $5.75 billion across two new funds to accelerate its investment across all parts of the AI stack. The firm, which has backed companies such as Anthropic, Cognition, Legora, Perplexity, Ramp, Shopify, and Waymo, dedicated $1.75 billion for seed and early-stage investing and the remaining $4 billion for growth startups.\nBessemer has been well-known as a leading VC in the SaaS era, with a particular knack for picking enterprise winners, like Box, Docusign, and Gainsight. Since 2022, it has invested in more than 260 AI-native companies. So far, the firm has invested $3 billion into AI-related startups, it says, including those focused on compute, infrastructure, foundation models, dev tools, app-layer startups, and agentic tech.\nNow, Bessemer positions all things AI as the opportunity of a lifetime — a common sentiment, until the next big trendy tech revolution comes around, of course. \n“AI-native companies are scaling faster than any category of technology we’ve backed before,” Bessemer Partner Byron Deeter said in the company’s funding announcement. VC firms also need to keep increasing their war chests, Deeter told Bloomberg, because companies staying private longer has become “a permanent structural shift.”\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Venture\n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=150"
+      ],
+      "datePublished": "2026-09-23T20:35:17.000Z",
+      "dateModified": "2026-09-23T20:35:17.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Anthropic says its biology lab has already found something big",
+    "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/Claude_3-7_illustration.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-09-23T22:17:39.000Z",
+    "description": "\nLast week, Anthropic confirmed that it was operating a wet biology lab in the Bay Area where it uses its AI models to run physical experiments. This ",
+    "body": "\nLast week, Anthropic confirmed that it was operating a wet biology lab in the Bay Area where it uses its AI models to run physical experiments. This week, the AI giant announced that this lab has already made what it believes is a big discovery: a new enzyme “system” that has certain “properties reminiscent of CRISPR,” as Anthropic describes it.\nCRISPR is a natural immune system used by bacteria to fight off viruses that has become a gene-editing technology widely used by researchers.\nEssentially, what Anthropic says it found is a previously unknown enzyme system hidden in the DNA of bacteriophages, which are viruses that infect and replicate within bacteria. Anthropic’s researchers say this system behaves similarly to CRISPR in that it can “perform operations like cutting, copying, and pasting DNA.”\nIt will be up to the broader research community to validate how big, or new, this discovery actually is. Anthropic CEO Dario Amodei acknowledges that the discovery was based on the work of others and that a team from Stanford previously discovered a system “that is in some ways similar to the one Claude found,” he wrote on X.\nBut Amodei and Anthropic are not just emphasizing the discovery. They are touting it was found “mostly, though not entirely, by Claude,” the CEO wrote.\nOn the one hand, that is astounding. This lab was only established this spring (though Anthropic declined to be more specific about how many months it has been open). A discovery in just a few short months would be speedy enough work, but the team said it actually only took Claude 21 hours of concerted effort. Claude searched through data using about 950 agents that burned through 210 million tokens.\nStill, the revelation that Anthropic has been conducting biology experiments comes right after AI CEOs, including Amodei, publicly admitted that models have become so capable, and so potentially dangerous, that the industry must slow down and develop safety-testing procedures. This after a couple of his employees publicly said earlier this month that there’s a risk AI could kill us all.\nAmodei himself has said one of the things he fears most is that AI could be used for bioterrorism. But he also believes AI will “cure most diseases in 5-10 years,” he wrote. So Anthropic has clearly decided the rewards are worth the risks.\nGiven that, perhaps the biggest reveal in this news isn’t the discovery itself but that the biology lab hasn’t let Claude loose. The physical experiments were done by humans.\n“Our lab, located in the Bay Area, looks like a typical molecular biology lab. We do research that involves only the lower-levels of the biosafety risk level (BSL-1 and BSL-2) and we do not handle pathogens that can infect humans. All of the lab work is performed by human scientists.”\nIt’s also true that AI-powered biological research is hardly unique to Anthropic. Researchers from Stanford just published a paper on the work they are doing with LLMs and CRISPR. Researchers at UC San Francisco used AI to design enzymes from scratch. Google launched its first AI-powered biology research tool, AlphaFold, back in 2020. So AI has clearly arrived in biological research beyond the AI labs pursuing it themselves.\nYet, Amodei hasn’t ruled out a fully automated biology lab in the future. “Eventually it may even be possible for Claude itself to safely perform the experiments by autonomously controlling lab equipment, with appropriate safeguards in place, but we aren’t doing that today,” he said.\n. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Anthropic says its biology lab has already found something big",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/02/Claude_3-7_illustration.jpg?w=150"
+      ],
+      "datePublished": "2026-09-23T22:17:39.000Z",
+      "dateModified": "2026-09-23T22:17:39.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "YouTube’s conversational video editing tool lets creators make edits in natural language",
+    "url": "https://techcrunch.com/2026/09/23/youtubes-conversational-video-editing-tool-lets-creators-make-edits-in-natural-language/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-23-at-11.07.17-AM.png?w=150",
+    "tag": "Tech",
+    "date": "2026-09-23T15:46:57.000Z",
+    "description": "\n\t\n\t\tImage Credits:YouTube\t\n\t\n\t\t\t\t\t\t8:46 AM PDT · September 23, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nYouTube announced a bunch of new creator tools at Wednesday’s Mad",
+    "body": "\n\t\n\t\tImage Credits:YouTube\t\n\t\n\t\t\t\t\t\t8:46 AM PDT · September 23, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nYouTube announced a bunch of new creator tools at Wednesday’s Made On YouTube event, including a conversational editing tool that uses natural language to refine both long- and short-form footage.\n“A one-hour shoot can be 10 hours or more in the edit. So, what if we could speed that process along without sacrificing any of our creative control?” YouTuber Happy Kelli shared onstage.\nIn a chat interface, creators give the AI instructions on how to help them put a video together. In Happy Kelli’s example, she shares footage of her dancing in different outfits and asks the AI to select the best take for each outfit. Then, she adds music and transitions that go along with the dance.\nImage Credits:YouTube\n“If at any point I want even more control, I can jump back into the editing timeline and manually adjust things myself,” she said. “Overall, conversational editing turns the process of editing into a literal conversation with an infinitely patient helper. It’s a collaborative partner that edits with you, not for you.”\nThis feature can also add text overlays, remove pauses in speech, and more. It can also make suggestions to the creator based on the context of the conversation.\nWhile some creators may find that this tool saves them time and speeds up the often tedious process of video editing, others may feel that their individual editing style sets their videos apart and be reluctant to relinquish control to an AI.\nConversational editing will be available for both YouTube Shorts and the YouTube Create app in early 2027.\n\n\t\t\t\n\tTopics\n\n\t\t\tWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\n\t\tAmanda Silberling is a senior writer at TechCrunch covering the intersection of technology and culture. She has also written for publications like Polygon, MTV, the Kenyon Review, NPR, and Business Insider. She is the co-host of Wow If True, a podcast about internet culture, with science fiction author Isabel J. Kim. Prior to joining TechCrunch, she worked as a grassroots organizer, museum educator, and film festival coordinator. She holds a B.A. in English from the University of Pennsylvania and served as a Princeton in Asia Fellow in Laos.\nYou can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal. \t\n\n\tView Bio \n\n\n\t\t",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "YouTube’s conversational video editing tool lets creators make edits in natural language",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-23-at-11.07.17-AM.png?w=150"
+      ],
+      "datePublished": "2026-09-23T15:46:57.000Z",
+      "dateModified": "2026-09-23T15:46:57.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "YouTube releases new AI features for creators within its Studio app",
     "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/09/youtube-studio.jpeg?w=150",
@@ -38,156 +138,6 @@
       "headline": "YouTube releases new AI features for creators within its Studio app",
       "image": [
         "https://techcrunch.com/wp-content/uploads/2025/09/youtube-studio.jpeg?w=150"
-      ],
-      "datePublished": "2026-09-23T14:30:00.000Z",
-      "dateModified": "2026-09-23T14:30:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "YouTube is making comments more fun — and fandom more lucrative for creators",
-    "url": "https://techcrunch.com/2026/09/23/youtube-is-making-comments-more-fun-and-fandom-more-lucrative-for-creators/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/youtube-communities.jpeg?w=150",
-    "tag": "Tech",
-    "date": "2026-09-23T16:03:44.000Z",
-    "description": "\nYouTube’s comments section is getting an upgrade, alongside the rollout of other community-focused features such as exclusive paid memberships, the c",
-    "body": "\nYouTube’s comments section is getting an upgrade, alongside the rollout of other community-focused features such as exclusive paid memberships, the company announced at its Made On YouTube event on Wednesday. Commenters will now be able to respond with GIFs or leave comments from their TVs, while creators will get new tools to support their fan communities, including features to personalize moderation, invite members into VIP-like areas, and give fans new ways to help them make money from their content.\nComments are still one of the main ways YouTube viewers interact with creators’ content, but they’ve often lagged behind other social networks’ commenting features. For instance, TikTok just announced that commenters can respond to videos with their voice and add polls, photo carousels, and Live Photos to their comments. Spotify lets video podcasters use polls and Q&As to engage their audiences.\nImage Credits:YouTube\nYouTube is finally catching up a bit by adding support for leaving GIFs in comments and letting users comment while watching YouTube on TV. The latter works by voice, not painfully typing out “LOL” on your remote control, YouTube noted.\nOne of the more interesting additions is a new comment moderation tool that’s personalized to each creator’s needs. Though YouTube already offers a comment moderation filter, creators may want to tailor it more precisely, particularly on live videos, where it’s harder to keep up. For now, the company is calling this personalized moderation an “experiment” and didn’t provide specific technical details about how it works.\nImage Credits:YouTube\nOther features are meant to help creators grow their fan communities — and make money from that fandom. These arrive at a time when revenue from advertising is no longer the only way creators monetize their videos. \nThe company said its Channel Memberships features are evolving, with the addition of paid, members-only communities, where members can share posts and start discussions with other top fans. YouTube will market these communities alongside other memberships on a new “channel memberships” page for viewers, designed to help them discover ones that match their interests.\nHype, a feature that lets fans recommend smaller creators’ videos to others and climb fan leaderboards, will gain new functionality dubbed “Hype with Jewels.” Previously, fans could only “hype” videos three times per week for free. Now they can buy Jewels, a virtual currency of sorts, to hype videos even more, helping to support creators and grow their audience. Fans motivated by clout may also appreciate that their handles will be permanently added to the video’s description.\nYouTube said viewers have so far hyped more than 75 million unique videos over 1 billion times.\nImage Credits:YouTube\nThe company’s direct messaging feature for sharing videos with family and friends will also support group chats in the next few months. Users will be able to record quick, raw videos and share them in these conversations, too.\nThese community-focused features arrived alongside other creator tools, including those for A/B testing, live dubbing, AI-assisted video editing, and more.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\n\tView Bio \n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "YouTube is making comments more fun — and fandom more lucrative for creators",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/09/youtube-communities.jpeg?w=150"
-      ],
-      "datePublished": "2026-09-23T16:03:44.000Z",
-      "dateModified": "2026-09-23T16:03:44.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Modal Motors is trying to cut China out of electric motors entirely",
-    "url": "https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-23-at-11.23.50-AM.png?w=150",
-    "tag": "Tech",
-    "date": "2026-09-23T19:05:00.000Z",
-    "description": "\nLately, it seems like everyone is talking about bringing manufacturing back to the United States, especially when it comes to hard tech like drones a",
-    "body": "\nLately, it seems like everyone is talking about bringing manufacturing back to the United States, especially when it comes to hard tech like drones and robotics. Michael Van Steenburg thinks he’s ahead of the game. \nVan Steenburg spent the last decade building all kinds of electric motors in the U.S. and North America, and now he wants to do it again with his new startup, Modal Motors. This time, he wants to ditch rare earth magnets entirely, in a bid to further separate the U.S. from China’s supply chain.\nAs one of founders in Startup Battlefield 200 who will compete at TechCrunch Disrupt next month, he thinks it’s an urgent pitch to make.\n“China’s already flexed its muscles a couple times,” Van Steenburg said, referring to the country restricting access to rare earth products.\nThere are other companies working on setting up electric motor manufacturing and supply chains in the U.S., but Van Steenburg argues they’re doing it the wrong way by continuing to rely on rare earth magnets. Domestic supply of those materials is still years away, he said.\n“Other people are ‘reshoring,’ [but] they’re basically knocking off Chinese motors and just doing it in the U.S. But they’re hoping that the U.S. rare earth magnet system is going to get up to speed fast enough,” he said. “It’s going to still be a while longer before they can actually replace China.”\nModal Motors has two products that it’s developing ahead of Disrupt. One is a small electric motor meant for drones that can also work in fans, blowers, and even actuators. It’s designed to “minimize mass while delivering maximum torque density and efficiency,” according to the startup’s website.\nThe more radical design is what Modal refers to as the “Hybrid Enigma Drive,” a planar — or flat — electric motor that can fit in lower-profile spaces.\nVan Steenburg is drawing on decades of experience in the automotive industry to develop these motors and get them customer-ready. But there’s also an irony in the work Van Steenburg is doing to make Modal Motors’ products a China-free option; in the late 1990s, he worked on a hybrid gas-electric drivetrain that China wanted to put in its so-called “People’s Car.”\n“It’s kind of comical,” he said, thinking back on that experience and how much the world has changed. What hasn’t changed, he said, is his outsider streak and strong conviction about doing things that are hard.\n“I always tell people that the clock started ticking 25 years ago, and in that whole time, I’ve watched a slow-motion train wreck as China’s been going around the world, grabbing mines, grabbing mineral rights, doing all these things, and slowly but surely monopolizing the entire rare earth supply chain,” he said.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\n\tView Bio \n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Modal Motors is trying to cut China out of electric motors entirely",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-23-at-11.23.50-AM.png?w=150"
-      ],
-      "datePublished": "2026-09-23T19:05:00.000Z",
-      "dateModified": "2026-09-23T19:05:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Here’s the trailer for Nathan Fielder’s Elizabeth Holmes documentary, in theaters October 16",
-    "url": "https://techcrunch.com/2026/09/23/heres-the-trailer-for-nathan-fielders-elizabeth-holmes-documentary-in-theaters-october-16/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/11/elizabeth-holmes-sentence-1.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-09-23T14:21:41.000Z",
-    "description": "\n\t\n\t\tImage Credits:Justin Sullivan / Getty Images\t\n\t\n\t\t\t\t\t\t7:21 AM PDT · September 23, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nWe live in a bewildering time, where the w",
-    "body": "\n\t\n\t\tImage Credits:Justin Sullivan / Getty Images\t\n\t\n\t\t\t\t\t\t7:21 AM PDT · September 23, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nWe live in a bewildering time, where the world’s most powerful people are trying to make themselves cyborgs, conquer the inevitability of death, and colonize outer space. But in the midst of such a jarring moment in the history of humanity, the world throws you a bone. In this cursed timeline, we have been gifted something so unfathomable that we could never have imagined it, because even in our wildest dreams, we wouldn’t have come up with something so perfect: a Nathan Fielder documentary about Elizabeth Holmes.\nFor the uninitiated, Nathan Fielder is a filmmaker and comedian who is known for his uncanny ability to put himself into awkward situations, yet remain in character for so long that it forces everyone involved — even the viewer — to reflect on the essence of their own existence. And then there’s Elizabeth Holmes, the disgraced Theranos startup founder who still denies she did anything wrong, making the world question whether she’s really that naive, or if she’s still playing a game of 5D chess that none of us signed up for.\nWe are not ready for these two to collide, but get your black turtlenecks ready for the premiere, because the resulting documentary from A24, “You Can See Everything,” is coming to theaters on October 16.\n\n\n\n\n\t\t\t\n\tTopics\n\n\t\t\tWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\n\t\tAmanda Silberling is a senior writer at TechCrunch covering the intersection of technology and culture. She has also written for publications like Polygon, MTV, the Kenyon Review, NPR, and Business Insider. She is the co-host of Wow If True, a podcast about internet culture, with science fiction author Isabel J. Kim. Prior to joining TechCrunch, she worked as a grassroots organizer, museum educator, and film festival coordinator. She holds a B.A. in English from the University of Pennsylvania and served as a Princeton in Asia Fellow in Laos.\nYou can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal. \t\n\n\tView Bio \n\n\n\t\t",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Here’s the trailer for Nathan Fielder’s Elizabeth Holmes documentary, in theaters October 16",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2022/11/elizabeth-holmes-sentence-1.jpg?w=150"
-      ],
-      "datePublished": "2026-09-23T14:21:41.000Z",
-      "dateModified": "2026-09-23T14:21:41.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "YouTube Music gets more conversational with new AI features",
-    "url": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/09/Youtube-music.jpeg?w=150",
-    "tag": "Tech",
-    "date": "2026-09-23T15:19:30.000Z",
-    "description": "\nYouTube is adding new AI-powered features to YouTube Music that aim to make it easier for listeners to discover music, explore artists, and find podc",
-    "body": "\nYouTube is adding new AI-powered features to YouTube Music that aim to make it easier for listeners to discover music, explore artists, and find podcasts they may otherwise miss.\nAnnounced at this year’s Made On YouTube event, the updates include “Ask Music,” a conversational tool for music and podcasts, and “Your Podcast Lineup,” a personalized audio guide designed to help listeners discover new shows.\nBuilt directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists. The feature works across YouTube Music’s catalog of more than 300 million songs, including official recordings, remixes, live performances, covers, and DJ sets. Users can use it to build custom listening queues, explore an artist’s motivations, or dig deeper into music history.\nImage Credits:YouTube\nYouTube explains that, instead of manually searching, the user simply types the request as if they were asking a friend. For instance, someone could ask Ask Music to create a mix based on the tracks that inspired a particular song. Users can also ask other questions, such as who played bass on a particular song or other details about its creation.\nImage Credits:YouTube\nYouTube Music is also introducing Your Podcast Lineup, a personalized AI-generated audio guide for podcast discovery.\nThe feature is designed for a familiar problem: There are more podcasts than most people have time to listen to. Even listeners who already have a list of favorite shows can struggle to keep up with new episodes, let alone find new ones.\nYour Podcast Lineup will appear on the podcast page in the YouTube Music app. Each week, it will provide a short spoken preview of recommended shows and explain why they might appeal to the listener. It can then move directly into suggested episodes.\nSpotify recently introduced an AI-powered feature that follows a similar direction. Its personal podcasts feature uses AI to generate podcast episodes based on their interests and prompts.\nThe new features are part of YouTube’s broader push to use AI throughout its services. Last year, YouTube Music experimented with AI-powered music hosts that provide stories, fan trivia, and commentary related to what users are listening to.\nBoth updates are coming soon to YouTube Music and YouTube Premium subscribers worldwide.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tLauren covers media, streaming, apps and platforms at TechCrunch.\nYou can contact or verify outreach from Lauren by emailing laurenf.techcrunch@gmail.com or via encrypted message at laurenforris22.25 on Signal.\t\n\n\tView Bio \n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "YouTube Music gets more conversational with new AI features",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/09/Youtube-music.jpeg?w=150"
-      ],
-      "datePublished": "2026-09-23T15:19:30.000Z",
-      "dateModified": "2026-09-23T15:19:30.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The old cybersecurity model is breaking",
-    "url": "https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2233776792.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-09-23T17:44:02.000Z",
-    "description": "\n\t\t\n\nLoading the player…\n\nAs concern over AI safety and rogue agents continue to make headlines, it’s no surprise that cybersecurity stocks are rising",
-    "body": "\n\t\t\n\nLoading the player…\n\nAs concern over AI safety and rogue agents continue to make headlines, it’s no surprise that cybersecurity stocks are rising, or that investors are pouring massive amounts of capital into startups trying to build the next generation of security for an AI-native world. We’re even seeing companies like Instinct and Simile bring in nine-figure checks and valuations that wouldn’t have made sense a few years ago. \nWith a front row seat to it all is Shardul Shah, a partner at Index Ventures who’s spent nearly two decades investing in cybersecurity and enterprise software — including six consecutive rounds in cloud security startup Wiz, which Google acquired for $32 billion earlier this year in one of its largest acquisitions ever. \nOn this episode of TechCrunch’s Equity podcast, Shah joins Rebecca Bellan to break down why he thinks periodic, human-in-the-loop security can’t keep up anymore, and why Index continues investing in AI-native security companies at stages that once required much more proof. \nSubscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. You also can follow Equity on X and Threads, at @EquityPod. \n\n\t\t\n\tTopics\n\n\n\n\t\tTheresa Loconsolo is an audio producer at TechCrunch focusing on Equity, the network’s flagship podcast. Before joining TechCrunch in 2022, she was one of 2 producers at a four-station conglomerate where she wrote, recorded, voiced and edited content, and engineered live performances and interviews from guests like lovelytheband. Theresa is based in New Jersey and holds a bachelors degree in Communication from Monmouth University. You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com.\t\n\n\tView Bio \n\n\n\t\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "The old cybersecurity model is breaking",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2233776792.jpg?w=150"
-      ],
-      "datePublished": "2026-09-23T17:44:02.000Z",
-      "dateModified": "2026-09-23T17:44:02.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "YouTube adds new creator tools like video A/B testing, dynamic thumbnails, and live dubbing",
-    "url": "https://techcrunch.com/2026/09/23/youtube-adds-new-creator-tools-like-video-a-b-testing-dynamic-thumbnails-and-live-dubbing/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Event-Made-On-Logo-Creator-Graphic-White.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-09-23T14:30:00.000Z",
-    "description": "\nIn a bid to help creators reach more people, YouTube on Wednesday unveiled a slew of new tools, many of which use AI to try out different tactics on ",
-    "body": "\nIn a bid to help creators reach more people, YouTube on Wednesday unveiled a slew of new tools, many of which use AI to try out different tactics on videos to find what makes them perform best. \nThe new Ask Studio feature allows creators to share draft videos with AI to get personalized feedback based on their previous content and user comments. The feature will propose alternative titles and thumbnail options, analyze the creator’s channel analytics to explain the performance of their videos, and offer advice for improving metrics. Ask Studio is expanding to YouTube’s mobile apps, too.\nImage Credits:YouTube\nYouTube already allows creators to A/B test titles and thumbnails, and from 2027, this feature will let creators upload and test three different cuts for Shorts. There’s also a Dynamic Thumbnails feature, with which creators can upload multiple thumbnails and leave it to YouTube to determine which thumbnail to show viewers that is most likely to spark their interest.\nCreators can also apply these tools to their existing catalog. If a creator allows it, Ask Studio will be able to autonomously monitor thumbnail performance and create tests to refine older videos.\nOn the shopping front, YouTube will now use AI to auto-tag products, which it says will help creators earn money through affiliate programs. The company is also expanding its Amazon affiliate program beyond the U.S.\nImage Credits:YouTube\nSome creators are understandably skeptical of using AI to support their content, worrying that just one AI-generated mistake could harm their credibility. For such features to succeed, they will need to be accurate enough to assuage creators’ concerns.\nThe platform is also giving creators new ways to go live. Early next year, YouTube will pilot auto-dubbing on live videos to translate creators’ speech into other languages in real time. The company is also launching a “live showdown” feature, which lets creators co-host streams together, and even get paired with other creators currently streaming through “live creator matchmaking.”\n“Co-hosts can kick off friendly head-to-head matchups, where viewers send chats, gifts, and Super Chats to push their creator’s score forward on-screen in real time,” YouTube Live product manager Barbara MacDonald wrote in a blog post.\nImage Credits:YouTube\nHopefully these impromptu collaborations with strangers won’t turn into a hotbed of bad behavior.\nYouTube also shared data that provides insight into how people are using the platform. More people continue to watch YouTube on household TVs, and more than half of the top 100 YouTube creators have “living room” as their most watched interface. \nYouTube’s data also confirms what we know about the growth of the microdrama industry: In the first half of 2026, microdramas on YouTube surpassed 6.5 billion views, and their watch time rose 50% year-over-year. People even seem to be watching these episodic, vertical video series on the big screen, with views of microdrama content on TVs increasing 90% year-over-year.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tAmanda Silberling is a senior writer at TechCrunch covering the intersection of technology and culture. She has also written for publications like Polygon, MTV, the Kenyon Review, NPR, and Business Insider. She is the co-host of Wow If True, a podcast about internet culture, with science fiction author Isabel J. Kim. Prior to joining TechCrunch, she worked as a grassroots organizer, museum educator, and film festival coordinator. She holds a B.A. in English from the University of Pennsylvania and served as a Princeton in Asia Fellow in Laos.\nYou can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal. \t\n\n\tView Bio \n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "YouTube adds new creator tools like video A/B testing, dynamic thumbnails, and live dubbing",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/09/Event-Made-On-Logo-Creator-Graphic-White.jpg?w=150"
       ],
       "datePublished": "2026-09-23T14:30:00.000Z",
       "dateModified": "2026-09-23T14:30:00.000Z",
@@ -250,31 +200,6 @@
     }
   },
   {
-    "title": "YouTube’s conversational video editing tool lets creators make edits in natural language",
-    "url": "https://techcrunch.com/2026/09/23/youtubes-conversational-video-editing-tool-lets-creators-make-edits-in-natural-language/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-23-at-11.07.17-AM.png?w=150",
-    "tag": "Tech",
-    "date": "2026-09-23T15:46:57.000Z",
-    "description": "\n\t\n\t\tImage Credits:YouTube\t\n\t\n\t\t\t\t\t\t8:46 AM PDT · September 23, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nYouTube announced a bunch of new creator tools at Wednesday’s Mad",
-    "body": "\n\t\n\t\tImage Credits:YouTube\t\n\t\n\t\t\t\t\t\t8:46 AM PDT · September 23, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nYouTube announced a bunch of new creator tools at Wednesday’s Made On YouTube event, including a conversational editing tool that uses natural language to refine both long- and short-form footage.\n“A one-hour shoot can be 10 hours or more in the edit. So, what if we could speed that process along without sacrificing any of our creative control?” YouTuber Happy Kelli shared onstage.\nIn a chat interface, creators give the AI instructions on how to help them put a video together. In Happy Kelli’s example, she shares footage of her dancing in different outfits and asks the AI to select the best take for each outfit. Then, she adds music and transitions that go along with the dance.\nImage Credits:YouTube\n“If at any point I want even more control, I can jump back into the editing timeline and manually adjust things myself,” she said. “Overall, conversational editing turns the process of editing into a literal conversation with an infinitely patient helper. It’s a collaborative partner that edits with you, not for you.”\nThis feature can also add text overlays, remove pauses in speech, and more. It can also make suggestions to the creator based on the context of the conversation.\nWhile some creators may find that this tool saves them time and speeds up the often tedious process of video editing, others may feel that their individual editing style sets their videos apart and be reluctant to relinquish control to an AI.\nConversational editing will be available for both YouTube Shorts and the YouTube Create app in early 2027.\n\n\t\t\t\n\tTopics\n\n\t\t\tWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\n\t\tAmanda Silberling is a senior writer at TechCrunch covering the intersection of technology and culture. She has also written for publications like Polygon, MTV, the Kenyon Review, NPR, and Business Insider. She is the co-host of Wow If True, a podcast about internet culture, with science fiction author Isabel J. Kim. Prior to joining TechCrunch, she worked as a grassroots organizer, museum educator, and film festival coordinator. She holds a B.A. in English from the University of Pennsylvania and served as a Princeton in Asia Fellow in Laos.\nYou can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal. \t\n\n\tView Bio \n\n\n\t\t",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "YouTube’s conversational video editing tool lets creators make edits in natural language",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-23-at-11.07.17-AM.png?w=150"
-      ],
-      "datePublished": "2026-09-23T15:46:57.000Z",
-      "dateModified": "2026-09-23T15:46:57.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "YouTube’s new ‘Shorts series’ feature brings episodic viewing to Shorts",
     "url": "https://techcrunch.com/2026/09/23/youtubes-new-short-series-feature-brings-episodic-viewing-to-shorts/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/Creation-Innovation-UX-Shorts-Series-Title-Card.jpg?w=150",
@@ -325,6 +250,81 @@
     }
   },
   {
+    "title": "Modal Motors is trying to cut China out of electric motors entirely",
+    "url": "https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-23-at-11.23.50-AM.png?w=150",
+    "tag": "Tech",
+    "date": "2026-09-23T19:05:00.000Z",
+    "description": "\nLately, it seems like everyone is talking about bringing manufacturing back to the United States, especially when it comes to hard tech like drones a",
+    "body": "\nLately, it seems like everyone is talking about bringing manufacturing back to the United States, especially when it comes to hard tech like drones and robotics. Michael Van Steenburg thinks he’s ahead of the game. \nVan Steenburg spent the last decade building all kinds of electric motors in the U.S. and North America, and now he wants to do it again with his new startup, Modal Motors. This time, he wants to ditch rare-earth magnets entirely, in a bid to further separate the U.S. from China’s supply chain.\nAs one of the founders in Startup Battlefield 200 who will compete at TechCrunch Disrupt next month, he thinks it’s an urgent pitch to make.\n“China’s already flexed its muscles a couple times,” Van Steenburg said, referring to the country restricting access to rare-earth products.\nThere are other companies working on setting up electric motor manufacturing and supply chains in the U.S., but Van Steenburg argues they’re doing it the wrong way by continuing to rely on rare-earth magnets. Domestic supply of those materials is still years away, he said.\n“Other people are ‘reshoring,’ [but] they’re basically knocking off Chinese motors and just doing it in the U.S. But they’re hoping that the U.S. rare-earth magnet system is going to get up to speed fast enough,” he said. “It’s going to still be a while longer before they can actually replace China.”\nModal Motors has two products that it’s developing ahead of Disrupt. One is a small electric motor meant for drones that can also work in fans, blowers, and even actuators. It’s designed to “minimize mass while delivering maximum torque density and efficiency,” according to the startup’s website.\nThe more radical design is what Modal refers to as the “Hybrid Enigma Drive,” a planar — or flat — electric motor that can fit in lower-profile spaces.\nVan Steenburg is drawing on decades of experience in the automotive industry to develop these motors and get them customer-ready. But there’s also an irony in the work Van Steenburg is doing to make Modal Motors’ products a China-free option; in the late 1990s, he worked on a hybrid gas-electric drivetrain that China wanted to put in its so-called “People’s Car.”\n“It’s kind of comical,” he said, thinking back on that experience and how much the world has changed. What hasn’t changed, he said, is his outsider streak and strong conviction about doing things that are hard.\n“I always tell people that the clock started ticking 25 years ago, and in that whole time, I’ve watched a slow-motion train wreck as China’s been going around the world, grabbing mines, grabbing mineral rights, doing all these things, and slowly but surely monopolizing the entire rare-earth supply chain,” he said.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\n\tView Bio \n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Modal Motors is trying to cut China out of electric motors entirely",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-23-at-11.23.50-AM.png?w=150"
+      ],
+      "datePublished": "2026-09-23T19:05:00.000Z",
+      "dateModified": "2026-09-23T19:05:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The old cybersecurity model is breaking",
+    "url": "https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2233776792.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-09-23T17:44:02.000Z",
+    "description": "\n\t\t\n\nLoading the player…\n\nAs concern over AI safety and rogue agents continue to make headlines, it’s no surprise that cybersecurity stocks are rising",
+    "body": "\n\t\t\n\nLoading the player…\n\nAs concern over AI safety and rogue agents continue to make headlines, it’s no surprise that cybersecurity stocks are rising, or that investors are pouring massive amounts of capital into startups trying to build the next generation of security for an AI-native world. We’re even seeing companies like Instinct and Simile bring in nine-figure checks and valuations that wouldn’t have made sense a few years ago. \nWith a front row seat to it all is Shardul Shah, a partner at Index Ventures who’s spent nearly two decades investing in cybersecurity and enterprise software — including six consecutive rounds in cloud security startup Wiz, which Google acquired for $32 billion earlier this year in one of its largest acquisitions ever. \nOn this episode of TechCrunch’s Equity podcast, Shah joins Rebecca Bellan to break down why he thinks periodic, human-in-the-loop security can’t keep up anymore, and why Index continues investing in AI-native security companies at stages that once required much more proof. \nSubscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. You also can follow Equity on X and Threads, at @EquityPod. \n\n\t\t\n\tTopics\n\n\n\n\t\tTheresa Loconsolo is an audio producer at TechCrunch focusing on Equity, the network’s flagship podcast. Before joining TechCrunch in 2022, she was one of 2 producers at a four-station conglomerate where she wrote, recorded, voiced and edited content, and engineered live performances and interviews from guests like lovelytheband. Theresa is based in New Jersey and holds a bachelors degree in Communication from Monmouth University. You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com.\t\n\n\tView Bio \n\n\n\t\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "The old cybersecurity model is breaking",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2233776792.jpg?w=150"
+      ],
+      "datePublished": "2026-09-23T17:44:02.000Z",
+      "dateModified": "2026-09-23T17:44:02.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "YouTube Music gets more conversational with new AI features",
+    "url": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/09/Youtube-music.jpeg?w=150",
+    "tag": "Tech",
+    "date": "2026-09-23T15:19:30.000Z",
+    "description": "\nYouTube is adding new AI-powered features to YouTube Music that aim to make it easier for listeners to discover music, explore artists, and find podc",
+    "body": "\nYouTube is adding new AI-powered features to YouTube Music that aim to make it easier for listeners to discover music, explore artists, and find podcasts they may otherwise miss.\nAnnounced at this year’s Made On YouTube event, the updates include “Ask Music,” a conversational tool for music and podcasts, and “Your Podcast Lineup,” a personalized audio guide designed to help listeners discover new shows.\nBuilt directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists. The feature works across YouTube Music’s catalog of more than 300 million songs, including official recordings, remixes, live performances, covers, and DJ sets. Users can use it to build custom listening queues, explore an artist’s motivations, or dig deeper into music history.\nImage Credits:YouTube\nYouTube explains that, instead of manually searching, the user simply types the request as if they were asking a friend. For instance, someone could ask Ask Music to create a mix based on the tracks that inspired a particular song. Users can also ask other questions, such as who played bass on a particular song or other details about its creation.\nImage Credits:YouTube\nYouTube Music is also introducing Your Podcast Lineup, a personalized AI-generated audio guide for podcast discovery.\nThe feature is designed for a familiar problem: There are more podcasts than most people have time to listen to. Even listeners who already have a list of favorite shows can struggle to keep up with new episodes, let alone find new ones.\nYour Podcast Lineup will appear on the podcast page in the YouTube Music app. Each week, it will provide a short spoken preview of recommended shows and explain why they might appeal to the listener. It can then move directly into suggested episodes.\nSpotify recently introduced an AI-powered feature that follows a similar direction. Its personal podcasts feature uses AI to generate podcast episodes based on their interests and prompts.\nThe new features are part of YouTube’s broader push to use AI throughout its services. Last year, YouTube Music experimented with AI-powered music hosts that provide stories, fan trivia, and commentary related to what users are listening to.\nBoth updates are coming soon to YouTube Music and YouTube Premium subscribers worldwide.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tLauren covers media, streaming, apps and platforms at TechCrunch.\nYou can contact or verify outreach from Lauren by emailing laurenf.techcrunch@gmail.com or via encrypted message at laurenforris22.25 on Signal.\t\n\n\tView Bio \n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "YouTube Music gets more conversational with new AI features",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/09/Youtube-music.jpeg?w=150"
+      ],
+      "datePublished": "2026-09-23T15:19:30.000Z",
+      "dateModified": "2026-09-23T15:19:30.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "YouTube will let you build your own algorithm with AI",
     "url": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/Discovery-Custom-Feeds-Title-Card-1.jpg?w=150",
@@ -350,22 +350,22 @@
     }
   },
   {
-    "title": "3 days left to save up to $200 and make impactful connections at TechCrunch Disrupt 2026",
-    "url": "https://techcrunch.com/2026/09/23/3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disrupt-2026/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/10/Networking_disrupt.png?w=150",
+    "title": "YouTube adds new creator tools like video A/B testing, dynamic thumbnails, and live dubbing",
+    "url": "https://techcrunch.com/2026/09/23/youtube-adds-new-creator-tools-like-video-a-b-testing-dynamic-thumbnails-and-live-dubbing/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Event-Made-On-Logo-Creator-Graphic-White.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-09-23T14:00:00.000Z",
-    "description": "\nThere are now three days left to save up to $200 on your TechCrunch Disrupt 2026 ticket before prices increase. As we continue our countdown of the f",
-    "body": "\nThere are now three days left to save up to $200 on your TechCrunch Disrupt 2026 ticket before prices increase. As we continue our countdown of the five reasons why you should attend, we arrive at a key reason that brings 10,000+ founders, investors, and operators together at San Francisco’s Moscone West on October 13-15.\nDon’t miss out on securing your ticket savings before they vanish on September 25 at 11:59 p.m. PT. Register to grab yours and get a second pass at 50% off.\n\nReason No. 3: Connections\nThe right introduction can change what happens next for a company. It might lead to your next investor. A customer you’ve been trying to reach. A future hire. A technology partner. Or simply someone solving a problem close enough to yours that the conversation changes how you think about it. At TechCrunch Disrupt 2026, those people are concentrated in one place.\nTurn 10,000+ attendees into the people who’ll actually push the needle\nBig events create possibilities. The trick is making them useful. At Disrupt, you can schedule 1:1 meetings through the TechCrunch Events app, which provides AI-powered matchmaking, and you can use the dedicated Networking Lounge across all three days. Alongside that are industry meetups, roundtable sessions, and the conversations that happen when thousands of people building, funding, and scaling technology companies move through the same space. Plus, countless impromptu meetings can happen from running into the right person, anywhere in the venue.\nRegister here to start making intentional connections and save up to $200 before your savings disappear on September 25 at 11:59 p.m. PT.\nImage Credits:Halo Creative\nGo beyond the LinkedIn profile\nThere’s a difference between knowing who someone is and actually having a conversation with them. A 15-minute meeting can tell you more about a founder than weeks of following their company online. A conversation with an investor can help you understand what they are really looking for. Meeting another operator can surface an answer to a challenge you assumed was unique to your team.\nAnd sometimes the useful conversation is the one you didn’t schedule. The founder sitting next to you before a session. The investor asking the question you were thinking about. The person you meet after a roundtable because you’re both trying to solve the same problem. That proximity matters.\nMake three days work for you\nYou could spend months trying to arrange the individual conversations that become possible over three days at Disrupt. So don’t just build a session schedule. Build a networking schedule.\nIdentify who you want to meet using the event app. Book your one-on-ones. Leave space for the unexpected. Walk the Expo Hall. Stay for the meetups. Talk to the person standing next to you, because one useful conversation can outlast the entire event.\nImage Credits:Eric Slomonson, The Photo Group\n3 days left to save up to $200\nCurrent TechCrunch Disrupt 2026 ticket savings end September 25 at 11:59 p.m. PT.\nRegister now to save up to $200 on your ticket and get a second ticket of the same type at 50% off. Or bring a group of four or more to save up to 30%.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "date": "2026-09-23T14:30:00.000Z",
+    "description": "\nIn a bid to help creators reach more people, YouTube on Wednesday unveiled a slew of new tools, many of which use AI to try out different tactics on ",
+    "body": "\nIn a bid to help creators reach more people, YouTube on Wednesday unveiled a slew of new tools, many of which use AI to try out different tactics on videos to find what makes them perform best. \nThe new Ask Studio feature allows creators to share draft videos with AI to get personalized feedback based on their previous content and user comments. The feature will propose alternative titles and thumbnail options, analyze the creator’s channel analytics to explain the performance of their videos, and offer advice for improving metrics. Ask Studio is expanding to YouTube’s mobile apps, too.\nImage Credits:YouTube\nYouTube already allows creators to A/B test titles and thumbnails, and from 2027, this feature will let creators upload and test three different cuts for Shorts. There’s also a Dynamic Thumbnails feature, with which creators can upload multiple thumbnails and leave it to YouTube to determine which thumbnail to show viewers that is most likely to spark their interest.\nCreators can also apply these tools to their existing catalog. If a creator allows it, Ask Studio will be able to autonomously monitor thumbnail performance and create tests to refine older videos.\nOn the shopping front, YouTube will now use AI to auto-tag products, which it says will help creators earn money through affiliate programs. The company is also expanding its Amazon affiliate program beyond the U.S.\nImage Credits:YouTube\nSome creators are understandably skeptical of using AI to support their content, worrying that just one AI-generated mistake could harm their credibility. For such features to succeed, they will need to be accurate enough to assuage creators’ concerns.\nThe platform is also giving creators new ways to go live. Early next year, YouTube will pilot auto-dubbing on live videos to translate creators’ speech into other languages in real time. The company is also launching a “live showdown” feature, which lets creators co-host streams together, and even get paired with other creators currently streaming through “live creator matchmaking.”\n“Co-hosts can kick off friendly head-to-head matchups, where viewers send chats, gifts, and Super Chats to push their creator’s score forward on-screen in real time,” YouTube Live product manager Barbara MacDonald wrote in a blog post.\nImage Credits:YouTube\nHopefully these impromptu collaborations with strangers won’t turn into a hotbed of bad behavior.\nYouTube also shared data that provides insight into how people are using the platform. More people continue to watch YouTube on household TVs, and more than half of the top 100 YouTube creators have “living room” as their most watched interface. \nYouTube’s data also confirms what we know about the growth of the microdrama industry: In the first half of 2026, microdramas on YouTube surpassed 6.5 billion views, and their watch time rose 50% year-over-year. People even seem to be watching these episodic, vertical video series on the big screen, with views of microdrama content on TVs increasing 90% year-over-year.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tAmanda Silberling is a senior writer at TechCrunch covering the intersection of technology and culture. She has also written for publications like Polygon, MTV, the Kenyon Review, NPR, and Business Insider. She is the co-host of Wow If True, a podcast about internet culture, with science fiction author Isabel J. Kim. Prior to joining TechCrunch, she worked as a grassroots organizer, museum educator, and film festival coordinator. She holds a B.A. in English from the University of Pennsylvania and served as a Princeton in Asia Fellow in Laos.\nYou can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal. \t\n\n\tView Bio \n\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "3 days left to save up to $200 and make impactful connections at TechCrunch Disrupt 2026",
+      "headline": "YouTube adds new creator tools like video A/B testing, dynamic thumbnails, and live dubbing",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/10/Networking_disrupt.png?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/09/Event-Made-On-Logo-Creator-Graphic-White.jpg?w=150"
       ],
-      "datePublished": "2026-09-23T14:00:00.000Z",
-      "dateModified": "2026-09-23T14:00:00.000Z",
+      "datePublished": "2026-09-23T14:30:00.000Z",
+      "dateModified": "2026-09-23T14:30:00.000Z",
       "author": [
         {
           "@type": "Person",
