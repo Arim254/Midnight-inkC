@@ -50,6 +50,31 @@
     }
   },
   {
+    "title": "Google tests letting Gemini call businesses for you",
+    "url": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Pixel-HiLight.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-09-24T16:00:00.000Z",
+    "description": "\nWith AI agents like Meta’s Muse and Instinct now able to make calls on users’ behalf, Google is now letting Gemini call businesses with a new feature",
+    "body": "\nWith AI agents like Meta’s Muse and Instinct now able to make calls on users’ behalf, Google is now letting Gemini call businesses with a new feature called “Call for Me.” \nThe feature will initially roll out to Pixel 11 owners who pay for a Gemini subscription in the U.S. It will also require the use of the beta version of Google’s Phone app for Android, as it’s still supposed to be an experiment. \nWhile Google has long offered calling features guided by AI, prior versions were limited in what they could do. With this update, Gemini will be able to share personal information that you approve as part of the calls it makes, which, the company says, will allow it to take a broader set of actions.\nIn addition, Google says users will be able to follow the call as it happens and take over at any time. “Call for Me” will also use your own personal phone number to make calls, which will be dialed directly from your phone.\nGoogle says the AI can handle complex tasks, like calling a store to ask if a product is in stock, making a restaurant reservation, moving a scheduled appointment to a different date, or placing items on hold.\nThe AI can call a business and introduce itself, navigate automated phone menus, wait on hold, and then handle the conversation on the other end. Meanwhile, users can watch how the call proceeds via a live transcript of the conversation.\nThe launch builds on years of experiments with AI-assisted, automated calling technology at Google.\nYears ago, the company wowed people at its I/O developer conference when it demonstrated Google Assistant calling a salon to make a reservation, and even adding little “umm’s” and “ahh’s” to make the conversation seem natural.\nLast year, it rolled out “Ask for Me,” a feature that let Gemini call businesses on users’ behalf to inquire about things like pricing or services. People with Pixel smartphones have also had access to features like “Hold for Me” or “Talk to a Live Rep,” which can navigate phone trees, then automatically wait on hold until a real person comes to the line. Another option, “Direct My Call,” can display the numbers to navigate IVR systems.\nGoogle said it’s starting this experiment at a small scale because “real-world conversations are nuanced,” and it needs time to get the feature right before rolling it out more broadly.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\n\tView Bio \n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Google tests letting Gemini call businesses for you",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/08/Pixel-HiLight.jpg?w=150"
+      ],
+      "datePublished": "2026-09-24T16:00:00.000Z",
+      "dateModified": "2026-09-24T16:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
     "url": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/clueless-closet.webp?w=150",
@@ -75,47 +100,22 @@
     }
   },
   {
-    "title": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
-    "url": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Feather-cropped.jpg?w=150",
+    "title": "Lovable’s annualized revenue crosses $600M as vibe coding takes off",
+    "url": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Fabin-Hedin-Lovable.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-09-24T18:52:38.000Z",
-    "description": "\nIf there is one thing robotics founders and investors agree on, it’s that the “ChatGPT moment” where a general-purpose robot can seamlessly adapt to ",
-    "body": "\nIf there is one thing robotics founders and investors agree on, it’s that the “ChatGPT moment” where a general-purpose robot can seamlessly adapt to any environment has not arrived. Opinions vary on whether the breakthrough is just around the corner or a decade away.\nFeather Robotics, a humanoid startup founded last year, is developing a robot for either timeline. Unlike Tesla or Figure, which are tackling the lofty mission of building both the body and a foundational “brain” that isn’t yet widely deployed, Feather provides the hardware and software toolkit for developers to tackle real-world tasks now.\n“You can’t buy a Tesla robot today and develop on top of it,” Feather co-founder Hoa Mai told TechCrunch. “We realized that this is not how most companies became successful. Hardware players like Nvidia or Apple started with a product that worked and was deployable, and then they added complexity over time.”\nIn 2025, after his previous humanoid startup was sold to 1X, Mai (pictured above, left) teamed up with Parsa Bakhtiari (pictured above, right), a former Tesla Model 3 engineer who at one point reported directly to Elon Musk, to build what the duo hopes will become the Android of robotics.\nThat vision was attractive to Gradient Ventures, which backed Feather at its inception, leading the startup’s previously announced $7.6 million pre-seed round.\nSince then, Feather has rolled out a modular robotic system that allows developers to customize the hardware for different use cases, such as adjusting arm lengths. The startup has already begun selling to customers, surpassing $1 million in revenue.\nAlthough Feather is not disclosing its customers, it said that its robots are working as cooks in restaurants and cleaning up science labs. On the software side, the hardware can run models from any leading robotics AI provider, including Nvidia, Skild, or Physical Intelligence.\n“We’ve been selling small quantities of these robots, and now that we resolved like almost all the issues over the last year of field testing, we’re getting ready for a big product launch,” Mai said.\nAccording to Darian Shirazi, general partner at Gradient, Feather doesn’t have direct competitors in the U.S. He breaks down the current hardware robotics landscape into three categories: startups like Sunday building domestic household robots, heavyweights like Figure and Tesla aiming for general-purpose machines, and Feather, which, he believes, is the only U.S. startup developing a modular humanoid platform.\nMai admits that Feather took a page from Chinese robotics companies like Unitree. But with new foreign-made models restricted from entering the U.S. market, Feather is now uniquely positioned as a homegrown option of its kind.\nFeather’s other advantage is its price. The robot costs $30,000, which is about half the price Unitree’s H2 Edu.\nShirazi believes the market size at that price could be very large. “You would hire a laborer for $50,000 to $60,000 a year, you’d have to train [them]. They’d have to have HR. They’d have to have all these different support mechanisms,” he said. “You can now buy a Feather robot to do that.”\nFeather is also operating extremely efficiently, having spent only a fraction of its pre-seed funding, according to Shirazi.\nThe startup’s big bet, of course, is that the value in robotics will come from an ecosystem developed around the hardware.\n“If we think about the market size today for physical AI companies, it’s very small,” Mai said. “But if you think about how many physical AI application companies will probably exist in five years, we expect it to be in the thousands.”\nFeather hopes to be the platform that powers all of them.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tMarina Temkin is a venture capital and startups reporter at TechCrunch. Prior to joining TechCrunch, she wrote about VC for PitchBook and Venture Capital Journal. Earlier in her career, Marina was a financial analyst and earned a CFA charterholder designation.\r\nYou can contact or verify outreach from Marina by emailing marina.temkin@techcrunch.com or via encrypted message at +1 347-683-3909 on Signal.\t\n\n\tView Bio \n\n",
+    "date": "2026-09-24T14:43:25.000Z",
+    "description": "\n\t\n\t\tImage Credits:HumanX/Mementophoto\t\n\t\n\t\t\t\t\t\t7:43 AM PDT · September 24, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nLovable has crossed annual run-rate revenue of $600 m",
+    "body": "\n\t\n\t\tImage Credits:HumanX/Mementophoto\t\n\t\n\t\t\t\t\t\t7:43 AM PDT · September 24, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nLovable has crossed annual run-rate revenue of $600 million, the company’s co-founder Fabian Hedin said at the HumanX summit in Amsterdam on Thursday. The vibe-coding platform in June said that number was around $500 million.\nHedin said the startup has focused on growing its enterprise business, and claimed that people at two-thirds of Fortune 500 companies are now using its product. Its customers include Microsoft, Nvidia, and Deutsche Telekom.\nHe also said apps created by users on the platform are together attracting nearly a billion views per month.\n“You can use these tools [like Codex or Claude code] to output code. The difference is that Lovable does not output code. The output is a product, and increasingly so, a business. We do a lot of things around hosting, deployment, and scaling apps. We have close to a billion visits per month to the apps that we’ve created, which is an order of magnitude more than Lovable itself,” he said.\nThe company has raised over $700 million in two rounds just eight months apart. Last December, it raised $300 million from Menlo Ventures and CapitalG at a $6.6 billion valuation. Then, this August, the startup raised $400 million from Menlo Ventures and the Scaleup Europe Fund at a $13.3 billion valuation.\nLovable clarified that Hadin meant to say that people at two-thirds of Fortune 500 companies are using the platform.\n\n\t\t\t\n\tTopics\n\n\t\t\tWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\n\tView Bio \n\n\n\t\t",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
+      "headline": "Lovable’s annualized revenue crosses $600M as vibe coding takes off",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/09/Feather-cropped.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/09/Fabin-Hedin-Lovable.jpg?w=150"
       ],
-      "datePublished": "2026-09-24T18:52:38.000Z",
-      "dateModified": "2026-09-24T18:52:38.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Nexterity wants to automate the hard, dangerous part of pipefitting",
-    "url": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/IMG_0951-rotated.jpeg?w=113",
-    "tag": "Tech",
-    "date": "2026-09-24T20:45:00.000Z",
-    "description": "\nLindsey Elliott is big into bolts. At last year’s Bolting Symposium — the 13th annual — she said the highlight was playing “Bolting Bingo” against th",
-    "body": "\nLindsey Elliott is big into bolts. At last year’s Bolting Symposium — the 13th annual — she said the highlight was playing “Bolting Bingo” against the many self-proclaimed “torque dorks” who were in the room. \nA former engineer and planner at ExxonMobil, Elliott has spent years thinking about how to improve the infrastructure that moves oil, gas, and petrochemicals. Bolts are what she landed on. Specifically, the bolts that connect sections of pipe (technically called “bolted flange joints”). These bolts require hard, physical work to loosen and tighten, and are the source of many pipefitters’ injuries. Like many trade industries, there’s also a labor shortage. \n“Those people get really tired when they’re asked to work 12 hours a day for three months in a row,” she told TechCrunch. “I’ve talked to pipefitters across the U.S. across Canada, and just repeatedly have been told North American pipefitting productivity is notoriously low.” \nThe solution Elliott came up with at her startup Nexterity, which is one of the Startup Battlefield 200 selected to participate in TechCrunch Disrupt, is a remote-controlled robot that can handle this part of the job. It’s the kind of idea that could fundamentally change this particular blue collar job if widely adopted, making the workers safer and more productive. \nThink: more dork, less torque.\nThe robot comes in two main pieces that fit around a pipe. Powered by batteries, the robot can slide across the pipe once it’s attached and quickly loosen and tighten four bolts at a time. \nElliott said Nexterity has developed a few different configurations of the robot to fit different standard pipe sizes, but they’re all small enough to fit in a Pelican case and be carried by a single worker. That makes them easy to deploy to new sites — flexibility that is crucial to Nexterity’s business model of treating the robot like rental construction equipment.\nElliott said she arrived at this particular design as a result of conversations she’s had over the last few years — not just at the Bolting Symposium, but also with members of the Pressure Vessels & Piping Division of the American Society of Mechanical Engineers.\n“What I learned from the people, the torque dorks per se,” she said, “is that 80% of our pipes are between two to eight inches in diameter, or what they call NPS2 to NPS8. And so when you have that much repeatability, you have a fantastic candidate for automation.” \nIt’s a pretty straightforward idea, but one that Elliott believes has a lot of upside. \n“I think it would shock a lot of people just how big this market is,” she said. “I mean, day to day, most of us don’t think about piping infrastructure, but even water, wastewater, water treatment, food and beverage, mining, nuclear, any kind of green and sustainable manufacturing facility — they all use the same kind of piping.” \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\n\tView Bio \n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Nexterity wants to automate the hard, dangerous part of pipefitting",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/09/IMG_0951-rotated.jpeg?w=113"
-      ],
-      "datePublished": "2026-09-24T20:45:00.000Z",
-      "dateModified": "2026-09-24T20:45:00.000Z",
+      "datePublished": "2026-09-24T14:43:25.000Z",
+      "dateModified": "2026-09-24T14:43:25.000Z",
       "author": [
         {
           "@type": "Person",
@@ -150,106 +150,6 @@
     }
   },
   {
-    "title": "Lovable’s annualized revenue crosses $600M as vibe coding takes off",
-    "url": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Fabin-Hedin-Lovable.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-09-24T14:43:25.000Z",
-    "description": "\n\t\n\t\tImage Credits:HumanX/Mementophoto\t\n\t\n\t\t\t\t\t\t7:43 AM PDT · September 24, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nLovable has crossed annual run-rate revenue of $600 m",
-    "body": "\n\t\n\t\tImage Credits:HumanX/Mementophoto\t\n\t\n\t\t\t\t\t\t7:43 AM PDT · September 24, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nLovable has crossed annual run-rate revenue of $600 million, the company’s co-founder Fabian Hedin said at the HumanX summit in Amsterdam on Thursday. The vibe-coding platform in June said that number was around $500 million.\nHedin said the startup has focused on growing its enterprise business, and claimed that two-thirds of Fortune 500 companies are now using its product. Its customers include Microsoft, Nvidia, and Deutsche Telekom.\nHe also said apps created by users on the platform are together attracting nearly a billion views per month.\n“You can use these tools [like Codex or Claude code] to output code. The difference is that Lovable does not output code. The output is a product, and increasingly so, a business. We do a lot of things around hosting, deployment, and scaling apps. We have close to a billion visits per month to the apps that we’ve created, which is an order of magnitude more than Lovable itself,” he said.\nThe company has raised over $700 million in two rounds just eight months apart. Last December, it raised $300 million from Menlo Ventures and CapitalG at a $6.6 billion valuation. Then, this August, the startup raised $400 million from Menlo Ventures and the Scaleup Europe Fund at a $13.3 billion valuation.\n\n\t\t\t\n\tTopics\n\n\t\t\tWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\t\n\n\tView Bio \n\n\n\t\t",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Lovable’s annualized revenue crosses $600M as vibe coding takes off",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/09/Fabin-Hedin-Lovable.jpg?w=150"
-      ],
-      "datePublished": "2026-09-24T14:43:25.000Z",
-      "dateModified": "2026-09-24T14:43:25.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Google tests letting Gemini call businesses for you",
-    "url": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Pixel-HiLight.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-09-24T16:00:00.000Z",
-    "description": "\nWith AI agents like Meta’s Muse and Instinct now able to make calls on users’ behalf, Google is now letting Gemini call businesses with a new feature",
-    "body": "\nWith AI agents like Meta’s Muse and Instinct now able to make calls on users’ behalf, Google is now letting Gemini call businesses with a new feature called “Call for Me.” \nThe feature will initially roll out to Pixel 11 owners who pay for a Gemini subscription in the U.S. It will also require the use of the beta version of Google’s Phone app for Android, as it’s still supposed to be an experiment. \nWhile Google has long offered calling features guided by AI, prior versions were limited in what they could do. With this update, Gemini will be able to share personal information that you approve as part of the calls it makes, which, the company says, will allow it to take a broader set of actions.\nIn addition, Google says users will be able to follow the call as it happens and take over at any time. “Call for Me” will also use your own personal phone number to make calls, which will be dialed directly from your phone.\nGoogle says the AI can handle complex tasks, like calling a store to ask if a product is in stock, making a restaurant reservation, moving a scheduled appointment to a different date, or placing items on hold.\nThe AI can call a business and introduce itself, navigate automated phone menus, wait on hold, and then handle the conversation on the other end. Meanwhile, users can watch how the call proceeds via a live transcript of the conversation.\nThe launch builds on years of experiments with AI-assisted, automated calling technology at Google.\nYears ago, the company wowed people at its I/O developer conference when it demonstrated Google Assistant calling a salon to make a reservation, and even adding little “umm’s” and “ahh’s” to make the conversation seem natural.\nLast year, it rolled out “Ask for Me,” a feature that let Gemini call businesses on users’ behalf to inquire about things like pricing or services. People with Pixel smartphones have also had access to features like “Hold for Me” or “Talk to a Live Rep,” which can navigate phone trees, then automatically wait on hold until a real person comes to the line. Another option, “Direct My Call,” can display the numbers to navigate IVR systems.\nGoogle said it’s starting this experiment at a small scale because “real-world conversations are nuanced,” and it needs time to get the feature right before rolling it out more broadly.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \t\n\n\tView Bio \n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Google tests letting Gemini call businesses for you",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/08/Pixel-HiLight.jpg?w=150"
-      ],
-      "datePublished": "2026-09-24T16:00:00.000Z",
-      "dateModified": "2026-09-24T16:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-    "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-09-24T00:46:17.000Z",
-    "description": "\nThe AI amulet has become a bit of a cliché in the tech industry — devices like Friend have turned the idea of physical AI into little more than an ex",
-    "body": "\nThe AI amulet has become a bit of a cliché in the tech industry — devices like Friend have turned the idea of physical AI into little more than an exercise in eye-rolling for many consumers. \nBut that hasn’t stopped Meta from jumping into the arena with its own AI wearable, called Muse Charm, which is designed to give consumers another way to stay connected to its recently launched, and already popular, personal AI agent, Muse. \nThe device, which CEO Mark Zuckerberg revealed in a “one more thing” moment during the company’s annual Connect event, isn’t ready to ship just yet. Zuckerberg said his team had to “finalize laying out the components” and promised the devices would be “ready to ship in time for the holidays in December.”\nThe Muse agent, which is now embodied by a cute digital avatar known within the company as Jolly, lives inside the palm-sized totem that users can carry in their pockets or attach to a keychain. The device comes with a tiny screen that displays the avatar representing the agent. Users can talk to the device, which can then presumably carry out tasks on their behalf.\n“We packed the whole Muse experience, including the whole real-time voice and avatar stack, into something that fits on a keychain and is always available to talk to,” Zuckerberg said during Wednesday’s keynote. “You just go ahead and tap here in the fingerprint sensor in the corner, and you can start talking without having to unlock a phone or open an app.”\nZuckerberg added: “So if you’re not wearing glasses, this is going to be by far the fastest way to talk to your Muse and to show what’s going on around you.”\nAppropriate for what it offers, the gadget has a quasi-Tamagotchi feel to it — a lightweight, personality-filled device designed to keep users always connected to Meta’s software. It also feels like a relatively low-stakes way for the social media giant to experiment with AI wearables while also offering yet another way to distribute its AI agent to the masses.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tLucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. \nYou can contact Lucas by emailing lucas.ropek@techcrunch.com.\t\n\n\n\tView Bio \n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?w=150"
-      ],
-      "datePublished": "2026-09-24T00:46:17.000Z",
-      "dateModified": "2026-09-24T00:46:17.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
-    "url": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Disrupt-2025-Builders-Stage-Crowd.png?w=150",
-    "tag": "Tech",
-    "date": "2026-09-24T14:30:00.000Z",
-    "description": "\nWhat happens when the app you started in high school goes viral?\nFor Zach Yadegari, the answer was more than 15 million downloads, $30 million in ann",
-    "body": "\nWhat happens when the app you started in high school goes viral?\nFor Zach Yadegari, the answer was more than 15 million downloads, $30 million in annual revenue, and an acquisition by MyFitnessPal — all before his 20th birthday. Yadegari was just 17 when he co-founded Cal AI, the AI-powered nutrition app that lets users track what they eat by snapping a photo.\nBut those numbers leave out the part most founders would like to know: How did Cal AI get that kind of viral attention in the first place? And once millions of people showed up, how did the company make the most of that momentum?\nAt TechCrunch Disrupt 2026, Yadegari will take the Builders Stage for the fireside chat “How to Create Viral Growth and Capitalize On It.” He’ll get into Cal AI’s rapid growth, the product pressure that came with it, and the challenge of turning breakout attention into durable retention and long-term company building.\nImage Credits:TechCrunch\nTrying to break through in a crowded market? Save up to $200 when you secure your pass by September 25 at 11:59 p.m. PT and hear what Yadegari learned building a breakout consumer app. Got a colleague who’d like to join? Get a second pass for 50% off.\nHow did Cal AI turn viral growth into a $30 million business?\nCal AI is built around a simple proposition: Snap a photo of a meal, and the app uses image recognition and the phone’s depth sensor to calculate calories, protein, carbs, and fat.\nZach Yadegari was still a high school senior when he co-founded Cal AI, but it wasn’t his first experience attracting a large online audience. At 16, he sold Totally Science, a gaming platform he founded that drew more than 5 million users during the COVID-19 pandemic, for six figures.\nCal AI moved even faster. In less than two years, it had more than 15 million downloads and was generating more than $30 million in annual revenue. MyFitnessPal took notice, acquiring the company in a deal that closed in December 2025. The deal kept Cal AI as a stand-alone app, retained its seven-person team, and left Yadegari at the helm.\nAt Disrupt, Yadegari will share what Cal AI learned about building in a distribution-driven market where a product can find a massive audience fast — and what it takes to exploit that viral growth when it happens. \nChasing your own breakout moment? Get your Disrupt ticket to learn from Cal AI’s story. Save up to $200 on your pass and get a second pass for 50% off select ticket types. Secure your ticket by September 25 at 11:59 p.m. PT.\nWhat can founders learn from Cal AI’s rapid rise?\nFor founders chasing growth, Yadegari’s story offers a look at both sides of a viral breakout: how a product finds a massive audience and what it takes to turn that attention into durable retention and long-term company building.\nYadegari’s fireside chat is one of 200+ sessions across six industry stages at Disrupt, taking place October 13-15 at Moscone West in San Francisco. More than 10,000 founders, investors, operators, and tech leaders are expected, along with 250+ speakers, roundtables, and breakouts and 300+ exhibiting startups.\nBeyond the agenda, matchmaking, dealmaking, and networking give founders opportunities to connect with investors, potential customers, partners, and other builders working through many of the same challenges.\nThese are the last two days to save up to $200 on your Disrupt pass. Secure your ticket by September 25 at 11:59 p.m. PT — and get a second pass for 50% off select ticket types. Lock in your savings to hear Zach Yadegari share the lessons behind Cal AI’s viral success.\nImage Credits:Kimberly White / Getty Images\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/05/Disrupt-2025-Builders-Stage-Crowd.png?w=150"
-      ],
-      "datePublished": "2026-09-24T14:30:00.000Z",
-      "dateModified": "2026-09-24T14:30:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
     "url": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/Sara-Du.png?w=150",
@@ -275,22 +175,47 @@
     }
   },
   {
-    "title": "Australia to investigate if OpenAI hack of government health website broke the law",
-    "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/albanese-2296078640.jpg?w=150",
+    "title": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
+    "url": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Feather-cropped.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-09-24T12:54:19.000Z",
-    "description": "\nAn OpenAI model hacked into an Australian government website, the country’s prime minister Anthony Albanese said Wednesday, in the first publicly rep",
-    "body": "\nAn OpenAI model hacked into an Australian government website, the country’s prime minister Anthony Albanese said Wednesday, in the first publicly reported case of an AI model hacking into a government’s systems. \nAlbanese said that there would “obviously be legal consequences” following the breach, and that OpenAI faces a government investigation into how its unreleased models gained access to reams of bulk health data information.\nThis latest incident disclosure comes as governments and tech companies grapple with how to rein in increasingly autonomous AI after a recent spate of AI agents breaking out of their sandboxes, colluding on the internet, and posing cybersecurity issues.\nThe breach also poses questions about how both OpenAI and the Australian government failed to detect the attack until several months later.\nDuring a Wednesday news briefing at the U.N. General Assembly, Albanese said that the breach began on June 18, but that OpenAI did not notify the government until September 10.\nOpenAI only became aware of the incident in August when it turned up during a broader, companywide review of agents behaving in unintended ways, according to an OpenAI spokesperson who reached TechCrunch via email. \nThe unspecified OpenAI agent obtained both public and nonpublic files from Services Australia, which administers Australia’s universal healthcare scheme. While the prime minister said there is no evidence that any citizens’ personal information was leaked, OpenAI said that the information the agent reached included aggregate health statistics and internal file names.\nThe agent was running during an internal OpenAI evaluation, seeking answers about Australia and publicly available medicine information. At the Medicare portal, the agent encountered repeated blocks but found ways around them. \nAlbanese told reporters that the model “didn’t accept no for an answer,” and added that the model had actively written data to the government’s database, rather than just accessing it, indicating the possibility that the department’s data was modified or muddied.\nThe prime minister said OpenAI disclosed the breach by sending a notification to the public mailbox of Services Australia, which then notified Australia’s Cyber Security Centre five days later. It’s unclear why there was a delay, but Albanese said he raised the breach directly with OpenAI chief executive Sam Altman by stressing Australia’s “extreme concern” about this incident and “disappointment” that OpenAI sat on the information for nearly three months.\n“This situation is obviously unacceptable,” said Albanese, making clear that he held the company accountable for both the hack and how slowly it came to light.\nAlbanese said that the government’s investigation will consider law enforcement and legislative responses to prevent incidents like this one happening again.\nAustralian media outlet ABC News reports that the latest identified attack may have relied on an earlier breach of a German wiki site, which was used as a staging ground for attacking the Australian government’s website. The AI model agents reportedly used the German wiki to leave notes to be used in later hacks, including a note to obtain data from the Australian Institute of Health and Welfare, a federal agency that publishes national health data. The agency is one of three additional systems that Albanese said may have been breached.\nTransluce, a nonprofit AI research lab, separately found public records showing AI agents targeting the Australian Institute of Health and Welfare on June 20 and 21.\nOpenAI did not respond to TechCrunch’s specific inquiry on whether the incidents were connected but acknowledged their “activity involving several Australian government websites and services.”\nThe incident comes after a string of security incidents caused by rogue agents, often acting within the infrastructure of AI labs. In July, swarms of OpenAI agents breached Hugging Face. Since then, more incidents of AI agent hacks from Anthropic, Meta, and Google have been revealed.\nOpenAI now says it is conducting an “extensive review of misaligned model activity during training and evaluation” and is notifying third parties of potential breaches.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\n\t\n\t\tAditya Mehta is a reporter at TechCrunch covering AI. He’s supported by the Tarbell Center for AI Journalism and attended UC Berkeley. You can contact from Aditya by emailing aditya.mehta@techcrunch.com or via encrypted message at adymehta.74 on Signal.\t\n\n\n\tView Bio \n\n\n\n\n\t\tZack Whittaker is the security editor at TechCrunch. He also authors the weekly cybersecurity newsletter, this week in security. \nHe can be reached via encrypted message at zackwhittaker.1337 on Signal. You can also contact him by email, or to verify outreach, at zack.whittaker@techcrunch.com. \t\n\n\tView Bio \n\n\n\t",
+    "date": "2026-09-24T18:52:38.000Z",
+    "description": "\nIf there is one thing robotics founders and investors agree on, it’s that the “ChatGPT moment” where a general-purpose robot can seamlessly adapt to ",
+    "body": "\nIf there is one thing robotics founders and investors agree on, it’s that the “ChatGPT moment” where a general-purpose robot can seamlessly adapt to any environment has not arrived. Opinions vary on whether the breakthrough is just around the corner or a decade away.\nFeather Robotics, a humanoid startup founded last year, is developing a robot for either timeline. Unlike Tesla or Figure, which are tackling the lofty mission of building both the body and a foundational “brain” that isn’t yet widely deployed, Feather provides the hardware and software toolkit for developers to tackle real-world tasks now.\n“You can’t buy a Tesla robot today and develop on top of it,” Feather co-founder Hoa Mai told TechCrunch. “We realized that this is not how most companies became successful. Hardware players like Nvidia or Apple started with a product that worked and was deployable, and then they added complexity over time.”\nIn 2025, after his previous humanoid startup was sold to 1X, Mai (pictured above, left) teamed up with Parsa Bakhtiari (pictured above, right), a former Tesla Model 3 engineer who at one point reported directly to Elon Musk, to build what the duo hopes will become the Android of robotics.\nThat vision was attractive to Gradient Ventures, which backed Feather at its inception, leading the startup’s previously announced $7.6 million pre-seed round.\nSince then, Feather has rolled out a modular robotic system that allows developers to customize the hardware for different use cases, such as adjusting arm lengths. The startup has already begun selling to customers, surpassing $1 million in revenue.\nAlthough Feather is not disclosing its customers, it said that its robots are working as cooks in restaurants and cleaning up science labs. On the software side, the hardware can run models from any leading robotics AI provider, including Nvidia, Skild, or Physical Intelligence.\n“We’ve been selling small quantities of these robots, and now that we resolved like almost all the issues over the last year of field testing, we’re getting ready for a big product launch,” Mai said.\nAccording to Darian Shirazi, general partner at Gradient, Feather doesn’t have direct competitors in the U.S. He breaks down the current hardware robotics landscape into three categories: startups like Sunday building domestic household robots, heavyweights like Figure and Tesla aiming for general-purpose machines, and Feather, which, he believes, is the only U.S. startup developing a modular humanoid platform.\nMai admits that Feather took a page from Chinese robotics companies like Unitree. But with new foreign-made models restricted from entering the U.S. market, Feather is now uniquely positioned as a homegrown option of its kind.\nFeather’s other advantage is its price. The robot costs $30,000, which is about half the price Unitree’s H2 Edu.\nShirazi believes the market size at that price could be very large. “You would hire a laborer for $50,000 to $60,000 a year, you’d have to train [them]. They’d have to have HR. They’d have to have all these different support mechanisms,” he said. “You can now buy a Feather robot to do that.”\nFeather is also operating extremely efficiently, having spent only a fraction of its pre-seed funding, according to Shirazi.\nThe startup’s big bet, of course, is that the value in robotics will come from an ecosystem developed around the hardware.\n“If we think about the market size today for physical AI companies, it’s very small,” Mai said. “But if you think about how many physical AI application companies will probably exist in five years, we expect it to be in the thousands.”\nFeather hopes to be the platform that powers all of them.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tMarina Temkin is a venture capital and startups reporter at TechCrunch. Prior to joining TechCrunch, she wrote about VC for PitchBook and Venture Capital Journal. Earlier in her career, Marina was a financial analyst and earned a CFA charterholder designation.\r\nYou can contact or verify outreach from Marina by emailing marina.temkin@techcrunch.com or via encrypted message at +1 347-683-3909 on Signal.\t\n\n\tView Bio \n\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Australia to investigate if OpenAI hack of government health website broke the law",
+      "headline": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/09/albanese-2296078640.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/09/Feather-cropped.jpg?w=150"
       ],
-      "datePublished": "2026-09-24T12:54:19.000Z",
-      "dateModified": "2026-09-24T12:54:19.000Z",
+      "datePublished": "2026-09-24T18:52:38.000Z",
+      "dateModified": "2026-09-24T18:52:38.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "2 days left to save up to $200 on a TechCrunch Disrupt 2026 pass — reason 4 of 5 to attend",
+    "url": "https://techcrunch.com/2026/09/24/2-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-7-to-attend/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/05/breakout_1200x600_a9107e-e1790285913616.png?w=150",
+    "tag": "Tech",
+    "date": "2026-09-24T14:00:00.000Z",
+    "description": "\nThere are only two days left to save up to $200 on your TechCrunch Disrupt 2026 pass, and we’re on reason 4 of 5 why you should attend. While most te",
+    "body": "\nThere are only two days left to save up to $200 on your TechCrunch Disrupt 2026 pass, and we’re on reason 4 of 5 why you should attend. While most tech events can give you plenty to think about, the useful ones also give you something to do differently when you get back to work.\nBefore we dive into the next reason, secure your pass before these savings disappear after September 25 at 11:59 p.m. PT. Bring a second guest at 50% off.\n\nReason No. 4: Practical answers\nAcross three days at Disrupt, happening October 13-15 at San Francisco’s Moscone West, some of the biggest questions facing founders, investors, and technology leaders are being turned into working conversations. How do you build defensibility when an AI platform can ship into your category? What does it actually take to land a first institutional check? How should startups compete for AI talent? How do you price AI products sustainably? When should M&A become part of your strategy? What separates a company that investors find interesting from one they are prepared to fund? These aren’t theoretical questions for the people answering them.\nBring the problem you’re dealing with now to Disrupt\nThe Builders Stage is built around the realities of building and scaling companies: fundraising, hiring, product-market fit, product strategy, and growth. Roundtables go smaller and more interactive, creating space to get into the decisions behind the headlines. Breakouts are where you go to ask direct questions to a panel of leaders.\nAcross the wider agenda, founders, investors, and operators are tackling questions around AI agents, enterprise adoption, fintech, infrastructure, robotics, energy, security, and the changing economics of building technology companies. The point isn’t to collect more predictions — it’s to understand how people dealing with these shifts right now are responding to them.\nHear from 250+ leaders who’ve made waves across the tech ecosystem, including founders, VCs, and operators from Anthropic, OpenAI, Rivian, Cerebras, Replit, and more, alongside featured guest Mark Wahlberg. Grab your pass now to save up to $200 before September 25 at 11:59 p.m. PT.\nImage Credits:Slava Blazer Photography / Flickr (opens in a new window)\nGet closer to how decisions actually get made\nIf you’re raising, you can hear investors explain what moves a company from a first meeting toward a term sheet. If you’re building, you can hear how other founders are thinking about product differentiation, AI economics, hiring, distribution, and scale. If you invest, you can see how operators are adapting their companies in real time and where new problems — and potentially new markets — are emerging.\nAnd if you lead product or technology, you can compare how companies across different sectors are approaching many of the same decisions you’re making internally. The goal is to leave with a sharper view of the options in front of you.\nTurn notes into next moves\nAcross 200+ sessions and six stages, roundtables, and breakouts, you can prioritize the sessions that answer the questions that matter most to you now. Ask fellow speakers and attendees what worked. Ask what didn’t. Ask what they would do differently. Then take those answers back into your own decisions. Because the best thing you can bring home from TechCrunch Disrupt isn’t a notebook full of quotes. It’s a better idea of what to do next.\n2 days left to save up to $200 on your Disrupt pass\nTicket savings for TechCrunch Disrupt 2026 end September 25 at 11:59 p.m. PT. Register now to save up to $200 on your ticket and get a second ticket of the same type at 50% off. Groups of four or more can save up to 30%.\nTwo days left. Bring your biggest questions. Leave with better ways to answer them.\nImage Credits:Kimberly White / Getty Images\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "2 days left to save up to $200 on a TechCrunch Disrupt 2026 pass — reason 4 of 5 to attend",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2024/05/breakout_1200x600_a9107e-e1790285913616.png?w=150"
+      ],
+      "datePublished": "2026-09-24T14:00:00.000Z",
+      "dateModified": "2026-09-24T14:00:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -325,6 +250,31 @@
     }
   },
   {
+    "title": "Waymo is scaling fast: Here’s what the fleet data shows",
+    "url": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Waymo-parking-charging-getty.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-09-24T23:24:33.000Z",
+    "description": "\nWaymo’s commercial robotaxi ramp-up looks expansive, both in geographic reach and in ridership. And by almost every measure, it is — until you pay at",
+    "body": "\nWaymo’s commercial robotaxi ramp-up looks expansive, both in geographic reach and in ridership. And by almost every measure, it is — until you pay attention to where the bulk of those robotaxis are actually showing up.\nThe numbers over the past two years reflect the kind of commercial rollout you’d expect from a deep-pocketed company like Waymo, which spun out of Google and still counts Alphabet as its majority owner. In September 2024, Waymo was operating in just three cities — Phoenix, Los Angeles, and San Francisco. Today, it offers robotaxi service in 15 U.S. cities, with most of those commercial launches occurring in the past year. Ridership has skyrocketed, too, with Waymo now averaging 500,000 paid robotaxi rides every week.\nBut a closer look at its fleet shows a company concentrating its efforts in just two states. About 80% of Waymo’s roughly 4,000 robotaxis are in California and Texas, and Texas is where the action is now: Waymo’s fleet there has grown by nearly half in the past three weeks, fueled by a new Chinese-built minivan the company is betting will help it scale, even as tariffs drive up its costs.\nThe other 800 or so vehicles are spread across cities in other states, including Arizona and Florida, another burgeoning hot spot. Most are the familiar white Jaguar I-Pace electric SUVs, but a growing number are the new minivans — a modified Zeekr RT that Waymo has branded “Ojai.”\nWaymo’s focus on California is no surprise. It is headquartered in Silicon Valley, and much of its early testing and development work was conducted there. Plus, a segment of the population there is inclined to adopt tech at its earliest stages.\nThe recent growth in Texas is more interesting. Waymo has increased its Texas fleet by 49% in the past three weeks, according to state vehicle registrations and data from the Texas Autonomous Vehicle Fleet Tracker. As of September 24, Waymo had 1,102 autonomous vehicles registered in the state.\nWaymo first launched in commercial service in Austin through a partnership with Uber in March 2025, letting riders hail its robotaxis through the Uber app. Since then, the company has expanded its robotaxi services in Dallas, Houston, and San Antonio.\nWaymo’s Texas fleet remained relatively static for most of the summer, inching up from about 600 vehicles in June to more than 700 by the end of August. Then came September, when the fleet surged, driven by an influx of new Ojai minivans, which now make up about a third of Waymo’s Texas fleet.\nExpect that share to grow.\nThe Ojai robotaxi, equipped with Waymo’s sixth-generation self-driving system, is supposed to help Waymo reach mass scale. Its interior is built to withstand heavy use, and it comes with an upgraded rider interface and Google’s Gemini AI, which acts as an in-car assistant for riders. \nStrip away that technology, though, and the Ojai is a minivan made by Zeekr, a brand owned by China’s Geely Holding Group (which also owns Volvo). The Ojai is built on Zeekr’s SEA-M platform, a shared vehicle platform designed for uses like robotaxis and delivery vans. The base Zeekr vehicles are shipped to the U.S. without any Chinese connected-car technology on board. Once they arrive, the vehicles are sent to Waymo’s Arizona factory, where they are outfitted with Waymo’s self-driving system.\nThe Ojai is supposed to drive down costs and ultimately help Waymo reach profitability. For now, though, tariffs are cutting any savings. Under current U.S. trade policy, vehicles built in China face steep import tariffs, raising Waymo’s costs for every Ojai it brings into the country.\nWaymo appears willing to absorb that cost. New York-based research firm MoffettNathanson, which tracks Ojai imports using detailed shipping records, said in its September report that Waymo is on track to bring 5,100 of the vehicles into the U.S. by the end of the year.\nWhere will all those Ojai vehicles go? Texas is certainly on the list. But Florida, where Waymo operates in three cities, and newer markets like Las Vegas will likely see an influx as well.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tKirsten Korosec is a reporter and editor who has covered the future of transportation from EVs and autonomous vehicles to urban air mobility and in-car tech for more than a decade. She is currently the transportation editor at TechCrunch and co-host of TechCrunch’s Equity podcast. She is also co-founder and co-host of the podcast, “The Autonocast.” She previously wrote for Fortune, The Verge, Bloomberg, MIT Technology Review and CBS Interactive.\nYou can contact or verify outreach from Kirsten by emailing kirsten.korosec@techcrunch.com or via encrypted message at kkorosec.07 on Signal.\t\n\n\tView Bio \n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Waymo is scaling fast: Here’s what the fleet data shows",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/01/Waymo-parking-charging-getty.jpg?w=150"
+      ],
+      "datePublished": "2026-09-24T23:24:33.000Z",
+      "dateModified": "2026-09-24T23:24:33.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "TechCrunch Founder Summit 2026: Everything you need to know ",
     "url": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/54657603888_9ade234c98_k.jpg?w=150",
@@ -341,6 +291,56 @@
       ],
       "datePublished": "2026-09-24T16:46:47.000Z",
       "dateModified": "2026-09-24T16:46:47.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
+    "url": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Disrupt-2025-Builders-Stage-Crowd.png?w=150",
+    "tag": "Tech",
+    "date": "2026-09-24T14:30:00.000Z",
+    "description": "\nWhat happens when the app you started in high school goes viral?\nFor Zach Yadegari, the answer was more than 15 million downloads, $30 million in ann",
+    "body": "\nWhat happens when the app you started in high school goes viral?\nFor Zach Yadegari, the answer was more than 15 million downloads, $30 million in annual revenue, and an acquisition by MyFitnessPal — all before his 20th birthday. Yadegari was just 17 when he co-founded Cal AI, the AI-powered nutrition app that lets users track what they eat by snapping a photo.\nBut those numbers leave out the part most founders would like to know: How did Cal AI get that kind of viral attention in the first place? And once millions of people showed up, how did the company make the most of that momentum?\nAt TechCrunch Disrupt 2026, Yadegari will take the Builders Stage for the fireside chat “How to Create Viral Growth and Capitalize On It.” He’ll get into Cal AI’s rapid growth, the product pressure that came with it, and the challenge of turning breakout attention into durable retention and long-term company building.\nImage Credits:TechCrunch\nTrying to break through in a crowded market? Save up to $200 when you secure your pass by September 25 at 11:59 p.m. PT and hear what Yadegari learned building a breakout consumer app. Got a colleague who’d like to join? Get a second pass for 50% off.\nHow did Cal AI turn viral growth into a $30 million business?\nCal AI is built around a simple proposition: Snap a photo of a meal, and the app uses image recognition and the phone’s depth sensor to calculate calories, protein, carbs, and fat.\nZach Yadegari was still a high school senior when he co-founded Cal AI, but it wasn’t his first experience attracting a large online audience. At 16, he sold Totally Science, a gaming platform he founded that drew more than 5 million users during the COVID-19 pandemic, for six figures.\nCal AI moved even faster. In less than two years, it had more than 15 million downloads and was generating more than $30 million in annual revenue. MyFitnessPal took notice, acquiring the company in a deal that closed in December 2025. The deal kept Cal AI as a stand-alone app, retained its seven-person team, and left Yadegari at the helm.\nAt Disrupt, Yadegari will share what Cal AI learned about building in a distribution-driven market where a product can find a massive audience fast — and what it takes to exploit that viral growth when it happens. \nChasing your own breakout moment? Get your Disrupt ticket to learn from Cal AI’s story. Save up to $200 on your pass and get a second pass for 50% off select ticket types. Secure your ticket by September 25 at 11:59 p.m. PT.\nWhat can founders learn from Cal AI’s rapid rise?\nFor founders chasing growth, Yadegari’s story offers a look at both sides of a viral breakout: how a product finds a massive audience and what it takes to turn that attention into durable retention and long-term company building.\nYadegari’s fireside chat is one of 200+ sessions across six industry stages at Disrupt, taking place October 13-15 at Moscone West in San Francisco. More than 10,000 founders, investors, operators, and tech leaders are expected, along with 250+ speakers, roundtables, and breakouts and 300+ exhibiting startups.\nBeyond the agenda, matchmaking, dealmaking, and networking give founders opportunities to connect with investors, potential customers, partners, and other builders working through many of the same challenges.\nThese are the last two days to save up to $200 on your Disrupt pass. Secure your ticket by September 25 at 11:59 p.m. PT — and get a second pass for 50% off select ticket types. Lock in your savings to hear Zach Yadegari share the lessons behind Cal AI’s viral success.\nImage Credits:Kimberly White / Getty Images\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/05/Disrupt-2025-Builders-Stage-Crowd.png?w=150"
+      ],
+      "datePublished": "2026-09-24T14:30:00.000Z",
+      "dateModified": "2026-09-24T14:30:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Nexterity wants to automate the hard, dangerous part of pipefitting",
+    "url": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/IMG_0951-rotated.jpeg?w=113",
+    "tag": "Tech",
+    "date": "2026-09-24T20:45:00.000Z",
+    "description": "\nLindsey Elliott is big into bolts. At last year’s Bolting Symposium — the 13th annual — she said the highlight was playing Bolting Bingo against the ",
+    "body": "\nLindsey Elliott is big into bolts. At last year’s Bolting Symposium — the 13th annual — she said the highlight was playing Bolting Bingo against the many self-proclaimed “torque dorks” who were in the room.\nA former engineer and planner at ExxonMobil, Elliott has spent years thinking about how to improve the infrastructure that moves oil, gas, and petrochemicals. Bolts are what she landed on. Specifically, the bolts that connect sections of pipe (technically called “bolted flange joints”). These bolts require hard, physical work to loosen and tighten and are the source of many pipefitters’ injuries. Like many trade industries, there’s also a labor shortage.\n“Those people get really tired when they’re asked to work 12 hours a day for three months in a row,” she told TechCrunch. “I’ve talked to pipefitters across the U.S., across Canada, and just repeatedly have been told North American pipefitting productivity is notoriously low.”\nThe solution Elliott came up with at her startup Nexterity, which is one of the Startup Battlefield 200 selected to participate in TechCrunch Disrupt, is a remote-controlled robot that can handle this part of the job. It’s the kind of idea that could fundamentally change this particular blue-collar job if widely adopted, making the workers safer and more productive.\nThink: more dork, less torque.\nThe robot comes in two main pieces that fit around a pipe. Powered by batteries, the robot can slide across the pipe once it’s attached and quickly loosen and tighten four bolts at a time. \nElliott said Nexterity has developed a few different configurations of the robot to fit different standard pipe sizes, but they’re all small enough to fit in a Pelican case and be carried by a single worker. That makes them easy to deploy to new sites — flexibility that is crucial to Nexterity’s business model of treating the robot like rental construction equipment.\nElliott said she arrived at this particular design as a result of conversations she’s had over the last few years — not just at the Bolting Symposium, but also with members of the Pressure Vessels & Piping Division of the American Society of Mechanical Engineers.\n“What I learned from the people, the torque dorks per se,” she said, “is that 80% of our pipes are between two to eight inches in diameter, or what they call NPS2 to NPS8. And so when you have that much repeatability, you have a fantastic candidate for automation.” \nIt’s a pretty straightforward idea, but one that Elliott believes has a lot of upside. \n“I think it would shock a lot of people just how big this market is,” she said. “I mean, day to day, most of us don’t think about piping infrastructure, but even water, wastewater, water treatment, food and beverage, mining, nuclear, any kind of green and sustainable manufacturing facility — they all use the same kind of piping.” \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\t\n\n\tView Bio \n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Nexterity wants to automate the hard, dangerous part of pipefitting",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/09/IMG_0951-rotated.jpeg?w=113"
+      ],
+      "datePublished": "2026-09-24T20:45:00.000Z",
+      "dateModified": "2026-09-24T20:45:00.000Z",
       "author": [
         {
           "@type": "Person",
