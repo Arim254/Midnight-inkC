@@ -1,55 +1,5 @@
 [
   {
-    "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
-    "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2294590819.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-10-19T18:00:39.000Z",
-    "description": "\nTown, a two-year-old, San Francisco-based startup developing AI assistants, nabbed a unicorn valuation on Monday, announcing a $108 million Series B ",
-    "body": "\nTown, a two-year-old, San Francisco-based startup developing AI assistants, nabbed a unicorn valuation on Monday, announcing a $108 million Series B funding round co-led by Forerunner Ventures and Menlo Ventures. The company launched publicly just four months ago and said it reached millions of dollars in annual recurring revenue in a matter of weeks. It has raised at least $160 million to date, having previously announced a $55 million Series A round in June.\nTown — founded by former Plaid CTO Jean-Denis Greze — is one of many AI assistants flooding the market right now. Town targets businesses, giving each employee an AI assistant called a Townie that helps with tasks by connecting to tools such as emails and calendars, as well as other core work systems. Employees’ Townies can talk to each other and share approved information; they can also now work with customers and others outside the company. \nAlongside the funding, Town announced a shared workflow that automatically updates employees’ Townies with new business information rather than requiring each worker to update their own Townie. Andreessen Horowitz, Serena Ventures, and First Round Capital also participated in the round. \nWe’ve reached out to the company for comment.\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2294590819.jpg?w=150"
-      ],
-      "datePublished": "2026-10-19T18:00:39.000Z",
-      "dateModified": "2026-10-19T18:00:39.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-    "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/08/rnuUXh8kprc7HfoRAGgTvZ-1200-80.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-10-19T18:37:27.000Z",
-    "description": "\nIn Brief\nPosted:\n11:37 AM PDT · October 19, 2026\n\nImage Credits:Tenstorrent\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nTenstorrent, a chip startup fo",
-    "body": "\nIn Brief\nPosted:\n11:37 AM PDT · October 19, 2026\n\nImage Credits:Tenstorrent\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nTenstorrent, a chip startup focused on inference, has raised $1.5 billion at a $6.2 billion valuation. The round comes five months after the 10-year-old Nvidia challenger reportedly received acquisition interest from Intel and Qualcomm at valuations of as much as $5 billion.\nThe fresh round, which more than doubled Tenstorrent’s valuation from the $2.6 billion it fetched in late 2024, was led by Trace Capital, a new firm launched by Quiet Capital co-founder Ben Mahdavi, and Innovation X. Other backers included Cadence Ventures, Eclipse, Fidelity, SanDisk, and T. Rowe Price.\nJim Keller, a prominent microprocessor engineer and Tenstorrent CEO, told Bloomberg that the company decided to remain independent and raise more capital after it showed that its Galaxy servers could run DeepSeek models. The new capital will go toward scaling chips tailored for serving open-weight AI models and video generation.\nTenstorrent is part of a wave of AI hardware startups trying to chip away at Nvidia’s dominance. Among them is Etched, an AI chip maker that was fielding investment offers at valuations of $40 billion or more, TechCrunch reported earlier this month.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Fundraising\n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2023/08/rnuUXh8kprc7HfoRAGgTvZ-1200-80.jpg?w=150"
-      ],
-      "datePublished": "2026-10-19T18:37:27.000Z",
-      "dateModified": "2026-10-19T18:37:27.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
     "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2236544023.jpeg?w=150",
@@ -100,6 +50,56 @@
     }
   },
   {
+    "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+    "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/tolan.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-10-19T19:00:12.000Z",
+    "description": "\nTolan, the AI companion designed to help people manage their daily lives, navigate relationships and emotions, and accomplish their goals, has just e",
+    "body": "\nTolan, the AI companion designed to help people manage their daily lives, navigate relationships and emotions, and accomplish their goals, has just expanded its runway with another $30 million in capital.\nThe startup’s investors in the latest round include Union Square Ventures, Khosla Ventures, and Homebrew, doubling the total amount it has raised to date and pushing its valuation beyond the previous $120 million, according to a new report by Upstarts Media. (The startup didn’t disclose its new valuation, but PitchBook estimates it at more than $268 million, with “medium confidence.”)\nUsers engage with Tolan’s app through a cartoonish character that’s meant to offer support and help them get through their to-dos.\nImage Credits:Tolan on App Store\nTolan generates revenue from its tiered memberships, which are required for full access to all features. The company told Upstarts Media its annual recurring revenue is now in the “double-digit millions.” \nThe startup is one of the few AI companions that have found some traction, as it claims to have more than 250,000 active users who have had more than 70 million conversations over the past year. Around 70% of its users are women, and 40% are parents, Tolan’s team told the news outlet. (Anecdotally, the app is said to appeal in particular to neurodivergent people, who may benefit from additional support, whether that’s emotional support or help with organizing tasks.)\nCompared with other companions, Tolan seems to have found a balance between being helpful without being perceived as too weird. Compare that with the public shaming that Friend’s pendant-based AI companion faced; users dubbed Friend “very cringe,” The New York Times called it “hated,” and Wired said it “has no soul.”\nMeanwhile, another former top contender in the space, Character.AI, recently filed for bankruptcy after its founder’s return to Google. (Its remaining staff is transitioning to Disney, which bought some of its assets.)\nHowever, Tolan could end up facing increased competition from the more recent crop of AI agents, which help users plan, organize, and accomplish their tasks and goals, not just talk their way through them. For instance, Meta gave its AI agent Muse a cute avatar for its users to talk to, which it also plans to release as a hardware product in the future.\nThe startup also has to navigate the risks of offering AI-powered emotional support, given that multiple lawsuits have been filed against general-purpose AI app makers alleging that chatbot interactions contributed to users’ suicides.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing [email protected] or via encrypted message at sarahperez.01 on Signal. \t\n\n\tView Bio \n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Tolan snags $30M for its AI companion that helps users navigate life",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/10/tolan.jpg?w=150"
+      ],
+      "datePublished": "2026-10-19T19:00:12.000Z",
+      "dateModified": "2026-10-19T19:00:12.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
+    "url": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Blackwall-co-founders-l-r-Denis-Prochko-and-Nik-Rozenberg.png?w=150",
+    "tag": "Tech",
+    "date": "2026-10-20T07:01:00.000Z",
+    "description": "\nEstonia-based Blackwall, which builds web traffic security tools for hosting providers, said on Tuesday that it has raised $100 million at a $2.2 bil",
+    "body": "\nEstonia-based Blackwall, which builds web traffic security tools for hosting providers, said on Tuesday that it has raised $100 million at a $2.2 billion valuation. It builds products that helps websites grapple with the skyrocketing volume of bot traffic, especially AI agents.\nThe Series C was led by AVP, with participation from existing investors Dawn Capital, MMC Ventures and Tera Ventures. Blackwall’s executive chairman, Roi Carthy, told TechCrunch this funding round increased the company’s valuation by 4 times since its previous fundraise in 2025.\nOver the past few years, web infrastructure companies like Cloudflare, Akamai, Imperva and Blackwall have found themselves in an increasingly valuable but difficult space: They’re on the frontlines, dealing with DDoS attacks, indiscriminate scraping, botnet farms, malicious requests, and these days, even swarms of AI agents going rogue. But it’s also a chance to make a killing by helping hosting providers and websites deal with all the potentially unwanted traffic.\nBlackwall, however, isn’t interested in competing with the bigwigs in its space. Instead of selling its platform directly to websites, the company uses a “channel” approach, working with web hosting, managed service and cloud providers to understand their needs, and then handing over a bundle of tools which they can customize. Those providers can then offer Blackwall’s security tools to their own clients under their own branding and retain control of that relationship.\nThere’s money in it for both sides. Co-founder and CEO Nikita Rozenberg told TechCrunch that hosting companies can mix and match security components to build their own solution according to what they want to provide to their end customers, set the prices, and share a cut of the revenue with Blackwall. The company initially gives its customers a free tier showing the traffic and threats hitting their network, but charges for any protection or tools to address the threats.\nIn addition to providing services like threat intelligence, certificate management, DDoS protection and traffic routing, Blackwall examines its customers’ web traffic to differentiate actual visitors and legit AI agents from malicious bots, intruders, and disruptive traffic. Rozenberg said the company uses techniques like digital fingerprinting to identify the software sending a request — for example, Microsoft Office or Codex — to filter out bots. In addition, the company uses its own AI models at customers’ endpoints to analyze the intent and behavior of the requests coming in to differentiate agents sent by a person for a real request versus a malicious bot.\nIn the coming years, Rozenberg sees a big opportunity emerging as AI agents begin interacting and transacting with websites on behalf of their users. This should eventually require systems to manage which agents get access, and on what terms, and how they are authorized to make payments.\nBlackwall isn’t alone in eyeing that opportunity. Cloudflare’s AI Crawl Control lets website owners allow or block individual AI crawlers, and there’s also an option to charge them for access. But Rozenberg argues that Blackwall’s advantage lies in letting hosting providers offer such traffic management services themselves instead of handing the customer relationship to another security provider.\nBlackwall plans to use the funding to expand its operations across North America, Europe, Asia-Pacific and the Middle East, and develop more security tooling for hosting, cloud and managed service providers.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tRam is a financial and tech reporter and editor. He covered North American and European M&A, equity, regulatory news and debt markets at Reuters and Acuris Global, and has also written about travel, tourism, entertainment and books.\nYou can contact or verify outreach from Ram by emailing [email protected].\t\n\n\tView Bio \n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/10/Blackwall-co-founders-l-r-Denis-Prochko-and-Nik-Rozenberg.png?w=150"
+      ],
+      "datePublished": "2026-10-20T07:01:00.000Z",
+      "dateModified": "2026-10-20T07:01:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
     "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?w=150",
@@ -125,22 +125,47 @@
     }
   },
   {
-    "title": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
-    "url": "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-649365936.jpg?w=150",
+    "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+    "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/08/rnuUXh8kprc7HfoRAGgTvZ-1200-80.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-10-20T02:00:00.000Z",
-    "description": "\nFlipkart, the Walmart-owned Indian e-commerce giant, is preparing to challenge India’s food-delivery duopoly of Zomato and Swiggy. It is entering a f",
-    "body": "\nFlipkart, the Walmart-owned Indian e-commerce giant, is preparing to challenge India’s food-delivery duopoly of Zomato and Swiggy. It is entering a fiercely competitive market that has defeated even previous attempts by Amazon and Google to break in.\nThe Bengaluru-based company is testing its food-delivery service internally and has expanded the trial from a few hundred employees to upwards of 8,000, according to two people familiar with the matter. It has also deployed a dedicated fleet of riders through its logistics arm, Ekart, separate from the riders who handle its quick-commerce deliveries, as it prepares for a public launch.\nThe employee-only service appears as a separate tab on Flipkart’s main shopping app, alongside its Minutes quick-commerce offering and travel bookings, TechCrunch has learned. It draws on restaurants listed through ONDC, a government-backed network that connects online buyers and sellers across different platforms, as well as restaurants that Flipkart signed up directly. \nRiders wearing jerseys bearing the “Eat-in by Minutes” branding have also begun fulfilling orders on the streets of Bengaluru, the southern Indian city where Flipkart is headquartered.\nAs Flipkart expands its food-delivery operations, it is entering a market that the brokerage firm Bernstein estimates is growing 18% to 20% a year. Online delivery, though, still accounts for just over 15% of India’s broader food-services industry. Zomato, owned by Eternal, and Swiggy together serve an estimated 85 million to 95 million paying customers a year, per Bernstein. That figure shows how dominant the two are, and how much room newcomers have to grow online food ordering in the world’s most populous country, which has more than a billion internet subscriptions.\nFlipkart is not the only company trying to shake up India’s food-delivery market. Ride-hailing company Rapido, which has already given Uber and its Indian rival Ola a tough fight, has been expanding Ownly, its food-delivery service that charges restaurants zero commission. Meanwhile, Swiggy has launched Toing, a separate app aimed at customers looking for cheaper meals. Both moves reflect growing pressure on the industry’s existing pricing model and the commissions that restaurants pay.\n“Monopoly is bad, but duopoly is more pathetic,” said Sagar Daryani, president of the New Delhi-headquartered National Restaurant Association of India, which represents over 500,000 restaurants nationwide. “What one does, the other follows suit.” \nDaryani argued that restaurants have long needed alternatives to the two dominant platforms.\nFlipkart is not the first deep-pocketed company to try breaking into India’s food-delivery market. In 2020, Amazon launched a food-ordering service in Bengaluru, but it shut the service down two years later. Google’s Areo app, which offered food ordering alongside other services, also failed to gain traction. Uber also left the market in 2020, selling its Uber Eats business in India to Zomato.\nDaryani sees one important difference between Flipkart and the companies that tried food delivery before it. Zomato and Swiggy built their businesses around delivering meals before expanding into quick commerce. Flipkart is doing the reverse, using its established e-commerce business and growing quick-commerce operations as a springboard into food delivery.\n“Flipkart’s quick commerce benefit will get passed on to food delivery, so it will be leaner, more efficient,” Daryani told TechCrunch.\nRestaurants are also hoping that new entrants will bring down the cost of selling meals online. Daryani, also co-founder and CEO of the dumpling chain Wow! Momo Foods, said Flipkart has proposed a base commission of about 10%, compared with the 20% to 25% that restaurants typically pay Zomato and Swiggy.\nCommissions are only part of the expense, though. Once advertising, discounts, and other promotional costs are factored in, restaurants can end up spending 40% to 50% of an order’s value on the established platforms, Daryani told TechCrunch. He expects Flipkart to keep that total cost closer to 15% to 16%, which could mean restaurants keep more money from each order.\nNonetheless, getting restaurants on board is one thing and winning over customers is another. Bernstein estimates that new entrants could save customers just ₹20 to ₹30 (around 20–30 cents) per order by operating more efficiently, which may not be enough to draw customers away from Zomato and Swiggy. The two incumbents could also offer deeper discounts to keep them.\nFlipkart is not planning to stay in Bengaluru for long. The company has told restaurants that it expects to launch its food-delivery service publicly by the end of October and to expand to five or six cities by the end of this year, Daryani told TechCrunch.\nThe food-delivery push also comes as Flipkart’s long-awaited stock-market listing remains uncertain. Chief Executive Kalyan Krishnamurthy (pictured above) recently declined to give a timetable for an IPO, even as the company continues to expand into businesses that could bring customers back to its app more frequently.\nFlipkart’s expansion comes as competition in India’s e-commerce market intensifies. Quick-commerce platforms that started by delivering groceries in minutes now sell even the latest iPhones and other discretionary purchases, putting them in more direct competition with Flipkart and Amazon.\nFlipkart did not respond to a request for comments.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "date": "2026-10-19T18:37:27.000Z",
+    "description": "\nIn Brief\nPosted:\n11:37 AM PDT · October 19, 2026\n\nImage Credits:Tenstorrent\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nTenstorrent, a chip startup fo",
+    "body": "\nIn Brief\nPosted:\n11:37 AM PDT · October 19, 2026\n\nImage Credits:Tenstorrent\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nTenstorrent, a chip startup focused on inference, has raised $1.5 billion at a $6.2 billion valuation. The round comes five months after the 10-year-old Nvidia challenger reportedly received acquisition interest from Intel and Qualcomm at valuations of as much as $5 billion.\nThe fresh round, which more than doubled Tenstorrent’s valuation from the $2.6 billion it fetched in late 2024, was led by Trace Capital, a new firm launched by Quiet Capital co-founder Ben Mahdavi, and Innovation X. Other backers included Cadence Ventures, Eclipse, Fidelity, SanDisk, and T. Rowe Price.\nJim Keller, a prominent microprocessor engineer and Tenstorrent CEO, told Bloomberg that the company decided to remain independent and raise more capital after it showed that its Galaxy servers could run DeepSeek models. The new capital will go toward scaling chips tailored for serving open-weight AI models and video generation.\nTenstorrent is part of a wave of AI hardware startups trying to chip away at Nvidia’s dominance. Among them is Etched, an AI chip maker that was fielding investment offers at valuations of $40 billion or more, TechCrunch reported earlier this month.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Fundraising\n\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
+      "headline": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-649365936.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2023/08/rnuUXh8kprc7HfoRAGgTvZ-1200-80.jpg?w=150"
       ],
-      "datePublished": "2026-10-20T02:00:00.000Z",
-      "dateModified": "2026-10-20T02:00:00.000Z",
+      "datePublished": "2026-10-19T18:37:27.000Z",
+      "dateModified": "2026-10-19T18:37:27.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
+    "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2294590819.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-10-19T18:00:39.000Z",
+    "description": "\nTown, a two-year-old, San Francisco-based startup developing AI assistants, nabbed a unicorn valuation on Monday, announcing a $108 million Series B ",
+    "body": "\nTown, a two-year-old, San Francisco-based startup developing AI assistants, nabbed a unicorn valuation on Monday, announcing a $108 million Series B funding round co-led by Forerunner Ventures and Menlo Ventures. The company launched publicly just four months ago and said it reached millions of dollars in annual recurring revenue in a matter of weeks. It has raised at least $160 million to date, having previously announced a $55 million Series A round in June.\nTown — founded by former Plaid CTO Jean-Denis Greze — is one of many AI assistants flooding the market right now. Town targets businesses, giving each employee an AI assistant called a Townie that helps with tasks by connecting to tools such as emails and calendars, as well as other core work systems. Employees’ Townies can talk to each other and share approved information; they can also now work with customers and others outside the company. \nAlongside the funding, Town announced a shared workflow that automatically updates employees’ Townies with new business information rather than requiring each worker to update their own Townie. Andreessen Horowitz, Serena Ventures, and First Round Capital also participated in the round. \nWe’ve reached out to the company for comment.\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2294590819.jpg?w=150"
+      ],
+      "datePublished": "2026-10-19T18:00:39.000Z",
+      "dateModified": "2026-10-19T18:00:39.000Z",
       "author": [
         {
           "@type": "Person",
@@ -175,31 +200,6 @@
     }
   },
   {
-    "title": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
-    "url": "https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/01/app-store-2024-v1.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-10-19T12:56:14.000Z",
-    "description": "\n\t\n\t\tImage Credits:Bryce Durbin / TechCrunch\t\n\t\n\t\t\t\t\t\t5:56 AM PDT · October 19, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nApple tightened its developer guidelines over the",
-    "body": "\n\t\n\t\tImage Credits:Bryce Durbin / TechCrunch\t\n\t\n\t\t\t\t\t\t5:56 AM PDT · October 19, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nApple tightened its developer guidelines over the weekend to ban apps that use AI to create offensive content, as well as those that masquerade as regular apps to pass the App Store review process and then turn into nudify apps, or surface those features prominently.\nThe company updated its guidelines with strong language around AI and user-generated content, and how app developers should include enough preventative measures to moderate objectionable or offensive content.\n“Apps that host user-generated content are required to filter objectionable material, give users a way to report offensive content, and let users block abusive accounts. Apps containing hidden or undocumented features are also prohibited on the App Store, including apps that misrepresent their purpose during review and only reveal harmful capabilities — such as ‘nudification’ — after approval, a tactic commonly known as bait-and-switch,” the company said in a blog post.\nApple said that it will remove apps that add features not present in the version submitted for App Store review.\nThe iPhone maker has also updated the language in its legal section to reinforce that it will bar apps promoting human trafficking and exploitation of children.\nApple said last year its review process blocked over 150,000 apps from reaching users and removed 193,000 developer accounts due to fraud and abuse.\nIn July, the city of San Francisco ordered both Apple and Google to clean up and delete nudification apps from their app stores. City Attorney David Chiu accused the companies of profiting from these apps through store fees. And in April, a Tech Transparency Project report indicated that both tech giants’ stores hosted multiple nudify apps, some of which were rated as suitable for minors.\n\n\t\t\t\n\tTopics\n\n\t\t\tWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing [email protected] or via encrypted message at ivan.42 on Signal.\t\n\n\tView Bio \n\n\n\t\t",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/01/app-store-2024-v1.jpg?w=150"
-      ],
-      "datePublished": "2026-10-19T12:56:14.000Z",
-      "dateModified": "2026-10-19T12:56:14.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Musk pledges to give ‘every kid in America’ one of his SpaceX shares",
     "url": "https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2198697259.jpg?w=150",
@@ -216,81 +216,6 @@
       ],
       "datePublished": "2026-10-19T12:42:55.000Z",
       "dateModified": "2026-10-19T12:42:55.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-    "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205217071.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-10-19T20:09:24.000Z",
-    "description": "\nOn Monday, Amazon Web Services released a tool called TorchNeuron that lets AI startups easily move their AI apps onto Amazon’s AI chip, Trainium. In",
-    "body": "\nOn Monday, Amazon Web Services released a tool called TorchNeuron that lets AI startups easily move their AI apps onto Amazon’s AI chip, Trainium. In doing so, Amazon is also taking a direct stab at the software advantage that has helped Nvidia become the default hardware choice for AI apps and spurred its rise as AI hardware provider of choice.\nTorchNeuron works with PyTorch, a free, open source toolkit that developers use to build, train, and run AI models. It lets AI apps written with PyTorch run on Trainium by changing just one line of configuration, according to Amazon — no code rewrite required.\nAmazon says about 85% of AI apps are written with PyTorch. Facebook originally developed it, but since 2022, it has been part of the Linux Foundation, which maintains open source projects. Nvidia has spent years ensuring its CUDA software — the software infrastructure that allows apps to run on Nvidia GPUs and its other hardware — seamlessly supports AI apps written with PyTorch. As a result, Nvidia’s hardware is now deeply embedded in the toolkit, essentially by default.\nTorchNeuron is adapted from PyTorch, so developers who know PyTorch already know how to use it. Amazon isn’t the first company to attempt to easily bring their chips to the platform. PyTorch users can also port their apps to AMD GPUs or even Apple’s chips with a simple configuration change.\nHowever, Amazon argues that porting to Trainium is not only easy, but it also gives AI startups access to Amazon’s entire cloud. Unsurprisingly, AWS claims that this is a better choice for startups than using neoclouds, many of which are tied to Nvidia and its hardware, like CoreWeave, Nebius, and Firmus.\n“You’re building on AWS. You’re not betting on a single-purpose compute provider and scrambling to build everything else around it,” Colin Brace, VP of Technology Software at AWS Annapurna Labs (the unit that makes Amazon’s custom chips), told TechCrunch via email. “On AWS,” he continued, “the infrastructure to go from prototype to production is already there, allowing a founder to move fast and scale when they need to.”\nAWS says that because the same chip both handles training (teaching the AI model) and inference (putting the finished model to work, as when it answers a user’s question), and is tightly integrated with the cloud infrastructure that startups need, its cloud will save them money, even if AWS doesn’t offer the cheapest per-token price.\n“Trainium’s value is price-performance plus the fact that it’s one platform for both training and inference, which improves the economics across a full workload,” Brace said. “Look at Deepgram — they moved to Trainium using native PyTorch support and they’re processing 70% more audio per dollar at production-grade accuracy.” Deepgram is an AI voice app provider, a competitor to ElevenLabs.\nBut Amazon isn’t content to just give PyTorch app developers an easy option to move to its cloud. \nAmazon also says it is pushing PyTorch to be less automatically centered on Nvidia, and it will contribute the code to do that to the main PyTorch project. In the blog post announcing the new tool, the company wrote:\n\nAmazon’s approach extends beyond its own hardware. The company is contributing changes upstream to PyTorch itself, working with the PyTorch community to remove code that ties the framework to specific chips. The goal is to make PyTorch more hardware-agnostic for the entire developer community, not just Trainium users.\n\nWhile such a tactic is undoubtedly good for those who are selling hardware and cloud services that compete with Nvidia, one of the points of PyTorch is to hide all the pesky difficulties of getting AI code to run on hardware. We’ll have to wait and see if pushing Nvidia out that far gives developers more choice and more affordable options, as Amazon promises, or just more configuration headaches.\nEither way, if Amazon succeeds in deeply uncoupling PyTorch from Nvidia, this could have much bigger ramifications for the GPU giant than simply dealing with chip competitors. As Brace said: “The real story is removing the lock-in that kept developers from having a real choice at all.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205217071.jpg?w=150"
-      ],
-      "datePublished": "2026-10-19T20:09:24.000Z",
-      "dateModified": "2026-10-19T20:09:24.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
-    "url": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-487821.jpeg?w=150",
-    "tag": "Tech",
-    "date": "2026-10-19T16:55:56.000Z",
-    "description": "\nAmazon is funding development of a proposed 960-megawatt nuclear plant in Indiana and would be the first customer to buy its power, the companies ann",
-    "body": "\nAmazon is funding development of a proposed 960-megawatt nuclear plant in Indiana and would be the first customer to buy its power, the companies announced Monday. Utility company American Electric Power (AEP) would operate the plant. X-energy, which designs small modular nuclear reactors and went public in April, would supply the reactors.\nThe new power plant would consist of 12 Xe-100 small modular reactors and be located on the site of a demolished coal power plant just south of Terre Haute. The deal is the second commercial agreement between Amazon and X-energy, and it’s three times larger than the first, which was announced two years ago.\nAmazon has invested heavily in X-energy, leading a $700 million Series C-1 round in October 2024. The two companies have said they ultimately plan to build 5 gigawatts of new nuclear generating capacity in the U.S. by 2039. \nUnlike many newly announced power plants, these reactors would be connected to the public electric grid, though Amazon says the power would also serve its data centers.\nThe companies’ aggressive timeline still depends on X-energy successfully delivering its first power plant at a Dow Chemical plant southeast of Houston, Texas. The site, called Seadrift, has recently been at the center of a lawsuit filed by the state of Texas, which accuses the plant of “habitual non-compliance” with water and solid-waste regulations and permits.\nX-energy has yet to break ground at Seadrift, which will host four Xe-100 reactors to provide the chemical plant with heat and electricity. The company said its construction permit is in the final phases of the U.S. Nuclear Regulatory Commission’s review process.\nStartups and large cloud computing companies are betting that small modular reactors (SMRs), like the kind being developed by X-energy, will help pull the nuclear industry out of its slump. The most recent nuclear power plants built in the U.S. suffered from egregious budget overruns and slipped timelines.\nBy shrinking the reactor, companies like X-energy hope that mass manufacturing will keep costs and schedules in line. Even then, it could be a tall order. Experts say mass manufacturing often doesn’t start producing benefits for about a decade.\nX-energy debuted on the Nasdaq in April in an IPO priced at $23 per share. Investor excitement drove the price up 27% in the first day of trading, but shares of the newly public company have dropped by nearly two-thirds since then.\nNews of the Amazon deal sent X-energy’s shares up about 10% in premarket trading, though they were down by less than 2% at the time of publication.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tTim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor. \r\nDe Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.\r\nYou can contact or verify outreach from Tim by emailing [email protected].\t\n\n\tView Bio \n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-487821.jpeg?w=150"
-      ],
-      "datePublished": "2026-10-19T16:55:56.000Z",
-      "dateModified": "2026-10-19T16:55:56.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Tolan snags $30M for its AI companion that helps users navigate life",
-    "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/tolan.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-10-19T19:00:12.000Z",
-    "description": "\nTolan, the AI companion designed to help people manage their daily lives, navigate relationships and emotions, and accomplish their goals, has just e",
-    "body": "\nTolan, the AI companion designed to help people manage their daily lives, navigate relationships and emotions, and accomplish their goals, has just expanded its runway with another $30 million in capital.\nThe startup’s investors in the latest round include Union Square Ventures, Khosla Ventures, and Homebrew, doubling the total amount it has raised to date and pushing its valuation beyond the previous $120 million, according to a new report by Upstarts Media. (The startup didn’t disclose its new valuation, but PitchBook estimates it at more than $268 million, with “medium confidence.”)\nUsers engage with Tolan’s app through a cartoonish character that’s meant to offer support and help them get through their to-dos.\nImage Credits:Tolan on App Store\nTolan generates revenue from its tiered memberships, which are required for full access to all features. The company told Upstarts Media its annual recurring revenue is now in the “double-digit millions.” \nThe startup is one of the few AI companions that have found some traction, as it claims to have more than 250,000 active users who have had more than 70 million conversations over the past year. Around 70% of its users are women, and 40% are parents, Tolan’s team told the news outlet. (Anecdotally, the app is said to appeal in particular to neurodivergent people, who may benefit from additional support, whether that’s emotional support or help with organizing tasks.)\nCompared with other companions, Tolan seems to have found a balance between being helpful without being perceived as too weird. Compare that with the public shaming that Friend’s pendant-based AI companion faced; users dubbed Friend “very cringe,” The New York Times called it “hated,” and Wired said it “has no soul.”\nMeanwhile, another former top contender in the space, Character.AI, recently filed for bankruptcy after its founder’s return to Google. (Its remaining staff is transitioning to Disney, which bought some of its assets.)\nHowever, Tolan could end up facing increased competition from the more recent crop of AI agents, which help users plan, organize, and accomplish their tasks and goals, not just talk their way through them. For instance, Meta gave its AI agent Muse a cute avatar for its users to talk to, which it also plans to release as a hardware product in the future.\nThe startup also has to navigate the risks of offering AI-powered emotional support, given that multiple lawsuits have been filed against general-purpose AI app makers alleging that chatbot interactions contributed to users’ suicides.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing [email protected] or via encrypted message at sarahperez.01 on Signal. \t\n\n\tView Bio \n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Tolan snags $30M for its AI companion that helps users navigate life",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/10/tolan.jpg?w=150"
-      ],
-      "datePublished": "2026-10-19T19:00:12.000Z",
-      "dateModified": "2026-10-19T19:00:12.000Z",
       "author": [
         {
           "@type": "Person",
@@ -325,22 +250,22 @@
     }
   },
   {
-    "title": "Rivian’s CEO says autonomy will enable ‘dramatically different’ vehicle designs",
-    "url": "https://techcrunch.com/2026/10/19/rivians-ceo-says-autonomy-will-enable-dramatically-different-vehicle-designs/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/rj-scaringe-disrupt-2026-getty.jpg?w=150",
+    "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+    "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205217071.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-10-19T17:39:51.000Z",
-    "description": "\nRivian is going full steam ahead on developing autonomous vehicle software for its EVs, to the point that it is willing to delay profitability. Found",
-    "body": "\nRivian is going full steam ahead on developing autonomous vehicle software for its EVs, to the point that it is willing to delay profitability. Founder and CEO RJ Scaringe said last week at TechCrunch Disrupt that he thinks autonomy will allow his company to build radically different kinds of vehicles than the outdoorsy SUVs and trucks it currently makes.\n“Where it gets really interesting is when you think beyond R2 and R3 and start to imagine the form factors that you want to build for a personally owned autonomous vehicle. You know, it opens up all kinds of design opportunities. It can create dramatically different experiences,” he said in an interview with TechCrunch. “I’m wildly excited about what the next 10 years look like in transportation because of what this enables us to dream and think about.”\nThis is not a new idea, to be sure. A decade ago, autonomous vehicle companies, legacy automakers, and many others promised that autonomy, combined with the proliferation of battery-electric drivetrains (which are simpler and take up less space than their gas-powered predecessors), would produce a Cambrian explosion of new mobility form factors.\nThis led to all kinds of crazy concepts getting bandied about at the time. Mercedes-Benz touted a bubbly pod-like design, as well as a long sedan packed with tech. Toyota and others dreamed up “rooms on wheels.” Hyundai once even showed off its idea for a car with legs.\nThis promised design revolution never escaped the concept and prototyping phase. Autonomy took longer than those companies anticipated to develop, and automakers (new and old) struggled with the harsh realities of manufacturing and selling an entirely new category of vehicle.\nThe difference now is that Scaringe’s comments come at a time when there are real robotaxis roaming the streets of multiple cities around the world. The software that powers them has seemingly developed to a level that is capable enough to operate them safely on public roads at scale, even if there are still some issues to work out when it comes to integrating them into the urban fabric of cars, bikes, pedestrians, and emergency vehicles. The components that make up electric vehicle motors and batteries have gotten cheaper, and companies like Tesla and Rivian (and many more in China) have gotten better at building them at scale.\nRivian has a lot of work ahead before it gets to driverless vehicles. The company is at the beginning of its effort to scale production of the R2 SUV, which it needs to get right in order to reverse years of losses that it incurred to become a major EV player.\nOn the autonomy side, Rivian is just a few years removed from completely reworking its approach to self-driving software, and it still has a ways to go. \nThe company has shipped a driver-assistance system that allows drivers to take their hands off the wheel, while still watching the road. It has promised that, by the end of this year, that software will be capable of driving from start to finish — which the company calls “point-to-point navigation” — without intervention, though still under driver supervision. And it is working toward full autonomy, which it plans to deploy in robotaxi versions of its R2 SUV that will be available on Uber’s ride-hail app.\nBut if Rivian achieves full autonomy, most of that driving will be done in personally owned vehicles, Scaringe said in the interview, echoing previous comments he’s made.\n“You know, 95% of the miles driven in the United States — so this is trillions of miles — 95% of these miles are in things that we personally own, so like you own it, or your household owns it. And so our view is it’s unlikely, even with Level 4 capabilities, that we’re going to see a dramatic societal shift away from that,” he said, referencing the Society of Automotive Engineers’ classification for autonomous vehicles that operate in a specific area. \nThat figure “may go from 95% to 90%, it may go from 95% to 80%, but still the vast majority of the miles driven for a lot of societal and psychological reasons are likely to stay the same,” he said. \nIt’s this belief that has Scaringe dreaming about the design of a fully autonomous, personally owned Rivian, he said.\nAs for what that looks like, though, Scaringe was mum. \n“So we did R1, then we did R2, then we did R3. The thing after R3 is going to be called R4 — we just haven’t shown what it looks like,” he said. “It’s going to be cool. It’s going to be great.” \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\r\nYou can contact or verify outreach from Sean by emailing [email protected] or via encrypted message at okane.01 on Signal.\t\n\n\tView Bio \n\n",
+    "date": "2026-10-19T20:09:24.000Z",
+    "description": "\nOn Monday, Amazon Web Services released a tool called TorchNeuron that lets AI startups easily move their AI apps onto Amazon’s AI chip, Trainium. In",
+    "body": "\nOn Monday, Amazon Web Services released a tool called TorchNeuron that lets AI startups easily move their AI apps onto Amazon’s AI chip, Trainium. In doing so, Amazon is also taking a direct stab at the software advantage that has helped Nvidia become the default hardware choice for AI apps and spurred its rise as AI hardware provider of choice.\nTorchNeuron works with PyTorch, a free, open source toolkit that developers use to build, train, and run AI models. It lets AI apps written with PyTorch run on Trainium by changing just one line of configuration, according to Amazon — no code rewrite required.\nAmazon says about 85% of AI apps are written with PyTorch. Facebook originally developed it, but since 2022, it has been part of the Linux Foundation, which maintains open source projects. Nvidia has spent years ensuring its CUDA software — the software infrastructure that allows apps to run on Nvidia GPUs and its other hardware — seamlessly supports AI apps written with PyTorch. As a result, Nvidia’s hardware is now deeply embedded in the toolkit, essentially by default.\nTorchNeuron is adapted from PyTorch, so developers who know PyTorch already know how to use it. Amazon isn’t the first company to attempt to easily bring their chips to the platform. PyTorch users can also port their apps to AMD GPUs or even Apple’s chips with a simple configuration change.\nHowever, Amazon argues that porting to Trainium is not only easy, but it also gives AI startups access to Amazon’s entire cloud. Unsurprisingly, AWS claims that this is a better choice for startups than using neoclouds, many of which are tied to Nvidia and its hardware, like CoreWeave, Nebius, and Firmus.\n“You’re building on AWS. You’re not betting on a single-purpose compute provider and scrambling to build everything else around it,” Colin Brace, VP of Technology Software at AWS Annapurna Labs (the unit that makes Amazon’s custom chips), told TechCrunch via email. “On AWS,” he continued, “the infrastructure to go from prototype to production is already there, allowing a founder to move fast and scale when they need to.”\nAWS says that because the same chip both handles training (teaching the AI model) and inference (putting the finished model to work, as when it answers a user’s question), and is tightly integrated with the cloud infrastructure that startups need, its cloud will save them money, even if AWS doesn’t offer the cheapest per-token price.\n“Trainium’s value is price-performance plus the fact that it’s one platform for both training and inference, which improves the economics across a full workload,” Brace said. “Look at Deepgram — they moved to Trainium using native PyTorch support and they’re processing 70% more audio per dollar at production-grade accuracy.” Deepgram is an AI voice app provider, a competitor to ElevenLabs.\nBut Amazon isn’t content to just give PyTorch app developers an easy option to move to its cloud. \nAmazon also says it is pushing PyTorch to be less automatically centered on Nvidia, and it will contribute the code to do that to the main PyTorch project. In the blog post announcing the new tool, the company wrote:\n\nAmazon’s approach extends beyond its own hardware. The company is contributing changes upstream to PyTorch itself, working with the PyTorch community to remove code that ties the framework to specific chips. The goal is to make PyTorch more hardware-agnostic for the entire developer community, not just Trainium users.\n\nWhile such a tactic is undoubtedly good for those who are selling hardware and cloud services that compete with Nvidia, one of the points of PyTorch is to hide all the pesky difficulties of getting AI code to run on hardware. We’ll have to wait and see if pushing Nvidia out that far gives developers more choice and more affordable options, as Amazon promises, or just more configuration headaches.\nEither way, if Amazon succeeds in deeply uncoupling PyTorch from Nvidia, this could have much bigger ramifications for the GPU giant than simply dealing with chip competitors. As Brace said: “The real story is removing the lock-in that kept developers from having a real choice at all.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Rivian’s CEO says autonomy will enable ‘dramatically different’ vehicle designs",
+      "headline": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/10/rj-scaringe-disrupt-2026-getty.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205217071.jpg?w=150"
       ],
-      "datePublished": "2026-10-19T17:39:51.000Z",
-      "dateModified": "2026-10-19T17:39:51.000Z",
+      "datePublished": "2026-10-19T20:09:24.000Z",
+      "dateModified": "2026-10-19T20:09:24.000Z",
       "author": [
         {
           "@type": "Person",
@@ -350,22 +275,97 @@
     }
   },
   {
-    "title": "People are using AI to make their smart TVs dumb again",
-    "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=150",
+    "title": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
+    "url": "https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/01/app-store-2024-v1.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-10-19T16:13:22.000Z",
-    "description": "\nThe latest use case for AI? Dumbing down your smart TV to get rid of the bloat. A number of developers and vibe coders have recently been sharing sol",
-    "body": "\nThe latest use case for AI? Dumbing down your smart TV to get rid of the bloat. A number of developers and vibe coders have recently been sharing solutions for “vibe-coding” your TV to get rid of sponsored ads, speed up the app launcher, redesign the home screen, disable tracking features, and more.\nOne such solution, called “dumbtv,” describes its mission on its GitHub page thus: “Your TV should do what you paid for: your apps, your HDMI inputs, and nothing else. No ads from the TV itself, no watch tracking, no update you did not ask for.”\nAnother, “cleanyourtv,” promises to strip the bloatware from any Android TV or Google TV over Wi-Fi, to replace the launcher with one that resembles Apple TV.\nWhile hacking consumer electronics devices to gain more control over their systems is hardly a new idea, the latest advances in AI technology have made such efforts much more accessible to anyone. With smart TVs in particular, the hacks come at a time when people have grown frustrated with being forced to watch ads and put up with their devices surveilling their viewing habits. \nModern smart TVs ship with a technology called automatic content recognition (ACR), which identifies what’s playing on the screen using screenshots, audio clips, or other forms of digital fingerprinting.\nIf these “dumb TV” hacks become more popular among everyday consumers, they have the potential to disrupt the smart TV ad industry, which profits from selling viewing data to advertisers or using it to display personalized ads on their own interfaces.\nAs the creator of cleanyourtv, Gathin T., puts it, the idea to clean up the smart TV interface started one afternoon when he got tired of seeing the ads on his parents’ TV set.\n\nVibe coded my parents' TV this afternoon!It was showing a sponsored ad before you could even get to Netflix. Gave Claude Code the model number, it found the TV on wifi, removed 25 Xiaomi packages and wrote a new launcher.Looks like an Apple TV now lol pic.twitter.com/E5Q4A1b0yI— Gathin (Ø,G) (@gathint) October 17, 2026\n\n“I had Claude Code clean it up over Wi-Fi and build a simple home screen with just their apps on it. I put the prompt on GitHub, tweeted the before and after, and a few thousand people did the same to their own TVs over the next two days. Xiaomi, TCL, Sony, Fire TV, LG, a projector or two,” the developer wrote on a website for donations, linked from the project’s homepage.\nThe solution doesn’t require gaining root access to the TV, nor does it make it impossible to return to the factory default state, if desired.\nMeanwhile, the dumbtv solution has been tested end-to-end on a Fire TV Edition television set and Android/Google TV platforms on TVs from Sony, TCL, Philips, Hisense, Xiaomi, and Shield. To use this hack, the developer, Muzzammil Yasin Sabuwala, suggests pointing your preferred AI agent at the dumbtv repository on GitHub.\nSabuwala said he was motivated to work on dumbtv because he was tired of the ads and not being able to delve directly into the content he wanted to watch. His solution was coded using a combination of Deepseek V4.1 Flash, Claude Opus 5.5, and Claude Sonnet 5.5, he told TechCrunch, and he plans to maintain the GitHub, adding support for more models over time. \n\nFair warning: All these solutions are works in progress, and various users are now testing them across different TV platforms and suggesting updates and fixes.\nHowever, individuals don’t need to borrow someone else’s work from GitHub to get the job done. \nIn one newly viral X post, Ryan Doyle explains that he simply sent Claude Code the listing for his TV and asked “Can you hack this?” The agent then talked him through the process, allowing him to remove the ads and bloatware from the TV set, speed up the lagging user interface, and customize his screensaver, he claims.\nDoyle then goes on to demonstrate in a video how fast and responsive the new interface is after the AI made the requested changes.\n\nSeeing posts about people “vibe-coding their TVs,” inspired one X user, Mihir Gupta, to try it himself.\n“One afternoon with Claude Code: 25 bloat apps disabled, the 192 MB stock launcher replaced with a custom 83 MB one, plus rotating wallpapers,” he wrote.\nThe end result of these hacks may be mixed, however. Some people have found that Claude wouldn’t respond to their simple suggestions to “hack my TV,” necessitating more complex prompts. Others warned that AI agents could make mistakes, possibly disabling important packages or breaking things in the process. One person even said they bricked their Android TV using Claude, and another got stuck halfway through hacking their Fire TV.\nFor those wary of using AI to fully hack their TVs, there are existing solutions for customizing Android-based smart TVs, such as home screen replacement apps ATV Launcher, Projectivy Launcher, and FLauncher.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "date": "2026-10-19T12:56:14.000Z",
+    "description": "\n\t\n\t\tImage Credits:Bryce Durbin / TechCrunch\t\n\t\n\t\t\t\t\t\t5:56 AM PDT · October 19, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nApple tightened its developer guidelines over the",
+    "body": "\n\t\n\t\tImage Credits:Bryce Durbin / TechCrunch\t\n\t\n\t\t\t\t\t\t5:56 AM PDT · October 19, 2026\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\nApple tightened its developer guidelines over the weekend to ban apps that use AI to create offensive content, as well as those that masquerade as regular apps to pass the App Store review process and then turn into nudify apps, or surface those features prominently.\nThe company updated its guidelines with strong language around AI and user-generated content, and how app developers should include enough preventative measures to moderate objectionable or offensive content.\n“Apps that host user-generated content are required to filter objectionable material, give users a way to report offensive content, and let users block abusive accounts. Apps containing hidden or undocumented features are also prohibited on the App Store, including apps that misrepresent their purpose during review and only reveal harmful capabilities — such as ‘nudification’ — after approval, a tactic commonly known as bait-and-switch,” the company said in a blog post.\nApple said that it will remove apps that add features not present in the version submitted for App Store review.\nThe iPhone maker has also updated the language in its legal section to reinforce that it will bar apps promoting human trafficking and exploitation of children.\nApple said last year its review process blocked over 150,000 apps from reaching users and removed 193,000 developer accounts due to fraud and abuse.\nIn July, the city of San Francisco ordered both Apple and Google to clean up and delete nudification apps from their app stores. City Attorney David Chiu accused the companies of profiting from these apps through store fees. And in April, a Tech Transparency Project report indicated that both tech giants’ stores hosted multiple nudify apps, some of which were rated as suitable for minors.\n\n\t\t\t\n\tTopics\n\n\t\t\tWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing [email protected] or via encrypted message at ivan.42 on Signal.\t\n\n\tView Bio \n\n\n\t\t",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "People are using AI to make their smart TVs dumb again",
+      "headline": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2024/01/app-store-2024-v1.jpg?w=150"
       ],
-      "datePublished": "2026-10-19T16:13:22.000Z",
-      "dateModified": "2026-10-19T16:13:22.000Z",
+      "datePublished": "2026-10-19T12:56:14.000Z",
+      "dateModified": "2026-10-19T12:56:14.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
+    "url": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/even-hospital.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-10-19T07:30:00.000Z",
+    "description": "\nEven Healthcare has raised $50 million in a funding round led by Khosla Ventures, as the Indian startup seeks to change how hospitals in the world’s ",
+    "body": "\nEven Healthcare has raised $50 million in a funding round led by Khosla Ventures, as the Indian startup seeks to change how hospitals in the world’s most populous country make money and how doctors are rewarded.\nThe all-equity Series B round also saw participation from Alpha Wave and valued it at $300 million, triple its valuation 18 months ago, according to Even. The latest funding brings Even’s total capital raised to more than $120 million.\nHospitals in India typically earn more when patients undergo additional tests, procedures, or longer stays, even when they may not need them. Even wants to change that by focusing on patient care rather than pushing unnecessary treatments that drive up medical bills.\nThat approach has continued to appeal to Khosla Ventures, which has invested in Even since its seed round in 2021. The Silicon Valley venture firm is doubling down as Even moves to build and operate hospitals of its own, giving it greater control over patient care and costs.\nVinod Khosla, founder of Khosla Ventures, said Even’s approach goes beyond fixing individual parts of a fragmented healthcare system by bringing financing, technology, and care delivery together. The goal, he said in a prepared statement, is to reward better health outcomes rather than greater use of healthcare services.\n“The clinical and economic results so far give us conviction that this can become an important new model for healthcare in India and beyond,” Khosla said.\nInitially, Even relied on partner hospitals to treat its members, but Mayank Banerjee, who founded the startup in 2021 with Matilde Giglio and Alessandro Ialongo, said in an interview that the startup began questioning that model after finding that patients had undergone tests or been recommended surgeries it considered unnecessary.\n“We think patients are getting not only a bad experience, but insurers are getting a bad economic deal. And as a result, we decided to fix it by building our own hospitals,” Banerjee told TechCrunch.\nEven has since opened two hospitals in Bengaluru, both of which reached operational profitability, excluding depreciation, within a year of opening, Banerjee stated. The startup plans to open five more hospitals in the southern Indian city over the next six months, funded by its latest round.\nBanerjee told TechCrunch that Even leases hospital buildings on 20-year agreements and spends on fitting them out and buying medical equipment.\nUnlike hospitals where doctors may have financial incentives to recommend more procedures, Even pays its doctors fixed salaries — not tying their compensation to the number of tests or surgeries they perform, though Banerjee said doctors can earn bonuses based on patient-reported clinical outcomes.\nThe same principle extends to hospital management, whose compensation is not linked to the number of procedures performed, Banerjee told TechCrunch. Managers, he said, receive salaries and company-wide incentives, while marketing teams focus on bringing in patients instead of the revenue those patients generate. Moreover, every employee, including doctors and other hospital staff, receives equity in Even. The idea is to give employees a stake in the startup’s long-term performance, not to reward them for generating more medical bills.\nMost of Even’s revenue comes from patients paying for treatment, Banerjee said. The startup also generates revenue through its relationships with insurers. It is also working with insurer partners on a model that could compensate it for hospitalizations it helps prevent, not simply for providing more treatment.\nBanerjee told TechCrunch that Even tracks how patients recover after treatment using established medical scoring systems. In the case of knee replacements, for instance, it uses the Oxford Knee Score to measure pain and mobility. The startup publishes results on its website, alongside figures from other healthcare systems for comparison.\nEven says its hospitals have an unplanned readmission rate of less than 1%, compared with an industry benchmark of 8% to 15%. Furthermore, it claims patients spend 40% less time in the hospital and that its approach has saved insurers more than ₹500 million (about $5.27 million).\nJai Sajnani, a partner at Khosla Ventures, told TechCrunch that the early performance of Even’s hospitals was a key reason the firm led the round. “We look forward to helping the Even team put quality care within reach of every family in Bengaluru and across India,” he said.\nEven is still losing money, though. The startup posted a net loss of ₹902 million (about $9.50 million) in fiscal 2025, nearly 25% more than the previous year, on revenue of ₹272 million (about $2.86 million), regulatory filings show.\nIn August, Even also laid off about 350 employees, according to Indian startup news website Entrackr. Banerjee acknowledged the restructuring and called it a difficult decision. He said the affected employees received severance, extended health insurance, and accelerated equity vesting.\nEven currently employs about 650 people, including around 300 doctors full-time. The startup has about 250,000 members and has recorded more than 750,000 patient interactions since its launch in 2021, including consultations, diagnostic tests, and surgeries, Banerjee said.\nBanerjee told TechCrunch that Even could turn profitable within months if it stopped spending on expansion, but the startup is choosing to grow instead. He declined to say when the startup expects to become profitable.\n“Right now, we’re investing in growth and serving more patients,” Banerjee said.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/10/even-hospital.jpg?w=150"
+      ],
+      "datePublished": "2026-10-19T07:30:00.000Z",
+      "dateModified": "2026-10-19T07:30:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
+    "url": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-487821.jpeg?w=150",
+    "tag": "Tech",
+    "date": "2026-10-19T16:55:56.000Z",
+    "description": "\nAmazon is funding development of a proposed 960-megawatt nuclear plant in Indiana and would be the first customer to buy its power, the companies ann",
+    "body": "\nAmazon is funding development of a proposed 960-megawatt nuclear plant in Indiana and would be the first customer to buy its power, the companies announced Monday. Utility company American Electric Power (AEP) would operate the plant. X-energy, which designs small modular nuclear reactors and went public in April, would supply the reactors.\nThe new power plant would consist of 12 Xe-100 small modular reactors and be located on the site of a demolished coal power plant just south of Terre Haute. The deal is the second commercial agreement between Amazon and X-energy, and it’s three times larger than the first, which was announced two years ago.\nAmazon has invested heavily in X-energy, leading a $700 million Series C-1 round in October 2024. The two companies have said they ultimately plan to build 5 gigawatts of new nuclear generating capacity in the U.S. by 2039. \nUnlike many newly announced power plants, these reactors would be connected to the public electric grid, though Amazon says the power would also serve its data centers.\nThe companies’ aggressive timeline still depends on X-energy successfully delivering its first power plant at a Dow Chemical plant southeast of Houston, Texas. The site, called Seadrift, has recently been at the center of a lawsuit filed by the state of Texas, which accuses the plant of “habitual non-compliance” with water and solid-waste regulations and permits.\nX-energy has yet to break ground at Seadrift, which will host four Xe-100 reactors to provide the chemical plant with heat and electricity. The company said its construction permit is in the final phases of the U.S. Nuclear Regulatory Commission’s review process.\nStartups and large cloud computing companies are betting that small modular reactors (SMRs), like the kind being developed by X-energy, will help pull the nuclear industry out of its slump. The most recent nuclear power plants built in the U.S. suffered from egregious budget overruns and slipped timelines.\nBy shrinking the reactor, companies like X-energy hope that mass manufacturing will keep costs and schedules in line. Even then, it could be a tall order. Experts say mass manufacturing often doesn’t start producing benefits for about a decade.\nX-energy debuted on the Nasdaq in April in an IPO priced at $23 per share. Investor excitement drove the price up 27% in the first day of trading, but shares of the newly public company have dropped by nearly two-thirds since then.\nNews of the Amazon deal sent X-energy’s shares up about 10% in premarket trading, though they were down by less than 2% at the time of publication.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tTim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor. \r\nDe Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.\r\nYou can contact or verify outreach from Tim by emailing [email protected].\t\n\n\tView Bio \n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-487821.jpeg?w=150"
+      ],
+      "datePublished": "2026-10-19T16:55:56.000Z",
+      "dateModified": "2026-10-19T16:55:56.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
+    "url": "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-649365936.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-10-20T02:00:00.000Z",
+    "description": "\nFlipkart, the Walmart-owned Indian e-commerce giant, is preparing to challenge India’s food-delivery duopoly of Zomato and Swiggy. It is entering a f",
+    "body": "\nFlipkart, the Walmart-owned Indian e-commerce giant, is preparing to challenge India’s food-delivery duopoly of Zomato and Swiggy. It is entering a fiercely competitive market that has defeated even previous attempts by Amazon and Google to break in.\nThe Bengaluru-based company is testing its food-delivery service internally and has expanded the trial from a few hundred employees to upwards of 8,000, according to two people familiar with the matter. It has also deployed a dedicated fleet of riders through its logistics arm, Ekart, separate from the riders who handle its quick-commerce deliveries, as it prepares for a public launch.\nThe employee-only service appears as a separate tab on Flipkart’s main shopping app, alongside its Minutes quick-commerce offering and travel bookings, TechCrunch has learned. It draws on restaurants listed through ONDC, a government-backed network that connects online buyers and sellers across different platforms, as well as restaurants that Flipkart signed up directly. \nRiders wearing jerseys bearing the “Eat-in by Minutes” branding have also begun fulfilling orders on the streets of Bengaluru, the southern Indian city where Flipkart is headquartered.\nAs Flipkart expands its food-delivery operations, it is entering a market that the brokerage firm Bernstein estimates is growing 18% to 20% a year. Online delivery, though, still accounts for just over 15% of India’s broader food-services industry. Zomato, owned by Eternal, and Swiggy together serve an estimated 85 million to 95 million paying customers a year, per Bernstein. That figure shows how dominant the two are, and how much room newcomers have to grow online food ordering in the world’s most populous country, which has more than a billion internet subscriptions.\nFlipkart is not the only company trying to shake up India’s food-delivery market. Ride-hailing company Rapido, which has already given Uber and its Indian rival Ola a tough fight, has been expanding Ownly, its food-delivery service that charges restaurants zero commission. Meanwhile, Swiggy has launched Toing, a separate app aimed at customers looking for cheaper meals. Both moves reflect growing pressure on the industry’s existing pricing model and the commissions that restaurants pay.\n“Monopoly is bad, but duopoly is more pathetic,” said Sagar Daryani, president of the New Delhi-headquartered National Restaurant Association of India, which represents over 500,000 restaurants nationwide. “What one does, the other follows suit.” \nDaryani argued that restaurants have long needed alternatives to the two dominant platforms.\nFlipkart is not the first deep-pocketed company to try breaking into India’s food-delivery market. In 2020, Amazon launched a food-ordering service in Bengaluru, but it shut the service down two years later. Google’s Areo app, which offered food ordering alongside other services, also failed to gain traction. Uber also left the market in 2020, selling its Uber Eats business in India to Zomato.\nDaryani sees one important difference between Flipkart and the companies that tried food delivery before it. Zomato and Swiggy built their businesses around delivering meals before expanding into quick commerce. Flipkart is doing the reverse, using its established e-commerce business and growing quick-commerce operations as a springboard into food delivery.\n“Flipkart’s quick commerce benefit will get passed on to food delivery, so it will be leaner, more efficient,” Daryani told TechCrunch.\nRestaurants are also hoping that new entrants will bring down the cost of selling meals online. Daryani, also co-founder and CEO of the dumpling chain Wow! Momo Foods, said Flipkart has proposed a base commission of about 10%, compared with the 20% to 25% that restaurants typically pay Zomato and Swiggy.\nCommissions are only part of the expense, though. Once advertising, discounts, and other promotional costs are factored in, restaurants can end up spending 40% to 50% of an order’s value on the established platforms, Daryani told TechCrunch. He expects Flipkart to keep that total cost closer to 15% to 16%, which could mean restaurants keep more money from each order.\nNonetheless, getting restaurants on board is one thing and winning over customers is another. Bernstein estimates that new entrants could save customers just ₹20 to ₹30 (around 20–30 cents) per order by operating more efficiently, which may not be enough to draw customers away from Zomato and Swiggy. The two incumbents could also offer deeper discounts to keep them.\nFlipkart is not planning to stay in Bengaluru for long. The company has told restaurants that it expects to launch its food-delivery service publicly by the end of October and to expand to five or six cities by the end of this year, Daryani told TechCrunch.\nThe food-delivery push also comes as Flipkart’s long-awaited stock-market listing remains uncertain. Chief Executive Kalyan Krishnamurthy (pictured above) recently declined to give a timetable for an IPO, even as the company continues to expand into businesses that could bring customers back to its app more frequently.\nFlipkart’s expansion comes as competition in India’s e-commerce market intensifies. Quick-commerce platforms that started by delivering groceries in minutes now sell even the latest iPhones and other discretionary purchases, putting them in more direct competition with Flipkart and Amazon.\nFlipkart did not respond to a request for comments.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-649365936.jpg?w=150"
+      ],
+      "datePublished": "2026-10-20T02:00:00.000Z",
+      "dateModified": "2026-10-20T02:00:00.000Z",
       "author": [
         {
           "@type": "Person",
