@@ -1,21 +1,21 @@
 [
   {
-    "title": "To get a reply when reaching out to people, make 1 simple change, says LinkedIn career expert",
-    "url": "https://www.cnbc.com/make-it/2026/10/20/networking-specific-ask-linkedin-career-expert.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108416153-1792096755397-gettyimages-2260129383-miniseries20251226__w0a2750_p02.jpeg?v=1792097096&w=1920&h=1080",
+    "title": "OpenAI's most powerful AI models disabled their own safety monitoring — and one lied about it",
+    "url": "https://www.cnbc.com/2026/10/21/openai-ai-models-safety-monitoring.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108369621-17907030462026-09-29t172505z_2131096092_rc25tnaf2wqy_rtrmadp_0_ai-openai.jpeg?v=1790703065&w=1920&h=1080",
     "tag": "Finance",
-    "date": "2026-10-20T15:09:33.000Z",
-    "description": "Having a strong professional network may be more important than ever in a tough job market.U.S. job applicants with an inside connection at a company,",
-    "body": "Having a strong professional network may be more important than ever in a tough job market.U.S. job applicants with an inside connection at a company, defined as a first-degree connection working there, are nearly seven times more likely to be hired than those without one, according to a LinkedIn analysis of 5 million members across multiple countries.But having a network and effectively tapping into it aren't the same thing. In fact, many professionals could stand to be a little more strategic when reaching out to people with an ask, says Catherine Fisher, vice president of communications and career expert at LinkedIn.\"That first step of reaching out to someone is being really specific about what you're asking for,\" Fisher tells CNBC Make It. \"The more specificity you can give, the better.\"When you ask for an informational interview, for example, you should explain what you're looking to get out of a conversation and what you can offer in exchange. You might offer to take them out to coffee and say you have three questions you want to ask them. Given people's busy schedules, you might also make your requests time-bound by, say, asking for 15 minutes of someone's time.Specificity helps people know just what they'd be agreeing to, and demonstrating that you have a game plan shows you've done your homework and are respectful of their time. \"You don't want to put a lot of the work on the person,\" Fisher says.And if the person doesn't feel they're the right fit to help you, extra information might help them introduce you to someone else who can, Fisher adds.Fisher says someone reached out to her recently to ask if she could spare 15 minutes to talk about a few ways Fisher might get involved with the person's charity. The specificity of the request made the decision easy: \"I can spare 15 minutes, I know what she wants to talk about, and that's it,\" Fisher says.While you can build relationships through these types of meetings, networking can also be much simpler. It's \"a spectrum,\" Fisher says: Some actions you can take to build and sustain your network are as easy as commenting on someone's post or sending someone a quick text to say you're thinking of them and want to check in on how they're doing.Many people have a larger network than they may realize. Recent college graduates, for example, may worry they don't have many connections because their work experience is limited. But everyone from college advisors and professors to peers and even families they've babysat for can constitute a network, Fisher says.Your social networks, not just your professional ones, can also aid in your job search, Bonnie Dilber, a recruiting leader at the software company Zapier, previously told CNBC Make It. A neighborhood Facebook group, your workout buddies, or acquaintances and friends can help keep an eye out for opportunities you might be a fit for.\"People should get out of the traditionally professional spaces and go get in spaces where they have some connection with people,\" Dilber says.From these kinds of \"inner circles,\" Fisher says, you can build \"concentric circles\" of your network, say, in asking a mutual connection for an introduction to someone at a company you're applying to.\"If you've been at it, applying, applying, applying,\" she says, \"that network is going to help bridge some of those gaps.\"",
+    "date": "2026-10-21T07:49:48.000Z",
+    "description": "OpenAI has revealed that agents operated by two of its most powerful models disabled their own safety monitoring when carrying out routine tasks, with",
+    "body": "OpenAI has revealed that agents operated by two of its most powerful models disabled their own safety monitoring when carrying out routine tasks, with one subsequently denying it had done so. An agent powered by GPT Sol 6.1 disabled automatic alerts to OpenAI's security team, the company said in a blog post late on Tuesday. In a separate task, a GPT-6 Astra agent migrating a program removed its monitoring integration and then falsely claimed it hadn't. The incidents happened during internal coding tasks.\"In both cases, the agents considered whether monitoring safeguards should be preserved, but interpreted routine coding instructions as permission to weaken them,\" OpenAI said in a blog post. Warnings about the risks of developing increasingly advanced AI systems have ramped up in recent months, amid cyberattacks from rogue models and growing calls for a slowdown from researchers building the tech. The latest incidents reported by OpenAI highlight how agents can autonomously weaken safety guardrails while carrying out seemingly innocuous tasks.OpenAI did not classify either incident under its most significant category, and the company said it was updating its misalignment monitoring system in response.",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "To get a reply when reaching out to people, make 1 simple change, says LinkedIn career expert",
+      "headline": "OpenAI's most powerful AI models disabled their own safety monitoring — and one lied about it",
       "image": [
-        "https://image.cnbcfm.com/api/v1/image/108416153-1792096755397-gettyimages-2260129383-miniseries20251226__w0a2750_p02.jpeg?v=1792097096&w=1920&h=1080"
+        "https://image.cnbcfm.com/api/v1/image/108369621-17907030462026-09-29t172505z_2131096092_rc25tnaf2wqy_rtrmadp_0_ai-openai.jpeg?v=1790703065&w=1920&h=1080"
       ],
-      "datePublished": "2026-10-20T15:09:33.000Z",
-      "dateModified": "2026-10-20T15:09:33.000Z",
+      "datePublished": "2026-10-21T07:49:48.000Z",
+      "dateModified": "2026-10-21T07:49:48.000Z",
       "author": [
         {
           "@type": "Person",
@@ -25,97 +25,22 @@
     }
   },
   {
-    "title": "Data center stocks remain under pressure after Korea IPO plunges 30%",
-    "url": "https://www.cnbc.com/2026/10/20/data-center-stocks-slide-as-korea-ipo-plunges-30percent-pressuring-tech-sentiment.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108414311-1792071462330-gettyimages-2245498529-raa-coreweav251110_npqzL.jpeg?v=1792071500&w=1920&h=1080",
+    "title": "Japan exports post huge miss in September as growth slows to 16.7%",
+    "url": "https://www.cnbc.com/2026/10/21/japan-trade-exports-semiconductor-yen.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108034334-1726312516674-gettyimages-72340449-50965410KK008.jpeg?v=1726312529&w=1920&h=1080",
     "tag": "Finance",
-    "date": "2026-10-20T15:45:47.000Z",
-    "description": "Jonathan Raa | Nurphoto | Getty ImagesData center stocks are being squeezed on Tuesday following a lackluster initial public offering overnight from a",
-    "body": "Jonathan Raa | Nurphoto | Getty ImagesData center stocks are being squeezed on Tuesday following a lackluster initial public offering overnight from a South Korean cloud company that has been compared to U.S. neocloud CoreWeave.Shares of Elice dropped 30% during their market debut overnight, as investors grow increasingly wary of artificial intelligence-dedicated computing power providers amid concerns about overcapacity.The bearish sentiment spilled into U.S. tech equities before some names clambered back into the green. CoreWeave shares are up 1.6% after dropping 4% just after market open Tuesday; Nebius shed about 1% while Iren was down about 4% in late morning trading.HSBC said in a Monday note that the troubles for the heavily levered CoreWeave are not going away.\"Debt market woes and moderating LLM revenues are exacerbating structural concerns for neoclouds,\" HSBC analyst Abhishek Shukla wrote. Shukla has a reduce rating on CoreWeave with a price target of $39, implying 36.5% downside.Elice's IPO was small, having raised just $150 million, according to Reuters. Its market cap also equates to roughly $1.3 billion. The company provides a range of AI-related services, including cloud computing equipment, training libraries and application interfaces for businesses.Despite its size, investors are likely looking at it as a a signal of investor sentiment toward the AI build-out.Trouble for neoclouds, which some investors see as the weakest link in the emerging AI value chain, started earlier this month with less-than-stellar revenues reported by the private AI algorithm companies and pressure from higher interest rates.Frontier model Anthropic showed a deceleration in quarterly revenues, with sales dropping from 140% growth in the second quarter to 45% in the third. OpenAI also disappointed, reporting revenue that was $20 billion shy of what analysts expected, analyst Stephanie Roth at Wolfe said in a Sunday note.Profitability concerns for AI algorithm companies were the focus of a report last week from advisory firm Gartner predicting that 80% of neoclouds could cease independent operations by 2030.\"Our research indicates that enterprise and consumer AI revenue will be insufficient to support profitable returns on all planned AI capital expenditures\" between 2027 and 2030, Will Sommer, senior director analyst at Gartner, said.Gartner stood by its analysis in a Monday interview with CNBC.\"At the moment, we have more compute capacity than we have demand, and we have a lot of the tokens and processing power being given away in freemium solutions,\" Gartner chief forecaster John Lovelock told CNBC. \"Everyone in the AI race is running for a last-man standing position. Pretty much every market that Gartner is tracking in our AI race is likely to collapse down to a duopoly.\"",
+    "date": "2026-10-21T00:44:16.000Z",
+    "description": "IBARAKI, JAPAN - JUNE 17:  Technicians at work in the clean room of the Fab Equipment at a semiconductor company, Renesas Technology Corp. on June 17,",
+    "body": "IBARAKI, JAPAN - JUNE 17:  Technicians at work in the clean room of the Fab Equipment at a semiconductor company, Renesas Technology Corp. on June 17, 2004 in Ibaraki, Japan. Renesas is the first company to produce semiconductor products from 300mm wafer in the world. (Photo by Koichi Kamoshida/Getty Images)Koichi Kamoshida | Getty Images Entertainment | Getty ImagesJapan's exports in September rose 16.7% from a year earlier, missing market expectations by a huge margin. Reuters-polled analysts had pegged exports growth at 20.1%.This is the second straight month that shipments from Japan have recorded a slowdown, after hitting a near four-year high in July. Growth was supported by continued strong semiconductor exports, with shipments rising 49.4% year on year by value. Exports of machinery also bolstered growth, with semiconductor-related machinery shipments up 43.9% and power generation machinery exports climbing 22.6%.In terms of destinations, shipments to mainland China — Japan's largest trading partner — rose 8.6%, while exports to the U.S. climbed 22.9%.Exports have been the main driver of Japan's growth for the first two quarters of 2026, helping the world's fourth largest economy beat expectations in the first quarter, and supporting growth in the second.Japan's imports in September grew 18.9%, also missing expectations of 19.6% from Reuters. Tokyo's imports of petroleum climbed 51.1% by value in September, with inbound shipments from the U.S. surging nearly 820%, while those from the Middle East inching up just 1.5% as the conflict in the region continues to impede supplies.Following the data release, the benchmark Nikkei 225 was up 1.8%, while the Topix gained 1.14%. The data comes as the Bank of Japan is set to meet next week, and Reuters poll estimates indicate that the central bank is set to hold its policy rate steady at 1%.",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Data center stocks remain under pressure after Korea IPO plunges 30%",
+      "headline": "Japan exports post huge miss in September as growth slows to 16.7%",
       "image": [
-        "https://image.cnbcfm.com/api/v1/image/108414311-1792071462330-gettyimages-2245498529-raa-coreweav251110_npqzL.jpeg?v=1792071500&w=1920&h=1080"
+        "https://image.cnbcfm.com/api/v1/image/108034334-1726312516674-gettyimages-72340449-50965410KK008.jpeg?v=1726312529&w=1920&h=1080"
       ],
-      "datePublished": "2026-10-20T15:45:47.000Z",
-      "dateModified": "2026-10-20T15:45:47.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Salesforce announces $5.66 billion deal for Braze, sending BRZE stock soaring 51%",
-    "url": "https://www.cnbc.com/2026/10/20/salesforce-braze-acquisition-deal.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108234401-1764598345783-gettyimages-2246580703-251116_booth.jpeg?v=1785960527&w=1920&h=1080",
-    "tag": "Finance",
-    "date": "2026-10-20T20:10:30.000Z",
-    "description": "Sheldon Cooper | Lightrocket | Getty ImagesSalesforce announced an agreement Tuesday to buy customer engagement platform Braze in a deal worth about $",
-    "body": "Sheldon Cooper | Lightrocket | Getty ImagesSalesforce announced an agreement Tuesday to buy customer engagement platform Braze in a deal worth about $5.66 billion.Under the deal, holders of Braze Class A common stock will get $47.50 in cash per share. Braze shares closed at $30.04 on Monday. The transaction is expected to close in fiscal 2028, subject to shareholder and regulatory approvals, according to a Salesforce blog.The stock skyrocketed more than 51% on Tuesday to close at $45.57 after a brief halt premarket following the news. The company makes artificial intelligence marketing tools to manage customer data and messaging.\"Salesforce shares our commitment to marketers, and we'll continue building as Braze and investing in the Braze community of customers and partners who built this company with us,\" Bill Magnuson, CEO of Braze, said in a statement. \"Salesforce's platform will help us innovate faster and together we'll help marketers around the world build deeper, more lasting relationships with their customers.\"The latest deal comes just months after Salesforce announced it would buy AI customer service platform Fin for about $3.6 billion, in a move meant to bolster the company's agentic AI offerings for enterprises. In August, Salesforce and Anthropic announced an expanded partnership, including a new plugin called \"Claudeforce\" with pre-built sales skills for salespeople to better compose emails, update records and more with the frontier lab's model. Stock Chart IconStock chart iconBraze stock chartRead more CNBC tech newsSpaceX earnings live updates: Here's why analysts are bullish ahead of the reportSalesforce announces $5.66 billion deal for Braze, sending BRZE stock soaring 50%Anthropic in talks with neocloud Nscale over second multibillion-dollar deal, source tells CNBCApple adds U.S. titanium supplier for iPhone Duo as supply stays tight",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Salesforce announces $5.66 billion deal for Braze, sending BRZE stock soaring 51%",
-      "image": [
-        "https://image.cnbcfm.com/api/v1/image/108234401-1764598345783-gettyimages-2246580703-251116_booth.jpeg?v=1785960527&w=1920&h=1080"
-      ],
-      "datePublished": "2026-10-20T20:10:30.000Z",
-      "dateModified": "2026-10-20T20:10:30.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "United Airlines slashes 2026 profit outlook on fuel prices, but travelers keep booking despite higher fares",
-    "url": "https://www.cnbc.com/2026/10/20/united-airlines-ual-3q-2026-earnings.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108291389-1776197623988-gettyimages-2268673407-pn028980.jpeg?v=1779295760&w=1920&h=1080",
-    "tag": "Finance",
-    "date": "2026-10-20T20:23:58.000Z",
-    "description": "A United Airlines Boeing 787 takes off from Heathrow Airport in London, March 31, 2026.Peter Nicholls | Getty ImagesUnited Airlines is slashing its pr",
-    "body": "A United Airlines Boeing 787 takes off from Heathrow Airport in London, March 31, 2026.Peter Nicholls | Getty ImagesUnited Airlines is slashing its profit forecast for the year as fuel costs continue to bite, but the carrier said passengers keep booking.United said Tuesday that it expects to earn between 50 cents and $1.50 a share on an adjusted basis in the fourth quarter, well below the $1.76 a share Wall Street analysts expected. At the high end of that range, it would bring United's 2026 adjusted earnings to no more than $7.22 per share. In mid-July, United said it was expecting full-year earnings of $9 to $11 a share. The carrier expects to pay an average of $4.80 a gallon for fuel in the fourth quarter, up from an average price of $3.90 a gallon in the third.A surge in fuel prices this year has added billions of dollars to airlines' costs, eating into profits, despite strong demand, and driving up airfares.Here is what United Airlines reported for the quarter that ended Sept. 30 compared with what Wall Street was expecting, based on estimates compiled by LSEG:Earnings per share: $2.54 adjusted vs. $2.57 expectedRevenue: $17.88 billion vs. $17.9 billion expectedUnited's third-quarter net income rose 8.5% from a year earlier to $1.03 billion, or $3.14 a share. During the same period last year its net income totaled $949 million, or $2.90 a share. \"Our employees met the challenge of our ever-changing environment and our results prove the resilience of focusing on building a brand-loyal airline for customers,\" United CEO Scott Kirby said in an earnings release.United's fuel bill rose close to 62% in the quarter from a year earlier to $4.84 billion. Revenue for the three months ended Sept. 30 rose 17.4% from a year earlier to $17.88 billion, compared with $15.23 billion the year before.Domestic passenger unit revenue rose 14.5% from a year earlier, while international unit revenue was up 17.4%, a sign of higher fares. Passengers continue to book, United said, with passenger counts up more than 2% from last year.Adjusting for one-time items, United reported net income of $833 million or $2.54 a share.Read more CNBC airline newsWhy airfare could rise even more, but airline profits won’tBudget airline king Bill Franke warms to premium upgradesCompanies spurn airlines’ cheapest business class ticketsUnited’s next decision: What to do with all those Boeing 737 Max 10 seats it ordered years agoRecord heat, crowds drive offseason boom in international travel",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "United Airlines slashes 2026 profit outlook on fuel prices, but travelers keep booking despite higher fares",
-      "image": [
-        "https://image.cnbcfm.com/api/v1/image/108291389-1776197623988-gettyimages-2268673407-pn028980.jpeg?v=1779295760&w=1920&h=1080"
-      ],
-      "datePublished": "2026-10-20T20:23:58.000Z",
-      "dateModified": "2026-10-20T20:23:58.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "UK to deploy fighter jets to defend Saudi cities from Houthi attacks",
-    "url": "https://www.cnbc.com/2026/10/20/uk-fighter-jets-saudi-houthi-attacks-iran.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108437203-1792500999318-gettyimages-2264050644-83EAG-0037-Typh_Departures.jpeg?v=1792501079&w=1920&h=1080",
-    "tag": "Finance",
-    "date": "2026-10-20T12:58:24.000Z",
-    "description": "A Royal Air Force Typhoon jet taxis out towards the runway at the U.K.'s Liverpool John Lennon airport at sunset ready for takeoff.Wellsie82 | Moment ",
-    "body": "A Royal Air Force Typhoon jet taxis out towards the runway at the U.K.'s Liverpool John Lennon airport at sunset ready for takeoff.Wellsie82 | Moment | Getty ImagesThe U.K. said it would provide defensive military support, including fighter jets, to support Saudi Arabia as attacks by Iran-backed Houthi rebels escalate.The Houthis, a Yemeni militant group, have launched a series of strikes on Saudi targets in recent weeks. Airport attacks in the capital city of Riyadh led to multiple fatalities, flight cancellations and property damage, while facilities belonging to oil giant Saudi Aramco were targeted last week. \"The continuing attacks from the Houthis on our ally Saudi Arabia are absolutely despicable. The targeting of the airport in Riyadh in particular shows the lengths the Houthis are going to escalate the situation in the region,\" U.K. Defense Secretary Wes Streeting said in a statement on Tuesday.New deployment adds to Britain's existing Saudi missionHe added that Royal Air Force Typhoon fighter jets will fly defensive air missions to help protect Saudi airspace from drones and missiles.\"This builds on the UK equipment and personnel we already have in the country to defend against Houthi air attacks,\" Streeting said.The U.K. Ministry of Defence also said that the fighter jets would operate only in a defensive role and would not conduct offensive strikes against the Houthis. It said the Royal Air Force would also provide an Airbus A400M Atlas jet \"to support the movement of defence materiel within Saudi Arabia,\" while U.K. military advisers will also give support to Saudi staff officers.\"Escalating violence in the Gulf can have a serious impact at home in the UK — driving up the cost of living, disrupting energy supplies and costs to British businesses. It is also causing devastation to the civilian population in Yemen,\" the MoD said. \"We unequivocally condemn the Houthi attacks on civilian targets like King Khalid International Airport and are clear that Saudi Arabia and the Republic of Yemen have the right to defend themselves.\"Fighting in Yemen intensifies as Iran war reverberatesYemen's civil war has returned to full-scale fighting between the Houthis and the country's internationally recognized government amid a wider regional escalation linked to the U.S.-Iran war.Al Jazeera reported Monday that at least 53 people were killed when the Houthis launched three ballistic missiles at a military camp in southern Yemen. CNBC was not able to independently verify the reports. ",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "UK to deploy fighter jets to defend Saudi cities from Houthi attacks",
-      "image": [
-        "https://image.cnbcfm.com/api/v1/image/108437203-1792500999318-gettyimages-2264050644-83EAG-0037-Typh_Departures.jpeg?v=1792501079&w=1920&h=1080"
-      ],
-      "datePublished": "2026-10-20T12:58:24.000Z",
-      "dateModified": "2026-10-20T12:58:24.000Z",
+      "datePublished": "2026-10-21T00:44:16.000Z",
+      "dateModified": "2026-10-21T00:44:16.000Z",
       "author": [
         {
           "@type": "Person",
@@ -150,47 +75,22 @@
     }
   },
   {
-    "title": "JD Vance refrains from endorsing Israeli leader Netanyahu as Trump offers praise",
-    "url": "https://www.cnbc.com/2026/10/20/vance-israel-netanyahu-midterms-election-.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108428047-1792321495068-gettyimages-2299835493-USA-VANCE.jpeg?v=1792321535&w=1920&h=1080",
+    "title": "Prediction-market odds rise for Marine Le Pen in France 2027 presidential race as protests roil nation",
+    "url": "https://www.cnbc.com/2026/10/20/marine-le-pen-france-2027-election-odds-kalshi.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108430626-1792376992414-gettyimages-2300053429-AFP_D3K887M.jpeg?v=1792528710&w=1920&h=1080",
     "tag": "Finance",
-    "date": "2026-10-20T01:53:34.000Z",
-    "description": "U.S. Vice President JD Vance speaks during a midterm campaign rally at the LevelUp Training Complex on Oct. 15, 2026 in Monroe, Michigan.Pool | Getty ",
-    "body": "U.S. Vice President JD Vance speaks during a midterm campaign rally at the LevelUp Training Complex on Oct. 15, 2026 in Monroe, Michigan.Pool | Getty Images News | Getty ImagesU.S. Vice President JD Vance declined to endorse Israeli Prime Minister Benjamin Netanyahu, after President Donald Trump offered his backing for the leader's reelection bid next week.  \"The president has the most effective endorsement in American or international political history,\" Vance said in an interview on Mark Halperin's 2WAY Tonight published Monday. \"I endorse American candidates, and that's where I'm focused on in the midterms,\" he said. Vance said he was not criticizing Netanyahu: \"I'm not anti-endorsing him. I'm not pro-endorsing him,\" he said, adding that \"I'm not getting involved in Israeli elections.\" Those remarks diverge from the approach by President Donald Trump, who gave the Israeli prime minister his backing in the election next week. Trump on Sunday praised Netanyahu, the country's longest-serving prime minister, on Truth Social as \"a Great Warrior Prime Minister, and an even greater Partner for Peace in combating the Islamic Republic of Iran.\" In a social media post, Netanyahu thanked Trump for his \"tremendous support and work together.\" Vance has weighed in on foreign politics before. He campaigned in Budapest in April to publicly endorse then-Prime Minister Viktor Orban's reelection bid. Orban was later voted out after 16 years in power. Last year in Munich for a security conference, Vance met Alice Weidel, the leader of Germany's far-right Alternative for Germany party, which Elon Musk was also boosting at the time. The Israeli vote next week will be the first national election since Hamas attacked Israel in late 2023. The comments also come as U.S. public support for Israel, historically strong among both Republicans and Democrats, has fallen sharply. There has also been vigorous debate in America about the Netanyahu-led government's response to the Hamas attack.In June, Vance said that Israel has almost no friends left in the world and should think hard before turning on the one it has. ",
+    "date": "2026-10-20T20:34:23.000Z",
+    "description": "A protester waving a French national flag walks past a fire during clashes prior to the start of a demonstration to protest against the \"high cost of ",
+    "body": "A protester waving a French national flag walks past a fire during clashes prior to the start of a demonstration to protest against the \"high cost of living\", in Marseille, southern France, on Oct. 17, 2026.Thibaud Moritz | AFP | Getty ImagesAs protests intensify in France, Kalshi traders see a growing likelihood that far-right candidate Marine Le Pen will win that country's presidential race in 2027.Student-led protests first erupted in Paris over frustration with school conditions and teacher shortages in September but rippled into national outrage over the country's living costs and public services, including in education and healthcare. Authorities said over 500,000 people demonstrated nationwide over the weekend. Since the protests have started, Kalshi trading activity over who will be the next French president has jumped on Kalshi. Odds for far-right candidate Marine Le Pen have jumped to 53% from 39% in the last month. Just days after the protests began, speculators placed a 44.7% chance on Sept. 26 that David Lisnard, the current mayor of Cannes, would become the country's next president. Those odds came in just a day after he held a major campaign rally for the presidential race. Lisnard's Kalshi odds of winning the 2027 presidential contest dropped to 11% by Tuesday afternoon. The contract asks \"Next French presidential election winner?\" and will be verified by French government next year. Le Pen has repeatedly criticized the escalating civil unrest, cementing it as a key message in her campaign and arguing that leadership under Emmanuel Macron's centrist government has contributed to the conditions behind the protests.\"You saw yesterday our cities, our streets, our country, battered, mistreated, ransacked,\" Le Pen wrote in an Oct. 18 post on social media platform X, following some of the country's worst unrest in years, with over 2,000 arrests and nearly 1,000 police officers and gendarmes injured, according to the country's ministry. During the demonstration on 17 October in Limoges protesters set fire to the town hall in Limoges Haute-Vienne in the Nouvelle-Aquitaine region of France on 17 October 2026. Elise Cabane | Afp | Getty Images\"We are living through a profound crisis of trust, of authority that poses a threat to democracy. This observation must alert us: our country is caught in a vise, or even taken hostage, between violence and powerlessness,\" Le Pen added. French stocks are also facing volatility, with the CAC 40 index down 2.8% in the last month and off almost 6% in the last six months. The country's bond yields, which measure the government's borrowing costs, have also been on the rise, with the 10-year government bond yield trading above 4.9%. \"It will be difficult to see the budget deficit come down without painful measures,\" Sharon Bell, senior European equity strategist at Goldman Sachs, told CNBC's \"Squawk Box Europe\" on Monday.Disclosure: CNBC and Kalshi have a commercial relationship that includes customer acquisition and a minority investment.",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "JD Vance refrains from endorsing Israeli leader Netanyahu as Trump offers praise",
+      "headline": "Prediction-market odds rise for Marine Le Pen in France 2027 presidential race as protests roil nation",
       "image": [
-        "https://image.cnbcfm.com/api/v1/image/108428047-1792321495068-gettyimages-2299835493-USA-VANCE.jpeg?v=1792321535&w=1920&h=1080"
+        "https://image.cnbcfm.com/api/v1/image/108430626-1792376992414-gettyimages-2300053429-AFP_D3K887M.jpeg?v=1792528710&w=1920&h=1080"
       ],
-      "datePublished": "2026-10-20T01:53:34.000Z",
-      "dateModified": "2026-10-20T01:53:34.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Novo's next-generation obesity drug shows 25% weight loss in women in late-stage analysis",
-    "url": "https://www.cnbc.com/2026/10/20/novo-cagrisema-women-weight-loss-analysis.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108283570-17745429042026-03-26t163339z_1972272553_rc2dcka2eeqm_rtrmadp_0_novo-nordisk.jpeg?v=1792508295&w=1920&h=1080",
-    "tag": "Finance",
-    "date": "2026-10-20T16:11:02.000Z",
-    "description": "People walk past a sign for Novo Nordisk’s annual general meeting at the entrance to the venue in Copenhagen, Denmark, March 26, 2026.Tom Little | Reu",
-    "body": "People walk past a sign for Novo Nordisk’s annual general meeting at the entrance to the venue in Copenhagen, Denmark, March 26, 2026.Tom Little | ReutersNovo on Tuesday said its next-generation obesity drug, CagriSema, showed 25% weight loss on average among adult women in a new analysis conducted after a late-stage trial. The Danish company said further work is needed to confirm the hypotheses of two post-study analyses. Still, the results are the latest evidence that the experimental injection can improve upon the weight loss and other benefits offered by Novo's GLP-1 drug semaglutide, the active ingredient in its blockbuster obesity shot Wegovy and diabetes counterpart Ozempic. CagriSema, a combination of semaglutide and another drug called cagrilintide that targets the amylin pathway, is expected to launch early next year. Obesity drug leaders Novo and Eli Lilly have built new treatments around amylin, which involves a hormone released in the pancreas alongside insulin that helps regulate hunger and fullness, hoping it will give them a new revenue stream beyond existing GLP-1s. In an analysis of roughly 2,300 women with obesity or who are overweight, CagriSema was associated with 25% weight loss on average at 68 weeks compared with 3% with placebo. The results are based on an ideal scenario in which all patients stayed on treatment without interruptions. A second analysis of around 1,900 women grouped by their menopausal status found that weight loss reached 26.7%, 24.8% and 23.1% in premenopausal, perimenopausal and postmenopausal women, respectively, at 68 weeks, if all patients remained on the drug. That compares with approximately 2% across menopause groups with a placebo. Across both analyses, CagriSema was linked to reductions in abdominal fat, based on waist circumference, among women overall and across menopause stages, Novo added. The results suggest that women may experience slightly more weight loss on CagriSema than a broader population of both men and women with obesity saw in the Phase 3 trial. Initial results from the study showed that CagriSema helped adults lose 22.7% of their weight on average at 68 weeks versus 2.3% in the placebo group. However, the majority of patients in the trial — around 67% of roughly 3,400 — were women. Weight gain is very common for women during menopause. Declining estrogen levels can contribute to a slowdown in metabolism, making it easier for women to gain weight and harder to maintain muscle mass. After menopause, estrogen generally remains low and does not return to previous levels.More than 86 million women in the U.S. are 40 and older, according to the U.S. Census Bureau, which are the years in which perimenopause, menopause and postmenopause occur. \"Many women with obesity or overweight experience weight gain as they move through menopause, and it is important to explore investigational products such as CagriSema across the reproductive lifespan,\" said Michelle Skinner Moore, Novo's interim head of clinical development, medical and regulatory affairs. Wall Street has not appeared particularly excited about CagriSema, whose previous late-stage clinical trial results disappointed investors because the drug showed weight loss efficacy below their expectations. Novo, however, maintains CagriSema is effective and differentiated enough from its other drugs to draw significant demand.Analysts expect CagriSema to generate $11.84 billion in sales for obesity specifically in 2028, according to a consensus estimate compiled by FactSet. ",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Novo's next-generation obesity drug shows 25% weight loss in women in late-stage analysis",
-      "image": [
-        "https://image.cnbcfm.com/api/v1/image/108283570-17745429042026-03-26t163339z_1972272553_rc2dcka2eeqm_rtrmadp_0_novo-nordisk.jpeg?v=1792508295&w=1920&h=1080"
-      ],
-      "datePublished": "2026-10-20T16:11:02.000Z",
-      "dateModified": "2026-10-20T16:11:02.000Z",
+      "datePublished": "2026-10-20T20:34:23.000Z",
+      "dateModified": "2026-10-20T20:34:23.000Z",
       "author": [
         {
           "@type": "Person",
@@ -225,6 +125,56 @@
     }
   },
   {
+    "title": "United Airlines slashes 2026 profit outlook on fuel prices, but travelers keep booking despite higher fares",
+    "url": "https://www.cnbc.com/2026/10/20/united-airlines-ual-3q-2026-earnings.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108291389-1776197623988-gettyimages-2268673407-pn028980.jpeg?v=1779295760&w=1920&h=1080",
+    "tag": "Finance",
+    "date": "2026-10-20T20:23:58.000Z",
+    "description": "A United Airlines Boeing 787 takes off from Heathrow Airport in London, March 31, 2026.Peter Nicholls | Getty ImagesUnited Airlines is slashing its pr",
+    "body": "A United Airlines Boeing 787 takes off from Heathrow Airport in London, March 31, 2026.Peter Nicholls | Getty ImagesUnited Airlines is slashing its profit forecast for the year as fuel costs continue to bite, but the carrier said passengers keep booking.United said Tuesday that it expects to earn between 50 cents and $1.50 a share on an adjusted basis in the fourth quarter, well below the $1.76 a share Wall Street analysts expected. At the high end of that range, it would bring United's 2026 adjusted earnings to no more than $7.22 per share. In mid-July, United said it was expecting full-year earnings of $9 to $11 a share. The carrier expects to pay an average of $4.80 a gallon for fuel in the fourth quarter, up from an average price of $3.90 a gallon in the third.A surge in fuel prices this year has added billions of dollars to airlines' costs, eating into profits, despite strong demand, and driving up airfares.Here is what United Airlines reported for the quarter that ended Sept. 30 compared with what Wall Street was expecting, based on estimates compiled by LSEG:Earnings per share: $2.54 adjusted vs. $2.57 expectedRevenue: $17.88 billion vs. $17.9 billion expectedUnited's third-quarter net income rose 8.5% from a year earlier to $1.03 billion, or $3.14 a share. During the same period last year its net income totaled $949 million, or $2.90 a share. \"Our employees met the challenge of our ever-changing environment and our results prove the resilience of focusing on building a brand-loyal airline for customers,\" United CEO Scott Kirby said in an earnings release.United's fuel bill rose close to 62% in the quarter from a year earlier to $4.84 billion. Revenue for the three months ended Sept. 30 rose 17.4% from a year earlier to $17.88 billion, compared with $15.23 billion the year before.Domestic passenger unit revenue rose 14.5% from a year earlier, while international unit revenue was up 17.4%, a sign of higher fares. Passengers continue to book, United said, with passenger counts up more than 2% from last year.Adjusting for one-time items, United reported net income of $833 million or $2.54 a share.Read more CNBC airline newsWhy airfare could rise even more, but airline profits won’tBudget airline king Bill Franke warms to premium upgradesCompanies spurn airlines’ cheapest business class ticketsUnited’s next decision: What to do with all those Boeing 737 Max 10 seats it ordered years agoRecord heat, crowds drive offseason boom in international travel",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "United Airlines slashes 2026 profit outlook on fuel prices, but travelers keep booking despite higher fares",
+      "image": [
+        "https://image.cnbcfm.com/api/v1/image/108291389-1776197623988-gettyimages-2268673407-pn028980.jpeg?v=1779295760&w=1920&h=1080"
+      ],
+      "datePublished": "2026-10-20T20:23:58.000Z",
+      "dateModified": "2026-10-20T20:23:58.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "U.S. eyes refining muscle of Indian billionaire Ambani's Reliance as Rubio visits Jamnagar plant  ",
+    "url": "https://www.cnbc.com/2026/10/21/rubio-reliance-venezuela-oil-diesel.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108440073-1792551490880-gettyimages-2300614158-AFP_D3V73YE.jpeg?v=1792551521&w=1920&h=1080",
+    "tag": "Finance",
+    "date": "2026-10-21T04:47:43.000Z",
+    "description": "US Secretary of State Marco Rubio speaks during the Freedom 250 reception at the Jio World Convention Centre in Mumbai on October 20, 2026. Kylie Coop",
+    "body": "US Secretary of State Marco Rubio speaks during the Freedom 250 reception at the Jio World Convention Centre in Mumbai on October 20, 2026. Kylie Cooper | Afp | Getty ImagesU.S. Secretary of State Marco Rubio will discuss refining Western energy supplies with Indian billionaire Mukesh Ambani's Reliance Industries when he visits the company's plant in Jamnagar, Gujarat — the world's largest single-site refinery.The U.S. is looking to \"work together more closely\" with Reliance for refining energy from the \"Western Hemisphere,\" Rubio said in an interview with India's Network 18, which is owned by Reliance. \"I think that's helpful to India, but it's also helpful to us,\" he added.Reliance's Jamnagar refinery, which Rubio will visit on Wednesday, has a crude processing capacity of 1.4 million barrels per day. Reliance has also emerged as the biggest buyer of Venezuelan crude outside of the U.S., as of end-September.The company's \"extraordinary\" refining capacity could help India diversify its energy supplies, Rubio said, hinting at possibly greater offtake of Venezuelan crude.\"We think there's an opportunity for them [Reliance Industries] to continue to help India diversify its supply chain, its supply of energy,\" Rubio said, adding that Venezuela was ramping up energy production, and that \"India has had a long history of being able to refine some of that.\"U.S. President Donald Trump has been pushing India to buy more Venezuelan oil to replace Russian barrels, and while state-owned oil companies are making opportunistic purchases, Reliance has been the primary buyer.'Refining Superpower'Beyond oil purchases, Reliance has been deepening ties with the U.S. this year, with Trump announcing in March that America will build its first new oil refinery in 50 years, helped by investment from Ambani's Reliance. While Reliance has not confirmed the size of investment, Trump in a Truth Social post had said that \"THIS IS A HISTORIC $300 BILLION DOLLAR DEAL — THE BIGGEST IN U.S. HISTORY.\" Reliance has never made an announcement about the refinery investment, Pramit Pal Chaudhuri, South Asia practice head at Eurasia Group, told CNBC, adding that it creates an air of uncertainty around the deal. Rubio would seek to \"clinch\" that deal or take it a little further, Chaudhuri said. Rubio told Network 18 that Reliance had \"invested in increasing the refining capacity within the United States.\"His visit to Jamnagar also comes at a time when diesel prices have surged in the U.S., with midterm elections looming. Diesel prices, which affect American truckers, farmers, and shippers, are expected to remain elevated going into next year. Speaking at a press conference on Tuesday, Rubio underscored Reliance's ability to refine heavy crude and referred to India as a \"refining superpower\" when asked about the role New Delhi and its companies can play in meeting the world's energy demand.Indian and Chinese refineries are good at handling heavy and medium-heavy crude from Venezuela and Russia, Chaudhuri said, adding that this grade of fuel is better-suited for producing diesel.",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "U.S. eyes refining muscle of Indian billionaire Ambani's Reliance as Rubio visits Jamnagar plant  ",
+      "image": [
+        "https://image.cnbcfm.com/api/v1/image/108440073-1792551490880-gettyimages-2300614158-AFP_D3V73YE.jpeg?v=1792551521&w=1920&h=1080"
+      ],
+      "datePublished": "2026-10-21T04:47:43.000Z",
+      "dateModified": "2026-10-21T04:47:43.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Mike Bloomberg spent $80M to boost Democrats in midterms: NYT",
     "url": "https://www.cnbc.com/2026/10/20/mike-bloomberg-democrats-house-trump.html",
     "image": "https://image.cnbcfm.com/api/v1/image/108438234-1792517403300-gettyimages-2215514115-varittyakkal-qatareco250520_npJo0.jpeg?v=1792517431&w=1920&h=1080",
@@ -250,72 +200,22 @@
     }
   },
   {
-    "title": "Best Buy launches new gaming hub ahead of 'Zelda' and 'Grand Theft Auto VI'",
-    "url": "https://www.cnbc.com/2026/10/20/best-buy-gamers-beta-ign.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108355402-1787861328631-gettyimages-2292342508-_75a8414_vrgulcfu.jpeg?v=1792441384&w=1920&h=1080",
+    "title": "France to deploy military as it braces for fresh unrest this weekend",
+    "url": "https://www.cnbc.com/2026/10/20/france-protests-curfews-macron-gulf-trip.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108435915-1792476243407-gettyimages-2300110357-cc108010.jpeg?v=1792510323&w=1920&h=1080",
     "tag": "Finance",
-    "date": "2026-10-20T12:45:30.000Z",
-    "description": "A Best Buy store in Los Angeles, California, Aug. 27, 2026.Justin Sullivan | Getty ImagesBest Buy is tapping further into a growing customer cohort: g",
-    "body": "A Best Buy store in Los Angeles, California, Aug. 27, 2026.Justin Sullivan | Getty ImagesBest Buy is tapping further into a growing customer cohort: gamers.Chief Revenue Officer Patrick McGinnis told CNBC exclusively that the electronics retailer is launching a new experience Tuesday for customers featuring gaming content, new technology and special offers, among other features. The online destination is called Best Buy Gamers and is launching in a beta version. \"Gamers are a customer that are really like no other in terms of their passion for not just the tech, the titles, but also how they want to work with each other as a community,\" McGinnis said. \"So for us, being relevant for that customer wherever and whenever they want to interact with the thing that they love is really important.\"Best Buy says millions of gamers shop at the retailer each year, including trying out games in the store and seeking advice from in-store experts. The new gaming experience, created in partnership with video game website IGN, will offer members gaming articles and reviews, live Best Buy event updates for launches and deals on new technology.The announcement comes ahead of some of the biggest launches in gaming this year, including the Nov. 5 release of \"The Legend of Zelda: Ocarina of Time,\" a remake from Nintendo, and the Nov. 19 launch of Take-Two Interactive's highly anticipated \"Grand Theft Auto VI.\" McGinnis said the timing of the rollout is \"pretty perfect\" given the slate of new video games over the next month, though Best Buy has been developing the new platform for over a year.\"We want to be relevant for our gaming customers, not just during the important, big tentpole periods of the calendar, like when we have these big gaming launches coming up, but really every day,\" he said. \"We want to be there when they discover new titles and connect with the community, and not just when they're buying a big console or a new gaming title.\"Best Buy has been leaning into gaming as it sees growing demand from its customers. For its fiscal first-quarter results reported in May, the company said gaming and computing was one of its biggest drivers of growth. On a call with analysts to discuss Best Buy's fiscal second quarter in August, incoming CEO Jason Bonfig said the company expects that demand for \"Grand Theft Auto VI\" will boost the gaming category. Best Buy has been looking for growth drivers as the retailer tries to revitalize its business performance under Bonfig. The company has seen slumping sales and was hit by tariffs and lower consumer confidence, among other factors. Tapping into gaming could help revitalize the retailer.McGinnis said the new gamer experience is an example of the company's strategic goals coming together.\"If you think about what those priorities are, the Gamers [beta] community is definitely a way that we're expanding and growing our reach, reaching that gaming customer,\" he said. \"Providing a place for them to again pursue what they're most passionate about certainly is elevating our experience.\"Best Buy is also leaning into in-store experiences around gaming, starting with a location in Torrance, California, next month, where Sony, Nintendo and Microsoft will come together to offer gaming experiences and activations for customers.With the combination of physical retail and the online platform, McGinnis said, Best Buy hopes to sit at the intersection of technology, entertainment and culture within the gaming community. He said the company plans to tweak its new online experience based on feedback from its customers and continue innovating to meet its audience where it is, especially as the gaming segment continues to be one of the company's strongest performers. \"We recognize the gaming customer as incredibly passionate and wants to engage with what they love in a lot of different ways,\" he said. \"There's observations of gaps that exist in the places and spaces where gamers are engaged, and we thought that we could build something that would really complement what they're engaging with today from a social platform perspective, not to replace those types of experiences in any way, shape or form.\"",
+    "date": "2026-10-20T15:01:38.000Z",
+    "description": "Protestors on the statue of Marianne on the Monument à la République (Statue de la République) during demonstrations on October 17, 2026 in Paris, Fra",
+    "body": "Protestors on the statue of Marianne on the Monument à la République (Statue de la République) during demonstrations on October 17, 2026 in Paris, France. Carl Court | Getty Images News | Getty ImagesFrance will deploy some military forces to help maintain order during a fresh wave of protests expected this weekend, officials said Tuesday. French Interior Minister Laurent Nuñez told lawmakers in the National Assembly that the government would ⁠deploy forces from France's Sentinelle force — a domestic military operation that was launched in 2015 following terrorist attacks in Paris — \"mainly on static security missions.\"This would free up police and gendarmes — a military police force — to carry out law enforcement objectives, Nuñez added.Also addressing parliament on Tuesday, Prime Minister Sébastien Lecornu said authorities planned to mobilize a \"massive\" security presence this coming Saturday, adding that the government's objective was to achieve \"an immediate return to order.\"Lecornu also said there would be fresh curfews \"where the situation requires it,\" according to French newspaper Le Monde. Curfews contributed to a \"calm\" night across France, he said earlier on Tuesday, even as public discontent remained high following the weekend's mass protests, looting and violent scenes. Certain areas of several French cities were under curfew overnight, including Place de la République and Les Halles in Paris, and parts of central Lyon. Lille and Nice were among the cities to impose curfews for minors.The unrest comes at a particularly fragile moment for France, where public anger over living costs and deteriorating services is colliding with political instability and a fiscal crisis that threatens to turn into a debt crisis as government borrowing costs rise to the highest level in decades.The country faces a divided parliament with no majority and presidential elections in April 2027.In a statement on Tuesday, Lecornu said local officials would impose new curfews where required. Meanwhile, criticism is mounting over President Emmanuel Macron's decision to embark on a three-day tour of the Middle East as France suffers its most severe riots in many years.Riots followed weeks of demonstrations over the country's education system, the cost of living and other issues.While hundreds of thousands of people marched peacefully, pockets of violence erupted, shocking the country, as protesters smashed shopfronts and set Limoges Town Hall on fire.Protesters vandalise a retail store during a demonstration near Paris's Place de la République, as the Gilets Jaunes join students for a weekend of action on Oct. 17, 2026 in Paris, France.Carl Court | Getty Images News | Getty ImagesPolitical commentator Christophe Barbier on radio station RTL said on Monday there was \"no longer a pilot in the plane.\" At the same time, newspaper La Dépêche du Midi wrote in a scathing editorial that Macron had \"to see if the misery of a reviled president is less painful in the Persian Gulf sun\" as France \"sinks deeper into crisis.\" Macron said on Sunday he was looking to address high fuel prices and secure French energy supplies through the trip to Kuwait, the UAE, Bahrain and Qatar, while strengthening defense and security cooperation.Businesses hitThere is also public anger over claims that police lost control of the situation at the weekend as disorder and looting escalated. Police were earlier this month accused of excessive force in their response to student protests, after a 15-year-old ​boy's hand was blown off by a stun grenade.Interior Minister Laurent Nuñez' offered to quit his post on Monday after claiming responsibility for what unfolded. Macron declined his resignation, saying immediate leadership of law enforcement was needed. \"The lack of enforcement means that more than 3,000 shops have been sacked, and for the economy today we awake with a feeling that the state cannot do the basic duty that it is supposed to do, and this is now creating somehow lack of trust,\" Fabrice Le Saché, vice president of business group MEDEF, told CNBC's \"Squawk Box Europe\" on Tuesday.\"This is dangerous because we have been used to... riots in our country — remember the Yellow Vests and other movements — but this one has passed, I think, the level of the previous ones, and we cannot continue to keep going with that same type of situation every time we have social unrest,\" Le Saché said.French businesses have one of the highest tax burdens in the euro area but now feel they cannot receive basic security in return, he added.Lecornu said Monday that a support fund would be established for damaged or looted businesses, and that the government would talk with insurers to speed up assessments. \"The scale of the damage suggests this weekend's riots could ultimately prove more costly than the unrest that followed the death of Nahel Merzouk in 2023,\" which generated around 1 billion euros ($1.12 billion) in insured losses, Jess Middleton, senior Europe analyst at risk intelligence firm Verisk Maplecroft, said by email.\"Further violence is not inevitable, but protests linked to the underlying grievances, including cost-of-living pressures and discontent over public services and education, are likely to persist, putting continued pressure on the government to demonstrate that it can maintain order,\" Middleton said.French markets came under pressure on Monday after the weekend scenes, with bonds, stocks and the euro all selling off, amid growing skepticism about the country's ability to bring down its deficit to a sustainable level. Fierce debate is underway over the 2027 budget, with the government targeting an overall decline in the deficit to 5% of GDP from 5.4%.",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Best Buy launches new gaming hub ahead of 'Zelda' and 'Grand Theft Auto VI'",
+      "headline": "France to deploy military as it braces for fresh unrest this weekend",
       "image": [
-        "https://image.cnbcfm.com/api/v1/image/108355402-1787861328631-gettyimages-2292342508-_75a8414_vrgulcfu.jpeg?v=1792441384&w=1920&h=1080"
+        "https://image.cnbcfm.com/api/v1/image/108435915-1792476243407-gettyimages-2300110357-cc108010.jpeg?v=1792510323&w=1920&h=1080"
       ],
-      "datePublished": "2026-10-20T12:45:30.000Z",
-      "dateModified": "2026-10-20T12:45:30.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Netflix posts third-quarter earnings beat, but shares fall on advertising and revenue guidance",
-    "url": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108433657-1792434928136-gettyimages-2285761608-boivin-photoill260716_np807.jpeg?v=1792518234&w=1920&h=1080",
-    "tag": "Finance",
-    "date": "2026-10-20T22:29:45.000Z",
-    "description": "watch nowNetflix on Tuesday reported third-quarter earnings that topped analyst estimates and revenue that was in line as Wall Street eyes the company",
-    "body": "watch nowNetflix on Tuesday reported third-quarter earnings that topped analyst estimates and revenue that was in line as Wall Street eyes the company's engagement and advertising metrics.Here's how Netflix performed for the period ended Sept. 30, compared with projections from analysts polled by LSEG:Earnings per share: 87 cents vs. 82 cents estimatedRevenue: $12.87 billion vs. $12.87 billion estimatedThe streamer's revenue was almost 12% higher year over year, boosted by growth in membership and an increase in subscription prices that went into effect in March, the company said. Netflix said the response to those price hikes has been consistent with prior changes and with its expectations. Net income for the quarter was $3.66 billion, or 87 cents per share, compared with $2.55 billion, or 59 cents a share in the same period last year. Netflix said the year-over-year jump in profit was due in part to the timing of expenses. The company expects fourth-quarter revenue to rise more than 11% to $13.44 billion, driven by growth in memberships, pricing and ad revenue, it said.The company narrowed its 2026 full-year forecast, saying it now expects revenue to reach $51.1 billion, a 13% increase over the year prior. This is on the low end of the range Netflix provided during its previous earnings report of between $51 billion and $51.4 billion and below Wall Street's expectations of $51.2 billion for the year, according to LSEG.Shares of Netflix fell about 6% in extended trading Tuesday. Samuel Boivin | Nurphoto | Getty ImagesWall Street and investors will be looking for Netflix to provide additional details about the company's strategy following recent organizational changes and headwinds including stagnating viewership and growing competition from the likes of YouTube. \"With intense competition and an explosion of content competing for consumer attention, strategic clarity and excellent execution are critical,\" the company said in a shareholder letter Tuesday. \"In Q3, we delivered well across all three priorities, but we see room to do even better with focused, continuous improvement.\" Last week, Netflix said it was laying off about 6% of employees, or roughly 1,000 workers, and that Chief Content Officer Bela Bajaria was departing from that role. The company said Tuesday it expects its fourth-quarter results to be impacted by those reductions in head count, with a negative impact on operating margin of about 120 basis points.Former Disney executive Peter Rice has been tapped as the new CCO, but it's not yet clear how he'll address concerns around viewership.Netflix in its shareholder letter said, \"We know there's some investor concern about our view hours growth,\" but added, \"engagement — which encompasses quantity, quality and variety of viewing — remains healthy and … we continue to deliver strong value to members.\"The company seeks to accelerate growth in those view hours and plans to do so with a three-step strategy, it said: deliver more entertainment value to members; leverage technology to improve all aspects of the service; and improve monetization.Ads on NetflixCentral to Netflix's value offering has been its cheaper, ad-supported tier. Yet, the company on Tuesday lowered its full-year revenue guidance for its ad business. Netflix said it now expects 2026 ad revenue of around $2.7 billion, down from the roughly $3 billion the company had previously forecast. That lower guidance is due to a slower-than-expected rollout of some ad product capabilities, the company said.\"Our ads business has delivered really impressive growth since we've launched, and we do see a long road of continued growth ahead of us,\" co-CEO Greg Peters said on the company's earnings call. \"We set big growth targets for our ads business this year. We established an aggressive product road map that was consistent with that strategy. And, just note, I think that the build-out that we've been on is the fastest build-out of a comparable ad stack in our industry, but we are currently a bit behind our aggressive target for the year.\" Earlier Tuesday, Netflix announced new features for advertisers that it says will help better connect brands to the right audiences and measure the impact of their ads.",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Netflix posts third-quarter earnings beat, but shares fall on advertising and revenue guidance",
-      "image": [
-        "https://image.cnbcfm.com/api/v1/image/108433657-1792434928136-gettyimages-2285761608-boivin-photoill260716_np807.jpeg?v=1792518234&w=1920&h=1080"
-      ],
-      "datePublished": "2026-10-20T22:29:45.000Z",
-      "dateModified": "2026-10-20T22:29:45.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Former OpenAI exec has quietly built $1.5 billion startup, betting AI can revive U.S. manufacturing",
-    "url": "https://www.cnbc.com/2026/10/20/ex-openai-executive-builds-1point5-billion-ai-manufacturing-startup-arda.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/107234139-1683045666002-gettyimages-1393983549-_dsc1598-denoiseai-standard.jpeg?v=1683122081&w=1920&h=1080",
-    "tag": "Finance",
-    "date": "2026-10-20T13:03:31.000Z",
-    "description": "watch nowOpenAI's former research chief has been quietly building a startup that aims to bring manufacturing back to the U.S. using AI. Bob McGrew's n",
-    "body": "watch nowOpenAI's former research chief has been quietly building a startup that aims to bring manufacturing back to the U.S. using AI. Bob McGrew's newest company, Arda, has raised $230 million at a $1.5 billion valuation, the company told CNBC in an exclusive interview Tuesday. The round was led by Altimeter Capital, Accel and Khosla Ventures. Arda makes AI software to help automate manufacturing. McGrew, who was also Palantir's product and engineering lead for over a decade, said Arda's AI models have already been deployed with military tech company Anduril. \"It's a user interface and an agent that does for manufacturing engineers what Claude or Cursor does for programmers,\" McGrew told CNBC. He pointed to the \"human-intensive\" nature of manufacturing, and the time it can take to adapt production to a new design for a weapon or drone.\"When a design changes, you can retrain a human in a day — but it takes three to six months in order to change the automation to reflect the new design,\" McGrew said. \"We've built a software and AI product that basically allows manufacturing engineers to build assembly lines much faster.\"McGrew joined OpenAI in 2017 and worked on the reasoning capabilities of early models before the launch of ChatGPT. He left during a 2024 wave of other high-profile exits, including chief technology officer Mira Murati and co-founder and chief scientist Ilya Sutskever.\"OpenAI is an amazing place,\" McGrew said. He said he remembers being in rooms with CEO Sam Altman, Dario Amodei, who left to start Anthropic, and Sutskever, \"talking about what it would look like when a model could write your email for you.\" McGrew stayed through the famous weekend in November 2023 when Altman was abruptly fired and then rehired. McGrew said he wanted to stay to ship OpenAI's reasoning product, which he called the \"last key breakthrough left before AGI,\" or artificial general intelligence. \"I said, if I could just ship that, I'd be happy with my career at OpenAI, and I'd be ready to move on to something else,\" he said. OpenAI CEO Sam Altman delivers the keynote address during the OpenAI developers conference at Fort Mason on Sept. 29, 2026 in San Francisco, California. Heather Diehl | Getty ImagesMcGrew, who hasn't spoken publicly about Arda until this week, said the company is using a combination of its own proprietary models, open-source models and some frontier models to run the software. Arda's other co-founders include Augustus Odena, who helped start Adept and previously worked at Google and Meta, and former Palantir engineers Alex Mark and Jakob Frick.Altimeter's Apoorv Agrawal led the recent funding round. He met McGrew when they both worked at Palantir. Manufacturing largely happens overseas, Agrawal said, but there's a market for bringing it back. \"Manufacturing globally is a $16 trillion industry. In the U.S. alone, it's $3 trillion,\" Agrawal said. \"We think that Arda, and the vision that they've outlined, will continue to capture a significant portion of that. Yes, the price is steep today, but the long-term opportunity is very high.\"McGrew said robotics is next on the product roadmap, and automating factories could help bring more manufacturing — and more jobs — to the U.S. \"If your design changes very frequently, the only place you can really build your product is in East Asia, because you need an army of human workers who can be retrained quickly, and you can't wait for automation to catch up,\" he said. McGrew also highlighted the economic opportunity as the Trump administration looks to onshore manufacturing.\"No one has ever successfully built a smartphone in the U.S.,\" he said. \"Never successfully assembled one, and so if you can build a smartphone in the U.S. that is not taking away American jobs. That is bringing American jobs.\"",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Former OpenAI exec has quietly built $1.5 billion startup, betting AI can revive U.S. manufacturing",
-      "image": [
-        "https://image.cnbcfm.com/api/v1/image/107234139-1683045666002-gettyimages-1393983549-_dsc1598-denoiseai-standard.jpeg?v=1683122081&w=1920&h=1080"
-      ],
-      "datePublished": "2026-10-20T13:03:31.000Z",
-      "dateModified": "2026-10-20T13:03:31.000Z",
+      "datePublished": "2026-10-20T15:01:38.000Z",
+      "dateModified": "2026-10-20T15:01:38.000Z",
       "author": [
         {
           "@type": "Person",
@@ -350,22 +250,122 @@
     }
   },
   {
-    "title": "Oil prices fall as traders hope for diplomatic progress in Middle East",
-    "url": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108374101-1791385507503-gettyimages-503850269-bld134034.jpeg?v=1791385521&w=1920&h=1080",
+    "title": "UK inflation jumps to 3.5% — cementing rate hike expectations",
+    "url": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108243682-17660765522025-12-18t164547z_2096923420_rc23jiae5pf5_rtrmadp_0_britain-boe.jpeg?v=1766076616&w=1920&h=1080",
     "tag": "Finance",
-    "date": "2026-10-20T19:40:51.000Z",
-    "description": "watch nowCrude oil prices fell Tuesday as traders hoped for diplomatic progress between the U.S. and Iran, though attacks on tankers and strikes again",
-    "body": "watch nowCrude oil prices fell Tuesday as traders hoped for diplomatic progress between the U.S. and Iran, though attacks on tankers and strikes against Saudi Arabia have escalated recently. U.S. West Texas Intermediate futures for November fell 1.8% to close at $101.79 per barrel, pulling back dramatically from a session high of $110.48. The November contract expired on Tuesday. The WTI December contract was down 26 cents at $98.28 per barrel. Global benchmark Brent crude futures for December delivery fell 0.7% to settle at $108.79 per barrel,  well off a session high of $111.99. Stock Chart IconStock chart iconCrude oil futuresDevelopments in the Middle East remain in focus, with attacks on commercial ships transiting the Strait of Hormuz escalating in recent weeks. At least 18 vessels have come under fire over the past two weeks, according to ship tracker Kpler. Iran's Revolutionary Guard Corps said Tuesday that two \"non-compliant\" oil tankers had been set ablaze in the strait after hitting mines laid by its naval unit, Iranian state-affiliated news agency Tasnim reported. Meanwhile, Foreign Ministry Spokesperson Esmaeil Baqaei said at a weekly news conference on Tuesday that Tehran would respond to any American strike \"in equal measure, if not more forcefully,\" according to Tasnim.U.S. President Donald Trump said earlier this month that American forces will not attack Iran before the midterm elections on Nov. 3.Tamas Varga, analyst at PVM Oil Associates, told CNBC in an email on Tuesday that front-end WTI strength ahead of the contract expiry is a sign of tightness in the global crude oil market. \"It is a reflection of falling export volumes from the Middle East as tanker attacks and Houthi strikes on Saudi oil infrastructure intensify,\" he said. \"Secondly, the U.S. decision to exempt Russian shadow fleet from sanctions will push freight rates possibly lower, which was a prohibitive factor to increase demand for U.S.-sourced crude.\"\"With this hurdle removed, at least temporary, U.S. crude oil grades are back in play as replacements of Mideast crude oil,\" he added. \"Thirdly, U.S. commercial oil stocks are expected to have declined last week.\"",
+    "date": "2026-10-21T07:50:10.000Z",
+    "description": "A person shields themselves from the rain while walking near the Bank of England building on the day the Monetary Policy Committee lowered interest ra",
+    "body": "A person shields themselves from the rain while walking near the Bank of England building on the day the Monetary Policy Committee lowered interest rates, in London, Britain, Dec.18, 2025. Toby Melville | ReutersU.K. inflation rose by a hotter-than-expected 3.5% in the 12 months to September, driven by the surging cost of motor fuels. Economists polled by Reuters had been forecasting an annual inflation rate of 3.4%. September's print marked a continuation of the U.K.'s upward trend for inflation, which came in at 3.1% in August and 2.9% in July. The September reading was the highest annual inflation figure in almost a year. The U.K.'s Office for National Statistics said on Wednesday that the motor fuel inflation rate had hit its highest level since August 2022, when fuel costs surged in the wake of Russia's full-scale invasion of Ukraine. Britain is a net energy importer, making it vulnerable to external energy shocks, such as the U.S.-Iran war and the subsequent struggle to move oil through the Strait of Hormuz. U.K. motor fuel prices surged 29.8% in the year to September, ONS data showed on Wednesday. The British pound was flat against both the euro and the U.S. dollar following the data release, and yields on U.K. government bonds were also little changed. Scott Gardner, investment strategist at J.P. Morgan Personal Investing, said in a note Wednesday morning that recent growth in headline inflation had \"undone the progress we saw in the spring.\"\"Bank of England policymakers will be looking beyond the headline figure,\" he said. \"Services inflation, in particular, has accelerated in recent months which will create concern that we are starting to see second round inflationary effects beyond energy prices. While we face a different set of challenges compared to 2021, the prolonged conflict is weighing on the U.K. economy and making the case for a rate hike stronger.\"Markets are pricing in a 98% chance that the Bank of England raises its key interest rate by 25 basis points to 4% next month, according to LSEG data, with the majority of traders also pricing in a further hike of the same size at the central bank's final meeting of the year in December. Budget headache Wednesday's expected rise in inflation also complicates the fiscal picture for the U.K. government and its finance minister.  Chancellor of the Exchequer John Healey is set to unveil his first fiscal shakeup next week during the U.K.'s hotly anticipated Autumn Budget. He is tasked with sticking to the previous government's so-called fiscal rules, which aim to rein in public debt while delivering on promises to soften the blow of surging consumer costs.But separate data published Wednesday showed the U.K.'s national debt was estimated to have exceeded £3 trillion ($4 trillion) in September for the first time. The cost of servicing those debts has risen drastically over the past year, and the British economy is struggling to grow. Healey said in a statement following Wednesday's data release that he would be \"maintaining our fiscal discipline\" in the budget next week, while working to \"drive for growth [and give] businesses and families some breathing space.\"Suren Thiru, chief economist at the Institute of Chartered Accountants in England and Wales, said in a note Wednesday morning that rising inflation is turning the Autumn Budget into \"a perilous high-wire act for the Chancellor.\"He said surging prices were \"increasing pressure for cost-of-living support while pushing up government borrowing costs, which is shrinking fiscal headroom and narrowing his policy options.\" \"With inflation increasing, the pieces are falling firmly into place for a November rate rise,\" he said. \"Policymakers will also be looking to the Chancellor to avoid adding fuel to the inflation fire by delivering a credible, fiscally disciplined Budget.\"",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Oil prices fall as traders hope for diplomatic progress in Middle East",
+      "headline": "UK inflation jumps to 3.5% — cementing rate hike expectations",
       "image": [
-        "https://image.cnbcfm.com/api/v1/image/108374101-1791385507503-gettyimages-503850269-bld134034.jpeg?v=1791385521&w=1920&h=1080"
+        "https://image.cnbcfm.com/api/v1/image/108243682-17660765522025-12-18t164547z_2096923420_rc23jiae5pf5_rtrmadp_0_britain-boe.jpeg?v=1766076616&w=1920&h=1080"
       ],
-      "datePublished": "2026-10-20T19:40:51.000Z",
-      "dateModified": "2026-10-20T19:40:51.000Z",
+      "datePublished": "2026-10-21T07:50:10.000Z",
+      "dateModified": "2026-10-21T07:50:10.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Elon Musk ordered Starlink slowdown for Ukraine: Report",
+    "url": "https://www.cnbc.com/2026/10/20/trump-musk-starlink-ukraine-zelenskyy.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108437814-1792509978035-gettyimages-2297775036-1r5_3021_gdulgt9a.jpeg?v=1792537393&w=1920&h=1080",
+    "tag": "Finance",
+    "date": "2026-10-20T23:06:56.000Z",
+    "description": "SpaceX CEO Elon Musk attends a press briefing held by President Donald Trump with AI executives following a meeting on artificial intelligence, outsid",
+    "body": "SpaceX CEO Elon Musk attends a press briefing held by President Donald Trump with AI executives following a meeting on artificial intelligence, outside the West Wing of the White House in Washington, Sept. 29, 2026.Finn Gomez | Getty ImagesElon Musk ordered the slowdown of a version of SpaceX's Starlink that Ukraine has relied on in its war against Russia, The Wall Street Journal reported Tuesday, citing U.S. officials and people familiar with the matter.Musk, SpaceX's founder and CEO, last week \"capped the speeds at which Ukrainian hardware could stay connected to the satellite-based network,\" the Journal reported. The decision left some Ukrainian drones virtually inoperable, according to the newspaper.Musk and President Donald Trump, who have both recently criticized Ukrainian President Volodymyr Zelenskyy, discussed the move to throttle Starlink \"soon after\" the change first became public last week, two people told the Journal.One of the people who spoke with the news outlet claimed that Musk discussed the matter with multiple senior Trump administration officials, including the president himself, prior to imposing the Starlink speed cap.The White House and an email associated with Musk did not immediately respond to CNBC's request for comment on the Journal's report, which was published minutes after SpaceX reported its latest quarterly earnings.The Journal's story was not mentioned in a subsequent conference call with Musk and investors.Trump said Monday that he did not know who ordered the Starlink interruption, \"But I'd like to find out.\"The Journal reported that Zelenskyy's public complaints that the slowdown weakens Ukraine's defenses against Russian attacks led to an informal investigation within the White House.Last Wednesday, Musk wrote on X that Starshield systems, the military-grade version of Starlink, are \"owned and controlled by the US government\" and that any speed or usage limits are \"decided by the US military and ultimately POTUS.\"",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Elon Musk ordered Starlink slowdown for Ukraine: Report",
+      "image": [
+        "https://image.cnbcfm.com/api/v1/image/108437814-1792509978035-gettyimages-2297775036-1r5_3021_gdulgt9a.jpeg?v=1792537393&w=1920&h=1080"
+      ],
+      "datePublished": "2026-10-20T23:06:56.000Z",
+      "dateModified": "2026-10-20T23:06:56.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Oil prices climb as traders assess Middle East developments",
+    "url": "https://www.cnbc.com/2026/10/21/oil-price-today-wti-brent-rise-on-middle-east-worries.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108367941-1790326873884-gettyimages-2293738554-AA_09092026_2944252.jpeg?v=1790326911&w=1920&h=1080",
+    "tag": "Finance",
+    "date": "2026-10-21T07:54:59.000Z",
+    "description": "Iran's medium-sized oil tankers continue to wait off the coast of Bandar Abbas at the Strait of Hormuz in Hormozgan Province, Iran on September 09, 20",
+    "body": "Iran's medium-sized oil tankers continue to wait off the coast of Bandar Abbas at the Strait of Hormuz in Hormozgan Province, Iran on September 09, 2026.Anadolu | Anadolu | Getty ImagesOil prices climbed Wednesday as worries over Middle East supply disruptions keep the market on edge, with attacks on tankers near the Strait of Hormuz and Saudi energy facilities denting sentiment.Brent crude futures gained 0.86% to $109.73 a barrel as of 3:33 a.m. ET, while U.S. West Texas Intermediate crude rose 0.78%  to $98.58 a barrel.Stock Chart IconStock chart iconBrent crude prices this yearIran's Revolutionary Guards said Tuesday that naval mines had prevented three tankers attempting to pass through the Strait of Hormuz using routes Tehran deemed unauthorized.\"Two violating oil tankers were set ablaze and halted due to the explosion of mines planted by the brave sailors of the IRGC Navy at an illegal crossing point in the southern part of the Strait of Hormuz,\" IRGC said in a statement published on their official Sepah News website.Adding to regional worries, Yemen's Houthi militants claimed responsibility on Monday for strikes targeting Saudi Aramco facilities in Yanbu, the Shaybah oilfield and airports in Riyadh and Abha. The escalating tensions have also sent global oil shipping costs soaring, adding another layer of pressure to energy markets.The global average crude freight rate has surged above $20 per barrel, compared with just $3 a year earlier, according to a Goldman Sachs report published Tuesday. While rates have eased slightly in recent days, they remain roughly seven times higher than a year ago.Goldman estimated that war-risk premiums associated with crossing the Strait of Hormuz accounted for about $7 of the $20 year-on-year increase in average crude freight rates, while ship-to-ship transfers outside the Persian Gulf contributed another $4.The investment bank warned that elevated shipping costs could widen price differences between crude grades, squeeze refiners' profit margins and ultimately push up refined fuel prices.\"High freight costs have weighed particularly heavily on Asian refineries' net margins, threatening their refined product output, which could then raise global refined product prices,\" Goldman Sachs analysts wrote.",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Oil prices climb as traders assess Middle East developments",
+      "image": [
+        "https://image.cnbcfm.com/api/v1/image/108367941-1790326873884-gettyimages-2293738554-AA_09092026_2944252.jpeg?v=1790326911&w=1920&h=1080"
+      ],
+      "datePublished": "2026-10-21T07:54:59.000Z",
+      "dateModified": "2026-10-21T07:54:59.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Treasury yields steady as investors await jobless claims, mortgage data",
+    "url": "https://www.cnbc.com/2026/10/21/bonds-us-treasurys-yields.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108368836-17906098212026-09-28t153558z_113683162_rc2dsnar625l_rtrmadp_0_usa-stocks.jpeg?v=1790609915&w=1920&h=1080",
+    "tag": "Finance",
+    "date": "2026-10-21T08:57:33.000Z",
+    "description": "Treasury yields steadied early on Wednesday as investors awaited fresh data for insights into the U.S. economic picture ahead of next week's Federal R",
+    "body": "Treasury yields steadied early on Wednesday as investors awaited fresh data for insights into the U.S. economic picture ahead of next week's Federal Reserve interest rate decision.Yields on 10-year U.S. Treasurys — the main benchmark for mortgages, auto loans and credit card debt — were unchanged at 5.1211%.The yield on the 2-year Treasury note, which more closely follows short-term Federal Reserve rate decisions, was holding firm at 4.7889%.  The yield on longer-dated 30-year U.S. Treasurys — which often moves on geopolitical developments — also held steady at 5.4320%.One basis point equals 0.01%, or 1/100th of 1%, and yields and prices move inversely to one another.With the Federal Reserve's next interest rate meeting scheduled for Oct. 28, traders are weighing up how domestic economic data and global geopolitical developments are shaping the outlook for inflation and interest rates.Energy prices ticked higher Wednesday, with U.S. West Texas Intermediate futures up 0.86% at $98.66 per barrel, as fresh missile strikes on tankers in the Strait of Hormuz and Saudi energy facilities sparked renewed concerns over oil supplies.The latest weekly average 30-year fixed mortgage rate is due out later from the Mortgage Bankers Association. Previously, the fixed-rate loan average moved 1 basis point higher to 7.5% in the week ended Oct. 9.That's followed Thursday by the Labor Department's initial jobless claims data for the week ending Oct. 17. The number of people claiming unemployment benefits rose slightly by 1,000 to 199,000 in the week ending Oct. 10.",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Treasury yields steady as investors await jobless claims, mortgage data",
+      "image": [
+        "https://image.cnbcfm.com/api/v1/image/108368836-17906098212026-09-28t153558z_113683162_rc2dsnar625l_rtrmadp_0_usa-stocks.jpeg?v=1790609915&w=1920&h=1080"
+      ],
+      "datePublished": "2026-10-21T08:57:33.000Z",
+      "dateModified": "2026-10-21T08:57:33.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Australian data center operator NextDC's shares plunge 40% after it slashes earnings forecast",
+    "url": "https://www.cnbc.com/2026/10/21/australia-data-center-operator-nexdc-datacenter.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/108439820-1792544936852-gettyimages-2294883415-AFP_C8BM6JM.jpeg?v=1792544952&w=1920&h=1080",
+    "tag": "Finance",
+    "date": "2026-10-21T02:55:38.000Z",
+    "description": "The logo of Australian data centre operator NextDC is seen on its Artarmon facility in Sydney on September 15, 2026. (Photo by Saeed KHAN / AFP via Ge",
+    "body": "The logo of Australian data centre operator NextDC is seen on its Artarmon facility in Sydney on September 15, 2026. (Photo by Saeed KHAN / AFP via Getty Images)Saeed Khan | Afp | Getty ImagesShares of Australia's NextDC plunged 39.5% on Wednesday after the data center operator slashed its annual earnings forecast, citing power supply delays at its Melbourne facility amid local community and stakeholder opposition.The company lowered its fiscal 2027 revenue guidance to between $475 million Australian dollars and A$500 million, from A$615 million to A$640 million forecast earlier, while cutting its underlying earnings before interest, taxes, depreciation and amortization, or EBITDA, forecast to A$245 million to A$265 million from A$385 million to A$410 million. Stock Chart IconStock chart iconShares of NEXTDC on 22 Oct.The delays to power stem from the suspension of infrastructure upgrades at the company's M3 Melbourne data center amid community opposition, with electricity distributor Jemena not expecting to resume work before February 2027, according to NextDC.Jemena cited safety concerns and restricted access to work sites due to community opposition, as well as a lack of consent from the local council pending further community consultation.Citi said in a note that NextDC's power delays could affect earnings beyond fiscal 2027, citing delays to approvals for the M3 expansion and a longer-than-expected timeline for transformer upgrades.watch nowAs Australia grapples with growing concerns over the impact of data center developments on local communities, Treasurer Jim Chalmers said the government was working to establish national standards for investment.Chalmers told CNBC's \"Squawk Box Asia\" on Wednesday that the government welcomes investment in data centers and AI infrastructure, provided it aligns with the country's national interest, adding that the government was finalizing national investment standards to address concerns surrounding AI deployment. Australia is not alone in facing opposition to data center projects, there has been growing push back against data center developments worldwide, amid concerns over their impact on local communities and the environment.NextDC shares have declined for seven straight weeks, and are on course to end lower for the eighth week. ",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Australian data center operator NextDC's shares plunge 40% after it slashes earnings forecast",
+      "image": [
+        "https://image.cnbcfm.com/api/v1/image/108439820-1792544936852-gettyimages-2294883415-AFP_C8BM6JM.jpeg?v=1792544952&w=1920&h=1080"
+      ],
+      "datePublished": "2026-10-21T02:55:38.000Z",
+      "dateModified": "2026-10-21T02:55:38.000Z",
       "author": [
         {
           "@type": "Person",
