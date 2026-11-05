@@ -1,30 +1,5 @@
 [
   {
-    "title": "Hackers stole DreamHost customer files and inboxes during months-long attack",
-    "url": "https://techcrunch.com/2026/11/04/hackers-stole-dreamhost-customer-files-and-inboxes-during-months-long-attack/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2249547675.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-11-04T20:36:57.000Z",
-    "description": "\nIn Brief\nPosted:\n12:36 PM PST · November 4, 2026\n\nImage Credits:Thomas Fuller/SOPA Images/LightRocket / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
-    "body": "\nIn Brief\nPosted:\n12:36 PM PST · November 4, 2026\n\nImage Credits:Thomas Fuller/SOPA Images/LightRocket / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nWeb host DreamHost has confirmed that hackers stole customer emails and credentials during a months-long cyberattack on its systems. DreamHost disclosed the breach last Thursday after it sparked an outage that spanned several days, during which it reset some customer passwords.\nIn a data breach notice filed with California’s attorney general, the web host said the attack began in August and allowed hackers to obtain session tokens, which keep users logged in after entering their passwords. If stolen, hackers can break into a system as if they were that user. The company said hackers exploited an unspecified vulnerability in DreamHost’s file manager, which customers use to store their files. \nWhen reached by TechCrunch, a DreamHost spokesperson declined to say why the company did not detect the cyberattack until last week, citing an ongoing investigation. The spokesperson did not say what the vulnerability is. The company said it was unrelated to the vulnerabilities recently discovered in the PHP web software.\nDreamHost’s spokesperson said that the number of affected customers is “well under 10%” but would not provide a more accurate figure. The web host touts some 400,000 paying customers across its network.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nRelated\n\n\n\t\t\t\n\t\t\t\t\t\n\t\t\n\n\n\nLatest in Security\n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Hackers stole DreamHost customer files and inboxes during months-long attack",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2249547675.jpg?w=150"
-      ],
-      "datePublished": "2026-11-04T20:36:57.000Z",
-      "dateModified": "2026-11-04T20:36:57.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Apple is reportedly cutting budgets for its internal AI usage",
     "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/iphone-usb-cable.jpg?w=150",
@@ -41,31 +16,6 @@
       ],
       "datePublished": "2026-11-05T01:26:22.000Z",
       "dateModified": "2026-11-05T01:26:22.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Waymo confirms it’s shaking up its Uber relationship in January 2028",
-    "url": "https://techcrunch.com/2026/11/04/waymo-confirms-its-shaking-up-its-uber-relationship-in-january-2028/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/waymo-ojai-getty.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-11-04T18:12:30.000Z",
-    "description": "\nIn Brief\nPosted:\n10:12 AM PST · November 4, 2026\n\nImage Credits:Smith Collection/Gado / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nWaymo",
-    "body": "\nIn Brief\nPosted:\n10:12 AM PST · November 4, 2026\n\nImage Credits:Smith Collection/Gado / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nWaymo will end its exclusivity with Uber in the Austin and Atlanta markets starting in January 2028, co-CEO Tekedra Mawakana told Bloomberg News in a report published Wednesday.\nThe robotaxi company will offer rides directly through its own smartphone app, like it does in other cities. Uber confirmed to TechCrunch Wednesday that it still plans to host Waymo robotaxis on its app for as long as the two companies agree. Waymo did not immediately respond to a request for comment.\nMawakana’s comments come after reporting earlier this year by the Financial Times that Waymo was looking to get out of its deal with Uber, which was set to expire in May 2028. Mawakana told Bloomberg that Waymo initially partnered with Uber because the ride-hail giant offered scale. But the experience for riders has been “a little bit of a crapshoot,” she said, especially because riders never know for sure if they’re going to hail a robotaxi or a human-driven car.\n“It’s important for us to have that relationship with the rider. We’ve gotten that feedback from the riders in those markets,” Mawakana said.\nUber — which has many robotaxi and other autonomous vehicle partners — told Bloomberg that it was Waymo’s idea not to add an option in the ride-hail giant’s app to book a robotaxi directly. \nThis story has been updated with new information from Uber, and to correct that Mawakana’s comments were about the exclusivity. \n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Transportation\n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Waymo confirms it’s shaking up its Uber relationship in January 2028",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/09/waymo-ojai-getty.jpg?w=150"
-      ],
-      "datePublished": "2026-11-04T18:12:30.000Z",
-      "dateModified": "2026-11-04T18:12:30.000Z",
       "author": [
         {
           "@type": "Person",
@@ -100,22 +50,22 @@
     }
   },
   {
-    "title": "Meta acquires AI coding startup Conductor",
-    "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-ray-bans.png?w=150",
+    "title": "Bluesky hit peak usage for the year on Election Night",
+    "url": "https://techcrunch.com/2026/11/05/bluesky-hit-peak-usage-for-the-year-on-election-night/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/bluesky-GettyImages-2185144073.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-11-04T21:10:56.000Z",
-    "description": "\nMeta has acquired Conductor, an AI coding startup that allows users to spin up software projects by deploying multiple agents into parallel workspace",
-    "body": "\nMeta has acquired Conductor, an AI coding startup that allows users to spin up software projects by deploying multiple agents into parallel workspaces.\nThe news was originally reported by Axios, and Conductor shared news of its acquisition on its blog.\n“I have big news: Conductor is joining Meta,” wrote the startup’s founder and CEO, Charlie Holtz, on Wednesday. “We have some big, crazy plans for the next interface,” he added, teasing that the company would have “something new” for customers to use by “early next year.”\nOn X, Holtz also noted that he was looking forward to working with Alexandr Wang, Meta’s chief AI officer, and Nat Friedman, head of product at the company’s Superintelligence Labs. “They’ve been on an absolute tear, and I’m convinced MSL has the highest talent density of all the labs,” he added.\nMeta confirmed the acquisition to TechCrunch but wouldn’t comment further or provide additional details about the deal. \nConductor, founded in 2024, only launched its core product just last summer. The company’s agentic teams, which can be deployed in the cloud, locally, or via a user’s phone, are designed to help software engineers work on separate, compartmentalized parts of a project in concert. The agents that the platform deploys aren’t developed in-house but come from major labs like Anthropic and OpenAI.\nHoltz said that, until early next year, Conductor’s core features would continue to work as they previously have. The exception is Conductor’s cloud service, which will shut down on November 20, after which the company will begin deleting user cloud data. \nMeta, which previously lagged behind in AI services, has spent the last several months trying to catch up. In August, the company launched Muse Code, its own coding agent. Meanwhile, the company’s recently launched Muse agents are seeing significant adoption, with the company recently reporting that the service had surpassed 10 million users. The company has also made a number of AI-related acquisitions over the past year, including Moltbook, the viral agent platform that made headlines. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tLucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. \nYou can contact Lucas by emailing [email protected].\t\n\n\n\tView Bio \n\n",
+    "date": "2026-11-05T15:44:58.000Z",
+    "description": "\nIn Brief\nPosted:\n7:44 AM PST · November 5, 2026\n\nImage Credits:Matteo Della Torre/NurPhoto (opens in a new window) / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t",
+    "body": "\nIn Brief\nPosted:\n7:44 AM PST · November 5, 2026\n\nImage Credits:Matteo Della Torre/NurPhoto (opens in a new window) / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nThe blue wave swept Bluesky on Tuesday night as the microblogging platform recorded its highest daily number of posts, replies, and likes in 2026.\n“We’re seeing a wave of new people joining and old friends coming back,” Schneider posted. \nAccording to Bluesky CEO Toni Schneider, posts and likes doubled during to the U.S. midterm elections on Tuesday.\nCOO Rose Wang told TechCrunch that usage began to peak between 8 pm to 10 pm PT, when many election results were rolling in. Daily posts and likes increased 30% and 70%, respectively, compared to the previous 30-day averages; Clicks on links also spiked 20%.\nAccording to open-source data, Bluesky reached 44 million likes, 4.8 million posts, and 2 million new follows on November 4. This nearly eclipsed Bluesky’s all-time record 45 million likes in a single day, set in November 2024.\nThis jump was especially visible in Bluesky’s data traffic, which was 200% higher than usual, reaching up to 35.8 GB/s. \nBluesky is — sometimes snidely — referred to as “Twitter for the left,” given that its user base seems to skew that way politically. This isn’t a coincidence; Bluesky’s most concentrated period of user growth occurred after Donald Trump won the 2024 presidential election, so it makes sense that those users would post actively during a night of overwhelming victories for the Democratic party.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Social\n\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Meta acquires AI coding startup Conductor",
+      "headline": "Bluesky hit peak usage for the year on Election Night",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-ray-bans.png?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/01/bluesky-GettyImages-2185144073.jpg?w=150"
       ],
-      "datePublished": "2026-11-04T21:10:56.000Z",
-      "dateModified": "2026-11-04T21:10:56.000Z",
+      "datePublished": "2026-11-05T15:44:58.000Z",
+      "dateModified": "2026-11-05T15:44:58.000Z",
       "author": [
         {
           "@type": "Person",
@@ -125,197 +75,22 @@
     }
   },
   {
-    "title": "Revolut’s valuation jumps 53% to $115B in new share sale as it prepares to launch US bank",
-    "url": "https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/10/PR-lib-office-exterior-4.png?w=150",
+    "title": "Instagram brings Edits to desktop to take on CapCut",
+    "url": "https://techcrunch.com/2026/11/05/instagram-brings-edits-to-desktop-to-take-on-capcut/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Introducing-Edits-on-desktop_.png?w=150",
     "tag": "Tech",
-    "date": "2026-11-04T14:10:10.000Z",
-    "description": "\nRevolut’s investors have completed a secondary share sale that values the British fintech at $115 billion, 53% more than the price tag it had gained ",
-    "body": "\nRevolut’s investors have completed a secondary share sale that values the British fintech at $115 billion, 53% more than the price tag it had gained in another share sale a year ago, as the company prepares to launch a U.S. bank in 2027.\nInvestors including Glade Brook Capital Partners, Coatue, Durable Capital Partners, T. Rowe Price Associates, and Baillie Gifford led the share sale, which brought no new money into Revolut. The company declined to say how much stock was sold.\nFounded in 2015 by Nik Storonsky and Vlad Yatsenko, Revolut has grown from a money-transfer app into a financial services platform with more than 80 million retail customers across over 40 countries. It has established banking operations across Europe, and launched banks in the U.K., Mexico, Australia, and New Zealand this year, as well as secured banking licenses in France, Colombia, and Argentina.\nThe company also began rolling out financial services in India earlier this year, and has received conditional approval from the U.S. Office of the Comptroller of the Currency to establish a national bank, which it plans to launch in the first half of 2027, subject to final regulatory approval.\nThe London-based company has grown increasingly profitable, achieving profit margins of 38% on revenue of $6 billion in 2025.\nEven though Revolut has built much of its business around consumers, its business banking division, launched in 2017, has become an increasingly lucrative endeavor. The division accounts for about 20% of Revolut’s gross profit, James Gibson, head of Revolut Business and a partner at the company, told TechCrunch in a recent interview.\nAvailable across Europe, the U.K., Singapore, Australia, New Zealand, and the U.S., Revolut Business processes more than £36 billion (about $48.6 billion) in transactions each month, including over £1 billion (around $1.35 billion) in the U.S. alone. The division generates more than £950 million (about $1.28 billion) in annualized revenue and holds more than £18 billion (roughly $24.3 billion) in customer deposits, the company told TechCrunch.\nNearly half of Revolut Business’ new customers in the U.S. are newly incorporated companies, the company said.\nRevolut is looking to bring its business banking services to more markets, including Mexico, Brazil, and India, Gibson said, though he did not specify when the company expects that to happen. The fintech also aims to grow its business customer base from over 800,000 businesses to a million by 2027, he said.\nThe company’s rising valuation comes as it weighs a public listing. Storonsky has considered a dual listing in New York and London and indicated a preference for a primary listing in the U.S. However, an IPO, which could reportedly value Revolut at $200 billion, would come no earlier than 2028, depending on market conditions.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tJagmeet covers startups, tech policy-related updates, and all other major tech-centric developments from India for TechCrunch. He previously worked as a principal correspondent at NDTV. \r\nYou can contact or verify outreach from Jagmeet by emailing [email protected].\t\n\n\tView Bio \n\n",
+    "date": "2026-11-05T15:00:00.000Z",
+    "description": "\nInstagram announced on Thursday that it’s bringing Edits, its short-form video editing app, to desktop on Mac. The desktop version is designed for mo",
+    "body": "\nInstagram announced on Thursday that it’s bringing Edits, its short-form video editing app, to desktop on Mac. The desktop version is designed for more complex video-editing projects that benefit from a larger screen, mouse, and keyboard, the company says.\nThe move puts Edits in more direct competition with ByteDance’s CapCut, the video-editing app Meta sought to challenge when it launched Edits last year. CapCut, which is a massively popular tool for creators, has been available on desktop for Windows and Mac since 2021.\nInstagram notes that the desktop app includes licensed and royalty-free music, sound and video effects, and automatic captions in multiple languages. Audio and text styles that creators saved on the mobile app sync over to the desktop app, and users can customize keyboard shortcuts or import them from other editing software.\nIt also features a full multi-track timeline, keyframes for transitions, audio waveforms for accurate cuts, and more. Additionally, creators can import their own font files.\nImage Credits:Instagram /\n“A lot of creators have described the same moment to us: a project gets too big for your phone,” Brett Westervelt, head of Edits, said in a blog post. “You’ve got a dozen clips going, you’re trying to land a cut on the exact beat, and your thumb covers the part of the timeline you need to see. Your work is growing, and your tools should grow with it. We’re expanding Edits to take on your most ambitious projects on desktop.”\nCreators can publish from the desktop editor directly to Instagram with native features like tagging and location built in. The company says this gets rid of the need for creators to edit on desktop, download the file, move it to mobile, and then make more edits before posting it.\nEdits will also support horizontal and vertical video formats, with watermark-free exports in 4K resolution for sharing across platforms or personal use, Instagram says. \nThe company plans to ship weekly updates to improve the desktop editor, noting that it’s currently working to make it possible for creators to edit one project across both desktop and mobile seamlessly. \nInstagram also said it’s going to continue to grow the mobile Edits app for the more than 50 million creators who use it. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing [email protected] or via encrypted message at aisha_malik.01 on Signal.\t\n\n\tView Bio \n\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Revolut’s valuation jumps 53% to $115B in new share sale as it prepares to launch US bank",
+      "headline": "Instagram brings Edits to desktop to take on CapCut",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/10/PR-lib-office-exterior-4.png?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/11/Introducing-Edits-on-desktop_.png?w=150"
       ],
-      "datePublished": "2026-11-04T14:10:10.000Z",
-      "dateModified": "2026-11-04T14:10:10.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "‘You Can See Everything’ is getting an outer space release and it hasn’t even come out in Europe yet",
-    "url": "https://techcrunch.com/2026/11/04/you-can-see-everything-is-getting-an-outer-space-release-and-it-hasnt-even-come-out-in-europe-yet/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/V8_PHASE-1_LOBTS.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-11-04T18:10:11.000Z",
-    "description": "\nIn Brief\nPosted:\n10:10 AM PST · November 4, 2026\n\nImage Credits:Courtesy of A24\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nThe film company behind th",
-    "body": "\nIn Brief\nPosted:\n10:10 AM PST · November 4, 2026\n\nImage Credits:Courtesy of A24\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nThe film company behind the Elizabeth Holmes documentary “You Can See Everything,” A24, posted on Instagram that it granted a request from NASA to screen the film on the International Space Station (ISS).\nUnless A24 is deceiving us (why would they?), it appears that some astronauts can’t wait to come back to Earth to see the film that everyone’s talking about, which has reached number one at the box office.\n\n“You Can See Everything,” directed by Nathan Fielder and Lance Oppenheim, initially debuted in North America with a limited theatrical rollout. The film has been so successful, though, that it’s generating demand from international audiences.\nSony Pictures acquired the right to release the film in theaters in Germany, Latin America, South Korea, and other territories, though it hasn’t announced its plans yet. The film won’t come out in the U.K. until November 20, while French viewers will have to wait until December 30.\nSo yes, it is currently easier to watch “You Can See Everything” in low Earth orbit than in London. These hard-working astronauts can take a break from their complex scientific research to address an equally bewildering question: Does Elizabeth Holmes really believe her own lies?\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Media & Entertainment\n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "‘You Can See Everything’ is getting an outer space release and it hasn’t even come out in Europe yet",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/10/V8_PHASE-1_LOBTS.jpg?w=150"
-      ],
-      "datePublished": "2026-11-04T18:10:11.000Z",
-      "dateModified": "2026-11-04T18:10:11.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Open source AI is booming. Hugging Face explains who profits.",
-    "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-11-04T19:30:04.000Z",
-    "description": "\n\t\t\n\nLoading the player…\n\nOpen source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower ",
-    "body": "\n\t\t\n\nLoading the player…\n\nOpen source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up? \nOn this episode of TechCrunch’s Equity podcast, Rebecca Bellan caught up with Irene Solaiman, Chief Policy Officer and SVP of Strategy at Hugging Face, about what startups need to know before building on open models, from choosing the right tools and infrastructure to navigating the trade-offs shaping the future of open AI. \nSubscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. You also can follow Equity on X and Threads, at @EquityPod. \n\n\t\t\n\tTopics\n\n\n\n\t\tTheresa Loconsolo is an audio producer at TechCrunch focusing on Equity, the network’s flagship podcast. Before joining TechCrunch in 2022, she was one of 2 producers at a four-station conglomerate where she wrote, recorded, voiced and edited content, and engineered live performances and interviews from guests like lovelytheband. Theresa is based in New Jersey and holds a bachelors degree in Communication from Monmouth University. You can contact or verify outreach from Theresa by emailing [email protected].\t\n\n\tView Bio \n\n\n\t\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Open source AI is booming. Hugging Face explains who profits.",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=150"
-      ],
-      "datePublished": "2026-11-04T19:30:04.000Z",
-      "dateModified": "2026-11-04T19:30:04.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
-    "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/DuckDuckGo_NoAI.png?w=150",
-    "tag": "Tech",
-    "date": "2026-11-04T19:29:52.000Z",
-    "description": "\nDuckDuckGo is pitching itself to schools after Google created an opening for the alternative search engine. On Tuesday, Google told schools they coul",
-    "body": "\nDuckDuckGo is pitching itself to schools after Google created an opening for the alternative search engine. On Tuesday, Google told schools they could turn off Gemini, but it said shutting off its other AI features would cost schools Google Search, as well.\nDuckDuckGo, a company that focuses on user privacy by limiting data collection, clearly sees this as a moment to make inroads in education, where Google has historically dominated. According to figures Google has published in previous years, there are around 50 million Chromebooks in schools, used by students and educators, and its Google Classroom platform serves over 150 million users globally.\nOn X, DuckDuckGo’s founder and CEO, Gabriel Weinberg, pointed to the company’s online documentation, explaining how schools can switch their default search engine to DuckDuckGo’s service instead, adding, “get in touch for help.”\nMeanwhile, DuckDuckGo’s chief public affairs officer, Kamyl Bazbaz, issued a stronger statement, writing, “Forcing AI on school children: how a monopolist behaves when they think people are powerless. Prove Google wrong.”\n\nIn an email to TechCrunch, DuckDuckGo chastised Google for its decision, adding that Google could easily turn off Search’s AI features for schools if it wanted to. \nThe company’s comments come as the American public is weighing how much AI they want to allow into their lives. As Tuesday night’s elections indicate, they don’t want AI data centers built in their towns. But using AI at work and school has become a common practice and requires a more nuanced discussion.\nKnowing that educators have struggled with AI, Google developed technology called “Guided Learning” that is meant to help kids learn by walking through problem-solving steps rather than just providing them with an answer. But educators are still asking for tools that let them remove AI from the learning process altogether.\nAfter the backlash on Tuesday, Google defended its decision, saying it was just responding to schools’ feedback. It said that Gemini, Gemini Notebook, and Search would be off by default, and schools could choose to enable them individually.\n\nWe want to clarify what we announced today about our education services. Today’s announcements give schools more choice, not less. Here’s what we announced:– Gemini, Gemini Notebook, and Search will be OFF 🔴 by default. This is based on K-12 schools asking for more control…— News from Google (@NewsFromGoogle) November 3, 2026\n\nThe problem, of course, is that Google Search now heavily uses AI, through AI Overviews and a conversational AI Mode that answers users’ queries.\nDuckDuckGo isn’t anti-AI, to be clear — it offers its own set of AI features, including a chat interface called Duck.ai and an AI search assistant.\nHowever, unlike Google, it provides options to disable these features in both its search and browser settings, the company says. It also offers a dedicated website, noai.duckduckgo.com, where AI-assisted answers, AI-generated images, and AI feature suggestions are all turned off.\nThat flexibility may be driving demand for its services, as the company reported earlier this year that its app installs were up 30% as users rejected being force-fed Google’s AI Search.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing [email protected] or via encrypted message at sarahperez.01 on Signal. \t\n\n\tView Bio \n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/05/DuckDuckGo_NoAI.png?w=150"
-      ],
-      "datePublished": "2026-11-04T19:29:52.000Z",
-      "dateModified": "2026-11-04T19:29:52.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Canva lays off over 1,200 people amid slowing growth",
-    "url": "https://techcrunch.com/2026/11/04/canva-lays-off-over-1200-people-amid-slowing-growth/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2263283392.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-11-04T11:59:00.000Z",
-    "description": "\nDesign software maker Canva is cutting 22% of its staff, amounting to 1,271 people, amid a growth slowdown. \nThe company’s co-founder and CEO, Melani",
-    "body": "\nDesign software maker Canva is cutting 22% of its staff, amounting to 1,271 people, amid a growth slowdown. \nThe company’s co-founder and CEO, Melanie Perkins, in a note to employees said while Canva has scaled so far, it needs to change to address slowing growth.\n“Over the past thirteen years, we’ve turned a dream in a pitch deck into a platform used by hundreds of millions of people. None of it would have been possible without the talent, imagination, and care of every single person who has been part of this journey. Yet success in our first chapter doesn’t guarantee success in the next. This has been our hardest year yet, and as we shared earlier this year, our growth has slowed for the first time in a decade,” Perkins wrote.\nCanva is reshuffling its organizational chart and merging its product, growth, and platform teams to reduce communication friction. The company is also reducing “subspecialisation,” which means its employees might be asked to take up more responsibilities. The company is also moving toward hybrid work and asking people to work from an office a few days a week.\nThe company has been shipping its own AI models to reduce costs and reliance on third-party models, but it still had to cut its revenue growth forecast to 20% from 30% to address ballooning AI costs. This also resulted in Canva’s early investors cutting its valuation to about $35 billion earlier this year.\nCanva is also facing increasing competition from AI startups and general-purpose chatbots like ChatGPT and Gemini, whose image generation capabilities allow people to easily put together posters and presentations.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing [email protected] or via encrypted message at ivan.42 on Signal.\t\n\n\tView Bio \n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Canva lays off over 1,200 people amid slowing growth",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2263283392.jpg?w=150"
-      ],
-      "datePublished": "2026-11-04T11:59:00.000Z",
-      "dateModified": "2026-11-04T11:59:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Snapchat surpasses 30M paid subscribers",
-    "url": "https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-647104884.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-11-04T21:49:29.000Z",
-    "description": "\nSnap has surpassed 30 million paid Snapchat+ subscribers, the company announced Wednesday in its third-quarter 2026 earnings release. The milestone m",
-    "body": "\nSnap has surpassed 30 million paid Snapchat+ subscribers, the company announced Wednesday in its third-quarter 2026 earnings release. The milestone marks an increase of 5 million subscribers since February, when Snap reported crossing the 25 million mark.\nLaunched in 2022, Snapchat+ gives subscribers access to exclusive and pre-release features for $3.99 per month. Following a successful launch, Snap introduced additional paid tiers beyond the core Snapchat+ subscription to further diversify its revenue streams. These include Lens+, an $8.99-per-month plan that unlocks exclusive Lenses and AR experiences, and Snapchat+ Platinum, a $15.99 monthly tier that offers an ad-free experience.\nThe milestone comes a year after Snapchat announced a controversial limit on free storage for its Memories feature and informed users it would start requiring users to pay $1.99 per month for additional storage or subscribe to Snapchat+ to retain their Memories. \n“We surpassed 30 million paid subscribers across Snapchat+, Memories Storage, and Lens+,” Snap CEO Evan Spiegel said in a letter to investors. “Innovative AI-powered features have helped Lens+ exceed our expectations, demonstrating how new creative experiences can drive demand for our paid products. Paid subscribers still represent a small share of our monthly community, giving us room to grow through broader adoption and new premium experiences.”\nAs for the company’s broader earnings release, Snap’s shares fell 12% after missing ad revenue and user growth estimates. \nSnap reported 495 million daily active users for the quarter, up from 493 million in the previous quarter. However, the figure fell short of analysts’ expectations of 499 million. \n“Daily engagement has historically been stable as a percentage of monthly engagement, but we do not intend to optimize Snapchat around daily use at the expense of long-term value for our community,” the investor letter said. “A longer-term horizon better aligns our reported metrics with the product and safety decisions that strengthen relationships, create lasting utility, and support broader, more durable audience growth.”\nSpiegel said in the letter than while advertising revenue growth remains below the company’s target, the company plans to prioritize improving advertiser performance and expanding the ways businesses can reach its users. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing [email protected] or via encrypted message at aisha_malik.01 on Signal.\t\n\n\tView Bio \n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Snapchat surpasses 30M paid subscribers",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-647104884.jpg?w=150"
-      ],
-      "datePublished": "2026-11-04T21:49:29.000Z",
-      "dateModified": "2026-11-04T21:49:29.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "After the midterms, a bigger clash over data centers could be coming",
-    "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/11/us-congress-at-night.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-11-05T01:02:14.000Z",
-    "description": "\nThe November 3 midterm results gave Democrats full control of Congress, setting the stage for what could be one of the most divided U.S. governments ",
-    "body": "\nThe November 3 midterm results gave Democrats full control of Congress, setting the stage for what could be one of the most divided U.S. governments this decade, with Republicans in the White House. \nTuesday’s results suggest that anger over data centers, the large facilities that house the computers powering AI, is becoming a political force. With Democrats now in control of Congress, that could lead to new limits on where data centers can be built and how much say local communities have.\nData centers became a ballot-box issue in various states. An NBC exit poll showed how concerned voters are about AI: More than half of respondents believe that AI will do more harm than good, while almost 80% are against the building of data centers in their neighborhoods. Almost 60%, meanwhile, said data centers were a crucial or major factor in their vote. Nadine Smith, president and CEO of the racial justice organization Color of Change, called Tuesday’s election a referendum on “who this economy is built for.” \n“National security matters,” Smith said, referring to a common argument from data center supporters that the infrastructure is essential for the U.S. to stay ahead in war and in its rivalry with China. “And so do the families in South Memphis breathing exhaust from the gas turbines powering an AI supercomputer.” (She was referring to xAI’s data center in Memphis, Tennessee, which uses gas turbines for power.)\nVoters in several states pushed back against the AI buildout, even as pro-AI super PACs spent millions hoping to sway them this midterm. The anti-data center backlash was especially felt in states like Ohio, where OpenAI has eyed a $500 billion data center, backed by more than $100 billion in financing from Nvidia. In fact, the Ohio county where Meta had planned a 700,000-square-foot facility just passed a ban on data centers, and local communities across the state overwhelmingly voted against data center buildout measures. \nAnalysts at Morgan Stanley predict that Democratic governor-elect Amy Acton will also pose a major risk to Ohio’s data center buildout. Elsewhere, candidates in Texas, Maine, Michigan, Nevada, Georgia, and South Carolina all won seats after taking a stance against the rapid buildout of data centers. “It is clear that money does not buy outcomes,” said Anshi Bhatt, a tech and policy researcher, adding that in modern politics, creating a “local villain” is one way to build campaign momentum. \nLikely next steps include more construction moratoriums or requiring data centers to pay for their own power grid upgrades instead of passing those costs on to nearby communities. Goldman Sachs, in fact, predicts data center construction delays in states like Georgia and Texas because of Democratic gains.\nDemocratic control of Congress could also improve the odds for bills like the one Sen. Bernie Sanders and Rep. Alexandria Ocasio-Cortez introduced earlier this year, though any such bill would also face a possible veto. It proposes a nationwide moratorium on new data centers until Congress adds new guardrails and ensures that the buildout does not raise electricity costs, harm the environment, or proceed without community approval. \nThere are also bills like the GRID Savings Act, proposed by New Mexico Sen. Martin Heinrich, which would prevent grid infrastructure costs from being passed on to communities during large AI data center buildouts. \nThe environment is also a major concern, especially at xAI’s data center in Memphis and at the data centers throughout Virginia, known as the world capital of data centers, where gas turbines are used for power. Maia Woluchem, program director at Data & Society, a nonprofit research group, believes that changes to energy regulations, land rights, and other environmental policies could affect the data center buildout, especially as congressional Democrats look further into the Trump administration’s rollback of certain energy protections, as the New York Times reported they might.   \n“Regardless of federal action, I could imagine that we will see additional movement at the state and local level, given the momentum that’s been building from the ground up,” Woluchem continued, citing governor-elect Gina Hinojosa, who supports a statewide moratorium on data centers, as an example. Both Hinojosa and Gov. Greg Abbott called for some limits, but Hinojosa centered much of her campaign on opposing data centers, a notable choice in Texas, whose electrical grid has proved vulnerable over the past decade.\nBut the hard part is still to come. Smith, for example, is now expecting a fight, or even more executive orders, to bypass what Congress is now likely to block. “Even among Democrats, a blanket freeze is contested,” she said, referring to some Democrats’ worry that a moratorium could slow AI progress and hurt national security.\nShe also expects AI lobbyists to start calling lawmakers. “Democrats ran on making Big Tech pay,” Smith said. “Our job is to make sure they remember it once the cameras leave.”\nThe backlash runs deeper than the buildings themselves, which aren’t new. One private equity executive told me recently that people don’t necessarily hate data centers, but rather AI, and that data centers have become a stand-in for people’s fears and anxieties about the technology. “It does look like the results are pointing to a real frustration with tech power at minimum,” Woluchem said, noting that this is also a bipartisan issue.\nFor the past month, people have told me they are worried about data centers’ effect on the environment and about their lack of say in whether they’re built.\nAmazon, for example, built a data center in Gilroy, California, without many residents knowing, by satisfying a 45-year-old zoning law. Vague or outdated zoning laws, along with requirements that local officials sign nondisclosure agreements (NDAs) barring them from discussing data center projects, have only fueled people’s outrage about the buildout. Data centers have also received billions in tax breaks, and although many tech companies have touted the benefits, such as jobs and community programs, for many people, that simply wasn’t enough.\nPeople want to know they still have a say in what happens in their communities. Many also fear that AI buildouts will mainly enrich a few wealthy people while their communities suffer and living costs rise.\n“If AI infrastructure is truly a national priority, then the companies building it can afford to pay for their own power, meet clean air standards, disclose what they use, and build with the consent of the people who live next door,” Smith said. “Families should never be subsidizing the richest corporations in history through their utility bills.” \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "After the midterms, a bigger clash over data centers could be coming",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2025/11/us-congress-at-night.jpg?w=150"
-      ],
-      "datePublished": "2026-11-05T01:02:14.000Z",
-      "dateModified": "2026-11-05T01:02:14.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
-    "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/03/students-typing-on-laptops-GettyImages_1513744777.jpeg?w=150",
-    "tag": "Tech",
-    "date": "2026-11-04T16:17:22.000Z",
-    "description": "\nGoogle was met with swift backlash on Tuesday after it announced that schools using Google’s K-12 software will not be able to use Search unless they",
-    "body": "\nGoogle was met with swift backlash on Tuesday after it announced that schools using Google’s K-12 software will not be able to use Search unless they opt in to using AI tools.\nChris Phillips, vice president for education at Google, told The New York Times that “Search and AI are deeply integrated,” so if a student’s school doesn’t opt in to using AI tools like Gemini, then students “will not have access to search, and they’ll see a message from their school that indicates it’s not available.”\nEven as Google made this announcement on a busy Election Day, several left-leaning politicians took time to speak up about their concerns. \nSenator Bernie Sanders (I-VT) accused Google in an X post of “extortion,” writing that “Google is threatening schools: if you stop your students from using AI, we will cut off your access to Google Search.” Senator Richard Blumenthal (D-CT) said on X that Google is “more concerned with forcing Gemini into schools than enabling students to succeed.”\n\nPresident Trump claimed that AI oligarchs could regulate themselves because they “love our country.” Now, Google is threatening schools: if you stop your students from using AI, we will cut off your access to Google Search. That’s not love. That’s extortion. PAUSE AI NOW.— Sen. Bernie Sanders (@SenSanders) November 3, 2026\n\nLina Khan, the former Federal Trade Commission chair and staunch advocate against monopolies, also condemned Google’s decision as anticompetitive.\n“This highlights the danger of allowing an unregulated monopolist to control an essential service,” she wrote. “Multiple courts have found Google liable for violating antitrust laws, and this latest move shows it remains unchastened.”\nNew York City mayor Zohran Mamdani accused Google of being a monopoly, commenting, “No corporation should have the power to dictate how we teach our children.”\n\nGoogle is using its search monopoly to coerce schools into adopting AI. This highlights the danger of allowing an unregulated monopolist to control an essential service. Multiple courts have found Google liable for violating antitrust laws, and this latest move shows it remains… https://t.co/eajJN9yfQF— Lina Khan (@linamkhan) November 3, 2026\n\nWhile Search is a necessary tool for information gathering, educators worry that its built-in AI overviews could dissuade students from finding answers themselves. For millions of students required to use Chromebooks and Google education tools, using a different search engine isn’t a simple fix.\nGoogle says that it’s working on a “Guided Learning” tool for student accounts in Search, which is supposed to walk students through the process of solving a problem or finding information, rather than just handing them the answer. If a student is struggling with a math problem, for example, the feature may prompt them to refresh their memory about the rules for dividing exponents, instead of spitting out a number. \nIn response to the backlash, Google pointed out in a post on X that it had listened to educators by turning off access to AI products by default and noted that schools could turn on Gemini, Gemini Notebook, and Search individually.\n\nWe want to clarify what we announced today about our education services. Today’s announcements give schools more choice, not less. Here’s what we announced:– Gemini, Gemini Notebook, and Search will be OFF 🔴 by default. This is based on K-12 schools asking for more control…— News from Google (@NewsFromGoogle) November 3, 2026\n\n“We know there’s concern about students using AI to shortcut schoolwork, and schools have told us they want control,” Google wrote in its statement. “That’s exactly why we are making these changes today to address the feedback we’ve heard from educators in recent months. And we’ll continue to engage deeply with educators to ensure we are giving schools more choice, more controls, and improved Search for learning.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tAmanda Silberling is a senior writer at TechCrunch covering the intersection of technology and culture. She has also written for publications like Polygon, MTV, the Kenyon Review, NPR, and Business Insider. She is the co-host of Wow If True, a podcast about internet culture, with science fiction author Isabel J. Kim. Prior to joining TechCrunch, she worked as a grassroots organizer, museum educator, and film festival coordinator. She holds a B.A. in English from the University of Pennsylvania and served as a Princeton in Asia Fellow in Laos.\nYou can contact or verify outreach from Amanda by emailing [email protected] or via encrypted message at @amanda.100 on Signal. \t\n\n\tView Bio \n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/03/students-typing-on-laptops-GettyImages_1513744777.jpeg?w=150"
-      ],
-      "datePublished": "2026-11-04T16:17:22.000Z",
-      "dateModified": "2026-11-04T16:17:22.000Z",
+      "datePublished": "2026-11-05T15:00:00.000Z",
+      "dateModified": "2026-11-05T15:00:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -350,22 +125,247 @@
     }
   },
   {
-    "title": "Titan OS raises $46 million to expand its smart TV OS internationally",
-    "url": "https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/TITAN_OS_26.jpeg?w=150",
+    "title": "TikTok quietly launches a standalone TikTok Shop app",
+    "url": "https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/tiktok-shop-app.png?w=150",
     "tag": "Tech",
-    "date": "2026-11-04T15:00:00.000Z",
-    "description": "\nBarcelona-based smart TV operating system maker Titan OS has raised $46 million in new funding, consisting of both equity and debt, the company annou",
-    "body": "\nBarcelona-based smart TV operating system maker Titan OS has raised $46 million in new funding, consisting of both equity and debt, the company announced on Wednesday. \nThe money comes from debt facilities provided by funds and accounts managed by BlackRock, along with existing investors like Highland Europe and Mangrove Capital Partners. The startup, which secured $58 million last year, has now raised $110 million in total. The company said that it could have chosen not to raise money and grow slowly, but it wants to be more ambitious to create more partnerships and expand into more geographies.\nTitan OS’s promise to TV makers is that it offers better value from their unit sales by loading an operating system where they can generate money through partnerships with FAST channels (free ad-supported television) and ads on different screens.\nThe company now serves 30 million users, up from 18 million last year. This includes being a sales partner for TiVo in some regions, along with Tubi in the U.K.\nCompared with last year, the startup has also added Sharp, AOC, Vestel, and Skyworth as partners. Its partnership with Philips has been a success, as the Dutch electronics maker has switched to Titan OS and ditched Google TV for its 2026 models.\nImage Credits:Titan OS\nThe extended coverage means that it has a bigger advertiser footprint and better audience engagement metrics to offer to marketers. \n“Our bread and butter is the monetization of our inventory on our own network. But the point is that we’re going beyond that. That’s why our reach has increased significantly, which then triggers the flywheel effect by also attracting more sales partners and more agencies that want to spend on our platform, whether it’s owned and operated or via our extensions,” Hyoung-Ung Kim, the company’s newly appointed CFO, told TechCrunch over a call.\nIn the last year, the company has increased its headcount to 250 people, and also opened an office in London to concentrate on advertising. It already has offices in Barcelona, Amsterdam, and Taipei.\nWith the new money coming in, the company wants to focus on a few areas. First is content discovery. It still takes everyone a long time to find something to watch. For that, it is using interface tweaks and AI to boost discovery, alongside partnering with more content providers like FAST channels.\n“What differentiates us here from the walled gardens is that we do not have our own content offering. Like Google is trying to channel people to YouTube. We do not have that, and we are impartial in our role in content discovery. We are working and trying to reduce time spent searching,” Tobias Pfalzgraff, SVP of people and marketing at Titan OS, said. \nPfalzgraff also emphasized that the company is using AI to improve its ad recommendation and segmentation. While the company is dominant in Europe, it thinks that there are only a few manufacturers creating their own operating systems; more set makers would like to adopt its operating system, just like Philips did. The company also said that with increasing costs of hardware due to AI, manufacturers are thinking about long-term revenue generation opportunities as gadget sales slow down.\n“The TV hardware industry is not a very profitable business. That’s why they are so reliant on partners like Titan OS that share revenue after the sale of the TV. But now, of course, the chip sets, the chip prices are increasing more and more. Right. With the AI boom, they have basically doubled down on our partnership,” Kim said.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing [email protected] or via encrypted message at ivan.42 on Signal.\t\n\n\tView Bio \n\n",
+    "date": "2026-11-05T15:33:58.000Z",
+    "description": "\nTikTok has quietly launched a standalone TikTok Shop app in select markets as it continues to expand its e-commerce ambitions. The app will offer per",
+    "body": "\nTikTok has quietly launched a standalone TikTok Shop app in select markets as it continues to expand its e-commerce ambitions. The app will offer personalized product recommendations, the ability to shop through live streams and short-form videos, app-exclusive deals, in-app checkout, order tracking, and customer support.\nThe app, which was first spotted by social media consultant Matt Navarra, is available in Singapore, Malaysia, Thailand, and the Philippines on iOS and Android.\nThe launch of a standalone app gives TikTok Shop a chance to reach shoppers beyond the main TikTok platform and compete more directly with established e-commerce apps like Amazon and Temu. It also suggests that TikTok is prepared to invest more heavily in social commerce by giving Shop its own dedicated destination rather than simply keeping it within the main app.\nTikTok did not respond to TechCrunch’s request for comment regarding the rollout. \nIt’s unknown whether TikTok plans to release the app more widely and bring it to the United States. If TikTok does bring the app to the U.S., it would be competing not only with Amazon and Temu but also with big-box retailers like Walmart and Target, whose customers have grown accustomed to routinely ordering through the stores’ apps.\nAccording to the app’s description, users will be able to access free shipping offers and exclusive first-order benefits, along with “secure payments for safe checkout.” By offering users app-exclusive deals, the company is incentivizing them to shop in the app rather than the main TikTok app.\nInterestingly, the launch creates something of a full-circle moment in the rivalry between TikTok and Amazon. While Amazon previously introduced a TikTok-like short-form video feed called Inspire to draw consumers’ attention away from apps like TikTok and drive sales on its platform instead, TikTok is now making a similar play in reverse. With its new standalone commerce app, TikTok is looking to draw consumers away from platforms like Amazon and fuel more purchases within its own ecosystem.\nThe launch marks another step in TikTok’s efforts to branch out beyond social media. Although the company was once primarily focused on social networking and entertainment, TikTok has gradually ventured into new areas.\nBeyond TikTok Shop, the company has added games, restaurant guides, sports hubs, hotel booking, and microdramas, and is also exploring payments.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing [email protected] or via encrypted message at aisha_malik.01 on Signal.\t\n\n\tView Bio \n\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Titan OS raises $46 million to expand its smart TV OS internationally",
+      "headline": "TikTok quietly launches a standalone TikTok Shop app",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/11/TITAN_OS_26.jpeg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/11/tiktok-shop-app.png?w=150"
       ],
-      "datePublished": "2026-11-04T15:00:00.000Z",
-      "dateModified": "2026-11-04T15:00:00.000Z",
+      "datePublished": "2026-11-05T15:33:58.000Z",
+      "dateModified": "2026-11-05T15:33:58.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Snapchat surpasses 30M paid subscribers",
+    "url": "https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-647104884.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-11-04T21:49:29.000Z",
+    "description": "\nSnap has surpassed 30 million paid Snapchat+ subscribers, the company announced Wednesday in its third-quarter 2026 earnings release. The milestone m",
+    "body": "\nSnap has surpassed 30 million paid Snapchat+ subscribers, the company announced Wednesday in its third-quarter 2026 earnings release. The milestone marks an increase of 5 million subscribers since February, when Snap reported crossing the 25 million mark.\nLaunched in 2022, Snapchat+ gives subscribers access to exclusive and pre-release features for $3.99 per month. Following a successful launch, Snap introduced additional paid tiers beyond the core Snapchat+ subscription to further diversify its revenue streams. These include Lens+, an $8.99-per-month plan that unlocks exclusive Lenses and AR experiences, and Snapchat+ Platinum, a $15.99 monthly tier that offers an ad-free experience.\nThe milestone comes a year after Snapchat announced a controversial limit on free storage for its Memories feature and informed users it would start requiring users to pay $1.99 per month for additional storage or subscribe to Snapchat+ to retain their Memories. \n“We surpassed 30 million paid subscribers across Snapchat+, Memories Storage, and Lens+,” Snap CEO Evan Spiegel said in a letter to investors. “Innovative AI-powered features have helped Lens+ exceed our expectations, demonstrating how new creative experiences can drive demand for our paid products. Paid subscribers still represent a small share of our monthly community, giving us room to grow through broader adoption and new premium experiences.”\nAs for the company’s broader earnings release, Snap’s shares fell 12% after missing ad revenue and user growth estimates. \nSnap reported 495 million daily active users for the quarter, up from 493 million in the previous quarter. However, the figure fell short of analysts’ expectations of 499 million. \n“Daily engagement has historically been stable as a percentage of monthly engagement, but we do not intend to optimize Snapchat around daily use at the expense of long-term value for our community,” the investor letter said. “A longer-term horizon better aligns our reported metrics with the product and safety decisions that strengthen relationships, create lasting utility, and support broader, more durable audience growth.”\nSpiegel said in the letter than while advertising revenue growth remains below the company’s target, the company plans to prioritize improving advertiser performance and expanding the ways businesses can reach its users. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing [email protected] or via encrypted message at aisha_malik.01 on Signal.\t\n\n\tView Bio \n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Snapchat surpasses 30M paid subscribers",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-647104884.jpg?w=150"
+      ],
+      "datePublished": "2026-11-04T21:49:29.000Z",
+      "dateModified": "2026-11-04T21:49:29.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Meta acquires AI coding startup Conductor",
+    "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-ray-bans.png?w=150",
+    "tag": "Tech",
+    "date": "2026-11-04T21:10:56.000Z",
+    "description": "\nMeta has acquired Conductor, an AI coding startup that allows users to spin up software projects by deploying multiple agents into parallel workspace",
+    "body": "\nMeta has acquired Conductor, an AI coding startup that allows users to spin up software projects by deploying multiple agents into parallel workspaces.\nThe news was originally reported by Axios, and Conductor shared news of its acquisition on its blog.\n“I have big news: Conductor is joining Meta,” wrote the startup’s founder and CEO, Charlie Holtz, on Wednesday. “We have some big, crazy plans for the next interface,” he added, teasing that the company would have “something new” for customers to use by “early next year.”\nOn X, Holtz also noted that he was looking forward to working with Alexandr Wang, Meta’s chief AI officer, and Nat Friedman, head of product at the company’s Superintelligence Labs. “They’ve been on an absolute tear, and I’m convinced MSL has the highest talent density of all the labs,” he added.\nMeta confirmed the acquisition to TechCrunch but wouldn’t comment further or provide additional details about the deal. \nConductor, founded in 2024, only launched its core product just last summer. The company’s agentic teams, which can be deployed in the cloud, locally, or via a user’s phone, are designed to help software engineers work on separate, compartmentalized parts of a project in concert. The agents that the platform deploys aren’t developed in-house but come from major labs like Anthropic and OpenAI.\nHoltz said that, until early next year, Conductor’s core features would continue to work as they previously have. The exception is Conductor’s cloud service, which will shut down on November 20, after which the company will begin deleting user cloud data. \nMeta, which previously lagged behind in AI services, has spent the last several months trying to catch up. In August, the company launched Muse Code, its own coding agent. Meanwhile, the company’s recently launched Muse agents are seeing significant adoption, with the company recently reporting that the service had surpassed 10 million users. The company has also made a number of AI-related acquisitions over the past year, including Moltbook, the viral agent platform that made headlines. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tLucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. \nYou can contact Lucas by emailing [email protected].\t\n\n\n\tView Bio \n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Meta acquires AI coding startup Conductor",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-ray-bans.png?w=150"
+      ],
+      "datePublished": "2026-11-04T21:10:56.000Z",
+      "dateModified": "2026-11-04T21:10:56.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "ElevenLabs now lets users publish AI-generated music directly on SoundCloud",
+    "url": "https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/ElevenMusicxSoundcloud.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-11-05T15:00:00.000Z",
+    "description": "\nAudio AI company ElevenLabs on Thursday said users will be able to publish AI-generated music created using its ElevenMusic platform directly on Soun",
+    "body": "\nAudio AI company ElevenLabs on Thursday said users will be able to publish AI-generated music created using its ElevenMusic platform directly on SoundCloud.\nElevenLabs is also offering SoundCloud Artist Pro users three months of ElevenMusic Pro, which lets you generate up to 1,000 songs, split songs’ stem files 500 times, and five custom styles or vocals per month.\nThe company first released a music-generation model in 2025, and followed it up with a consumer app that lets you generate songs using prompts in April 2026. Then a month later, it released a new music model that could switch genres mid-track and handle more complex vocals. ElevenLabs said that users have so far created over 25 million tracks using its models.\nSoundCloud has also been giving AI tools to artists, though it’s taking a different approach. Last month, it partnered with AI music tooling company Moises to let artists export and import songs to and from SoundCloud. The company also has integrations with other platforms like Google Flow Music and the music remix platform, Hook.\n“SoundCloud has always been a place where artists experiment, push boundaries, and turn creative ideas into something bigger. By becoming the first platform to bring ElevenMusic creations directly to fans beyond its own ecosystem, we’re opening up new possibilities for artists to experiment, share their work, and build an audience,” SoundCloud CEO Eliah Seton said in a statement. \nElevenLabs also has a partnership with Spotify in which authors can use its audio models to generate narrations for their audiobooks and publish them on the music streaming service. While Spotify has signed partnerships with labels for products that let people use AI for remixing tracks, it has not yet announced any model partners like ElevenLabs.\nOverall, though, music streaming platforms today seem more inclined towards labeling and helping users filter out AI generated music, especially as the tech slowly grows popular with musicians. Deezer, for example, is introducing a toggle that lets you filter out AI music completely, while Bandcamp has put a blanket ban on AI-generated tracks. Spotify and YouTube have taken a more cautious approach to labeling tracks.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing [email protected] or via encrypted message at ivan.42 on Signal.\t\n\n\tView Bio \n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "ElevenLabs now lets users publish AI-generated music directly on SoundCloud",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/11/ElevenMusicxSoundcloud.jpg?w=150"
+      ],
+      "datePublished": "2026-11-05T15:00:00.000Z",
+      "dateModified": "2026-11-05T15:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Amazon ditches GrubHub, taps Uber Eats for Prime",
+    "url": "https://techcrunch.com/2026/11/05/amazon-ditches-grubhub-taps-uber-eats-for-prime/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/amazon-uber.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-11-05T11:00:00.000Z",
+    "description": "\nAmazon has made Uber Eats its official restaurant delivery partner for Prime members in the United States, effectively ending the e-commerce giant’s ",
+    "body": "\nAmazon has made Uber Eats its official restaurant delivery partner for Prime members in the United States, effectively ending the e-commerce giant’s existing deal with Grubhub. Under the new partnership announced Thursday, Amazon Prime members will be able to order food from Uber Eats directly through Amazon.com and the Amazon Shopping app. Importantly, Prime members won’t need to create an Uber account and won’t pay a delivery fee on orders of more than $25, the companies said.\nAmazon’s commercial agreement with Grubhub that gave Prime members access to Grubhub+ ends Thursday, according to an Amazon spokesperson, who said the company continuously evaluates its third-party offers. Amazon said it identified an opportunity to deliver an even better restaurant delivery experience.\nA Grubhub spokesperson also confirmed the agreement was ending. Prime members can no longer place orders through Amazon.com or the shopping app However, if Prime members had already activated Grubhub+, they will still be able to use that membership through December 31, 2027.\nThe new partnership deepens an already extensive relationship between Amazon and Uber. The companies have existing agreements spanning cloud computing, Zoox robotaxis, and the integration of Uber Eats into Amazon’s AI-powered Alexa+ assistant.\nIt also allows Amazon to give its Prime members another sweetener to justify that annual membership fee. To help kickstart the initiative, Amazon and Uber are offering Prime members $20 off their first two orders of $25 or more during the first two weeks.\nAmazon’s ouster of Grubhub ends a once-close relationship. Amazon first struck a deal with the company in 2022, offering Prime members a free Grubhub+ subscription. \nTwo years later, Amazon expanded its commercial agreement and made the free Grubhub+ membership an ongoing offer for Prime members. The e-commerce giant also reached a deal with Grubhub’s then-owner, Just Eat Takeaway.com, to increase its equity stake in the food delivery company to as much as 18%.\nUnder that performance-based agreement, which was set to renew annually, Amazon could receive warrants representing an additional stake in Grubhub. But just months later, Just Eat Takeaway announced plans to sell Grubhub to Wonder. According to Just Eat Takeway’s annual report, Amazon in December 2024 elected to cash out on its outstanding exercisable warrants.\nAmazon and Grubhub’s commercial partnership continued, however, until now.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tKirsten Korosec is a reporter and editor who has covered the future of transportation from EVs and autonomous vehicles to urban air mobility and in-car tech for more than a decade. She is currently the transportation editor at TechCrunch and co-host of TechCrunch’s Equity podcast. She is also co-founder and co-host of the podcast, “The Autonocast.” She previously wrote for Fortune, The Verge, Bloomberg, MIT Technology Review and CBS Interactive.\nYou can contact or verify outreach from Kirsten by emailing [email protected] or via encrypted message at kkorosec.07 on Signal.\t\n\n\tView Bio \n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Amazon ditches GrubHub, taps Uber Eats for Prime",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/11/amazon-uber.jpg?w=150"
+      ],
+      "datePublished": "2026-11-05T11:00:00.000Z",
+      "dateModified": "2026-11-05T11:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+    "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-1178603809.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-11-05T14:00:00.000Z",
+    "description": "\nAt its developer conference on Thursday, Box showed off a new feature that will build Nvidia’s Nemotron embedding system into the core of its product",
+    "body": "\nAt its developer conference on Thursday, Box showed off a new feature that will build Nvidia’s Nemotron embedding system into the core of its product. \nCalled Box Content Retrieval, the new feature allows agents to answer queries far more effectively by relying on the embedded metadata created by Nemotron. \nBox says the upshot for users is faster, more accurate and less expensive queries. Nvidia’s VP of generative AI software, Kari Briski, told TechCrunch that she expects queries to be answered four times faster, with 20% fewer errors and 90% fewer tokens used.\nThe system will be available to all of Box’s Enterprise Advance customers, rolling out early next year.\n“This dramatically boosts both the relevance of our search technology for agents,” Box CEO Aaron Levie said. “Instead of an agent having to kind of read through each document, we can send back chunks from the documents that are most relevant to the user’s query or whatever the task is that the agent is doing.”\nThe feature is an implementation of Nvidia’s Nemotron Embed project, which offers open-weight embedding models to improve automated retrieval systems. Major labs have often overlooked such models, which use LLMs to pre-process data so it can be better used by agents. The sector has been a focus for Nvidia’s open-source model project, with its recent Nemotron release in July topping the RTEB benchmark, which measures retrieval quality.\nThe system will be most useful when paired with active agents, Box says, giving the example of lawyers, who will ostensibly be able to find relevant clauses and precedents more easily under the new system. Because Nemotron’s embeddings go beyond simple keywords to map underlying concepts, a search tool can surface related legal themes even when different wording or language is used.\nWhile the Nemotron models are freely available, the system also relies heavily on Box’s pre-existing metadata and permission controls, which will make it challenging to recreate from scratch. “We’re probably packing in five different technologies into one simple API,” Levie told TechCrunch.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tRussell Brandom has been covering the tech industry since 2012, with a focus on platform policy and emerging technologies. He previously worked at The Verge and Rest of World, and has written for Wired, The Awl and MIT’s Technology Review.\r\n He can be reached at [email protected] or on Signal at 412-401-5489.\t\n\n\n\tView Bio \n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-1178603809.jpg?w=150"
+      ],
+      "datePublished": "2026-11-05T14:00:00.000Z",
+      "dateModified": "2026-11-05T14:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+    "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+    "image": "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1211180751.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-11-05T15:19:05.000Z",
+    "description": "\nDropbox is making a big push into AI infrastructure with a $350 million acquisition of cloud technology company Tigris Data, marking what appears to ",
+    "body": "\nDropbox is making a big push into AI infrastructure with a $350 million acquisition of cloud technology company Tigris Data, marking what appears to be its largest acquisition to date.\nAnnounced Thursday, the deal is expected to strengthen Dropbox’s AI infrastructure capabilities and support the development of DBX Agent Cloud, a new storage platform aimed at businesses and developers building AI models and agents.\nDropbox told TechCrunch via email that the transaction is expected to close in the fourth quarter of 2026. The company also said it currently has no plans to reduce headcount as part of the acquisition. The company already cut 9% of its global workforce last month, WSJ reported. \nDBX Agent Cloud will initially offer object storage as a standalone product, allowing businesses to purchase storage independently and use it with existing tools and applications built for Amazon S3 (Simple Storage Service), which is a cloud storage service that enables businesses to store and retrieve large volumes of data.\nBeyond its infrastructure ambitions, Dropbox is also bringing more AI capabilities to its core product. Users will be able to ask AI to perform supported tasks using their files, choose between different AI models, and connect their Dropbox content to third-party tools, including ChatGPT, Claude and Muse.\nThe company also plans to expand DBX Agent Cloud with additional capabilities designed to help AI systems work with different types of content, including documents, images, audio and video. Other planned additions include filesystem features that will allow AI agents to manage files and maintain continuity across tasks and sessions.\nDropbox says the updated experience has already reached more than 70,000 teams. The initial rollout is available to eligible Standard and Advanced customers in the U.S., U.K., and Australia, with broader availability planned for 2027.\nTigris Data was founded by former Uber engineers who helped develop the ride-hailing company’s storage infrastructure. The company provides cloud storage technology that helps businesses store and access data across different regions. Its platform automatically positions data closer to the users and computing resources that need it, helping reduce access times and improve performance. \nTigris Data raised $25 million in a Series A funding round last year.\nWhile the Tigris deal appears to be Dropbox’s largest acquisition, it is not the company’s first move to expand its AI capabilities through M&A. Dropbox has previously acquired several AI-focused companies, including Reclaim.ai, Promoted.ai, and Mobius Labs.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tLauren covers media, streaming, apps and platforms at TechCrunch.\nYou can contact or verify outreach from Lauren by emailing [email protected] or via encrypted message at laurenforris22.25 on Signal.\t\n\n\tView Bio \n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1211180751.jpg?w=150"
+      ],
+      "datePublished": "2026-11-05T15:19:05.000Z",
+      "dateModified": "2026-11-05T15:19:05.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "RadianX promises solar-powered devices that never need charging",
+    "url": "https://techcrunch.com/2026/11/05/radianx-promises-solar-powered-devices-that-never-need-charging/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/iphone-usb-lighting-charging-cable.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-11-05T14:00:00.000Z",
+    "description": "\nBatteries have transformed electronics, giving us powerful phones, tablets, e-readers, and smart watches. But eventually, every battery runs flat.\nMa",
+    "body": "\nBatteries have transformed electronics, giving us powerful phones, tablets, e-readers, and smart watches. But eventually, every battery runs flat.\nMaybe not for long. One startup, RadianX, envisions a world in which portable and edge devices can cut the cord for good without running out of power. The key is a better breed of solar panels.\nRadianX has developed a new type of solar material from a family known as perovskites. The material is just as good as existing solar panels outdoors, but twice as good at harvesting light indoors.\n“We can harvest any kind of photon, whether it’s an outdoor or indoor photon, and keep the device running longer — or running forever,” Josh Douglas, co-founder and COO, told TechCrunch.\nThe indoor efficiency of RadianX’s tech could be the key to unlocking what the company calls “edge energy.” Think an e-reader that never needs charging or an IoT sensor that never needs a battery swap. But as with any new category, unexpected uses could emerge, including long-runtime robots or wearables that have been held back by limited battery power.\nTo fund a commercial-volume production line, RadianX recently raised $5 million in a seed round led by SOSV and Twynam, the company exclusively told TechCrunch. Other investors included One Small Planet, Sachsen Ventures, Avila VC, California Innovation Fund, quantumEDGE, Riceberg Ventures, and Alumni Ventures. Alongside the seed money, Pacific Union Technology Precision Manufacturing is pitching in $4 million of non-dilutive investment to build a dedicated production line for the startup.\nIt’s not an entirely new idea — solar-powered calculators have been around for decades — but it’s one that has been overlooked more recently because the power demands of modern devices have outstripped traditional solar panels’ capacity. \n“It’s power density,” Vivian Qu, co-founder and CEO of RadianX, told TechCrunch. “The reason why perovskites have been so interesting is the high power density”\nPerovskites are also not a new idea, though the class of materials has struggled to gain a foothold. They’re still more expensive than typical silicon-based solar panels, and they’re not quite as durable, though they’ve made strides in recent years. \nBut they make up for those shortcomings in power delivery — RadianX’s 1.2 meter by 0.6 meter panel, for example, harvests light with 22.33% efficiency, which the company said is the best on record. \nFor RadianX, durability is also less of a concern. The company has been able to hit a key industry standard for durability, and by targeting indoor devices, the company’s panels are subject to less wear-and-tear. The panels, which can be as thin as 0.7 millimeters, can be sized to fit.\nTo wring more power out of the panels, RadianX is also developing power electronics tailored to perovskites. Most existing electronics are tuned for silicon panels, but “silicon has a very different light soaking characteristic,” she said.\nUnlike many other solar companies, RadianX isn’t planning to sell bare panels. “RadianX is trying to package all of this and sell this to device makers as something they don’t need to worry about,” Qu said.\nUltimately, Qu and Douglas hope their power packages will land in everything from e-readers to factory sensors — and maybe a few places they haven’t dreamt of yet.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tTim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor. \r\nDe Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.\r\nYou can contact or verify outreach from Tim by emailing [email protected].\t\n\n\tView Bio \n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "RadianX promises solar-powered devices that never need charging",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/02/iphone-usb-lighting-charging-cable.jpg?w=150"
+      ],
+      "datePublished": "2026-11-05T14:00:00.000Z",
+      "dateModified": "2026-11-05T14:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Aina’s smart ring has a screen, a joystick and a mic so you can talk to AI agents",
+    "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Aina-Ring-Hands-e1793880492134.jpeg?w=150",
+    "tag": "Tech",
+    "date": "2026-11-05T14:42:00.000Z",
+    "description": "\nHardware startup Aina released a smart ring today that features a screen, a joystick, and a mic so that you can talk to your agents and take notes. T",
+    "body": "\nHardware startup Aina released a smart ring today that features a screen, a joystick, and a mic so that you can talk to your agents and take notes. The $399 ring has a speaker so you can take calls using it as well.\nThe startup, which raised $5.5 million in July, is positioning the ring as a controller of sorts for both AI and non-AI apps. \nThe company previously made Mirage, a three-key controller that let you invoke buttons based on the app on your Mac’s screen. For instance, if you were on a Google Meet call, you could map keys to camera on/off, mic mute/unmute, or to leave the meeting.\nAina has baked in lessons from that device to create the new ring, which it’s simply calling “AI ring.” Using its mic, you can take notes, send a prompt to agents, set reminders, and dictate notes on your Mac using Wispr Flow or the startup’s own dictation engine. \nImage Credits: AinaImage Credits:Aina\nNow, there are already smart rings in the market that do similar things, like the Pebble Index 01, Sandbar Stream, Oasis, and Natura, which is probably why Aina has added more controls and functionality to stand out. Its ring comes with a speaker so that you can take calls, and there is a screen, which lets you see notifications from your phone or which apps you are controlling.\nFor navigation, there is a joystick, and it also supports gestures, so that it can trigger different actions based on what’s on your Mac or phone’s screen. The ring also lets you control music or even smart home devices like Apple TV.\nI have used the ring for a few days, and it feels like a smartwatch in a ring format with more controls. I can get notifications and reply to them. It surfaces my meetings; I can call Uber if I want to get a ride home. \nIt’s easier to use Apple TV’s remote itself, but the Aina ring proved useful the couple times I couldn’t find the remote. Granted, a lot of the software and features are still being fleshed out, so it’s hard to figure out where such a device ring might sit in my daily usage, but it is squarely aimed at folks who are surrounded by digital devices and AI applications.\nImage Credits: AinaImage Credits:Aina\n“Phones and laptop screens were designed for an age of browsing where you think about opening apps. For interacting with proactive agents, we need a better interface, and that is what we had in mind while designing Aina,” Apoorv Shankar, Aina’s founder, told TechCrunch over a call.\nCompanies are trying to cater to programmers and AI enthusiasts with specialized hardware that could help them harness different agents. This includes OpenAI’s experimental keyboard and Rabbit trying to position itself as a controller. The hope with such hardware is that enough people will have multiple agents running to invest in specific gadgets to keep tabs on them.\nAina’s ring goes on pre-order starting Thursday at early-bird pricing of $399, and the company plans to start shipping the device in January 2027. Once the early-bird period ends, the ring will cost $499.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing [email protected] or via encrypted message at ivan.42 on Signal.\t\n\n\tView Bio \n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Aina’s smart ring has a screen, a joystick and a mic so you can talk to AI agents",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/11/Aina-Ring-Hands-e1793880492134.jpeg?w=150"
+      ],
+      "datePublished": "2026-11-05T14:42:00.000Z",
+      "dateModified": "2026-11-05T14:42:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
+    "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/discoverd-materials.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-11-05T13:00:00.000Z",
+    "description": "\nDiscovered Materials, a months-old, San Francisco startup using AI models to find new substances for building advanced chips, announced a million-dol",
+    "body": "\nDiscovered Materials, a months-old, San Francisco startup using AI models to find new substances for building advanced chips, announced a million-dollar challenge for AI models to solve five critical problems in materials science.\nWhile frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced materials.\n“It’s more difficult to specify problems clearly in materials science because it’s not like math, where you have a very specific definition and can get to a yes or no,” said Advaith Sridhar, a co-founder of Discovered Materials, which was part of Y Combinator’s spring 2026 batch. “We came to this discussion [wondering], what are the grand challenges in this field? How do we know AI is making progress?”\nThough materials science doesn’t have an equivalent of the Millennium Prize Problems, Discovered Materials recruited an advisory group of academics at leading global universities to spell out five open problems. The company is offering a pool of prizes, worth $1 million in total, for solutions to the problems.\n\nA theory to explain cuprate superconductivity, or the ability of certain materials to have zero electrical resistance at ultra-low temperatures.\nA numerical method to predict the structures of interfaces between silicon and silicon dioxide, a material combination found in almost all semiconductors.\nA numerical method to map grain structure to thermal properties, enabling the design of better heat dissipation materials.\nA theory to predict why shining light on materials can change their behavior, particularly around superconductivity.\nA numerical method to improve Density Functional Theory, a key technique used in materials science to model the structures of atoms and molecules.\n\n“Across materials science, there are phenomena we observe but cannot explain,” Felipe Jornada, a Stanford professor who helped develop the challenges, said in a statement. “Explaining these phenomena would improve our understanding of physics, and the answers would directly shape how we build electronics, store energy, and manufacture the materials of the future.”\nBefore announcing the challenges, Discovered Materials turned frontier lab models loose on them, giving AI agents internet access and other resources to work autonomously for days. The models spent several days on each problem without making much headway. Still, it’s easy to imagine OpenAI or Anthropic attempting to one-shot them with significantly more compute or a newer model.\n“It’s not particularly a concern to us whether we find it, or someone else finds it, or a professor finds it, or the frontier labs find it,” Sridhar said. “The reason we’re putting out these challenges is because we want them to serve as the goalposts. If you go and solve these challenges, we are deepening our understanding of materials and how things around us behave.” \nTracking efforts to solve the problems will show “whether the models are climbing in this domain,” he added.\nThe challenge also reflects the changing nature of scientific inquiry as AI proves capable of uncovering insights and techniques human researchers didn’t anticipate. With solutions apparently easier to find than ever, the questions become more important. \n“This is a new way of thinking about science, where we come up with the verification and the challenges first, and then we let somebody come up with the ideas that explain the problem,” Sridhar said. “Knowing what are the right questions to ask is not trivial and very difficult in this domain, so this is where the professors have really helped us shape what are the right questions we should be asking.”\nDiscovered Materials’ main focus is developing new materials for use in semiconductors; the startup partners with chip giants on research projects while also funding its own scientific efforts. When the company announced its seed round in August, Sridhar told TechCrunch that he hoped the company would generate a useful material within a year. \n“Those timelines have accelerated a little bit,” he says today. “I’m more confident now that we will be able to find these industrially useful materials in a timeline shorter than a year.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tTim Fernholz is a journalist who writes about technology, finance and public policy. He has closely covered the rise of the private space industry and is the author of  Rocket Billionaires: Elon Musk, Jeff Bezos and the New Space Race. Formerly, he was a senior reporter at Quartz, the global business news site, for more than a decade, and began his career as a political reporter in Washington, D.C. \nYou can contact or verify outreach from Tim by emailing [email protected] or via an encrypted message to tim_fernholz.21 on Signal.\r\n\t\n\n\n\tView Bio \n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/08/discoverd-materials.jpg?w=150"
+      ],
+      "datePublished": "2026-11-05T13:00:00.000Z",
+      "dateModified": "2026-11-05T13:00:00.000Z",
       "author": [
         {
           "@type": "Person",
