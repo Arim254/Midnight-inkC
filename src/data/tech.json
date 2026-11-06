@@ -1,30 +1,5 @@
 [
   {
-    "title": "Bluesky hit peak usage for the year on election night",
-    "url": "https://techcrunch.com/2026/11/05/bluesky-hit-peak-usage-for-the-year-on-election-night/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/bluesky-GettyImages-2185144073.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-11-05T15:44:58.000Z",
-    "description": "\nIn Brief\nPosted:\n7:44 AM PST · November 5, 2026\n\nImage Credits:Matteo Della Torre/NurPhoto (opens in a new window) / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t",
-    "body": "\nIn Brief\nPosted:\n7:44 AM PST · November 5, 2026\n\nImage Credits:Matteo Della Torre/NurPhoto (opens in a new window) / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nThe blue wave swept Bluesky on Tuesday night as the microblogging platform recorded its highest daily number of posts, replies, and likes in 2026.\n“We’re seeing a wave of new people joining and old friends coming back,” Bluesky CEO Toni Schneider posted.\nAccording to Schneider, posts and likes doubled during the U.S. midterm elections on Tuesday.\nCOO Rose Wang told TechCrunch that usage began to peak between 8 p.m. to 10 p.m. PT, when many election results were rolling in. Daily posts and likes increased 30% and 70%, respectively, compared to the previous 30-day averages; clicks on links also spiked 20%.\nAccording to open source data, Bluesky reached 44 million likes, 4.8 million posts, and 2 million new follows on November 4. This nearly eclipsed Bluesky’s all-time record 45 million likes in a single day, set in November 2024.\nThis jump was especially visible in Bluesky’s data traffic, which was 200% higher than usual, reaching up to 35.8 GB/s. \nBluesky is — sometimes snidely — referred to as “Twitter for the left,” given that its user base seems to skew that way politically. This isn’t a coincidence; Bluesky’s most concentrated period of user growth occurred after Donald Trump won the 2024 presidential election, so it makes sense that those users would post actively during a night of overwhelming victories for the Democratic party.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Social\n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Bluesky hit peak usage for the year on election night",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/01/bluesky-GettyImages-2185144073.jpg?w=150"
-      ],
-      "datePublished": "2026-11-05T15:44:58.000Z",
-      "dateModified": "2026-11-05T15:44:58.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
     "title": "Harbinger raises $240M after expanding into defense",
     "url": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/11/Harbinger-Newsroom-Thumbnail-260610.jpeg?w=150",
@@ -50,22 +25,22 @@
     }
   },
   {
-    "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
-    "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-1178603809.jpg?w=150",
+    "title": "Bluesky hit peak usage for the year on election night",
+    "url": "https://techcrunch.com/2026/11/05/bluesky-hit-peak-usage-for-the-year-on-election-night/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/bluesky-GettyImages-2185144073.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-11-05T14:00:00.000Z",
-    "description": "\nAt its developer conference on Thursday, Box showed off a new feature that will build Nvidia’s Nemotron embedding system into the core of its product",
-    "body": "\nAt its developer conference on Thursday, Box showed off a new feature that will build Nvidia’s Nemotron embedding system into the core of its product. \nCalled Box Content Retrieval, the new feature allows agents to answer queries far more effectively by relying on the embedded metadata created by Nemotron. \nBox says the upshot for users is faster, more accurate, and less expensive queries. Nvidia’s VP of generative AI software, Kari Briski, told TechCrunch that she expects queries to be answered four times faster, with 20% fewer errors and 90% fewer tokens used.\nThe system will be available to all of Box’s Enterprise Advance customers, rolling out early next year.\n“This dramatically boosts both the relevance of our search technology for agents,” Box CEO Aaron Levie said. “Instead of an agent having to kind of read through each document, we can send back chunks from the documents that are most relevant to the user’s query or whatever the task is that the agent is doing.”\nThe feature is an implementation of Nvidia’s Nemotron Embed project, which offers open-weight embedding models to improve automated retrieval systems. Major labs have often overlooked such models, which use LLMs to pre-process data so it can be better used by agents. The sector has been a focus for Nvidia’s open source model project, with its recent Nemotron release in July topping the RTEB benchmark, which measures retrieval quality.\nThe system will be most useful when paired with active agents, Box says, giving the example of lawyers, who will ostensibly be able to find relevant clauses and precedents more easily under the new system. Because Nemotron’s embeddings go beyond simple keywords to map underlying concepts, a search tool can surface related legal themes even when different wording or language is used.\nWhile the Nemotron models are freely available, the system also relies heavily on Box’s pre-existing metadata and permission controls, which will make it challenging to recreate from scratch. “We’re probably packing in five different technologies into one simple API,” Levie told TechCrunch.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tRussell Brandom has been covering the tech industry since 2012, with a focus on platform policy and emerging technologies. He previously worked at The Verge and Rest of World, and has written for Wired, The Awl and MIT’s Technology Review.\r\n He can be reached at [email protected] or on Signal at 412-401-5489.\t\n\n\n\tView Bio \n\n",
+    "date": "2026-11-05T15:44:58.000Z",
+    "description": "\nIn Brief\nPosted:\n7:44 AM PST · November 5, 2026\n\nImage Credits:Matteo Della Torre/NurPhoto (opens in a new window) / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t",
+    "body": "\nIn Brief\nPosted:\n7:44 AM PST · November 5, 2026\n\nImage Credits:Matteo Della Torre/NurPhoto (opens in a new window) / Getty Images\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\nThe blue wave swept Bluesky on Tuesday night as the microblogging platform recorded its highest daily number of posts, replies, and likes in 2026.\n“We’re seeing a wave of new people joining and old friends coming back,” Bluesky CEO Toni Schneider posted.\nAccording to Schneider, posts and likes doubled during the U.S. midterm elections on Tuesday.\nCOO Rose Wang told TechCrunch that usage began to peak between 8 p.m. to 10 p.m. PT, when many election results were rolling in. Daily posts and likes increased 30% and 70%, respectively, compared to the previous 30-day averages; clicks on links also spiked 20%.\nAccording to open source data, Bluesky reached 44 million likes, 4.8 million posts, and 2 million new follows on November 4. This nearly eclipsed Bluesky’s all-time record 45 million likes in a single day, set in November 2024.\nThis jump was especially visible in Bluesky’s data traffic, which was 200% higher than usual, reaching up to 35.8 GB/s. \nBluesky is — sometimes snidely — referred to as “Twitter for the left,” given that its user base seems to skew that way politically. This isn’t a coincidence; Bluesky’s most concentrated period of user growth occurred after Donald Trump won the 2024 presidential election, so it makes sense that those users would post actively during a night of overwhelming victories for the Democratic party.\n\n\n\tTopics\n\n\n\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\n\nLatest in Social\n\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+      "headline": "Bluesky hit peak usage for the year on election night",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-1178603809.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/01/bluesky-GettyImages-2185144073.jpg?w=150"
       ],
-      "datePublished": "2026-11-05T14:00:00.000Z",
-      "dateModified": "2026-11-05T14:00:00.000Z",
+      "datePublished": "2026-11-05T15:44:58.000Z",
+      "dateModified": "2026-11-05T15:44:58.000Z",
       "author": [
         {
           "@type": "Person",
@@ -75,72 +50,22 @@
     }
   },
   {
-    "title": "Meta says US users can now video chat with their Muse AI avatar",
-    "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=150",
+    "title": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
+    "url": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2198481572_7937f4.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-11-05T19:48:28.000Z",
-    "description": "\nMuse Voice, a feature that lets users call and video chat with Meta’s consumer AI agent, Muse, is now available to everyone in the U.S., the company ",
-    "body": "\nMuse Voice, a feature that lets users call and video chat with Meta’s consumer AI agent, Muse, is now available to everyone in the U.S., the company announced on Thursday.\nFirst introduced at Meta’s Connect developer conference in September, the video-chatting feature involves new AI models, Muse Realtime Avatar and Muse Realtime Voice technology, which help power the digital avatar that chats with the user.\nWhile other AI competitors offer voice chat features, Meta’s Muse offers a cute, animated avatar (nicknamed Jolly), which users interact with as they ask questions or request tasks to be handled on their behalf. Users can also customize the avatar as they choose, changing it to something that looks more like a person, animal, or some other character.\nThe company believes that anthropomorphizing Muse in this way could make consumers feel more connected to their AI agent — a connection that could grow even stronger as they begin to engage in live conversations with it.\nAs the Muse avatar speaks, Meta says it will use “subtle expressions and gestures” that match the tone of the conversation. (Muse doesn’t actually “see” the user, but it hears them and reacts based on their conversations.) \nThe news of the rollout was announced via blog post and on X by Meta’s chief AI officer, Alexandr Wang, who shared a demo of his Muse in action. The video saw Wang joking around, referencing his love of posting memes on X, which he told his Muse may have gotten him in trouble with his boss. His Muse, a fluffy white dog, responds with a suggestion to add disclaimers to those memes that could be misinterpreted as Meta endorsing anything risqué. (Ha!)\nThe added support for video chats and calls comes just before Meta’s plan to launch a Tamagotchi-like wearable device for its Muse AI agent before year-end. When the device arrives, the digital avatar will appear on its small screen, letting users talk to the agent, which can then reply or carry out tasks for them.\nMeta says the real-time conversations are supported on mobile, web, and Mac and will later come to its AI Glasses and the upcoming “Muse Charm” hardware device.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing [email protected] or via encrypted message at sarahperez.01 on Signal. \t\n\n\tView Bio \n\n",
+    "date": "2026-11-06T00:07:18.000Z",
+    "description": "\nThe New York Times Company has reportedly “entered exclusive negotiations” to acquire Letterboxd for $330 million, according to a report from The New",
+    "body": "\nThe New York Times Company has reportedly “entered exclusive negotiations” to acquire Letterboxd for $330 million, according to a report from The New York Times itself.\nLetterboxd, an online platform for movie lovers that could be compared to Goodreads for movies, has grown dramatically in recent years. Letterboxd reported 3 million users in January 2021, a figure that grew to 28 million by April of this year. More than half of its users are under 35.\nLetterboxd was previously reported to be seeking a new owner. According to the Times, film studios A24 and Sony were interested in the acquisition, but A24 was priced out.\nLetterboxd is free, but users can access advanced features with a paid subscription. Its projected earnings for this year are estimated at $15 million, which is only about 4.5% of what the Times is supposedly offering to buy the company for.\nThe New York Times Company declined to comment on the acquisition to its own paper (lol). Personally, we wouldn’t be surprised if these anonymous tips were coming from inside the house, so we’re inclined to take this report pretty seriously.\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Meta says US users can now video chat with their Muse AI avatar",
+      "headline": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2198481572_7937f4.jpg?w=150"
       ],
-      "datePublished": "2026-11-05T19:48:28.000Z",
-      "dateModified": "2026-11-05T19:48:28.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "TikTok quietly launches a stand-alone TikTok Shop app",
-    "url": "https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/tiktok-shop-app.png?w=150",
-    "tag": "Tech",
-    "date": "2026-11-05T15:33:58.000Z",
-    "description": "\nTikTok has quietly launched a stand-alone TikTok Shop app in select markets as it continues to expand its e-commerce ambitions. The app will offer pe",
-    "body": "\nTikTok has quietly launched a stand-alone TikTok Shop app in select markets as it continues to expand its e-commerce ambitions. The app will offer personalized product recommendations, the ability to shop through livestreams and short-form videos, app-exclusive deals, in-app checkout, order tracking, and customer support.\nThe app, which was first spotted by social media consultant Matt Navarra, is available in Singapore, Malaysia, Thailand, and the Philippines on iOS and Android.\nThe launch of a stand-alone app gives TikTok Shop a chance to reach shoppers beyond the main TikTok platform and compete more directly with established e-commerce apps like Amazon and Temu. It also suggests that TikTok is prepared to invest more heavily in social commerce by giving Shop its own dedicated destination rather than simply keeping it within the main app.\nTikTok did not respond to TechCrunch’s request for comment regarding the rollout. \nIt’s unknown whether TikTok plans to release the app more widely and bring it to the United States. If TikTok does bring the app to the U.S., it would be competing not only with Amazon and Temu but also with big-box retailers like Walmart and Target, whose customers have grown accustomed to routinely ordering through the stores’ apps.\nAccording to the app’s description, users will be able to access free shipping offers and exclusive first-order benefits, along with “secure payments for safe checkout.” By offering users app-exclusive deals, the company is incentivizing them to shop in the app rather than the main TikTok app.\nInterestingly, the launch creates something of a full-circle moment in the rivalry between TikTok and Amazon. While Amazon previously introduced a TikTok-like short-form video feed called Inspire to draw consumers’ attention away from apps like TikTok and drive sales on its platform instead, TikTok is now making a similar play in reverse. With its new stand-alone commerce app, TikTok is looking to draw consumers away from platforms like Amazon and fuel more purchases within its own ecosystem.\nThe launch marks another step in TikTok’s efforts to branch out beyond social media. Although the company was once primarily focused on social networking and entertainment, TikTok has gradually ventured into new areas.\nBeyond TikTok Shop, the company has added games, restaurant guides, sports hubs, hotel booking, and microdramas, and is also exploring payments.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing [email protected] or via encrypted message at aisha_malik.01 on Signal.\t\n\n\tView Bio \n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "TikTok quietly launches a stand-alone TikTok Shop app",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/11/tiktok-shop-app.png?w=150"
-      ],
-      "datePublished": "2026-11-05T15:33:58.000Z",
-      "dateModified": "2026-11-05T15:33:58.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "ElevenLabs now lets users publish AI-generated music directly on SoundCloud",
-    "url": "https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/ElevenMusicxSoundcloud.jpg?w=150",
-    "tag": "Tech",
-    "date": "2026-11-05T15:00:00.000Z",
-    "description": "\nAudio AI company ElevenLabs on Thursday said users will be able to publish AI-generated music created using its ElevenMusic platform directly on Soun",
-    "body": "\nAudio AI company ElevenLabs on Thursday said users will be able to publish AI-generated music created using its ElevenMusic platform directly on SoundCloud.\nElevenLabs is also offering SoundCloud Artist Pro users three months of ElevenMusic Pro, which lets you generate up to 1,000 songs, split songs’ stem files 500 times, and five custom styles or vocals per month.\nThe company first released a music-generation model in 2025, and followed it up in April 2026 with a consumer app that lets you generate songs using prompts. Then a month later, it released a new music model that could switch genres mid-track and handle more complex vocals. ElevenLabs said that users have so far created over 25 million tracks using its models.\nSoundCloud has also been giving AI tools to artists, though it’s taking a different approach. Last month, it partnered with AI music tooling company Moises to let artists export and import songs to and from SoundCloud. The company also has integrations with other platforms like Google Flow Music and the music remix platform, Hook.\n“SoundCloud has always been a place where artists experiment, push boundaries, and turn creative ideas into something bigger. By becoming the first platform to bring ElevenMusic creations directly to fans beyond its own ecosystem, we’re opening up new possibilities for artists to experiment, share their work, and build an audience,” SoundCloud CEO Eliah Seton said in a statement. \nElevenLabs also has a partnership with Spotify in which authors can use its audio models to generate narrations for their audiobooks and publish them on the music streaming service. While Spotify has signed partnerships with labels for products that let people use AI for remixing tracks, it has not yet announced any model partners like ElevenLabs.\nOverall, though, music streaming platforms today seem more inclined toward labeling and helping users filter out AI-generated music, especially as the tech slowly grows popular with musicians. Deezer, for example, is introducing a toggle that lets you filter out AI music completely, while Bandcamp has put a blanket ban on AI-generated tracks. Spotify and YouTube have taken a more cautious approach to labeling tracks.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing [email protected] or via encrypted message at ivan.42 on Signal.\t\n\n\tView Bio \n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "ElevenLabs now lets users publish AI-generated music directly on SoundCloud",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/11/ElevenMusicxSoundcloud.jpg?w=150"
-      ],
-      "datePublished": "2026-11-05T15:00:00.000Z",
-      "dateModified": "2026-11-05T15:00:00.000Z",
+      "datePublished": "2026-11-06T00:07:18.000Z",
+      "dateModified": "2026-11-06T00:07:18.000Z",
       "author": [
         {
           "@type": "Person",
@@ -175,22 +100,22 @@
     }
   },
   {
-    "title": "Food delivery startup Wonder files for IPO as it explores its next big bite",
-    "url": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/wonder.jpg?w=150",
+    "title": "Meta says US users can now video chat with their Muse AI avatar",
+    "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-11-05T17:11:48.000Z",
-    "description": "\nFood delivery startup Wonder is moving closer to becoming a publicly traded company after confidentially filing for an initial public offering (IPO).",
-    "body": "\nFood delivery startup Wonder is moving closer to becoming a publicly traded company after confidentially filing for an initial public offering (IPO). The company announced the filing on Thursday, marking a major milestone following years of fundraising, acquisitions, and expansion.\nWonder has yet to reveal how many shares it plans to make available or the expected price range.\nFounded in 2018 by entrepreneur Marc Lore, Wonder has evolved from a food delivery concept into a broader food technology business. Its model goes beyond traditional delivery apps, with the company operating food hall-style locations where customers can order meals from multiple restaurant brands through a single platform. The company handles everything from meal preparation to delivery, pickup, and dine-in service.\nLore, who previously founded Jet.com and Diapers.com, has made no secret of his plans to take Wonder public. Those ambitions gained further attention in July, when the company announced it had raised more than $650 million in a funding round that valued it at around $9 billion. Investors include Accel, GV, AllianceBernstein, and ARK Invest.\nMeanwhile, Wonder has been busy expanding its footprint and strengthening its business through acquisitions. The company has outlined ambitious growth plans, including a major push into Texas, where it aims to open more than 100 locations by the end of 2027.\nAdditionally, Wonder has acquired meal-kit company Blue Apron, restaurant delivery platform Grubhub, media company Tastemade, and kitchen robotics company Spyce. The latter acquisition gives Wonder access to automation technology that could help streamline food preparation and improve how food is served. \nWonder is also branching out with Wonder Create, its platform focused on letting food entrepreneurs and social media influencers develop new food concepts, restaurant brands, and menu items. The platform leverages AI to design and launch restaurant brands in less than a minute.\nAnother notable move is its $425 million partnership with DoorDash to expand its campus dining business, which operates at 450 colleges and universities and other locations.\nDespite its growth, a move into the public markets will bring new challenges. Wonder is operating in an increasingly competitive food delivery landscape, going up against established names such as DoorDash and Uber Eats.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tLauren covers media, streaming, apps and platforms at TechCrunch.\nYou can contact or verify outreach from Lauren by emailing [email protected] or via encrypted message at laurenforris22.25 on Signal.\t\n\n\tView Bio \n\n",
+    "date": "2026-11-05T19:48:28.000Z",
+    "description": "\nMuse Voice, a feature that lets users call and video chat with Meta’s consumer AI agent, Muse, is now available to everyone in the U.S., the company ",
+    "body": "\nMuse Voice, a feature that lets users call and video chat with Meta’s consumer AI agent, Muse, is now available to everyone in the U.S., the company announced on Thursday.\nFirst introduced at Meta’s Connect developer conference in September, the video-chatting feature involves new AI models, Muse Realtime Avatar and Muse Realtime Voice technology, which help power the digital avatar that chats with the user.\nWhile other AI competitors offer voice chat features, Meta’s Muse offers a cute, animated avatar (nicknamed Jolly), which users interact with as they ask questions or request tasks to be handled on their behalf. Users can also customize the avatar as they choose, changing it to something that looks more like a person, animal, or some other character.\nThe company believes that anthropomorphizing Muse in this way could make consumers feel more connected to their AI agent — a connection that could grow even stronger as they begin to engage in live conversations with it.\nAs the Muse avatar speaks, Meta says it will use “subtle expressions and gestures” that match the tone of the conversation. (Muse doesn’t actually “see” the user, but it hears them and reacts based on their conversations.) \nThe news of the rollout was announced via blog post and on X by Meta’s chief AI officer, Alexandr Wang, who shared a demo of his Muse in action. The video saw Wang joking around, referencing his love of posting memes on X, which he told his Muse may have gotten him in trouble with his boss. His Muse, a fluffy white dog, responds with a suggestion to add disclaimers to those memes that could be misinterpreted as Meta endorsing anything risqué. (Ha!)\nThe added support for video chats and calls comes just before Meta’s plan to launch a Tamagotchi-like wearable device for its Muse AI agent before year-end. When the device arrives, the digital avatar will appear on its small screen, letting users talk to the agent, which can then reply or carry out tasks for them.\nMeta says the real-time conversations are supported on mobile, web, and Mac and will later come to its AI Glasses and the upcoming “Muse Charm” hardware device.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing [email protected] or via encrypted message at sarahperez.01 on Signal. \t\n\n\tView Bio \n\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Food delivery startup Wonder files for IPO as it explores its next big bite",
+      "headline": "Meta says US users can now video chat with their Muse AI avatar",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/09/wonder.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=150"
       ],
-      "datePublished": "2026-11-05T17:11:48.000Z",
-      "dateModified": "2026-11-05T17:11:48.000Z",
+      "datePublished": "2026-11-05T19:48:28.000Z",
+      "dateModified": "2026-11-05T19:48:28.000Z",
       "author": [
         {
           "@type": "Person",
@@ -200,22 +125,22 @@
     }
   },
   {
-    "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-    "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-    "image": "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1211180751.jpg?w=150",
+    "title": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
+    "url": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/09/Zipline-Package-Drop.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-11-05T15:19:05.000Z",
-    "description": "\nDropbox is making a big push into AI infrastructure with a $350 million acquisition of cloud technology company Tigris Data, marking what appears to ",
-    "body": "\nDropbox is making a big push into AI infrastructure with a $350 million acquisition of cloud technology company Tigris Data, marking what appears to be its largest acquisition to date.\nAnnounced Thursday, the deal is expected to strengthen Dropbox’s AI infrastructure capabilities and support the development of DBX Agent Cloud, a new storage platform aimed at businesses and developers building AI models and agents.\nDropbox told TechCrunch via email that the transaction is expected to close in the fourth quarter of 2026. The company also said it currently has no plans to reduce headcount as part of the acquisition. The company already cut 9% of its global workforce last month, WSJ reported. \nDBX Agent Cloud will initially offer object storage as a stand-alone product, allowing businesses to purchase storage independently and use it with existing tools and applications built for Amazon S3 (Simple Storage Service), which is a cloud storage service that enables businesses to store and retrieve large volumes of data.\nBeyond its infrastructure ambitions, Dropbox is also bringing more AI capabilities to its core product. Users will be able to ask AI to perform supported tasks using their files, choose between different AI models, and connect their Dropbox content to third-party tools, including ChatGPT, Claude, and Muse.\nThe company also plans to expand DBX Agent Cloud with additional capabilities designed to help AI systems work with different types of content, including documents, images, audio, and video. Other planned additions include filesystem features that will allow AI agents to manage files and maintain continuity across tasks and sessions.\nDropbox says the updated experience has already reached more than 70,000 teams. The initial rollout is available to eligible Standard and Advanced customers in the U.S., U.K., and Australia, with broader availability planned for 2027.\nTigris Data was founded by former Uber engineers who helped develop the ride-hailing company’s storage infrastructure. The company provides cloud storage technology that helps businesses store and access data across different regions. Its platform automatically positions data closer to the users and computing resources that need it, helping reduce access times and improve performance. \nTigris Data raised $25 million in a Series A funding round last year.\nWhile the Tigris deal appears to be Dropbox’s largest acquisition, it is not the company’s first move to expand its AI capabilities through M&A. Dropbox has previously acquired several AI-focused companies, including Reclaim.ai, Promoted.ai, and Mobius Labs.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tLauren covers media, streaming, apps and platforms at TechCrunch.\nYou can contact or verify outreach from Lauren by emailing [email protected] or via encrypted message at laurenforris22.25 on Signal.\t\n\n\tView Bio \n\n",
+    "date": "2026-11-05T15:40:34.000Z",
+    "description": "\nZipline has raised $1.5 billion and ramped up its partnership with Walmart, a pair of deals that have raised the autonomous drone delivery and logist",
+    "body": "\nZipline has raised $1.5 billion and ramped up its partnership with Walmart, a pair of deals that have raised the autonomous drone delivery and logistics startup’s profile and valuation.\nZipline and Walmart reached a new multi-year agreement to add 300 drone delivery sites across the United States. The two companies have had a drone delivery agreement since 2021, but this deal is a significant jump from the 21 active drone delivery sites they have together today.\nOn the fundraising side, Zipline’s $1.5 billion raise was led by Paradigm, WCM Investment Management, and Layer Global, with participation from Valor Equity Partners, Fidelity Management & Research Company, Uber, Tiger Global, J.P. Morgan, ARK Invest, and Salesforce Ventures. Zipline is now valued at $21.5 billion.\nThe company, which has developed a drone delivery ecosystem that includes aircraft, launch and landing systems, and logistics software,  said it plans to use the funds to expand its U.S. manufacturing facilities and hire more workers to build out a nationwide drone delivery network. \nFounded in 2014, Zipline got its start in Africa, where it used its autonomous drones to deliver blood in Rwanda, and later expanded to Ghana and Nigeria. The California-based company began its first operations in the U.S. in 2020, ferrying medical equipment and supplies to Novant Health in North Carolina. The following year, it struck a deal with Walmart.\nBut it was in 2022 that Zipline’s business really started to take off in the United States. Zipline received its Part 135 air carrier certification from the Federal Aviation Administration that year, a critical regulatory hurdle that authorized the company to complete long-range commercial drone deliveries. It has locked in a number of partnerships since then, including with Uber earlier this year.  \nZipline now uses its drones to deliver food, retail, agricultural, and health products in five African countries, several cities in the United States, and Japan. Zipline’s home delivery service uses Zipline’s Platform 2 drones, which are designed to carry up to eight pounds and travel to customers within a 10-mile radius. Its larger Platform 1 drones are used for long-range deliveries for enterprise, business, and government that can cover 120 miles round trip. \nThe company said Thursday that its share of delivery revenue grew from 10.8% to 34.9% between March and October of this year. This latest funding aims to push that metric even higher. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tKirsten Korosec is a reporter and editor who has covered the future of transportation from EVs and autonomous vehicles to urban air mobility and in-car tech for more than a decade. She is currently the transportation editor at TechCrunch and co-host of TechCrunch’s Equity podcast. She is also co-founder and co-host of the podcast, “The Autonocast.” She previously wrote for Fortune, The Verge, Bloomberg, MIT Technology Review and CBS Interactive.\nYou can contact or verify outreach from Kirsten by emailing [email protected] or via encrypted message at kkorosec.07 on Signal.\t\n\n\tView Bio \n\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+      "headline": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1211180751.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2022/09/Zipline-Package-Drop.jpg?w=150"
       ],
-      "datePublished": "2026-11-05T15:19:05.000Z",
-      "dateModified": "2026-11-05T15:19:05.000Z",
+      "datePublished": "2026-11-05T15:40:34.000Z",
+      "dateModified": "2026-11-05T15:40:34.000Z",
       "author": [
         {
           "@type": "Person",
@@ -250,6 +175,106 @@
     }
   },
   {
+    "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+    "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/05/Airbnb-Summer-feat.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-11-05T22:40:55.000Z",
+    "description": "\nAirbnb has teased its plans to build its own AI travel agent before, but on Thursday the company announced that the new AI feature will launch in the",
+    "body": "\nAirbnb has teased its plans to build its own AI travel agent before, but on Thursday the company announced that the new AI feature will launch in the first half of 2027. In the company’s Q3 shareholder letter on Thursday, Airbnb also provided more detail about how the agent will work, what it will actually do, and how it’s different from a typical AI chatbot.\nIn prior interviews, CEO Brian Chesky sketched out the travel company’s approach to AI, describing a plan to build an AI agent that has a richer interface than a conventional chatbot. He also expressed his opinions about how chatbots aren’t the right interface for travel, noting that people take pleasure in the planning process and in anticipating a trip. Any agent that it built, then, shouldn’t take away from the inspiration and the browsing, he told TechCrunch in an interview last month.\nChesky today reiterated that belief, telling analysts on the earnings call that people won’t use one AI agent for everything.\n“Today’s AI agents like Muse and Instinct are good at simple routine tasks like making a restaurant reservation or scheduling an appointment. But planning a trip is different,” he said. “Travel is aspirational. Discovering where to go and where to stay is part of the experience. In fact, 80% of travelers say they enjoy spending time researching trips. People want to look at photos. They want to compare homes. They want to make decisions with people they’re traveling with,” he continued. “And I don’t think the general-purpose agents are the best to do that. So that is why we are building our own AI agent,” Chesky said. \nAirbnb described its agent as having a personalized interface that’s designed specifically for travel, where it will “build an interface” around a user’s question instead of simply responding as a chatbot would. \n“What we are doing is developing a custom-designed AI-native experience that responds to what guests are looking for,” Chesky said. “So instead of relying on traditional chat alone, which is very text-heavy — which, again, is definitely not the way you should plan travel, our agent draws from a library of hundreds of travel-specific interface components — maps, photos, comparisons, calendars, itineraries — and composes them in real time to match what they’re looking for.”\nThe exec said the agent will feel “a little bit like generative UI” as it’s designed to offer up “the right interface at the right time” for someone’s specific travel needs.\nIn its shareholder letter, the company touted that its nearly 20 years of experience in bringing hosts and guests together is informing how the agent is built, as it incorporates insights about how people both book and host on its platform. The agent will also be able to help travelers beyond the booking itself. \n“Our agent will be able to help guests throughout their trip — from changing a reservation or resolving a payment issue to getting help with refunds, rebooking, or 24-hour safety support. These are things an outside agent can’t easily do on its own,” the company wrote.\nOver time, Airbnb expects the agent will be able to help travelers with other aspects of their trip, including not only homes and hotels, but also services and experiences. Services and experiences are two areas that have become a bigger focus for the company following its redesign last year.\nWhile the company previously said to expect its AI agent sometime in the next year, it’s now more specifically committing to roll out the new technology to consumers in the first half of 2027.  \nThe news of the agent’s release was delivered alongside strong third-quarter earnings, with revenue growing 19% to $4.87 billion, topping Wall Street estimates. It also raised its 2026 revenue growth forecast, which it now predicts will be in the high teens, instead of the mid-teens.\n“Airbnb is back in growth mode,” Chesky told analysts on the Q3 earnings call on Thursday. “It’s rare for a marketplace of our size to reaccelerate growth, but that’s exactly what we’re doing. Q3 was our fastest revenue growth in more than three years,” he added. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing [email protected] or via encrypted message at sarahperez.01 on Signal. \t\n\n\tView Bio \n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2025/05/Airbnb-Summer-feat.jpg?w=150"
+      ],
+      "datePublished": "2026-11-05T22:40:55.000Z",
+      "dateModified": "2026-11-05T22:40:55.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "ElevenLabs now lets users publish AI-generated music directly on SoundCloud",
+    "url": "https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/ElevenMusicxSoundcloud.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-11-05T15:00:00.000Z",
+    "description": "\nAudio AI company ElevenLabs on Thursday said users will be able to publish AI-generated music created using its ElevenMusic platform directly on Soun",
+    "body": "\nAudio AI company ElevenLabs on Thursday said users will be able to publish AI-generated music created using its ElevenMusic platform directly on SoundCloud.\nElevenLabs is also offering SoundCloud Artist Pro users three months of ElevenMusic Pro, which lets you generate up to 1,000 songs, split songs’ stem files 500 times, and five custom styles or vocals per month.\nThe company first released a music-generation model in 2025, and followed it up in April 2026 with a consumer app that lets you generate songs using prompts. Then a month later, it released a new music model that could switch genres mid-track and handle more complex vocals. ElevenLabs said that users have so far created over 25 million tracks using its models.\nSoundCloud has also been giving AI tools to artists, though it’s taking a different approach. Last month, it partnered with AI music tooling company Moises to let artists export and import songs to and from SoundCloud. The company also has integrations with other platforms like Google Flow Music and the music remix platform, Hook.\n“SoundCloud has always been a place where artists experiment, push boundaries, and turn creative ideas into something bigger. By becoming the first platform to bring ElevenMusic creations directly to fans beyond its own ecosystem, we’re opening up new possibilities for artists to experiment, share their work, and build an audience,” SoundCloud CEO Eliah Seton said in a statement. \nElevenLabs also has a partnership with Spotify in which authors can use its audio models to generate narrations for their audiobooks and publish them on the music streaming service. While Spotify has signed partnerships with labels for products that let people use AI for remixing tracks, it has not yet announced any model partners like ElevenLabs.\nOverall, though, music streaming platforms today seem more inclined toward labeling and helping users filter out AI-generated music, especially as the tech slowly grows popular with musicians. Deezer, for example, is introducing a toggle that lets you filter out AI music completely, while Bandcamp has put a blanket ban on AI-generated tracks. Spotify and YouTube have taken a more cautious approach to labeling tracks.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing [email protected] or via encrypted message at ivan.42 on Signal.\t\n\n\tView Bio \n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "ElevenLabs now lets users publish AI-generated music directly on SoundCloud",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/11/ElevenMusicxSoundcloud.jpg?w=150"
+      ],
+      "datePublished": "2026-11-05T15:00:00.000Z",
+      "dateModified": "2026-11-05T15:00:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Serve Robotics launches new business to become the AWS for robots",
+    "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/08/Serve_robot_05.jpg?w=150",
+    "tag": "Tech",
+    "date": "2026-11-05T21:15:00.000Z",
+    "description": "\nServe Robotics, a maker of self-driving sidewalk delivery robots, is expanding beyond its autonomous delivery operations in a bid to become a technol",
+    "body": "\nServe Robotics, a maker of self-driving sidewalk delivery robots, is expanding beyond its autonomous delivery operations in a bid to become a technology supplier to other companies building robots.\nThe company, which spun out of Uber’s acquisition of Postmates in 2021 and went public in 2024, said Thursday it will launch a new business line called Physical AI Services.\nSpecifically, Serve Robotics will offer customers its connectivity and data tools. Bedrock Robotics, a startup developing self-driving systems for construction equipment, is a customer, according to Serve. It’s also working with T-Mobile to bring AI computing power closer to robots, Serve announced alongside its third-quarter earnings on Thursday.\n“We are solving the problem of robots in human spaces,” Serve Robotics CEO and co-founder Ali Kashani told TechCrunch.\nServe Robotics already makes two kinds of robots, the cute googly-eyed sidewalk delivery robot and one designed for hospitals that it got through its acquisition of Diligent Robotics.\nThose businesses are not going away, Kashani emphasized in a recent interview. Instead, he said there is opportunity to sell the technology it developed for its own robots to other companies developing robots for farms, warehouses, and other uncontrolled environments. \n“I kind of think of it as the AWS moment where we are taking the technology we’ve built for us, and we’re opening it up for more people to build on,” he said, adding this wouldn’t have been possible without developing its own robot fleet.\nThe expansion comes as Serve’s sidewalk delivery business expands, but is shifting away from Uber and toward other partners, including DoorDash and Wonder.\nIts new Physical AI Services business line will offer three products. Serve Link helps connect robots in the field to AI systems running in data centers, which would allow companies to potentially tap into more powerful AI models without having to put all that computing power onboard.\n“Any robotic application generally needs to connect the robots to some offline intelligence, whether it’s to collect data or do exception handling or whatever,” said Kashani. “It’s the connectivity piece that has to be really high performance. You need to be able to manage really unreliable networks and still reliably connect, and that’s what we solve.”\nIt’s also launching a data curator tool that helps companies find edge cases in the reams of real-world data a robot collects, which can then be fed back into a training model to improve performance. Its third product is a real-world, foundation-model data catalog built from Serve’s own sidewalk robots that can teach AI models how to understand complex human environments.\nKashani said he’s been thinking about this idea — a playbook he learned from Amazon — for years. \n“When the technology is so nascent, you have got to build the end-to-end application because that’s the only way you know what to build, but then over time, as the technology gets more advanced, a lot more people are going to be wanting to build similar things,” he said. “And what you want to do is to open your technology so others build with you and on your platform.”\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tKirsten Korosec is a reporter and editor who has covered the future of transportation from EVs and autonomous vehicles to urban air mobility and in-car tech for more than a decade. She is currently the transportation editor at TechCrunch and co-host of TechCrunch’s Equity podcast. She is also co-founder and co-host of the podcast, “The Autonocast.” She previously wrote for Fortune, The Verge, Bloomberg, MIT Technology Review and CBS Interactive.\nYou can contact or verify outreach from Kirsten by emailing [email protected] or via encrypted message at kkorosec.07 on Signal.\t\n\n\tView Bio \n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Serve Robotics launches new business to become the AWS for robots",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2023/08/Serve_robot_05.jpg?w=150"
+      ],
+      "datePublished": "2026-11-05T21:15:00.000Z",
+      "dateModified": "2026-11-05T21:15:00.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
+    "title": "TikTok quietly launches a stand-alone TikTok Shop app",
+    "url": "https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/tiktok-shop-app.png?w=150",
+    "tag": "Tech",
+    "date": "2026-11-05T15:33:58.000Z",
+    "description": "\nTikTok has quietly launched a stand-alone TikTok Shop app in select markets as it continues to expand its e-commerce ambitions. The app will offer pe",
+    "body": "\nTikTok has quietly launched a stand-alone TikTok Shop app in select markets as it continues to expand its e-commerce ambitions. The app will offer personalized product recommendations, the ability to shop through livestreams and short-form videos, app-exclusive deals, in-app checkout, order tracking, and customer support.\nThe app, which was first spotted by social media consultant Matt Navarra, is available in Singapore, Malaysia, Thailand, and the Philippines on iOS and Android.\nThe launch of a stand-alone app gives TikTok Shop a chance to reach shoppers beyond the main TikTok platform and compete more directly with established e-commerce apps like Amazon and Temu. It also suggests that TikTok is prepared to invest more heavily in social commerce by giving Shop its own dedicated destination rather than simply keeping it within the main app.\nTikTok did not respond to TechCrunch’s request for comment regarding the rollout. \nIt’s unknown whether TikTok plans to release the app more widely and bring it to the United States. If TikTok does bring the app to the U.S., it would be competing not only with Amazon and Temu but also with big-box retailers like Walmart and Target, whose customers have grown accustomed to routinely ordering through the stores’ apps.\nAccording to the app’s description, users will be able to access free shipping offers and exclusive first-order benefits, along with “secure payments for safe checkout.” By offering users app-exclusive deals, the company is incentivizing them to shop in the app rather than the main TikTok app.\nInterestingly, the launch creates something of a full-circle moment in the rivalry between TikTok and Amazon. While Amazon previously introduced a TikTok-like short-form video feed called Inspire to draw consumers’ attention away from apps like TikTok and drive sales on its platform instead, TikTok is now making a similar play in reverse. With its new stand-alone commerce app, TikTok is looking to draw consumers away from platforms like Amazon and fuel more purchases within its own ecosystem.\nThe launch marks another step in TikTok’s efforts to branch out beyond social media. Although the company was once primarily focused on social networking and entertainment, TikTok has gradually ventured into new areas.\nBeyond TikTok Shop, the company has added games, restaurant guides, sports hubs, hotel booking, and microdramas, and is also exploring payments.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing [email protected] or via encrypted message at aisha_malik.01 on Signal.\t\n\n\tView Bio \n\n",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "TikTok quietly launches a stand-alone TikTok Shop app",
+      "image": [
+        "https://techcrunch.com/wp-content/uploads/2026/11/tiktok-shop-app.png?w=150"
+      ],
+      "datePublished": "2026-11-05T15:33:58.000Z",
+      "dateModified": "2026-11-05T15:33:58.000Z",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Midnight Ink Staff"
+        }
+      ]
+    }
+  },
+  {
     "title": "Claude can now analyze your spending with its new Personal Finance tool",
     "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/11/Claude-Personal-Finance-2.png?w=150",
@@ -266,31 +291,6 @@
       ],
       "datePublished": "2026-11-05T18:00:00.000Z",
       "dateModified": "2026-11-05T18:00:00.000Z",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Midnight Ink Staff"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
-    "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Aina-Ring-Hands-e1793880492134.jpeg?w=150",
-    "tag": "Tech",
-    "date": "2026-11-05T14:42:00.000Z",
-    "description": "\nHardware startup Aina released a smart ring today that features a screen, a joystick, and a mic so that you can talk to your agents and take notes. T",
-    "body": "\nHardware startup Aina released a smart ring today that features a screen, a joystick, and a mic so that you can talk to your agents and take notes. The $399 ring has a speaker so you can take calls using it as well.\nThe startup, which raised $5.5 million in July, is positioning the ring as a controller of sorts for both AI and non-AI apps. \nThe company previously made Mirage, a three-key controller that let you invoke buttons based on the app on your Mac’s screen. For instance, if you were on a Google Meet call, you could map keys to camera on/off, mic mute/unmute, or to leave the meeting.\nAina has baked in lessons from that device to create the new ring, which it’s simply calling “AI ring.” Using its mic, you can take notes, send a prompt to agents, set reminders, and dictate notes on your Mac using Wispr Flow or the startup’s own dictation engine. \nImage Credits:Aina\nNow, there are already smart rings in the market that do similar things, like the Pebble Index 01, Sandbar Stream, Oasis, and Natura, which is probably why Aina has added more controls and functionality to stand out. Its ring comes with a speaker so that you can take calls, and there is a screen, which lets you see notifications from your phone or which apps you are controlling.\nFor navigation, there is a joystick, and it also supports gestures, so that it can trigger different actions based on what’s on your Mac or phone’s screen. The ring also lets you control music or even smart home devices like Apple TV.\nI have used the ring for a few days, and it feels like a smartwatch in a ring format, with more controls. I can get notifications and reply to them. It surfaces my meetings; I can call Uber if I want to get a ride home.\nIt’s easier to use Apple TV’s remote itself, but the Aina ring proved useful the couple times I couldn’t find the remote. Granted, a lot of the software and features are still being fleshed out, so it’s hard to figure out where such a device ring might sit in my daily usage, but it is squarely aimed at folks who are surrounded by digital devices and AI applications.\nImage Credits:Aina\n“Phones and laptop screens were designed for an age of browsing where you think about opening apps. For interacting with proactive agents, we need a better interface, and that is what we had in mind while designing Aina,” Apoorv Shankar, Aina’s founder, told TechCrunch over a call.\nCompanies are trying to cater to programmers and AI enthusiasts with specialized hardware that could help them harness different agents. This includes OpenAI’s experimental keyboard and Rabbit trying to position itself as a controller. The hope with such hardware is that enough people will have multiple agents running to invest in specific gadgets to keep tabs on them.\nAina’s ring goes on preorder starting Thursday at early-bird pricing of $399, and the company plans to start shipping the device in January 2027. Once the early-bird period ends, the ring will cost $499.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\r\nYou can contact or verify outreach from Ivan by emailing [email protected] or via encrypted message at ivan.42 on Signal.\t\n\n\tView Bio \n\n",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
-      "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/11/Aina-Ring-Hands-e1793880492134.jpeg?w=150"
-      ],
-      "datePublished": "2026-11-05T14:42:00.000Z",
-      "dateModified": "2026-11-05T14:42:00.000Z",
       "author": [
         {
           "@type": "Person",
@@ -325,22 +325,22 @@
     }
   },
   {
-    "title": "US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers",
-    "url": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/freezer-hacks-2299339780.jpg?w=150",
+    "title": "OpenAI released a new cybersecurity model. Is that enough?",
+    "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/openai-daybreak.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-11-05T18:48:34.000Z",
-    "description": "\nThe U.S. government is warning of an “ongoing cyber threat” facing industrial refrigeration units, after reports of cyberattacks targeting freezers a",
-    "body": "\nThe U.S. government is warning of an “ongoing cyber threat” facing industrial refrigeration units, after reports of cyberattacks targeting freezers and fridges in supermarkets around the world, U.S. military bases, and at least one blood bank.\nU.S. cybersecurity agency CISA, the FBI, and several other federal government departments warned in a joint statement on Thursday that hackers are targeting and compromising internet-connected refrigeration and cold chain monitoring systems in grocery stores and cold storage facilities. The statement said that the hacks are hitting critical infrastructure, such as the food, agriculture, transportation, and medicine-shipping industries.\n“If successfully exploited, the actors could change the temperature and possibly cause physical impacts such as fire hazards, loss of inventory and changes to the service life of the system,” the agencies warn.\nThe warning comes after several waves of cyberattacks targeting industrial refrigeration units across the United Kingdom and Europe in recent weeks. Two separate waves of attacks allowed hackers to crank up the temperature on freezers and chilling units in at least a dozen countries, spoiling defrosted food and destroying produce. Some of the affected systems included remote-controlled refrigeration units made by Danish company Danfoss, which had stopped providing security updates to its customers’ freezers.\nHackers also targeted a blood bank in France, causing its refrigerated units to boost temperatures in its cold units containing donated blood supplies — but were stopped before the attack could compromise blood stores. The U.S. Department of Defense is investigating a spate of hacks targeting freezers run by the military, according to Reuters. The hacks were first reported by Signal and Silence.\nThe U.S. has not attributed the hacks to a particular group or government, but security researchers have broadly attributed the attacks to Iran; U.S. officials also reportedly suspect Iran is the likely culprit.\nCISA, the FBI, and the Departments of Agriculture, Health and Human Services, and Transportation urged affected industries to remove remote control systems from the internet, change and strengthen passwords, apply patches where possible, and retire equipment that’s no longer supported by the vendor.\nIn a separate fact sheet, the departments said that hackers may attempt to “force units into continuous heating and defrost cycles, which can cause widespread inventory loss and equipment hazards.”\n“Every organization that depends on refrigeration and monitoring systems should assume it could be a target,” said CISA’s acting cybersecurity chief Chris Butera.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tZack Whittaker is the security editor at TechCrunch. He also authors the weekly cybersecurity newsletter, this week in security. \nHe can be reached via encrypted message at zackwhittaker.1337 on Signal. You can also contact him by email, or to verify outreach, at [email protected]. \t\n\n\tView Bio \n\n",
+    "date": "2026-11-05T19:06:12.000Z",
+    "description": "\nMax Justicz, the chief technology officer and co-founder of the startup Charge Robotics, used an OpenAI model to find a severe vulnerability that — i",
+    "body": "\nMax Justicz, the chief technology officer and co-founder of the startup Charge Robotics, used an OpenAI model to find a severe vulnerability that — if exploited — could allow hackers to take control of servers running Ubuntu, a widely used open source Linux-based operating system.\nJusticz, who has a hobbyist’s interest in cybersecurity and previously found a vulnerability in the same codebase, told TechCrunch that he found this issue using GPT 5.6 Sol, released in July, through the AI maker’s Daybreak Blue, a program that gives cybersecurity defenders access to powerful frontier models.\n“I literally just aimed ChatGPT at the same body of code and said ‘I found this bug previously that was fixed several years ago, please find bugs as bad or worse,’ and it came back in two hours with this,” Justicz said. “It’s extremely convoluted and hard for a human to find, but it works!”\nHe reported the issue to the Debian Project, which maintains the software in question and issued a patch to fix the vulnerability. There has been no known evidence of exploitation. Still, the ease with which he found it suggests that we’ve only seen the tip of the iceberg when it comes to potential exploits that even novice hackers can utilize with the help of AI models.\n“I can only imagine what one could do with more time and access to less neutered models. We should expect some extremely crazy bugs to be found and exploited over the next few months,” Justicz wrote in a social media thread discussing his finding. “This might be obvious to most folks here, but there is currently huge alpha in taking some code or binary someone has not audited yet and just aiming a powerful AI model at it.”\nOpenAI appears to have noticed. Today, the AI giant announced a new model focused on cybersecurity, ChatGPT Cyber, would be made available to the highest tier of users in the cybersecurity program, Daybreak Red, which allows offensive cybersecurity researchers tools for vulnerability hunting and development. Yesterday, OpenAI said that the same model had been used to scan and prepare patches for vulnerabilities in the Linux kernel, finding 948 potential issues. OpenAI also found 81 “novel” vulnerabilities in Firefox, the web browser.\n“Our goal is to dramatically expand Daybreak, bringing advanced security research to organizations of every size, independent researchers, and open-source maintainers,” the frontier lab said in a statement. \nOpenAI has insisted that there is a narrow window of time for the people who safeguard digital infrastructure to take action before AI models become even better at hacking and easier to access. For cyber defenders, however, it can feel like the frontier labs have unleashed a mountain of new work that outstrips their resources. Justicz said that he personally spent about $5,000 on subscriptions and tokens to find several exploits. \nBesides Daybreak’s model access, OpenAI has also announced a $1 billion initiative to support cybersecurity professionals in the program who work on critical infrastructure like the electrical grid or water systems.\nThe Daybreak program has its own critiques. Justicz notes that the frontier lab appears to have recently “nerfed” Daybreak Blue to make it less useful at finding vulnerabilities. On one hand, it may be good to limit access from potential bad actors — Justicz said he just uploaded a photo of his driver’s license to join the program. On the other, cybersecurity professionals say they have one hand tied if they can’t use frontier technology while bad actors can deploy open-weight models with abliterated guardrails.\nStill, OpenAI says just “thousands” of cybersecurity professionals are participating in the Daybreak program, versus a far larger number of potential hackers. \nIt’s unclear if frontier labs are devoting enough of their resources to this issue. Eric Wallace, a researcher on OpenAI’s technical staff, said that “we are now allocating a significant amount of our frontier compute towards discovering and patching vulnerabilities in open source codebases, fully pro bono.”\nBut the Linux bug hunt cost $1.2 million, which is significantly less than the approximate $6 million token spend the company invested in finding a potential solution to a famous problem of fluid dynamics. \nIf there is a narrow window of time to patch the digital infrastructure the world depends on, more urgency may be required.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\n\t\tTim Fernholz is a journalist who writes about technology, finance and public policy. He has closely covered the rise of the private space industry and is the author of  Rocket Billionaires: Elon Musk, Jeff Bezos and the New Space Race. Formerly, he was a senior reporter at Quartz, the global business news site, for more than a decade, and began his career as a political reporter in Washington, D.C. \nYou can contact or verify outreach from Tim by emailing [email protected] or via an encrypted message to tim_fernholz.21 on Signal.\r\n\t\n\n\n\tView Bio \n\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers",
+      "headline": "OpenAI released a new cybersecurity model. Is that enough?",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2026/11/freezer-hacks-2299339780.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2026/08/openai-daybreak.jpg?w=150"
       ],
-      "datePublished": "2026-11-05T18:48:34.000Z",
-      "dateModified": "2026-11-05T18:48:34.000Z",
+      "datePublished": "2026-11-05T19:06:12.000Z",
+      "dateModified": "2026-11-05T19:06:12.000Z",
       "author": [
         {
           "@type": "Person",
@@ -350,22 +350,22 @@
     }
   },
   {
-    "title": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
-    "url": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/09/Zipline-Package-Drop.jpg?w=150",
+    "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+    "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+    "image": "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1211180751.jpg?w=150",
     "tag": "Tech",
-    "date": "2026-11-05T15:40:34.000Z",
-    "description": "\nZipline has raised $1.5 billion and ramped up its partnership with Walmart, a pair of deals that have raised the autonomous drone delivery and logist",
-    "body": "\nZipline has raised $1.5 billion and ramped up its partnership with Walmart, a pair of deals that have raised the autonomous drone delivery and logistics startup’s profile and valuation.\nZipline and Walmart reached a new multi-year agreement to add 300 drone delivery sites across the United States. The two companies have had a drone delivery agreement since 2021, but this deal is a significant jump from the 21 active drone delivery sites they have together today.\nOn the fundraising side, Zipline’s $1.5 billion raise was led by Paradigm, WCM Investment Management, and Layer Global, with participation from Valor Equity Partners, Fidelity Management & Research Company, Uber, Tiger Global, J.P. Morgan, ARK Invest, and Salesforce Ventures. Zipline is now valued at $21.5 billion.\nThe company, which has developed a drone delivery ecosystem that includes aircraft, launch and landing systems, and logistics software,  said it plans to use the funds to expand its U.S. manufacturing facilities and hire more workers to build out a nationwide drone delivery network. \nFounded in 2014, Zipline got its start in Africa, where it used its autonomous drones to deliver blood in Rwanda, and later expanded to Ghana and Nigeria. The California-based company began its first operations in the U.S. in 2020, ferrying medical equipment and supplies to Novant Health in North Carolina. The following year, it struck a deal with Walmart.\nBut it was in 2022 that Zipline’s business really started to take off in the United States. Zipline received its Part 135 air carrier certification from the Federal Aviation Administration that year, a critical regulatory hurdle that authorized the company to complete long-range commercial drone deliveries. It has locked in a number of partnerships since then, including with Uber earlier this year.  \nZipline now uses its drones to deliver food, retail, agricultural, and health products in five African countries, several cities in the United States, and Japan. Zipline’s home delivery service uses Zipline’s Platform 2 drones, which are designed to carry up to eight pounds and travel to customers within a 10-mile radius. Its larger Platform 1 drones are used for long-range deliveries for enterprise, business, and government that can cover 120 miles round trip. \nThe company said Thursday that its share of delivery revenue grew from 10.8% to 34.9% between March and October of this year. This latest funding aims to push that metric even higher. \nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tKirsten Korosec is a reporter and editor who has covered the future of transportation from EVs and autonomous vehicles to urban air mobility and in-car tech for more than a decade. She is currently the transportation editor at TechCrunch and co-host of TechCrunch’s Equity podcast. She is also co-founder and co-host of the podcast, “The Autonocast.” She previously wrote for Fortune, The Verge, Bloomberg, MIT Technology Review and CBS Interactive.\nYou can contact or verify outreach from Kirsten by emailing [email protected] or via encrypted message at kkorosec.07 on Signal.\t\n\n\tView Bio \n\n",
+    "date": "2026-11-05T15:19:05.000Z",
+    "description": "\nDropbox is making a big push into AI infrastructure with a $350 million acquisition of cloud technology company Tigris Data, marking what appears to ",
+    "body": "\nDropbox is making a big push into AI infrastructure with a $350 million acquisition of cloud technology company Tigris Data, marking what appears to be its largest acquisition to date.\nAnnounced Thursday, the deal is expected to strengthen Dropbox’s AI infrastructure capabilities and support the development of DBX Agent Cloud, a new storage platform aimed at businesses and developers building AI models and agents.\nDropbox told TechCrunch via email that the transaction is expected to close in the fourth quarter of 2026. The company also said it currently has no plans to reduce headcount as part of the acquisition. The company already cut 9% of its global workforce last month, WSJ reported. \nDBX Agent Cloud will initially offer object storage as a stand-alone product, allowing businesses to purchase storage independently and use it with existing tools and applications built for Amazon S3 (Simple Storage Service), which is a cloud storage service that enables businesses to store and retrieve large volumes of data.\nBeyond its infrastructure ambitions, Dropbox is also bringing more AI capabilities to its core product. Users will be able to ask AI to perform supported tasks using their files, choose between different AI models, and connect their Dropbox content to third-party tools, including ChatGPT, Claude, and Muse.\nThe company also plans to expand DBX Agent Cloud with additional capabilities designed to help AI systems work with different types of content, including documents, images, audio, and video. Other planned additions include filesystem features that will allow AI agents to manage files and maintain continuity across tasks and sessions.\nDropbox says the updated experience has already reached more than 70,000 teams. The initial rollout is available to eligible Standard and Advanced customers in the U.S., U.K., and Australia, with broader availability planned for 2027.\nTigris Data was founded by former Uber engineers who helped develop the ride-hailing company’s storage infrastructure. The company provides cloud storage technology that helps businesses store and access data across different regions. Its platform automatically positions data closer to the users and computing resources that need it, helping reduce access times and improve performance. \nTigris Data raised $25 million in a Series A funding round last year.\nWhile the Tigris deal appears to be Dropbox’s largest acquisition, it is not the company’s first move to expand its AI capabilities through M&A. Dropbox has previously acquired several AI-focused companies, including Reclaim.ai, Promoted.ai, and Mobius Labs.\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\n\t\tLauren covers media, streaming, apps and platforms at TechCrunch.\nYou can contact or verify outreach from Lauren by emailing [email protected] or via encrypted message at laurenforris22.25 on Signal.\t\n\n\tView Bio \n\n",
     "schema": {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
-      "headline": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
+      "headline": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
       "image": [
-        "https://techcrunch.com/wp-content/uploads/2022/09/Zipline-Package-Drop.jpg?w=150"
+        "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1211180751.jpg?w=150"
       ],
-      "datePublished": "2026-11-05T15:40:34.000Z",
-      "dateModified": "2026-11-05T15:40:34.000Z",
+      "datePublished": "2026-11-05T15:19:05.000Z",
+      "dateModified": "2026-11-05T15:19:05.000Z",
       "author": [
         {
           "@type": "Person",
